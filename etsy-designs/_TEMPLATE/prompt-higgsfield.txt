@@ -1,0 +1,15 @@
+SUBJECT:
+COMPOSITION:
+GRAPHIC STYLE:
+ILLUSTRATION STYLE:
+LIGHTING:
+TEXTURE:
+AGING / DISTRESSING:
+COLOR PALETTE:
+PRINT APPEARANCE:
+POSITIONING:
+BACKGROUND: clean / transparent
+NEGATIVE INSTRUCTIONS: no mockup, no t-shirt worn, no watermark, no text distortion
+TEXT: NO TEXT / NO LETTERING  ← quitar esta línea solo si el diseño no lleva texto y se ha evaluado que es seguro generarlo directamente
+
+Versión: v01
