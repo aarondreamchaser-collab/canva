@@ -29,19 +29,24 @@ GENERACIÓN → SELECCIÓN → EDICIÓN → ARCHIVO FINAL → MOCKUP → LISTING
 ## Estructura del repositorio
 
 ```
-/etsy-designs
-  /_TEMPLATE                  ← plantilla para cada diseño nuevo (copiar, no editar)
-  /<nombre-coleccion>
-    /01-<nombre-diseno>
-      concept.md               ← ficha completa del concepto (Fase 1-3)
-      prompt-higgsfield.txt     ← prompt final para Higgsfield (Fase 4)
-      artwork/                  ← salidas brutas de Higgsfield (v01, v02, ...)
-      canva/                    ← proyectos/exports intermedios de Canva
-      mockups/                  ← mockups de presentación
-      final/                    ← PNG final listo para producción (FINAL)
-      listing/                  ← listing.md con título, descripción, tags, precio
-    /02-<nombre-diseno>
-      ...
+/etsy-tshirt-brand
+  /brand
+    brand-guidelines.md         ← posicionamiento, estética, paleta, reglas de marca
+  /collections
+    /<nombre-coleccion>
+      research.md                ← Fase 1: investigación de mercado de la colección
+      concepts.md                ← Fase 3: conceptos ranqueados de la colección
+      /01-<nombre-diseno>
+        concept.md                ← ficha del concepto individual (Fase 1-3)
+        prompt-higgsfield.txt      ← prompt final para Higgsfield (Fase 4)
+        artwork/                   ← salidas brutas de Higgsfield (v01, v02, ...)
+        canva/                     ← proyectos/exports intermedios de Canva
+        mockups/                   ← mockups de presentación
+        final/                     ← PNG final listo para producción (FINAL)
+        listing/                   ← listing.md con título, descripción, tags, precio
+      /02-<nombre-diseno>
+        ...
+  /_TEMPLATE                   ← plantilla base para cada diseño nuevo (copiar, no editar)
 COLLECTIONS.md                  ← índice general de colecciones y estado de cada diseño
 ```
 
@@ -64,5 +69,9 @@ aprobada se marca como `FINAL`.
 
 ## Estado
 
-Repositorio inicializado. Aún no hay colecciones ni diseños en producción.
-Ver `COLLECTIONS.md` para el estado actual.
+Posicionamiento de marca confirmado: **Vintage Weird Animal Streetwear**
+(ver `/etsy-tshirt-brand/brand/brand-guidelines.md`). Primera colección en
+fase de conceptos: **Fall Animal Club**
+(ver `/etsy-tshirt-brand/collections/fall-animal-club/`). Aún no se ha
+generado artwork de producción. Ver `COLLECTIONS.md` para el estado
+detallado por diseño.
