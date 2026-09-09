@@ -3,6 +3,28 @@ Versión: v01
 Camiseta base: Comfort Colors 1717, color Pepper (negro desvanecido)
 
 ═══════════════════════════════════════════
+LOG DE GENERACIÓN — v01
+═══════════════════════════════════════════
+
+Generado vía conector WEBS/Higgsfield, modelo recraft_v4_1 (model_type:
+vector, colores forzados #B5502A/#EFE6D3/#2B2723, fondo transparente,
+resolución 2k).
+
+- Espalda variante A — job 19254b75-6743-4c2d-b69d-903573ea4409
+- Espalda variante B — job a0f77ea2-5ad1-43e9-bd58-a5bd13e5cea9
+- Insignia variante A — job 11f77a69-cc3c-4838-8655-397b598dc7c1
+- Insignia variante B — job 49b5f9f2-fa25-41a0-892d-ad485f7b6bf7
+
+NOTA: los archivos SVG resultantes se sirven desde un CDN al que este
+entorno de trabajo no tiene salida de red permitida, así que no se han
+podido descargar automáticamente a `artwork/`. Quedan visibles en el
+historial de generación de la cuenta WEBS/Higgsfield y en el widget de la
+conversación donde se generaron — descárgalos manualmente desde ahí y
+colócalos en esta carpeta como `back-v01-a.svg`, `back-v01-b.svg`,
+`badge-v01-a.svg`, `badge-v01-b.svg` (o los nombres de la variante
+elegida) para dejar constancia en el repositorio.
+
+═══════════════════════════════════════════
 PROMPT A — ILUSTRACIÓN DE ESPALDA (gráfico principal)
 ═══════════════════════════════════════════
 
