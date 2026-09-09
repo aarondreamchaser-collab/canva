@@ -1,5 +1,6 @@
-# Brand Guidelines — [Tienda] Vintage Weird Animal Streetwear
+# Brand Guidelines — PichyDesigns
 
+**Tienda Etsy:** [pichydesigns.etsy.com](https://pichydesigns.etsy.com) — creada 2026-09-09.
 **Estado:** Dirección confirmada tras investigación (ver `/collections/fall-animal-club/research.md`)
 **Fecha:** 2026-09-08
 

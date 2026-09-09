@@ -1,4 +1,6 @@
-# Etsy T-Shirt Brand — Sistema de Dirección Creativa
+# PichyDesigns — Sistema de Dirección Creativa
+
+Tienda Etsy: [pichydesigns.etsy.com](https://pichydesigns.etsy.com)
 
 Este repositorio es el centro de producción de la tienda de camisetas en Etsy.
 Aquí vive el proceso completo: **IDEA → CONCEPTO → DIRECCIÓN ARTÍSTICA → PROMPT →

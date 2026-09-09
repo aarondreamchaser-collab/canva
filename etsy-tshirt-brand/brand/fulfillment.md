@@ -103,6 +103,11 @@ elemento gráfico.
 
 ### Integración con Etsy
 
+**Tienda ya creada:** [pichydesigns.etsy.com](https://pichydesigns.etsy.com)
+("PichyDesigns"). Pendiente en el panel de Etsy: logotipo y banner de
+tienda (checklist "Personaliza tu tienda", 1/5 completado — solo el
+nombre está hecho).
+
 1. En Printify → "Manage my stores" → "Add new store" → Etsy → autorizar
    OAuth (~3 min).
 2. **Declarar a Printify como "production partner" en Etsy Shop
