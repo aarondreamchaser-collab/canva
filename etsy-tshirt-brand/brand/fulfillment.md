@@ -114,6 +114,31 @@ elemento gráfico.
    enruta al print provider correspondiente → el tracking vuelve a Etsy
    y marca el pedido como enviado.
 
+### Branding propio en Printify (etiqueta y packaging)
+
+**Sí es posible personalizar, con límites reales:**
+
+- **Etiqueta interior impresa (neck label):** sustituye la etiqueta de
+  composición por una con logo propio, impresa (no cosida). Desde $0.55
+  ($0.37 con Printify Premium, -33%). Solo camisetas/sudaderas.
+- **Inserto de packaging:** tarjeta física dentro de la bolsa del pedido
+  con logo/mensaje de marca. Desde $0.25 ($0.15 con Premium). Es la pieza
+  de marca con más impacto real (el cliente la ve al abrir el paquete).
+- **No existe** personalización de la etiqueta de tela cosida — solo la
+  alternativa impresa.
+- Solo una opción de etiqueta a la vez (interior O exterior).
+- **Restricción clave para nuestra marca:** la etiqueta **exterior** no se
+  puede combinar con estampado de espalda — y todos nuestros diseños
+  llevan gráfico grande en la espalda. Usar siempre **etiqueta interior**,
+  nunca exterior.
+- Composición, talla, país de origen y cuidado son obligatorios por ley y
+  los fija Printify — no se pueden sustituir.
+
+**Recomendación:** etiqueta interior con logo (barata, no interfiere con
+el back print) + inserto de packaging para el mensaje de marca real.
+Activar Printify Premium en cuanto haya ventas regulares — el ahorro en
+ambos conceptos se amortiza rápido.
+
 ### Pendiente antes de publicar el primer diseño
 
 - Elegir el print provider concreto dentro de Printify para Comfort
