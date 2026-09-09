@@ -45,18 +45,43 @@ Printify tiene en catálogo exactamente los blanks que pide
 `brand-guidelines.md` (heavyweight, garment-dyed, oversized), cubiertos
 por su "Quality Promise":
 
-- **Comfort Colors® 1717** — heavyweight, garment-dyed, algodón ring-spun
-  100% pre-encogido. Es nuestro blank base para el corte "clásico
-  vintage" (front+back estándar).
-- **Comfort Colors® 6030 (pocket tee)** — misma calidad, versión con
-  bolsillo; opción de variante para diseños con logo de pecho pequeño.
-- **"Build Your Brand" Heavy Oversize Tee** — para los diseños que pidan
-  el corte boxy/oversized más marcado (ver `concept.md` de cada diseño,
-  campo "Tipo de camiseta").
+### Blank estándar de la colección: Comfort Colors® 1717
 
-Colores de blank a priorizar según nuestra paleta: arena/sand, musgo,
-negro descolorido ("faded black" / "pepper"), azul denim, crema — nunca
-blanco puro ni tonos saturados.
+**Decisión cerrada:** Comfort Colors® 1717 es el blank por defecto de TODA
+la colección, salvo excepción justificada por diseño concreto.
+
+Motivo: es exactamente el tejido garment-dyed heavyweight que pide
+`brand-guidelines.md`, con 61 colores reales (no solo camiseta blanca +
+tintado digital), precio base ~$12.41 ($10.72 con Printify Premium), y es
+el blank que el propio mercado (ver `research.md`) ya asocia con calidad
+vintage — jugamos con ventaja de reconocimiento.
+
+**Corte oversized sin cambiar de blank:** el 1717 tiene un corte
+relajado/clásico, no un boxy fit exagerado. Para lograr el efecto
+oversized que pide el brief sin perder el tacto garment-dyed, se indica en
+el listing pedir una talla por encima de la habitual ("oversized fit —
+pide tu talla habitual para un ajuste relajado, una talla menos para
+ajustado").
+
+**Mapa color de marca → color real de Comfort Colors 1717:**
+
+| Color de marca (`brand-guidelines.md`) | Color Comfort Colors 1717 |
+|---|---|
+| Crema/hueso | Ivory |
+| Mostaza / naranja óxido | Sandstone |
+| Verde bosque desvanecido | Moss |
+| Azul marino descolorido | Blue Jean |
+| Negro desvanecido | Pepper |
+| Rojo ladrillo | Brick |
+
+**Excepción admitida:** "Build Your Brand" Heavy Oversize Tee (hombro
+caído, corte boxy real) para algún diseño puntual que necesite ese corte
+específico y donde la gama de color más limitada no sea un problema — se
+evalúa caso a caso, no es el estándar.
+
+**Comfort Colors® 6030 (pocket tee):** misma calidad que el 1717, versión
+con bolsillo; opción de variante si algún diseño usa el bolsillo como
+elemento gráfico.
 
 ### Integración con Etsy
 

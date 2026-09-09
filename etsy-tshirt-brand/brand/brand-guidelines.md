@@ -54,6 +54,15 @@ Tintas apagadas, máximo 2-3 colores por diseño (estilo serigrafía real):
 Camisetas base recomendadas: arena, musgo, negro desvanecido, azul denim,
 crema — nunca blanco puro ni colores saturados/neón.
 
+## Blank oficial y color del proveedor
+
+**Comfort Colors® 1717 (Printify)** es el blank estándar de toda la
+colección (heavyweight, garment-dyed, 61 colores). Detalle de decisión y
+mapa completo color de marca → color real del proveedor en
+`fulfillment.md`. Al describir el "tipo de camiseta" de un concepto, usar
+siempre el nombre real del color de Comfort Colors (Ivory, Sandstone,
+Moss, Blue Jean, Pepper, Brick), no solo el nombre genérico de marca.
+
 ## Estilo de ilustración
 
 - Ilustración de mascota/insignia vintage: línea limpia, una o dos tintas
