@@ -51,10 +51,28 @@ por su "Quality Promise":
 la colección, salvo excepción justificada por diseño concreto.
 
 Motivo: es exactamente el tejido garment-dyed heavyweight que pide
-`brand-guidelines.md`, con 61 colores reales (no solo camiseta blanca +
-tintado digital), precio base ~$12.41 ($10.72 con Printify Premium), y es
-el blank que el propio mercado (ver `research.md`) ya asocia con calidad
-vintage — jugamos con ventaja de reconocimiento.
+`brand-guidelines.md`, con 63 colores reales (no solo camiseta blanca +
+tintado digital), y es el blank que el propio mercado (ver `research.md`)
+ya asocia con calidad vintage — jugamos con ventaja de reconocimiento.
+Además, ya estaba en la lista de favoritos de la cuenta Printify del
+proyecto, lo que confirma la elección de forma independiente.
+
+**Datos reales de la cuenta Printify (confirmados en catálogo, no
+estimados):**
+
+- Precio base: USD 12,65 (USD 10,93 con Printify Premium)
+- 7 tamaños, 63 colores
+- **10 proveedores de impresión** disponibles — margen para comparar
+  tiempos de producción entre proveedores sin cambiar de blank si alguno
+  da problemas de plazo o calidad.
+
+**Otras opciones descartadas de la lista de favoritos** (Bella+Canvas
+3001, Next Level 6210/3600, Gildan 2000/64000/5000, Jerzees 29M, A4
+Sprint): todas son tejidos ligeros/suaves "modernos", deportivos, o
+algodón grueso sin teñido en prenda — ninguna da el tacto garment-dyed
+descolorido que es nuestro diferenciador de marca, y Gildan 5000 en
+particular es el blank más genérico de todo el mercado POD (cero
+diferenciación).
 
 **Corte oversized sin cambiar de blank:** el 1717 tiene un corte
 relajado/clásico, no un boxy fit exagerado. Para lograr el efecto
