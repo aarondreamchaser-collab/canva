@@ -17,14 +17,14 @@ investigación). Ver `/etsy-tshirt-brand/brand/brand-guidelines.md`.
 
 - **Nicho:** animales raros/mascota con estética Americana vintage
   (workwear, insignias de parque, ligas retro).
-- **Estado de colección:** `concepto` — 20 diseños definidos y ranqueados,
-  ninguno aún seleccionado para producción de artwork.
+- **Estado de colección:** `prompt` — Design #1 con dirección artística y
+  prompt Higgsfield listos; resto en `concepto`.
 - **Documentos:** `research.md`, `concepts.md` en
   `/etsy-tshirt-brand/collections/fall-animal-club/`.
-- **Recomendación de arranque:** Design #1 — Night Shift Raccoon
-  (ver `concepts.md`).
+- **En producción:** Design #1 — Night Shift Raccoon
+  (`01-night-shift-raccoon/`) — pendiente de generar artwork en Higgsfield.
 - **Diseños (20):**
-  1. Night Shift Raccoon — mapache — `concepto`
+  1. Night Shift Raccoon — mapache — `prompt`
   2. Ranger Bear Outfitters — oso — `concepto`
   3. Bandit Bowling League — mapache — `concepto`
   4. Backyard Cryptid — mapache — `concepto`
