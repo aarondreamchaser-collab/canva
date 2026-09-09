@@ -6,25 +6,30 @@ termine un diseño.
 Leyenda de estado: `idea` → `concepto` → `prompt` → `generado` → `seleccionado`
 → `edición canva` → `control calidad` → `mockups` → `listing` → `PUBLICADO`
 
-## Marca
+## Marca / sistema de producción
 
-**Posicionamiento:** Vintage Weird Animal Streetwear (confirmado tras
-investigación). Ver `/etsy-tshirt-brand/brand/brand-guidelines.md`.
+Común a todas las colecciones, independientemente del posicionamiento:
+Printify + Comfort Colors 1717 + ilustración vectorial de insignia (ver
+`/etsy-tshirt-brand/brand/fulfillment.md`).
 
-## Colecciones activas
+## Colecciones en pausa
 
-### Fall Animal Club
+### Fall Animal Club — `en pausa`
+
+Posicionamiento: Vintage Weird Animal Streetwear (ver
+`/etsy-tshirt-brand/brand/brand-guidelines.md`). No descartada, solo en
+pausa mientras se explora Tavern & Guild — todo el trabajo queda
+documentado y retomable.
 
 - **Nicho:** animales raros/mascota con estética Americana vintage
   (workwear, insignias de parque, ligas retro).
-- **Estado de colección:** `prompt` — Design #1 con dirección artística y
-  prompt Higgsfield listos; resto en `concepto`.
 - **Documentos:** `research.md`, `concepts.md` en
   `/etsy-tshirt-brand/collections/fall-animal-club/`.
-- **En producción:** Design #1 — Night Shift Raccoon
-  (`01-night-shift-raccoon/`) — pendiente de generar artwork en Higgsfield.
+- **Diseño más avanzado:** Design #1 — Night Shift Raccoon
+  (`01-night-shift-raccoon/`) — `generado`, 4 variantes v01 (2 espalda +
+  2 insignia) generadas y pendientes de selección/descarga a `artwork/`.
 - **Diseños (20):**
-  1. Night Shift Raccoon — mapache — `prompt`
+  1. Night Shift Raccoon — mapache — `generado`
   2. Ranger Bear Outfitters — oso — `concepto`
   3. Bandit Bowling League — mapache — `concepto`
   4. Backyard Cryptid — mapache — `concepto`
@@ -44,6 +49,21 @@ investigación). Ver `/etsy-tshirt-brand/brand/brand-guidelines.md`.
   18. Midnight Diner Cat — gato — `concepto`
   19. Frog Jug Band — rana — `concepto`
   20. Dumpster Gourmet — mapache — `concepto`
+
+## Colecciones activas
+
+### Tavern & Guild — `concepto`
+
+Posicionamiento: Fantasy Tabletop Guild Merch — insignias vintage de
+gremio de fantasía, mismo pipeline de producción que Fall Animal Club.
+
+- **⚠️ Regla obligatoria:** nunca usar "D&D"/"Dungeons & Dragons"/"Dungeon
+  Master" ni nombres de criaturas propias del juego en artwork, título o
+  tags — ver `research.md` para el detalle legal completo.
+- **Documentos:** `research.md`, `concepts.md` en
+  `/etsy-tshirt-brand/collections/tavern-and-guild/`.
+- **Estado:** 6 conceptos en fase de pitch, ninguno desarrollado a ficha
+  completa todavía — pendiente de que se elija cuál producir primero.
 
 ## Diseños sueltos (pre-colección)
 
