@@ -1,0 +1,3 @@
+# El núcleo no tiene dependencias (Python 3.10+).
+# Opcional, solo para datos reales / paper / live:
+ccxt>=4.0

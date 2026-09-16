@@ -1,0 +1,11 @@
+{
+  "risk": {
+    "risk_per_trade": 0.01,
+    "stop_atr_mult": 2.0,
+    "take_profit_atr_mult": 4.0,
+    "max_leverage": 1.0,
+    "max_drawdown": 0.20,
+    "max_daily_loss": 0.05,
+    "max_position_pct": 1.0
+  }
+}
