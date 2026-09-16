@@ -4,12 +4,13 @@ from __future__ import annotations
 import logging
 import time
 from dataclasses import dataclass
-from typing import Callable, List, Optional
+from typing import Callable, List, Optional, Type
 
 from .data import Candle
 from .indicators import atr
 from .risk import RiskConfig, RiskManager
 from .strategies import Strategy
+from .walkforward import best_params
 
 log = logging.getLogger("tradingbot")
 
@@ -22,9 +23,14 @@ class Bot:
     fetch: Callable[[], List[Candle]]   # devuelve el historial reciente de velas
     poll_seconds: int = 60
     atr_period: int = 14
+    reoptimize_every: int = 0          # velas entre reoptimizaciones (0 = nunca)
+    reoptimize_window: int = 600       # velas de historial usadas para reoptimizar
+    fee: float = 0.001
+    slippage: float = 0.0005
 
     def __post_init__(self) -> None:
         self.rm = RiskManager(self.risk)
+        self.bars_since_reopt = 0
         self.peak = float(self.broker.equity)
         self.halted = False
         self.last_ts: Optional[int] = None
@@ -39,6 +45,7 @@ class Bot:
         if self.last_ts == c.ts:
             return
         self.last_ts = c.ts
+        self._maybe_reoptimize(candles)
         sig = self.strategy.signals(candles)[-1]
         a = atr(candles, self.atr_period)[-1]
         p = self.broker.position
@@ -85,6 +92,28 @@ class Bot:
                 tp = self.rm.take_profit_price(c.close, sig, a)
                 self.broker.open(sig, units, c.close, stop, tp)
                 log.info("Abre %s %.6f uds a %.4f | stop %.4f | tp %s", "LARGO" if sig == 1 else "CORTO", units, c.close, stop, tp)
+
+    def _maybe_reoptimize(self, candles: List[Candle]) -> None:
+        """Cada N velas vuelve a elegir parámetros con el historial reciente.
+
+        Solo cambia parámetros, nunca la lógica de la estrategia, y solo mientras no hay
+        posición abierta. Es la única forma de "aprender" que no se sobreajusta a diario.
+        """
+        if self.reoptimize_every <= 0:
+            return
+        self.bars_since_reopt += 1
+        if self.bars_since_reopt < self.reoptimize_every or self.broker.position.side != 0:
+            return
+        window = candles[-self.reoptimize_window:]
+        if len(window) < 200:
+            return
+        cls: Type[Strategy] = type(self.strategy)
+        if not cls.param_grid():
+            return
+        params = best_params(cls, window, self.risk, self.fee, self.slippage, float(self.broker.equity))
+        self.strategy = cls(**params)
+        self.bars_since_reopt = 0
+        log.info("Reoptimización: nuevos parámetros %s", params)
 
     def run_forever(self) -> None:
         log.info("Bot en marcha. Estrategia=%s equity=%.2f", self.strategy.name, float(self.broker.equity))

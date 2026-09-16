@@ -1,0 +1,11 @@
+{
+  "name": "bollinger_rebote",
+  "indicators": {
+    "bb": {"type": "bbands", "period": 20, "mult": 2.0}
+  },
+  "long_entry":  [["close", "<", "bb_lo"]],
+  "long_exit":   [["close", ">=", "bb_mid"]],
+  "short_entry": [["close", ">", "bb_up"]],
+  "short_exit":  [["close", "<=", "bb_mid"]],
+  "grid": {"bb.period": [14, 20, 30], "bb.mult": [1.5, 2.0, 2.5]}
+}

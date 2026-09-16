@@ -1,0 +1,12 @@
+{
+  "name": "rsi_pullback",
+  "indicators": {
+    "rsi14":  {"type": "rsi", "period": 14},
+    "sma100": {"type": "sma", "period": 100}
+  },
+  "long_entry":  [["rsi14", "<", 40], ["close", ">", "sma100"]],
+  "long_exit":   [["rsi14", ">", 60]],
+  "short_entry": [["rsi14", ">", 60], ["close", "<", "sma100"]],
+  "short_exit":  [["rsi14", "<", 40]],
+  "grid": {"rsi14.period": [10, 14, 21], "sma100.period": [100, 150, 200]}
+}

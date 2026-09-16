@@ -71,7 +71,7 @@ datos (CSV / exchange / sintéticos)
 cd trading-bot
 python -m pip install -e ".[dev]"     # tests
 python -m pip install ccxt            # solo para datos reales / paper / live
-python -m pytest                       # 16 tests
+python -m pytest                       # 25 tests
 ```
 
 Requiere Python 3.10 o superior.
@@ -100,6 +100,86 @@ Sin `--csv` ni `--exchange`, los comandos usan datos sintéticos con regímenes
 alternos. Sirven para comprobar que la maquinaria funciona, **no** para estimar
 rentabilidad: en datos aleatorios con comisiones las tres estrategias pierden
 dinero, como debe ser.
+
+## Verificar una estrategia en un solo comando
+
+```bash
+python -m tradingbot verify --csv data/btc.csv --strategy meanrev --equity 100
+python -m tradingbot verify --csv data/btc.csv --rules strategies/cruce_emas.json --equity 100
+```
+
+Ejecuta backtest, Monte Carlo (bootstrap de operaciones) y walk-forward, y
+comprueba ocho criterios mínimos: operaciones suficientes, profit factor,
+expectancy, drawdown, percentil 95 de drawdown, percentil 5 de resultado,
+ventanas fuera de muestra positivas y retorno fuera de muestra. Termina con
+código de salida 0 solo si supera todos. Superarlos no garantiza nada. No
+superarlos sí garantiza que no debes ponerle dinero.
+
+## Estrategias por reglas (sin programar)
+
+Puedes describir una estrategia en JSON y el bot la ejecuta, la optimiza y la
+verifica. Es la forma de probar ideas que veas en internet sin fiarte de lo
+que prometen. Ejemplos en `strategies/`:
+
+| Archivo | Idea |
+|---|---|
+| `rsi_pullback.json` | RSI bajo con precio sobre la SMA 100: compra el retroceso en tendencia |
+| `cruce_emas.json` | Cruce EMA 9/21 filtrado por SMA 200 |
+| `bollinger_rebote.json` | Compra bajo la banda inferior, vende en la media |
+
+Formato:
+
+```json
+{
+  "name": "mi_idea",
+  "indicators": {
+    "rsi14": {"type": "rsi", "period": 14},
+    "sma50": {"type": "sma", "period": 50},
+    "bb":    {"type": "bbands", "period": 20, "mult": 2.0}
+  },
+  "long_entry":  [["rsi14", "<", 30], ["close", ">", "sma50"]],
+  "long_exit":   [["rsi14", ">", 55]],
+  "short_entry": [["rsi14", ">", 70], ["close", "<", "sma50"]],
+  "short_exit":  [["rsi14", "<", 45]],
+  "grid": {"rsi14.period": [10, 14, 20], "sma50.period": [30, 50, 100]}
+}
+```
+
+Indicadores: `sma`, `ema`, `rsi`, `atr`, `bbands` (genera `nombre_mid`,
+`nombre_up`, `nombre_lo`). Operadores: `<`, `>`, `<=`, `>=`, `crosses_above`,
+`crosses_below`. Operandos: nombre de indicador, `open`/`high`/`low`/`close` o
+un número. Todas las condiciones de una lista deben cumplirse. `grid` define
+qué parámetros puede ajustar el walk-forward y la reoptimización.
+
+Cualquier comando acepta `--rules archivo.json` en lugar de `--strategy`.
+
+## Reoptimización automática ("aprender" sin engañarse)
+
+```bash
+python -m tradingbot paper --exchange kraken --symbol BTC/USD --equity 100 --reoptimize-every 168
+```
+
+Cada 168 velas (una semana en velas de 1 hora) el bot vuelve a elegir los
+parámetros de la estrategia con las últimas 600 velas, usando la misma
+puntuación robusta que el walk-forward (retorno penalizado por drawdown, mínimo
+10 operaciones). Solo cambia parámetros, nunca la lógica, y solo con la
+posición cerrada. Es la única forma de adaptación que no se convierte en
+sobreajuste diario. Con 100 € y 20-40 operaciones al mes no hay datos para
+nada más sofisticado: un modelo que "aprende" de 30 operaciones memoriza ruido.
+
+## Antes de pasar a dinero real
+
+```bash
+export TRADINGBOT_API_KEY=...      # clave SIN permiso de retirada
+export TRADINGBOT_API_SECRET=...
+python -m tradingbot check --exchange kraken --symbol BTC/USD
+```
+
+Comprueba conexión, saldo, tamaño mínimo de orden y si tus posiciones con el
+riesgo configurado superan ese mínimo. Con 100 € es frecuente que no lo hagan.
+El modo real ajusta cantidades a la precisión del exchange, descarta órdenes
+por debajo del mínimo e ignora señales cortas en spot. En paper, cada operación
+cerrada se añade a `trades.csv` junto al fichero de estado.
 
 ## Estrategias incluidas
 
@@ -150,10 +230,13 @@ trading-bot/
     backtest.py      motor + métricas
     walkforward.py   optimización con validación fuera de muestra
     goal.py          calculadora de objetivo + Monte Carlo
-    broker.py        PaperBroker, LiveBroker (bloqueado)
-    bot.py           bucle en vivo
-    cli.py           comandos
-  tests/             16 tests (indicadores, riesgo, backtest, walk-forward, objetivo)
+    rules.py         estrategias declarativas en JSON
+    montecarlo.py    bootstrap de operaciones (dispersión de drawdown y resultado)
+    broker.py        PaperBroker (con journal CSV), LiveBroker (bloqueado, con límites)
+    bot.py           bucle en vivo con reoptimización periódica
+    cli.py           comandos: backtest, walkforward, verify, goal, paper, check, download
+  strategies/        ejemplos de estrategias por reglas
+  tests/             25 tests
   config.example.json
 ```
 

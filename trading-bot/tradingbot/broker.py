@@ -1,12 +1,16 @@
 """Brokers: paper (simulado, por defecto) y live (ccxt, requiere confirmación explícita)."""
 from __future__ import annotations
 
+import csv
 import json
+import logging
 import os
 import time
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Optional
+
+log = logging.getLogger("tradingbot.broker")
 
 
 @dataclass
@@ -57,9 +61,22 @@ class PaperBroker:
         pnl = (px - p.entry) * p.units * p.side - px * p.units * self.fee
         self.equity += pnl
         self.log.append({"t": time.time(), "action": "close", "price": px, "pnl": pnl, "reason": reason})
+        self._journal(p, px, pnl, reason)
         self.position = Position()
         self._save()
         return pnl
+
+    def _journal(self, p: Position, exit_px: float, pnl: float, reason: str) -> None:
+        """Añade la operación cerrada a trades.csv junto al fichero de estado."""
+        if not self.state_path:
+            return
+        path = Path(self.state_path).with_name("trades.csv")
+        new = not path.exists()
+        with open(path, "a", newline="") as fh:
+            w = csv.writer(fh)
+            if new:
+                w.writerow(["closed_at", "side", "units", "entry", "exit", "pnl", "reason", "equity_after"])
+            w.writerow([int(time.time()), p.side, p.units, p.entry, exit_px, round(pnl, 6), reason, round(self.equity, 6)])
 
     def mark(self, price: float) -> float:
         p = self.position
@@ -78,9 +95,24 @@ class LiveBroker:
         import ccxt  # type: ignore
 
         self.ex = getattr(ccxt, exchange_id)({"apiKey": api_key, "secret": secret, "enableRateLimit": True})
+        self.ex.load_markets()
+        if symbol not in self.ex.markets:
+            raise ValueError(f"{symbol} no existe en {exchange_id}")
+        self.market = self.ex.markets[symbol]
         self.symbol = symbol
         self.fee = fee
         self.position = Position()
+
+    def _normalize(self, units: float, price: float) -> float:
+        """Ajusta la cantidad a la precisión del exchange y comprueba mínimos. 0 si no es válida."""
+        limits = self.market.get("limits", {}) or {}
+        min_amt = (limits.get("amount") or {}).get("min") or 0
+        min_cost = (limits.get("cost") or {}).get("min") or 0
+        amt = float(self.ex.amount_to_precision(self.symbol, units))
+        if amt < min_amt or amt * price < min_cost:
+            log.warning("Orden por debajo del mínimo del exchange (%.8f uds, %.2f de coste). No se envía.", amt, amt * price)
+            return 0.0
+        return amt
 
     @property
     def equity(self) -> float:
@@ -90,9 +122,14 @@ class LiveBroker:
 
     def open(self, side: int, units: float, price: float, stop, tp) -> None:
         if side < 0:
-            raise RuntimeError("Cortos en spot no soportados; usa solo señales largas en live")
-        order = self.ex.create_market_buy_order(self.symbol, units)
-        self.position = Position(side, units, float(order.get("average") or price), stop, tp)
+            log.info("Señal corta ignorada: cortos en spot no soportados en live")
+            return
+        amt = self._normalize(units, price)
+        if amt <= 0:
+            return
+        order = self.ex.create_market_buy_order(self.symbol, amt)
+        filled = float(order.get("filled") or amt)
+        self.position = Position(side, filled, float(order.get("average") or price), stop, tp)
 
     def close(self, price: float, reason: str) -> float:
         if self.position.side == 0:

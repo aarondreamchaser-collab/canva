@@ -1,0 +1,13 @@
+{
+  "name": "cruce_emas",
+  "indicators": {
+    "ema_fast": {"type": "ema", "period": 9},
+    "ema_slow": {"type": "ema", "period": 21},
+    "sma200":   {"type": "sma", "period": 200}
+  },
+  "long_entry":  [["ema_fast", "crosses_above", "ema_slow"], ["close", ">", "sma200"]],
+  "long_exit":   [["ema_fast", "crosses_below", "ema_slow"]],
+  "short_entry": [["ema_fast", "crosses_below", "ema_slow"], ["close", "<", "sma200"]],
+  "short_exit":  [["ema_fast", "crosses_above", "ema_slow"]],
+  "grid": {"ema_fast.period": [5, 9, 13], "ema_slow.period": [21, 34, 55]}
+}

@@ -36,6 +36,25 @@ def score(m: Metrics) -> float:
     return m.total_return - 2 * m.max_drawdown
 
 
+def best_params(
+    strategy_cls: Type[Strategy],
+    candles: Sequence[Candle],
+    risk: RiskConfig | None = None,
+    fee: float = 0.001,
+    slippage: float = 0.0005,
+    initial_equity: float = 1000.0,
+) -> Dict[str, float]:
+    """Parámetros con mejor puntuación robusta sobre las velas dadas."""
+    risk = risk or RiskConfig()
+    best, best_s = {}, -1e18
+    for params in _grid(strategy_cls):
+        m = Backtester(strategy_cls(**params), risk, fee, slippage, initial_equity).run(candles).metrics
+        s = score(m)
+        if s > best_s:
+            best, best_s = params, s
+    return best
+
+
 def walk_forward(
     strategy_cls: Type[Strategy],
     candles: Sequence[Candle],

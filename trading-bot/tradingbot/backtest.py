@@ -23,10 +23,12 @@ class Trade:
     units: float
     pnl: float
     reason: str  # "signal" | "stop" | "tp" | "end" | "killswitch" | "dailylimit"
+    equity_before: float = 0.0
 
     @property
     def ret(self) -> float:
-        return self.pnl / (self.entry * self.units) if self.units else 0.0
+        """Retorno sobre el capital total en el momento de la operación."""
+        return self.pnl / self.equity_before if self.equity_before else 0.0
 
 
 @dataclass
@@ -102,8 +104,8 @@ class Backtester:
             gross = (exit_price - entry) * units * pos
             fees = (entry + exit_price) * units * self.fee
             pnl = gross - fees
+            trades.append(Trade(pos, entry_ts, entry, ts, exit_price, units, pnl, reason, equity))
             equity += pnl
-            trades.append(Trade(pos, entry_ts, entry, ts, exit_price, units, pnl, reason))
             pos, units, entry, stop, tp = 0, 0.0, 0.0, None, None
 
         for i, c in enumerate(candles):
