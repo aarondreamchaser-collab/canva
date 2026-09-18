@@ -88,3 +88,52 @@ Producto, parejas, mano, movimiento, orden de planos y ritmo intactos.
 
 Coste total del vídeo: 206,26 créditos (dos generaciones). La corrección del
 cursor en el render no consumió créditos.
+
+
+================================================================
+v04 / v05 — SUSTITUCIÓN DE LAS TRES PAREJAS (18-09-2026)
+================================================================
+
+PROBLEMA v03: la pareja protagonista del vídeo no era la de la ficha
+(la del proyecto 01) y las otras dos seguían siendo las del proveedor.
+
+CAMBIO DE MODELO: se pasa de seedance_2_5 a kling_video_edit (Kling 3.0
+Omni Edit), que acepta imagen de referencia junto al vídeo, ideal para
+transferir identidad, y cuesta 30 créditos frente a 103.
+
+LÍMITE IMPORTANTE: Kling rechaza clips de más de 15 s. El primer envío con
+el vídeo de 15,71 s falló sin consumir créditos. Se recortó a 14,9 s
+(se pierde el plano final estático, sin contenido relevante).
+
+--- v04 (job 74cd4926-fd2d-40dd-b278-fc429e4a3bcd, 30 créditos) ---
+Fuente: v03 recortado. Referencia de identidad:
+../01-acrylic-standee-boda/final/FINAL-v01-edit-chatgpt.png
+Resultado: la peana principal pasa a mostrar la pareja de la ficha
+(esmoquin negro con pajarita y ramo blanco). Las otras dos cambiaron solo
+levemente: mismo vestuario y pose, caras apenas distintas. Insuficiente.
+
+--- v05 (job 579fe560-be60-439c-9077-8c27bf3b8166, 30 créditos) ---
+Fuente: v04. Se bloquea explícitamente la pareja principal y se describen
+las dos secundarias nuevas con rasgos concretos, para que el cambio sea
+inequívoco en lugar de un retoque de caras:
+
+  1) Pareja de traje azul marino + novia rubia con ramo morado
+     -> novio negro, pelo corto y barba recortada, traje de lino beige
+        cálido con cuello abierto; novia negra, melena rizada oscura,
+        vestido lencero de seda marfil, ramo de fresias amarillas y blancas.
+  2) Pareja mejilla con mejilla, esmoquin oscuro + vestido palabra de honor
+     -> novio asiático oriental, pelo negro liso, sin barba, traje de tres
+        piezas gris perla con corbata azul pálido; novia asiática oriental,
+        moño alto, vestido de encaje de cuello alto, ramo compacto de rosas
+        rojas intensas.
+
+--- CONTROL DE CALIDAD v05 ---
+Verificado con ffprobe: 0 pistas de audio. 1380x1500, 14,71 s, 24 fps.
+Las tres parejas son distintas entre sí y ninguna coincide con las del
+proveedor. Fondo crema, rosas blancas, eucalipto, portavelas, peanas, mano,
+movimiento y orden de planos conservados. Sin cursor, sin texto, sin logos.
+
+Desviación: la duración baja de 15,71 s a 14,71 s por el límite de 15 s de
+Kling. Se pierde el último plano estático; la dinámica no cambia.
+
+Coste acumulado del vídeo: 266,26 créditos.

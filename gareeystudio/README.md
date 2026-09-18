@@ -45,7 +45,7 @@ Higgsfield, restricciones negativas y ajustes recomendados.
 | 05 | Ambientación lifestyle, sin texto | v01 generada |
 | 06 | Escala talla S sobre fieltro verde | v01 generada |
 | 07 | Escala talla M sobre fieltro verde | v01 generada |
-| 08 | Vídeo del listing, fondo crema, sin audio | FINAL v03 |
+| 08 | Vídeo del listing, fondo crema, sin audio | FINAL v05 |
 
 ## Continuidad entre mockups
 
