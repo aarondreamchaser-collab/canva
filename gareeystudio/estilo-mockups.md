@@ -81,3 +81,25 @@ La regla de texto negro aplica a los mockups sobre fondo claro. En una foto
 sobre fondo oscuro (por ejemplo el fieltro verde de las fotos de escala) el
 texto se mantiene **blanco**, con la misma serif bold en mayúsculas, porque el
 negro no sería legible. Es la única excepción aprobada al color del texto.
+
+## 7. Vídeo del listing
+
+Mismo principio que las imágenes: se recrea el vídeo de referencia y se cambia
+solo lo pedido. El vídeo se entrega **siempre sin audio**.
+
+Ruta de producción:
+
+1. Subida del vídeo con `media_upload` + `media_confirm` (type `video`).
+2. Edición con `generate_video`, modelo `seedance_2_5`, `mode: video_edit`,
+   `generate_audio: false` (silencio nativo, sin post-proceso) y
+   `resolution: 1080p`. El modelo factura por la duración del vídeo de origen
+   e ignora `duration` y `aspect_ratio`, que hereda del original.
+   Alternativas si hiciera falta: `kling_video_edit` o `flux_3_video_edit`.
+3. Bloqueado: sujeto, producto, movimiento, velocidad, trayectoria de cámara,
+   duración, timing y encuadre. Solo cambia el fondo.
+4. Verificación: comprobar con `ffprobe` que el archivo final no tiene pista de
+   audio. Binario disponible vía `python3 -c "import imageio_ffmpeg;
+   print(imageio_ffmpeg.get_ffmpeg_exe())"`.
+
+Fondo por defecto, salvo indicación contraria: el mismo plató blanco cálido de
+los mockups 01 a 05, para que el vídeo case con la galería.
