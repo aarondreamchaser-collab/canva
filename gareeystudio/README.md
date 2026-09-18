@@ -40,6 +40,11 @@ Higgsfield, restricciones negativas y ajustes recomendados.
 |---|---|---|
 | 01 | Peana de metacrilato · pareja de boda | FINAL aprobado 2026-09-18 |
 | 02 | Infografía "impreso por las dos caras" | 2 variantes generadas, pendiente de elección |
+| 03 | Tallas del producto M(15cm) / S(10cm) | v01 generada |
+| 04 | Antes y después del recorte de fondo | v01 generada |
+| 05 | Ambientación lifestyle, sin texto | v01 generada |
+| 06 | Escala talla S sobre fieltro verde | v01 generada |
+| 07 | Escala talla M sobre fieltro verde | v01 generada |
 
 ## Continuidad entre mockups
 

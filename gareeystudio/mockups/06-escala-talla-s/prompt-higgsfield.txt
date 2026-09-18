@@ -1,0 +1,12 @@
+PROYECTO: 06 — Escala talla S sobre fieltro verde
+MODELO: gpt_image_2_5 | quality: high | resolution: 2k | aspect_ratio: 1:1 | 3 créditos
+REFERENCIAS: [1] reference-original.jpg  [2] ../01-acrylic-standee-boda/final/FINAL-v01-edit-chatgpt.png
+JOB: 8f111abe-90f0-4f36-a67d-e8a65f5d4156
+
+EDIT 1 — REPLACE THE PEOPLE: pareja del proyecto 01, mismo vestuario y pose.
+EDIT 2 — TYPOGRAPHY: 'S(10CM/3.94)' en serif bold mayúscula, BLANCO (excepción
+a la regla de negro: sobre fieltro verde oscuro el negro no sería legible).
+BLOQUEADO: cenital, textura del fieltro, posición y silueta con pestaña
+inferior, luz plana y acabado de foto de móvil.
+
+CONTROL DE CALIDAD (18-09-2026): correcto.

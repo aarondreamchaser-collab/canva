@@ -1,0 +1,15 @@
+PROYECTO: 04 — Antes y después del recorte de fondo
+MODELO: gpt_image_2_5 | quality: high | resolution: 2k | aspect_ratio: 1:1 | 3 créditos
+REFERENCIAS: [1] reference-original.jpg  [2] ../01-acrylic-standee-boda/final/FINAL-v01-edit-chatgpt.png
+JOB: 77e901b9-7b73-49c5-80da-3a8c547fbaac
+
+EDIT 1 — REPLACE THE PEOPLE: pareja del proyecto 01 en las dos fotos, misma
+escena de camino de piedra con arbolado a la izquierda y misma peana sobre
+fondo crema a la derecha.
+EDIT 2 — TYPOGRAPHY + BRAND: titular y etiquetas en serif bold mayúscula negra
+(antes marrón). Marco marrón de las dos fotos → marco fino dorado metálico.
+BLOQUEADO: composición, tamaños y posiciones de las fotos, esquinas
+redondeadas, escenas, iluminación y color.
+
+CONTROL DE CALIDAD (18-09-2026): correcto y muy fiel. Es el más limpio de la
+tanda.

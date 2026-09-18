@@ -74,3 +74,10 @@ Paleta orientativa del oro: base `#D4AF37`, luces `#F3DC8C`, sombras `#A67C1B`.
 - [ ] Composición, fondo, producto y personas conforme a la referencia.
 - [ ] Sin logos, marcas ni textos añadidos que el usuario no haya pedido
       (`GAREEYSTUDIO` y `ZGZ.2026` solo si se solicitan expresamente).
+
+## 6. Excepción de color de texto sobre fondo oscuro
+
+La regla de texto negro aplica a los mockups sobre fondo claro. En una foto
+sobre fondo oscuro (por ejemplo el fieltro verde de las fotos de escala) el
+texto se mantiene **blanco**, con la misma serif bold en mayúsculas, porque el
+negro no sería legible. Es la única excepción aprobada al color del texto.
