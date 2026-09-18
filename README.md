@@ -77,3 +77,10 @@ fase de conceptos: **Fall Animal Club**
 (ver `/etsy-tshirt-brand/collections/fall-animal-club/`). Aún no se ha
 generado artwork de producción. Ver `COLLECTIONS.md` para el estado
 detallado por diseño.
+
+## Segunda línea de trabajo: GAREEYSTUDIO
+
+Mockups de producto con recreación fiel de referencias (peanas de metacrilato
+con foto personalizada). Marca independiente de PichyDesigns, con su propia
+guía de estilo aprobada. Ver `/gareeystudio/README.md` y
+`/gareeystudio/estilo-mockups.md` antes de producir cualquier mockup.

@@ -1,0 +1,23 @@
+PROYECTO: 01 — Peana de metacrilato · pareja de boda (GAREEYSTUDIO)
+MODELO: gpt_image_2_5 | quality: high | resolution: 2k | aspect_ratio: 1:1 | count: 2
+REFERENCIAS (role image_references): [1] reference-original.jpg  [2] reference-tipografia.png
+COSTE: 3 créditos por variante
+RESULTADO: v01 (job 973bacd3-2573-4fbd-8e3a-cec3cedaa890) aprobado → acabado dorado en ChatGPT → FINAL
+
+================ PROMPT USADO PARA v01 (aprobado) ================
+
+FAITHFUL RECREATION OF IMAGE 1 WITH TWO SURGICAL EDITS ONLY. Image 1 is an e-commerce product mockup of a custom acrylic photo standee. Reproduce it pixel-faithfully: same square composition, same warm off-white studio backdrop with soft top-front lighting and the same faint horizontal floor line, same central clear acrylic standee cut around the silhouette of a standing couple with a visible transparent edge, same round transparent acrylic base at the bottom with the same reflections, same three blurred out-of-focus acrylic standees of couples in the background (left, center-back, right) at the same positions, scale and blur, same rounded-corner inset photo at bottom-left with the same thin white border and same drop shadow, same curly brown dashed arrow from the inset up to the standee, same white outlined arrow pointing at the standee on the right, same warm yellow-ochre brush-stroke splash behind the headline in the top right, same brown text color, same text positions, sizes and line breaks, same photographic realism and color grading.
+
+EDIT 1 — REPLACE THE PEOPLE: Replace every person in Image 1 with different, unrelated people. The main couple on the central standee must become a NEW bride and groom with completely different faces, hair and ethnicity from the originals, but keeping EXACTLY the same pose: groom on the left in a black tuxedo with black bow tie, white shirt, white boutonniere, hand in pocket, walking and looking at the bride; bride on the right in a sleeveless white V-neck fitted gown holding a white bouquet low in her right hand, hair in a low updo, looking at the groom; same body positions, same crop, same silhouette outline so the acrylic cutout shape still matches. The inset 'Your photo' at bottom-left must show the SAME NEW couple in the SAME outdoor garden-path photo, same framing, same pose, same clothing, so it reads as the source photo of the standee. The three blurred background standees must also show different couples than in Image 1, keeping the same poses, clothing colors, positions and blur. Photorealistic natural skin, realistic hands, correct anatomy.
+
+EDIT 2 — TYPOGRAPHY ONLY: Re-render all three text elements ('Custom Photo', 'After cutting out the image', 'Your photo') using the typeface from Image 2: a classic elegant high-contrast serif with thin hairline serifs and generous letter-spacing, like the GAREEYSTUDIO logotype. Keep the exact same words, spelling, capitalization, line breaks, positions, sizes, brown color, and keep the yellow brush-stroke splash behind 'Custom Photo'. Do NOT add the words GAREEYSTUDIO or ZGZ.2026 anywhere; Image 2 is a typography reference only.
+
+Everything not mentioned above stays identical to Image 1. Minimum visual change.
+
+================ BLOQUE DE ACABADO PARA FUTUROS PROMPTS ================
+(sustituye EDIT 2 y añade el acabado que el usuario aplicó a mano en ChatGPT;
+ver ../../estilo-mockups.md)
+
+EDIT 2 — BRAND GRAPHICS: Render all text elements in UPPERCASE, bold classic high-contrast serif (Times New Roman / Didot style, like the GAREEYSTUDIO logotype in Image 2), pure black color. Replace the brush-stroke splash behind the headline with a rounded-rectangle metallic gold plaque (soft gold gradient, subtle bevel) and set the headline in black serif uppercase centered on it in two lines. Replace both arrows with solid curved metallic gold arrows with triangular heads (no dashed lines, no loops, no white outline). Give the bottom-left inset photo a thin metallic gold rounded frame instead of the white border. Keep the exact same words, positions, sizes and line breaks. Do NOT add the words GAREEYSTUDIO or ZGZ.2026 anywhere; Image 2 is a typography reference only.
+
+NEGATIVE / RESTRICTIONS: no brown or ochre text, no brush strokes, no dashed arrows, no extra text, no logos, no watermark, no change to composition, background, product, lighting or camera; realistic hands and anatomy; no plastic skin.
