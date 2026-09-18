@@ -1,0 +1,43 @@
+PROYECTO: 08 — Vídeo del listing (GAREEYSTUDIO)
+MODELO: seedance_2_5 | mode: video_edit | generate_audio: false
+        resolution: 720p | bitrate_mode: high
+JOB: 397f9a34-5388-45e1-8f4b-40f4d8baf195
+COSTE: 103,13 créditos (factura por la duración del vídeo de origen)
+
+--- PREPARACIÓN DEL ORIGEN (ffmpeg, antes de subir) ---
+El vídeo original era una grabación de pantalla con la interfaz del reproductor
+incrustada: barra inferior con tiempo y controles, flechas de navegación a
+izquierda y derecha, icono superior derecho y cursor del ratón.
+
+    ffmpeg -i original.mp4 -vf "crop=660:718:80:0" -an \
+           -c:v libx264 -preset medium -crf 18 -pix_fmt yuv420p \
+           -movflags +faststart -y source_clean.mp4
+
+820x814 → 660x718. El recorte elimina toda la interfaz sin tocar la escena.
+`-an` quita la pista de audio ya en el origen.
+
+--- PROMPT ---
+Change ONLY the background and surrounding decor of this product video. Everything else must stay exactly as in the source.
+
+REPLACE: remove all the Christmas decoration and warm red/orange colour scheme. The red wall backdrop, the red gift box, the pine branches, the pine cones, the red baubles, the red berries, the gold ornament and the warm orange-tan tabletop must all be gone. Put in their place an elegant, bright, neutral wedding-studio setting that matches a premium wedding gift listing: a soft creamy off-white seamless backdrop with gentle warm gradient, a smooth ivory tabletop with a subtle soft shadow under each piece, and only very discreet neutral decor softly out of focus in the background - a few pale ivory and blush roses and a little eucalyptus foliage, plus one frosted glass candle holder. Keep the decor sparse, soft and blurred so the product stays the hero. Bright, airy, editorial colour grading; soft diffused daylight from the front-top; no red, no green pine, no gold Christmas ornaments, no festive elements at all.
+
+KEEP EXACTLY THE SAME, DO NOT ALTER: the clear acrylic photo standees and their round acrylic bases, their exact shape, silhouette cut, thickness, transparency, edge highlights and reflections; the printed wedding couples on every standee, with the same faces, hair, outfits, poses and framing; the human hand that appears, its skin, fingers and every movement it makes; the position, scale and arrangement of every standee in every frame; all camera movement, framing and focus changes; the speed, timing, rhythm and duration of the whole clip; the order of the shots.
+
+No text, no logos, no watermark, no captions, no user-interface elements, no mouse cursor. Photorealistic, natural skin, correct hands. Temporally stable: no flickering, no morphing, no drifting background.
+
+--- NOTA ---
+El sistema sugirió el preset "IN THE DARK" (oscuro, contrario al objetivo).
+Se rechazó con `declined_preset_id` y se generó de forma literal.
+
+--- CONTROL DE CALIDAD (18-09-2026) ---
+Verificado con ffprobe: 0 pistas de audio. 920x1000, 15,71 s, 24 fps.
+Fondo navideño eliminado por completo; producto, parejas impresas, mano,
+movimiento, orden de planos y ritmo conservados.
+
+Desviaciones observadas:
+- Exposición general algo más alta que el original; los primeros planos quedan
+  ligeramente lavados y con menos contraste.
+- Las rosas salen en tono albaricoque en vez del marfil/blush pedido.
+- Fotogramas por segundo 30 → 24 y duración 15,87 s → 15,71 s (1% más corto).
+  La velocidad percibida no cambia.
+- En el último plano queda un resto mínimo del cursor del original.
