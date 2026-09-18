@@ -1,0 +1,44 @@
+PROYECTO: 02 — Infografía "impreso por las dos caras" (GAREEYSTUDIO)
+MODELO: gpt_image_2_5 | quality: high | resolution: 2k | aspect_ratio: 1:1
+REFERENCIAS (role image_references):
+  [1] reference-original.jpg  → composición y producto a recrear
+  [2] ../01-acrylic-standee-boda/final/FINAL-v01-edit-chatgpt.png
+      → identidad de la pareja + estilo de marca (serif negra, oro)
+COSTE: 3 créditos por variante (2 variantes = 6 créditos)
+JOBS: v01a cec80af2-d2b9-4e57-b7a2-54b9d0c47617 · v01b 6f397210-0835-40f3-a7de-eaba8e802ead
+
+Nota de continuidad: a partir de este proyecto, el mockup FINAL del proyecto 01
+se pasa como segunda referencia para que la pareja protagonista sea la misma en
+toda la galería del listing.
+
+================ v01a — SOLO TIPOGRAFÍA ================
+
+FAITHFUL RECREATION OF IMAGE 1 WITH TWO SURGICAL EDITS ONLY. Image 1 is an e-commerce product infographic showing that a custom acrylic photo standee is printed on both sides: white background, a headline at the top, two labels ('one side' on the left, 'another side' on the right), and below each label a product photo of the same clear acrylic standee with a round acrylic base: the left photo is shot against a pale white-blue studio backdrop with the couple facing the camera (bride on the left, groom on the right); the right photo is the same standee seen from its other side, shot against a green felt surface, mirrored so the groom is on the left and the bride on the right. Reproduce exactly: the same layout, spacing, proportions, photo sizes and positions, the same two backdrops, the same acrylic standee silhouette and base, the same lighting, the same slightly soft catalog-photo look.
+
+EDIT 1 — REPLACE THE PEOPLE: the couple on the standee must be replaced by the bride and groom from Image 2 (same faces, same hair: groom with dark wavy hair and short beard, bride with dark hair in a low updo), keeping EXACTLY the outfits, poses and framing of Image 1: bride in a long-sleeved white wedding gown with a long veil holding a white bouquet, groom in a dark navy suit with light blue tie and white boutonniere, walking hand in hand and smiling at each other. Both photos show the same couple; the right photo is the mirrored back view of the same print. Photorealistic skin, correct hands and anatomy.
+
+EDIT 2 — TYPOGRAPHY: render the headline 'YOU CAN SEE THE IMAGE ON BOTH SIDES' and the labels 'ONE SIDE' and 'ANOTHER SIDE' in UPPERCASE, bold classic high-contrast serif (Times New Roman / Didot style, exactly like the text in Image 2), pure black color, at the same positions and sizes as in Image 1. Same words, no extra text.
+
+Everything else stays identical to Image 1. Do not add logos, frames, plaques, arrows, watermark or any other element. Minimum visual change.
+
+================ v01b — + PLACA Y MARCOS DORADOS ================
+
+(idéntico a v01a en el bloque de recreación y EDIT 1 / EDIT 2, más:)
+
+EDIT 3 — BRAND GRAPHICS in the style of Image 2: place the headline in black text on a rounded-rectangle metallic gold plaque (soft gold gradient, subtle bevel, like the 'CUSTOM PHOTO' plaque in Image 2), centered at the top where the headline is. Give each of the two product photos a thin metallic gold rounded frame, like the frame around the inset photo in Image 2. The labels stay plain black text with no plaque.
+
+Everything else stays identical to Image 1. Do not add logos, arrows, watermark or any other element. Minimum visual change.
+
+================ CONTROL DE CALIDAD (18-09-2026) ================
+
+Ambas variantes: composición, fondos, peana, base y disposición fieles a la
+referencia; pareja del proyecto 01 reconocible; textos íntegros en serif negra
+mayúscula; vista trasera correctamente espejada.
+
+Desviaciones observadas:
+- v01a: las fotos de producto salen sin el ligero margen blanco de la referencia
+  y la foto izquierda queda algo más luminosa.
+- v01b: la placa dorada del titular ocupa todo el ancho (en el proyecto 01 era
+  un rectángulo compacto); los marcos dorados son más gruesos que el del inset
+  del proyecto 01.
+Pendiente de elección del usuario.

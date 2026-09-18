@@ -39,3 +39,11 @@ Higgsfield, restricciones negativas y ajustes recomendados.
 | # | Proyecto | Estado |
 |---|---|---|
 | 01 | Peana de metacrilato · pareja de boda | FINAL aprobado 2026-09-18 |
+| 02 | Infografía "impreso por las dos caras" | 2 variantes generadas, pendiente de elección |
+
+## Continuidad entre mockups
+
+Todos los mockups de una misma ficha de producto llevan **la misma pareja
+protagonista**. Para conseguirlo se pasa el archivo `final/FINAL-...` del
+proyecto 01 como segunda referencia (`image_references`) en cada generación
+posterior, junto a la referencia de composición del mockup nuevo.
