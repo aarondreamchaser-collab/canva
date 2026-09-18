@@ -41,3 +41,50 @@ Desviaciones observadas:
 - Fotogramas por segundo 30 → 24 y duración 15,87 s → 15,71 s (1% más corto).
   La velocidad percibida no cambia.
 - En el último plano queda un resto mínimo del cursor del original.
+
+
+================================================================
+v02 / v03 — CORRECCIÓN DEL CURSOR Y DEL COLOR (18-09-2026)
+================================================================
+
+PROBLEMA v01: el cursor del ratón, incrustado en la grabación de pantalla
+original, seguía apareciendo en los últimos segundos. Además la imagen salía
+sobreexpuesta y las rosas en tono albaricoque.
+
+--- PASO 1: borrar el cursor del ORIGEN (quitar-cursor.py) ---
+Rastreo por correlación cruzada normalizada con máscara sobre la silueta del
+cursor, búsqueda global en la zona por la que se mueve, filtrado de saltos e
+interpolación de huecos. Relleno por interpolación horizontal entre los bordes
+del recuadro. Detectado y borrado en 66 fotogramas (12,80 s a 14,97 s) más una
+segunda pasada para el fotograma 450, donde el cursor salía por el borde
+superior y la plantilla completa ya no encajaba.
+
+--- PASO 2: nueva generación (job 64c1333b-8bbc-41ad-9064-3e3872ec3d0f) ---
+Mismos parámetros. Prompt reforzado con un bloque nuevo:
+
+COLOUR AND EXPOSURE, IMPORTANT: correctly exposed, not blown out. Keep clean detail and gentle contrast in the white wedding dresses and in the cream backdrop, with soft mid-tones and no clipped highlights, no milky washed-out look, no haze. Neutral-to-slightly-warm white balance. The roses must read as WHITE and pale blush - absolutely no apricot, peach, orange, yellow, gold or amber tones anywhere in the frame.
+
+ABSOLUTELY NO mouse cursor, no pointer or arrow of any kind anywhere in the frame at any moment, especially in the final seconds.
+
+Resultado v02: exposición y color corregidos, rosas blancas. Pero el modelo
+volvió a dibujar un cursor en ocho fotogramas del tramo final, re-renderizado
+a escalas distintas.
+
+--- PASO 3: borrar el cursor del RENDER (quitar-cursor-en-render.py) ---
+En vez de regenerar (otros 103 créditos), se limpia el vídeo ya generado:
+  a) Plantilla tomada del propio render y correlación cruzada → fotogramas
+     354 a 357.
+  b) Placa de fondo temporal (mediana de ±10 fotogramas) acotada a la zona
+     lisa del fondo (y 0-130, x 140-360), con límite de tamaño de mancha
+     (máx. 1400 px y caja de 60x70) para no tocar nunca el producto →
+     fotogramas 358 a 361.
+Un primer intento con la placa sobre una zona amplia deformaba las cabezas de
+la pareja; se descartó y se acotó la región, que es la versión conservada.
+
+--- CONTROL DE CALIDAD v03 ---
+Verificado con ffprobe: 0 pistas de audio. 920x1000, 15,71 s, 24 fps.
+Barrido visual de los fotogramas 296 a 375: sin cursor y sin emborronados.
+Producto, parejas, mano, movimiento, orden de planos y ritmo intactos.
+
+Coste total del vídeo: 206,26 créditos (dos generaciones). La corrección del
+cursor en el render no consumió créditos.
