@@ -47,6 +47,11 @@ Higgsfield, restricciones negativas y ajustes recomendados.
 | 07 | Escala talla M sobre fieltro verde | v01 generada |
 | 08 | Vídeo del listing, fondo crema, sin audio | FINAL v05 |
 
+## Producto 2: manta de forro polar con foto
+
+Galería de 14 imágenes en `manta-foto/`, estética cálida aprobada.
+Ver `manta-foto/estilo-y-prompts.md`.
+
 ## Continuidad entre mockups
 
 Todos los mockups de una misma ficha de producto llevan **la misma pareja
