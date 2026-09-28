@@ -1,0 +1,581 @@
+{%- comment -%}
+  Banner navideño: pase de imágenes automático a todo el ancho, con fundido + zoom lento
+  (o deslizamiento) y nieve cayendo por encima. Cada diapositiva es un bloque con su imagen.
+{%- endcomment -%}
+
+{%- liquid
+  assign s = section.settings
+  assign sid = section.id
+  assign total = section.blocks.size
+
+  assign ratio = 2.33
+  assign ratio_movil = 2.33
+  for block in section.blocks
+    if block.settings.imagen != blank
+      assign ratio = block.settings.imagen.aspect_ratio
+      break
+    endif
+  endfor
+  if s.proporcion_movil == 'igual'
+    assign ratio_movil = ratio
+  else
+    assign ratio_movil = s.proporcion_movil | plus: 0
+  endif
+
+  assign intervalo = s.intervalo | times: 1000
+-%}
+
+<style>
+  #shopify-section-{{ sid }} {
+    --bn-fondo: {{ s.color_fondo | default: '#0B1A33' }};
+    --bn-ratio: {{ ratio_movil }};
+    --bn-radio: {{ s.radio_movil }}px;
+    --bn-margen: {{ s.margen_movil }}px;
+    --bn-pad-sup: {{ s.pad_sup_movil }}px;
+    --bn-pad-inf: {{ s.pad_inf_movil }}px;
+    --bn-trans: {{ s.transicion }}ms;
+    --bn-intervalo: {{ intervalo }}ms;
+  }
+  @media screen and (min-width: 750px) {
+    #shopify-section-{{ sid }} {
+      --bn-ratio: {{ ratio }};
+      --bn-radio: {{ s.radio }}px;
+      --bn-margen: {{ s.margen }}px;
+      --bn-pad-sup: {{ s.pad_sup }}px;
+      --bn-pad-inf: {{ s.pad_inf }}px;
+    }
+  }
+
+  #shopify-section-{{ sid }} .bn {
+    display: block;
+    box-sizing: border-box;
+    padding: var(--bn-pad-sup) var(--bn-margen) var(--bn-pad-inf);
+    background: var(--bn-fondo);
+  }
+  #shopify-section-{{ sid }} .bn *,
+  #shopify-section-{{ sid }} .bn *::before,
+  #shopify-section-{{ sid }} .bn *::after {
+    box-sizing: border-box;
+  }
+  #shopify-section-{{ sid }} .bn :is(ul, li) {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  #shopify-section-{{ sid }} .bn__escenario {
+    position: relative;
+    display: block;
+    width: 100%;
+    max-width: {{ s.ancho }}px;
+    margin: 0 auto;
+    aspect-ratio: var(--bn-ratio);
+    overflow: hidden;
+    border-radius: var(--bn-radio);
+    background: #0B1A33;
+    isolation: isolate;
+  }
+  #shopify-section-{{ sid }} .bn__diapo {
+    position: absolute;
+    inset: 0;
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity var(--bn-trans) ease, transform var(--bn-trans) cubic-bezier(.65, 0, .35, 1), visibility 0s linear var(--bn-trans);
+  }
+  #shopify-section-{{ sid }} .bn__diapo:first-child,
+  #shopify-section-{{ sid }} .bn.es-lista .bn__diapo.es-activa {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity var(--bn-trans) ease, transform var(--bn-trans) cubic-bezier(.65, 0, .35, 1), visibility 0s;
+    z-index: 1;
+  }
+  #shopify-section-{{ sid }} .bn.es-lista .bn__diapo:first-child:not(.es-activa) {
+    opacity: 0;
+    visibility: hidden;
+    z-index: 0;
+  }
+  #shopify-section-{{ sid }} .bn__enlace,
+  #shopify-section-{{ sid }} .bn__marco {
+    position: absolute;
+    inset: 0;
+    display: block;
+    overflow: hidden;
+    color: inherit;
+    text-decoration: none;
+  }
+  #shopify-section-{{ sid }} .bn__enlace:focus-visible {
+    outline: 3px solid #FFFFFF;
+    outline-offset: -6px;
+  }
+  #shopify-section-{{ sid }} .bn__diapo :is(img, svg) {
+    position: absolute;
+    inset: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+    object-position: center;
+  }
+  #shopify-section-{{ sid }} .bn__diapo svg {
+    fill: rgba(255, 255, 255, .25);
+    background: #2A1216;
+  }
+
+  /* Efecto: zoom lento mientras la diapositiva está a la vista */
+  #shopify-section-{{ sid }} .bn--zoom .bn__diapo :is(img, svg) {
+    transform: scale(1);
+    transition: transform 0s linear var(--bn-trans);
+  }
+  #shopify-section-{{ sid }} .bn--zoom.es-lista .bn__diapo.es-activa :is(img, svg) {
+    transform: scale(1.08);
+    transition: transform calc(var(--bn-intervalo) + var(--bn-trans)) linear;
+  }
+
+  /* Efecto: deslizar */
+  #shopify-section-{{ sid }} .bn--deslizar.es-lista .bn__diapo {
+    opacity: 1;
+    transform: translateX(100%);
+  }
+  #shopify-section-{{ sid }} .bn--deslizar.es-lista .bn__diapo.es-activa {
+    transform: translateX(0);
+  }
+  #shopify-section-{{ sid }} .bn--deslizar.es-lista .bn__diapo.es-saliente {
+    visibility: visible;
+    transform: translateX(-100%);
+  }
+
+  /* Nieve */
+  #shopify-section-{{ sid }} .bn__nieve {
+    position: absolute;
+    inset: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    pointer-events: none;
+  }
+
+  /* Controles */
+  #shopify-section-{{ sid }} .bn__controles {
+    position: absolute;
+    left: 50%;
+    bottom: 8px;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    padding: 0 4px;
+    border-radius: 999px;
+    background: rgba(11, 26, 51, .55);
+    transform: translateX(-50%);
+  }
+  #shopify-section-{{ sid }} .bn__controles[hidden] {
+    display: none;
+  }
+  #shopify-section-{{ sid }} .bn__boton {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 999px;
+    background: transparent;
+    box-shadow: none;
+    color: #FFFFFF;
+    font: inherit;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+  }
+  #shopify-section-{{ sid }} .bn__boton::after,
+  #shopify-section-{{ sid }} .bn__boton::before {
+    content: none;
+  }
+  #shopify-section-{{ sid }} .bn__punto::before {
+    content: "";
+    display: block;
+    width: 8px;
+    height: 8px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, .5);
+    transition: width 300ms ease, background-color 300ms ease;
+  }
+  #shopify-section-{{ sid }} .bn__punto[aria-current="true"]::before {
+    width: 20px;
+    background: #F2C14E;
+  }
+  #shopify-section-{{ sid }} .bn__boton svg {
+    display: block;
+    width: 12px;
+    height: 12px;
+    fill: currentColor;
+  }
+  #shopify-section-{{ sid }} .bn__boton:focus-visible {
+    outline: 2px solid #F2C14E;
+    outline-offset: 1px;
+  }
+  #shopify-section-{{ sid }} .bn__boton [data-icono-play] {
+    display: none;
+  }
+  #shopify-section-{{ sid }} .bn.es-pausado .bn__boton [data-icono-play] {
+    display: block;
+  }
+  #shopify-section-{{ sid }} .bn.es-pausado .bn__boton [data-icono-pausa] {
+    display: none;
+  }
+  @media screen and (min-width: 750px) {
+    #shopify-section-{{ sid }} .bn__controles {
+      bottom: 14px;
+    }
+    #shopify-section-{{ sid }} .bn__boton {
+      width: 36px;
+      height: 36px;
+    }
+  }
+  @media (hover: hover) {
+    #shopify-section-{{ sid }} .bn__punto:hover::before {
+      background: #FFFFFF;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    #shopify-section-{{ sid }} .bn__diapo,
+    #shopify-section-{{ sid }} .bn__diapo :is(img, svg) {
+      transition: none !important;
+      transform: none !important;
+    }
+  }
+</style>
+
+<bn-banner-navidad
+  class="bn{% if s.efecto == 'zoom' %} bn--zoom{% elsif s.efecto == 'deslizar' %} bn--deslizar{% endif %}"
+  data-intervalo="{{ intervalo }}"
+  data-nieve="{{ s.nieve }}"
+  data-cantidad-nieve="{{ s.cantidad_nieve }}"
+>
+  <div
+    class="bn__escenario"
+    role="region"
+    aria-roledescription="carousel"
+    aria-label="{{ s.txt_region | escape }}"
+  >
+    {%- if total > 0 -%}
+      <ul class="bn__diapos" role="list">
+        {%- for block in section.blocks -%}
+          {%- assign b = block.settings -%}
+          <li
+            class="bn__diapo{% if forloop.first %} es-activa{% endif %}"
+            data-diapo
+            role="group"
+            aria-roledescription="slide"
+            aria-label="{{ forloop.index }} / {{ total }}"
+            {{ block.shopify_attributes }}
+          >
+            {%- if b.enlace != blank -%}
+              <a class="bn__enlace" href="{{ b.enlace }}">
+            {%- else -%}
+              <div class="bn__marco">
+            {%- endif -%}
+
+            {%- if b.imagen != blank -%}
+              {%- if forloop.first -%}
+                {{ b.imagen | image_url: width: 2400 | image_tag: widths: '750, 1100, 1500, 1920, 2400', sizes: '100vw', fetchpriority: 'high', alt: b.imagen.alt }}
+              {%- else -%}
+                {{ b.imagen | image_url: width: 2400 | image_tag: widths: '750, 1100, 1500, 1920, 2400', sizes: '100vw', loading: 'lazy', alt: b.imagen.alt }}
+              {%- endif -%}
+            {%- else -%}
+              {{ 'lifestyle-2' | placeholder_svg_tag }}
+            {%- endif -%}
+
+            {%- if b.enlace != blank -%}
+              </a>
+            {%- else -%}
+              </div>
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+
+    {%- if s.nieve -%}
+      <canvas class="bn__nieve" data-nieve-lienzo aria-hidden="true"></canvas>
+    {%- endif -%}
+
+    {%- if total > 1 -%}
+      <div class="bn__controles" data-controles hidden>
+        <button type="button" class="bn__boton" data-pausa aria-label="{{ s.txt_pausa | escape }}">
+          <svg data-icono-pausa viewBox="0 0 12 12" aria-hidden="true"><rect x="2" y="1" width="3" height="10"/><rect x="7" y="1" width="3" height="10"/></svg>
+          <svg data-icono-play viewBox="0 0 12 12" aria-hidden="true"><path d="M3 1l8 5-8 5z"/></svg>
+        </button>
+        {%- for block in section.blocks -%}
+          <button
+            type="button"
+            class="bn__boton bn__punto"
+            data-punto="{{ forloop.index0 }}"
+            aria-label="{{ s.txt_ir_a | escape }} {{ forloop.index }}"
+            {% if forloop.first %}aria-current="true"{% endif %}
+          ></button>
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  </div>
+</bn-banner-navidad>
+
+<script>
+  if (!customElements.get('bn-banner-navidad')) {
+    customElements.define('bn-banner-navidad', class extends HTMLElement {
+      connectedCallback() {
+        if (this.children.length || document.readyState !== 'loading') this.iniciar();
+        else document.addEventListener('DOMContentLoaded', () => this.iniciar(), { once: true });
+      }
+
+      iniciar() {
+        if (this.iniciado) return;
+        this.iniciado = true;
+        this.diapos = Array.from(this.querySelectorAll('[data-diapo]'));
+        this.puntos = Array.from(this.querySelectorAll('[data-punto]'));
+        this.botonPausa = this.querySelector('[data-pausa]');
+        this.intervalo = Math.max(2000, parseInt(this.dataset.intervalo, 10) || 5000);
+        this.reducido = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        this.enEditor = !!(window.Shopify && window.Shopify.designMode);
+        this.actual = 0;
+        this.pausadoUsuario = this.reducido;
+        this.pausadoTemporal = false;
+        this.visible = true;
+
+        if (this.diapos.length > 1) {
+          this.classList.add('es-lista');
+          const controles = this.querySelector('[data-controles]');
+          if (controles) controles.hidden = false;
+
+          this.puntos.forEach((p) => p.addEventListener('click', () => {
+            this.ir(parseInt(p.dataset.punto, 10));
+            this.reiniciar();
+          }));
+          if (this.botonPausa) this.botonPausa.addEventListener('click', () => {
+            this.pausadoUsuario = !this.pausadoUsuario;
+            this.actualizarPausa();
+          });
+
+          this.alEntrar = () => { this.pausadoTemporal = true; this.detener(); };
+          this.alSalir = () => { this.pausadoTemporal = false; this.reiniciar(); };
+          this.addEventListener('mouseenter', this.alEntrar);
+          this.addEventListener('mouseleave', this.alSalir);
+          this.addEventListener('focusin', this.alEntrar);
+          this.addEventListener('focusout', this.alSalir);
+
+          this.addEventListener('shopify:block:select', (e) => {
+            const i = this.diapos.indexOf(e.target);
+            if (i > -1) { this.pausadoTemporal = true; this.detener(); this.ir(i); }
+          });
+          this.addEventListener('shopify:block:deselect', this.alSalir);
+
+          this.actualizarPausa();
+        }
+
+        if ('IntersectionObserver' in window) {
+          this.observador = new IntersectionObserver((entradas) => {
+            this.visible = entradas.some((e) => e.isIntersecting);
+            if (this.visible) { this.reiniciar(); this.animarNieve(); }
+            else { this.detener(); this.pararNieve(); }
+          }, { threshold: 0 });
+          this.observador.observe(this);
+        }
+
+        if (this.dataset.nieve === 'true' && !this.reducido) this.prepararNieve();
+      }
+
+      ir(i) {
+        const n = this.diapos.length;
+        const siguiente = ((i % n) + n) % n;
+        if (siguiente === this.actual) return;
+        const anterior = this.diapos[this.actual];
+        this.diapos.forEach((d) => d.classList.remove('es-saliente'));
+        anterior.classList.remove('es-activa');
+        anterior.classList.add('es-saliente');
+        const nueva = this.diapos[siguiente];
+        if (this.classList.contains('bn--deslizar')) {
+          nueva.style.transition = 'none';
+          nueva.classList.remove('es-saliente');
+          void nueva.offsetWidth;
+          nueva.style.transition = '';
+        }
+        nueva.classList.add('es-activa');
+        this.diapos.forEach((d, j) => d.setAttribute('aria-hidden', j === siguiente ? 'false' : 'true'));
+        this.puntos.forEach((p, j) => {
+          if (j === siguiente) p.setAttribute('aria-current', 'true');
+          else p.removeAttribute('aria-current');
+        });
+        this.actual = siguiente;
+      }
+
+      reiniciar() {
+        this.detener();
+        if (this.diapos.length < 2 || this.pausadoUsuario || this.pausadoTemporal || !this.visible) return;
+        this.temporizador = window.setInterval(() => this.ir(this.actual + 1), this.intervalo);
+      }
+
+      detener() {
+        if (this.temporizador) window.clearInterval(this.temporizador);
+        this.temporizador = null;
+      }
+
+      actualizarPausa() {
+        this.classList.toggle('es-pausado', this.pausadoUsuario);
+        if (this.botonPausa) this.botonPausa.setAttribute('aria-pressed', this.pausadoUsuario ? 'true' : 'false');
+        this.reiniciar();
+      }
+
+      prepararNieve() {
+        this.lienzo = this.querySelector('[data-nieve-lienzo]');
+        if (!this.lienzo || !this.lienzo.getContext) return;
+        this.ctx = this.lienzo.getContext('2d');
+        this.cantidadBase = parseInt(this.dataset.cantidadNieve, 10) || 60;
+        this.medir = () => {
+          const r = this.lienzo.getBoundingClientRect();
+          const dpr = Math.min(window.devicePixelRatio || 1, 2);
+          this.ancho = r.width;
+          this.alto = r.height;
+          this.lienzo.width = Math.round(r.width * dpr);
+          this.lienzo.height = Math.round(r.height * dpr);
+          this.ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+          const cantidad = Math.round(this.cantidadBase * Math.min(1, Math.max(0.4, r.width / 1400)));
+          this.copos = Array.from({ length: cantidad }, () => this.nuevoCopo(true));
+        };
+        this.medir();
+        if ('ResizeObserver' in window) {
+          this.redimension = new ResizeObserver(() => this.medir());
+          this.redimension.observe(this.lienzo);
+        }
+        this.animarNieve();
+      }
+
+      nuevoCopo(enCualquierAltura) {
+        const r = Math.random() * 2.2 + 0.8;
+        return {
+          x: Math.random() * (this.ancho || 1),
+          y: enCualquierAltura ? Math.random() * (this.alto || 1) : -5,
+          r: r,
+          vy: r * 0.35 + 0.25,
+          vx: Math.random() * 0.4 - 0.2,
+          fase: Math.random() * Math.PI * 2,
+          a: Math.random() * 0.5 + 0.45
+        };
+      }
+
+      animarNieve() {
+        if (!this.ctx || this.cuadro) return;
+        const paso = () => {
+          const ctx = this.ctx;
+          ctx.clearRect(0, 0, this.ancho, this.alto);
+          for (let i = 0; i < this.copos.length; i++) {
+            const c = this.copos[i];
+            c.fase += 0.015;
+            c.y += c.vy;
+            c.x += c.vx + Math.sin(c.fase) * 0.3;
+            if (c.y > this.alto + 5 || c.x < -10 || c.x > this.ancho + 10) {
+              this.copos[i] = this.nuevoCopo(false);
+              continue;
+            }
+            ctx.beginPath();
+            ctx.arc(c.x, c.y, c.r, 0, Math.PI * 2);
+            ctx.fillStyle = 'rgba(255,255,255,' + c.a + ')';
+            ctx.fill();
+          }
+          this.cuadro = window.requestAnimationFrame(paso);
+        };
+        this.cuadro = window.requestAnimationFrame(paso);
+      }
+
+      pararNieve() {
+        if (this.cuadro) window.cancelAnimationFrame(this.cuadro);
+        this.cuadro = null;
+      }
+
+      disconnectedCallback() {
+        this.iniciado = false;
+        this.detener();
+        this.pararNieve();
+        if (this.observador) this.observador.disconnect();
+        if (this.redimension) this.redimension.disconnect();
+      }
+    });
+  }
+</script>
+
+{% schema %}
+{
+  "name": "Banner navideño",
+  "tag": "section",
+  "class": "bn-seccion",
+  "max_blocks": 10,
+  "disabled_on": { "groups": ["header", "footer"] },
+  "settings": [
+    { "type": "paragraph", "content": "Pase de imágenes automático con efecto y nieve. Cada diapositiva es un bloque: añade una imagen por bloque. Usa imágenes con la misma proporción (por ejemplo 21:9)." },
+    { "type": "header", "content": "Movimiento" },
+    {
+      "type": "select", "id": "efecto", "label": "Efecto de transición", "default": "zoom",
+      "options": [
+        { "value": "zoom", "label": "Fundido con zoom lento" },
+        { "value": "fundido", "label": "Fundido" },
+        { "value": "deslizar", "label": "Deslizar" }
+      ]
+    },
+    { "type": "range", "id": "intervalo", "label": "Tiempo por imagen", "min": 2, "max": 12, "step": 1, "unit": "s", "default": 5 },
+    { "type": "range", "id": "transicion", "label": "Duración de la transición", "min": 300, "max": 2000, "step": 100, "unit": "ms", "default": 1000 },
+    { "type": "checkbox", "id": "nieve", "label": "Mostrar nieve cayendo", "default": true },
+    { "type": "range", "id": "cantidad_nieve", "label": "Cantidad de nieve", "min": 20, "max": 150, "step": 10, "default": 70 },
+    { "type": "header", "content": "Tamaño" },
+    {
+      "type": "select", "id": "proporcion_movil", "label": "Proporción en móvil", "default": "igual",
+      "options": [
+        { "value": "igual", "label": "Igual que la imagen" },
+        { "value": "1.78", "label": "16:9 (recorta los lados)" },
+        { "value": "1.5", "label": "3:2 (recorta más)" }
+      ],
+      "info": "Tus banners llevan texto: si recortas en móvil, comprueba que se sigue leyendo."
+    },
+    { "type": "range", "id": "ancho", "label": "Ancho máximo", "min": 800, "max": 2600, "step": 40, "unit": "px", "default": 2600 },
+    { "type": "range", "id": "radio_movil", "label": "Redondeo en móvil", "min": 0, "max": 24, "step": 2, "unit": "px", "default": 0 },
+    { "type": "range", "id": "radio", "label": "Redondeo en escritorio", "min": 0, "max": 40, "step": 2, "unit": "px", "default": 0 },
+    { "type": "header", "content": "Colores y espaciado" },
+    { "type": "color", "id": "color_fondo", "label": "Fondo alrededor", "default": "#0B1A33" },
+    { "type": "range", "id": "margen_movil", "label": "Margen lateral en móvil", "min": 0, "max": 40, "step": 2, "unit": "px", "default": 0 },
+    { "type": "range", "id": "margen", "label": "Margen lateral en escritorio", "min": 0, "max": 80, "step": 4, "unit": "px", "default": 0 },
+    { "type": "range", "id": "pad_sup_movil", "label": "Espacio superior en móvil", "min": 0, "max": 80, "step": 4, "unit": "px", "default": 0 },
+    { "type": "range", "id": "pad_inf_movil", "label": "Espacio inferior en móvil", "min": 0, "max": 80, "step": 4, "unit": "px", "default": 0 },
+    { "type": "range", "id": "pad_sup", "label": "Espacio superior escritorio", "min": 0, "max": 120, "step": 4, "unit": "px", "default": 0 },
+    { "type": "range", "id": "pad_inf", "label": "Espacio inferior escritorio", "min": 0, "max": 120, "step": 4, "unit": "px", "default": 0 },
+    { "type": "header", "content": "Textos de accesibilidad" },
+    { "type": "text", "id": "txt_region", "label": "Nombre del carrusel", "default": "Christmas offers" },
+    { "type": "text", "id": "txt_pausa", "label": "Botón pausar", "default": "Pause slideshow" },
+    { "type": "text", "id": "txt_ir_a", "label": "Botón ir a diapositiva", "default": "Go to slide" }
+  ],
+  "blocks": [
+    {
+      "type": "diapositiva",
+      "name": "Imagen",
+      "settings": [
+        { "type": "image_picker", "id": "imagen", "label": "Imagen", "info": "Escribe el texto alternativo de la imagen en Archivos: por ejemplo «30-day money-back guarantee»." },
+        { "type": "url", "id": "enlace", "label": "Enlace al pulsar (opcional)" }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Banner navideño",
+      "blocks": [
+        { "type": "diapositiva" },
+        { "type": "diapositiva" },
+        { "type": "diapositiva" },
+        { "type": "diapositiva" }
+      ]
+    }
+  ]
+}
+{% endschema %}
