@@ -21,19 +21,19 @@ TRAMOS = {"punta": 0.19 * FACTOR_IMP, "llano": 0.12 * FACTOR_IMP, "valle": 0.08 
 FACTORES = {
     "aire": 0.6, "radiador": 0.6, "estufa": 0.85, "nevera": 0.2, "termo": 0.7,
     "horno": 0.6, "induccion": 0.7, "vitro": 0.75, "lavavajillas": 0.55,
-    "secadora": 0.8, "resto": 1.0,
+    "secadora": 0.8, "freidora": 0.7, "resto": 1.0,
 }
 
 
 def eur(x):
     if 0 < x < 0.005:
         return "< 0,01 €"
-    d = Decimal(str(x)).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+    d = Decimal(str(round(x, 9))).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
     return f"{d:.2f}".replace(".", ",") + " €"
 
 
 def num(x, dec=2):
-    d = Decimal(str(x)).quantize(Decimal(1).scaleb(-dec), rounding=ROUND_HALF_UP)
+    d = Decimal(str(round(x, 9))).quantize(Decimal(1).scaleb(-dec), rounding=ROUND_HALF_UP)
     s = f"{d:,.{dec}f}"
     return s.replace(",", "X").replace(".", ",").replace("X", ".")
 
@@ -126,7 +126,7 @@ md["cuanto-consume-radiador-de-aceite"] = cabecera(
     "\n## Radiador de 2.000 W según horas de uso\n\n" + t3
 
 # ---------------------------------------------------------------- freidora de aire vs horno
-f_fr, f_ho = FACTORES["resto"], FACTORES["horno"]
+f_fr, f_ho = FACTORES["freidora"], FACTORES["horno"]
 MIN_FR, MIN_HO, USOS_MES = 20, 45, 12
 rows = []
 for w in [1200, 1500, 1800]:
@@ -155,7 +155,7 @@ for m in [10, 15, 20, 30, 40]:
 t3 = tabla("freidora_minutos", ["Tiempo", "kWh", "Coste"], rows)
 md["cuanto-consume-freidora-de-aire"] = cabecera(
     "freidora de aire frente a horno",
-    f"- Freidora: factor {num(f_fr, 1)} (\"resto\" en CLAUDE.md; es una estimación por arriba). Uso tipo {MIN_FR} min.\n"
+    f"- Freidora: factor {num(f_fr, 1)} (el termostato corta la resistencia a ratos). Uso tipo {MIN_FR} min.\n"
     f"- Horno: factor {num(f_ho, 1)}. Uso tipo {MIN_HO} min (incluye ~10 min de precalentado).\n"
     f"- {USOS_MES} usos al mes (unas 3 por semana), 12 meses.\n"
 ) + "## Comparativa\n\n" + t1 + "\n## Freidora de 1.500 W frente a horno de 2.500 W\n\n" + t2 + \

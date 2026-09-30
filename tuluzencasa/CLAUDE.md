@@ -22,7 +22,8 @@ Consulta sus IDs con `GET /wp-json/wp/v2/categories?per_page=100` antes de usarl
 ## Criterios de los precios (deben coincidir con la calculadora de la home)
 - Precio de la energía: 0,13 €/kWh sin impuestos. Impuestos: impuesto eléctrico 5,11 % e IVA 21 % → factor 1,272 → **0,165 €/kWh con impuestos**. Indica siempre este precio en el artículo y que el lector puede cambiarlo por el de su factura.
 - Tarifa por horas (2.0TD) orientativa: punta 0,19 · llano 0,12 · valle 0,08 €/kWh sin impuestos. Punta 10–14 h y 18–22 h; llano 8–10, 14–18 y 22–24 h; valle 0–8 h y fines de semana.
-- Factores de uso real: aire acondicionado 0,6 · radiador de aceite 0,6 · estufa 0,85 · nevera y congelador 0,2 (sobre 150 W nominales) · termo 0,7 · horno 0,6 · inducción 0,7 · vitrocerámica 0,75 · lavavajillas 0,55 · secadora 0,8 · resto 1.
+- Factores de uso real: aire acondicionado 0,6 · radiador de aceite 0,6 · estufa 0,85 · nevera y congelador 0,2 (sobre 150 W nominales) · termo 0,7 · horno 0,6 · inducción 0,7 · vitrocerámica 0,75 · lavavajillas 0,55 · secadora 0,8 · freidora de aire 0,7 · resto 1.
+- Aire acondicionado de 3.000 frigorías = 1.000 W de potencia eléctrica (EER 3,5). Usa este valor en artículos y en la calculadora de la home.
 - Calcula todas las cifras con un script (no de memoria) y redondea a 2 decimales en euros.
 
 ## Estilo de los artículos

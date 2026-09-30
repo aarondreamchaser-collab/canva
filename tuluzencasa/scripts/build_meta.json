@@ -1,26 +1,10 @@
 {
- "cuanto-consume-aire-acondicionado": {
-  "title": "Cuánto consume un aire acondicionado por hora (y cuánto cuesta en tu factura)",
-  "excerpt": "Un aire acondicionado de 1.000 W gasta unos 0,6 kWh por hora: 0,10 € la hora y 23,76 € al mes con 8 horas diarias a 0,165 €/kWh.",
-  "category": "consumo",
-  "keyword": "cuánto consume un aire acondicionado",
-  "words": 1672,
-  "links": [
-   "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
-   "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
-   "https://tuluzencasa.com/",
-   "https://tuluzencasa.com/"
-  ],
-  "importes_sin_calculo": [],
-  "verificar": [],
-  "excerpt_len": 128
- },
  "cuanto-consume-freidora-de-aire": {
   "title": "Cuánto consume una freidora de aire frente a un horno eléctrico",
-  "excerpt": "Una freidora de aire de 1.500 W gasta unos 0,5 kWh en 20 minutos: 0,08 € por uso, frente a 0,19 € de un horno de 2.500 W, a 0,165 €/kWh.",
+  "excerpt": "Una freidora de aire de 1.500 W gasta unos 0,35 kWh en 20 minutos: 0,06 € por uso, frente a 0,19 € de un horno de 2.500 W, a 0,165 €/kWh.",
   "category": "consumo",
   "keyword": "cuánto consume una freidora de aire",
-  "words": 1254,
+  "words": 1251,
   "links": [
    "https://tuluzencasa.com/cuanto-consume-una-nevera/",
    "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
@@ -31,83 +15,6 @@
   "verificar": [
    "[VERIFICAR: rangos de potencia por capacidad según modelos del mercado]"
   ],
-  "excerpt_len": 136
- },
- "cuanto-consume-radiador-de-aceite": {
-  "title": "Cuánto consume un radiador de aceite: coste por hora, día y mes",
-  "excerpt": "Un radiador de aceite de 2.000 W gasta unos 1,2 kWh por hora: 0,20 € la hora y 29,70 € al mes con 5 horas diarias a 0,165 €/kWh.",
-  "category": "climatizacion",
-  "keyword": "cuánto consume un radiador de aceite",
-  "words": 1414,
-  "links": [
-   "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
-   "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
-   "https://tuluzencasa.com/",
-   "https://tuluzencasa.com/"
-  ],
-  "importes_sin_calculo": [],
-  "verificar": [
-   "[VERIFICAR: regla orientativa de W/m², depende mucho del aislamiento y la zona climática]"
-  ],
-  "excerpt_len": 128
- },
- "cuanto-consume-termo-electrico": {
-  "title": "Cuánto consume un termo eléctrico y cómo programarlo para ahorrar",
-  "excerpt": "Un termo eléctrico de 1.500 W cuesta unos 0,52 € al día y 15,59 € al mes a 0,165 €/kWh. Programado para calentar en valle, baja a 9,62 € al mes.",
-  "category": "consumo",
-  "keyword": "cuánto consume un termo eléctrico",
-  "words": 1447,
-  "links": [
-   "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
-   "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
-   "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
-   "https://tuluzencasa.com/cuanto-consume-una-nevera/",
-   "https://tuluzencasa.com/",
-   "https://tuluzencasa.com/"
-  ],
-  "importes_sin_calculo": [],
-  "verificar": [
-   "[VERIFICAR: recomendación de temperatura de acumulación, RD 487/2022 y guías de Sanidad]"
-  ],
-  "excerpt_len": 144
- },
- "cuanto-consume-una-nevera": {
-  "title": "Cuánto consume una nevera al mes según su etiqueta energética",
-  "excerpt": "Una nevera normal gasta unos 0,72 kWh al día: 0,12 € diarios, 3,56 € al mes y 43,36 € al año a 0,165 €/kWh. Tu etiqueta te da la cifra exacta.",
-  "category": "consumo",
-  "keyword": "cuánto consume una nevera",
-  "words": 1262,
-  "links": [
-   "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
-   "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
-   "https://tuluzencasa.com/",
-   "https://tuluzencasa.com/"
-  ],
-  "importes_sin_calculo": [],
-  "verificar": [
-   "[VERIFICAR: Reglamento Delegado (UE) 2019/2016, en vigor desde el 1 de marzo de 2021]",
-   "[VERIFICAR: disponibilidad de la ficha para modelos anteriores a 2021]"
-  ],
-  "excerpt_len": 142
- },
- "por-que-salta-el-diferencial": {
-  "title": "Por qué salta el diferencial: causas y cómo encontrar el aparato culpable",
-  "excerpt": "El diferencial salta al detectar una fuga a tierra de hasta 30 mA, casi siempre por un aparato averiado o humedad. Así encuentras al culpable sin riesgo.",
-  "category": "instalacion",
-  "keyword": "por qué salta el diferencial",
-  "words": 1675,
-  "links": [
-   "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
-   "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
-   "https://tuluzencasa.com/",
-   "https://tuluzencasa.com/"
-  ],
-  "importes_sin_calculo": [],
-  "verificar": [
-   "[VERIFICAR: ITC-BT-25 e ITC-BT-24 para la sensibilidad exigida en viviendas]",
-   "[VERIFICAR: valores típicos de corriente de fuga de equipos electrónicos]",
-   "[VERIFICAR: periodicidad recomendada por los fabricantes, habitualmente mensual o trimestral]"
-  ],
-  "excerpt_len": 153
+  "excerpt_len": 137
  }
 }
