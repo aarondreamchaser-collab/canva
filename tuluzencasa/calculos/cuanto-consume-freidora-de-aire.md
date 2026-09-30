@@ -15,16 +15,16 @@
 | Freidora 1.500 W | 0,17 € | 0,35 | 0,06 € | 0,69 € | 8,32 € |
 | Freidora 1.800 W | 0,21 € | 0,42 | 0,07 € | 0,83 € | 9,98 € |
 | Horno 2.000 W | 0,20 € | 0,90 | 0,15 € | 1,78 € | 21,38 € |
-| Horno 2.500 W | 0,25 € | 1,13 | 0,19 € | 2,23 € | 26,73 € |
+| Horno 2.200 W | 0,22 € | 0,99 | 0,16 € | 1,96 € | 23,52 € |
 | Horno 3.000 W | 0,30 € | 1,35 | 0,22 € | 2,67 € | 32,08 € |
 
-## Freidora de 1.500 W frente a horno de 2.500 W
+## Freidora de 1.500 W frente a horno de 2.200 W
 
 | Caso | Por uso | Por mes (12 usos) | Por año |
 | --- | --- | --- | --- |
 | Freidora de 1.500 W, 20 min | 0,06 € | 0,69 € | 8,32 € |
-| Horno de 2.500 W, 45 min | 0,19 € | 2,23 € | 26,73 € |
-| Diferencia | 0,13 € | 1,53 € | 18,41 € |
+| Horno de 2.200 W, 45 min | 0,16 € | 1,96 € | 23,52 € |
+| Diferencia | 0,11 € | 1,27 € | 15,21 € |
 
 ## Freidora de 1.500 W según minutos
 

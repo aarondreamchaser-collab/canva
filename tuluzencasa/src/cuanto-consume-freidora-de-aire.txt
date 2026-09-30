@@ -1,9 +1,9 @@
 title: Cuánto consume una freidora de aire frente a un horno eléctrico
-excerpt: Una freidora de aire de 1.500 W gasta unos 0,35 kWh en 20 minutos: 0,06 € por uso, frente a 0,19 € de un horno de 2.500 W, a 0,165 €/kWh.
+excerpt: Una freidora de aire de 1.500 W gasta unos 0,35 kWh en 20 minutos: 0,06 € por uso, frente a 0,16 € de un horno de 2.200 W, a 0,165 €/kWh.
 category: consumo
 keyword: cuánto consume una freidora de aire
 ---
-Una freidora de aire de 1.500 W consume unos 0,35 kWh en una tanda de 20 minutos, que son unos 0,06 € por uso. Un horno eléctrico de 2.500 W, con su precalentado y 45 minutos de uso, se va a unos 0,19 €: unas tres veces más por cada vez que cocinas.
+Una freidora de aire de 1.500 W consume unos 0,35 kWh en una tanda de 20 minutos, que son unos 0,06 € por uso. Un horno eléctrico de 2.200 W, con su precalentado y 45 minutos de uso, se va a unos 0,16 €: casi tres veces más por cada vez que cocinas.
 
 Todas las cuentas usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo y todo se ajusta en la misma proporción.
 
@@ -15,7 +15,7 @@ La tabla compara las potencias más habituales de freidoras de aire y hornos el�
 
 Un detalle importante sobre cómo están hechos los cálculos. Para el horno aplicamos un factor de uso real de 0,6, porque una vez alcanza la temperatura el termostato corta la resistencia a ratos. La freidora también tiene termostato y hace lo mismo, así que le aplicamos un factor de 0,7: de cada 20 minutos de uso, la resistencia gasta como si funcionara unos 14 a plena potencia. Es la misma regla que usa la calculadora de la portada.
 
-Por hora, una freidora de 1.500 W cuesta 0,17 € y un horno de 2.500 W, 0,25 €. Pero la diferencia grande está en el tiempo: la freidora calienta una cesta pequeña en pocos minutos y el horno tiene que calentar una cavidad mucho mayor, y eso lleva más tiempo.
+Por hora, una freidora de 1.500 W cuesta 0,17 € y un horno de 2.200 W, 0,22 €. Pero la diferencia grande está en el tiempo: la freidora calienta una cesta pequeña en pocos minutos y el horno tiene que calentar una cavidad mucho mayor, y eso lleva más tiempo.
 
 ## Freidora de aire frente a horno: lo que ahorras al año
 
@@ -23,7 +23,7 @@ Con los modelos más habituales, esta es la diferencia en tu factura:
 
 {{T:freidora_ahorro}}
 
-Son unos 18,41 € al año con tres usos a la semana. No es una cantidad que cambie tu factura por sí sola, pero si ya tienes freidora de aire, merece la pena usarla para todo lo que quepa en la cesta. Donde de verdad se nota es en recetas cortas: calentar una ración, hacer unas patatas o dorar algo que en el horno te obligaría a precalentar 10 minutos para cocinar 15.
+Son unos 15,21 € al año con tres usos a la semana, comparando con un horno de 2.200 W, el mismo que usa la calculadora de la portada. No es una cantidad que cambie tu factura por sí sola, pero si ya tienes freidora de aire, merece la pena usarla para todo lo que quepa en la cesta. Donde de verdad se nota es en recetas cortas: calentar una ración, hacer unas patatas o dorar algo que en el horno te obligaría a precalentar 10 minutos para cocinar 15.
 
 El horno sigue teniendo sentido cuando cocinas en cantidad. Una bandeja grande de verduras, un asado o dos pizzas no caben en una cesta de 4 o 5 litros, y hacer tres tandas seguidas en la freidora puede costar lo mismo que una sola hornada. La regla práctica: <strong>poca cantidad, freidora; mucha cantidad, horno</strong>.
 
@@ -68,7 +68,7 @@ Depende de la potencia y el tiempo de cada uno. El microondas suele usarse menos
 
 ### ¿Compensa comprar una freidora de aire solo por el ahorro?
 
-Con tres usos a la semana, ahorras unos 18,41 € al año frente a un horno de 2.500 W. El ahorro existe, pero tardas años en amortizar el aparato solo con eso. Compensa si te gusta cocinar con ella y vas a usarla a menudo.
+Con tres usos a la semana, ahorras unos 15,21 € al año frente a un horno de 2.200 W. El ahorro existe, pero tardas años en amortizar el aparato solo con eso. Compensa si te gusta cocinar con ella y vas a usarla a menudo.
 
 ### ¿La freidora de aire gasta mucho en espera?
 

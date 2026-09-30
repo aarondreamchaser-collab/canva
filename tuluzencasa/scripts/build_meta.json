@@ -1,10 +1,10 @@
 {
  "cuanto-consume-freidora-de-aire": {
   "title": "Cuánto consume una freidora de aire frente a un horno eléctrico",
-  "excerpt": "Una freidora de aire de 1.500 W gasta unos 0,35 kWh en 20 minutos: 0,06 € por uso, frente a 0,19 € de un horno de 2.500 W, a 0,165 €/kWh.",
+  "excerpt": "Una freidora de aire de 1.500 W gasta unos 0,35 kWh en 20 minutos: 0,06 € por uso, frente a 0,16 € de un horno de 2.200 W, a 0,165 €/kWh.",
   "category": "consumo",
   "keyword": "cuánto consume una freidora de aire",
-  "words": 1251,
+  "words": 1267,
   "links": [
    "https://tuluzencasa.com/cuanto-consume-una-nevera/",
    "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
@@ -16,5 +16,25 @@
    "[VERIFICAR: rangos de potencia por capacidad según modelos del mercado]"
   ],
   "excerpt_len": 137
+ },
+ "cuanto-consume-termo-electrico": {
+  "title": "Cuánto consume un termo eléctrico y cómo programarlo para ahorrar",
+  "excerpt": "Un termo eléctrico de 1.500 W cuesta unos 0,52 € al día y 15,59 € al mes a 0,165 €/kWh. Programado para calentar en valle, baja a 9,62 € al mes.",
+  "category": "consumo",
+  "keyword": "cuánto consume un termo eléctrico",
+  "words": 1447,
+  "links": [
+   "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+   "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+   "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+   "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+   "https://tuluzencasa.com/",
+   "https://tuluzencasa.com/"
+  ],
+  "importes_sin_calculo": [],
+  "verificar": [
+   "[VERIFICAR: recomendación de temperatura de acumulación, RD 487/2022 y guías de Sanidad]"
+  ],
+  "excerpt_len": 144
  }
 }

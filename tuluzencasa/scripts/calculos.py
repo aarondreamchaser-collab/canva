@@ -134,18 +134,18 @@ for w in [1200, 1500, 1800]:
     kwh_uso = kwh_h * MIN_FR / 60
     rows.append(["Freidora " + watts(w), eur(kwh_h * PRECIO), num(kwh_uso), eur(kwh_uso * PRECIO),
                  eur(kwh_uso * USOS_MES * PRECIO), eur(kwh_uso * USOS_MES * 12 * PRECIO)])
-for w in [2000, 2500, 3000]:
+for w in [2000, 2200, 3000]:
     kwh_h = w / 1000 * f_ho
     kwh_uso = kwh_h * MIN_HO / 60
     rows.append(["Horno " + watts(w), eur(kwh_h * PRECIO), num(kwh_uso), eur(kwh_uso * PRECIO),
                  eur(kwh_uso * USOS_MES * PRECIO), eur(kwh_uso * USOS_MES * 12 * PRECIO)])
 t1 = tabla("freidora_comparativa",
            ["Aparato", "Por hora", "kWh por uso", "Por uso", "Por mes (12 usos)", "Por año"], rows)
-# ahorro freidora 1500 vs horno 2500
+# ahorro freidora 1500 vs horno 2200 (mismos valores que la calculadora de la home)
 fr_uso = 1.5 * f_fr * MIN_FR / 60 * PRECIO
-ho_uso = 2.5 * f_ho * MIN_HO / 60 * PRECIO
+ho_uso = 2.2 * f_ho * MIN_HO / 60 * PRECIO
 rows = [["Freidora de 1.500 W, 20 min", eur(fr_uso), eur(fr_uso * USOS_MES), eur(fr_uso * USOS_MES * 12)],
-        ["Horno de 2.500 W, 45 min", eur(ho_uso), eur(ho_uso * USOS_MES), eur(ho_uso * USOS_MES * 12)],
+        ["Horno de 2.200 W, 45 min", eur(ho_uso), eur(ho_uso * USOS_MES), eur(ho_uso * USOS_MES * 12)],
         ["Diferencia", eur(ho_uso - fr_uso), eur((ho_uso - fr_uso) * USOS_MES), eur((ho_uso - fr_uso) * USOS_MES * 12)]]
 t2 = tabla("freidora_ahorro", ["Caso", "Por uso", "Por mes (12 usos)", "Por año"], rows)
 rows = []
@@ -158,7 +158,7 @@ md["cuanto-consume-freidora-de-aire"] = cabecera(
     f"- Freidora: factor {num(f_fr, 1)} (el termostato corta la resistencia a ratos). Uso tipo {MIN_FR} min.\n"
     f"- Horno: factor {num(f_ho, 1)}. Uso tipo {MIN_HO} min (incluye ~10 min de precalentado).\n"
     f"- {USOS_MES} usos al mes (unas 3 por semana), 12 meses.\n"
-) + "## Comparativa\n\n" + t1 + "\n## Freidora de 1.500 W frente a horno de 2.500 W\n\n" + t2 + \
+) + "## Comparativa\n\n" + t1 + "\n## Freidora de 1.500 W frente a horno de 2.200 W\n\n" + t2 + \
     "\n## Freidora de 1.500 W según minutos\n\n" + t3
 
 # ---------------------------------------------------------------- termo eléctrico
