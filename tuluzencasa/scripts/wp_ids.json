@@ -1,0 +1,26 @@
+{
+ "cuanto-consume-aire-acondicionado": {
+  "id": 16,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-freidora-de-aire": {
+  "id": 17,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-radiador-de-aceite": {
+  "id": 18,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-termo-electrico": {
+  "id": 19,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-una-nevera": {
+  "id": 20,
+  "rankmath_status": 200
+ },
+ "por-que-salta-el-diferencial": {
+  "id": 21,
+  "rankmath_status": 200
+ }
+}

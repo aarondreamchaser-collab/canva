@@ -1,0 +1,89 @@
+title: Cuánto consume un radiador de aceite: coste por hora, día y mes
+excerpt: Un radiador de aceite de 2.000 W gasta unos 1,2 kWh por hora: 0,20 € la hora y 29,70 € al mes con 5 horas diarias a 0,165 €/kWh.
+category: climatizacion
+keyword: cuánto consume un radiador de aceite
+---
+Un radiador de aceite de 2.000 W consume de media unos 1,2 kWh por cada hora encendido, lo que cuesta unos 0,20 € la hora. Si lo usas 5 horas al día, son 0,99 € diarios y 29,70 € al mes, y un invierno de cuatro meses se va a 118,80 €.
+
+Estas cifras usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más impuesto eléctrico e IVA). Si en tu factura el kWh sale a otro precio, cámbialo: el coste sube o baja en la misma proporción.
+
+## Cuánto cuesta un radiador de aceite por hora, día y mes
+
+La potencia que marca la etiqueta del radiador es la que consume con la resistencia encendida. Pero en cuanto la habitación llega a la temperatura del termostato, la resistencia se apaga y el aceite sigue soltando calor un rato. Por eso aplicamos un factor de uso real de 0,6: de cada hora encendido, el radiador gasta de media como si funcionara 36 minutos a plena potencia.
+
+{{T:radiador_potencias}}
+
+Si tu radiador tiene varias posiciones de potencia (muchos modelos tienen dos resistencias que puedes encender por separado), el consumo depende de la posición que uses. En la posición baja de un radiador de 2.000 W puedes estar gastando como uno de 800 o 1.000 W; mira la placa de características para ver qué potencia tiene cada resistencia.
+
+## El aceite no ahorra: calienta mejor, pero gasta lo mismo
+
+Existe la idea de que un radiador de aceite consume menos que otros calefactores eléctricos. No es así. Todos los aparatos que calientan con una resistencia (radiador de aceite, emisor térmico, convector, calefactor de aire o estufa de cuarzo) convierten 1 kWh de electricidad en 1 kWh de calor. Ninguno es más "eficiente" que otro en ese sentido.
+
+Lo que cambia es cómo reparten ese calor:
+
+- <strong>El radiador de aceite</strong> tarda en calentarse, pero guarda el calor y lo suelta de forma suave. Es cómodo para una habitación en la que vas a estar varias horas.
+- <strong>El calefactor de aire</strong> calienta rápido una zona pequeña, pero en cuanto lo apagas se enfría todo enseguida.
+- <strong>La estufa de cuarzo o halógena</strong> calienta lo que tiene delante por radiación: te calienta a ti, no la habitación.
+
+Si lo que buscas es gastar menos por cada grado, la alternativa real es una bomba de calor. Un split de aire acondicionado con modo calor da varias veces más calor que la electricidad que consume. Puedes ver sus costes en el artículo sobre <a href="https://tuluzencasa.com/cuanto-consume-aire-acondicionado/">cuánto consume un aire acondicionado por hora</a>; en modo calor el orden de magnitud es parecido.
+
+## A qué hora sale más barato usar el radiador
+
+Con la tarifa 2.0TD con discriminación horaria, el mismo radiador cuesta muy distinto según la hora. Así sale uno de 2.000 W usado 5 horas al día en cada tramo:
+
+{{T:radiador_tramos}}
+
+Entre usarlo siempre en punta y usarlo en valle hay una diferencia de 43,50 € frente a 18,32 € al mes. El valle va de 0 a 8 h y dura todo el fin de semana; la punta, de 10 a 14 h y de 18 a 22 h. El problema es que por la tarde y a primera hora de la noche, justo cuando más frío se pasa en casa, estamos en punta. Algunas ideas:
+
+- <strong>Precalienta la habitación entre las 14 y las 18 h</strong> (llano) si estás en casa, y deja la puerta cerrada para que conserve el calor cuando pase a punta.
+- <strong>Deja que el aceite trabaje por ti</strong>: el radiador sigue soltando calor un rato después de apagarlo, así que puedes apagarlo un poco antes de las 18 h.
+- <strong>Usa el fin de semana sin mirar el reloj</strong>, porque todo es valle.
+
+## Cuántas horas al día puedes permitirte
+
+La otra palanca es el tiempo. Así sube la cuenta de un radiador de 2.000 W según las horas que esté encendido cada día:
+
+{{T:radiador_horas}}
+
+Pasar de 4 a 8 horas diarias significa pasar de 23,76 € a 47,52 € al mes con el mismo radiador. Si lo usas para calentar un dormitorio antes de dormir, con una o dos horas suele bastar; no hace falta dejarlo toda la noche.
+
+## Trucos para gastar menos con el radiador de aceite
+
+- <strong>Usa el termostato, no el interruptor</strong>. Ponlo en una posición media y deja que corte solo. Si lo dejas al máximo, la resistencia estará encendida mucho más tiempo del necesario.
+- <strong>Calienta solo la habitación en la que estás</strong> y cierra la puerta. Un radiador portátil tiene sentido precisamente para eso: no para calentar el pasillo.
+- <strong>Colócalo bien</strong>. Lejos de cortinas y muebles que tapen el calor, y mejor cerca de la zona fría de la habitación (bajo una ventana o junto a una pared exterior).
+- <strong>Enchúfalo directamente a la pared</strong>. Un radiador de 2.000 W tira de mucha corriente; en una regleta barata o un alargador fino, el cable se calienta. No es un truco de ahorro, pero sí de seguridad.
+- <strong>Aprovecha el temporizador</strong> si el tuyo lo tiene: que se encienda media hora antes de que llegues y se apague solo.
+- <strong>Tapa las rendijas</strong> de puertas y ventanas con burletes. Cuanto menos calor se escape, menos tiempo tendrá que funcionar la resistencia.
+
+Ten en cuenta también la potencia contratada. Un radiador de 2.000 W encendido a la vez que el horno o el termo puede hacer saltar el limitador de potencia si tienes poca potencia contratada. Si en tu casa hay termo eléctrico, mira <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">cuánto consume un termo eléctrico y cómo programarlo</a> para que caliente de madrugada y no coincida con la calefacción.
+
+## Cuánta potencia necesitas para tu habitación
+
+Un radiador demasiado pequeño estará siempre encendido a tope y no llegará a calentar; uno demasiado grande hará cortes continuos. Como orientación se suele hablar de unos 100 W por metro cuadrado en una habitación normal [VERIFICAR: regla orientativa de W/m², depende mucho del aislamiento y la zona climática]. Con ese criterio, un dormitorio de 10 m² iría bien con uno de 1.000 W, y un salón de 20 m² necesitaría 2.000 W.
+
+Si tu casa está mal aislada o vives en una zona fría, ese cálculo se queda corto. Y si calientas un salón grande todos los días durante horas, compara el gasto con lo que costaría una bomba de calor: la diferencia al final del invierno puede ser importante. En la <a href="https://tuluzencasa.com/">calculadora de consumo de la portada</a> puedes meter varios aparatos y ver cuánto supone cada uno en tu factura.
+
+## Preguntas frecuentes
+
+### ¿Cuánto consume un radiador de aceite de 1.500 W?
+
+Con un uso real del 60 %, unos 0,9 kWh por hora: 0,15 € la hora, 0,74 € al día con 5 horas de uso y 22,28 € al mes.
+
+### ¿Gasta menos un radiador de aceite que un calefactor?
+
+A igual potencia y mismas horas, no. Los dos convierten cada kWh en la misma cantidad de calor. El de aceite reparte el calor más despacio y lo mantiene más tiempo después de apagarse, lo que puede ayudarte a tenerlo encendido menos rato.
+
+### ¿Es seguro dejar el radiador de aceite encendido toda la noche?
+
+Los radiadores de aceite tienen termostato y, por lo general, protección contra sobrecalentamiento, pero dejarlo toda la noche multiplica el gasto. Es más barato calentar el dormitorio antes de acostarte y apagarlo, o usar el temporizador.
+
+### ¿Hay que cambiarle el aceite?
+
+No. El aceite va sellado dentro del radiador y no se cambia ni se rellena. Si ves una fuga, deja de usarlo.
+
+### ¿Qué radiador de aceite gasta menos?
+
+El que tenga la potencia justa para tu habitación y un buen termostato. Un radiador de 1.000 W bien elegido para un dormitorio pequeño gasta la mitad por hora que uno de 2.000 W, y a igual potencia todos consumen lo mismo.
+
+<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon la potencia de tu radiador, las horas de uso y el precio de tu factura.

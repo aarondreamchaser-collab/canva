@@ -1,0 +1,110 @@
+title: Por qué salta el diferencial: causas y cómo encontrar el aparato culpable
+excerpt: El diferencial salta al detectar una fuga a tierra de hasta 30 mA, casi siempre por un aparato averiado o humedad. Así encuentras al culpable sin riesgo.
+category: instalacion
+keyword: por qué salta el diferencial
+---
+El diferencial salta porque detecta que una parte de la corriente se escapa a tierra en lugar de volver por los cables: en una vivienda, con una fuga de 30 miliamperios (mA) o menos ya corta la luz. Casi siempre el culpable es un aparato averiado, humedad en un enchufe o una caja de conexiones, o un cable dañado, y en la mayoría de los casos puedes encontrar el origen sin abrir el cuadro eléctrico.
+
+Este artículo te explica qué puedes comprobar tú sin riesgo y en qué momento tienes que llamar a un instalador autorizado. No sustituye a la revisión de un profesional: si tienes dudas en cualquier paso, para y llama.
+
+## Qué hace el diferencial y en qué se diferencia del resto del cuadro
+
+En el cuadro eléctrico de una vivienda hay tres tipos de interruptores, y cada uno salta por un motivo distinto:
+
+- <strong>El interruptor general (IGA) y el limitador de potencia (ICP)</strong>. Saltan cuando pides más potencia de la que tienes contratada o de la que admite la instalación: por ejemplo, horno, lavadora y radiador a la vez. Es una sobrecarga, no una avería.
+- <strong>Los pequeños interruptores automáticos (PIA)</strong>. Hay uno por circuito (alumbrado, enchufes, cocina, baño…). Saltan por sobrecarga o por cortocircuito en ese circuito concreto.
+- <strong>El interruptor diferencial (ID)</strong>. Suele ser más ancho y tiene un botón marcado con una "T" de test. Compara la corriente que sale con la que vuelve; si no coinciden, es que parte se está yendo a tierra, a veces a través de una persona. Entonces corta en milisegundos.
+
+En las viviendas, el diferencial habitual es de 30 mA de sensibilidad, que es la que exige el Reglamento Electrotécnico para Baja Tensión (REBT, aprobado por el RD 842/2002) para proteger a las personas [VERIFICAR: ITC-BT-25 e ITC-BT-24 para la sensibilidad exigida en viviendas]. Algunas viviendas tienen más de un diferencial, cada uno protegiendo un grupo de circuitos.
+
+Si lo que salta es el general o el limitador al encender varias cosas a la vez, no es un problema de fuga sino de potencia. Este artículo trata del diferencial.
+
+## Las causas más frecuentes de que salte el diferencial
+
+- <strong>Un aparato con una fuga a tierra</strong>. Es la causa más habitual. Los aparatos que calientan agua o aire con una resistencia son los sospechosos principales: termo, lavadora, lavavajillas, horno, radiadores y calefactores. Con el tiempo, la resistencia o su aislamiento se deterioran y dejan pasar corriente a la carcasa.
+- <strong>Humedad</strong>. Enchufes de terraza o jardín, cajas de conexiones con filtraciones, una lámpara exterior o una pared con humedades. Si el diferencial salta cuando llueve, apunta aquí.
+- <strong>Un cable o una clavija dañados</strong>. Un alargador pisado, un cable mordido o una clavija quemada.
+- <strong>Muchas fugas pequeñas que se suman</strong>. Cada aparato con fuente de alimentación electrónica deja pasar una corriente mínima a tierra. Por separado no llegan, pero muchos enchufados en el mismo circuito pueden acercarse al límite [VERIFICAR: valores típicos de corriente de fuga de equipos electrónicos].
+- <strong>Tormentas y sobretensiones</strong>. Una descarga en la red puede hacer saltar el diferencial sin que haya ninguna avería en casa. Si vuelve a subir sin problema y no se repite, no suele haber más que hacer.
+- <strong>El propio diferencial</strong>. Con los años, un diferencial puede empezar a saltar sin motivo o, peor, dejar de saltar. Esto solo lo puede comprobar un instalador con el equipo adecuado.
+
+## Cómo encontrar el aparato culpable sin riesgo
+
+Lo único que vas a hacer es <strong>accionar las palancas del cuadro y enchufar y desenchufar aparatos</strong>. No abras el cuadro, no quites su tapa ni toques cables. Hazlo con las manos secas y sin pisar suelo mojado.
+
+- <strong>Paso 1: desenchufa todo lo que puedas</strong>. Saca de la pared las clavijas de los aparatos, no te limites a apagarlos: un aparato apagado puede seguir teniendo la fuga.
+- <strong>Paso 2: baja todos los PIA</strong> (los interruptores pequeños de cada circuito).
+- <strong>Paso 3: sube el diferencial</strong>. Si no se queda arriba incluso con todos los PIA bajados, el problema está en el propio diferencial o en la instalación: llama a un instalador y no insistas.
+- <strong>Paso 4: sube los PIA de uno en uno</strong>, esperando unos segundos entre cada uno. Si al subir uno salta el diferencial, ya sabes qué circuito tiene el problema.
+- <strong>Paso 5: si ningún circuito lo hace saltar</strong>, vuelve a enchufar los aparatos de uno en uno, dejando cada uno un rato encendido. Los que calientan, como el termo o la lavadora, pueden tardar en provocar la fuga hasta que la resistencia se pone en marcha.
+- <strong>Paso 6: aparta el aparato culpable</strong> en cuanto lo encuentres. No lo vuelvas a usar hasta que lo revise un servicio técnico.
+
+Si has localizado el circuito pero no hay ningún aparato enchufado que explique la fuga (por ejemplo, es el circuito de alumbrado o de un aparato conectado directamente a la pared, como un horno empotrado o un termo sin enchufe), deja ese PIA bajado y llama a un instalador.
+
+## Lo que puedes hacer tú y lo que debe hacer un instalador autorizado
+
+<strong>Puedes hacerlo tú, sin riesgo:</strong>
+
+- Subir y bajar las palancas del cuadro y pulsar el botón de test del diferencial.
+- Desenchufar y enchufar aparatos para localizar el culpable.
+- Dejar de usar un aparato que provoca el disparo y llevarlo al servicio técnico.
+- Revisar a simple vista cables, clavijas y alargadores, siempre desenchufados.
+- Secar una zona mojada con la luz cortada y sin tocar enchufes ni cajas.
+
+<strong>Tiene que hacerlo un instalador autorizado</strong> (empresa habilitada según el REBT, RD 842/2002):
+
+- Abrir el cuadro, cambiar el diferencial o cualquier otro interruptor.
+- Buscar y reparar fugas en la instalación fija: cables empotrados, cajas de registro, enchufes o puntos de luz.
+- Medir el aislamiento de los circuitos y el valor de la toma de tierra.
+- Conectar o desconectar aparatos que van directamente a la instalación, sin enchufe.
+
+<strong>Nunca</strong> puentees el diferencial ni lo bloquees para que no salte. Es el dispositivo que te protege de una descarga: si salta, es porque algo va mal.
+
+## ¿Una fuga pequeña gasta luz?
+
+Una fuga que no llega a hacer saltar el diferencial también consume energía, aunque muy poca. Con un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (cámbialo por el de tu factura si es distinto), esto es lo que costaría una fuga continua las 24 horas:
+
+{{T:dif_fugas}}
+
+Incluso una fuga cerca del límite del diferencial cuesta menos de 10 € al año. El problema de una fuga no es la factura, es la seguridad: indica que hay un aislamiento dañado y que algo puede ponerse en tensión. Por eso hay que arreglarla aunque no se note en el recibo.
+
+Lo que sí sale caro es seguir usando un aparato averiado que ha empezado a fallar. Estos son los aparatos que más a menudo están detrás de un diferencial que salta, con lo que cuesta cada hora de uso:
+
+{{T:dif_aparatos}}
+
+Si el diferencial salta al encender la climatización, revisa los artículos sobre <a href="https://tuluzencasa.com/cuanto-consume-aire-acondicionado/">cuánto consume un aire acondicionado</a> y <a href="https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/">cuánto consume un radiador de aceite</a>. Allí verás qué potencia tienen y te ayudará a distinguir si lo que salta es el diferencial (fuga) o el limitador (demasiada potencia a la vez).
+
+## Trucos para evitar sustos y gastos
+
+- <strong>Pulsa el botón de test del diferencial</strong> de vez en cuando. Si al pulsarlo no salta, llama a un instalador: el diferencial no te está protegiendo [VERIFICAR: periodicidad recomendada por los fabricantes, habitualmente mensual o trimestral].
+- <strong>No encadenes regletas</strong> ni conectes aparatos que calientan (radiadores, calefactores, hervidores) a regletas o alargadores finos.
+- <strong>Protege los enchufes exteriores</strong> de la lluvia con tapas estancas instaladas por un profesional.
+- <strong>Desenchufa los aparatos que no uses</strong> en terrazas, trasteros o garajes, donde hay más humedad.
+- <strong>Repara el aparato con fuga</strong> antes de volver a usarlo. Un termo o una lavadora con la resistencia dañada puede acabar provocando una avería mayor.
+- <strong>Revisa la potencia contratada</strong> si lo que salta es el limitador y no el diferencial: puedes ahorrar organizando mejor el uso de los aparatos antes de subir la potencia.
+
+Si quieres ver cuánto gasta cada aparato de tu casa y cuánta potencia necesitas a la vez, usa la <a href="https://tuluzencasa.com/">calculadora de consumo de la portada</a>.
+
+## Preguntas frecuentes
+
+### ¿Por qué salta el diferencial cuando llueve?
+
+Casi siempre por humedad en un enchufe o una luz exterior, o por filtraciones en alguna caja de conexiones. Desconecta los aparatos exteriores y baja el PIA de ese circuito si lo tienes identificado. La reparación de la instalación la tiene que hacer un instalador.
+
+### ¿Por qué salta el diferencial por la noche sin que haya nada encendido?
+
+Suele ser un aparato que se pone en marcha solo: el termo que empieza a calentar, la nevera al arrancar el compresor o un aparato programado. Sigue los pasos de arriba prestando atención a los que funcionan de forma automática.
+
+### ¿Puedo cambiar yo el diferencial?
+
+No. Cambiar un diferencial implica trabajar dentro del cuadro eléctrico y tiene que hacerlo un instalador autorizado según el REBT.
+
+### ¿El diferencial salta aunque todo esté desenchufado?
+
+Si salta con todos los aparatos desenchufados y todos los PIA bajados, el problema está en el diferencial o en la parte fija de la instalación. No insistas en subirlo y llama a un instalador.
+
+### ¿Una fuga pequeña hace que pague más luz?
+
+Muy poco: una fuga continua de 29 mA costaría unos 9,64 € al año. El motivo para arreglarla es la seguridad, no la factura.
+
+<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon tus aparatos, sus horas de uso y el precio de tu factura.
