@@ -1,0 +1,276 @@
+<!-- HOME TULUZENCASA v2 (sin script) — el JavaScript se carga desde WPCode (calculadora.js) -->
+<style>
+body.home{background:#ECEEE9}
+.home .entry-header{display:none}
+.home .inside-article{padding:0!important;background:transparent!important;box-shadow:none!important}
+.home .site-main{margin-top:0!important}
+.home .entry-content{margin-top:0!important}
+
+.tlc{--pared:#ECEEE9;--papel:#FAFBF8;--tinta:#18222E;--tinta2:#4A5663;--cuadro:#22354A;--cuadro2:#15222F;--amarillo:#F2C230;--lcd:#C3CFAB;--lcd-t:#1E2A17;--linea:#D3D7CE;--verde:#2F6B3A;--rojo:#B3412F;
+  font-family:"Archivo","Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",Arial,sans-serif;color:var(--tinta);font-size:17px;line-height:1.55}
+.tlc *,.tlc *::before,.tlc *::after{box-sizing:border-box}
+.tlc h1,.tlc h2,.tlc h3,.tlc p,.tlc ul,.tlc li,.tlc fieldset,.tlc legend{margin:0;padding:0}
+.tlc ul{list-style:none}
+.tlc [hidden]{display:none!important}
+.tlc a{color:inherit}
+.tlc button{font:inherit;cursor:pointer;border:0;margin:0;line-height:1.2;text-transform:none;letter-spacing:normal}
+.tlc input,.tlc select{font:inherit;margin:0;height:auto;line-height:1.3}
+.tlc :focus-visible{outline:3px solid var(--amarillo);outline-offset:2px}
+
+/* Hero */
+.tlc-hero{padding:44px 0 28px;max-width:880px}
+.tlc-eyebrow{font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--tinta2);display:flex;align-items:center;gap:10px}
+.tlc-eyebrow::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--amarillo);box-shadow:0 0 0 4px #F2C23040}
+.tlc-hero h1{margin-top:12px;font-size:clamp(2rem,4.4vw,3.3rem);line-height:1.05;font-weight:800;letter-spacing:-.02em;color:var(--tinta)}
+.tlc-intro{margin-top:16px!important;font-size:1.12rem;color:var(--tinta2);max-width:62ch}
+.tlc-pills{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px!important}
+.tlc-pills li{font-size:.86rem;font-weight:600;background:var(--papel);border:1px solid var(--linea);border-radius:999px;padding:6px 12px 6px 30px;position:relative}
+.tlc-pills li::before{content:"";position:absolute;left:12px;top:50%;width:9px;height:5px;border-left:2px solid var(--verde);border-bottom:2px solid var(--verde);transform:translateY(-70%) rotate(-45deg)}
+
+/* App */
+.tlc-app{display:grid;grid-template-columns:minmax(300px,370px) 1fr;border-radius:16px;overflow:hidden;background:var(--papel);border:1px solid #18222E24;box-shadow:0 1px 2px #18222E14,0 16px 40px -18px #18222E55;margin-bottom:56px}
+.tlc-panel{background:var(--cuadro);color:#E6ECF2;padding:24px;display:flex;flex-direction:column;gap:20px}
+.tlc-lcd{background:var(--lcd);color:var(--lcd-t);border-radius:8px;padding:16px 18px;box-shadow:inset 0 2px 8px #0000004a,0 0 0 4px var(--cuadro2)}
+.tlc-lcd-lab{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;opacity:.75}
+.tlc-lcd-big{font-size:clamp(2.6rem,6vw,3.3rem);font-weight:700;line-height:1;margin-top:6px;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.tlc-lcd-big small{font-size:.36em;font-weight:600;margin-left:6px;letter-spacing:0}
+.tlc-lcd-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px 14px;margin-top:14px;padding-top:12px;border-top:1px dashed #1E2A1766;font-size:.74rem}
+.tlc-lcd-grid span{display:block;font-size:1.05rem;font-weight:700;font-variant-numeric:tabular-nums}
+.tlc-pico{font-size:.8rem;color:#C9D3DD}
+.tlc-pico-t{display:flex;justify-content:space-between;gap:8px}
+.tlc-pico-t strong{color:#fff}
+.tlc-pico-bar{position:relative;height:10px;background:var(--cuadro2);border-radius:5px;margin-top:8px}
+.tlc-pico-bar i{position:absolute;left:0;top:0;bottom:0;border-radius:5px;background:var(--amarillo);transition:width .3s}
+.tlc-pico-bar b{position:absolute;top:-4px;bottom:-4px;width:2px;background:#fff}
+.tlc-pico.is-over .tlc-pico-bar i{background:#E0664F}
+.tlc-pico.is-over .tlc-pico-t strong{color:#FFB4A3}
+
+.tlc-fs{border:0;display:grid;gap:12px;min-width:0}
+.tlc-fs legend{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#AFBCC9;margin-bottom:10px}
+.tlc-seg{display:grid;grid-template-columns:1fr 1fr;background:var(--cuadro2);border-radius:8px;padding:3px;gap:3px}
+.tlc-seg button{background:transparent;color:#C9D3DD;padding:9px 8px;border-radius:6px;font-size:.86rem;font-weight:600}
+.tlc-seg button:hover{background:#ffffff14;color:#fff}
+.tlc-seg button[aria-pressed="true"],.tlc-seg button[aria-pressed="true"]:hover{background:var(--papel);color:var(--tinta)}
+.tlc-f{display:flex;flex-direction:column;gap:5px;font-size:.8rem;color:#C9D3DD;margin:0;min-width:0}
+.tlc-panel input,.tlc-panel select{background:var(--cuadro2);border:1px solid #ffffff26;color:#fff;border-radius:7px;padding:9px 10px;width:100%;font-size:1rem}
+.tlc-panel select option{color:#18222E;background:#fff}
+.tlc-row3{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.tlc-check{display:flex;gap:10px;align-items:flex-start;font-size:.86rem;color:#DCE3EA;cursor:pointer}
+.tlc-check input{width:18px!important;height:18px;margin-top:2px;accent-color:var(--amarillo);flex:none;padding:0}
+.tlc-check small{display:block;color:#98A7B6;font-size:.76rem;line-height:1.4;margin-top:2px}
+.tlc-fine{font-size:.74rem;color:#98A7B6;line-height:1.45}
+
+.tlc-casa{padding:24px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.tlc-casa-h{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px}
+.tlc-casa-h h2,.tlc-diag-h h2{font-size:1.35rem;font-weight:800;letter-spacing:-.01em;color:var(--tinta)}
+.tlc-acts{display:flex;flex-wrap:wrap;gap:6px}
+.tlc-btn-s{background:transparent;color:var(--tinta);border:1px solid #C3C8BE!important;border-radius:7px;padding:7px 11px;font-size:.82rem;font-weight:600}
+.tlc-btn-s:hover{background:#18222E0d;color:var(--tinta)}
+.tlc-form{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;align-items:end;background:#EEF0EA;border:1px solid var(--linea);border-radius:10px;padding:12px}
+.tlc-form .tlc-f{color:var(--tinta2);font-size:.76rem;font-weight:600}
+.tlc-f--2{grid-column:span 2}
+.tlc-form input,.tlc-form select{background:#fff;border:1px solid #C3C8BE;color:var(--tinta);border-radius:7px;padding:9px 10px;width:100%;font-size:.95rem}
+.tlc-form-b{display:flex;gap:6px}
+.tlc-btn{background:var(--tinta);color:#fff;border-radius:8px;padding:10px 16px;font-weight:700;font-size:.95rem;white-space:nowrap;flex:1}
+.tlc-btn:hover{background:#2B3F55;color:#fff}
+.tlc-btn--x{flex:none;background:transparent;color:var(--tinta2);border:1px solid #C3C8BE!important;padding:10px 12px}
+.tlc-btn--x:hover{background:#18222E0d;color:var(--tinta)}
+.tlc-msg{font-size:.82rem;color:var(--verde);min-height:1.2em;font-weight:600}
+.tlc-lista{display:flex;flex-direction:column;gap:8px}
+.tlc-it{border:1px solid var(--linea);border-radius:10px;padding:10px 12px;background:#fff;transition:border-color .2s,box-shadow .2s}
+.tlc-it.is-edit{border-color:var(--amarillo);box-shadow:0 0 0 3px #F2C23033}
+.tlc-it.is-new{animation:tlcflash 1.4s ease}
+@keyframes tlcflash{0%{background:#FFF1C2}100%{background:#fff}}
+.tlc-it-top{display:flex;justify-content:space-between;gap:12px;align-items:baseline}
+.tlc-it-n{font-weight:700;font-size:.97rem;line-height:1.3}
+.tlc-it-m{font-size:.78rem;color:var(--tinta2);margin-top:2px}
+.tlc-it-c{text-align:right;white-space:nowrap}
+.tlc-it-c strong{font-size:1.1rem;font-variant-numeric:tabular-nums}
+.tlc-it-c span{font-size:.75rem;color:var(--tinta2);margin-left:3px}
+.tlc-it-b{display:flex;align-items:center;gap:10px;margin-top:8px}
+.tlc-bar{flex:1;height:6px;background:#E4E7E0;border-radius:3px;overflow:hidden}
+.tlc-bar i{display:block;height:100%;background:var(--cuadro);border-radius:3px;transition:width .3s}
+.tlc-it-act{display:flex;gap:2px}
+.tlc-it-act button{background:transparent;color:var(--tinta2);font-size:.78rem;font-weight:600;padding:4px 7px;border-radius:5px}
+.tlc-it-act button:hover{background:#18222E0f;color:var(--tinta)}
+.tlc-vacio{border:1.5px dashed #C3C8BE;border-radius:10px;padding:22px;text-align:center;color:var(--tinta2);font-size:.92rem}
+
+.tlc-diag{grid-column:1/-1;border-top:1px solid var(--linea);padding:24px}
+.tlc-diag-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:14px}
+.tlc-diag-h p{font-size:.85rem;color:var(--tinta2)}
+.tlc-tips{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.tlc-tip{background:#fff;border:1px solid var(--linea);border-left:4px solid var(--tinta2);border-radius:10px;padding:14px 16px}
+.tlc-tip--ahorro{border-left-color:var(--verde)}
+.tlc-tip--aviso{border-left-color:var(--rojo);background:#FFF8F5}
+.tlc-tip-k{font-size:.7rem;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--tinta2)}
+.tlc-tip--ahorro .tlc-tip-k{color:var(--verde)}
+.tlc-tip--aviso .tlc-tip-k{color:var(--rojo)}
+.tlc-tip h3{font-size:1rem;font-weight:700;line-height:1.3;margin-top:4px;color:var(--tinta)}
+.tlc-tip p{font-size:.88rem;color:var(--tinta2);margin-top:6px;line-height:1.5}
+.tlc-tip-s{display:block;margin-top:8px;font-weight:800;font-size:1.05rem;color:var(--verde);font-variant-numeric:tabular-nums}
+.tlc-tips-vacio{color:var(--tinta2);font-size:.92rem}
+
+@media(max-width:900px){.tlc-app{grid-template-columns:1fr}}
+@media(max-width:560px){
+  .tlc-panel,.tlc-casa,.tlc-diag{padding:18px}
+  .tlc-form{grid-template-columns:1fr 1fr}
+  .tlc-f--2{grid-column:1/-1}
+  .tlc-form-b{grid-column:1/-1}
+  .tlc-it-b{flex-wrap:wrap}
+}
+
+/* Secciones */
+.tlc-sec{padding:44px 0;border-top:1px solid var(--linea)}
+.tlc-sec h2{font-size:1.6rem;font-weight:800;letter-spacing:-.01em;color:var(--tinta)}
+.tlc-sub{color:var(--tinta2);margin-top:4px!important;margin-bottom:20px!important}
+.tlc-quick{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.tlc-q{display:flex;justify-content:space-between;align-items:center;gap:12px;background:var(--papel);border:1px solid var(--linea)!important;border-radius:10px;padding:14px 16px;text-align:left;color:var(--tinta);font-weight:600;font-size:.95rem;transition:border-color .15s,transform .15s}
+.tlc-q:hover{border-color:var(--tinta)!important;background:#fff;color:var(--tinta);transform:translateY(-1px)}
+.tlc-q-d{font-weight:700;white-space:nowrap;background:var(--lcd);color:var(--lcd-t);padding:3px 8px;border-radius:5px;font-size:.85rem;font-variant-numeric:tabular-nums}
+@media(max-width:860px){.tlc-quick{grid-template-columns:1fr}}
+
+.tlc-carril{display:grid;grid-template-columns:repeat(7,1fr);background:var(--papel);border:2px solid var(--tinta);border-radius:10px;padding:18px 12px 14px;position:relative}
+.tlc-carril::before{content:"";position:absolute;left:12px;right:12px;top:50%;height:10px;background:repeating-linear-gradient(90deg,#d5d8d0 0 6px,#c3c7bd 6px 8px);transform:translateY(-50%)}
+.tlc-mod{position:relative;z-index:1;display:flex;flex-direction:column;align-items:center;gap:10px;text-decoration:none!important;padding:0 4px}
+.tlc-caja{width:58px;height:92px;background:#F4F5F1;border:1.5px solid #9CA197;border-radius:5px;display:flex;align-items:flex-end;justify-content:center;padding-bottom:12px}
+.tlc-pal{width:22px;height:34px;background:var(--tinta);border-radius:4px;transition:transform .18s ease,background .18s}
+.tlc-mod:hover .tlc-pal,.tlc-mod:focus-visible .tlc-pal{transform:translateY(-30px);background:var(--verde)}
+.tlc-et{background:var(--papel);border:1px solid var(--linea);font-size:.8rem;font-weight:600;padding:5px 6px;text-align:center;line-height:1.2;min-height:44px;display:flex;align-items:center;justify-content:center;width:100%;color:var(--tinta)}
+@media(max-width:860px){.tlc-carril{grid-template-columns:repeat(4,1fr);row-gap:22px}.tlc-carril::before{display:none}}
+@media(max-width:480px){.tlc-carril{grid-template-columns:repeat(2,1fr)}}
+
+.tlc-met{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}
+.tlc-met-n{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:50%;background:var(--tinta);color:var(--amarillo);font-weight:800;font-size:.85rem;margin-bottom:10px}
+.tlc-met h3{font-size:1.05rem;font-weight:700;margin-bottom:6px!important;color:var(--tinta)}
+.tlc-met p{font-size:.93rem;color:var(--tinta2)}
+.tlc-upd{margin-top:22px!important;font-size:.8rem;color:var(--tinta2)}
+@media(max-width:760px){.tlc-met{grid-template-columns:1fr;gap:20px}}
+@media(prefers-reduced-motion:reduce){.tlc *{transition:none!important;animation:none!important}}
+</style>
+
+<div class="tlc">
+  <section class="tlc-hero">
+    <p class="tlc-eyebrow">Calculadora de consumo eléctrico</p>
+    <h1>¿Cuánto te cuesta la luz de tu casa, aparato por aparato?</h1>
+    <p class="tlc-intro">Añade los aparatos que usas y a qué hora los enciendes. Calculamos tu factura con la tarifa 2.0TD, te decimos qué te está costando más y qué cambio te sale a cuenta de verdad.</p>
+    <ul class="tlc-pills">
+      <li>Precio por horas: punta, llano y valle</li>
+      <li>Consumo real, no solo el de la etiqueta</li>
+      <li>Te avisa si puede saltar el limitador</li>
+    </ul>
+  </section>
+
+  <section class="tlc-app" id="tlc-app" aria-label="Calculadora de consumo">
+    <div class="tlc-panel">
+      <div class="tlc-lcd" aria-live="polite">
+        <div class="tlc-lcd-lab">Factura estimada</div>
+        <div class="tlc-lcd-big"><span id="tlc-fac">0,00</span><small>€/mes</small></div>
+        <div class="tlc-lcd-grid">
+          <div>Aparatos<span id="tlc-ene">0,00 €</span></div>
+          <div>Potencia y contador<span id="tlc-pot">0,00 €</span></div>
+          <div>Al año<span id="tlc-ano">0 €</span></div>
+          <div>Consumo<span id="tlc-kwh">0 kWh/mes</span></div>
+        </div>
+      </div>
+      <div class="tlc-pico" id="tlc-pico">
+        <div class="tlc-pico-t"><span id="tlc-pico-l">Pico de potencia</span><strong id="tlc-pico-v">–</strong></div>
+        <div class="tlc-pico-bar"><i id="tlc-pico-i" style="width:0"></i><b id="tlc-pico-b" style="left:0"></b></div>
+      </div>
+
+      <fieldset class="tlc-fs">
+        <legend>Tu tarifa</legend>
+        <div class="tlc-seg" role="group" aria-label="Tipo de tarifa">
+          <button type="button" id="tlc-t-u" aria-pressed="true">Precio único</button>
+          <button type="button" id="tlc-t-h" aria-pressed="false">Por horas</button>
+        </div>
+        <label class="tlc-f" id="tlc-box-u">Precio del kWh sin impuestos (€)
+          <input id="tlc-pu" type="number" min="0" step="0.001" inputmode="decimal">
+        </label>
+        <div class="tlc-row3" id="tlc-box-h" hidden>
+          <label class="tlc-f">Punta<input id="tlc-pp" type="number" min="0" step="0.001" inputmode="decimal"></label>
+          <label class="tlc-f">Llano<input id="tlc-pl" type="number" min="0" step="0.001" inputmode="decimal"></label>
+          <label class="tlc-f">Valle<input id="tlc-pv" type="number" min="0" step="0.001" inputmode="decimal"></label>
+        </div>
+        <label class="tlc-f">Potencia contratada
+          <select id="tlc-kw"></select>
+        </label>
+        <label class="tlc-check"><input type="checkbox" id="tlc-rl" checked>
+          <span>Consumo realista<small>Neveras, aires y radiadores funcionan a ciclos: no gastan su potencia máxima todo el rato.</small></span>
+        </label>
+      </fieldset>
+      <p class="tlc-fine">Incluye término de potencia (≈0,09 €/kW al día), impuesto eléctrico (5,11 %), IVA (21 %) y alquiler del contador. Resultados orientativos: pon los precios de tu factura para afinar.</p>
+    </div>
+
+    <div class="tlc-casa">
+      <div class="tlc-casa-h">
+        <h2>Tu casa</h2>
+        <div class="tlc-acts">
+          <button type="button" class="tlc-btn-s" id="tlc-ej">Cargar ejemplo</button>
+          <button type="button" class="tlc-btn-s" id="tlc-vac">Vaciar</button>
+          <button type="button" class="tlc-btn-s" id="tlc-share">Copiar enlace</button>
+        </div>
+      </div>
+      <div class="tlc-form">
+        <label class="tlc-f tlc-f--2">Aparato<select id="tlc-ap"></select></label>
+        <label class="tlc-f tlc-f--2">Cuándo lo usas<select id="tlc-fr"></select></label>
+        <label class="tlc-f">Potencia (W)<input id="tlc-w" type="number" min="1" step="1" inputmode="numeric"></label>
+        <label class="tlc-f">Horas al día<input id="tlc-h" type="number" min="0.05" max="24" step="0.05" inputmode="decimal"></label>
+        <label class="tlc-f">Días / semana<input id="tlc-d" type="number" min="1" max="7" step="1" inputmode="numeric"></label>
+        <div class="tlc-form-b">
+          <button type="button" class="tlc-btn" id="tlc-add">Añadir</button>
+          <button type="button" class="tlc-btn tlc-btn--x" id="tlc-cancel" hidden>Cancelar</button>
+        </div>
+      </div>
+      <p class="tlc-msg" id="tlc-msg" role="status"></p>
+      <ul class="tlc-lista" id="tlc-lista"></ul>
+      <p class="tlc-vacio" id="tlc-vacio" hidden>Todavía no has añadido aparatos. Elige uno arriba o carga el ejemplo de un piso de 3 personas.</p>
+    </div>
+
+    <div class="tlc-diag">
+      <div class="tlc-diag-h">
+        <h2>Diagnóstico de tu consumo</h2>
+        <p>Se actualiza con cada cambio</p>
+      </div>
+      <div class="tlc-tips" id="tlc-tips" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <section class="tlc-sec">
+    <h2>Lo que más se consulta</h2>
+    <p class="tlc-sub">Pulsa en cualquiera y lo añadimos a la calculadora con tus precios.</p>
+    <div class="tlc-quick">
+      <button type="button" class="tlc-q" data-add="ac"><span>Aire acondicionado 3.000 frigorías</span><span class="tlc-q-d" data-q="ac" data-u="h"></span></button>
+      <button type="button" class="tlc-q" data-add="rad"><span>Radiador de aceite de 2.000 W</span><span class="tlc-q-d" data-q="rad" data-u="h"></span></button>
+      <button type="button" class="tlc-q" data-add="fre"><span>Freidora de aire, 20 minutos</span><span class="tlc-q-d" data-q="fre" data-u="uso"></span></button>
+      <button type="button" class="tlc-q" data-add="ter"><span>Termo eléctrico de 80 litros</span><span class="tlc-q-d" data-q="ter" data-u="mes"></span></button>
+      <button type="button" class="tlc-q" data-add="nev"><span>Nevera combi</span><span class="tlc-q-d" data-q="nev" data-u="mes"></span></button>
+      <button type="button" class="tlc-q" data-add="lav"><span>Una lavadora a 40 °C</span><span class="tlc-q-d" data-q="lav" data-u="uso"></span></button>
+    </div>
+  </section>
+
+  <section class="tlc-sec">
+    <h2>Elige un tema</h2>
+    <p class="tlc-sub">Todo sobre la luz de una vivienda, ordenado como tu cuadro eléctrico.</p>
+    <nav class="tlc-carril" aria-label="Categorías">
+      <a class="tlc-mod" href="/consumo/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Consumo de aparatos</span></a>
+      <a class="tlc-mod" href="/factura-luz/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Factura y tarifas</span></a>
+      <a class="tlc-mod" href="/ahorro/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Ahorrar luz</span></a>
+      <a class="tlc-mod" href="/instalacion/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Averías e instalación</span></a>
+      <a class="tlc-mod" href="/climatizacion/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Calefacción y aire</span></a>
+      <a class="tlc-mod" href="/placas-solares/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Placas solares</span></a>
+      <a class="tlc-mod" href="/coche-electrico/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Coche eléctrico</span></a>
+    </nav>
+  </section>
+
+  <section class="tlc-sec">
+    <h2>Cómo calculamos</h2>
+    <p class="tlc-sub">Sin cajas negras: estas son las reglas que usa la calculadora.</p>
+    <div class="tlc-met">
+      <div><span class="tlc-met-n">1</span><h3>Consumo real</h3><p>No multiplicamos solo la potencia de la etiqueta. Neveras, aires y radiadores se encienden y apagan por ciclos, así que aplicamos un factor de uso real para cada aparato.</p></div>
+      <div><span class="tlc-met-n">2</span><h3>Tu tarifa, hora a hora</h3><p>Con la tarifa 2.0TD, la punta va de 10 a 14 h y de 18 a 22 h; el llano, de 8 a 10, de 14 a 18 y de 22 a 24 h; y el valle, de 0 a 8 h y todo el fin de semana.</p></div>
+      <div><span class="tlc-met-n">3</span><h3>La factura completa</h3><p>Sumamos el término de potencia, el impuesto eléctrico, el IVA y el alquiler del contador, igual que en tu factura. Así el resultado se parece a lo que pagas de verdad.</p></div>
+    </div>
+    <p class="tlc-upd">Precios orientativos revisados en septiembre de 2026.</p>
+  </section>
+</div>
+
