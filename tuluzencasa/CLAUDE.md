@@ -14,6 +14,7 @@ Web de contenido en español (España) sobre consumo eléctrico doméstico, fact
 - No borres ni modifiques entradas, páginas, categorías, usuarios, plugins ni ajustes existentes salvo que la tarea lo pida explícitamente.
 - Antes de cualquier cambio de ajustes del sitio, explica qué vas a cambiar y espera confirmación.
 - Si una petición devuelve 403 o un bloqueo, para y avisa: probablemente el firewall o HackGuardian de EasyWP está activo.
+- No metas `<script>` dentro del contenido de páginas o entradas: WordPress convierte algunos `&&` en `&#038;&#038;` y rompe el JavaScript. El JS de la calculadora de la home vive en WPCode (fragmento «Calculadora Home», JavaScript, pie de todo el sitio) y su copia está en `calculadora.js`; la página Inicio (ID 23) usa `home-sin-script.html`. Si cambias la calculadora, actualiza `calculadora.js` y pega el contenido en ese fragmento.
 
 ## Categorías (slug → nombre)
 consumo → Consumo de aparatos · factura-luz → Factura y tarifas · ahorro → Ahorrar luz · instalacion → Averías e instalación · climatizacion → Calefacción y aire · placas-solares → Placas solares · coche-electrico → Coche eléctrico.
