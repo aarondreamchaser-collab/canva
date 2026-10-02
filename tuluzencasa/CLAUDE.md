@@ -26,6 +26,7 @@ Consulta sus IDs con `GET /wp-json/wp/v2/categories?per_page=100` antes de usarl
 - Factores de uso real: aire acondicionado 0,6 · radiador de aceite 0,6 · estufa 0,85 · nevera y congelador 0,2 (sobre 150 W nominales) · termo 0,7 · horno 0,6 · inducción 0,7 · vitrocerámica 0,75 · lavavajillas 0,55 · secadora 0,8 · freidora de aire 0,7 · resto 1.
 - Aire acondicionado de 3.000 frigorías = 1.000 W de potencia eléctrica (EER 3,5). Usa este valor en artículos y en la calculadora de la home.
 - Horno eléctrico de referencia: 2.200 W con factor 0,6 (45 min por uso, precalentado incluido), igual que en la calculadora de la home.
+- Mes = 30,4 días y año = 12 meses (364,8 días), igual que la calculadora de la home. Temporadas en meses: verano 3 meses, invierno 4 meses. Lo que se cuenta por usos (p. ej., 12 usos al mes) no depende de los días.
 - Calcula todas las cifras con un script (no de memoria) y redondea a 2 decimales en euros.
 
 ## Estilo de los artículos

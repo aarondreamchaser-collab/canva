@@ -5,16 +5,16 @@
 - Euros redondeados a 2 decimales (redondeo comercial).
 - Factor de uso real: 0,70. Uso tipo 3 h de resistencia al día.
 - Energía para calentar agua: litros × ΔT × 1,163 Wh (calor específico del agua). ΔT = 60 − 15 = 45 °C.
-- Ahorro al mes por programar en valle (1.500 W, 3 h/día): frente a punta 13,22 €, frente a llano 4,81 €.
+- Ahorro al mes por programar en valle (1.500 W, 3 h/día): frente a punta 13,40 €, frente a llano 4,87 €.
 
 ## Coste por potencia
 
 | Potencia | kWh por hora (real) | Por hora | Por día (3 h) | Por mes | Por año |
 | --- | --- | --- | --- | --- | --- |
-| 1.200 W | 0,84 | 0,14 € | 0,42 € | 12,47 € | 151,77 € |
-| 1.500 W | 1,05 | 0,17 € | 0,52 € | 15,59 € | 189,71 € |
-| 2.000 W | 1,40 | 0,23 € | 0,69 € | 20,79 € | 252,95 € |
-| 2.500 W | 1,75 | 0,29 € | 0,87 € | 25,99 € | 316,18 € |
+| 1.200 W | 0,84 | 0,14 € | 0,42 € | 12,64 € | 151,68 € |
+| 1.500 W | 1,05 | 0,17 € | 0,52 € | 15,80 € | 189,60 € |
+| 2.000 W | 1,40 | 0,23 € | 0,69 € | 21,07 € | 252,81 € |
+| 2.500 W | 1,75 | 0,29 € | 0,87 € | 26,33 € | 316,01 € |
 
 ## Calentar el depósito entero
 
@@ -28,7 +28,7 @@
 
 | Termo de 1.500 W, 3 h/día | Por día | Por mes | Por año |
 | --- | --- | --- | --- |
-| Sin programar, repartido en punta | 0,76 € | 22,84 € | 277,87 € |
-| Sin programar, repartido en llano | 0,48 € | 14,42 € | 175,50 € |
-| Programado en valle (0–8 h) | 0,32 € | 9,62 € | 117,00 € |
-| Precio fijo (cualquier hora) | 0,52 € | 15,59 € | 189,71 € |
+| Sin programar, repartido en punta | 0,76 € | 23,14 € | 277,72 € |
+| Sin programar, repartido en llano | 0,48 € | 14,62 € | 175,40 € |
+| Programado en valle (0–8 h) | 0,32 € | 9,74 € | 116,93 € |
+| Precio fijo (cualquier hora) | 0,52 € | 15,80 € | 189,60 € |

@@ -16,6 +16,8 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent.parent
 PRECIO = 0.165  # €/kWh con impuestos
 FACTOR_IMP = 1.272
+DIAS_MES = 30.4  # días por mes, igual que la calculadora de la home
+DIAS_ANO = 12 * DIAS_MES  # 364,8 días
 TRAMOS = {"punta": 0.19 * FACTOR_IMP, "llano": 0.12 * FACTOR_IMP, "valle": 0.08 * FACTOR_IMP}
 
 FACTORES = {
@@ -62,14 +64,14 @@ def cabecera(titulo, extra=""):
 
 # ---------------------------------------------------------------- aire acondicionado
 f = FACTORES["aire"]
-H_DIA, DIAS_MES, DIAS_VERANO = 8, 30, 90
+H_DIA, DIAS_VERANO = 8, 3 * DIAS_MES
 rows = []
 for w in [800, 1000, 1500, 2000, 2500]:
     kwh_h = w / 1000 * f
     rows.append([watts(w), num(kwh_h), eur(kwh_h * PRECIO), eur(kwh_h * H_DIA * PRECIO),
                  eur(kwh_h * H_DIA * DIAS_MES * PRECIO), eur(kwh_h * H_DIA * DIAS_VERANO * PRECIO)])
 t1 = tabla("aire_potencias",
-           ["Potencia eléctrica", "kWh por hora (real)", "Por hora", "Por día (8 h)", "Por mes (30 días)", "Verano (90 días)"], rows)
+           ["Potencia eléctrica", "kWh por hora (real)", "Por hora", "Por día (8 h)", "Por mes (30,4 días)", "Verano (3 meses)"], rows)
 
 EER = 3.5
 rows = []
@@ -92,36 +94,36 @@ t3 = tabla("aire_tramos", ["Tramo", "Precio con impuestos", "Por hora", "4 horas
 md["cuanto-consume-aire-acondicionado"] = cabecera(
     "aire acondicionado",
     f"- Factor de uso real: {num(f, 2)} (el compresor no funciona al 100 % todo el tiempo).\n"
-    f"- Uso tipo: {H_DIA} h/día, {DIAS_MES} días/mes, temporada de {DIAS_VERANO} días.\n"
+    f"- Uso tipo: {H_DIA} h/día, {num(DIAS_MES, 1)} días/mes, temporada de 3 meses ({num(DIAS_VERANO, 1)} días).\n"
     f"- Frigorías → kW: frigorías/h ÷ 860. Potencia eléctrica = kW de frío ÷ EER (EER supuesto {num(EER, 1)}).\n"
 ) + "## Coste por potencia eléctrica\n\n" + t1 + "\n## De frigorías a coste\n\n" + t2 + \
     "\n## Equipo de 1.000 W según tramo horario (2.0TD)\n\n" + t3
 
 # ---------------------------------------------------------------- radiador de aceite
 f = FACTORES["radiador"]
-H_DIA, DIAS_INV = 5, 120
+H_DIA, DIAS_INV = 5, 4 * DIAS_MES
 rows = []
 for w in [1000, 1500, 2000, 2500]:
     kwh_h = w / 1000 * f
     rows.append([watts(w), num(kwh_h), eur(kwh_h * PRECIO), eur(kwh_h * H_DIA * PRECIO),
-                 eur(kwh_h * H_DIA * 30 * PRECIO), eur(kwh_h * H_DIA * DIAS_INV * PRECIO)])
+                 eur(kwh_h * H_DIA * DIAS_MES * PRECIO), eur(kwh_h * H_DIA * DIAS_INV * PRECIO)])
 t1 = tabla("radiador_potencias",
-           ["Potencia", "kWh por hora (real)", "Por hora", "Por día (5 h)", "Por mes (30 días)", "Invierno (120 días)"], rows)
+           ["Potencia", "kWh por hora (real)", "Por hora", "Por día (5 h)", "Por mes (30,4 días)", "Invierno (4 meses)"], rows)
 rows = []
 kwh_h = 2.0 * f
 for tramo, p in TRAMOS.items():
-    rows.append([tramo.capitalize(), num(p, 3) + " €/kWh", eur(kwh_h * p), eur(kwh_h * H_DIA * p), eur(kwh_h * H_DIA * 30 * p)])
-rows.append(["Precio fijo", num(PRECIO, 3) + " €/kWh", eur(kwh_h * PRECIO), eur(kwh_h * H_DIA * PRECIO), eur(kwh_h * H_DIA * 30 * PRECIO)])
+    rows.append([tramo.capitalize(), num(p, 3) + " €/kWh", eur(kwh_h * p), eur(kwh_h * H_DIA * p), eur(kwh_h * H_DIA * DIAS_MES * p)])
+rows.append(["Precio fijo", num(PRECIO, 3) + " €/kWh", eur(kwh_h * PRECIO), eur(kwh_h * H_DIA * PRECIO), eur(kwh_h * H_DIA * DIAS_MES * PRECIO)])
 t2 = tabla("radiador_tramos", ["Tramo", "Precio con impuestos", "Por hora", "Por día (5 h)", "Por mes"], rows)
 rows = []
 for h in [2, 4, 6, 8]:
     kwh = 2.0 * f * h
-    rows.append([f"{h} h", num(kwh), eur(kwh * PRECIO), eur(kwh * 30 * PRECIO)])
+    rows.append([f"{h} h", num(kwh), eur(kwh * PRECIO), eur(kwh * DIAS_MES * PRECIO)])
 t3 = tabla("radiador_horas", ["Horas al día", "kWh al día", "Por día", "Por mes"], rows)
 md["cuanto-consume-radiador-de-aceite"] = cabecera(
     "radiador de aceite",
     f"- Factor de uso real: {num(f, 2)} (el termostato corta y reconecta la resistencia).\n"
-    f"- Uso tipo: {H_DIA} h/día, 30 días/mes, invierno de {DIAS_INV} días.\n"
+    f"- Uso tipo: {H_DIA} h/día, {num(DIAS_MES, 1)} días/mes, invierno de 4 meses ({num(DIAS_INV, 1)} días).\n"
 ) + "## Coste por potencia\n\n" + t1 + "\n## Radiador de 2.000 W según tramo (5 h/día)\n\n" + t2 + \
     "\n## Radiador de 2.000 W según horas de uso\n\n" + t3
 
@@ -168,7 +170,7 @@ rows = []
 for w in [1200, 1500, 2000, 2500]:
     kwh_h = w / 1000 * f
     rows.append([watts(w), num(kwh_h), eur(kwh_h * PRECIO), eur(kwh_h * H_DIA * PRECIO),
-                 eur(kwh_h * H_DIA * 30 * PRECIO), eur(kwh_h * H_DIA * 365 * PRECIO)])
+                 eur(kwh_h * H_DIA * DIAS_MES * PRECIO), eur(kwh_h * H_DIA * DIAS_ANO * PRECIO)])
 t1 = tabla("termo_potencias",
            ["Potencia", "kWh por hora (real)", "Por hora", "Por día (3 h)", "Por mes", "Por año"], rows)
 rows = []
@@ -183,10 +185,10 @@ for nombre, p in [("Sin programar, repartido en punta", TRAMOS["punta"]),
                   ("Sin programar, repartido en llano", TRAMOS["llano"]),
                   ("Programado en valle (0–8 h)", TRAMOS["valle"]),
                   ("Precio fijo (cualquier hora)", PRECIO)]:
-    rows.append([nombre, eur(kwh_dia * p), eur(kwh_dia * 30 * p), eur(kwh_dia * 365 * p)])
+    rows.append([nombre, eur(kwh_dia * p), eur(kwh_dia * DIAS_MES * p), eur(kwh_dia * DIAS_ANO * p)])
 t3 = tabla("termo_programar", ["Termo de 1.500 W, 3 h/día", "Por día", "Por mes", "Por año"], rows)
-ahorro_mes = kwh_dia * 30 * (TRAMOS["punta"] - TRAMOS["valle"])
-ahorro_mes_llano = kwh_dia * 30 * (TRAMOS["llano"] - TRAMOS["valle"])
+ahorro_mes = kwh_dia * DIAS_MES * (TRAMOS["punta"] - TRAMOS["valle"])
+ahorro_mes_llano = kwh_dia * DIAS_MES * (TRAMOS["llano"] - TRAMOS["valle"])
 md["cuanto-consume-termo-electrico"] = cabecera(
     "termo eléctrico",
     f"- Factor de uso real: {num(f, 2)}. Uso tipo {H_DIA} h de resistencia al día.\n"
@@ -200,7 +202,7 @@ f = FACTORES["nevera"]
 W_NOM = 150
 kwh_h = W_NOM / 1000 * f
 rows = [["Nevera tipo (150 W × 0,2)", num(kwh_h, 3), eur(kwh_h * PRECIO), eur(kwh_h * 24 * PRECIO),
-         eur(kwh_h * 24 * 30 * PRECIO), eur(kwh_h * 24 * 365 * PRECIO)]]
+         eur(kwh_h * 24 * DIAS_MES * PRECIO), eur(kwh_h * 24 * DIAS_ANO * PRECIO)]]
 t1 = tabla("nevera_tipo", ["Caso", "kWh por hora", "Por hora", "Por día", "Por mes", "Por año"], rows)
 rows = []
 for anual in [100, 150, 200, 250, 300, 400]:
@@ -214,7 +216,7 @@ t3 = tabla("nevera_cambio", ["Nevera actual", "Nevera nueva", "Ahorro al año", 
 md["cuanto-consume-una-nevera"] = cabecera(
     "nevera",
     f"- Estimación genérica: {W_NOM} W nominales × factor {num(f, 1)} = {num(kwh_h, 3)} kWh por hora, funcionando 24 h.\n"
-    f"- Con etiqueta: kWh/año ÷ 365 (día) y ÷ 12 (mes).\n"
+    f"- Con etiqueta: kWh/año ÷ 365 (día) y ÷ 12 (mes). Estimación genérica: {num(DIAS_MES, 1)} días/mes y 12 meses/año.\n"
 ) + "## Nevera tipo\n\n" + t1 + "\n## Según el consumo de la etiqueta\n\n" + t2 + \
     "\n## Cambiar de nevera\n\n" + t3
 
@@ -224,7 +226,7 @@ for ma in [5, 10, 20, 29]:
     w = 230 * ma / 1000
     kwh_h = w / 1000
     rows.append([f"{ma} mA", num(w, 1) + " W", eur(kwh_h * PRECIO), eur(kwh_h * 24 * PRECIO),
-                 eur(kwh_h * 24 * 30 * PRECIO), eur(kwh_h * 24 * 365 * PRECIO)])
+                 eur(kwh_h * 24 * DIAS_MES * PRECIO), eur(kwh_h * 24 * DIAS_ANO * PRECIO)])
 t1 = tabla("dif_fugas", ["Fuga continua", "Potencia (230 V)", "Por hora", "Por día", "Por mes", "Por año"], rows)
 aparatos = [("Termo eléctrico", 1500, FACTORES["termo"]), ("Lavadora (calentando agua)", 2000, 1.0),
             ("Horno", 2500, FACTORES["horno"]), ("Aire acondicionado", 1000, FACTORES["aire"]),

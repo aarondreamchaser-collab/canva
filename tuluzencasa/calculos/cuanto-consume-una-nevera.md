@@ -4,13 +4,13 @@
 - 2.0TD con impuestos: punta 0,242 · llano 0,153 · valle 0,102 €/kWh.
 - Euros redondeados a 2 decimales (redondeo comercial).
 - Estimación genérica: 150 W nominales × factor 0,2 = 0,030 kWh por hora, funcionando 24 h.
-- Con etiqueta: kWh/año ÷ 365 (día) y ÷ 12 (mes).
+- Con etiqueta: kWh/año ÷ 365 (día) y ÷ 12 (mes). Estimación genérica: 30,4 días/mes y 12 meses/año.
 
 ## Nevera tipo
 
 | Caso | kWh por hora | Por hora | Por día | Por mes | Por año |
 | --- | --- | --- | --- | --- | --- |
-| Nevera tipo (150 W × 0,2) | 0,030 | < 0,01 € | 0,12 € | 3,56 € | 43,36 € |
+| Nevera tipo (150 W × 0,2) | 0,030 | < 0,01 € | 0,12 € | 3,61 € | 43,34 € |
 
 ## Según el consumo de la etiqueta
 
