@@ -1,0 +1,11 @@
+{
+ "titulo": "PVPC o mercado libre: cuál te conviene según cuándo consumes",
+ "titulo_seo": "PVPC o mercado libre: cuál te conviene",
+ "palabra_clave": "PVPC o mercado libre",
+ "descripcion": "PVPC o mercado libre: diferencias, cómo se calcula el PVPC y cuándo compensa el precio por tramos. Con un 44 % del consumo en valle, empatan.",
+ "slug": "pvpc-o-mercado-libre",
+ "categoria": "Factura y tarifas (id 4)",
+ "estado": "borrador (no subido)",
+ "extracto": "PVPC o mercado libre: diferencias, cómo se calcula el PVPC y cuándo compensa el precio por tramos. Con un 44 % del consumo en valle, empatan.",
+ "calculos": "calculos/pvpc_o_mercado_libre.py"
+}

@@ -1,0 +1,11 @@
+{
+ "titulo": "Qué potencia contratar: cómo calcularla y cuánto ahorras",
+ "titulo_seo": "Qué potencia contratar y cuánto ahorras bajándola",
+ "palabra_clave": "qué potencia contratar",
+ "descripcion": "Qué potencia contratar: suma lo que enciendes a la vez, añade un 10 % y elige el escalón siguiente. Bajar de 4,6 a 3,45 kW ahorra 48,05 € al año.",
+ "slug": "que-potencia-contratar",
+ "categoria": "Factura y tarifas (id 4)",
+ "estado": "borrador (no subido)",
+ "extracto": "Qué potencia contratar: suma lo que enciendes a la vez, añade un 10 % y elige el escalón siguiente. Bajar de 4,6 a 3,45 kW ahorra 48,05 € al año.",
+ "calculos": "calculos/que_potencia_contratar.py"
+}
