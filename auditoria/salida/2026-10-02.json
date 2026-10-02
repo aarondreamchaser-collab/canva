@@ -1,0 +1,1575 @@
+{
+ "fecha": "2026-10-02",
+ "sitemap": [
+  "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+  "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+  "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+  "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+  "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+  "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+  "https://tuluzencasa.com/",
+  "https://tuluzencasa.com/politica-de-cookies/",
+  "https://tuluzencasa.com/aviso-legal/",
+  "https://tuluzencasa.com/politica-de-privacidad/",
+  "https://tuluzencasa.com/consumo/",
+  "https://tuluzencasa.com/instalacion/",
+  "https://tuluzencasa.com/climatizacion/"
+ ],
+ "posts": [
+  {
+   "id": 20,
+   "date": "2026-10-02T19:02:10",
+   "modified": "2026-10-02T19:02:10",
+   "slug": "cuanto-consume-una-nevera",
+   "link": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+   "title": {
+    "rendered": "Cuánto consume una nevera al mes según su etiqueta energética"
+   },
+   "featured_media": 64,
+   "categories": [
+    3
+   ]
+  },
+  {
+   "id": 21,
+   "date": "2026-10-02T19:02:09",
+   "modified": "2026-10-02T19:02:09",
+   "slug": "por-que-salta-el-diferencial",
+   "link": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+   "title": {
+    "rendered": "Por qué salta el diferencial: causas y cómo encontrar el aparato culpable"
+   },
+   "featured_media": 65,
+   "categories": [
+    6
+   ]
+  },
+  {
+   "id": 19,
+   "date": "2026-10-02T19:02:09",
+   "modified": "2026-10-02T19:02:09",
+   "slug": "cuanto-consume-termo-electrico",
+   "link": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+   "title": {
+    "rendered": "Cuánto consume un termo eléctrico y cómo programarlo para ahorrar"
+   },
+   "featured_media": 63,
+   "categories": [
+    3
+   ]
+  },
+  {
+   "id": 18,
+   "date": "2026-10-02T19:02:09",
+   "modified": "2026-10-02T19:02:09",
+   "slug": "cuanto-consume-radiador-de-aceite",
+   "link": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+   "title": {
+    "rendered": "Cuánto consume un radiador de aceite: coste por hora, día y mes"
+   },
+   "featured_media": 60,
+   "categories": [
+    7
+   ]
+  },
+  {
+   "id": 17,
+   "date": "2026-10-02T19:02:08",
+   "modified": "2026-10-02T19:02:08",
+   "slug": "cuanto-consume-freidora-de-aire",
+   "link": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+   "title": {
+    "rendered": "Cuánto consume una freidora de aire frente a un horno eléctrico"
+   },
+   "featured_media": 61,
+   "categories": [
+    3
+   ]
+  },
+  {
+   "id": 16,
+   "date": "2026-10-02T18:59:58",
+   "modified": "2026-10-02T19:02:08",
+   "slug": "cuanto-consume-aire-acondicionado",
+   "link": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+   "title": {
+    "rendered": "Cuánto consume un aire acondicionado por hora (y cuánto cuesta en tu factura)"
+   },
+   "featured_media": 59,
+   "categories": [
+    3
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "id": 23,
+   "date": "2026-10-01T18:24:56",
+   "modified": "2026-10-01T18:24:58",
+   "slug": "inicio",
+   "link": "https://tuluzencasa.com/",
+   "title": {
+    "rendered": "Inicio"
+   },
+   "featured_media": 0
+  },
+  {
+   "id": 14,
+   "date": "2026-09-30T17:54:33",
+   "modified": "2026-09-30T17:54:59",
+   "slug": "politica-de-cookies",
+   "link": "https://tuluzencasa.com/politica-de-cookies/",
+   "title": {
+    "rendered": "Política de cookies"
+   },
+   "featured_media": 0
+  },
+  {
+   "id": 12,
+   "date": "2026-09-30T17:52:23",
+   "modified": "2026-09-30T17:52:24",
+   "slug": "aviso-legal",
+   "link": "https://tuluzencasa.com/aviso-legal/",
+   "title": {
+    "rendered": "Aviso legal"
+   },
+   "featured_media": 0
+  },
+  {
+   "id": 3,
+   "date": "2026-09-30T12:11:21",
+   "modified": "2026-09-30T17:49:17",
+   "slug": "politica-de-privacidad",
+   "link": "https://tuluzencasa.com/politica-de-privacidad/",
+   "title": {
+    "rendered": "Política de privacidad"
+   },
+   "featured_media": 0
+  }
+ ],
+ "paginas": [
+  {
+   "url": "https://tuluzencasa.com/",
+   "estado": 200,
+   "title": "Inicio - Tu luz en casa",
+   "description": "Calculadora de consumo eléctrico",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/",
+   "og_image": null,
+   "h1": [
+    "Inicio",
+    "¿Cuánto te cuesta la luz de tu casa, aparato por aparato?"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/consumo/",
+     "texto": "Consumo de aparatos",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/factura-luz/",
+     "texto": "Factura y tarifas",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/ahorro/",
+     "texto": "Ahorrar luz",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/instalacion/",
+     "texto": "Averías e instalación",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/climatizacion/",
+     "texto": "Calefacción y aire",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/placas-solares/",
+     "texto": "Placas solares",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/coche-electrico/",
+     "texto": "Coche eléctrico",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/ahorro/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/coche-electrico/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/factura-luz/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/placas-solares/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/"
+   ],
+   "schema": [
+    "Organization",
+    "WebSite",
+    "WebPage"
+   ],
+   "palabras": 423,
+   "bytes": 78118,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/aviso-legal/",
+   "estado": 200,
+   "title": "Aviso legal - Tu luz en casa",
+   "description": "En cumplimiento del artículo 10 de la Ley 34/2002, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE), se informa de los datos",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/aviso-legal/",
+   "og_image": null,
+   "h1": [
+    "Aviso legal"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com",
+     "texto": "https://tuluzencasa.com",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/"
+   ],
+   "schema": [],
+   "palabras": 413,
+   "bytes": 62718,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/climatizacion/",
+   "estado": 200,
+   "title": "Calefacción y aire - Tu luz en casa",
+   "description": "Cuánto cuesta calentar o refrescar tu casa con electricidad y qué sistema gasta menos.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/climatizacion/",
+   "og_image": null,
+   "h1": [
+    "Calefacción y aire"
+   ],
+   "imgs": [
+    {
+     "src": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-radiador-de-aceite.webp",
+     "alt": "Cuánto consume un radiador de aceite"
+    }
+   ],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/climatizacion/",
+     "texto": "Saltar al contenido",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "Tu luz en casa",
+     "rel": [
+      "home"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "Inicio",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/consumo/",
+     "texto": "Consumo de aparatos",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/climatizacion/",
+     "texto": "Calefacción y aire",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/instalacion/",
+     "texto": "Averías e instalación",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "Cuánto consume un radiador de aceite: coste por hora, día y mes",
+     "rel": [
+      "bookmark"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/author/aarondreamchaser/",
+     "texto": "Aaron",
+     "rel": [
+      "author"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/climatizacion/",
+     "texto": "Calefacción y aire",
+     "rel": [
+      "category",
+      "tag"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/aviso-legal/",
+     "texto": "Aviso legal",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/politica-de-privacidad/",
+     "texto": "Política de privacidad",
+     "rel": [
+      "privacy-policy"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/politica-de-cookies/",
+     "texto": "Política de cookies",
+     "rel": null
+    },
+    {
+     "href": "https://generatepress.com",
+     "texto": "GeneratePress",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/author/aarondreamchaser/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/"
+   ],
+   "schema": [
+    "Organization",
+    "WebSite",
+    "CollectionPage"
+   ],
+   "palabras": 118,
+   "bytes": 62809,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/consumo/",
+   "estado": 200,
+   "title": "Consumo de aparatos - Tu luz en casa",
+   "description": "Cuánto gasta cada electrodoméstico de tu casa en kWh y en euros al mes, con tablas y calculadora.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/consumo/",
+   "og_image": null,
+   "h1": [
+    "Consumo de aparatos"
+   ],
+   "imgs": [
+    {
+     "src": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-una-nevera.webp",
+     "alt": "Cuánto consume una nevera"
+    },
+    {
+     "src": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-termo-electrico.webp",
+     "alt": "Cuánto consume un termo eléctrico"
+    },
+    {
+     "src": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-freidora-de-aire.webp",
+     "alt": "Cuánto consume una freidora de aire"
+    },
+    {
+     "src": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-aire-acondicionado.webp",
+     "alt": "Cuánto consume un aire acondicionado"
+    }
+   ],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/consumo/",
+     "texto": "Saltar al contenido",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "Tu luz en casa",
+     "rel": [
+      "home"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "Inicio",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/consumo/",
+     "texto": "Consumo de aparatos",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/climatizacion/",
+     "texto": "Calefacción y aire",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/instalacion/",
+     "texto": "Averías e instalación",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "Cuánto consume una nevera al mes según su etiqueta energética",
+     "rel": [
+      "bookmark"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/author/aarondreamchaser/",
+     "texto": "Aaron",
+     "rel": [
+      "author"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/consumo/",
+     "texto": "Consumo de aparatos",
+     "rel": [
+      "category",
+      "tag"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "Cuánto consume un termo eléctrico y cómo programarlo para ahorrar",
+     "rel": [
+      "bookmark"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/author/aarondreamchaser/",
+     "texto": "Aaron",
+     "rel": [
+      "author"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/consumo/",
+     "texto": "Consumo de aparatos",
+     "rel": [
+      "category",
+      "tag"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "2 comentarios",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "Cuánto consume una freidora de aire frente a un horno eléctrico",
+     "rel": [
+      "bookmark"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/author/aarondreamchaser/",
+     "texto": "Aaron",
+     "rel": [
+      "author"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/consumo/",
+     "texto": "Consumo de aparatos",
+     "rel": [
+      "category",
+      "tag"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "Cuánto consume un aire acondicionado por hora (y cuánto cuesta en tu factura)",
+     "rel": [
+      "bookmark"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/author/aarondreamchaser/",
+     "texto": "Aaron",
+     "rel": [
+      "author"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/consumo/",
+     "texto": "Consumo de aparatos",
+     "rel": [
+      "category",
+      "tag"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/aviso-legal/",
+     "texto": "Aviso legal",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/politica-de-privacidad/",
+     "texto": "Política de privacidad",
+     "rel": [
+      "privacy-policy"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/politica-de-cookies/",
+     "texto": "Política de cookies",
+     "rel": null
+    },
+    {
+     "href": "https://generatepress.com",
+     "texto": "GeneratePress",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/author/aarondreamchaser/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+    "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+    "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+    "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/"
+   ],
+   "schema": [
+    "Organization",
+    "WebSite",
+    "CollectionPage"
+   ],
+   "palabras": 277,
+   "bytes": 71825,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+   "estado": 200,
+   "title": "Cuánto consume un aire acondicionado por hora y al mes",
+   "description": "Cuánto consume un aire acondicionado: uno de 1.000 W gasta 0,6 kWh por hora, 0,10 € la hora y 24,08 € al mes con 8 h diarias a 0,165 €/kWh.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+   "og_image": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-aire-acondicionado.webp",
+   "h1": [
+    "Cuánto consume un aire acondicionado por hora (y cuánto cuesta en tu factura)"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "Cuánto consume un aire acondicionado por hora, día y mes",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "Cómo saber la potencia real de tu aparato",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "Por qué tu aire no gasta toda su potencia cada hora",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "A qué hora sale más barato encender el aire",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "Trucos para gastar menos con el aire acondicionado",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "Cuánto pesa el aire en tu factura frente a otros aparatos",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "Preguntas frecuentes",
+     "rel": null
+    },
+    {
+     "href": "https://www.idae.es/ahorra-energia/etiquetado-energetico-ecodiseno-y-ecoetiqueta",
+     "texto": "etiqueta energética",
+     "rel": [
+      "noopener"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "el consumo de un radiador de aceite por hora y al mes",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "cuánto consume un termo eléctrico y cómo programarlo",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de consumo de la portada",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de la portada",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/author/aarondreamchaser/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+    "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+    "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+    "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/",
+    "https://www.idae.es/ahorra-energia/etiquetado-energetico-ecodiseno-y-ecoetiqueta"
+   ],
+   "schema": [],
+   "palabras": 1801,
+   "bytes": 84163,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+   "estado": 200,
+   "title": "Cuánto consume una freidora de aire frente a un horno",
+   "description": "Cuánto consume una freidora de aire: una de 1.500 W gasta 0,35 kWh en 20 minutos, 0,06 € por uso, frente a 0,16 € de un horno de 2.200 W.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+   "og_image": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-freidora-de-aire.webp",
+   "h1": [
+    "Cuánto consume una freidora de aire frente a un horno eléctrico"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "Cuánto consume una freidora de aire frente a un horno",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "Freidora de aire frente a horno: lo que ahorras al año",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "Cuánto gasta la freidora según los minutos",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "Cómo mirar la potencia de tu freidora",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "Trucos para gastar menos al cocinar",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "La cocina en tu factura: lo que gasta de verdad",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "Preguntas frecuentes",
+     "rel": null
+    },
+    {
+     "href": "https://comparador.cnmc.gob.es/",
+     "texto": "discriminación horaria",
+     "rel": [
+      "noopener"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "cuánto consume una nevera al mes según su etiqueta",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "termo eléctrico y su coste al mes",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de consumo eléctrico de la portada",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de la portada",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://comparador.cnmc.gob.es/",
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/author/aarondreamchaser/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+    "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+    "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+    "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+    "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/"
+   ],
+   "schema": [],
+   "palabras": 1383,
+   "bytes": 82002,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+   "estado": 200,
+   "title": "Cuánto consume un radiador de aceite: coste por hora y mes",
+   "description": "Cuánto consume un radiador de aceite: uno de 2.000 W gasta 1,2 kWh por hora, 0,20 € la hora y 30,10 € al mes con 5 h diarias a 0,165 €/kWh.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+   "og_image": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-radiador-de-aceite.webp",
+   "h1": [
+    "Cuánto consume un radiador de aceite: coste por hora, día y mes"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "Cuánto consume un radiador de aceite por hora, día y mes",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "El aceite no ahorra: calienta mejor, pero gasta lo mismo",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "A qué hora sale más barato usar el radiador",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "Cuántas horas al día puedes permitirte",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "Trucos para gastar menos con el radiador de aceite",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "Cuánta potencia necesitas para tu habitación",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "Preguntas frecuentes",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "cuánto consume un aire acondicionado por hora",
+     "rel": null
+    },
+    {
+     "href": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1066",
+     "texto": "tarifa 2.0TD con discriminación horaria",
+     "rel": [
+      "noopener"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "cuánto consume un termo eléctrico y cómo programarlo",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de consumo de la portada",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de la portada",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/author/aarondreamchaser/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+    "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+    "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+    "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/",
+    "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1066"
+   ],
+   "schema": [],
+   "palabras": 1533,
+   "bytes": 83379,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+   "estado": 200,
+   "title": "Cuánto consume un termo eléctrico y cómo ahorrar",
+   "description": "Cuánto consume un termo eléctrico: uno de 1.500 W cuesta 0,52 € al día y 15,80 € al mes a 0,165 €/kWh. Programado en valle, 9,74 € al mes.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+   "og_image": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-termo-electrico.webp",
+   "h1": [
+    "Cuánto consume un termo eléctrico y cómo programarlo para ahorrar"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "Cuánto consume un termo eléctrico por hora, día y mes",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "Lo que cuesta calentar el depósito entero",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "Programar el termo: cuánto ahorras de verdad",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "A qué temperatura poner el termo",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "Trucos para que el termo gaste menos",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "El termo frente al resto de la casa",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "Preguntas frecuentes",
+     "rel": null
+    },
+    {
+     "href": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1066",
+     "texto": "tarifa 2.0TD con discriminación horaria",
+     "rel": [
+      "noopener"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "cuánto consume un aire acondicionado por hora",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "cuánto cuesta un radiador de aceite al mes",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "freidora de aire en varias tandas",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "nevera, que está encendida las 24 horas",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de consumo de la portada",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de la portada",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/author/aarondreamchaser/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+    "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+    "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+    "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+    "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/",
+    "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+    "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1066"
+   ],
+   "schema": [],
+   "palabras": 1557,
+   "bytes": 84692,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+   "estado": 200,
+   "title": "Cuánto consume una nevera al mes según su etiqueta",
+   "description": "Cuánto consume una nevera: unos 0,72 kWh al día, 0,12 € diarios, 3,61 € al mes y 43,34 € al año a 0,165 €/kWh. La etiqueta da la cifra exacta.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+   "og_image": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-una-nevera.webp",
+   "h1": [
+    "Cuánto consume una nevera al mes según su etiqueta energética"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "Cuánto consume una nevera por hora, día, mes y año",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "Cómo leer el consumo en la etiqueta energética",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "Por qué tu nevera puede gastar más que la etiqueta",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "¿Compensa cambiar una nevera vieja?",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "Trucos para que la nevera gaste menos",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "La nevera en tu factura",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+     "texto": "Preguntas frecuentes",
+     "rel": null
+    },
+    {
+     "href": "https://www.idae.es/ahorra-energia/etiquetado-energetico-ecodiseno-y-ecoetiqueta",
+     "texto": "etiqueta energética europea",
+     "rel": [
+      "noopener"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+     "texto": "cuánto gasta una freidora de aire frente al horno",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+     "texto": "termo eléctrico, mira cuánto consume y cómo programarlo",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de consumo eléctrico de la portada",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de la portada",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/author/aarondreamchaser/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/",
+    "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+    "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/",
+    "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+    "https://www.idae.es/ahorra-energia/etiquetado-energetico-ecodiseno-y-ecoetiqueta"
+   ],
+   "schema": [],
+   "palabras": 1382,
+   "bytes": 81297,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/instalacion/",
+   "estado": 200,
+   "title": "Averías e instalación - Tu luz en casa",
+   "description": "Por qué salta el diferencial, qué es el boletín eléctrico y cuándo necesitas un instalador autorizado.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/instalacion/",
+   "og_image": null,
+   "h1": [
+    "Averías e instalación"
+   ],
+   "imgs": [
+    {
+     "src": "https://tuluzencasa.com/wp-content/uploads/2026/10/por-que-salta-el-diferencial-cuadro-cerrado.webp",
+     "alt": "Por qué salta el diferencial"
+    }
+   ],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/instalacion/",
+     "texto": "Saltar al contenido",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "Tu luz en casa",
+     "rel": [
+      "home"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "Inicio",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/consumo/",
+     "texto": "Consumo de aparatos",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/climatizacion/",
+     "texto": "Calefacción y aire",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/instalacion/",
+     "texto": "Averías e instalación",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+     "texto": "Por qué salta el diferencial: causas y cómo encontrar el aparato culpable",
+     "rel": [
+      "bookmark"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/author/aarondreamchaser/",
+     "texto": "Aaron",
+     "rel": [
+      "author"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+     "texto": "",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/instalacion/",
+     "texto": "Averías e instalación",
+     "rel": [
+      "category",
+      "tag"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/aviso-legal/",
+     "texto": "Aviso legal",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/politica-de-privacidad/",
+     "texto": "Política de privacidad",
+     "rel": [
+      "privacy-policy"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/politica-de-cookies/",
+     "texto": "Política de cookies",
+     "rel": null
+    },
+    {
+     "href": "https://generatepress.com",
+     "texto": "GeneratePress",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/author/aarondreamchaser/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/",
+    "https://tuluzencasa.com/por-que-salta-el-diferencial/"
+   ],
+   "schema": [
+    "Organization",
+    "WebSite",
+    "CollectionPage"
+   ],
+   "palabras": 112,
+   "bytes": 62942,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/politica-de-cookies/",
+   "estado": 200,
+   "title": "Política de cookies - Tu luz en casa",
+   "description": "Las cookies son pequeños archivos que una web guarda en tu navegador para recordar información sobre tu visita, como tus preferencias o las páginas que has",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/politica-de-cookies/",
+   "og_image": null,
+   "h1": [
+    "Política de cookies"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "https://policies.google.com/technologies/partner-sites",
+     "texto": "https://policies.google.com/technologies/partner-sites",
+     "rel": [
+      "noopener"
+     ]
+    },
+    {
+     "href": "https://myadcenter.google.com",
+     "texto": "https://myadcenter.google.com",
+     "rel": [
+      "noopener"
+     ]
+    },
+    {
+     "href": "https://www.youronlinechoices.eu",
+     "texto": "https://www.youronlinechoices.eu",
+     "rel": [
+      "noopener"
+     ]
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://myadcenter.google.com",
+    "https://policies.google.com/technologies/partner-sites",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/",
+    "https://www.youronlinechoices.eu"
+   ],
+   "schema": [],
+   "palabras": 275,
+   "bytes": 61971,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/politica-de-privacidad/",
+   "estado": 200,
+   "title": "Política de privacidad - Tu luz en casa",
+   "description": "No tomamos decisiones automatizadas con efectos jurídicos sobre ti ni elaboramos perfiles con esa finalidad.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/politica-de-privacidad/",
+   "og_image": null,
+   "h1": [
+    "Política de privacidad"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "http://www.aepd.es",
+     "texto": "www.aepd.es",
+     "rel": [
+      "noopener"
+     ]
+    }
+   ],
+   "enlaces_todos": [
+    "http://www.aepd.es",
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/"
+   ],
+   "schema": [],
+   "palabras": 458,
+   "bytes": 63702,
+   "rank_math": true
+  },
+  {
+   "url": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+   "estado": 200,
+   "title": "Por qué salta el diferencial y cómo encontrar la causa",
+   "description": "Por qué salta el diferencial: causas más frecuentes (aparatos, humedad, cables) y cómo encontrar el culpable sin riesgo y sin abrir el cuadro.",
+   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+   "canonical": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+   "og_image": "https://tuluzencasa.com/wp-content/uploads/2026/10/por-que-salta-el-diferencial-cuadro-cerrado.webp",
+   "h1": [
+    "Por qué salta el diferencial: causas y cómo encontrar el aparato culpable"
+   ],
+   "imgs": [],
+   "enlaces_contenido": [
+    {
+     "href": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+     "texto": "Qué hace el diferencial y en qué se diferencia del resto del cuadro",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+     "texto": "Por qué salta el diferencial: las causas más frecuentes",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+     "texto": "Cómo encontrar el aparato culpable sin riesgo",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+     "texto": "Lo que puedes hacer tú y lo que debe hacer un instalador autorizado",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+     "texto": "¿Una fuga pequeña gasta luz?",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+     "texto": "Trucos para evitar sustos y gastos",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+     "texto": "Preguntas frecuentes",
+     "rel": null
+    },
+    {
+     "href": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099",
+     "texto": "Reglamento Electrotécnico para Baja Tensión",
+     "rel": [
+      "noopener"
+     ]
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+     "texto": "cuánto consume un aire acondicionado",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+     "texto": "cuánto consume un radiador de aceite",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de consumo de la portada",
+     "rel": null
+    },
+    {
+     "href": "https://tuluzencasa.com/",
+     "texto": "calculadora de la portada",
+     "rel": null
+    }
+   ],
+   "enlaces_todos": [
+    "https://generatepress.com",
+    "https://tuluzencasa.com/",
+    "https://tuluzencasa.com/author/aarondreamchaser/",
+    "https://tuluzencasa.com/aviso-legal/",
+    "https://tuluzencasa.com/climatizacion/",
+    "https://tuluzencasa.com/consumo/",
+    "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+    "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+    "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+    "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+    "https://tuluzencasa.com/instalacion/",
+    "https://tuluzencasa.com/politica-de-cookies/",
+    "https://tuluzencasa.com/politica-de-privacidad/",
+    "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099"
+   ],
+   "schema": [],
+   "palabras": 1811,
+   "bytes": 85797,
+   "rank_math": true
+  }
+ ],
+ "enlaces": {
+  "http://www.aepd.es": {
+   "estado": 200,
+   "redirige": "https://www.aepd.es/"
+  },
+  "https://comparador.cnmc.gob.es/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://generatepress.com": {
+   "estado": 200,
+   "redirige": "https://generatepress.com/"
+  },
+  "https://myadcenter.google.com": {
+   "estado": 200,
+   "redirige": "https://myaccount.google.com/not-supported"
+  },
+  "https://policies.google.com/technologies/partner-sites": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com": {
+   "estado": 200,
+   "redirige": "https://tuluzencasa.com/"
+  },
+  "https://tuluzencasa.com/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/ahorro/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/author/aarondreamchaser/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/aviso-legal/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/climatizacion/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/coche-electrico/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/consumo/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/cuanto-consume-freidora-de-aire/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/cuanto-consume-termo-electrico/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/cuanto-consume-una-nevera/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/factura-luz/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/instalacion/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/placas-solares/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/politica-de-cookies/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/politica-de-privacidad/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://tuluzencasa.com/por-que-salta-el-diferencial/": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1066": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://www.idae.es/ahorra-energia/etiquetado-energetico-ecodiseno-y-ecoetiqueta": {
+   "estado": 200,
+   "redirige": null
+  },
+  "https://www.youronlinechoices.eu": {
+   "estado": 200,
+   "redirige": "https://youronlinechoices.eu/"
+  }
+ },
+ "media": [
+  {
+   "id": 65,
+   "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/por-que-salta-el-diferencial-cuadro-cerrado.webp",
+   "alt": "Por qué salta el diferencial",
+   "kb": 14,
+   "ancho": 1200
+  },
+  {
+   "id": 64,
+   "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-una-nevera.webp",
+   "alt": "Cuánto consume una nevera",
+   "kb": 20,
+   "ancho": 1200
+  },
+  {
+   "id": 63,
+   "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-termo-electrico.webp",
+   "alt": "Cuánto consume un termo eléctrico",
+   "kb": 29,
+   "ancho": 1200
+  },
+  {
+   "id": 62,
+   "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/por-que-salta-el-diferencial.webp",
+   "alt": "Por qué salta el diferencial",
+   "kb": 101,
+   "ancho": 1200
+  },
+  {
+   "id": 61,
+   "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-freidora-de-aire.webp",
+   "alt": "Cuánto consume una freidora de aire",
+   "kb": 62,
+   "ancho": 1200
+  },
+  {
+   "id": 60,
+   "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-radiador-de-aceite.webp",
+   "alt": "Cuánto consume un radiador de aceite",
+   "kb": 24,
+   "ancho": 1200
+  },
+  {
+   "id": 59,
+   "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-aire-acondicionado.webp",
+   "alt": "Cuánto consume un aire acondicionado",
+   "kb": 75,
+   "ancho": 1200
+  }
+ ]
+}
