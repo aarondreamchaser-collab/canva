@@ -1,0 +1,50 @@
+{
+ "cuanto-consume-aire-acondicionado": {
+  "post": 16,
+  "media": 59,
+  "featured": true,
+  "status": "draft",
+  "contenido_igual": true,
+  "alt": "Cuánto consume un aire acondicionado",
+  "titulo": "Cuánto consume un aire acondicionado",
+  "mime": "image/webp",
+  "tam": "1200x675",
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-aire-acondicionado.webp"
+ },
+ "cuanto-consume-radiador-de-aceite": {
+  "post": 18,
+  "media": 60,
+  "featured": true,
+  "status": "draft",
+  "contenido_igual": true,
+  "alt": "Cuánto consume un radiador de aceite",
+  "titulo": "Cuánto consume un radiador de aceite",
+  "mime": "image/webp",
+  "tam": "1200x675",
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-radiador-de-aceite.webp"
+ },
+ "cuanto-consume-freidora-de-aire": {
+  "post": 17,
+  "media": 61,
+  "featured": true,
+  "status": "draft",
+  "contenido_igual": true,
+  "alt": "Cuánto consume una freidora de aire",
+  "titulo": "Cuánto consume una freidora de aire",
+  "mime": "image/webp",
+  "tam": "1200x675",
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-freidora-de-aire.webp"
+ },
+ "por-que-salta-el-diferencial": {
+  "post": 21,
+  "media": 62,
+  "featured": true,
+  "status": "draft",
+  "contenido_igual": true,
+  "alt": "Por qué salta el diferencial",
+  "titulo": "Por qué salta el diferencial",
+  "mime": "image/webp",
+  "tam": "1200x675",
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/por-que-salta-el-diferencial.webp"
+ }
+}
