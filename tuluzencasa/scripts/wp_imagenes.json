@@ -37,7 +37,8 @@
  },
  "por-que-salta-el-diferencial": {
   "post": 21,
-  "media": 62,
+  "media": 65,
+  "anterior": 62,
   "featured": true,
   "status": "draft",
   "contenido_igual": true,
@@ -45,6 +46,32 @@
   "titulo": "Por qué salta el diferencial",
   "mime": "image/webp",
   "tam": "1200x675",
-  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/por-que-salta-el-diferencial.webp"
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/por-que-salta-el-diferencial-cuadro-cerrado.webp"
+ },
+ "cuanto-consume-termo-electrico": {
+  "post": 19,
+  "media": 63,
+  "anterior": 0,
+  "featured": true,
+  "status": "draft",
+  "contenido_igual": true,
+  "alt": "Cuánto consume un termo eléctrico",
+  "titulo": "Cuánto consume un termo eléctrico",
+  "mime": "image/webp",
+  "tam": "1200x675",
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-termo-electrico.webp"
+ },
+ "cuanto-consume-una-nevera": {
+  "post": 20,
+  "media": 64,
+  "anterior": 0,
+  "featured": true,
+  "status": "draft",
+  "contenido_igual": true,
+  "alt": "Cuánto consume una nevera",
+  "titulo": "Cuánto consume una nevera",
+  "mime": "image/webp",
+  "tam": "1200x675",
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuanto-consume-una-nevera.webp"
  }
 }
