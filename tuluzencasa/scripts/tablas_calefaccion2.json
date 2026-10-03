@@ -1,0 +1,430 @@
+{
+ "emisor_potencias": {
+  "headers": [
+   "Potencia",
+   "kWh por hora (real)",
+   "Por hora",
+   "Por día (5 h)",
+   "Por mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "500 W",
+    "0,30",
+    "0,05 €",
+    "0,25 €",
+    "7,52 €",
+    "30,10 €"
+   ],
+   [
+    "750 W",
+    "0,45",
+    "0,07 €",
+    "0,37 €",
+    "11,29 €",
+    "45,14 €"
+   ],
+   [
+    "1.000 W",
+    "0,60",
+    "0,10 €",
+    "0,50 €",
+    "15,05 €",
+    "60,19 €"
+   ],
+   [
+    "1.500 W",
+    "0,90",
+    "0,15 €",
+    "0,74 €",
+    "22,57 €",
+    "90,29 €"
+   ],
+   [
+    "2.000 W",
+    "1,20",
+    "0,20 €",
+    "0,99 €",
+    "30,10 €",
+    "120,38 €"
+   ]
+  ]
+ },
+ "emisor_casa": {
+  "headers": [
+   "Estancia",
+   "Emisor",
+   "Horas al día",
+   "kWh al día (real)",
+   "Por día",
+   "Por mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "Salón",
+    "1.500 W",
+    "5 h",
+    "4,50",
+    "0,74 €",
+    "22,57 €",
+    "90,29 €"
+   ],
+   [
+    "Dormitorio principal",
+    "1.000 W",
+    "2 h",
+    "1,20",
+    "0,20 €",
+    "6,02 €",
+    "24,08 €"
+   ],
+   [
+    "Segundo dormitorio",
+    "1.000 W",
+    "2 h",
+    "1,20",
+    "0,20 €",
+    "6,02 €",
+    "24,08 €"
+   ],
+   [
+    "Baño",
+    "500 W",
+    "1 h",
+    "0,30",
+    "0,05 €",
+    "1,50 €",
+    "6,02 €"
+   ],
+   [
+    "Total",
+    "4.000 W",
+    "",
+    "7,20",
+    "1,19 €",
+    "36,12 €",
+    "144,46 €"
+   ]
+  ]
+ },
+ "emisor_tramos": {
+  "headers": [
+   "Tramo",
+   "Precio con impuestos",
+   "Por día (5 h)",
+   "Por mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "Precio fijo",
+    "0,165 €/kWh",
+    "0,50 €",
+    "15,05 €",
+    "60,19 €"
+   ],
+   [
+    "Valle",
+    "0,102 €/kWh",
+    "0,31 €",
+    "9,28 €",
+    "37,12 €"
+   ],
+   [
+    "Llano",
+    "0,153 €/kWh",
+    "0,46 €",
+    "13,92 €",
+    "55,68 €"
+   ],
+   [
+    "Punta",
+    "0,242 €/kWh",
+    "0,73 €",
+    "22,04 €",
+    "88,16 €"
+   ]
+  ]
+ },
+ "emisor_bdc": {
+  "headers": [
+   "Equipo (mismo calor)",
+   "kWh eléctricos al día",
+   "Por día",
+   "Por mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "Emisor térmico de 1.000 W",
+    "3,00",
+    "0,50 €",
+    "15,05 €",
+    "60,19 €"
+   ],
+   [
+    "Bomba de calor, SCOP 3,5 (ejemplo)",
+    "0,86",
+    "0,14 €",
+    "4,30 €",
+    "17,20 €"
+   ]
+  ]
+ },
+ "manta_potencias": {
+  "headers": [
+   "Potencia",
+   "kWh por hora (real)",
+   "Por hora",
+   "Por noche (8 h)",
+   "Por mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "60 W",
+    "0,030",
+    "< 0,01 €",
+    "0,04 €",
+    "1,20 €",
+    "4,82 €"
+   ],
+   [
+    "100 W",
+    "0,050",
+    "0,01 €",
+    "0,07 €",
+    "2,01 €",
+    "8,03 €"
+   ],
+   [
+    "150 W",
+    "0,075",
+    "0,01 €",
+    "0,10 €",
+    "3,01 €",
+    "12,04 €"
+   ]
+  ]
+ },
+ "manta_horas": {
+  "headers": [
+   "Uso cada noche",
+   "kWh por noche",
+   "Por noche",
+   "Por mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "0,5 h",
+    "0,025",
+    "< 0,01 €",
+    "0,13 €",
+    "0,50 €"
+   ],
+   [
+    "1 h",
+    "0,050",
+    "0,01 €",
+    "0,25 €",
+    "1,00 €"
+   ],
+   [
+    "2 h",
+    "0,100",
+    "0,02 €",
+    "0,50 €",
+    "2,01 €"
+   ],
+   [
+    "8 h",
+    "0,400",
+    "0,07 €",
+    "2,01 €",
+    "8,03 €"
+   ]
+  ]
+ },
+ "manta_comparativa": {
+  "headers": [
+   "Opción",
+   "kWh por noche",
+   "Por noche",
+   "Por mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "Manta de 100 W, 8 h, precio fijo",
+    "0,40",
+    "0,07 €",
+    "2,01 €",
+    "8,03 €"
+   ],
+   [
+    "Manta de 100 W, 8 h, en valle",
+    "0,40",
+    "0,04 €",
+    "1,24 €",
+    "4,95 €"
+   ],
+   [
+    "Radiador de aceite de 2.000 W, 2 h antes de dormir",
+    "2,40",
+    "0,40 €",
+    "12,04 €",
+    "48,15 €"
+   ],
+   [
+    "Estufa de 2.000 W, 1 h antes de dormir",
+    "1,70",
+    "0,28 €",
+    "8,53 €",
+    "34,11 €"
+   ]
+  ]
+ },
+ "desh_potencias": {
+  "headers": [
+   "Potencia",
+   "kWh por hora (real)",
+   "Por hora",
+   "Por día (8 h)",
+   "Por mes",
+   "Año entero (12 meses)"
+  ],
+  "rows": [
+   [
+    "150 W",
+    "0,12",
+    "0,02 €",
+    "0,16 €",
+    "4,82 €",
+    "57,78 €"
+   ],
+   [
+    "250 W",
+    "0,20",
+    "0,03 €",
+    "0,26 €",
+    "8,03 €",
+    "96,31 €"
+   ],
+   [
+    "400 W",
+    "0,32",
+    "0,05 €",
+    "0,42 €",
+    "12,84 €",
+    "154,09 €"
+   ],
+   [
+    "600 W",
+    "0,48",
+    "0,08 €",
+    "0,63 €",
+    "19,26 €",
+    "231,14 €"
+   ]
+  ]
+ },
+ "desh_horas": {
+  "headers": [
+   "Horas al día",
+   "kWh al día",
+   "Por día",
+   "Por mes"
+  ],
+  "rows": [
+   [
+    "4 h",
+    "0,80",
+    "0,13 €",
+    "4,01 €"
+   ],
+   [
+    "8 h",
+    "1,60",
+    "0,26 €",
+    "8,03 €"
+   ],
+   [
+    "12 h",
+    "2,40",
+    "0,40 €",
+    "12,04 €"
+   ],
+   [
+    "24 h",
+    "4,80",
+    "0,79 €",
+    "24,08 €"
+   ]
+  ]
+ },
+ "desh_tramos": {
+  "headers": [
+   "Cómo lo usas",
+   "Precio con impuestos",
+   "Por día (8 h)",
+   "Por mes"
+  ],
+  "rows": [
+   [
+    "Precio fijo",
+    "0,165 €/kWh",
+    "0,26 €",
+    "8,03 €"
+   ],
+   [
+    "Tarifa por horas, repartido todo el día",
+    "0,147 €/kWh",
+    "0,24 €",
+    "7,16 €"
+   ],
+   [
+    "Tarifa por horas, todo en valle",
+    "0,102 €/kWh",
+    "0,16 €",
+    "4,95 €"
+   ],
+   [
+    "Tarifa por horas, todo en punta",
+    "0,242 €/kWh",
+    "0,39 €",
+    "11,76 €"
+   ]
+  ]
+ },
+ "desh_ropa": {
+  "headers": [
+   "Cómo secas la colada",
+   "kWh por colada",
+   "Por colada",
+   "Al mes (12 coladas)"
+  ],
+  "rows": [
+   [
+    "Deshumidificador de 250 W, 6 h (ejemplo)",
+    "1,20",
+    "0,20 €",
+    "2,38 €"
+   ],
+   [
+    "Secadora de evacuación de 2.500 W, 1 h",
+    "2,00",
+    "0,33 €",
+    "3,96 €"
+   ],
+   [
+    "Secadora con bomba de calor de 900 W, 1,5 h",
+    "1,08",
+    "0,18 €",
+    "2,14 €"
+   ]
+  ]
+ }
+}

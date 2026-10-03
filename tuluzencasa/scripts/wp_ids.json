@@ -43,5 +43,17 @@
  },
  "cuanto-consume-una-estufa-electrica": {
   "id": 98
+ },
+ "cuanto-consume-una-manta-electrica": {
+  "id": 105,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-un-deshumidificador": {
+  "id": 106,
+  "rankmath_status": 200
+ },
+ "cuanto-consumen-los-emisores-termicos": {
+  "id": 104,
+  "rankmath_status": 200
  }
 }

@@ -1,0 +1,86 @@
+title: Cuánto consume un deshumidificador: coste por hora, día y mes
+title_seo: Cuánto consume un deshumidificador por hora y al mes
+excerpt: Cuánto consume un deshumidificador: uno de 250 W gasta 0,2 kWh por hora, 0,26 € al día y 8,03 € al mes con 8 h de uso a 0,165 €/kWh.
+category: climatizacion
+keyword: cuánto consume un deshumidificador
+---
+¿Cuánto consume un deshumidificador? Uno doméstico de 250 W gasta de media unos 0,2 kWh por hora, así que 8 horas al día cuestan 0,26 € y 8,03 € al mes. Si lo tienes encendido todo el año, son 96,31 €.
+
+Estas cifras usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo y el coste sube o baja en la misma proporción.
+
+## Cuánto consume un deshumidificador según su potencia {#coste}
+
+La potencia de los deshumidificadores domésticos va de unos 150 W en los pequeños a 600 W o más en los de desecante. Aplicamos un factor de uso real de 0,8: el aparato tiene un humidistato que lo para cuando el aire llega a la humedad marcada, y el compresor no trabaja todo el rato. Es el mismo criterio que usa la calculadora de la portada.
+
+{{T:desh_potencias}}
+
+La potencia está en la etiqueta del aparato, normalmente en la parte de atrás, junto a la capacidad en litros al día. No confundas las dos cifras: los litros indican cuánta agua puede sacar del aire en condiciones de prueba, no lo que gasta.
+
+## Cuánto gasta según las horas que lo usas {#horas}
+
+Las horas son lo que más cambia la cuenta. Así sale un deshumidificador de 250 W:
+
+{{T:desh_horas}}
+
+Cuatro horas al día son 4,01 € al mes; encendido las 24 horas, 24,08 €. En una casa con mucha humedad, lo habitual es que funcione unas horas, llegue a la humedad marcada y pare solo. Si notas que no para nunca, revisa si la habitación tiene una fuente de humedad que haya que resolver antes, como una filtración o ropa tendida dentro.
+
+## Tipos de deshumidificador y cuál gasta menos {#tipos}
+
+- <strong>De compresor</strong>: los más habituales. Enfrían el aire para que el agua se condense, como un aire acondicionado pequeño. Rinden mejor en habitaciones templadas y pierden capacidad con el frío.
+- <strong>De desecante</strong>: atrapan la humedad con un material absorbente que luego secan con una resistencia. Tienen más potencia y gastan más, pero funcionan mejor en estancias frías, como un trastero o una casa sin calefacción en invierno. Además, sueltan algo de calor.
+- <strong>Pequeños de tipo Peltier</strong>: muy baratos y de poca potencia, pero sacan poca agua. Sirven para un armario o un baño pequeño, no para una casa.
+
+Para la misma cantidad de agua retirada, el de compresor suele gastar menos en una casa a temperatura normal. El de desecante compensa donde hace frío, porque ahí el de compresor apenas saca agua.
+
+## A qué hora sale más barato {#horarios}
+
+Con la tarifa 2.0TD con discriminación horaria, el precio del kWh depende de la franja. Así sale un deshumidificador de 250 W, 8 horas al día:
+
+{{T:desh_tramos}}
+
+Si lo dejas repartido a lo largo del día, como suponemos en la calculadora, sale a 7,16 € al mes. Si lo programas para que funcione de madrugada, de 0 a 8 h, baja a 4,95 €; en punta (de 10 a 14 h y de 18 a 22 h), sube a 11,76 €. Si dudas entre precio fijo y tarifa por horas, lo explicamos en <a href="https://tuluzencasa.com/pvpc-o-mercado-libre/">PVPC o mercado libre</a>.
+
+## ¿Compensa para secar la ropa? {#ropa}
+
+Mucha gente usa el deshumidificador para secar la ropa tendida dentro de casa. En una habitación cerrada, acelera el secado y evita que la humedad de la colada se quede en las paredes. Comparado con la secadora:
+
+{{T:desh_ropa}}
+
+El deshumidificador gasta 0,20 € por colada si tarda 6 horas, frente a 0,33 € de una secadora de evacuación. Una secadora con bomba de calor sale algo más barata, 0,18 €, pero hay que comprarla. Las 6 horas son un ejemplo: depende de la cantidad de ropa, del tamaño de la habitación y de lo húmedo que esté el ambiente.
+
+## Qué humedad conviene en casa {#humedad}
+
+Como referencia, el Reglamento de Instalaciones Térmicas en los Edificios (RITE) fija como condiciones interiores de diseño una humedad relativa del 40 al 50 % en invierno y del 45 al 60 % en verano, según el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-15820" target="_blank" rel="noopener">texto consolidado del RITE en el BOE</a>. Son valores para diseñar instalaciones, pero sirven como orientación para elegir dónde poner el humidistato.
+
+Marcar una humedad más baja de la que necesitas solo hace que el aparato funcione más horas. Un higrómetro barato te dice la humedad real de cada habitación y te ayuda a ajustarlo.
+
+## Trucos para gastar menos con el deshumidificador {#trucos}
+
+- <strong>Usa el humidistato</strong> y marca una humedad razonable en lugar de dejarlo en continuo.
+- <strong>Cierra puertas y ventanas</strong> de la habitación mientras funciona: si entra aire húmedo de fuera, no parará.
+- <strong>Ventila poco rato</strong>. El IDAE recuerda en sus <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">recomendaciones para el ahorro energético en hogares</a> que en invierno suele bastar con abrir las ventanas unos pocos minutos.
+- <strong>Limpia el filtro</strong> cada pocas semanas; si está sucio, pasa menos aire y tarda más.
+- <strong>Prueba el modo deshumidificación del aire acondicionado</strong> en verano, si lo tienes. Tienes lo que gasta en <a href="https://tuluzencasa.com/cuanto-consume-aire-acondicionado/">cuánto consume un aire acondicionado</a>.
+- <strong>Ataja la causa</strong>: extractor en el baño y la cocina, tapas en las ollas y ropa tendida fuera cuando se pueda. Si la humedad viene de una filtración, el deshumidificador solo tapa el problema.
+
+Si además calientas la casa con electricidad, mira cuál es la <a href="https://tuluzencasa.com/calefaccion-electrica-mas-barata/">calefacción eléctrica más barata</a>.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto gasta un deshumidificador encendido todo el día?
+
+Uno de 250 W, 24 horas, unos 4,8 kWh: 0,79 € al día y 24,08 € al mes a 0,165 €/kWh. Con el humidistato bien ajustado, normalmente funcionará bastantes menos horas.
+
+### ¿Gasta mucho un deshumidificador?
+
+Menos que la calefacción o la secadora. Uno de 250 W, 8 horas al día, cuesta 8,03 € al mes, algo menos que una estufa de 2.000 W encendida una hora al día, que son 8,53 €.
+
+### ¿Cuántas horas al día hay que tenerlo encendido?
+
+Las que necesite para llegar a la humedad que marques. Lo práctico es dejarlo con el humidistato y que pare solo, en lugar de encenderlo y apagarlo a mano.
+
+### ¿Qué gasta menos, un deshumidificador o una secadora?
+
+Por colada, el deshumidificador: 0,20 € con 6 horas de uso, frente a 0,33 € de una secadora de evacuación. La secadora con bomba de calor se queda en 0,18 €, pero tarda más que una de evacuación y cuesta más comprarla.
+
+<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: añade el deshumidificador, las horas de uso y el precio de tu factura.

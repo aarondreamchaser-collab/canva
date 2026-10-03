@@ -135,6 +135,9 @@ body.home{background:#ECEEE9}
 .tlc-caja{width:58px;height:92px;background:#F4F5F1;border:1.5px solid #9CA197;border-radius:5px;display:flex;align-items:flex-end;justify-content:center;padding-bottom:12px}
 .tlc-pal{width:22px;height:34px;background:var(--tinta);border-radius:4px;transition:transform .18s ease,background .18s}
 .tlc-mod:hover .tlc-pal,.tlc-mod:focus-visible .tlc-pal{transform:translateY(-30px);background:var(--verde)}
+.tlc-mod--prox{opacity:.55;cursor:default}
+.tlc-mod--prox:hover .tlc-pal{transform:none;background:var(--tinta)}
+.tlc-et small{display:block;font-size:.68rem;font-weight:600;color:var(--tinta2)}
 .tlc-et{background:var(--papel);border:1px solid var(--linea);font-size:.8rem;font-weight:600;padding:5px 6px;text-align:center;line-height:1.2;min-height:44px;display:flex;align-items:center;justify-content:center;width:100%;color:var(--tinta)}
 @media(max-width:860px){.tlc-carril{grid-template-columns:repeat(4,1fr);row-gap:22px}.tlc-carril::before{display:none}}
 @media(max-width:480px){.tlc-carril{grid-template-columns:repeat(2,1fr)}}
@@ -253,12 +256,12 @@ body.home{background:#ECEEE9}
     <p class="tlc-sub">Todo sobre la luz de una vivienda, ordenado como tu cuadro eléctrico.</p>
     <nav class="tlc-carril" aria-label="Categorías">
       <a class="tlc-mod" href="/consumo/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Consumo de aparatos</span></a>
-      <a class="tlc-mod" href="/factura-luz/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Factura y tarifas</span></a>
-      <a class="tlc-mod" href="/ahorro/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Ahorrar luz</span></a>
+      <span class="tlc-mod tlc-mod--prox" aria-disabled="true"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Factura y tarifas<small>Próximamente</small></span></span>
+      <span class="tlc-mod tlc-mod--prox" aria-disabled="true"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Ahorrar luz<small>Próximamente</small></span></span>
       <a class="tlc-mod" href="/instalacion/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Averías e instalación</span></a>
       <a class="tlc-mod" href="/climatizacion/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Calefacción y aire</span></a>
-      <a class="tlc-mod" href="/placas-solares/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Placas solares</span></a>
-      <a class="tlc-mod" href="/coche-electrico/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Coche eléctrico</span></a>
+      <span class="tlc-mod tlc-mod--prox" aria-disabled="true"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Placas solares<small>Próximamente</small></span></span>
+      <span class="tlc-mod tlc-mod--prox" aria-disabled="true"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Coche eléctrico<small>Próximamente</small></span></span>
     </nav>
   </section>
 

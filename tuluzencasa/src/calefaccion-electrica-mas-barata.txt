@@ -29,6 +29,8 @@ Lo que cambia entre ellos es cómo reparten ese calor:
 
 Si quieres ver cuál te conviene según el uso, lo explicamos en <a href="https://tuluzencasa.com/radiador-de-aceite-convector-o-calefactor/">radiador de aceite, convector o calefactor: cuál elegir</a>. Y si tienes ya un radiador de aceite, mira <a href="https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/">cuánto consume un radiador de aceite al mes</a>.
 
+El consumo de los demás, con tablas por potencia y por horas, lo tienes en <a href="https://tuluzencasa.com/cuanto-consumen-los-emisores-termicos/">cuánto consumen los emisores térmicos</a> y en <a href="https://tuluzencasa.com/cuanto-consume-una-estufa-electrica/">cuánto consume una estufa eléctrica</a>.
+
 ## Por qué la bomba de calor es la más barata {#bomba-de-calor}
 
 La bomba de calor no fabrica el calor con una resistencia: lo saca del aire de la calle y lo lleva dentro de casa. La electricidad solo mueve el compresor y los ventiladores, así que por cada kWh eléctrico entrega varios kWh de calor. Ese número es el SCOP: con un SCOP de 3, da 3 kWh de calor por cada kWh que consume.
@@ -54,8 +56,10 @@ En la práctica no puedes concentrar toda la calefacción de madrugada, pero sí
 
 - <strong>Usa el termostato</strong>. Marca una temperatura razonable y deja que el aparato corte solo; cada grado de más alarga el tiempo con la resistencia encendida.
 - <strong>Calienta solo donde estás</strong>. Un aparato portátil en la habitación que usas, con la puerta cerrada, gasta menos que calentar toda la casa.
+- <strong>Para la cama, una manta eléctrica</strong>. Una de 100 W toda la noche cuesta 2,01 € al mes; lo comparamos con calentar el dormitorio en <a href="https://tuluzencasa.com/cuanto-consume-una-manta-electrica/">cuánto consume una manta eléctrica</a>.
 - <strong>Cierra persianas y cortinas al anochecer</strong> para que el calor no se escape por las ventanas.
 - <strong>Pon burletes</strong> en puertas y ventanas que dejan pasar aire.
+- <strong>Si tienes humedad en casa</strong>, ventila pocos minutos y usa el deshumidificador con su humidistato; lo que gasta está en <a href="https://tuluzencasa.com/cuanto-consume-un-deshumidificador/">cuánto consume un deshumidificador</a>.
 - <strong>Revisa la potencia contratada</strong>. Si vas a usar varios aparatos de 2.000 W a la vez, puede saltar el limitador; si te sobra potencia, estás pagando de más cada mes.
 - <strong>Si tienes split con bomba de calor, úsalo antes que un radiador</strong> para calentar esa estancia.
 

@@ -23,7 +23,8 @@ TRAMOS = {"punta": 0.19 * FACTOR_IMP, "llano": 0.12 * FACTOR_IMP, "valle": 0.08 
 FACTORES = {
     "aire": 0.6, "radiador": 0.6, "estufa": 0.85, "nevera": 0.2, "termo": 0.7,
     "horno": 0.6, "induccion": 0.7, "vitro": 0.75, "lavavajillas": 0.55,
-    "secadora": 0.8, "freidora": 0.7, "resto": 1.0,
+    "secadora": 0.8, "freidora": 0.7, "emisor": 0.6, "manta": 0.5,
+    "deshumidificador": 0.8, "resto": 1.0,
 }
 
 

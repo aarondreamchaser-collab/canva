@@ -5,7 +5,7 @@
   "excerpt": "La calefacción eléctrica más barata es la bomba de calor: con SCOP 3, 1 kWh de calor cuesta 0,06 €, frente a 0,17 € con un radiador, a 0,165 €/kWh.",
   "category": "climatizacion",
   "keyword": "calefacción eléctrica más barata",
-  "words": 1330,
+  "words": 1410,
   "excerpt_len": 147,
   "h2": 6,
   "anclas_unicas": true,
@@ -16,8 +16,12 @@
   "enlaces": [
    "https://tuluzencasa.com/radiador-de-aceite-convector-o-calefactor/",
    "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+   "https://tuluzencasa.com/cuanto-consumen-los-emisores-termicos/",
+   "https://tuluzencasa.com/cuanto-consume-una-estufa-electrica/",
    "https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares",
    "https://tuluzencasa.com/bomba-de-calor-o-radiadores-electricos/",
+   "https://tuluzencasa.com/cuanto-consume-una-manta-electrica/",
+   "https://tuluzencasa.com/cuanto-consume-un-deshumidificador/",
    "https://tuluzencasa.com/",
    "https://tuluzencasa.com/"
   ]
@@ -85,6 +89,73 @@
    "https://tuluzencasa.com/calefaccion-electrica-mas-barata/",
    "https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares",
    "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://tuluzencasa.com/"
+  ]
+ },
+ "cuanto-consumen-los-emisores-termicos": {
+  "title": "Cuánto consumen los emisores térmicos: coste por hora, día y mes",
+  "title_seo": "Cuánto consumen los emisores térmicos por hora y al mes",
+  "excerpt": "Cuánto consumen los emisores térmicos: uno de 1.000 W gasta 0,6 kWh por hora, 0,10 € la hora y 15,05 € al mes con 5 h diarias a 0,165 €/kWh.",
+  "category": "climatizacion",
+  "keyword": "cuánto consumen los emisores térmicos",
+  "words": 1487,
+  "excerpt_len": 140,
+  "h2": 8,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/radiador-de-aceite-convector-o-calefactor/",
+   "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://tuluzencasa.com/bomba-de-calor-o-radiadores-electricos/",
+   "https://tuluzencasa.com/calefaccion-electrica-mas-barata/",
+   "https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares",
+   "https://tuluzencasa.com/"
+  ]
+ },
+ "cuanto-consume-una-manta-electrica": {
+  "title": "Cuánto consume una manta eléctrica: coste por noche, mes e invierno",
+  "title_seo": "Cuánto consume una manta eléctrica por noche y al mes",
+  "excerpt": "Cuánto consume una manta eléctrica: una de 100 W gasta 0,4 kWh por noche, 0,07 € y 2,01 € al mes con 8 h de uso a 0,165 €/kWh.",
+  "category": "climatizacion",
+  "keyword": "cuánto consume una manta eléctrica",
+  "words": 1282,
+  "excerpt_len": 126,
+  "h2": 8,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/",
+   "https://tuluzencasa.com/cuanto-consume-una-estufa-electrica/",
+   "https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares",
+   "https://tuluzencasa.com/"
+  ]
+ },
+ "cuanto-consume-un-deshumidificador": {
+  "title": "Cuánto consume un deshumidificador: coste por hora, día y mes",
+  "title_seo": "Cuánto consume un deshumidificador por hora y al mes",
+  "excerpt": "Cuánto consume un deshumidificador: uno de 250 W gasta 0,2 kWh por hora, 0,26 € al día y 8,03 € al mes con 8 h de uso a 0,165 €/kWh.",
+  "category": "climatizacion",
+  "keyword": "cuánto consume un deshumidificador",
+  "words": 1276,
+  "excerpt_len": 132,
+  "h2": 8,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/pvpc-o-mercado-libre/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2007-15820",
+   "https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares",
+   "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+   "https://tuluzencasa.com/calefaccion-electrica-mas-barata/",
    "https://tuluzencasa.com/"
   ]
  }
