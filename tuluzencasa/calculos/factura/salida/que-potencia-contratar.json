@@ -1,0 +1,200 @@
+{
+ "tabla": [
+  {
+   "kw": 2.3,
+   "amperios": 10,
+   "mes": 8.003378116799999,
+   "anio": 96.09319120499998
+  },
+  {
+   "kw": 3.45,
+   "amperios": 15,
+   "mes": 12.005067175199999,
+   "anio": 144.13978680749997
+  },
+  {
+   "kw": 4.6,
+   "amperios": 20,
+   "mes": 16.006756233599997,
+   "anio": 192.18638240999996
+  },
+  {
+   "kw": 5.75,
+   "amperios": 25,
+   "mes": 20.008445291999998,
+   "anio": 240.23297801249998
+  },
+  {
+   "kw": 6.9,
+   "amperios": 30,
+   "mes": 24.010134350399998,
+   "anio": 288.27957361499995
+  },
+  {
+   "kw": 8.05,
+   "amperios": 35,
+   "mes": 28.011823408799998,
+   "anio": 336.32616921749997
+  },
+  {
+   "kw": 9.2,
+   "amperios": 40,
+   "mes": 32.013512467199995,
+   "anio": 384.37276481999993
+  }
+ ],
+ "escalon_kw": 1.1500000000000004,
+ "escalones": [
+  {
+   "de": 2.3,
+   "a": 3.45,
+   "ahorro_anio": 48.04659560249999
+  },
+  {
+   "de": 3.45,
+   "a": 4.6,
+   "ahorro_anio": 48.04659560249999
+  },
+  {
+   "de": 4.6,
+   "a": 5.75,
+   "ahorro_anio": 48.04659560250002
+  },
+  {
+   "de": 5.75,
+   "a": 6.9,
+   "ahorro_anio": 48.04659560249996
+  },
+  {
+   "de": 6.9,
+   "a": 8.05,
+   "ahorro_anio": 48.04659560250002
+  },
+  {
+   "de": 8.05,
+   "a": 9.2,
+   "ahorro_anio": 48.04659560249996
+  }
+ ],
+ "por_kw_anio": 41.77964835,
+ "casos": {
+  "gas": {
+   "nombre": "Piso con cocina y calefacci\u00f3n de gas",
+   "aparatos": [
+    [
+     "Lavadora calentando agua",
+     2000
+    ],
+    [
+     "Microondas",
+     1000
+    ],
+    [
+     "Nevera",
+     150
+    ],
+    [
+     "Televisi\u00f3n",
+     100
+    ],
+    [
+     "Iluminaci\u00f3n LED",
+     90
+    ]
+   ],
+   "w": 3340,
+   "kw": 3.34,
+   "con_margen": 3.674,
+   "recomendada": 4.6
+  },
+  "gas_sin_micro": {
+   "nombre": "El mismo piso sin el microondas a la vez",
+   "aparatos": [
+    [
+     "Lavadora calentando agua",
+     2000
+    ],
+    [
+     "Nevera",
+     150
+    ],
+    [
+     "Televisi\u00f3n",
+     100
+    ],
+    [
+     "Iluminaci\u00f3n LED",
+     90
+    ]
+   ],
+   "w": 2340,
+   "kw": 2.34,
+   "con_margen": 2.574,
+   "recomendada": 3.45
+  },
+  "electrico": {
+   "nombre": "Piso con cocina el\u00e9ctrica y termo",
+   "aparatos": [
+    [
+     "Placa de inducci\u00f3n (un fuego)",
+     1800
+    ],
+    [
+     "Horno",
+     2200
+    ],
+    [
+     "Termo el\u00e9ctrico",
+     1500
+    ],
+    [
+     "Nevera",
+     150
+    ],
+    [
+     "Televisi\u00f3n",
+     100
+    ],
+    [
+     "Iluminaci\u00f3n LED",
+     90
+    ]
+   ],
+   "w": 5840,
+   "kw": 5.84,
+   "con_margen": 6.424,
+   "recomendada": 6.9
+  },
+  "electrico_termo_noche": {
+   "nombre": "El mismo piso con el termo programado de madrugada",
+   "aparatos": [
+    [
+     "Placa de inducci\u00f3n (un fuego)",
+     1800
+    ],
+    [
+     "Horno",
+     2200
+    ],
+    [
+     "Nevera",
+     150
+    ],
+    [
+     "Televisi\u00f3n",
+     100
+    ],
+    [
+     "Iluminaci\u00f3n LED",
+     90
+    ]
+   ],
+   "w": 4340,
+   "kw": 4.34,
+   "con_margen": 4.774,
+   "recomendada": 5.75
+  }
+ },
+ "ahorro_46_a_345": 48.04659560249999,
+ "ahorro_575_a_46": 48.04659560250002
+}

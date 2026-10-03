@@ -1,0 +1,33 @@
+{
+ "kw": 4.6,
+ "dias": 30.4,
+ "kwh_total": 252.74864999999994,
+ "kwh_punta": 103.35927380952378,
+ "kwh_llano": 44.80522619047618,
+ "kwh_valle": 104.58414999999998,
+ "pct_punta": 0.4089409530358473,
+ "pct_llano": 0.1772718714441252,
+ "pct_valle": 0.41378717552002753,
+ "factura_unico": {
+  "potencia": 12.5856,
+  "energia": 32.85732449999999,
+  "impuesto_electrico": 2.3221334419499993,
+  "contador": 0.81,
+  "base_iva": 48.57505794194999,
+  "iva": 10.200762167809499,
+  "total": 58.77582010975949
+ },
+ "factura_tramos": {
+  "potencia": 12.5856,
+  "energia": 33.38162116666666,
+  "impuesto_electrico": 2.3489250016166663,
+  "contador": 0.81,
+  "base_iva": 49.12614616828333,
+  "iva": 10.316490695339498,
+  "total": 59.44263686362282
+ },
+ "peso_potencia_unico": 0.2723357360851548,
+ "potencia_dia": 0.09,
+ "potencia_mes_sin_imp": 12.5856,
+ "precio_unico_con_imp": 0.16533803
+}

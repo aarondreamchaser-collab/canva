@@ -13,6 +13,7 @@ Web de contenido en español (España) sobre consumo eléctrico doméstico, fact
 - Los artículos se crean SIEMPRE con `status: "draft"`. Nunca publiques un artículo.
 - No borres ni modifiques entradas, páginas, categorías, usuarios, plugins ni ajustes existentes salvo que la tarea lo pida explícitamente.
 - Antes de cualquier cambio de ajustes del sitio, explica qué vas a cambiar y espera confirmación.
+- El menú Principal solo debe incluir categorías con al menos una entrada publicada. Cuando el titular publique artículos de una categoría nueva, propón añadirla al menú y hazlo cuando lo confirme.
 - Si una petición devuelve 403 o un bloqueo, para y avisa: probablemente el firewall o HackGuardian de EasyWP está activo.
 - No metas `<script>` dentro del contenido de páginas o entradas: WordPress convierte algunos `&&` en `&#038;&#038;` y rompe el JavaScript. El JS de la calculadora de la home vive en WPCode (fragmento «Calculadora Home», JavaScript, pie de todo el sitio) y su copia está en `calculadora.js`; la página Inicio (ID 23) usa `home-sin-script.html`. Si cambias la calculadora, actualiza `calculadora.js` y pega el contenido en ese fragmento.
 
@@ -28,6 +29,7 @@ Consulta sus IDs con `GET /wp-json/wp/v2/categories?per_page=100` antes de usarl
 - Horno eléctrico de referencia: 2.200 W con factor 0,6 (45 min por uso, precalentado incluido), igual que en la calculadora de la home.
 - Mes = 30,4 días y año = 12 meses (364,8 días), igual que la calculadora de la home. Temporadas en meses: verano 3 meses, invierno 4 meses. Lo que se cuenta por usos (p. ej., 12 usos al mes) no depende de los días.
 - Calcula todas las cifras con un script (no de memoria) y redondea a 2 decimales en euros.
+- Justo debajo de la primera tabla de cada artículo va el párrafo «Cálculos con precios de octubre de 2026». Cada vez que cambien los precios de referencia, actualiza el mes y el año en esa línea en todos los artículos (y la calculadora si corresponde).
 
 ## Estilo de los artículos
 - Español de España, tuteo, frases claras, sin relleno ni frases de IA ("en el mundo actual", "es importante destacar", "en conclusión").
