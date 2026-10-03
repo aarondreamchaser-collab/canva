@@ -29,6 +29,7 @@ La web gana dinero por tres vías, en este orden de puesta en marcha:
   - No pongas enlaces de afiliado reales hasta que el titular te dé su ID de afiliado. Usa el marcador `[AFILIADO: producto]` donde iría el enlace.
   - Enlaces de afiliado con `rel="sponsored nofollow"`.
   - En cada artículo con enlaces de afiliado, añade al principio una nota breve: «Algunos enlaces de esta página son de afiliado: si compras a través de ellos, ganamos una pequeña comisión sin coste para ti.»
+  - **Cuando el titular active Amazon Afiliados**, repón en el aviso legal (apartado 6) la frase que exige el programa: «En calidad de Afiliado de Amazon, obtenemos ingresos por las compras adscritas que cumplen los requisitos aplicables.» Se quitó el 3 de octubre de 2026 porque aún no está dado de alta.
   - No inventes precios, especificaciones ni pruebas. Nunca escribas «lo hemos probado» si no es verdad. Las guías de compra se basan en criterios (potencia, consumo, programador, etc.) y en datos que el titular confirme.
 
 ### 2.3 Leads (más adelante)
