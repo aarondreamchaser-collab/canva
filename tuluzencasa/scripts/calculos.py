@@ -31,7 +31,7 @@ def eur(x):
     if 0 < x < 0.005:
         return "< 0,01 €"
     d = Decimal(str(round(x, 9))).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
-    return f"{d:.2f}".replace(".", ",") + " €"
+    return f"{d:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".") + " €"
 
 
 def num(x, dec=2):

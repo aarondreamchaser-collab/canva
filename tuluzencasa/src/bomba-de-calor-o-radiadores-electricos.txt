@@ -1,0 +1,91 @@
+title: Bomba de calor o radiadores eléctricos: cuál sale más barato
+title_seo: Bomba de calor o radiadores eléctricos: cuál sale más barato
+excerpt: Bomba de calor o radiadores eléctricos: para el mismo calor, el radiador cuesta 30,10 € al mes y una bomba de calor con SCOP 3,5, 8,60 €, a 0,165 €/kWh.
+category: climatizacion
+keyword: bomba de calor o radiadores eléctricos
+---
+¿Bomba de calor o radiadores eléctricos? Para dar el mismo calor, la bomba de calor consume varias veces menos: el calor que un radiador de 2.000 W reparte en 5 horas cuesta 30,10 € al mes con el radiador y 8,60 € con una bomba de calor de SCOP 3,5. La bomba de calor ahorra unos 85,99 € por invierno en ese ejemplo, pero hay que comprarla e instalarla, así que la cuenta depende de cuánto te cueste y de cuánto uses la calefacción.
+
+Las cifras usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo: el ahorro sube o baja en la misma proporción.
+
+## Bomba de calor o radiadores eléctricos: mismo calor, distinto consumo {#consumo}
+
+Para que la comparación sea justa, partimos del mismo calor que da el radiador de aceite de 2.000 W de nuestro artículo sobre su consumo: 5 horas al día con un factor de uso real de 0,6, que son 6 kWh de calor diarios. El invierno se cuenta como 4 meses.
+
+{{T:bdc_comparativa}}
+
+El SCOP es el rendimiento estacional de la bomba de calor en modo calefacción: los kWh de calor que da por cada kWh eléctrico a lo largo de la temporada. Aparece en la etiqueta energética del equipo. En la tabla usamos 3, 3,5 y 4 como ejemplos; para tu caso, usa el de tu etiqueta.
+
+## Por qué la bomba de calor consume menos {#por-que}
+
+Un radiador eléctrico, sea de aceite, convector o emisor térmico, calienta con una resistencia: cada kWh que consume se convierte en un kWh de calor. Una bomba de calor no fabrica el calor, lo traslada: lo toma del aire de la calle y lo lleva dentro. La electricidad solo mueve el compresor y los ventiladores, por eso entrega más calor del que consume.
+
+En la mayoría de las casas, la bomba de calor es un split de aire acondicionado con modo calor. Si ya tienes uno, en invierno te sirve como calefacción sin comprar nada más; sus costes en verano los tienes en <a href="https://tuluzencasa.com/cuanto-consume-aire-acondicionado/">cuánto consume un aire acondicionado por hora</a>.
+
+Dos cosas a tener en cuenta:
+
+- <strong>El frío exterior le resta rendimiento</strong>. Cuanto más frío hace fuera, más le cuesta sacar calor del aire, y en los días más duros el rendimiento real baja respecto al de la etiqueta.
+- <strong>Calienta el aire de la habitación</strong>, con ventilador. Hay personas a las que les resulta menos agradable que el calor suave de un radiador.
+
+## Cuánto tarda en pagarse una bomba de calor {#amortizacion}
+
+Aquí no damos un precio de compra e instalación, porque depende del equipo, de la casa y de la instalación. Lo que sí podemos calcular es cuántos inviernos tarda en pagarse según lo que te cueste, con el ahorro del ejemplo anterior (SCOP 3,5 frente al radiador de 2.000 W):
+
+{{T:bdc_amortizacion}}
+
+Si la bomba de calor te cuesta 900,00 €, con ese uso tardarías unos 10,5 inviernos en recuperar la inversión solo con el ahorro en calefacción. Si la usas más horas al día o calientas más estancias, el ahorro crece y el plazo se acorta. Si además la usas como aire acondicionado en verano, parte de la inversión la habrías hecho igualmente.
+
+Pide presupuesto a instaladores de tu zona y usa su precio en esta tabla: divide lo que te cuesta entre el ahorro por invierno y tendrás tu plazo.
+
+## Cuándo compensa cada opción {#cuando-compensa}
+
+<strong>Compensa la bomba de calor</strong> si:
+
+- Usas la calefacción muchas horas al día durante todo el invierno.
+- Ya tienes un split con modo calor, o vas a poner aire acondicionado de todas formas.
+- Quieres calentar las estancias principales de forma habitual, no solo un rato.
+
+<strong>Compensan los radiadores eléctricos</strong> si:
+
+- Solo necesitas calor de forma puntual: un dormitorio un rato antes de dormir o un despacho unas horas.
+- No puedes instalar una unidad exterior (por ejemplo, en un piso de alquiler o por normas de la comunidad).
+- Vives en una zona templada con pocos días de frío.
+
+Tienes los costes del radiador más habitual en <a href="https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/">cuánto consume un radiador de aceite al mes</a>, y una comparativa de todos los sistemas en <a href="https://tuluzencasa.com/calefaccion-electrica-mas-barata/">calefacción eléctrica más barata</a>.
+
+## La hora también importa {#tramos}
+
+Con la tarifa por horas, los dos sistemas se benefician de usar la calefacción en valle. Con el calor del ejemplo, esto es lo que cuesta un día según el tramo:
+
+{{T:bdc_tramos}}
+
+El radiador pasa de 1,45 € al día en punta a 0,61 € en valle. La bomba de calor, de 0,41 € a 0,17 €. Aunque la uses en las horas caras, la bomba de calor sale más barata que el radiador en las baratas.
+
+## Trucos para gastar menos con cualquiera de los dos {#trucos}
+
+- <strong>Ajusta el termostato</strong> y deja que el equipo regule solo; cada grado de más se paga.
+- <strong>Limpia los filtros del split</strong> al empezar el invierno: con los filtros sucios pasa menos aire y rinde peor.
+- <strong>No tapes la unidad exterior</strong> ni la rodees de trastos: necesita que circule el aire.
+- <strong>Cierra puertas</strong> para calentar solo las estancias que usas.
+- <strong>Programa los radiadores</strong> para que funcionen cuando estás, no toda la noche.
+- <strong>Compara antes de comprar</strong>: entre dos bombas de calor parecidas, la de mayor SCOP gasta menos; está en la etiqueta. El IDAE recomienda elegir un equipo de bomba de calor con etiqueta energética A o superior en sus <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">recomendaciones para el ahorro energético en hogares</a>.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto ahorra una bomba de calor frente a un radiador eléctrico?
+
+Depende de su SCOP y de cuánto uses la calefacción. En nuestro ejemplo, con SCOP 3,5, el mismo calor cuesta 8,60 € al mes en lugar de 30,10 €: unos 85,99 € menos por invierno.
+
+### ¿Un split de aire acondicionado sirve como calefacción?
+
+Si tiene bomba de calor (modo calor), sí. Es la forma más habitual de tener bomba de calor en un piso. Mira en el mando o en el manual si tiene el modo calor, normalmente con un símbolo de sol.
+
+### ¿Qué es el SCOP?
+
+Es el rendimiento estacional en calefacción: cuántos kWh de calor da por cada kWh eléctrico a lo largo del invierno. Cuanto más alto, menos gasta. Aparece en la etiqueta energética del equipo.
+
+### ¿Merece la pena cambiar los radiadores por una bomba de calor?
+
+Si usas mucho la calefacción, suele compensar a medio plazo. Calcula tu plazo con la tabla de amortización y el presupuesto real que te den.
+
+<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: añade tus radiadores o tu bomba de calor, las horas de uso y el precio de tu factura.

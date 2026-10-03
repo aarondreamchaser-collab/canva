@@ -31,5 +31,17 @@
  },
  "pvpc-o-mercado-libre": {
   "id": 94
+ },
+ "calefaccion-electrica-mas-barata": {
+  "id": 95
+ },
+ "bomba-de-calor-o-radiadores-electricos": {
+  "id": 96
+ },
+ "radiador-de-aceite-convector-o-calefactor": {
+  "id": 97
+ },
+ "cuanto-consume-una-estufa-electrica": {
+  "id": 98
  }
 }

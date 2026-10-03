@@ -1,0 +1,91 @@
+title: Cuánto consume una estufa eléctrica: coste por hora, día y mes
+title_seo: Cuánto consume una estufa eléctrica por hora y al mes
+excerpt: Cuánto consume una estufa eléctrica: una de 2.000 W gasta 1,7 kWh por hora, 0,28 € la hora y 25,58 € al mes con 3 h diarias a 0,165 €/kWh.
+category: climatizacion
+keyword: cuánto consume una estufa eléctrica
+---
+¿Cuánto consume una estufa eléctrica? Una de 2.000 W gasta de media unos 1,7 kWh por hora de uso, lo que cuesta 0,28 € la hora. Con 3 horas al día son 0,84 € diarios y 25,58 € al mes, y un invierno de cuatro meses se va a 102,33 €.
+
+Estas cifras usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo y el coste sube o baja en la misma proporción.
+
+## Cuánto consume una estufa eléctrica por hora, día y mes {#coste}
+
+La tabla recoge las potencias más habituales. Aplicamos un factor de uso real de 0,85: aunque la estufa tenga termostato, suele usarse para calentar rápido y pasa la mayor parte del tiempo con la resistencia encendida. Es el mismo criterio que usa la calculadora de la portada.
+
+{{T:estufa_potencias}}
+
+La potencia está en la placa de características, normalmente en la parte de atrás o debajo, y en la caja. Muchas estufas tienen dos o más posiciones, y en la baja gastan menos. Mira en la placa o en el manual qué potencia tiene cada posición y usa esa cifra en la tabla.
+
+## Tipos de estufa eléctrica y en qué se diferencian {#tipos}
+
+Todas las estufas eléctricas calientan con una resistencia y convierten cada kWh de electricidad en un kWh de calor. Ninguna es más eficiente que otra en ese sentido; lo que cambia es cómo te llega el calor:
+
+- <strong>Estufa de cuarzo o halógena</strong>: calienta por radiación lo que tiene delante. Notas el calor enseguida si estás cerca, pero no calienta la habitación entera.
+- <strong>Estufa de infrarrojos</strong>: parecida a la anterior, calienta personas y objetos más que el aire.
+- <strong>Calefactor de aire</strong>: un ventilador empuja el aire caliente; calienta rápido una zona pequeña.
+- <strong>Estufa cerámica</strong>: suele combinar resistencia y ventilador, con un calor algo más repartido.
+
+Si dudas entre una estufa, un convector o un radiador de aceite, lo comparamos en <a href="https://tuluzencasa.com/radiador-de-aceite-convector-o-calefactor/">radiador de aceite, convector o calefactor: cuál elegir</a>.
+
+## A qué hora sale más barata la estufa {#horarios}
+
+Con la tarifa 2.0TD con discriminación horaria, el precio cambia según la franja. Así sale una estufa de 2.000 W usada 3 horas al día:
+
+{{T:estufa_tramos}}
+
+Entre usarla en punta (de 10 a 14 h y de 18 a 22 h) y en valle (de 0 a 8 h y el fin de semana) hay una diferencia de 37,47 € frente a 15,78 € al mes. La estufa se suele usar justo en las horas de frío de la tarde, que son punta, así que si puedes, adelanta el uso al llano (de 14 a 18 h) o aprovecha el fin de semana.
+
+## Cuántas horas al día puedes usarla {#horas}
+
+Las horas mandan. Así sube la cuenta de una estufa de 2.000 W:
+
+{{T:estufa_horas}}
+
+Una hora al día son 8,53 € al mes; cinco horas, 42,64 €. Para un uso corto y localizado, como calentarte los pies en el escritorio o el baño antes de la ducha, la estufa es práctica. Para calentar una habitación muchas horas, un radiador de aceite con termostato suele tener la resistencia encendida menos rato, y una bomba de calor gasta bastante menos: lo comparamos en <a href="https://tuluzencasa.com/calefaccion-electrica-mas-barata/">calefacción eléctrica más barata</a>.
+
+## Cómo saber cuánto gasta tu estufa de verdad {#medir}
+
+Las tablas te dan una estimación. Si quieres el dato exacto de la tuya, mídelo con un enchufe medidor de consumo: se coloca entre la pared y la estufa y va sumando los kWh que pasan por él.
+
+- Enchufa la estufa al medidor y úsala como siempre durante una semana.
+- Apunta los kWh que marca al final y divídelos entre 7: tendrás tu consumo medio al día.
+- Multiplica por el precio del kWh de tu factura y por 30,4 para sacar el coste al mes.
+
+Así verás si tu estufa pasa más o menos tiempo con la resistencia encendida que el 85 % que usamos en la tabla. Si el medidor no admite la potencia de tu estufa, no lo uses: comprueba en sus instrucciones la potencia máxima que soporta antes de conectarla.
+
+## Trucos para gastar menos con la estufa {#trucos}
+
+- <strong>Úsala de cerca y para ti</strong>, no para calentar toda la casa: es para lo que mejor funciona.
+- <strong>Elige la posición baja</strong> si con ella tienes suficiente.
+- <strong>Usa el termostato o el temporizador</strong> si tu modelo lo tiene. El IDAE recomienda termostatos programables entre sus <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">recomendaciones para el ahorro energético en hogares</a>.
+- <strong>Cierra la puerta</strong> de la habitación en la que estás.
+- <strong>Apágala al salir</strong> de la habitación: no guarda el calor.
+- <strong>Ojo con la potencia contratada</strong>: una estufa de 2.000 W junto al horno o la lavadora puede hacer saltar el limitador. Mira <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a> si te pasa a menudo.
+
+## Seguridad con la estufa eléctrica {#seguridad}
+
+- Enchúfala directamente a la pared. Evita regletas y alargadores finos: a 2.000 W el cable se puede calentar.
+- Déjale espacio alrededor y aléjala de cortinas, sofás, ropa y papeles.
+- No la uses para secar ropa encima ni la tapes.
+- No la dejes encendida al salir de casa ni mientras duermes.
+- Si el enchufe o la clavija se calientan, deja de usarla y que lo revise un instalador autorizado.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto consume una estufa eléctrica de 1.500 W?
+
+Con un uso real del 85 %, unos 1,28 kWh por hora: 0,21 € la hora, 0,63 € al día con 3 horas de uso y 19,19 € al mes.
+
+### ¿Qué gasta menos, una estufa o un radiador de aceite?
+
+A igual potencia, lo mismo por cada hora con la resistencia encendida. El radiador de aceite guarda el calor y suele tener la resistencia encendida menos rato para mantener la temperatura, así que para muchas horas suele gastar menos.
+
+### ¿Las estufas halógenas gastan menos?
+
+No por kWh: cada kWh se convierte en el mismo calor. Lo que hacen es calentar a quien tienen delante, así que pueden servirte con menos potencia o menos tiempo si estás cerca.
+
+### ¿Es caro tener la estufa encendida toda la tarde?
+
+Cinco horas al día con una estufa de 2.000 W son 42,64 € al mes a 0,165 €/kWh. Si lo haces a diario, compensa mirar alternativas como la bomba de calor.
+
+<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon la potencia de tu estufa, las horas de uso y el precio de tu factura.
