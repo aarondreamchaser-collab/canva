@@ -24,7 +24,7 @@ Cuánto rato está encendida la resistencia depende de la habitación, del aisla
 
 El radiador de aceite tiene un factor más bajo porque el aceite guarda el calor: cuando la resistencia se apaga, sigue soltando calor un rato. El calefactor calienta rápido, pero ese calor se va antes, así que la resistencia se enciende más a menudo. Para el convector no damos un factor propio: depende mucho del modelo y de su termostato.
 
-Tienes el detalle de cada uno en <a href="https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/">cuánto consume un radiador de aceite</a> y en <a href="https://tuluzencasa.com/cuanto-consume-una-estufa-electrica/">cuánto consume una estufa eléctrica</a>.
+Tienes el detalle de cada uno en <a href="https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/">cuánto consume un radiador de aceite</a> y en <a href="https://tuluzencasa.com/cuanto-consume-estufa-electrica/">cuánto consume una estufa eléctrica</a>.
 
 ## Radiador de aceite, convector o calefactor: diferencias de uso {#diferencias}
 

@@ -23,36 +23,36 @@
   "id": 21,
   "rankmath_status": 200
  },
- "como-leer-la-factura-de-la-luz": {
+ "como-leer-factura-luz": {
   "id": 92
  },
  "que-potencia-contratar": {
   "id": 93
  },
- "pvpc-o-mercado-libre": {
+ "pvpc-mercado-libre": {
   "id": 94
  },
  "calefaccion-electrica-mas-barata": {
   "id": 95
  },
- "bomba-de-calor-o-radiadores-electricos": {
+ "bomba-calor-radiadores-electricos": {
   "id": 96
  },
- "radiador-de-aceite-convector-o-calefactor": {
+ "radiador-aceite-convector-calefactor": {
   "id": 97
  },
- "cuanto-consume-una-estufa-electrica": {
+ "cuanto-consume-estufa-electrica": {
   "id": 98
  },
- "cuanto-consume-una-manta-electrica": {
+ "cuanto-consume-manta-electrica": {
   "id": 105,
   "rankmath_status": 200
  },
- "cuanto-consume-un-deshumidificador": {
+ "cuanto-consume-deshumidificador": {
   "id": 106,
   "rankmath_status": 200
  },
- "cuanto-consumen-los-emisores-termicos": {
+ "cuanto-consumen-emisores-termicos": {
   "id": 104,
   "rankmath_status": 200
  }

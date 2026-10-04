@@ -25,7 +25,7 @@ Un emisor térmico es un radiador eléctrico que se cuelga en la pared, como uno
 
 En los dos casos, el calor sale de una resistencia. Y una resistencia convierte cada kWh de electricidad en un kWh de calor, ni más ni menos. Por eso un emisor térmico de 1.000 W gasta lo mismo por hora con la resistencia encendida que un radiador de aceite o un convector de 1.000 W. Lo que cambia es cómo reparte el calor, cuánto lo mantiene después de cortar y lo preciso que es su termostato.
 
-Si estás dudando entre un emisor y un aparato portátil, mira <a href="https://tuluzencasa.com/radiador-de-aceite-convector-o-calefactor/">radiador de aceite, convector o calefactor: cuál elegir</a>. Lo que allí contamos del radiador de aceite vale casi igual para el emisor.
+Si estás dudando entre un emisor y un aparato portátil, mira <a href="https://tuluzencasa.com/radiador-aceite-convector-calefactor/">radiador de aceite, convector o calefactor: cuál elegir</a>. Lo que allí contamos del radiador de aceite vale casi igual para el emisor.
 
 ## ¿Existen emisores térmicos de bajo consumo? {#bajo-consumo}
 
@@ -61,7 +61,7 @@ Para dar el mismo calor que un emisor de 1.000 W durante 5 horas, una bomba de c
 
 {{T:emisor_bdc}}
 
-Son 15,05 € al mes con el emisor frente a 4,30 € con la bomba de calor, a igualdad de calor. El SCOP de 3,5 es un ejemplo: el de cada equipo viene en su etiqueta energética. La contrapartida es que la bomba de calor hay que comprarla e instalarla. Lo comparamos con detalle, incluido cuánto tarda en pagarse, en <a href="https://tuluzencasa.com/bomba-de-calor-o-radiadores-electricos/">bomba de calor o radiadores eléctricos</a>, y tienes todos los sistemas juntos en <a href="https://tuluzencasa.com/calefaccion-electrica-mas-barata/">calefacción eléctrica más barata</a>.
+Son 15,05 € al mes con el emisor frente a 4,30 € con la bomba de calor, a igualdad de calor. El SCOP de 3,5 es un ejemplo: el de cada equipo viene en su etiqueta energética. La contrapartida es que la bomba de calor hay que comprarla e instalarla. Lo comparamos con detalle, incluido cuánto tarda en pagarse, en <a href="https://tuluzencasa.com/bomba-calor-radiadores-electricos/">bomba de calor o radiadores eléctricos</a>, y tienes todos los sistemas juntos en <a href="https://tuluzencasa.com/calefaccion-electrica-mas-barata/">calefacción eléctrica más barata</a>.
 
 ## Trucos para gastar menos con los emisores {#trucos}
 
