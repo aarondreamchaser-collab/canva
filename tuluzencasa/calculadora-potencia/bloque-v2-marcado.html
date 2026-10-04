@@ -1,0 +1,69 @@
+<div class="tlp">
+  <p class="tlp-intro">Marca los aparatos que pueden estar encendidos a la vez en tu casa. La calculadora suma su potencia, añade un margen del 10 % y te dice qué potencia normalizada contratar y cuánto ahorrarías o pagarías de más al año, de forma estimada.</p>
+
+  <section class="tlp-app" id="tlp-app" aria-label="Calculadora de potencia contratada">
+    <div class="tlp-panel"><div class="tlp-panel-in">
+      <div class="tlp-lcd" aria-live="polite">
+        <div class="tlp-lcd-lab">Potencia recomendada</div>
+        <div class="tlp-lcd-big" id="tlp-rec">–</div>
+        <div class="tlp-lcd-grid">
+          <div>A la vez<span id="tlp-sum">0 kW</span></div>
+          <div>Con margen<span id="tlp-mar">0 kW</span></div>
+          <div>Tienes<span id="tlp-cur">4,6 kW</span></div>
+          <div><em class="tlp-lcd-k" id="tlp-dif-label">Diferencia al año</em><span id="tlp-dif">–</span></div>
+        </div>
+      </div>
+      <div>
+        <ol class="tlp-esc" id="tlp-esc" aria-hidden="true"></ol>
+        <p class="tlp-ley"><span><i class="r"></i>Recomendada</span><span><i class="c"></i>La que tienes</span></p>
+      </div>
+      <div class="tlp-kwbox">
+        <label class="tlp-f">Tu potencia contratada ahora
+          <select id="tlp-kw"></select>
+        </label>
+        <label class="tlp-f">O escribe la exacta de tu factura (kW)
+          <input type="text" inputmode="decimal" id="tlp-kw-ex" placeholder="Por ejemplo, 4,4" autocomplete="off" aria-describedby="tlp-kw-msg">
+        </label>
+        <p class="tlp-msg" id="tlp-kw-msg" aria-live="polite"></p>
+      </div>
+      <label class="tlp-f">Precio del término de potencia (€ por kW y día, sin impuestos)
+        <input type="text" inputmode="decimal" id="tlp-precio" value="0,09" autocomplete="off" aria-describedby="tlp-precio-msg">
+      </label>
+      <p class="tlp-msg" id="tlp-precio-msg" aria-live="polite"></p>
+      <div class="tlp-hip" id="tlp-hip">
+        <p><strong>Cálculo estimado.</strong> Hipótesis:</p>
+        <ul>
+          <li>Precio de la potencia: <span data-tlp="precio">0,09</span> € por kW y día, sin impuestos. Si tu factura distingue punta y valle, usa la media.</li>
+          <li>Impuesto eléctrico del 5,11 % e IVA del 21 %, 365 días al año.</li>
+          <li>Margen del 10 % sobre lo que marcas, para arranques y aparatos que no has contado.</li>
+          <li>Solo el término de potencia: no incluye la energía que consumes, el alquiler del contador ni los costes del cambio de potencia.</li>
+        </ul>
+      </div>
+    </div></div>
+
+    <div class="tlp-casa">
+      <div class="tlp-casa-h">
+        <h2>¿Qué puede coincidir? <span class="tlp-sr">Aparatos encendidos a la vez</span></h2>
+        <button type="button" class="tlp-btn-s" id="tlp-reset">Vaciar</button>
+        <p class="tlp-clave"><strong>Marca solo lo que puede estar encendido a la vez</strong> en el peor momento normal del día, por ejemplo a la hora de la cena. No marques todo lo que tienes en casa.</p>
+        <p><span id="tlp-n">0 aparatos</span> marcados. Si tienes dos iguales encendidos a la vez, cambia ×1 por ×2.</p>
+      </div>
+      <div id="tlp-lista"></div>
+      <div class="tlp-otro-c">
+        <label class="tlp-otro">Otro aparato que no está en la lista (W, hasta 20.000)
+          <input type="text" inputmode="decimal" id="tlp-otro" placeholder="Por ejemplo, 1200" autocomplete="off" aria-describedby="tlp-otro-msg">
+        </label>
+        <p class="tlp-msg" id="tlp-otro-msg" aria-live="polite"></p>
+      </div>
+      <div class="tlp-barra" id="tlp-barra" aria-hidden="true"><span>Recomendada<strong id="tlp-b-rec">–</strong></span><span id="tlp-b-dif">Marca aparatos</span></div>
+    </div>
+
+    <div class="tlp-res" id="tlp-res" aria-live="polite">
+      <div class="tlp-tip" id="tlp-tip"></div>
+      <div class="tlp-acc">
+        <button type="button" class="tlp-btn-s" id="tlp-copiar">Copiar resultado</button>
+        <span class="tlp-msg" id="tlp-copiar-msg" role="status"></span>
+      </div>
+    </div>
+  </section>
+</div>

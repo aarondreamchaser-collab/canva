@@ -1,0 +1,26 @@
+/* Tu luz en casa — lectura en móvil (artículos, páginas y categorías).
+   WPCode → Añadir fragmento → «CSS Snippet» → Inserción automática en todo el sitio (cabecera).
+   No afecta a la portada ni al escritorio. */
+@media (max-width: 600px) {
+  /* Títulos: de 42 px a 30 px, para que el texto empiece antes. */
+  .single .entry-title,
+  .page:not(.home) .entry-title,
+  .archive .page-title { font-size: 30px; line-height: 1.2; }
+  .archive .entry-title,
+  .blog .entry-title { font-size: 24px; line-height: 1.25; }
+  .entry-content > h2 { font-size: 25px; line-height: 1.25; }
+
+  /* Tablas: letra algo menor y sombra en el borde cuando hay más columnas a la derecha. */
+  .entry-content > .wp-block-table {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    background:
+      linear-gradient(to right, #fff 30%, rgba(255,255,255,0)) left center / 32px 100% no-repeat local,
+      linear-gradient(to left, #fff 30%, rgba(255,255,255,0)) right center / 32px 100% no-repeat local,
+      radial-gradient(farthest-side at 0 50%, rgba(24,34,46,.22), rgba(24,34,46,0)) left center / 12px 100% no-repeat scroll,
+      radial-gradient(farthest-side at 100% 50%, rgba(24,34,46,.22), rgba(24,34,46,0)) right center / 12px 100% no-repeat scroll;
+  }
+  .entry-content > .wp-block-table table { font-size: 14px; line-height: 1.4; }
+  .entry-content > .wp-block-table th,
+  .entry-content > .wp-block-table td { padding: 6px 8px; }
+}

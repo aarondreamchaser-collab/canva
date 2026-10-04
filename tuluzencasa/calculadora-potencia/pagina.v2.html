@@ -1,0 +1,296 @@
+<!-- wp:html -->
+<style>
+.tlp{--pared:#ECEEE9;--papel:#FAFBF8;--tinta:#18222E;--tinta2:#4A5663;--cuadro:#22354A;--cuadro2:#15222F;--amarillo:#F2C230;--lcd:#C3CFAB;--lcd-t:#1E2A17;--linea:#D3D7CE;--verde:#2F6B3A;--rojo:#B3412F;
+  font-family:"Archivo","Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",Arial,sans-serif;color:var(--tinta);font-size:17px;line-height:1.55;margin-bottom:40px}
+.tlp *,.tlp *::before,.tlp *::after{box-sizing:border-box}
+.tlp h2,.tlp h3,.tlp p,.tlp ul,.tlp ol,.tlp li,.tlp fieldset,.tlp legend{margin:0;padding:0}
+.tlp ul,.tlp ol{list-style:none}
+.tlp button{font:inherit;cursor:pointer;border:0;margin:0;line-height:1.2;text-transform:none;letter-spacing:normal}
+.tlp input,.tlp select{font:inherit;margin:0;height:auto;line-height:1.3}
+.tlp :focus-visible{outline:3px solid var(--amarillo);outline-offset:2px}
+.tlp-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.tlp-intro{font-size:1.08rem;color:var(--tinta2);max-width:62ch;margin-bottom:22px!important}
+
+.tlp-app{display:grid;grid-template-columns:minmax(280px,340px) 1fr;border-radius:16px;overflow:hidden;overflow:clip;background:var(--papel);border:1px solid #18222E24;box-shadow:0 1px 2px #18222E14,0 16px 40px -18px #18222E55}
+.tlp-panel{background:var(--cuadro);color:#E6ECF2;padding:24px}
+.tlp-panel-in{display:flex;flex-direction:column;gap:18px;position:sticky;top:24px}
+.tlp-lcd{background:var(--lcd);color:var(--lcd-t);border-radius:8px;padding:16px 18px;box-shadow:inset 0 2px 8px #0000004a,0 0 0 4px var(--cuadro2)}
+.tlp-lcd-lab{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;opacity:.75}
+.tlp-lcd-big{font-size:clamp(2.6rem,6vw,3.3rem);font-weight:700;line-height:1;margin-top:6px;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.tlp-lcd-big small{font-size:.36em;font-weight:600;margin-left:6px;letter-spacing:0}
+.tlp-lcd-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px 14px;margin-top:14px;padding-top:12px;border-top:1px dashed #1E2A1766;font-size:.74rem}
+.tlp-lcd-grid span{display:block;font-size:1.05rem;font-weight:700;font-variant-numeric:tabular-nums}
+.tlp-esc{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;align-items:end}
+.tlp-esc li{position:relative;background:var(--cuadro2);border-radius:5px;height:34px;display:flex;align-items:flex-end;justify-content:center;padding-bottom:4px;font-size:.66rem;color:#98A7B6;font-variant-numeric:tabular-nums}
+.tlp-esc li:nth-child(2){height:40px}.tlp-esc li:nth-child(3){height:46px}.tlp-esc li:nth-child(4){height:52px}.tlp-esc li:nth-child(5){height:58px}.tlp-esc li:nth-child(6){height:64px}.tlp-esc li:nth-child(7){height:70px}
+.tlp-esc li.is-rec{background:var(--amarillo);color:var(--tinta);font-weight:800}
+.tlp-esc li.is-cur{box-shadow:inset 0 0 0 2px #fff;color:#fff}
+.tlp-esc li.is-rec.is-cur{color:var(--tinta)}
+.tlp-ley{display:flex;gap:14px;flex-wrap:wrap;font-size:.74rem;color:#AFBCC9;margin-top:8px!important}
+.tlp-ley i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+.tlp-ley .r{background:var(--amarillo)}.tlp-ley .c{box-shadow:inset 0 0 0 2px #fff}
+.tlp-f{display:flex;flex-direction:column;gap:5px;font-size:.8rem;color:#C9D3DD;margin:0;min-width:0}
+.tlp-panel input,.tlp-panel select{background:var(--cuadro2);border:1px solid #ffffff26;color:#fff;border-radius:7px;padding:9px 10px;width:100%;font-size:1rem}
+.tlp-panel select option{color:#18222E;background:#fff}
+.tlp-fine{font-size:.74rem;color:#98A7B6;line-height:1.45}
+
+.tlp-casa{padding:24px;display:flex;flex-direction:column;gap:16px;min-width:0}
+.tlp-casa-h{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px}
+.tlp-casa-h h2{font-size:1.35rem;font-weight:800;letter-spacing:-.01em;color:var(--tinta)}
+.tlp-casa-h p{font-size:.85rem;color:var(--tinta2);width:100%}
+.tlp-btn-s{background:transparent;color:var(--tinta);border:1px solid #C3C8BE!important;border-radius:7px;padding:7px 11px;font-size:.82rem;font-weight:600}
+.tlp-btn-s:hover{background:#18222E0d;color:var(--tinta)}
+.tlp-g{border:0;min-width:0}
+.tlp-g legend{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--tinta2);margin-bottom:8px}
+.tlp-ops{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px}
+.tlp-op{display:flex;align-items:center;gap:6px;border:1px solid var(--linea);border-radius:10px;background:#fff;padding:4px 6px 4px 4px;transition:border-color .15s,box-shadow .15s}
+.tlp-op.is-on{border-color:var(--tinta);box-shadow:0 0 0 1px var(--tinta)}
+.tlp-op-l{display:flex;align-items:center;gap:10px;flex:1;min-width:0;padding:8px 6px;cursor:pointer;font-size:.92rem;line-height:1.25}
+.tlp-op-l input{width:18px;height:18px;flex:none;accent-color:var(--tinta);margin:0}
+.tlp-op-t{flex:1;min-width:0;display:flex;flex-direction:column;gap:1px}
+.tlp-op-n{font-weight:600}
+.tlp-op-w{font-size:.78rem;color:var(--tinta2);white-space:nowrap;font-variant-numeric:tabular-nums}
+.tlp-barra{display:none}
+.tlp-op-q select{border:1px solid #C3C8BE;border-radius:6px;background:#fff;color:var(--tinta);padding:5px 4px;font-size:.85rem}
+.tlp-op-q select:disabled{opacity:.35}
+.tlp-otro{display:grid;grid-template-columns:1fr 190px;gap:10px;align-items:center;background:#EEF0EA;border:1px solid var(--linea);border-radius:10px;padding:12px;font-size:.88rem;color:var(--tinta2)}
+.tlp-otro input{background:#fff;border:1px solid #C3C8BE;color:var(--tinta);border-radius:7px;padding:9px 10px;width:100%;font-size:.95rem}
+
+.tlp-res{grid-column:1/-1;border-top:1px solid var(--linea);padding:24px}
+.tlp-tip{background:#fff;border:1px solid var(--linea);border-left:4px solid var(--tinta2);border-radius:10px;padding:16px 18px;max-width:720px}
+.tlp-tip--ahorro{border-left-color:var(--verde)}
+.tlp-tip--ok{border-left-color:var(--verde)}
+.tlp-tip--aviso{border-left-color:var(--rojo);background:#FFF8F5}
+.tlp-tip-k{font-size:.7rem;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--tinta2)}
+.tlp-tip--ahorro .tlp-tip-k,.tlp-tip--ok .tlp-tip-k{color:var(--verde)}
+.tlp-tip--aviso .tlp-tip-k{color:var(--rojo)}
+.tlp-tip h3{font-size:1.05rem;font-weight:700;line-height:1.3;margin-top:4px;color:var(--tinta)}
+.tlp-tip p{font-size:.92rem;color:var(--tinta2);margin-top:6px;line-height:1.5}
+.tlp-tip-s{display:block;margin-top:8px;font-weight:800;font-size:1.3rem;color:var(--verde);font-variant-numeric:tabular-nums}
+.tlp-tip--aviso .tlp-tip-s{color:var(--rojo)}
+.tlp-tip-m{font-size:.82rem!important}
+
+.tlp-lcd-k{font-style:normal}
+.tlp-kwbox{display:flex;flex-direction:column;gap:10px}
+.tlp-msg{font-size:.8rem;line-height:1.4;margin:0}
+.tlp-msg:empty{display:none}
+.tlp-panel .tlp-msg{color:#C9D3DD}
+.tlp-msg.is-error{color:var(--rojo);font-weight:600}
+.tlp-panel .tlp-msg.is-error{color:#FFB4A3}
+.tlp-panel input[aria-invalid="true"],.tlp-otro input[aria-invalid="true"]{border-color:#E0846F;box-shadow:0 0 0 1px #E0846F}
+.tlp-hip{font-size:.78rem;color:#B9C5D1;line-height:1.45;border-top:1px dashed #ffffff26;padding-top:12px}
+.tlp-hip strong{color:#E6ECF2}
+.tlp-hip ul{margin-top:4px!important}
+.tlp-hip li{position:relative;padding-left:12px!important;margin-top:3px!important}
+.tlp-hip li::before{content:"";position:absolute;left:0;top:.6em;width:4px;height:4px;border-radius:50%;background:#98A7B6}
+.tlp-clave{background:#FFF7DA;border:1px solid #F2C23080;border-left:4px solid var(--amarillo);border-radius:8px;padding:10px 12px!important;font-size:.92rem!important;color:var(--tinta)!important}
+.tlp-otro-c{display:flex;flex-direction:column;gap:6px}
+.tlp-otro-c .tlp-msg{padding:0 4px}
+.tlp-tip--margen{border-left-color:#C2410C;background:#FFFBF5}
+.tlp-tip--margen .tlp-tip-k{color:#9A3412}
+.tlp-tip--margen .tlp-tip-s{color:#9A3412}
+.tlp-acc{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:12px}
+.tlp-acc .tlp-btn-s{min-height:40px}
+.tlp-barra{cursor:pointer}
+@media(max-width:560px){
+  .tlp-op-q select{min-height:36px}
+  .tlp-btn-s{min-height:40px}
+}
+@media(max-width:900px){
+  .tlp-app{grid-template-columns:1fr;overflow:visible}
+  .tlp-barra{display:flex;position:sticky;bottom:10px;z-index:5;justify-content:space-between;align-items:center;gap:12px;background:var(--cuadro);color:#E6ECF2;border-radius:10px;padding:10px 14px;box-shadow:0 8px 24px -8px #18222E99;font-size:.85rem}
+  .tlp-barra strong{display:block;background:var(--lcd);color:var(--lcd-t);border-radius:6px;padding:4px 10px;font-size:1.2rem;font-variant-numeric:tabular-nums}
+  .tlp-barra.is-ok #tlp-b-dif{color:#A9DDB2}
+  .tlp-barra.is-aviso #tlp-b-dif{color:#FFB4A3}
+  #tlp-b-dif{font-weight:700;text-align:right}
+  .tlp-panel{border-radius:16px 16px 0 0}
+  .tlp-panel-in{position:static}
+}
+@media(max-width:560px){
+  .tlp-panel,.tlp-casa,.tlp-res{padding:18px}
+  .tlp-ops{grid-template-columns:1fr}
+  .tlp-otro{grid-template-columns:1fr}
+}
+@media(prefers-reduced-motion:reduce){.tlp *{transition:none!important}}
+</style>
+
+<div class="tlp">
+  <p class="tlp-intro">Marca los aparatos que pueden estar encendidos a la vez en tu casa. La calculadora suma su potencia, añade un margen del 10 % y te dice qué potencia normalizada contratar y cuánto ahorrarías o pagarías de más al año, de forma estimada.</p>
+
+  <section class="tlp-app" id="tlp-app" aria-label="Calculadora de potencia contratada">
+    <div class="tlp-panel"><div class="tlp-panel-in">
+      <div class="tlp-lcd" aria-live="polite">
+        <div class="tlp-lcd-lab">Potencia recomendada</div>
+        <div class="tlp-lcd-big" id="tlp-rec">–</div>
+        <div class="tlp-lcd-grid">
+          <div>A la vez<span id="tlp-sum">0 kW</span></div>
+          <div>Con margen<span id="tlp-mar">0 kW</span></div>
+          <div>Tienes<span id="tlp-cur">4,6 kW</span></div>
+          <div><em class="tlp-lcd-k" id="tlp-dif-label">Diferencia al año</em><span id="tlp-dif">–</span></div>
+        </div>
+      </div>
+      <div>
+        <ol class="tlp-esc" id="tlp-esc" aria-hidden="true"></ol>
+        <p class="tlp-ley"><span><i class="r"></i>Recomendada</span><span><i class="c"></i>La que tienes</span></p>
+      </div>
+      <div class="tlp-kwbox">
+        <label class="tlp-f">Tu potencia contratada ahora
+          <select id="tlp-kw"></select>
+        </label>
+        <label class="tlp-f">O escribe la exacta de tu factura (kW)
+          <input type="text" inputmode="decimal" id="tlp-kw-ex" placeholder="Por ejemplo, 4,4" autocomplete="off" aria-describedby="tlp-kw-msg">
+        </label>
+        <p class="tlp-msg" id="tlp-kw-msg" aria-live="polite"></p>
+      </div>
+      <label class="tlp-f">Precio del término de potencia (€ por kW y día, sin impuestos)
+        <input type="text" inputmode="decimal" id="tlp-precio" value="0,09" autocomplete="off" aria-describedby="tlp-precio-msg">
+      </label>
+      <p class="tlp-msg" id="tlp-precio-msg" aria-live="polite"></p>
+      <div class="tlp-hip" id="tlp-hip">
+        <p><strong>Cálculo estimado.</strong> Hipótesis:</p>
+        <ul>
+          <li>Precio de la potencia: <span data-tlp="precio">0,09</span> € por kW y día, sin impuestos. Si tu factura distingue punta y valle, usa la media.</li>
+          <li>Impuesto eléctrico del 5,11 % e IVA del 21 %, 365 días al año.</li>
+          <li>Margen del 10 % sobre lo que marcas, para arranques y aparatos que no has contado.</li>
+          <li>Solo el término de potencia: no incluye la energía que consumes, el alquiler del contador ni los costes del cambio de potencia.</li>
+        </ul>
+      </div>
+    </div></div>
+
+    <div class="tlp-casa">
+      <div class="tlp-casa-h">
+        <h2>¿Qué puede coincidir? <span class="tlp-sr">Aparatos encendidos a la vez</span></h2>
+        <button type="button" class="tlp-btn-s" id="tlp-reset">Vaciar</button>
+        <p class="tlp-clave"><strong>Marca solo lo que puede estar encendido a la vez</strong> en el peor momento normal del día, por ejemplo a la hora de la cena. No marques todo lo que tienes en casa.</p>
+        <p><span id="tlp-n">0 aparatos</span> marcados. Si tienes dos iguales encendidos a la vez, cambia ×1 por ×2.</p>
+      </div>
+      <div id="tlp-lista"></div>
+      <div class="tlp-otro-c">
+        <label class="tlp-otro">Otro aparato que no está en la lista (W, hasta 20.000)
+          <input type="text" inputmode="decimal" id="tlp-otro" placeholder="Por ejemplo, 1200" autocomplete="off" aria-describedby="tlp-otro-msg">
+        </label>
+        <p class="tlp-msg" id="tlp-otro-msg" aria-live="polite"></p>
+      </div>
+      <div class="tlp-barra" id="tlp-barra" aria-hidden="true"><span>Recomendada<strong id="tlp-b-rec">–</strong></span><span id="tlp-b-dif">Marca aparatos</span></div>
+    </div>
+
+    <div class="tlp-res" id="tlp-res" aria-live="polite">
+      <div class="tlp-tip" id="tlp-tip"></div>
+      <div class="tlp-acc">
+        <button type="button" class="tlp-btn-s" id="tlp-copiar">Copiar resultado</button>
+        <span class="tlp-msg" id="tlp-copiar-msg" role="status"></span>
+      </div>
+    </div>
+  </section>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="como-calcula">Qué potencia contratar: cómo calcula esta herramienta</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Para saber qué potencia contratar no importa cuánto consumes al mes, sino cuántos aparatos tienes encendidos a la vez en el peor momento normal del día. La calculadora hace tres pasos:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Suma la potencia</strong> de los aparatos que has marcado, multiplicada por cuántos tienes encendidos a la vez.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Añade un margen del 10 %</strong> para los arranques y para lo que no has contado: un cargador, una lámpara de más o el router.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Elige la potencia normalizada</strong> igual o inmediatamente superior al resultado: 2,3 · 3,45 · 4,6 · 5,75 · 6,9 · 8,05 o 9,2 kW.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Después compara esa potencia con la que tienes contratada y calcula la diferencia en el término de potencia de tu factura, con impuesto eléctrico e IVA. Es la misma regla que usa la <a href="https://tuluzencasa.com/">calculadora de consumo de la portada</a> para avisarte de que te sobra potencia o de que puede saltar el limitador.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="que-marcar">Qué aparatos marcar (y cuáles no)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Marca solo lo que de verdad coincide en un día normal. La nevera, la televisión y las luces vienen marcadas porque suelen estar encendidas casi siempre. A partir de ahí, piensa en tu momento de más carga: suele ser la hora de comer o de cenar, con la cocina en marcha, o una tarde de invierno con la calefacción eléctrica.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Sí:</strong> los aparatos que se encienden a la vez varias veces por semana, como la placa y el horno mientras la lavadora calienta el agua.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>No:</strong> combinaciones que se dan una vez al año. Si en Nochebuena coinciden horno, placa, lavavajillas y dos radiadores, es más barato apagar uno durante media hora que pagar todo el año por una potencia que casi nunca usas.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Los que calientan cuentan mucho.</strong> Una lavadora calentando agua, un horno, un hervidor o un radiador están entre 2.000 y 2.500 W. Un televisor o las luces LED apenas suman.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Las potencias de la lista son valores habituales, los mismos que usamos en nuestros artículos. Si quieres afinar, mira la placa de características de tus aparatos y usa el campo «Otro aparato» para añadir lo que falte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="cuanto-cuesta">Cuánto cuesta cada potencia</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Con un término de potencia de 0,09 € por kW y día, cada kW contratado cuesta unos 41,78 € al año con impuestos. Entre una potencia normalizada y la siguiente hay 1,15 kW, así que cada escalón son 48,05 € al año:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><thead><tr><th>Potencia</th><th>Amperios</th><th>Coste al mes</th><th>Coste al año</th></tr></thead><tbody><tr><td>2,3 kW</td><td>10 A</td><td>8,00 €</td><td>96,09 €</td></tr><tr><td>3,45 kW</td><td>15 A</td><td>12,01 €</td><td>144,14 €</td></tr><tr><td>4,6 kW</td><td>20 A</td><td>16,01 €</td><td>192,19 €</td></tr><tr><td>5,75 kW</td><td>25 A</td><td>20,01 €</td><td>240,23 €</td></tr><tr><td>6,9 kW</td><td>30 A</td><td>24,01 €</td><td>288,28 €</td></tr><tr><td>8,05 kW</td><td>35 A</td><td>28,01 €</td><td>336,33 €</td></tr><tr><td>9,2 kW</td><td>40 A</td><td>32,01 €</td><td>384,37 €</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>Es solo el término de potencia: la energía que consumes se paga aparte y no cambia por tener más o menos potencia. Si tu comercializadora te cobra otro precio por kW, el ahorro sube o baja en la misma proporción.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="ejemplo">Un ejemplo: programar el termo baja un escalón</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>En un piso con cocina eléctrica y termo, la placa de inducción (un fuego, 1.800 W), el horno (2.200 W) y el termo (1.500 W), con la nevera, la televisión y las luces, suman 5,84 kW. Con el margen salen 6,42 kW, así que la calculadora recomienda 6,9 kW.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si el termo se programa para calentar de madrugada, ya no coincide con la cena: quedan 4,34 kW, 4,77 kW con margen, y bastan 5,75 kW. Son 48,05 € menos al año solo en potencia, y además el agua se calienta en las horas más baratas si tienes discriminación horaria. Lo explicamos en <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">cuánto consume un termo eléctrico y cómo programarlo</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="antes-de-cambiar">Antes de cambiar la potencia</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Comprueba tu máximo real.</strong> En mercado libre, tu factura debe indicar las potencias máximas que has demandado en el último año. Si coinciden con lo que te sale aquí, vas bien.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Bajar no cuesta derechos.</strong> Por una reducción de potencia la distribuidora no puede cobrarte derechos de enganche ni de acometida, salvo que haya que cambiar el equipo de medida o de control.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Subir sí tiene coste.</strong> Se pagan derechos de acceso y de extensión por kW, y los de enganche. Pide el importe a tu comercializadora antes de confirmar.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>No cambies cada mes.</strong> Si cambias voluntariamente, la distribuidora puede negarse a otro cambio hasta que pasen doce meses.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Si alguna vez salta, comprueba qué interruptor ha sido: el limitador salta por exceso de potencia, pero el diferencial salta por una fuga. Lo explicamos en <a href="https://tuluzencasa.com/por-que-salta-el-diferencial/">por qué salta el diferencial</a>. Y para entender todo el proceso con más ejemplos, lee nuestra guía sobre <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="tlp-upd">Resultados orientativos. Precios de potencia revisados en septiembre de 2026, los mismos que la calculadora de la portada.</p>
+<!-- /wp:paragraph -->
