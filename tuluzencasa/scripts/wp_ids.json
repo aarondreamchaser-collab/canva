@@ -55,5 +55,21 @@
  "cuanto-consumen-emisores-termicos": {
   "id": 104,
   "rankmath_status": 200
+ },
+ "tramos-horarios-luz": {
+  "id": 134,
+  "rankmath_status": 200
+ },
+ "bono-social-electrico": {
+  "id": 135,
+  "rankmath_status": 200
+ },
+ "placas-solares-en-casa": {
+  "id": 136,
+  "rankmath_status": 200
+ },
+ "cuanto-cuesta-cargar-coche-electrico-casa": {
+  "id": 137,
+  "rankmath_status": 200
  }
 }

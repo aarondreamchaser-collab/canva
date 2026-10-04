@@ -14,3 +14,7 @@ Fotos de Wikimedia Commons, recortadas a 16:9 y reducidas a 1200 × 675 px. Las 
 | 104 | cuanto-consumen-emisores-termicos.jpg | Scheggia.agm | Public domain | https://commons.wikimedia.org/wiki/File:Stufa_elettrica_da_parete.JPG |
 | 105 | cuanto-consume-manta-electrica.jpg | Shixart1985 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Cozy_bedroom_with_a_large_bed_and_simple_decor_in_a_modern_home.jpg |
 | 106 | cuanto-consume-deshumidificador.jpg | Doggo19292 | Public domain | https://commons.wikimedia.org/wiki/File:MeltingCondensationWindow.jpg |
+| 134 | tramos-horarios-luz.jpg | Shixart1985 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Blonde_woman_loading_dishes_into_a_dishwasher_in_a_bright_kitchen.jpg |
+| 135 | bono-social-electrico.jpg | Lukasz Kobus - European Commission | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Euro_coins_(05).jpg |
+| 136 | placas-solares-en-casa.jpg | Віщун | CC0 | https://commons.wikimedia.org/wiki/File:Solar_panels_on_a_house_in_Boholiuby_2026.jpg |
+| 137 | cuanto-cuesta-cargar-coche-electrico-casa.jpg | Jeka pes | CC0 | https://commons.wikimedia.org/wiki/File:Ladestation_Vinomna_Center_Tiefgarage._Vorarlberg._AT.jpg |

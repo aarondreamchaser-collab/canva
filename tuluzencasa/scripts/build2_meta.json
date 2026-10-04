@@ -158,5 +158,97 @@
    "https://tuluzencasa.com/calefaccion-electrica-mas-barata/",
    "https://tuluzencasa.com/"
   ]
+ },
+ "tramos-horarios-luz": {
+  "title": "Tramos horarios de la luz: horas punta, llano y valle y cómo aprovecharlas",
+  "title_seo": "Tramos horarios de la luz: punta, llano y valle",
+  "excerpt": "Tramos horarios de la luz: punta de 10 a 14 h y de 18 a 22 h, valle de 0 a 8 h y fines de semana. Qué aparatos mover y cuánto ahorras.",
+  "category": "ahorro",
+  "keyword": "tramos horarios de la luz",
+  "words": 1523,
+  "excerpt_len": 134,
+  "h2": 8,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2020-1066",
+   "https://tuluzencasa.com/pvpc-mercado-libre/",
+   "https://tuluzencasa.com/como-leer-factura-luz/",
+   "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+   "https://tuluzencasa.com/calculadora-potencia-contratada/",
+   "https://tuluzencasa.com/"
+  ]
+ },
+ "bono-social-electrico": {
+  "title": "Bono social eléctrico: qué es, quién puede pedirlo y cómo solicitarlo",
+  "title_seo": "Bono social eléctrico: requisitos y cómo pedirlo",
+  "excerpt": "Bono social eléctrico: descuento del 35 % en la factura (50 % si eres vulnerable severo) para hogares con el PVPC. Requisitos, límites y cómo pedirlo.",
+  "category": "factura-luz",
+  "keyword": "bono social eléctrico",
+  "words": 1562,
+  "excerpt_len": 150,
+  "h2": 8,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2017-11505",
+   "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://tuluzencasa.com/como-leer-factura-luz/",
+   "https://tuluzencasa.com/pvpc-mercado-libre/",
+   "https://tuluzencasa.com/"
+  ]
+ },
+ "placas-solares-en-casa": {
+  "title": "Placas solares en casa: cómo funciona el autoconsumo y cuándo compensa",
+  "title_seo": "Placas solares en casa: cuándo compensan de verdad",
+  "excerpt": "Placas solares en casa: 3 kWp en Madrid producen unos 4.865 kWh al año y ahorran unos 466,59 € con compensación de excedentes. Cuándo compensan.",
+  "category": "placas-solares",
+  "keyword": "placas solares en casa",
+  "words": 1463,
+  "excerpt_len": 144,
+  "h2": 9,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089",
+   "https://re.jrc.ec.europa.eu/pvg_tools/es/",
+   "https://tuluzencasa.com/tramos-horarios-luz/",
+   "https://tuluzencasa.com/calculadora-potencia-contratada/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906",
+   "https://tuluzencasa.com/"
+  ]
+ },
+ "cuanto-cuesta-cargar-coche-electrico-casa": {
+  "title": "Cuánto cuesta cargar un coche eléctrico en casa: por 100 km, al mes y al año",
+  "title_seo": "Cuánto cuesta cargar un coche eléctrico en casa",
+  "excerpt": "Cuánto cuesta cargar un coche eléctrico en casa: unos 2,48 € cada 100 km a precio fijo y 1,53 € en horas valle, con un consumo de 15 kWh.",
+  "category": "coche-electrico",
+  "keyword": "cuánto cuesta cargar un coche eléctrico en casa",
+  "words": 1257,
+  "excerpt_len": 137,
+  "h2": 7,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/calculadora-potencia-contratada/",
+   "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://tuluzencasa.com/tramos-horarios-luz/",
+   "https://tuluzencasa.com/placas-solares-en-casa/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13681",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906",
+   "https://tuluzencasa.com/"
+  ]
  }
 }

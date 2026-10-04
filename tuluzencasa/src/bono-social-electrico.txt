@@ -1,0 +1,105 @@
+title: Bono social eléctrico: qué es, quién puede pedirlo y cómo solicitarlo
+title_seo: Bono social eléctrico: requisitos y cómo pedirlo
+excerpt: Bono social eléctrico: descuento del 35 % en la factura (50 % si eres vulnerable severo) para hogares con el PVPC. Requisitos, límites y cómo pedirlo.
+category: factura-luz
+keyword: bono social eléctrico
+---
+El bono social eléctrico es un descuento en la factura de la luz para hogares con pocos ingresos o en situaciones concretas: un 35 % si eres consumidor vulnerable y un 50 % si eres vulnerable severo. Solo se aplica si tienes contratada la tarifa regulada, el PVPC, con una comercializadora de referencia, y se pide a esa compañía.
+
+Todo lo que sigue sale del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2017-11505" target="_blank" rel="noopener">Real Decreto 897/2017, que regula el bono social, en su texto consolidado del BOE</a>, comprobado en octubre de 2026. Las normas del bono social han cambiado varias veces en los últimos años; si lees esto más adelante, confirma los porcentajes con tu comercializadora.
+
+## Qué es el bono social eléctrico y cuánto descuenta {#que-es}
+
+El bono social es un descuento sobre el precio del PVPC. Se aplica a todos los términos que forman ese precio: la potencia y la energía.
+
+- <strong>Consumidor vulnerable</strong>: 35 % de descuento.
+- <strong>Consumidor vulnerable severo</strong>: 50 % de descuento.
+
+El descuento de la energía tiene un tope de kWh al año según quién viva en casa. Lo que consumas por encima se paga al precio normal del PVPC:
+
+{{T:bono_limites}}
+
+Si un mes consumes menos del límite, los kWh con descuento que no has usado se suman a los meses siguientes, dentro de los doce meses anteriores. La factura tiene que indicar por separado el consumo con descuento y el que lo supera.
+
+## Requisitos para pedir el bono social eléctrico {#requisitos}
+
+Hay dos condiciones que tienes que cumplir siempre:
+
+- Ser <strong>persona física</strong> y titular del contrato de luz de tu <strong>vivienda habitual</strong>.
+- Tener contratado el <strong>PVPC</strong> con una comercializadora de referencia. Si estás en el mercado libre, primero tienes que pasarte al PVPC.
+
+Además, tienes que estar en una de estas cuatro situaciones:
+
+- <strong>Renta baja</strong>: que los ingresos anuales de tu unidad de convivencia no pasen de un umbral que se mide en veces el IPREM (Indicador Público de Renta de Efectos Múltiples) de 14 pagas.
+- <strong>Familia numerosa</strong>, con el título en vigor.
+- <strong>Pensionistas con la pensión mínima</strong> de jubilación o de incapacidad permanente, cuando todos los que tienen ingresos en casa están en esa situación y no reciben otros ingresos que sumen más de 500 € al año.
+- <strong>Beneficiarios del Ingreso Mínimo Vital</strong>: basta con que lo cobre el titular o alguien de su unidad de convivencia.
+
+La unidad de convivencia son las personas que viven en el mismo domicilio y están unidas por matrimonio o pareja de hecho, o por parentesco hasta el segundo grado, además de los menores en acogimiento o guarda con fines de adopción.
+
+## Los umbrales de renta, explicados {#umbrales}
+
+El umbral parte de 1,5 veces el IPREM para una persona sola. Sube 0,3 por cada adulto más y 0,5 por cada menor. Si se da alguna circunstancia especial, sube 1 más:
+
+{{T:bono_umbrales}}
+
+Las circunstancias especiales son estas: alguien de la casa tiene una discapacidad reconocida del 33 % o más, es víctima de violencia de género o de terrorismo, tiene una dependencia reconocida de grado II o III, o es electrodependiente; o la familia está formada por un solo progenitor con al menos un menor. Por eso la familia monoparental ya parte del umbral con el 1 sumado.
+
+El IPREM se actualiza cada año y su valor en euros se publica en el BOE. Multiplica el IPREM anual de 14 pagas del año que corresponda por la cifra de la tabla y tendrás tu umbral; si tienes dudas, tu comercializadora de referencia o los servicios sociales de tu ayuntamiento te dicen la cifra exacta.
+
+## Vulnerable severo y riesgo de exclusión social {#severo}
+
+Eres <strong>vulnerable severo</strong>, con el 50 % de descuento, si cumples los requisitos y además la renta de tu unidad de convivencia no pasa de la mitad del umbral que te corresponde. También lo eres si eres pensionista con pensión mínima y la renta no pasa de 1 vez el IPREM, o si sois familia numerosa y no pasa de 2 veces.
+
+Si eres vulnerable severo y los servicios sociales de tu comunidad autónoma o de tu ayuntamiento pagan al menos el 50 % de tu factura, se te considera <strong>en riesgo de exclusión social</strong>. En ese caso, tu suministro pasa a ser esencial. Si te encuentras en esa situación, pide información directamente a los servicios sociales.
+
+## Cuánto puedes ahorrar con el bono social {#ahorro}
+
+El ahorro depende de tu potencia, de tu consumo y del precio del PVPC de cada mes, que cambia cada hora. Como ejemplo orientativo, con los precios de referencia de esta web, un hogar de dos personas con 3,45 kW que consume justo el límite, 132,25 kWh al mes:
+
+{{T:bono_ejemplo}}
+
+Con el 35 % pagaría 11,85 € menos al mes por la potencia y la energía; con el 50 %, 16,94 €. El alquiler del contador no tiene descuento. Además, si tienes más potencia de la que necesitas, bajarla te ahorra también todos los meses: lo explicamos en <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+
+## Cómo pedir el bono social paso a paso {#como-pedirlo}
+
+- <strong>1. Comprueba que tienes el PVPC</strong> con una comercializadora de referencia. Lo pone en tu factura; si no sabes dónde mirar, te lo explicamos en <a href="https://tuluzencasa.com/como-leer-factura-luz/">cómo leer la factura de la luz</a>. La diferencia con el mercado libre la tienes en <a href="https://tuluzencasa.com/pvpc-mercado-libre/">PVPC o mercado libre</a>.
+- <strong>2. Consigue el formulario de solicitud</strong> de tu comercializadora de referencia. Tiene que estar en su web y en sus oficinas, si las tiene. La CNMC publica en su web los teléfonos de las comercializadoras de referencia.
+- <strong>3. Rellénalo con todas las personas de tu unidad de convivencia.</strong> El titular y los miembros mayores de 14 años tienen que dar su consentimiento para que el Ministerio compruebe sus datos con otras administraciones.
+- <strong>4. Añade la documentación</strong> que el formulario pida según tu caso, por ejemplo el título de familia numerosa o el documento que acredite una circunstancia especial.
+- <strong>5. Envíalo</strong> por teléfono, en una oficina, por correo electrónico, por correo postal o por la web de la comercializadora de referencia.
+
+La comercializadora tiene un máximo de 10 días hábiles para decirte si te lo concede, desde que recibe la solicitud completa. Si te lo deniega, tiene que explicarte el motivo, y puedes reclamar ante los servicios de consumo de tu comunidad.
+
+## Cuándo se aplica y cuánto dura {#duracion}
+
+- <strong>Empieza</strong> en la factura siguiente, siempre que se emita al menos 15 días hábiles después de que la compañía reciba tu solicitud completa. Si no, en la de después.
+- <strong>Dura dos años.</strong> Antes de que acabe, la comercializadora comprueba de nuevo si sigues cumpliendo los requisitos y te informa en la factura. Si los cumples, se renueva por otros dos años.
+- <strong>Familias numerosas</strong>: dura mientras esté en vigor el título.
+- <strong>Tienes que avisar</strong> de cualquier cambio en tu unidad de convivencia o en tus circunstancias. Si dejas de cumplir los requisitos, el descuento deja de aplicarse.
+
+Si retiras el consentimiento para que se comprueben tus datos, el bono social no se puede renovar.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Puedo tener el bono social con una tarifa del mercado libre?
+
+No. El bono social solo se aplica sobre el PVPC con una comercializadora de referencia. Si estás en el mercado libre, tienes que cambiarte al PVPC.
+
+### ¿El bono social descuenta toda la factura?
+
+Descuenta la potencia y la energía hasta el límite de kWh de tu hogar. La energía que supera ese límite y el alquiler del contador se pagan sin descuento.
+
+### ¿Tengo que renovarlo cada dos años?
+
+La comercializadora comprueba los requisitos antes de que acabe el plazo y, si los sigues cumpliendo, lo renueva. Para eso tiene que seguir vigente el consentimiento de todos los miembros que lo dieron.
+
+### ¿Cuánto tarda en aplicarse?
+
+La comercializadora tiene 10 días hábiles para responder y el descuento aparece en la primera factura emitida al menos 15 días hábiles después de tu solicitud completa.
+
+### ¿Qué pasa si cambia mi situación?
+
+Tienes que comunicar a tu comercializadora de referencia cualquier cambio en tu unidad de convivencia o en tus circunstancias. Si dejas de cumplir los requisitos, el descuento deja de aplicarse; si pasas de vulnerable a vulnerable severo, el nuevo descuento se aplica desde la comprobación.
+
+<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon tus aparatos y tu potencia para ver cuánto pagas cada mes y cuánto supondría el descuento.

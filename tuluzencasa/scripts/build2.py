@@ -19,7 +19,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 TABLAS = {}
-for f in ("tablas.json", "tablas_calefaccion.json", "tablas_calefaccion2.json"):
+for f in ("tablas.json", "tablas_calefaccion.json", "tablas_calefaccion2.json", "tablas_tanda3.json"):
     TABLAS.update(json.loads((BASE / "scripts" / f).read_text(encoding="utf-8")))
 LINEA_FECHA = "Cálculos con precios de octubre de 2026"
 

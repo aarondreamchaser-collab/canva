@@ -1,0 +1,101 @@
+title: Tramos horarios de la luz: horas punta, llano y valle y cómo aprovecharlas
+title_seo: Tramos horarios de la luz: punta, llano y valle
+excerpt: Tramos horarios de la luz: punta de 10 a 14 h y de 18 a 22 h, valle de 0 a 8 h y fines de semana. Qué aparatos mover y cuánto ahorras.
+category: ahorro
+keyword: tramos horarios de la luz
+---
+Los tramos horarios de la luz son tres: punta, de 10 a 14 h y de 18 a 22 h; llano, de 8 a 10 h, de 14 a 18 h y de 22 a 24 h; y valle, de 0 a 8 h y todo el fin de semana. Si tu tarifa cobra por horas, poner la lavadora en valle en lugar de en punta te ahorra 1,34 € al mes, y programar el termo, 13,40 €.
+
+Las cifras de este artículo usan precios orientativos con impuestos: <strong>0,242 €/kWh en punta, 0,153 €/kWh en llano y 0,102 €/kWh en valle</strong>, y 0,165 €/kWh como precio fijo. Tu comercializadora tendrá los suyos; mira tu factura y cámbialos si quieres afinar.
+
+## Tramos horarios de la luz: qué horas son punta, llano y valle {#horarios}
+
+Los horarios los fija la Comisión Nacional de los Mercados y la Competencia (CNMC) para todos los contratos domésticos de hasta 15 kW, que tienen la tarifa de acceso llamada 2.0TD. Son los mismos todo el año, en invierno y en verano, y no cambian aunque cambies de compañía:
+
+{{T:tramos_horario}}
+
+Los sábados, los domingos, el 6 de enero y los festivos de ámbito nacional son valle las 24 horas. Los festivos autonómicos o locales no cuentan: esos días se aplican los tramos normales de un día laborable. Así lo establece la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2020-1066" target="_blank" rel="noopener">Circular 3/2020 de la CNMC, publicada en el BOE</a>.
+
+En Ceuta y Melilla los tramos van una hora más tarde: punta de 11 a 15 h y de 19 a 23 h, llano de 8 a 11 h, de 15 a 19 h y de 23 a 24 h, y valle de 0 a 8 h.
+
+## Cuántas horas tiene cada tramo {#horas}
+
+Aunque la punta es la que más se nota, el valle es el tramo más largo con diferencia: más de la mitad de las horas de la semana son baratas.
+
+{{T:tramos_semana}}
+
+Eso significa que no hace falta poner la lavadora a las tres de la madrugada para ahorrar. Con usar el fin de semana para las tareas que más gastan y programar lo que se pueda de noche ya mueves una buena parte del consumo.
+
+## Pagas los tramos aunque tengas precio fijo {#precio-fijo}
+
+Todos los contratos domésticos tienen los tres tramos, pero no todos los cobran distinto:
+
+- <strong>Con el PVPC</strong>, la tarifa regulada, el precio cambia cada hora y además los peajes son más caros en punta. Los tramos siempre te afectan.
+- <strong>Con una tarifa por horas del mercado libre</strong>, la compañía te pone un precio para punta, otro para llano y otro para valle.
+- <strong>Con una tarifa de precio fijo</strong>, pagas lo mismo a cualquier hora. Los tramos aparecen en la factura, pero no cambian lo que pagas por cada kWh.
+
+Si dudas entre una cosa y otra, lo explicamos en <a href="https://tuluzencasa.com/pvpc-mercado-libre/">PVPC o mercado libre</a>. Y para saber qué tienes contratado, mira la parte de la energía en <a href="https://tuluzencasa.com/como-leer-factura-luz/">cómo leer la factura de la luz</a>.
+
+## Qué aparatos compensa mover a las horas valle {#aparatos}
+
+Mover un aparato al valle solo merece la pena si gasta bastante y si puedes elegir cuándo encenderlo. La nevera o el router están siempre encendidos y no se pueden mover. Los que sí se pueden programar son estos:
+
+{{T:tramos_aparatos}}
+
+El termo es el que más ahorra porque calienta agua todos los días: programado para calentar de madrugada, pagas 13,40 € menos al mes que si calienta en punta. La secadora le sigue, con 3,36 € al mes si haces 12 coladas. Tienes el detalle del termo en <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">cuánto consume un termo eléctrico</a>.
+
+Algunos trucos para moverlos sin complicarte:
+
+- <strong>Usa el inicio diferido</strong> de la lavadora y el lavavajillas: los pones antes de acostarte y empiezan solos a medianoche o más tarde.
+- <strong>Pon un temporizador o un programador</strong> en el termo, o usa el que trae si lo tiene.
+- <strong>Deja para el fin de semana</strong> las coladas grandes, la plancha y el horno largo.
+- <strong>Carga el coche eléctrico de madrugada</strong> si tienes uno: es, con diferencia, el consumo que más ahorra en valle.
+
+Por seguridad, no dejes funcionando de noche aparatos que el fabricante no indique para uso sin vigilancia, y no tapes la secadora ni el lavavajillas mientras funcionan.
+
+## Cuándo compensa una tarifa por horas {#cuando-compensa}
+
+Una tarifa por horas solo sale más barata si una parte suficiente de tu consumo cae en valle. Con los precios de este artículo, y repartiendo el resto a partes iguales entre punta y llano, así cambia la parte de la energía de un piso que gasta 252,7 kWh al mes:
+
+{{T:tramos_reparto}}
+
+Con un 40 % del consumo en valle ya pagas 1,52 € menos al mes que con precio fijo. Por debajo de un tercio, pagas más. La cuenta exacta depende de los precios de tu oferta: compara siempre el precio de punta, el de llano y el de valle con el precio fijo que te ofrezcan.
+
+Para saber qué parte de tu consumo cae en cada tramo, mira tu factura: la de la 2.0TD desglosa los kWh de punta, llano y valle. También puedes verlo hora a hora en la web de tu distribuidora con tu contador digital.
+
+## La potencia también tiene dos tramos {#potencia}
+
+La potencia contratada se paga en dos periodos: punta-llano (de lunes a viernes de 8 a 24 h) y valle (de 0 a 8 h, el fin de semana y los festivos nacionales). La tarifa 2.0TD tiene un término de potencia para cada periodo, así que se puede contratar una potencia en punta-llano y otra en valle; tu comercializadora te dice cómo pedirlo.
+
+Esto interesa sobre todo si cargas un coche eléctrico o tienes acumuladores de calor que funcionan de noche. Si no es tu caso, lo normal es tener la misma en los dos. Para saber cuánta necesitas, usa la <a href="https://tuluzencasa.com/calculadora-potencia-contratada/">calculadora de potencia contratada</a>.
+
+## Errores frecuentes con los tramos horarios {#errores}
+
+- <strong>Pensar que los festivos de tu comunidad son valle.</strong> Solo lo son los nacionales.
+- <strong>Mover aparatos que gastan poco.</strong> Cargar el móvil en valle ahorra céntimos al año. Céntrate en el termo, la secadora, la lavadora, el lavavajillas y el horno.
+- <strong>Juntar demasiados aparatos a medianoche.</strong> Si a las 0 h se encienden el termo, la lavadora y el lavavajillas a la vez, puede saltar el limitador. Escalónalos con media hora de diferencia.
+- <strong>Cambiar a una tarifa por horas sin mirar los precios.</strong> Si casi todo tu consumo es por la tarde, en punta, puedes pagar más que con precio fijo.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿A qué hora es más barata la luz?
+
+Con tarifa por horas, de 0 a 8 h de lunes a viernes y todo el día los sábados, domingos y festivos nacionales. Es el tramo valle.
+
+### ¿Los tramos cambian en verano?
+
+No. Los horarios de la tarifa 2.0TD son los mismos todo el año, en invierno y en verano.
+
+### ¿El 6 de enero es valle?
+
+Sí. La normativa lo incluye expresamente junto a los sábados, los domingos y los festivos nacionales.
+
+### ¿Me afectan los tramos si tengo precio fijo?
+
+En la factura verás el consumo de cada tramo, pero si tu precio es fijo pagas lo mismo por cada kWh a cualquier hora. Con el PVPC o con una tarifa por horas sí cambia lo que pagas.
+
+### ¿Cuánto se ahorra poniendo la lavadora por la noche?
+
+Con los precios de este artículo, 0,11 € por lavado frente a ponerla en punta. Con 12 lavados al mes, 1,34 € al mes y 16,12 € al año.
+
+<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: elige «Por horas», pon a qué hora usas cada aparato y verás cuánto ahorrarías moviéndolo.
