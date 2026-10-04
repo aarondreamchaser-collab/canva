@@ -10,6 +10,10 @@ BASE = Path(__file__).resolve().parent.parent
 API = "https://tuluzencasa.com/wp-json"
 AUTH = "Basic " + base64.b64encode(f"{os.environ['WP_USER']}:{os.environ['WP_APP_PASSWORD']}".encode()).decode()
 ALT = {
+    134: "Mujer cargando el lavavajillas en una cocina luminosa",
+    135: "Monedas de euro sobre la bandera de la Unión Europea",
+    136: "Tejado de una vivienda con placas solares bajo un cielo azul",
+    137: "Garaje con dos puntos de recarga para coches eléctricos en la pared",
     92: "Contador eléctrico digital con la lectura de kWh, visto a través de la mirilla del armario",
     104: "Emisor térmico eléctrico instalado en la pared de una vivienda",
     93: "Cuadro eléctrico de una vivienda con interruptores magnetotérmicos y diferencial",
