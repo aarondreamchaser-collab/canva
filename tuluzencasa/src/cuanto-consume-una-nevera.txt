@@ -62,7 +62,7 @@ Pasar de 450 a 250 kWh al año supone ahorrar 33,00 € al año, unos 330,00 €
 
 Con unos 3,56 € al mes, la nevera parece poca cosa, pero es un gasto fijo que pagas todos los meses del año. En la cocina es lo contrario de la freidora o el horno: consumo bajo pero continuo. Si quieres comparar, mira <a href="https://tuluzencasa.com/cuanto-consume-freidora-de-aire/">cuánto gasta una freidora de aire frente al horno</a>, que se usa a ratos.
 
-El otro consumo continuo de la casa es el agua caliente. Si tienes <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">termo eléctrico, mira cuánto consume y cómo programarlo</a>: suele gastar varias veces más que la nevera. Y si quieres sumar todos tus aparatos, puedes hacerlo con la <a href="https://tuluzencasa.com/">calculadora de consumo eléctrico de la portada</a>.
+El otro consumo continuo de la casa es el agua caliente. Si tienes <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">termo eléctrico, mira cuánto consume y cómo programarlo</a>: suele gastar varias veces más que la nevera. Y si quieres sumar todos tus aparatos, puedes hacerlo con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a>.
 
 ## Preguntas frecuentes
 
@@ -82,4 +82,4 @@ Una nevera vacía pierde más frío cada vez que abres la puerta, porque el aire
 
 No. Lo que ahorras de noche lo tiene que recuperar después para volver a enfriar, y pones en riesgo la conservación de los alimentos. Solo tiene sentido desenchufarla si te vas mucho tiempo y la dejas vacía, limpia y con la puerta abierta.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon los kWh de tu etiqueta o la potencia de tu nevera y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon los kWh de tu etiqueta o la potencia de tu nevera y el precio de tu factura.

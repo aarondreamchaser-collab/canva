@@ -1,6 +1,6 @@
 """Cifras del artículo «PVPC o mercado libre».
 
-Compara, con el piso de 3 personas de la portada, el precio fijo (0,13 €/kWh) con
+Compara, con el piso de 3 personas de nuestra calculadora de consumo, el precio fijo (0,13 €/kWh) con
 el precio por tramos (0,19 / 0,12 / 0,08 €/kWh), antes y después de mover el termo
 y el lavavajillas a la madrugada. Todo con impuesto eléctrico e IVA.
 Uso: python3 calculos/pvpc_o_mercado_libre.py

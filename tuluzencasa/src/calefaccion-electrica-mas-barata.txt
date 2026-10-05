@@ -63,7 +63,7 @@ En la práctica no puedes concentrar toda la calefacción de madrugada, pero sí
 - <strong>Revisa la potencia contratada</strong>. Si vas a usar varios aparatos de 2.000 W a la vez, puede saltar el limitador; si te sobra potencia, estás pagando de más cada mes.
 - <strong>Si tienes split con bomba de calor, úsalo antes que un radiador</strong> para calentar esa estancia.
 
-Para sumar tus aparatos y ver cuánto pesa la calefacción en tu factura, usa la <a href="https://tuluzencasa.com/">calculadora de consumo eléctrico de la portada</a>.
+Para sumar tus aparatos y ver cuánto pesa la calefacción en tu factura, usa <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a>.
 
 ## Preguntas frecuentes {#preguntas-frecuentes}
 
@@ -83,4 +83,4 @@ Calientan con una resistencia, como el resto, así que cada kWh de calor cuesta 
 
 Si puedes mover una parte del uso al valle o al fin de semana, sí. Si toda tu calefacción cae de 18 a 22 h, en punta, puede salirte más cara que un precio fijo.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon tus aparatos de calefacción, las horas de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tus aparatos de calefacción, las horas de uso y el precio de tu factura.

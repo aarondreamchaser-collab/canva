@@ -1,6 +1,6 @@
 """Constantes y utilidades compartidas por los cálculos de tuluzencasa.com.
 
-Los valores son los mismos que usa la calculadora de la portada (fragmento de
+Los valores son los mismos que usa nuestra calculadora de consumo (fragmento de
 WPCode «calculadora.js»). Si cambian allí, hay que cambiarlos aquí.
 """
 
@@ -31,7 +31,7 @@ FRANJAS = {
     'todo': dict(p=1/3, l=1/3, v=1/3),
 }
 
-# Aparatos del «ejemplo de un piso de 3 personas» de la portada:
+# Aparatos del «ejemplo de un piso de 3 personas» de la calculadora de consumo:
 # id: (nombre, W, horas/día, días/semana, franja, factor de uso real)
 EJEMPLO = {
     'nev': ('Nevera combi', 150, 24, 7, 'todo', 0.2),

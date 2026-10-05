@@ -30,7 +30,7 @@ Cambios pedidos sobre la propuesta: sin caja de «Respuesta rápida»; menú con
 | 8 | Claude | Menú 21: quitar Inicio; el 151 pasa a «Más temas» y recibe Averías e instalación; nuevo «Calculadoras ▾» con las 2 páginas | Tras el 6 |
 | 9 | Claude | Widget «Calculadoras» (block-3): enlace a la página nueva | Tras el 6 |
 | 10 | Claude | Página 23: contenido de `portada.html` y título/descripción nuevos de Rank Math | Tras el 3 y el 6 |
-| 11 | Claude | 20 entradas y Sobre nosotros: «calculadora de la portada» → «nuestra calculadora de consumo» (`cambio-calculadora-portada.md`) | Tras el 6 |
+| 11 | Claude | 20 entradas, Sobre nosotros y página 102: «calculadora de la portada» → «nuestra calculadora de consumo» (`cambio-calculadora-portada.md`; aprobado) | Tras el 6 |
 
 ## Deshacer
 

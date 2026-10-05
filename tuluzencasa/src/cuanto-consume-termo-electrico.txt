@@ -60,7 +60,7 @@ Lo que sí puedes evitar es tener el termostato al máximo y luego mezclar con m
 
 Con 15,59 € al mes durante los doce meses, un termo de 1.500 W acaba gastando al año (189,71 €) más que un aire acondicionado de 1.000 W en todo el verano (71,28 €). Si quieres comparar, mira <a href="https://tuluzencasa.com/cuanto-consume-aire-acondicionado/">cuánto consume un aire acondicionado por hora</a> y <a href="https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/">cuánto cuesta un radiador de aceite al mes</a>: en invierno, termo y radiador juntos pueden hacer saltar el limitador si coinciden y tienes poca potencia contratada, otra razón para que el termo caliente de madrugada.
 
-En la cocina pasa algo parecido: el termo gasta más en un día que la <a href="https://tuluzencasa.com/cuanto-consume-freidora-de-aire/">freidora de aire en varias tandas</a>, y más al mes que la <a href="https://tuluzencasa.com/cuanto-consume-una-nevera/">nevera, que está encendida las 24 horas</a>. Si quieres ver cómo se reparte todo tu consumo, suma tus aparatos en la <a href="https://tuluzencasa.com/">calculadora de consumo de la portada</a>.
+En la cocina pasa algo parecido: el termo gasta más en un día que la <a href="https://tuluzencasa.com/cuanto-consume-freidora-de-aire/">freidora de aire en varias tandas</a>, y más al mes que la <a href="https://tuluzencasa.com/cuanto-consume-una-nevera/">nevera, que está encendida las 24 horas</a>. Si quieres ver cómo se reparte todo tu consumo, suma tus aparatos en <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a>.
 
 ## Preguntas frecuentes
 
@@ -84,4 +84,4 @@ La indica la placa de características, en W. Los termos domésticos suelen tene
 
 Suele indicar una fuga a tierra en la resistencia o en la conexión del termo. No lo fuerces subiendo el diferencial una y otra vez: desconéctalo y llama a un técnico o a un instalador autorizado.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon la potencia de tu termo, las horas de funcionamiento y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon la potencia de tu termo, las horas de funcionamiento y el precio de tu factura.

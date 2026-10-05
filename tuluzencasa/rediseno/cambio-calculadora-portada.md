@@ -169,3 +169,14 @@ Enlace nuevo: `https://tuluzencasa.com/calculadora-consumo-electrico/`. Entre co
 
 - Antes: Calcula tu caso exacto con la [calculadora de la portada]:
   Ahora: Calcula tu caso exacto con [nuestra calculadora de consumo]:
+
+## 102 · Página /calculadora-potencia-contratada/ (añadida con OK del 5-10-2026)
+
+- Antes: …los mismos valores que la calculadora de la portada.
+  Ahora: …los mismos valores que nuestra calculadora de consumo.
+
+- Antes: Es la misma regla que usa la [calculadora de consumo de la portada] para avisarte…
+  Ahora: Es la misma regla que usa [nuestra calculadora de consumo] para avisarte…
+
+- Antes: …Precios de potencia revisados en septiembre de 2026, los mismos que la calculadora de la portada.
+  Ahora: …Precios de potencia revisados en septiembre de 2026, los mismos que nuestra calculadora de consumo.

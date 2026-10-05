@@ -104,4 +104,4 @@ No son obligatorias. Sirven para usar de noche lo que sobra de día, pero encare
 
 Sí, si la comunidad lo aprueba. Basta con un tercio de los propietarios que sumen un tercio de las cuotas, y se puede hacer autoconsumo colectivo con otros vecinos.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: mira cuánto consumes al mes y en qué horas, y sabrás qué parte podrían cubrir las placas.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: mira cuánto consumes al mes y en qué horas, y sabrás qué parte podrían cubrir las placas.

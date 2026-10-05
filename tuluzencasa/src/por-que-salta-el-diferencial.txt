@@ -83,7 +83,7 @@ Si el diferencial salta al encender la climatización, revisa los artículos sob
 - <strong>Repara el aparato con fuga</strong> antes de volver a usarlo. Un termo o una lavadora con la resistencia dañada puede acabar provocando una avería mayor.
 - <strong>Revisa la potencia contratada</strong> si lo que salta es el limitador y no el diferencial: puedes ahorrar organizando mejor el uso de los aparatos antes de subir la potencia.
 
-Si quieres ver cuánto gasta cada aparato de tu casa y cuánta potencia necesitas a la vez, usa la <a href="https://tuluzencasa.com/">calculadora de consumo de la portada</a>.
+Si quieres ver cuánto gasta cada aparato de tu casa y cuánta potencia necesitas a la vez, usa <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a>.
 
 ## Preguntas frecuentes
 
@@ -107,4 +107,4 @@ Si salta con todos los aparatos desenchufados y todos los PIA bajados, el proble
 
 Muy poco: una fuga continua de 29 mA costaría unos 9,64 € al año. El motivo para arreglarla es la seguridad, no la factura.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon tus aparatos, sus horas de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tus aparatos, sus horas de uso y el precio de tu factura.

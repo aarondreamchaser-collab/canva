@@ -44,7 +44,7 @@ t1 = tabla("tramos_horario", ["Tramo", "De lunes a viernes", "Sábados, domingos
 horas = {"Punta": 8 * 5, "Llano": 8 * 5, "Valle": 8 * 5 + 48}
 t2 = tabla("tramos_semana", ["Tramo", "Horas a la semana", "Parte de la semana"],
            [[k, str(v), pct(v / 168)] for k, v in horas.items()])
-usos = [  # nombre, kWh por uso (valores de la calculadora de la portada), usos al mes
+usos = [  # nombre, kWh por uso (valores de nuestra calculadora de consumo), usos al mes
     ("Lavadora a 40 °C (800 W, 1 h)", 0.8 * 1 * 1.0, 12),
     ("Lavavajillas eco (1.200 W, 1,5 h)", 1.2 * 1.5 * 0.55, 12),
     ("Secadora de evacuación (2.500 W, 1 h)", 2.5 * 1 * 0.8, 12),

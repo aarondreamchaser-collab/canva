@@ -88,4 +88,4 @@ Es el rendimiento estacional en calefacción: cuántos kWh de calor da por cada 
 
 Si usas mucho la calefacción, suele compensar a medio plazo. Calcula tu plazo con la tabla de amortización y el presupuesto real que te den.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: añade tus radiadores o tu bomba de calor, las horas de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: añade tus radiadores o tu bomba de calor, las horas de uso y el precio de tu factura.

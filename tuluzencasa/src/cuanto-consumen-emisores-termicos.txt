@@ -90,4 +90,4 @@ Se puede, pero cada hora se paga. Con el termostato bajado a 15 ºC cuando no es
 
 Depende de tu potencia contratada y de lo que tengas enchufado al mismo tiempo. Suma la potencia de los emisores que arranquen juntos y del resto de aparatos: si pasas de la potencia contratada, saltará el limitador.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: añade tus aparatos de calefacción, las horas de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: añade tus aparatos de calefacción, las horas de uso y el precio de tu factura.

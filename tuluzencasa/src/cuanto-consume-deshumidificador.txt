@@ -10,7 +10,7 @@ Estas cifras usan un precio de <strong>0,165 €/kWh con impuestos incluidos</st
 
 ## Cuánto consume un deshumidificador según su potencia {#coste}
 
-La potencia de los deshumidificadores domésticos va de unos 150 W en los pequeños a 600 W o más en los de desecante. Aplicamos un factor de uso real de 0,8: el aparato tiene un humidistato que lo para cuando el aire llega a la humedad marcada, y el compresor no trabaja todo el rato. Es el mismo criterio que usa la calculadora de la portada.
+La potencia de los deshumidificadores domésticos va de unos 150 W en los pequeños a 600 W o más en los de desecante. Aplicamos un factor de uso real de 0,8: el aparato tiene un humidistato que lo para cuando el aire llega a la humedad marcada, y el compresor no trabaja todo el rato. Es el mismo criterio que usa nuestra calculadora de consumo.
 
 {{T:desh_potencias}}
 
@@ -83,4 +83,4 @@ Las que necesite para llegar a la humedad que marques. Lo práctico es dejarlo c
 
 Por colada, el deshumidificador: 0,20 € con 6 horas de uso, frente a 0,33 € de una secadora de evacuación. La secadora con bomba de calor se queda en 0,18 €, pero tarda más que una de evacuación y cuesta más comprarla.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: añade el deshumidificador, las horas de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: añade el deshumidificador, las horas de uso y el precio de tu factura.

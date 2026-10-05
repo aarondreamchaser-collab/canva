@@ -13,7 +13,7 @@ La tabla compara las potencias más habituales de freidoras de aire y hornos el�
 
 {{T:freidora_comparativa}}
 
-Un detalle importante sobre cómo están hechos los cálculos. Para el horno aplicamos un factor de uso real de 0,6, porque una vez alcanza la temperatura el termostato corta la resistencia a ratos. La freidora también tiene termostato y hace lo mismo, así que le aplicamos un factor de 0,7: de cada 20 minutos de uso, la resistencia gasta como si funcionara unos 14 a plena potencia. Es la misma regla que usa la calculadora de la portada.
+Un detalle importante sobre cómo están hechos los cálculos. Para el horno aplicamos un factor de uso real de 0,6, porque una vez alcanza la temperatura el termostato corta la resistencia a ratos. La freidora también tiene termostato y hace lo mismo, así que le aplicamos un factor de 0,7: de cada 20 minutos de uso, la resistencia gasta como si funcionara unos 14 a plena potencia. Es la misma regla que usa nuestra calculadora de consumo.
 
 Por hora, una freidora de 1.500 W cuesta 0,17 € y un horno de 2.200 W, 0,22 €. Pero la diferencia grande está en el tiempo: la freidora calienta una cesta pequeña en pocos minutos y el horno tiene que calentar una cavidad mucho mayor, y eso lleva más tiempo.
 
@@ -23,7 +23,7 @@ Con los modelos más habituales, esta es la diferencia en tu factura:
 
 {{T:freidora_ahorro}}
 
-Son unos 15,21 € al año con tres usos a la semana, comparando con un horno de 2.200 W, el mismo que usa la calculadora de la portada. No es una cantidad que cambie tu factura por sí sola, pero si ya tienes freidora de aire, merece la pena usarla para todo lo que quepa en la cesta. Donde de verdad se nota es en recetas cortas: calentar una ración, hacer unas patatas o dorar algo que en el horno te obligaría a precalentar 10 minutos para cocinar 15.
+Son unos 15,21 € al año con tres usos a la semana, comparando con un horno de 2.200 W, el mismo que usa nuestra calculadora de consumo. No es una cantidad que cambie tu factura por sí sola, pero si ya tienes freidora de aire, merece la pena usarla para todo lo que quepa en la cesta. Donde de verdad se nota es en recetas cortas: calentar una ración, hacer unas patatas o dorar algo que en el horno te obligaría a precalentar 10 minutos para cocinar 15.
 
 El horno sigue teniendo sentido cuando cocinas en cantidad. Una bandeja grande de verduras, un asado o dos pizzas no caben en una cesta de 4 o 5 litros, y hacer tres tandas seguidas en la freidora puede costar lo mismo que una sola hornada. La regla práctica: <strong>poca cantidad, freidora; mucha cantidad, horno</strong>.
 
@@ -54,7 +54,7 @@ En el horno, la potencia suele aparecer en el marco de la puerta al abrirla o en
 
 La freidora y el horno se usan un rato y se apagan, así que su peso en la factura es pequeño comparado con los aparatos que funcionan todo el día. En la cocina, el que más gasta en un año suele ser el frigorífico, porque está enchufado las 24 horas. Si quieres ver cuánto supone el tuyo, revisa <a href="https://tuluzencasa.com/cuanto-consume-una-nevera/">cuánto consume una nevera al mes según su etiqueta</a>.
 
-El otro gran consumo continuo, si lo tienes, es el agua caliente: un <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">termo eléctrico y su coste al mes</a> puede gastar en un solo día (0,52 € con uno de 1.500 W) más que dos semanas de freidora. Y para sumar todos tus aparatos de una vez, usa la <a href="https://tuluzencasa.com/">calculadora de consumo eléctrico de la portada</a>.
+El otro gran consumo continuo, si lo tienes, es el agua caliente: un <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">termo eléctrico y su coste al mes</a> puede gastar en un solo día (0,52 € con uno de 1.500 W) más que dos semanas de freidora. Y para sumar todos tus aparatos de una vez, usa <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a>.
 
 ## Preguntas frecuentes
 
@@ -74,4 +74,4 @@ Con tres usos a la semana, ahorras unos 15,21 € al año frente a un horno de 2
 
 Mientras está enchufada y apagada, el consumo es muy bajo, pero desenchufarla o apagar la regleta cuando no la usas elimina ese gasto del todo.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon la potencia de tu freidora o de tu horno, los minutos de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon la potencia de tu freidora o de tu horno, los minutos de uso y el precio de tu factura.

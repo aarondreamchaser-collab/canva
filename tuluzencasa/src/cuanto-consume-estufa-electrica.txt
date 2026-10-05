@@ -10,7 +10,7 @@ Estas cifras usan un precio de <strong>0,165 €/kWh con impuestos incluidos</st
 
 ## Cuánto consume una estufa eléctrica por hora, día y mes {#coste}
 
-La tabla recoge las potencias más habituales. Aplicamos un factor de uso real de 0,85: aunque la estufa tenga termostato, suele usarse para calentar rápido y pasa la mayor parte del tiempo con la resistencia encendida. Es el mismo criterio que usa la calculadora de la portada.
+La tabla recoge las potencias más habituales. Aplicamos un factor de uso real de 0,85: aunque la estufa tenga termostato, suele usarse para calentar rápido y pasa la mayor parte del tiempo con la resistencia encendida. Es el mismo criterio que usa nuestra calculadora de consumo.
 
 {{T:estufa_potencias}}
 
@@ -88,4 +88,4 @@ No por kWh: cada kWh se convierte en el mismo calor. Lo que hacen es calentar a 
 
 Cinco horas al día con una estufa de 2.000 W son 42,64 € al mes a 0,165 €/kWh. Si lo haces a diario, compensa mirar alternativas como la bomba de calor.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon la potencia de tu estufa, las horas de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon la potencia de tu estufa, las horas de uso y el precio de tu factura.

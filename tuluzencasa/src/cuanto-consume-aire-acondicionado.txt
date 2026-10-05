@@ -68,7 +68,7 @@ En invierno, el mismo split con bomba de calor sirve para calentar. Si hoy calie
 
 En verano, el aire suele ser el aparato que más dispara la factura, pero no es el único consumo grande de la casa. En muchas viviendas el agua caliente se lleva una parte parecida durante todo el año. Si quieres ver dónde se te va el dinero en conjunto, revisa también <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">cuánto consume un termo eléctrico y cómo programarlo</a>, porque es un gasto que no se ve y que se puede recortar sin pasar calor ni frío.
 
-Una forma rápida de estimar el peso del aire en tu factura: toma los kWh de la factura de un mes de primavera (sin aire) y réstalos a los de julio o agosto. La diferencia es, casi toda, lo que ha consumido el aire acondicionado. Con la <a href="https://tuluzencasa.com/">calculadora de consumo de la portada</a> puedes meter tu potencia y tus horas y comprobar si la cifra cuadra.
+Una forma rápida de estimar el peso del aire en tu factura: toma los kWh de la factura de un mes de primavera (sin aire) y réstalos a los de julio o agosto. La diferencia es, casi toda, lo que ha consumido el aire acondicionado. Con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a> puedes meter tu potencia y tus horas y comprobar si la cifra cuadra.
 
 ## Preguntas frecuentes
 
@@ -92,4 +92,4 @@ Con un equipo de 1.000 W usado 8 horas al día, unos 23,76 € al mes en energí
 
 Una consigna de 25 o 26 °C es un buen punto de partida para estar a gusto sin disparar el consumo. Cada grado menos obliga al compresor a trabajar más tiempo, sobre todo en las horas de más calor.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon la potencia de tu aparato, las horas de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon la potencia de tu aparato, las horas de uso y el precio de tu factura.

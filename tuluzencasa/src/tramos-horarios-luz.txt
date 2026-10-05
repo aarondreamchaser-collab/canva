@@ -98,4 +98,4 @@ En la factura verás el consumo de cada tramo, pero si tu precio es fijo pagas l
 
 Con los precios de este artículo, 0,11 € por lavado frente a ponerla en punta. Con 12 lavados al mes, 1,34 € al mes y 16,12 € al año.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: elige «Por horas», pon a qué hora usas cada aparato y verás cuánto ahorrarías moviéndolo.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: elige «Por horas», pon a qué hora usas cada aparato y verás cuánto ahorrarías moviéndolo.

@@ -83,4 +83,4 @@ No siempre. Con una toma de 16 A y cargando de noche, mucha gente se apaña con 
 
 Sí. Si tu plaza es individual, solo tienes que comunicarlo antes a la comunidad. El coste de la instalación y la electricidad que consumas los pagas tú.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: añade el cargador de coche, las horas de carga y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: añade el cargador de coche, las horas de carga y el precio de tu factura.

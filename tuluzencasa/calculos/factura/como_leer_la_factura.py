@@ -1,6 +1,6 @@
 """Cifras del artículo «Cómo leer la factura de la luz».
 
-Factura de ejemplo: el piso de 3 personas de la calculadora de la portada,
+Factura de ejemplo: el piso de 3 personas de nuestra calculadora de consumo,
 4,6 kW contratados, un mes de 30,4 días, con precio único y con discriminación horaria.
 Uso: python3 calculos/como_leer_la_factura.py  (escribe calculos/salida/como-leer-la-factura-de-la-luz.json)
 """

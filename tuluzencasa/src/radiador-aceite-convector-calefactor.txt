@@ -18,7 +18,7 @@ Esta tabla es el máximo: el coste si la resistencia estuviera encendida todo el
 
 ## El gasto real depende del termostato y del uso {#uso-real}
 
-Cuánto rato está encendida la resistencia depende de la habitación, del aislamiento, de la temperatura que marques y del propio aparato. En nuestros cálculos usamos un factor de uso real para cada tipo, el mismo que en la calculadora de la portada:
+Cuánto rato está encendida la resistencia depende de la habitación, del aislamiento, de la temperatura que marques y del propio aparato. En nuestros cálculos usamos un factor de uso real para cada tipo, el mismo que en nuestra calculadora de consumo:
 
 {{T:rcc_factor}}
 
@@ -103,4 +103,4 @@ Un radiador de aceite con termostato, encendido un rato antes de dormir. Es sile
 
 Un calefactor pequeño, unos minutos antes de ducharte. En el baño, usa solo aparatos pensados para ese uso y mantenlos lejos del agua.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon tu aparato, su potencia, las horas de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu aparato, su potencia, las horas de uso y el precio de tu factura.

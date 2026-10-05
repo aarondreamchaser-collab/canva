@@ -62,7 +62,7 @@ Ten en cuenta también la potencia contratada. Un radiador de 2.000 W encendido 
 
 Un radiador demasiado pequeño estará siempre encendido a tope y no llegará a calentar; uno demasiado grande hará cortes continuos. Como orientación se suele hablar de unos 100 W por metro cuadrado en una habitación normal [VERIFICAR: regla orientativa de W/m², depende mucho del aislamiento y la zona climática]. Con ese criterio, un dormitorio de 10 m² iría bien con uno de 1.000 W, y un salón de 20 m² necesitaría 2.000 W.
 
-Si tu casa está mal aislada o vives en una zona fría, ese cálculo se queda corto. Y si calientas un salón grande todos los días durante horas, compara el gasto con lo que costaría una bomba de calor: la diferencia al final del invierno puede ser importante. En la <a href="https://tuluzencasa.com/">calculadora de consumo de la portada</a> puedes meter varios aparatos y ver cuánto supone cada uno en tu factura.
+Si tu casa está mal aislada o vives en una zona fría, ese cálculo se queda corto. Y si calientas un salón grande todos los días durante horas, compara el gasto con lo que costaría una bomba de calor: la diferencia al final del invierno puede ser importante. En <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a> puedes meter varios aparatos y ver cuánto supone cada uno en tu factura.
 
 ## Preguntas frecuentes
 
@@ -86,4 +86,4 @@ No. El aceite va sellado dentro del radiador y no se cambia ni se rellena. Si ve
 
 El que tenga la potencia justa para tu habitación y un buen termostato. Un radiador de 1.000 W bien elegido para un dormitorio pequeño gasta la mitad por hora que uno de 2.000 W, y a igual potencia todos consumen lo mismo.
 
-<strong>Calcula tu caso exacto con la <a href="https://tuluzencasa.com/">calculadora de la portada</a></strong>: pon la potencia de tu radiador, las horas de uso y el precio de tu factura.
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon la potencia de tu radiador, las horas de uso y el precio de tu factura.
