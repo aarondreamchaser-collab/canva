@@ -21,9 +21,9 @@ Cambios pedidos sobre la propuesta: sin caja de «Respuesta rápida»; menú con
 | # | Quién | Cambio | Estado |
 |---|---|---|---|
 | 1 | Claude | Página 156 «Calculadora de consumo eléctrico» en borrador, con el título y la descripción de Rank Math que ahora tiene la portada | Hecho |
-| 2 | Titular | WPCode: crear el CSS «Diseño tuluzencasa» (todo el sitio, cabecera). Desactivar «CSS artículos móvil» si existe | Pendiente |
-| 3 | Titular | WPCode: crear el PHP «Plantilla tuluzencasa» (ejecutar en todas partes) | Pendiente |
-| 4 | Titular | Personalizador › Diseño › Navegación principal: Búsqueda en la navegación = Activar; Punto de corte del menú móvil = 1024 px | Pendiente |
+| 2 | Titular | WPCode: crear el CSS «Diseño tuluzencasa» (todo el sitio, cabecera). Desactivar «CSS artículos móvil» si existe | Hecho; falta añadir el bloque de tablet (6-10-2026) |
+| 3 | Titular | WPCode: crear el PHP «Plantilla tuluzencasa» (ejecutar en todas partes) | Hecho |
+| 4 | Titular | Personalizador › Diseño › Navegación principal: Búsqueda en la navegación = Activar. El menú hamburguesa hasta 1024 px lo hace el CSS (GeneratePress gratuito no tiene esa opción) | Hecho |
 | 5 | Titular | Rank Math › Ajustes generales › Rutas de navegación: activar, separador `›`, mostrar Inicio | Pendiente |
 | 6 | Titular | Revisar la vista previa de la página 156 y publicarla | Pendiente |
 | 7 | Titular | WPCode: lógica condicional para que «Calculadora Home» cargue solo en `calculadora-consumo-electrico` y «Calculadora potencia» solo en `calculadora-potencia-contratada` | Pendiente |
@@ -35,7 +35,7 @@ Cambios pedidos sobre la propuesta: sin caja de «Respuesta rápida»; menú con
 ## Deshacer
 
 - CSS y PHP: desactivar los dos fragmentos de WPCode.
-- Personalizador y Rank Math: volver a poner los valores anteriores (búsqueda desactivada, corte en 768 px, rutas desactivadas).
+- Personalizador y Rank Math: volver a poner los valores anteriores (búsqueda desactivada, punto de despliegue vacío, rutas desactivadas).
 - Página 23, menú y widgets: Claude restaura desde `copia-seguridad/`.
 - Página nueva: pasarla a borrador.
 - Textos de las entradas: Claude los restaura desde la copia de cada entrada que guarda antes de aplicar.

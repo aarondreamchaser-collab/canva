@@ -9,7 +9,19 @@
 .main-title a::before{content:"";display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--tl-amarillo);box-shadow:0 0 0 4px #F2C23040;margin:0 10px 2px 2px;vertical-align:middle}
 .main-navigation .main-nav ul li a{white-space:nowrap}
 .main-navigation .main-nav ul ul{border-radius:0 0 8px 8px;box-shadow:0 10px 24px -10px #18222E55}
-/* Requiere en el Personalizador: Diseño › Navegación principal › Punto de corte del menú móvil = 1024 px */
+/* Menú hamburguesa hasta 1024 px (GeneratePress gratuito lo pone solo hasta 768 px).
+   Repite en tablet las reglas móviles del tema y anula el apilado centrado del «Punto de despliegue de navegación». */
+@media (min-width:769px) and (max-width:1024px){
+  .main-navigation .menu-toggle{display:block}
+  .main-navigation ul,
+  .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+  .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav){display:none}
+  .has-inline-mobile-toggle .mobile-menu-control-wrapper{display:flex;flex-wrap:wrap}
+  .has-inline-mobile-toggle .inside-header{display:flex;flex-direction:row;flex-wrap:wrap;align-items:center;text-align:left}
+  .has-inline-mobile-toggle #site-navigation{flex-basis:100%;margin:0}
+  .site-header .site-logo,.site-header .site-branding{margin-bottom:0}
+  .main-navigation .menu-bar-item:hover>a,.main-navigation .menu-bar-item.sfHover>a{background:none;color:var(--contrast)}
+}
 @media (min-width:1025px){
   .site-header .inside-header{padding-left:20px;padding-right:20px}
   .main-navigation .main-nav>ul>li>a{padding-left:8px;padding-right:8px;font-size:14px;font-weight:600}
