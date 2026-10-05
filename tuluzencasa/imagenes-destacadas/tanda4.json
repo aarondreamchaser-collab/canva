@@ -1,0 +1,43 @@
+{
+ "consumo-fantasma": {
+  "titulo": "File:Old charging style.jpg",
+  "autor": "Jiaying Shi",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Old_charging_style.jpg",
+  "alt": "Cargadores de móvil y de portátil enchufados a una regleta junto a una radio pequeña, sobre una mesa.",
+  "edicion": "recortada a 16:9"
+ },
+ "cambiar-compania-luz": {
+  "titulo": "File:Elderly woman multitasking on the phone while managing tasks on her laptop.jpg",
+  "autor": "Shixart1985",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Elderly_woman_multitasking_on_the_phone_while_managing_tasks_on_her_laptop.jpg",
+  "alt": "Mujer en la cocina de su casa hablando por teléfono mientras consulta el ordenador portátil.",
+  "edicion": "recortada a 16:9"
+ },
+ "que-es-el-cups": {
+  "titulo": "File:Woman using laptop and talking while sitting at a table.jpg",
+  "autor": "Shixart1985",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Woman_using_laptop_and_talking_while_sitting_at_a_table.jpg",
+  "alt": "Mujer sentada a la mesa de la cocina con una taza, consultando el ordenador portátil.",
+  "edicion": "recortada a 16:9"
+ },
+ "diferencia-magnetotermico-diferencial": {
+  "titulo": "File:Fuse box after finishing.JPG",
+  "autor": "Dmitry G",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Fuse_box_after_finishing.JPG",
+  "alt": "Cuadro eléctrico de una vivienda con la tapa abierta: dos interruptores diferenciales y varios magnetotérmicos.",
+  "edicion": "recortada a 16:9 y con las marcas difuminadas"
+ },
+ "cuadro-diferenciales-magnetotermicos": {
+  "titulo": "File:Fuse box after finishing.JPG",
+  "autor": "Dmitry G",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Fuse_box_after_finishing.JPG",
+  "alt": "Cuadro eléctrico con los diferenciales y los magnetotérmicos señalados.",
+  "edicion": "recortada, marcas difuminadas y señalada (adaptación)",
+  "dentro_de": "diferencia-magnetotermico-diferencial"
+ }
+}

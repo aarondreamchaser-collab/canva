@@ -1,5 +1,5 @@
 <!-- Efectos tuluzencasa · WPCode: fragmento HTML, inserción automática «Pie de todo el sitio».
-     Cursor de rayo con chispas (solo ratón), barra de lectura, números que cuentan y cajas «Dato clave».
+     Cursor de rayo con chispas (solo ratón), barra de lectura, importes en € que cuentan y cajas «Dato clave».
      Sin librerías. Para desactivarlo todo, apaga este fragmento. -->
 <style id="tl-efectos-css">
 /* 1. Cursor de rayo: solo con ratón y sin «reducir movimiento» */
@@ -88,7 +88,7 @@ body.admin-bar #tl-progreso{top:32px}
   addEventListener('scroll', pedir, {passive: true}); addEventListener('resize', pedir, {passive: true});
   avance();
 
-  /* 3. Números de las tablas que cuentan hasta su valor, una sola vez */
+  /* 3. Importes en € de las tablas que cuentan hasta su valor, una sola vez */
   if (quieto || !('IntersectionObserver' in window)) return;
   var RE = /^(\D{0,3}?)(\d{1,3}(?:\.\d{3})*|\d+)(?:,(\d+))?(\s*(?:€|kWh|kW|W|%|h|años?|meses|días|km|l)?(?:\/[\wáéíóú·]+)?(?:\s(?:al|por|a la|cada)\s[\wáéíóú ]+)?\s*)$/;
   var fmt = function(n, dec, mil){
@@ -99,7 +99,7 @@ body.admin-bar #tl-progreso{top:32px}
   art.querySelectorAll('td').forEach(function(td){
     if (td.children.length) return;
     var txt = td.textContent, m = txt.trim().match(RE);
-    if (!m) return;
+    if (!m || m[4].indexOf('€') < 0) return; /* solo cifras en euros */
     var dec = m[3] ? m[3].length : 0, val = parseFloat(m[2].replace(/\./g, '') + (dec ? '.' + m[3] : ''));
     if (!(val > 0)) return;
     td.classList.add('tl-cuenta');
