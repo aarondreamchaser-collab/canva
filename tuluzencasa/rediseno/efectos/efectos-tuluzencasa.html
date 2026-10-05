@@ -1,0 +1,127 @@
+<!-- Efectos tuluzencasa · WPCode: fragmento HTML, inserción automática «Pie de todo el sitio».
+     Cursor de rayo con chispas (solo ratón), barra de lectura, números que cuentan y cajas «Dato clave».
+     Sin librerías. Para desactivarlo todo, apaga este fragmento. -->
+<style id="tl-efectos-css">
+/* 1. Cursor de rayo: solo con ratón y sin «reducir movimiento» */
+@media (pointer:fine) and (prefers-reduced-motion:no-preference){
+  html,body{cursor:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M13.5 1.5 3.5 13.5h6.5l-1.5 9 10-12.5h-6.5z' fill='%23F2C230' stroke='%2318222E' stroke-width='1.6' stroke-linejoin='round'/%3E%3C/svg%3E") 12 2,auto}
+  a,button,summary,label,select,[role=button],.menu-toggle,input[type=checkbox],input[type=radio],input[type=range],input[type=submit],input[type=button]{cursor:pointer}
+  input:not([type=checkbox]):not([type=radio]):not([type=range]):not([type=submit]):not([type=button]),textarea,[contenteditable=true]{cursor:text}
+}
+#tl-chispas{position:fixed;inset:0;width:100vw;height:100vh;pointer-events:none;z-index:2147483000}
+/* 2. Barra de lectura (solo entradas) */
+#tl-progreso{position:fixed;top:0;left:0;right:0;height:4px;z-index:2147482999;pointer-events:none;transform-origin:0 50%;transform:scaleX(0);background:linear-gradient(90deg,#F2C230,#FFD95A);box-shadow:0 0 8px rgba(242,194,48,.7)}
+body.admin-bar #tl-progreso{top:32px}
+@media (max-width:782px){body.admin-bar #tl-progreso{top:46px}}
+/* 3. Números que cuentan: el texto real no cambia; la cifra animada se pinta encima (sin saltos de diseño) */
+.single .entry-content td.tl-cuenta{position:relative}
+.single .entry-content td.tl-anim{-webkit-text-fill-color:transparent}
+.single .entry-content td.tl-anim::after{content:attr(data-n);position:absolute;inset:0;padding:inherit;display:flex;align-items:center;-webkit-text-fill-color:currentColor;font-variant-numeric:tabular-nums;overflow:hidden}
+/* 4. Cajas «Dato clave» */
+.tl-dato{background:#FFF9E6;border:1px solid #F2C23066;border-left:4px solid #F2C230;border-radius:10px;padding:14px 18px;margin:1.6em 0}
+.tl-dato .wp-block-group__inner-container{padding:0!important;max-width:none}
+.tl-dato > :last-child,.tl-dato .wp-block-group__inner-container > :last-child{margin-bottom:0}
+.tl-dato-t{font-weight:800;margin-bottom:.4em!important}
+.tl-dato-t::before{content:"";display:inline-block;width:1.1em;height:1.1em;margin-right:.45em;vertical-align:-.18em;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M13.5 1.5 3.5 13.5h6.5l-1.5 9 10-12.5h-6.5z' fill='%23F2C230' stroke='%2318222E' stroke-width='1.6' stroke-linejoin='round'/%3E%3C/svg%3E") center/contain no-repeat}
+</style>
+<script id="tl-efectos-js">
+(function(){
+  var mm = function(q){ return window.matchMedia && window.matchMedia(q).matches; };
+  var quieto = mm('(prefers-reduced-motion: reduce)');
+  var raf = window.requestAnimationFrame;
+  var body = document.body;
+  var esEntrada = body.classList.contains('single-post');
+
+  /* 1. Estela de chispas: solo ratón y sin «reducir movimiento». El bucle se para cuando no hay chispas. */
+  if (!quieto && mm('(pointer: fine)')) {
+    var cv, cx, ch = [], vivo = false, dpr = 1, W = 0, H = 0, ult = 0;
+    var medir = function(){ dpr = Math.min(window.devicePixelRatio || 1, 2); W = innerWidth; H = innerHeight; cv.width = W * dpr; cv.height = H * dpr; cx.setTransform(dpr, 0, 0, dpr, 0, 0); };
+    var crear = function(){ /* el lienzo se crea con el primer movimiento del ratón, no durante la carga */
+      cv = document.createElement('canvas'); cv.id = 'tl-chispas'; cv.setAttribute('aria-hidden', 'true');
+      body.appendChild(cv); cx = cv.getContext('2d'); medir(); addEventListener('resize', medir, {passive: true});
+    };
+    var pintar = function(t){
+      cx.clearRect(0, 0, W, H);
+      for (var i = ch.length - 1; i >= 0; i--) {
+        var c = ch[i], v = 1 - (t - c.t) / c.d;
+        if (v <= 0) { ch.splice(i, 1); continue; }
+        c.x += c.vx; c.y += c.vy; c.vy += 0.05;
+        cx.globalAlpha = v; cx.beginPath(); cx.moveTo(c.x, c.y); cx.lineTo(c.x - c.vx * 2.6, c.y - c.vy * 2.6);
+        cx.strokeStyle = '#A87700'; cx.lineWidth = 3.2; cx.stroke();
+        cx.strokeStyle = '#F2C230'; cx.lineWidth = 1.8; cx.stroke();
+      }
+      cx.globalAlpha = 1;
+      if (ch.length) raf(pintar); else { vivo = false; cx.clearRect(0, 0, W, H); }
+    };
+    addEventListener('pointermove', function(e){
+      if (e.pointerType !== 'mouse') return;
+      if (!cv) crear();
+      var t = performance.now();
+      if (t - ult < 16) return; ult = t;
+      for (var k = 0; k < 2; k++) {
+        if (ch.length > 36) ch.shift();
+        var a = Math.random() * 6.283, s = 0.6 + Math.random() * 1.4;
+        ch.push({x: e.clientX + 2, y: e.clientY + 2, vx: Math.cos(a) * s, vy: Math.sin(a) * s - 0.4, t: t, d: 280 + Math.random() * 200});
+      }
+      if (!vivo) { vivo = true; raf(pintar); }
+    }, {passive: true});
+  }
+
+  if (!esEntrada) return;
+  var art = document.querySelector('.single-post .entry-content');
+  if (!art) return;
+  /* Lo de las entradas espera a que el navegador esté libre: no compite con la carga */
+  var luego = window.requestIdleCallback || function(f){ return setTimeout(f, 200); };
+  luego(function(){
+
+  /* 2. Barra de lectura: escala en X (no provoca saltos de diseño) */
+  var barra = document.createElement('div'), pend = false;
+  barra.id = 'tl-progreso'; barra.setAttribute('aria-hidden', 'true');
+  body.appendChild(barra);
+  var avance = function(){
+    pend = false;
+    var r = art.getBoundingClientRect(), total = r.height - innerHeight * 0.6;
+    var p = total > 0 ? (-r.top + innerHeight * 0.2) / total : 1;
+    barra.style.transform = 'scaleX(' + Math.max(0, Math.min(1, p)).toFixed(4) + ')';
+  };
+  var pedir = function(){ if (!pend) { pend = true; raf(avance); } };
+  addEventListener('scroll', pedir, {passive: true}); addEventListener('resize', pedir, {passive: true});
+  avance();
+
+  /* 3. Números de las tablas que cuentan hasta su valor, una sola vez */
+  if (quieto || !('IntersectionObserver' in window)) return;
+  var RE = /^(\D{0,3}?)(\d{1,3}(?:\.\d{3})*|\d+)(?:,(\d+))?(\s*(?:€|kWh|kW|W|%|h|años?|meses|días|km|l)?(?:\/[\wáéíóú·]+)?(?:\s(?:al|por|a la|cada)\s[\wáéíóú ]+)?\s*)$/;
+  var fmt = function(n, dec, mil){
+    var s = n.toFixed(dec).split('.'), e = mil ? s[0].replace(/\B(?=(\d{3})+(?!\d))/g, '.') : s[0];
+    return dec ? e + ',' + s[1] : e;
+  };
+  var celdas = [];
+  art.querySelectorAll('td').forEach(function(td){
+    if (td.children.length) return;
+    var txt = td.textContent, m = txt.trim().match(RE);
+    if (!m) return;
+    var dec = m[3] ? m[3].length : 0, val = parseFloat(m[2].replace(/\./g, '') + (dec ? '.' + m[3] : ''));
+    if (!(val > 0)) return;
+    td.classList.add('tl-cuenta');
+    celdas.push({td: td, pre: m[1], suf: m[4], dec: dec, val: val, mil: m[2].indexOf('.') > -1});
+  });
+  if (!celdas.length) return;
+  var io = new IntersectionObserver(function(ent){
+    ent.forEach(function(en){
+      if (!en.isIntersecting) return;
+      io.unobserve(en.target);
+      var c = en.target._tl, td = c.td, ini = 0;
+      td.classList.add('tl-anim');
+      var paso = function(t){
+        if (!ini) ini = t;
+        var k = Math.min(1, (t - ini) / 700), e = 1 - Math.pow(1 - k, 3);
+        if (k < 1) { td.setAttribute('data-n', c.pre + fmt(c.val * e, c.dec, c.mil) + c.suf); raf(paso); }
+        else { td.classList.remove('tl-anim'); td.removeAttribute('data-n'); }
+      };
+      raf(paso);
+    });
+  }, {threshold: 0.6});
+  celdas.forEach(function(c){ c.td._tl = c; io.observe(c.td); });
+  }, {timeout: 1500});
+})();
+</script>
