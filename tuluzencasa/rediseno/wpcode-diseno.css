@@ -172,3 +172,10 @@ body.home{background:var(--tl-pared)}
 .footer-widgets .menu{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 20px;margin:0}
 .footer-widgets .menu li{margin:0}
 .site-info{font-size:.85rem}
+
+/* 6. Logo de imagen: oculta el título de texto (y su punto amarillo) y fija el tamaño del logo */
+.site-logo + .site-branding{display:none}
+.site-header .site-branding-container .site-logo{margin:0}
+.site-header .header-image{display:block;width:220px;max-width:none;height:auto}
+@media (min-width:1025px) and (max-width:1199px){.site-header .header-image{width:190px}}
+@media (max-width:1024px){.site-header .header-image{width:170px}}
