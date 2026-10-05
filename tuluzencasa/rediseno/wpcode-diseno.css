@@ -94,9 +94,6 @@ body.home{background:var(--tl-pared)}
 .single .rank-math-breadcrumb a{color:var(--tl-tinta2)}
 .single .rank-math-breadcrumb .separator{margin:0 4px}
 .single .entry-meta .posted-on{font-weight:600}
-.tl-respuesta{background:#F2C2301f;border-left:4px solid var(--tl-amarillo);border-radius:0 10px 10px 0;padding:14px 18px;margin:0 0 1.5em}
-.tl-respuesta strong{display:block;font-size:.8rem;text-transform:uppercase;letter-spacing:.07em;color:var(--tl-tinta2);margin-bottom:4px}
-.tl-respuesta p{margin:0;font-size:1.05rem;line-height:1.5}
 .tl-indice{background:var(--tl-papel);border:1px solid var(--tl-linea);border-radius:10px;padding:14px 18px 6px;margin:0 0 1.5em}
 .tl-indice>p{font-weight:800;margin:0 0 6px}
 .tl-indice ul{margin:0 0 8px 1.2em}

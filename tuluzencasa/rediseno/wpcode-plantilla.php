@@ -27,7 +27,7 @@ add_filter( 'generate_post_date_output', function ( $output, $time_string ) {
 	return '<span class="posted-on">Actualizado el ' . $time_string . '</span> ';
 }, 10, 2 );
 
-/* 3. Contenido de las entradas: respuesta rápida, índice, huecos de anuncios, autor y relacionados */
+/* 3. Contenido de las entradas: índice, huecos de anuncios, autor y relacionados */
 add_filter( 'the_content', function ( $content ) {
 	if ( ! is_singular( 'post' ) || ! in_the_loop() || ! is_main_query() ) {
 		return $content;
@@ -63,12 +63,6 @@ add_filter( 'the_content', function ( $content ) {
 	if ( preg_match_all( '#<h2[ >]#', $content, $m, PREG_OFFSET_CAPTURE ) && count( $m[0] ) >= 3 ) {
 		$mitad   = $m[0][ intdiv( count( $m[0] ), 2 ) ][1];
 		$content = substr( $content, 0, $mitad ) . $hueco( 'mitad' ) . substr( $content, $mitad );
-	}
-
-	// Respuesta rápida: el extracto, solo si el artículo no tiene ya una.
-	if ( has_excerpt() && false === strpos( $content, 'tl-respuesta' ) ) {
-		$content = '<div class="tl-respuesta"><strong>Respuesta rápida</strong><p>'
-			. esc_html( get_the_excerpt() ) . '</p></div>' . $content;
 	}
 
 	// Hueco 3: al final.
