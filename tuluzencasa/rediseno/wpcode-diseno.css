@@ -47,6 +47,8 @@ body.home{background:var(--tl-pared)}
 .home .inside-article{padding:0!important;background:transparent!important;box-shadow:none!important}
 .home .site-main{margin-top:0!important}
 .tl-home{color:var(--tl-tinta);font-size:17px;line-height:1.55}
+/* GeneratePress (tema clásico) envuelve el interior de cada grupo en .wp-block-group__inner-container con 40 px de relleno: se anula */
+.tl-home .wp-block-group__inner-container{display:contents}
 .tl-home h2{font-size:1.5rem;font-weight:800;letter-spacing:-.01em;margin:0 0 6px}
 .tl-home .tl-sub{color:var(--tl-tinta2);margin:0 0 18px}
 .tl-home section,.tl-home .tl-sec{margin:0 0 48px}

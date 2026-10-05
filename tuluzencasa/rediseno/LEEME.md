@@ -1,6 +1,8 @@
 # Rediseño de tuluzencasa (estilo web de nicho con AdSense)
 
-Estado: rediseño aprobado (5-10-2026). Creada la página 156 «Calculadora de consumo eléctrico» en **borrador**. Lo demás está sin aplicar.
+Estado: **aplicado y comprobado en la web publicada (5-10-2026)**. Capturas en `capturas-publicadas/`. Copia previa en `copia-seguridad/2026-10-05-antes-de-aplicar/`. Pendiente: limitar el JS de las dos calculadoras a su página (WPCode, lo hace el titular).
+
+Nota: la portada (23) lleva un bloque HTML con `<style id="tl-portada-arreglo">` que anula el relleno de `.wp-block-group__inner-container` de GeneratePress. La misma regla está ya en `wpcode-diseno.css`; cuando se pegue en el fragmento 157, se puede quitar de la portada.
 
 Cambios pedidos sobre la propuesta: sin caja de «Respuesta rápida»; menú con «Más temas ▾» (Ahorrar luz, Placas solares, Coche eléctrico, Averías e instalación) y «Calculadoras ▾», sin «Inicio»; el texto «calculadora de la portada» pasa a «nuestra calculadora de consumo» con enlace a la página nueva (lista exacta en `cambio-calculadora-portada.md`).
 
@@ -21,16 +23,16 @@ Cambios pedidos sobre la propuesta: sin caja de «Respuesta rápida»; menú con
 | # | Quién | Cambio | Estado |
 |---|---|---|---|
 | 1 | Claude | Página 156 «Calculadora de consumo eléctrico» en borrador, con el título y la descripción de Rank Math que ahora tiene la portada | Hecho |
-| 2 | Titular | WPCode: crear el CSS «Diseño tuluzencasa» (todo el sitio, cabecera). Desactivar «CSS artículos móvil» si existe | Hecho; falta añadir el bloque de tablet (6-10-2026) |
+| 2 | Titular | WPCode: crear el CSS «Diseño tuluzencasa» (todo el sitio, cabecera). Desactivar «CSS artículos móvil» si existe | Hecho (fragmento 157, con el bloque de tablet) |
 | 3 | Titular | WPCode: crear el PHP «Plantilla tuluzencasa» (ejecutar en todas partes) | Hecho |
 | 4 | Titular | Personalizador › Diseño › Navegación principal: Búsqueda en la navegación = Activar. El menú hamburguesa hasta 1024 px lo hace el CSS (GeneratePress gratuito no tiene esa opción) | Hecho |
-| 5 | Titular | Rank Math › Ajustes generales › Rutas de navegación: activar, separador `›`, mostrar Inicio | Pendiente |
-| 6 | Titular | Revisar la vista previa de la página 156 y publicarla | Pendiente |
-| 7 | Titular | WPCode: lógica condicional para que «Calculadora Home» cargue solo en `calculadora-consumo-electrico` y «Calculadora potencia» solo en `calculadora-potencia-contratada` | Pendiente |
-| 8 | Claude | Menú 21: quitar Inicio; el 151 pasa a «Más temas» y recibe Averías e instalación; nuevo «Calculadoras ▾» con las 2 páginas | Tras el 6 |
-| 9 | Claude | Widget «Calculadoras» (block-3): enlace a la página nueva | Tras el 6 |
-| 10 | Claude | Página 23: contenido de `portada.html` y título/descripción nuevos de Rank Math | Tras el 3 y el 6 |
-| 11 | Claude | 20 entradas, Sobre nosotros y página 102: «calculadora de la portada» → «nuestra calculadora de consumo» (`cambio-calculadora-portada.md`; aprobado) | Tras el 6 |
+| 5 | Titular | Rank Math › Ajustes generales › Rutas de navegación: activar, separador `›`, mostrar Inicio | Hecho |
+| 6 | Titular | Revisar la vista previa de la página 156 y publicarla | Hecho |
+| 7 | Titular | WPCode: lógica condicional para que «Calculadora Home» cargue solo en `calculadora-consumo-electrico` y «Calculadora potencia» solo en `calculadora-potencia-contratada` (regla «URL de la página» › «Contiene») | Pendiente |
+| 8 | Claude | Menú 21: quitar Inicio; el 151 pasa a «Más temas» y recibe Averías e instalación; nuevo «Calculadoras ▾» con las 2 páginas | Hecho |
+| 9 | Claude | Widget «Calculadoras» (block-3): enlace a la página nueva | Hecho |
+| 10 | Claude | Página 23: contenido de `portada.html` y título/descripción nuevos de Rank Math | Hecho |
+| 11 | Claude | 20 entradas, Sobre nosotros y página 102: «calculadora de la portada» → «nuestra calculadora de consumo» (`cambio-calculadora-portada.md`; aprobado) | Hecho |
 
 ## Deshacer
 

@@ -1,0 +1,214 @@
+[
+ {
+  "id": "block-2",
+  "id_base": "block",
+  "sidebar": "sidebar-1",
+  "rendered": "<aside id=\"block-2\" class=\"widget inner-padding widget_block widget_search\"><form role=\"search\" method=\"get\" action=\"https://tuluzencasa.com/\" class=\"wp-block-search__button-outside wp-block-search__text-button wp-block-search\" ><label class=\"wp-block-search__label\" for=\"wp-block-search__input-1\" >Buscar</label><div class=\"wp-block-search__inside-wrapper\" ><input class=\"wp-block-search__input\" id=\"wp-block-search__input-1\" placeholder=\"\" value=\"\" type=\"search\" name=\"s\" required /><button aria-label=\"Buscar\" class=\"wp-block-search__button wp-element-button\" type=\"submit\" >Buscar</button></div></form></aside>",
+  "rendered_form": "<p>\n\t\t\t<label for=\"widget-block-2-content\">\n\t\t\t\tHTML del bloque:\t\t\t</label>\n\t\t\t<textarea id=\"widget-block-2-content\" name=\"widget-block[2][content]\" rows=\"6\" cols=\"50\" class=\"widefat code\">&lt;!-- wp:search /--&gt;</textarea>\n\t\t</p>",
+  "instance": {
+   "encoded": "YToxOntzOjc6ImNvbnRlbnQiO3M6MTk6IjwhLS0gd3A6c2VhcmNoIC8tLT4iO30=",
+   "hash": "555d1c81a6234aa99e3b5cdb78717bcf",
+   "raw": {
+    "content": "<!-- wp:search /-->"
+   }
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets/block-2",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets"
+    }
+   ],
+   "about": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widget-types/block"
+    }
+   ],
+   "wp:sidebar": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/sidebar-1/"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "block-3",
+  "id_base": "block",
+  "sidebar": "sidebar-1",
+  "rendered": "<aside id=\"block-3\" class=\"widget inner-padding widget_block\">\n<div class=\"wp-block-group tlc-widget-calculadoras\"><div class=\"wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained\">\n<h2 class=\"wp-block-heading\">Calculadoras</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://tuluzencasa.com/\">Calculadora de consumo eléctrico por aparato</a></li>\n\n\n\n<li><a href=\"https://tuluzencasa.com/calculadora-potencia-contratada/\">Calculadora de potencia contratada</a></li>\n</ul>\n</div></div>\n\n</aside>",
+  "rendered_form": "<p>\n\t\t\t<label for=\"widget-block-3-content\">\n\t\t\t\tHTML del bloque:\t\t\t</label>\n\t\t\t<textarea id=\"widget-block-3-content\" name=\"widget-block[3][content]\" rows=\"6\" cols=\"50\" class=\"widefat code\">&lt;!-- wp:group {&quot;className&quot;:&quot;tlc-widget-calculadoras&quot;,&quot;layout&quot;:{&quot;type&quot;:&quot;constrained&quot;}} --&gt;\n&lt;div class=&quot;wp-block-group tlc-widget-calculadoras&quot;&gt;&lt;!-- wp:heading {&quot;level&quot;:2} --&gt;\n&lt;h2 class=&quot;wp-block-heading&quot;&gt;Calculadoras&lt;/h2&gt;\n&lt;!-- /wp:heading --&gt;\n\n&lt;!-- wp:list --&gt;\n&lt;ul class=&quot;wp-block-list&quot;&gt;&lt;!-- wp:list-item --&gt;\n&lt;li&gt;&lt;a href=&quot;https://tuluzencasa.com/&quot;&gt;Calculadora de consumo eléctrico por aparato&lt;/a&gt;&lt;/li&gt;\n&lt;!-- /wp:list-item --&gt;\n\n&lt;!-- wp:list-item --&gt;\n&lt;li&gt;&lt;a href=&quot;https://tuluzencasa.com/calculadora-potencia-contratada/&quot;&gt;Calculadora de potencia contratada&lt;/a&gt;&lt;/li&gt;\n&lt;!-- /wp:list-item --&gt;&lt;/ul&gt;\n&lt;!-- /wp:list --&gt;&lt;/div&gt;\n&lt;!-- /wp:group --&gt;\n</textarea>\n\t\t</p>",
+  "instance": {
+   "encoded": "YToxOntzOjc6ImNvbnRlbnQiO3M6NjM0OiI8IS0tIHdwOmdyb3VwIHsiY2xhc3NOYW1lIjoidGxjLXdpZGdldC1jYWxjdWxhZG9yYXMiLCJsYXlvdXQiOnsidHlwZSI6ImNvbnN0cmFpbmVkIn19IC0tPgo8ZGl2IGNsYXNzPSJ3cC1ibG9jay1ncm91cCB0bGMtd2lkZ2V0LWNhbGN1bGFkb3JhcyI+PCEtLSB3cDpoZWFkaW5nIHsibGV2ZWwiOjJ9IC0tPgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPkNhbGN1bGFkb3JhczwvaDI+CjwhLS0gL3dwOmhlYWRpbmcgLS0+Cgo8IS0tIHdwOmxpc3QgLS0+Cjx1bCBjbGFzcz0id3AtYmxvY2stbGlzdCI+PCEtLSB3cDpsaXN0LWl0ZW0gLS0+CjxsaT48YSBocmVmPSJodHRwczovL3R1bHV6ZW5jYXNhLmNvbS8iPkNhbGN1bGFkb3JhIGRlIGNvbnN1bW8gZWzDqWN0cmljbyBwb3IgYXBhcmF0bzwvYT48L2xpPgo8IS0tIC93cDpsaXN0LWl0ZW0gLS0+Cgo8IS0tIHdwOmxpc3QtaXRlbSAtLT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vdHVsdXplbmNhc2EuY29tL2NhbGN1bGFkb3JhLXBvdGVuY2lhLWNvbnRyYXRhZGEvIj5DYWxjdWxhZG9yYSBkZSBwb3RlbmNpYSBjb250cmF0YWRhPC9hPjwvbGk+CjwhLS0gL3dwOmxpc3QtaXRlbSAtLT48L3VsPgo8IS0tIC93cDpsaXN0IC0tPjwvZGl2Pgo8IS0tIC93cDpncm91cCAtLT4KIjt9",
+   "hash": "13c4344d1533ec4d98f07bb0230243d9",
+   "raw": {
+    "content": "<!-- wp:group {\"className\":\"tlc-widget-calculadoras\",\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-group tlc-widget-calculadoras\"><!-- wp:heading {\"level\":2} -->\n<h2 class=\"wp-block-heading\">Calculadoras</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><a href=\"https://tuluzencasa.com/\">Calculadora de consumo eléctrico por aparato</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"https://tuluzencasa.com/calculadora-potencia-contratada/\">Calculadora de potencia contratada</a></li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list --></div>\n<!-- /wp:group -->\n"
+   }
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets/block-3",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets"
+    }
+   ],
+   "about": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widget-types/block"
+    }
+   ],
+   "wp:sidebar": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/sidebar-1/"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "block-4",
+  "id_base": "block",
+  "sidebar": "sidebar-1",
+  "rendered": "<aside id=\"block-4\" class=\"widget inner-padding widget_block\">\n<div class=\"wp-block-group tlc-widget-recientes\"><div class=\"wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained\">\n<h2 class=\"wp-block-heading\">Artículos recientes</h2>\n\n\n<ul class=\"wp-block-latest-posts__list wp-block-latest-posts is-layout-flow wp-block-latest-posts-is-layout-flow\"><li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tuluzencasa.com/tramos-horarios-luz/\">Tramos horarios de la luz: horas punta, llano y valle y cómo aprovecharlas</a></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tuluzencasa.com/bono-social-electrico/\">Bono social eléctrico: qué es, quién puede pedirlo y cómo solicitarlo</a></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tuluzencasa.com/placas-solares-en-casa/\">Placas solares en casa: cómo funciona el autoconsumo y cuándo compensa</a></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tuluzencasa.com/cuanto-cuesta-cargar-coche-electrico-casa/\">Cuánto cuesta cargar un coche eléctrico en casa: por 100 km, al mes y al año</a></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tuluzencasa.com/calefaccion-electrica-mas-barata/\">Calefacción eléctrica más barata: qué sistema gasta menos y cuánto cuesta</a></li>\n</ul></div></div>\n\n</aside>",
+  "rendered_form": "<p>\n\t\t\t<label for=\"widget-block-4-content\">\n\t\t\t\tHTML del bloque:\t\t\t</label>\n\t\t\t<textarea id=\"widget-block-4-content\" name=\"widget-block[4][content]\" rows=\"6\" cols=\"50\" class=\"widefat code\">&lt;!-- wp:group {&quot;className&quot;:&quot;tlc-widget-recientes&quot;,&quot;layout&quot;:{&quot;type&quot;:&quot;constrained&quot;}} --&gt;\n&lt;div class=&quot;wp-block-group tlc-widget-recientes&quot;&gt;&lt;!-- wp:heading {&quot;level&quot;:2} --&gt;\n&lt;h2 class=&quot;wp-block-heading&quot;&gt;Artículos recientes&lt;/h2&gt;\n&lt;!-- /wp:heading --&gt;\n\n&lt;!-- wp:latest-posts {&quot;postsToShow&quot;:5} /--&gt;&lt;/div&gt;\n&lt;!-- /wp:group --&gt;\n</textarea>\n\t\t</p>",
+  "instance": {
+   "encoded": "YToxOntzOjc6ImNvbnRlbnQiO3M6MzE0OiI8IS0tIHdwOmdyb3VwIHsiY2xhc3NOYW1lIjoidGxjLXdpZGdldC1yZWNpZW50ZXMiLCJsYXlvdXQiOnsidHlwZSI6ImNvbnN0cmFpbmVkIn19IC0tPgo8ZGl2IGNsYXNzPSJ3cC1ibG9jay1ncm91cCB0bGMtd2lkZ2V0LXJlY2llbnRlcyI+PCEtLSB3cDpoZWFkaW5nIHsibGV2ZWwiOjJ9IC0tPgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPkFydMOtY3Vsb3MgcmVjaWVudGVzPC9oMj4KPCEtLSAvd3A6aGVhZGluZyAtLT4KCjwhLS0gd3A6bGF0ZXN0LXBvc3RzIHsicG9zdHNUb1Nob3ciOjV9IC8tLT48L2Rpdj4KPCEtLSAvd3A6Z3JvdXAgLS0+CiI7fQ==",
+   "hash": "87e16e019ae1f422ce57caaafc98312f",
+   "raw": {
+    "content": "<!-- wp:group {\"className\":\"tlc-widget-recientes\",\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-group tlc-widget-recientes\"><!-- wp:heading {\"level\":2} -->\n<h2 class=\"wp-block-heading\">Artículos recientes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:latest-posts {\"postsToShow\":5} /--></div>\n<!-- /wp:group -->\n"
+   }
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets/block-4",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets"
+    }
+   ],
+   "about": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widget-types/block"
+    }
+   ],
+   "wp:sidebar": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/sidebar-1/"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "nav_menu-2",
+  "id_base": "nav_menu",
+  "sidebar": "footer-1",
+  "rendered": "<aside id=\"nav_menu-2\" class=\"widget inner-padding widget_nav_menu\"><div class=\"menu-legal-container\"><ul id=\"menu-legal\" class=\"menu\"><li id=\"menu-item-42\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-42\"><a href=\"https://tuluzencasa.com/aviso-legal/\">Aviso legal</a></li>\n<li id=\"menu-item-41\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-41\"><a rel=\"privacy-policy\" href=\"https://tuluzencasa.com/politica-de-privacidad/\">Política de privacidad</a></li>\n<li id=\"menu-item-43\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-43\"><a href=\"https://tuluzencasa.com/politica-de-cookies/\">Política de cookies</a></li>\n<li id=\"menu-item-90\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-90\"><a href=\"https://tuluzencasa.com/sobre-nosotros/\">Sobre nosotros</a></li>\n<li id=\"menu-item-91\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-91\"><a href=\"https://tuluzencasa.com/contacto/\">Contacto</a></li>\n</ul></div></aside>",
+  "rendered_form": "<p class=\"nav-menu-widget-no-menus-message\"  style=\"display:none\" >\n\t\t\tAún no se han creado menús. <a href=\"https://tuluzencasa.com/wp-admin/nav-menus.php\">Crea alguno</a>.\t\t</p>\n\t\t<div class=\"nav-menu-widget-form-controls\" >\n\t\t\t<p>\n\t\t\t\t<label for=\"widget-nav_menu-2-title\">Título:</label>\n\t\t\t\t<input type=\"text\" class=\"widefat\" id=\"widget-nav_menu-2-title\" name=\"widget-nav_menu[2][title]\" value=\"\" />\n\t\t\t</p>\n\t\t\t<p>\n\t\t\t\t<label for=\"widget-nav_menu-2-nav_menu\">Elegir el menú:</label>\n\t\t\t\t<select id=\"widget-nav_menu-2-nav_menu\" name=\"widget-nav_menu[2][nav_menu]\">\n\t\t\t\t\t<option value=\"0\">&mdash; Elegir &mdash;</option>\n\t\t\t\t\t\t\t\t\t\t\t<option value=\"22\"  selected='selected'>\n\t\t\t\t\t\t\tLegal\t\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t\t\t<option value=\"21\" >\n\t\t\t\t\t\t\tPrincipal\t\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t</select>\n\t\t\t</p>\n\t\t\t\t\t</div>",
+  "instance": {
+   "encoded": "YToxOntzOjg6Im5hdl9tZW51IjtpOjIyO30=",
+   "hash": "357c91949cd66ae51352b511b07b516b",
+   "raw": {
+    "nav_menu": 22
+   }
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets/nav_menu-2",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets"
+    }
+   ],
+   "about": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widget-types/nav_menu"
+    }
+   ],
+   "wp:sidebar": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/footer-1/"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

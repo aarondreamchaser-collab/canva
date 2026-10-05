@@ -1,11 +1,11 @@
 <!-- wp:html -->
-<!-- CALCULADORA DE CONSUMO (antes en la portada) — el JavaScript se carga desde WPCode (calculadora.js), solo en esta página -->
+<!-- HOME TULUZENCASA v2 (sin script) — el JavaScript se carga desde WPCode (calculadora.js) -->
 <style>
-body:has(#tlc-app){background:#ECEEE9}
-body:has(#tlc-app) .entry-header{display:none}
-body:has(#tlc-app) .inside-article{padding:0!important;background:transparent!important;box-shadow:none!important}
-body:has(#tlc-app) .site-main{margin-top:0!important}
-body:has(#tlc-app) .entry-content{margin-top:0!important}
+body.home{background:#ECEEE9}
+.home .entry-header{display:none}
+.home .inside-article{padding:0!important;background:transparent!important;box-shadow:none!important}
+.home .site-main{margin-top:0!important}
+.home .entry-content{margin-top:0!important}
 
 .tlc{--pared:#ECEEE9;--papel:#FAFBF8;--tinta:#18222E;--tinta2:#4A5663;--cuadro:#22354A;--cuadro2:#15222F;--amarillo:#F2C230;--lcd:#C3CFAB;--lcd-t:#1E2A17;--linea:#D3D7CE;--verde:#2F6B3A;--rojo:#B3412F;
   font-family:"Archivo","Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",Arial,sans-serif;color:var(--tinta);font-size:17px;line-height:1.55}
@@ -150,13 +150,12 @@ body:has(#tlc-app) .entry-content{margin-top:0!important}
 .tlc-upd{margin-top:22px!important;font-size:.8rem;color:var(--tinta2)}
 @media(max-width:760px){.tlc-met{grid-template-columns:1fr;gap:20px}}
 @media(prefers-reduced-motion:reduce){.tlc *{transition:none!important;animation:none!important}}
-@media (max-width:768px){body:has(#tlc-app) .inside-article{padding-left:16px!important;padding-right:16px!important}}
 </style>
 
 <div class="tlc">
   <section class="tlc-hero">
-    <p class="tlc-eyebrow">Gratis y sin registro</p>
-    <h1>Calculadora de consumo eléctrico: cuánto te cuesta la luz, aparato por aparato</h1>
+    <p class="tlc-eyebrow">Calculadora de consumo eléctrico</p>
+    <h1>¿Cuánto te cuesta la luz de tu casa, aparato por aparato?</h1>
     <p class="tlc-intro">Añade los aparatos que usas y a qué hora los enciendes. Calculamos tu factura con la tarifa 2.0TD, te decimos qué te está costando más y qué cambio te sale a cuenta de verdad.</p>
     <ul class="tlc-pills">
       <li>Precio por horas: punta, llano y valle</li>
@@ -254,6 +253,20 @@ body:has(#tlc-app) .entry-content{margin-top:0!important}
   </section>
 
   <section class="tlc-sec">
+    <h2>Elige un tema</h2>
+    <p class="tlc-sub">Todo sobre la luz de una vivienda, ordenado como tu cuadro eléctrico.</p>
+    <nav class="tlc-carril" aria-label="Categorías">
+      <a class="tlc-mod" href="/consumo/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Consumo de aparatos</span></a>
+      <a class="tlc-mod" href="/factura-luz/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Factura y tarifas</span></a>
+      <a class="tlc-mod" href="/ahorro/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Ahorrar luz</span></a>
+      <a class="tlc-mod" href="/instalacion/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Averías e instalación</span></a>
+      <a class="tlc-mod" href="/climatizacion/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Calefacción y aire</span></a>
+      <a class="tlc-mod" href="/placas-solares/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Placas solares</span></a>
+      <a class="tlc-mod" href="/coche-electrico/"><span class="tlc-caja"><span class="tlc-pal"></span></span><span class="tlc-et">Coche eléctrico</span></a>
+    </nav>
+  </section>
+
+  <section class="tlc-sec">
     <h2>Cómo calculamos</h2>
     <p class="tlc-sub">Sin cajas negras: estas son las reglas que usa la calculadora.</p>
     <div class="tlc-met">
@@ -264,4 +277,6 @@ body:has(#tlc-app) .entry-content{margin-top:0!important}
     <p class="tlc-upd">Precios orientativos revisados en septiembre de 2026.</p>
   </section>
 </div>
+
+
 <!-- /wp:html -->

@@ -86,7 +86,9 @@ def portada():
         p('Lo primero que conviene leer para entender y bajar tu factura.', 'tl-sub'),
         '<!-- wp:list {"className":"tl-guias"} -->\n<ul class="wp-block-list tl-guias">' + items + '</ul>\n<!-- /wp:list -->',
     ], 'section')
-    return grupo('tl-home', [hero, calcs, cats, ultimos, guias]) + '\n'
+    # Arreglo temporal mientras el fragmento «Diseño tuluzencasa» no lleve la regla .wp-block-group__inner-container
+    estilo = '<!-- wp:html -->\n<style id="tl-portada-arreglo">.tl-home .wp-block-group__inner-container{display:contents}</style>\n<!-- /wp:html -->\n\n'
+    return estilo + grupo('tl-home', [hero, calcs, cats, ultimos, guias]) + '\n'
 
 
 def pagina_calculadora():
@@ -98,6 +100,7 @@ def pagina_calculadora():
     h_ = h_.replace('body.home{', 'body:has(#tlc-app){')
     h_ = re.sub(r'(?m)^\.home ', 'body:has(#tlc-app) ', h_)
     assert '.home' not in h_, 'quedan selectores .home'
+    h_ = h_.replace('</style>', '@media (max-width:768px){body:has(#tlc-app) .inside-article{padding-left:16px!important;padding-right:16px!important}}\n</style>', 1)
     h_ = h_.replace('<p class="tlc-eyebrow">Calculadora de consumo eléctrico</p>', '<p class="tlc-eyebrow">Gratis y sin registro</p>')
     h_ = h_.replace('<h1>¿Cuánto te cuesta la luz de tu casa, aparato por aparato?</h1>',
                     '<h1>Calculadora de consumo eléctrico: cuánto te cuesta la luz, aparato por aparato</h1>')
