@@ -5,10 +5,6 @@
    Solo cambia lo que se muestra. No modifica el texto guardado de ningún artículo.
    Para deshacerlo, desactiva el fragmento. */
 
-/* --- Ajustes --- */
-define( 'TL_PAGINA_CALC_CONSUMO', 'calculadora-consumo-electrico' );
-define( 'TL_PAGINA_CALC_POTENCIA', 'calculadora-potencia-contratada' );
-
 /* 1. Rutas de navegación de Rank Math arriba del todo en las entradas (antes de la imagen destacada) */
 add_action( 'generate_before_content', function () {
 	if ( is_single() && function_exists( 'rank_math_the_breadcrumbs' ) ) {
@@ -116,7 +112,7 @@ add_filter( 'generate_show_post_navigation', function ( $show ) {
 
 /* 5. Páginas de calculadora a ancho completo, sin barra lateral */
 add_filter( 'generate_sidebar_layout', function ( $layout ) {
-	if ( is_page( array( TL_PAGINA_CALC_CONSUMO ) ) ) {
+	if ( is_page( 'calculadora-consumo-electrico' ) ) {
 		return 'no-sidebar';
 	}
 	return $layout;
