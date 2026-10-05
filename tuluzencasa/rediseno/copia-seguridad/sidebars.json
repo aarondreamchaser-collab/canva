@@ -1,0 +1,503 @@
+[
+ {
+  "id": "wp_inactive_widgets",
+  "name": "Widgets inactivos",
+  "description": "",
+  "class": "",
+  "before_widget": "",
+  "after_widget": "",
+  "before_title": "",
+  "after_title": "",
+  "status": "inactive",
+  "widgets": [],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/wp_inactive_widgets",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=wp_inactive_widgets"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "sidebar-1",
+  "name": "Barra lateral derecha",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [
+   "block-2",
+   "block-3",
+   "block-4"
+  ],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/sidebar-1",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=sidebar-1"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "sidebar-2",
+  "name": "Barra lateral izquierda",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/sidebar-2",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=sidebar-2"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "header",
+  "name": "Cabecera",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/header",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=header"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "footer-1",
+  "name": "Widget 1 del pie de página",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [
+   "nav_menu-2"
+  ],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/footer-1",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=footer-1"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "footer-2",
+  "name": "Widget 2 del pie de página",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/footer-2",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=footer-2"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "footer-3",
+  "name": "Widget 3 del pie de página",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/footer-3",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=footer-3"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "footer-4",
+  "name": "Widget 4 de pie de página",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/footer-4",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=footer-4"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "footer-5",
+  "name": "Widget 5 de pie de página",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/footer-5",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=footer-5"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "footer-bar",
+  "name": "Barra del pie de página",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/footer-bar",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=footer-bar"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "top-bar",
+  "name": "Barra superior",
+  "description": "",
+  "class": "",
+  "before_widget": "<aside id=\"%1$s\" class=\"widget inner-padding %2$s\">",
+  "after_widget": "</aside>",
+  "before_title": "<h2 class=\"widget-title\">",
+  "after_title": "</h2>",
+  "status": "active",
+  "widgets": [],
+  "_links": {
+   "collection": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars"
+    }
+   ],
+   "self": [
+    {
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/sidebars/top-bar",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH"
+      ]
+     }
+    }
+   ],
+   "wp:widget": [
+    {
+     "embeddable": true,
+     "href": "https://tuluzencasa.com/wp-json/wp/v2/widgets?sidebar=top-bar"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]
