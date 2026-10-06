@@ -1,0 +1,42 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><style>
+*{box-sizing:border-box}body{margin:0;width:1200px;height:820px;background:#ECEEE9;font-family:"DejaVu Sans",sans-serif;color:#18222E;position:relative;overflow:hidden}
+.aviso{position:absolute;left:0;right:0;top:0;height:54px;background:#B3412F;color:#fff;font-weight:700;font-size:22px;display:flex;align-items:center;justify-content:center;letter-spacing:.04em}
+.caja{position:absolute;left:60px;top:90px;width:470px;height:640px;background:#fff;border:3px solid #22354A;border-radius:10px;box-shadow:0 6px 20px #18222E22;padding:24px 28px;overflow:hidden}
+.marca{position:absolute;left:-30px;top:330px;transform:rotate(-32deg);font-size:110px;font-weight:800;color:#B3412F;opacity:.10;letter-spacing:.06em;white-space:nowrap}
+.cab{display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid #22354A;padding-bottom:10px;font-size:15px;color:#4A5663}.cab b{color:#18222E;font-size:19px}
+.lm{margin:22px -28px 0;padding:18px 28px;background:#FFF6D6;border-top:3px solid #F2C230;border-bottom:3px solid #F2C230;display:flex;align-items:baseline;gap:22px}
+.lm b{font-size:56px;line-height:1;white-space:nowrap}.lm span{font-size:18px;color:#4A5663}
+.w{font-size:30px;font-weight:700;margin:18px 0 6px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px 16px;margin-top:16px}
+.d{border:1px solid #c9cec3;border-radius:8px;padding:10px 12px;font-size:14px;color:#4A5663}.d b{display:block;font-size:22px;color:#18222E}
+.cl{margin-top:18px;display:flex;align-items:center;gap:14px;font-size:15px;color:#4A5663}
+.cl i{font-style:normal;background:#FDB913;color:#18222E;font-weight:800;font-size:26px;width:56px;height:40px;display:flex;align-items:center;justify-content:center;border-radius:4px}
+.lado{position:absolute;left:600px;top:90px;width:550px}
+.lado h2{font-size:28px;margin:4px 0 8px}.lado p{font-size:17px;color:#4A5663;margin:0 0 16px;line-height:1.4}
+.paso{display:flex;gap:14px;align-items:flex-start;margin:0 0 14px;background:#fff;border-radius:10px;padding:13px 16px;border:1px solid #d3d7ce}
+.paso i{flex:none;width:34px;height:34px;border-radius:50%;background:#22354A;color:#fff;font-style:normal;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:18px}
+.paso b{display:block;font-size:19px;margin-bottom:3px}.paso div{font-size:15.5px;color:#4A5663;line-height:1.35}
+.r{font-family:"DejaVu Sans Mono",monospace;color:#18222E;font-weight:700;font-size:16px}
+.pie{position:absolute;left:600px;bottom:30px;width:550px;font-size:13px;color:#4A5663;line-height:1.4;border-top:1px solid #c9cec3;padding-top:10px}
+</style></head><body>
+<div class="aviso">CAJA DE EJEMPLO · TODOS LOS DATOS SON INVENTADOS</div>
+<div class="caja"><div class="marca">EJEMPLO</div>
+ <div class="cab"><div><b>Marca de ejemplo</b><br>Bombilla LED · casquillo E27</div><div>230 V</div></div>
+ <div class="lm"><b>1.000 lm</b><span>flujo luminoso útil (360°)</span></div>
+ <div class="w">9 W</div><div style="font-size:14px;color:#4A5663">potencia en modo encendido</div>
+ <div class="grid">
+  <div class="d">Temperatura de color<b>2.700 K</b></div><div class="d">Vida útil<b>15.000 h</b></div>
+  <div class="d">Reproducción del color<b>CRI 80</b></div><div class="d">Consumo en espera<b>0,00 W</b></div>
+ </div>
+ <div class="cl"><i>E</i><div>En la etiqueta: clase energética<br>y consumo, <b style="color:#18222E;white-space:nowrap">9 kWh/1.000 h</b></div></div>
+</div>
+<div class="lado">
+ <h2>Qué mirar antes de comprar</h2>
+ <p>La ley obliga a poner estos datos en la caja. Así se usan:</p>
+ <div class="paso"><i>1</i><div><b>Compara por lúmenes</b>Es la luz que da. Va en letra al menos el doble de grande que los vatios.</div></div>
+ <div class="paso"><i>2</i><div><b>Calcula la eficacia</b><span class="r">1.000 lm ÷ 9 W = 111 lm/W</span> → clase E en la escala de la A a la G.</div></div>
+ <div class="paso"><i>3</i><div><b>Pasa los vatios a euros</b><span class="r">9 kWh × 0,165 €/kWh = 1,49 €</span> cada 1.000 horas encendida.</div></div>
+ <div class="paso"><i>4</i><div><b>Elige el tono</b>Menos kelvin, luz más cálida; más kelvin, luz más blanca.</div></div>
+</div>
+<div class="pie">Esquema de tuluzencasa.com con datos inventados. No reproduce ninguna caja real: solo muestra dónde están los datos que exige el Reglamento (UE) 2019/2020.</div>
+</body></html>
