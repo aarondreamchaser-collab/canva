@@ -52,6 +52,8 @@ El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2020
 - <strong>La potencia</strong> en vatios y, si es inteligente, lo que gasta en espera conectada a la red.
 - <strong>El índice de reproducción del color</strong>, que indica lo naturales que se ven los colores.
 
+{{IMG:esquema-caja}}
+
 Las bombillas inteligentes que se controlan por wifi gastan algo aunque estén apagadas desde la aplicación. Ese consumo es pequeño, pero dura las 24 horas: lo explicamos en <a href="https://tuluzencasa.com/consumo-fantasma/">consumo fantasma</a>.
 
 ## Cuándo compensa cambiar las bombillas {#cuando}

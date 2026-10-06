@@ -25,7 +25,7 @@
 
 ## Límites
 
-| Ordenador básico (categoría A) | Máximo al año desde 2016 | Coste al año en ese máximo |
+| Ordenador básico (categoría A) | Máximo legal al año desde 2016 | Coste al año si llegara a ese máximo |
 | --- | --- | --- |
 | Sobremesa | 94 kWh | 15,51 € |
 | Portátil | 27 kWh | 4,46 € |

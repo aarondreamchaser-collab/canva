@@ -24,11 +24,15 @@ Un portátil encendido ocho horas al día para teletrabajar cuesta menos de 2 �
 El monitor se suma aparte. Un ordenador de sobremesa no funciona sin pantalla, así que a su consumo hay que añadir el del monitor, que viene en su etiqueta. En el portátil, la pantalla ya está incluida en lo que gasta.
 {{/CAJA}}
 
-## Lo que la ley permite gastar a un ordenador {#limites}
+## El máximo legal: lo que un ordenador puede gastar como mucho {#limites}
 
-El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0617" target="_blank" rel="noopener">Reglamento (UE) 617/2013 de diseño ecológico</a> fija un consumo anual máximo para los ordenadores que se venden. Ese consumo se calcula a partir de lo que gasta el equipo apagado, en suspensión y encendido sin hacer nada, con un reparto de horas fijo. Desde el 1 de enero de 2016, los más sencillos, los de categoría A, no pueden pasar de:
+El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0617" target="_blank" rel="noopener">Reglamento (UE) 617/2013 de diseño ecológico</a> fija un consumo anual máximo, un tope, para los ordenadores que se venden. Ese consumo se calcula a partir de lo que gasta el equipo apagado, en suspensión y encendido sin hacer nada, con un reparto de horas fijo. Desde el 1 de enero de 2016, los más sencillos, los de categoría A, no pueden pasar de:
 
 {{T:ordenador_limites}}
+
+{{CAJA:Es un máximo, no lo que gasta}}
+Los 94 kWh al año son el máximo legal para un ordenador de sobremesa sencillo, no lo que gasta normalmente. Un equipo nuevo de esa categoría no puede pasar de esa cifra, así que un sobremesa normal suele gastar menos. Los 15,51 € de la tabla son lo que costaría si llegara justo al tope.
+{{/CAJA}}
 
 Los equipos con más prestaciones, por ejemplo con tarjeta gráfica independiente o más núcleos, entran en otras categorías con límites más altos. Y ojo: esta cifra no incluye las horas en las que el ordenador trabaja de verdad. Sirve para saber que un equipo nuevo no gasta casi nada mientras espera, pero no para calcular tu factura si juegas o editas vídeo.
 
@@ -75,7 +79,7 @@ Depende del equipo. Con el factor de uso de 0,7, un portátil de 60 W gasta unos
 
 ### ¿Gasta más un portátil o un ordenador de sobremesa?
 
-Normalmente el sobremesa, porque tiene componentes más potentes y necesita monitor aparte. Los límites legales lo reflejan: 94 kWh al año para un sobremesa básico frente a 27 para un portátil básico.
+Normalmente el sobremesa, porque tiene componentes más potentes y necesita monitor aparte. Los topes legales lo reflejan: un sobremesa básico no puede pasar de 94 kWh al año y un portátil básico, de 27. Son máximos: los equipos normales suelen quedar por debajo.
 
 ### ¿Es malo dejar el portátil siempre enchufado?
 

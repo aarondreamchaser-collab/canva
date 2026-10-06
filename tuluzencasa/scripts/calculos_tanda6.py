@@ -81,7 +81,7 @@ for horas in (2, 4, 8):
     rows.append([f"{horas} h al día", eur(POR * horas * DIAS_MES * PRECIO), eur(GAM * horas * DIAS_MES * PRECIO)])
 t2 = tabla("ordenador_horas", ["Uso todos los días", "Portátil de 60 W al mes", "Ordenador para juegos de 400 W al mes"], rows)
 rows = [["Sobremesa", "94 kWh", eur(94 * PRECIO)], ["Portátil", "27 kWh", eur(27 * PRECIO)]]
-t3 = tabla("ordenador_limites", ["Ordenador básico (categoría A)", "Máximo al año desde 2016", "Coste al año en ese máximo"], rows)
+t3 = tabla("ordenador_limites", ["Ordenador básico (categoría A)", "Máximo legal al año desde 2016", "Coste al año si llegara a ese máximo"], rows)
 rows = []
 for kw in (20, 30, 50, 80):
     rows.append([f"{kw} kWh/1 000 h", eur(kw * PRECIO), eur(kw / 1000 * 6 * DIAS_ANO * PRECIO)])
