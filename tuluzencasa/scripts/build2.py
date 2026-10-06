@@ -7,7 +7,8 @@ Formato de src (igual que build.py, con anclas):
 
 Añade solo:
   - el índice «En este artículo:» tras el segundo párrafo, con un enlace a cada H2;
-  - la línea «Cálculos con precios de octubre de 2026» bajo la primera tabla.
+  - la línea «Cálculos con precios de octubre de 2026» bajo la primera tabla
+    (salvo con «linea_fecha: no» en la cabecera, para artículos cuyas tablas no llevan precios).
 Comprueba: extracto <= 155, importes presentes en calculos/*.md, anclas únicas,
 palabra clave en la primera frase y en un H2, marcas pendientes.
 """
@@ -19,7 +20,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 TABLAS = {}
-for f in ("tablas.json", "tablas_calefaccion.json", "tablas_calefaccion2.json", "tablas_tanda3.json", "tablas_tanda4.json"):
+for f in ("tablas.json", "tablas_calefaccion.json", "tablas_calefaccion2.json", "tablas_tanda3.json", "tablas_tanda4.json", "tablas_tanda5.json"):
     TABLAS.update(json.loads((BASE / "scripts" / f).read_text(encoding="utf-8")))
 LINEA_FECHA = "Cálculos con precios de octubre de 2026"
 IMG_P = BASE / "scripts" / "wp_imagenes_articulos.json"
@@ -110,7 +111,7 @@ def build(slug):
             items.append(s[2:])
         elif s.startswith("{{T:"):
             flush(); blocks.append(table(s[4:-2]))
-            if not tabla_vista:
+            if not tabla_vista and meta.get("linea_fecha") != "no":
                 blocks.append(p(LINEA_FECHA)); tabla_vista = True
         else:
             if items:

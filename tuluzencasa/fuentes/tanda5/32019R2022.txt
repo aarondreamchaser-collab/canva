@@ -1,0 +1,546 @@
+ 
+ L_2019315ES.01026701.xml 
+ 5.12.2019    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 315/267 
+ REGLAMENTO (UE) 2019/2022 DE LA COMISIÓN
+ de 1 de octubre de 2019
+ por el que se establecen los requisitos de diseño ecológico aplicables a los lavavajillas domésticos con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, se modifica el Reglamento (CE) n. o 1275/2008 de la Comisión y se deroga el Reglamento (UE) n. o 1016/2010 de la Comisión 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el artículo 114 del Tratado de Funcionamiento de la Unión Europea, 
+ Vista la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía  ( 1 ) , y en particular su artículo 15, apartado 1, 
+ Considerando lo siguiente: 
+ (1) 
+ Con arreglo a la Directiva 2009/125/CE, la Comisión debe establecer requisitos de diseño ecológico para los productos relacionados con la energía que representen un volumen notable de ventas y de comercio en la Unión, que tengan un importante impacto medioambiental y que, a través de su diseño, ofrezcan posibilidades significativas de mejorar ese impacto sin que ello conlleve excesivos costes. 
+ (2) 
+ La Comunicación COM(2016) 773 de la Comisión  ( 2 ) (Plan de trabajo sobre diseño ecológico), adoptada por la Comisión en aplicación del artículo 16, apartado 1, de la Directiva 2009/125/CE, establece las prioridades de trabajo dentro del marco sobre diseño ecológico y etiquetado energético para el período 2016-2019. El plan de trabajo sobre diseño ecológico enumera los grupos de productos relacionados con la energía que se consideran prioritarios para la realización de estudios preparatorios y la posible adopción de medidas de ejecución, así como la revisión del Reglamento (UE) n. o 1016/2010 de la Comisión  ( 3 ) y el Reglamento Delegado (UE) n. o 1059/2010 de la Comisión  ( 4 ) . 
+ (3) 
+ Se estima que las medidas del plan de trabajo sobre diseño ecológico podrían permitir un ahorro anual final de energía total superior a 260 TWh en 2030, lo que equivale a reducir las emisiones de gases de efecto invernadero en aproximadamente 100 millones de toneladas al año en 2030. Los lavavajillas domésticos son uno de los grupos de productos incluidos en el plan de trabajo, dado que presentan la posibilidad de lograr un ahorro estimado de electricidad de 2,1 TWh al año, lo que supondría una reducción de las emisiones de GEI de 0,7 Mt equivalentes de CO 2 al año, y un ahorro estimado de agua de 16 millones de m 3 en 2030. 
+ (4) 
+ La Comisión estableció requisitos de diseño ecológico aplicables a los lavavajillas domésticos mediante el Reglamento (UE) n. o 1016/2010, según el cual la Comisión debe revisarlo a la luz del progreso tecnológico. 
+ (5) 
+ La Comisión ha examinado el Reglamento (UE) n. o 1016/2010 y ha analizado los aspectos técnicos, medioambientales y económicos de los lavavajillas domésticos, así como el comportamiento de los usuarios en la vida real. El examen se llevó a cabo en estrecha cooperación con las partes interesadas de la Unión y de terceros países. Los resultados del examen han sido publicados y presentados al Foro consultivo creado en virtud del artículo 18 de la Directiva 2009/125/CE. 
+ (6) 
+ Del examen se desprende que es necesario revisar los requisitos de diseño ecológico aplicables a los lavavajillas domésticos y los relacionados con el uso de recursos esenciales como la energía y el agua, así como introducir requisitos relacionados con la eficiencia en el uso de los recursos, como la reparabilidad y la reciclabilidad. 
+ (7) 
+ Con respecto a los lavavajillas domésticos, los aspectos medioambientales identificados como significativos a efectos del presente Reglamento son el consumo de energía y agua durante la fase de uso, la generación de residuos al final de la vida útil, y las emisiones a la atmósfera y al agua en la fase de fabricación (debido a la extracción y la transformación de materias primas) y en la fase de uso (debido al consumo de electricidad). 
+ (8) 
+ En 2015, el consumo anual de energía en la Unión de los productos sujetos al presente Reglamento se estimó en 31,3 TWh, lo que corresponde a 11,1 millones de toneladas equivalentes de CO 2 . En una hipótesis de statu quo , se prevé que el consumo de energía de los lavavajillas domésticos aumente a 49,0 TWh en 2030, principalmente debido al incremento del número total de lavavajillas en uso. No obstante, ese aumento del consumo energético puede limitarse mediante la actualización de los actuales requisitos de diseño ecológico. De manera similar, el consumo de agua en 2015 de los lavavajillas domésticos se estimó en 318 millones de m 3 , y se prevé que, de no actualizarse los requisitos, ese consumo aumente hasta los 531 millones de m 3 en 2030. Por último, se calcula que en los últimos años la vida útil de los lavavajillas domésticos ha disminuido a aproximadamente 12,5 años, y todo apunta a que, a falta de incentivos, la tendencia a la baja se mantendrá. 
+ (9) 
+ La Comunicación de la Comisión al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones COM(2015) 614 final  ( 5 ) (Plan de acción para la economía circular) y la Comunicación relativa al plan de trabajo sobre diseño ecológico  ( 6 ) subrayan la importancia de utilizar el marco de diseño ecológico para apoyar la transición hacia una economía más eficiente en el uso de los recursos y circular. La Directiva 2012/19/UE del Parlamento Europeo y del Consejo  ( 7 ) hace referencia a la Directiva 2009/125/CE e indica que los requisitos de diseño ecológico deben facilitar la reutilización, el desarmado y la valorización de los residuos de aparatos eléctricos y electrónicos (RAEE), abordando las fases previas. Por consiguiente, el presente Reglamento ha de establecer requisitos apropiados que contribuyan a los objetivos de la economía circular. 
+ (10) 
+ Los lavavajillas de uso no doméstico tienen características y usos diferentes, son objeto de un acto legislativo distinto, en concreto la Directiva 2006/42/CE del Parlamento Europeo y del Consejo  ( 8 ) , relativa a las máquinas, y no deben incluirse en el ámbito de aplicación del presente Reglamento. Las disposiciones relativas a los lavavajillas domésticos deben aplicarse a los lavavajillas de características técnicas idénticas, con independencia de la configuración en la que se utilicen. Todos los lavavajillas domésticos deben cumplir los requisitos mínimos de lavado y secado, independientemente de los métodos utilizados. 
+ (11) 
+ Es preciso establecer requisitos específicos para los modos de bajo consumo de los lavavajillas domésticos. Los requisitos del Reglamento (CE) n. o 1275/2008 de la Comisión  ( 9 ) no deben aplicarse a los lavavajillas domésticos incluidos en el ámbito de aplicación del presente Reglamento. Por lo tanto, procede modificar el Reglamento (CE) n. o 1275/2008 en consecuencia. 
+ (12) 
+ Los parámetros pertinentes de los productos han de medirse empleando métodos fiables, exactos y reproducibles. Estos métodos deben tomar como referencia los métodos de medición más avanzados generalmente aceptados, y en particular, cuando se disponga de ellas, las normas armonizadas que hayan adoptado las organizaciones europeas de normalización enumeradas en el anexo I del Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo  ( 10 ) . 
+ (13) 
+ De conformidad con el artículo 8 de la Directiva 2009/125/CE, el presente Reglamento debe especificar los procedimientos de evaluación de la conformidad aplicables. 
+ (14) 
+ A fin de facilitar el control de la conformidad, los fabricantes, los importadores o los representantes autorizados deben aportar información en la documentación técnica a la que se refieren los anexos IV y V de la Directiva 2009/125/CE, en la medida en que dicha información guarde relación con los requisitos establecidos en el presente Reglamento. 
+ (15) 
+ Cuando los parámetros de la documentación técnica, según se definen en el presente Reglamento, sean idénticos a los parámetros de la ficha de información de producto que se disponen en el Reglamento Delegado (UE) 2019/2017 de la Comisión  ( 11 ) , los fabricantes, los importadores o los representantes autorizados deben introducir los datos correspondientes en la base de datos de los productos que se establece en el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo  ( 12 ) y, con ello, dejar de estar obligados a proporcionar tales datos a las autoridades de vigilancia del mercado como parte de la documentación técnica. 
+ (16) 
+ A fin de garantizar la eficacia y la credibilidad del Reglamento y proteger a los consumidores, no ha de permitirse la introducción en el mercado de productos que de forma automática modifiquen su rendimiento en condiciones de ensayo para mejorar los parámetros declarados. 
+ (17) 
+ Además de los requisitos que se disponen en el presente Reglamento, es necesario establecer parámetros de referencia indicativos con respecto a las mejores tecnologías disponibles a fin de que, de conformidad con el anexo I, parte 3, punto 2, de la Directiva 2009/125/CE, la información sobre el comportamiento medioambiental durante el ciclo de vida de los productos sujetos al presente Reglamento esté ampliamente disponible y sea de fácil acceso. 
+ (18) 
+ Debe llevarse a cabo una revisión del presente Reglamento a fin de evaluar la idoneidad y la eficacia de sus disposiciones a la hora de conseguir sus objetivos. La fecha de la revisión ha de fijarse dejando el tiempo suficiente para poder aplicar la totalidad de las disposiciones del Reglamento y que estas produzcan efectos en el mercado. 
+ (19) 
+ Debe derogarse el Reglamento (UE) n. o 1016/2010. 
+ (20) 
+ Con miras a facilitar la transición entre el Reglamento (UE) n. o 1016/2010 y el presente Reglamento, conviene permitir, desde el mismo momento de su entrada en vigor, el uso de la denominación «eco» en lugar de «programa normal». 
+ (21) 
+ Las medidas establecidas en el presente Reglamento se ajustan al dictamen del Comité creado en virtud del artículo 19, apartado 1, de la Directiva 2009/125/CE. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece los requisitos de diseño ecológico para la introducción en el mercado o la puesta en servicio de lavavajillas domésticos conectados a la red eléctrica, incluidos los lavavajillas domésticos encastrables y los lavavajillas domésticos conectados a la red eléctrica que pueden funcionar también con baterías. 
+ 2.   El presente Reglamento no se aplicará a: 
+ a) 
+ los lavavajillas incluidos en el ámbito de aplicación de la Directiva 2006/42/CE; 
+ b) 
+ los lavavajillas domésticos alimentados por baterías que pueden conectarse a la red eléctrica mediante un transformador CA/CC adquirido por separado. 
+ Artículo 2 
+ Definiciones 
+ A efectos del presente Reglamento, se entenderá por: 
+ 1) 
+ «red de alimentación» o «red eléctrica»: el suministro de electricidad de la red de 230 (± 10 %) voltios de corriente alterna de 50 Hz; 
+ 2) 
+ «lavavajillas doméstico»: un aparato que lava y aclara la vajilla, y que es declarado por el fabricante en la declaración de conformidad para dar cumplimiento a la Directiva 2014/35/UE del Parlamento Europeo y del Consejo  ( 13 ) o la Directiva 2014/53/UE del Parlamento Europeo y del Consejo  ( 14 ) ; 
+ 3) 
+ «lavavajillas doméstico encastrable»: un lavavajillas doméstico diseñado, probado y comercializado exclusivamente: 
+ a) 
+ para ser instalado en un mueble o revestido de paneles por arriba, abajo y los lados; 
+ b) 
+ para fijarse firmemente a los lados, la parte de arriba o la parte de abajo del mueble o los paneles, y 
+ c) 
+ para ir equipado con una cobertura frontal integral de fábrica o con un panel frontal a medida; 
+ 4) 
+ «modelo equivalente»: un modelo con las mismas características técnicas pertinentes para la información técnica que debe proporcionarse, pero que el mismo fabricante, importador o representante autorizado introduce en el mercado o pone en servicio como un modelo distinto con otro identificador de modelo; 
+ 5) 
+ «identificador del modelo»: un código, por lo general alfanumérico, que distingue un modelo de producto específico de otros modelos con la misma marca comercial o el mismo nombre de fabricante, importador o representante autorizado; 
+ 6) 
+ «base de datos de los productos»: una recopilación de datos relativos a los productos, dispuesta de manera sistemática y que consta de una parte pública orientada al consumidor en la que la información relativa a los parámetros de cada producto es accesible por medios electrónicos, un portal en línea para la accesibilidad y una parte de cumplimiento, con unos requisitos de accesibilidad y de seguridad especificados claramente, como se establece en el Reglamento (UE) 2017/1369; 
+ 7) 
+ «programa»: una serie de operaciones predefinidas de la que el fabricante, importador o representante autorizado declara que es adecuada para un grado de suciedad o un tipo de carga específicos, o ambas cosas; 
+ 8) 
+ «eco»: la denominación de un programa de un lavavajillas doméstico del que el fabricante, importador o representante autorizado declara que es apto para lavar una vajilla de suciedad normal, y al que hacen referencia los requisitos de diseño ecológico relativos a la eficiencia energética, y a la eficiencia del lavado y del secado. 
+ Por lo que respecta a los anexos, el anexo I contiene definiciones adicionales. 
+ Artículo 3 
+ Requisitos de diseño ecológico 
+ Los requisitos de diseño ecológico que se establecen en el anexo II serán aplicables a partir de las fechas que en él se indican. 
+ Artículo 4 
+ Evaluación de la conformidad 
+ 1.   El procedimiento de evaluación de la conformidad mencionado en el artículo 8 de la Directiva 2009/125/CE será el sistema de control interno del diseño que figura en el anexo IV de la citada Directiva o el sistema de gestión descrito en su anexo V. 
+ 2.   A efectos de la evaluación de la conformidad con arreglo al artículo 8 de la Directiva 2009/125/CE, la documentación técnica deberá incluir los valores declarados de los parámetros enumerados en el anexo II, puntos 2, 3 y 4, así como los datos y resultados de los cálculos efectuados de conformidad con el anexo III. 
+ 3.   En caso de que la información incluida en la documentación técnica de un determinado modelo se haya obtenido: 
+ a) 
+ a partir de un modelo que posee las mismas características técnicas pertinentes para la información técnica que debe facilitarse, pero que es producido por un fabricante diferente, o 
+ b) 
+ mediante cálculos efectuados en función del diseño o mediante extrapolación a partir de otro modelo del mismo fabricante o de un fabricante diferente, o por ambos procedimientos, 
+ la documentación técnica contendrá los pormenores del cálculo, la evaluación efectuada por el fabricante para verificar la exactitud del cálculo y, si procede, la declaración de identidad entre los modelos de diferentes fabricantes. 
+ La documentación técnica deberá incluir una lista de todos los modelos equivalentes, indicando los identificadores de los modelos. 
+ 4.   La documentación técnica incluirá, en el mismo orden, la información prevista en el anexo VI del Reglamento (UE) 2019/2017. A efectos de la vigilancia del mercado, los fabricantes, los importadores o sus representantes autorizados podrán, sin perjuicio de lo dispuesto en el punto 2, letra g), del anexo IV de la Directiva 2009/125/CE, hacer referencia a la documentación técnica cargada en la base de datos de los productos que contiene la misma información que la establecida en el Reglamento (UE) 2019/2017. 
+ Artículo 5 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Las autoridades de los Estados miembros aplicarán el procedimiento de verificación que dispone el anexo IV al desempeñar las tareas de vigilancia del mercado contempladas en el artículo 3, apartado 2, de la Directiva 2009/125/CE. 
+ Artículo 6 
+ Elusión 
+ El fabricante, importador o representante autorizado no introducirá en el mercado productos que hayan sido diseñados para poder detectar que son objeto de ensayo (por ejemplo, reconociendo las condiciones de ensayo o el ciclo de ensayo) y reaccionar específicamente con una alteración automática de su comportamiento durante el ensayo con el objetivo de alcanzar un nivel más favorable para cualquiera de los parámetros declarados por el fabricante, importador o representante autorizado en la documentación técnica o incluidos en cualquiera de los documentos facilitados. 
+ Ni el consumo de energía y agua del producto ni cualquier otro de los parámetros declarados, medidos con la misma norma de ensayo utilizada originalmente para la declaración de conformidad, empeorarán tras una actualización del software o del firmware , excepto con el consentimiento expreso del usuario final antes de la actualización. No se producirá ningún cambio de comportamiento como consecuencia del rechazo de la actualización. 
+ Artículo 7 
+ Parámetros de referencia indicativos 
+ En el anexo V se establecen los parámetros de referencia indicativos correspondientes a los productos y las tecnologías más eficientes disponibles en el mercado en el momento de la adopción del presente Reglamento. 
+ Artículo 8 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso tecnológico y presentará los resultados de dicha evaluación, incluido, en su caso, un proyecto de propuesta de revisión al Foro consultivo para el 25 de diciembre de 2025. 
+ En particular, la revisión se centrará en los aspectos siguientes: 
+ a) 
+ el potencial de mejora en lo que respecta al comportamiento energético y medioambiental de los lavavajillas domésticos, teniendo en cuenta, entre otras cosas, la eficiencia del secado; 
+ b) 
+ el nivel de las tolerancias de verificación; 
+ c) 
+ una evaluación de la evolución del comportamiento de los consumidores y de la tasa de penetración de los lavavajillas domésticos en los Estados miembros de la UE; 
+ d) 
+ la eficacia de los requisitos vigentes sobre eficiencia en el uso de los recursos; 
+ e) 
+ la conveniencia de establecer requisitos adicionales de eficiencia en el uso de los recursos para los productos de conformidad con los objetivos de la economía circular, también si deben incluirse más piezas de recambio. 
+ Artículo 9 
+ Modificación del Reglamento (CE) n. o 1275/2008 
+ En el anexo I, punto 1, del Reglamento (CE) n. o 1275/2008, se suprime la entrada «Lavavajillas». 
+ Artículo 10 
+ Derogación 
+ El Reglamento (UE) n. o 1016/2010 queda derogado a partir del 1 de marzo de 2021. 
+ Artículo 11 
+ Medidas transitorias 
+ A partir del 25 de diciembre de 2019 hasta el 28 de febrero de 2021, no obstante lo dispuesto en el anexo I, parte 1, punto 1, del Reglamento (UE) n. o 1016/2010, la denominación «eco» podrá utilizarse para el programa normal, de conformidad con el anexo II, punto 1, del presente Reglamento, en lugar de la denominación «programa normal». 
+ Artículo 12 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea . 
+ Será aplicable a partir del 1 de marzo de 2021. No obstante, el artículo 6, párrafo primero, y el artículo 11 serán aplicables a partir del 25 de diciembre de 2019. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 1 de octubre de 2019. 
+ Por la Comisión 
+ El Presidente 
+ Jean-Claude JUNCKER
+ ( 1 )   
+ DO L 285 de 31.10.2009, p. 10 . 
+ ( 2 )   Comunicación de la Comisión. Plan de trabajo sobre diseño ecológico 2016-2019, COM(2016) 773 final, de 30 de noviembre de 2016. 
+ ( 3 )   Reglamento (UE) n. o 1016/2010 de la Comisión, de 10 de noviembre de 2010, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo respecto de los requisitos de diseño ecológico aplicables a los lavavajillas domésticos ( DO L 293 de 11.11.2010, p. 31 ). 
+ ( 4 )   Reglamento Delegado (UE) n. o 1059/2010 de la Comisión, de 28 de septiembre de 2010, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de los lavavajillas domésticos ( DO L 314 de 30.11.2010, p. 1 ). 
+ ( 5 )   Comunicación de la Comisión al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones. «Cerrar el círculo: un plan de acción de la UE para la economía circular» [COM(2015) 614 final, de 2 de diciembre de 2015]. 
+ ( 6 )   COM(2016) 773 final de 30 de noviembre de 2016. 
+ ( 7 )   Directiva 2012/19/UE del Parlamento Europeo y del Consejo, de 4 de julio de 2012, sobre residuos de aparatos eléctricos y electrónicos (RAEE) ( DO L 197 de 24.7.2012, p. 38 ). 
+ ( 8 )   Directiva 2006/42/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, relativa a las máquinas y por la que se modifica la Directiva 95/16/CE ( DO L 157 de 9.6.2006, p. 24 ). 
+ ( 9 )   Reglamento (CE) n. o 1275/2008 de la Comisión, de 17 de diciembre de 2008, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo en lo concerniente a los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos «preparado» y «desactivado» de los equipos eléctricos y electrónicos domésticos y de oficina ( DO L 339 de 18.12.2008, p. 45 ). 
+ ( 10 )   Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea, por el que se modifican las Directivas 89/686/CEE y 93/15/CEE del Consejo y las Directivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE y 2009/105/CE del Parlamento Europeo y del Consejo y por el que se deroga la Decisión 87/95/CEE del Consejo y la Decisión n. o 1673/2006/CE del Parlamento Europeo y del Consejo ( DO L 316 de 14.11.2012, p. 12 ). 
+ ( 11 )   Reglamento Delegado (UE) 2019/2017 de la Comisión, de 1 de octubre de 2019, por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de los lavavajillas domésticos y se deroga el Reglamento Delegado (UE) n. o 1059/2010 de la Comisión (véase la página 134 del presente Diario Oficial). 
+ ( 12 )   Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo, de 4 de julio de 2017, por el que se establece un marco para el etiquetado energético y se deroga la Directiva 2010/30/UE ( DO L 198 de 28.7.2017, p. 1 ). 
+ ( 13 )   Directiva 2014/35/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de comercialización de material eléctrico destinado a utilizarse con determinados límites de tensión ( DO L 96 de 29.3.2014, p. 357 ). 
+ ( 14 )   Directiva 2014/53/UE del Parlamento Europeo y del Consejo, de 16 de abril de 2014, relativa a la armonización de las legislaciones de los Estados miembros sobre la comercialización de equipos radioeléctricos, y por la que se deroga la Directiva 1999/5/CE ( DO L 153 de 22.5.2014, p. 62 ). 
+ ANEXO I 
+ Definiciones aplicables a los anexos 
+ Se entenderá por: 
+ 1) 
+ «índice de Eficiencia Energética» (IEE): la relación entre el consumo de energía del programa eco y el consumo de energía del programa normal; 
+ 2) 
+ «consumo de energía del programa eco» (EPEC, eco programme energy consumption ): el consumo de energía de un lavavajillas doméstico con el programa eco, expresado en kilovatios-hora por ciclo; 
+ 3) 
+ «consumo de energía del programa normal» (SPEC, estándar programme energy consumption ): el consumo de energía tomado como referencia en función de la capacidad asignada, expresado en kilovatios-hora por ciclo; 
+ 4) 
+ «cubierto»: el conjunto de piezas de vajilla para el uso de una sola persona, excluidos los utensilios de servicio; 
+ 5) 
+ «utensilios de servicio»: los utensilios empleados para preparar y servir los alimentos, entre los que se pueden incluir cazuelas, fuentes, piezas de cubertería para servir y bandejas; 
+ 6) 
+ «capacidad asignada»: el número máximo de cubiertos, junto con los utensilios de servicio, que pueden lavarse, aclararse y secarse en un lavavajillas doméstico en un solo ciclo cuando el aparato se carga de acuerdo con las instrucciones del fabricante, importador o representante autorizado; 
+ 7) 
+ «índice de eficiencia del lavado» (I C ): la relación entre la eficiencia del lavado de un lavavajillas doméstico y la eficiencia del lavado de un lavavajillas doméstico de referencia; 
+ 8) 
+ «índice de eficiencia del secado» (I D ): la relación entre la eficiencia del secado de un lavavajillas doméstico y la eficiencia del secado de un lavavajillas doméstico de referencia; 
+ 9) 
+ «duración del programa» (T t ): el tiempo que transcurre desde el inicio del programa seleccionado, excluido el tiempo de aplazamiento del inicio que el usuario pueda programar, hasta que se indica el fin del programa y el usuario puede acceder a la carga; 
+ 10) 
+ «ciclo»: un proceso completo de lavado, aclarado y secado, según esté definido para el programa seleccionado, consistente en una serie de operaciones hasta que cesa toda actividad; 
+ 11) 
+ «modo desactivado»: el estado en que el lavavajillas doméstico se encuentra conectado a la red eléctrica, pero no se ofrece función alguna; también se considerarán modos desactivados los siguientes: 
+ a) 
+ los estados en que se ofrece solamente una indicación de modo desactivado; 
+ b) 
+ los estados en que solo se ofrecen las funciones previstas para garantizar la compatibilidad electromagnética con arreglo a la Directiva 2014/30/UE del Parlamento Europeo y del Consejo  ( 1 ) ; 
+ 12) 
+ «modo preparado»: un estado en que el lavavajillas doméstico está conectado a la red eléctrica y ofrece solo las siguientes funciones, que pueden persistir por tiempo indefinido: 
+ a) 
+ función de reactivación, o bien función de reactivación y una mera indicación de que la función de reactivación está habilitada, y/o 
+ b) 
+ función de reactivación mediante una conexión a una red, y/o 
+ c) 
+ visualización de información o del estado, y/o 
+ d) 
+ función de detección para medidas de emergencia; 
+ 13) 
+ «red»: una infraestructura de comunicación compuesta por una topología de enlaces, una arquitectura, incluidos los componentes físicos, principios de organización y procedimientos y formatos de comunicación (protocolos); 
+ 14) 
+ «inicio aplazado»: un estado en que el usuario ha seleccionado un determinado aplazamiento del inicio del ciclo del programa seleccionado; 
+ 15) 
+ «pieza de recambio»: una pieza independiente que puede sustituir a una pieza que cumple la misma función o una función similar en un producto; 
+ 16) 
+ «reparador profesional»: un agente o una empresa que ofrece servicios de reparación y mantenimiento profesional de lavavajillas domésticos; 
+ 17) 
+ «consumo de agua del programa eco» (EPWC, eco programme water consumption ): el consumo de agua de un lavavajillas doméstico con el programa eco, expresado en litros por ciclo; 
+ 18) 
+ «garantía»: todo compromiso por parte del minorista o el fabricante con el consumidor de: 
+ a) 
+ reembolsar el precio pagado, o 
+ b) 
+ sustituir, reparar o tratar de cualquier manera los lavavajillas domésticos que no cumplan las especificaciones establecidas en el documento de garantía o en la publicidad correspondiente. 
+ ( 1 )   Directiva 2014/30/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética ( DO L 96 de 29.3.2014, p. 79 ). 
+ ANEXO II 
+ Requisitos de diseño ecológico 
+ 1.   REQUISITOS DEL PROGRAMA 
+ A partir del 1 de marzo de 2021, los lavavajillas domésticos deberán proporcionar un programa eco que cumpla los requisitos siguientes: 
+ a) 
+ este programa: 
+ — 
+ se denominará «eco» en el dispositivo de selección de programas del lavavajillas doméstico en su panel de visualización, en caso de haberlo, así como en la aplicación de red correspondiente, en caso de haberla; 
+ — 
+ estará establecido como el programa por defecto en el caso de los lavavajillas domésticos equipados con una selección automática del programa o con alguna función que mantenga la selección de un programa, o, si no hay selección automática del programa, estará disponible para su selección directa sin necesidad de ninguna otra selección, como la de una temperatura o una carga específicas; 
+ b) 
+ la denominación «eco» se utilizará exclusivamente para este programa; no se restringe el formato de escritura de la denominación «eco» en cuanto al tipo o el tamaño de letra, el uso de mayúsculas o minúsculas, o el color; la única información adicional que se podrá combinar con el término «eco» es la temperatura del programa eco; 
+ c) 
+ en las denominaciones de los programas del lavavajillas doméstico no se emplearán los términos «normal», «diario», «habitual» o «estándar», ni sus traducciones a ninguna de las lenguas oficiales de la UE, ya sea de forma independiente o sea en combinación con otra información. 
+ 2.   REQUISITOS DE EFICIENCIA ENERGÉTICA 
+ A partir del 1 de marzo de 2021, los lavavajillas domésticos deberán cumplir el requisito siguiente: 
+ a) 
+ El Índice de Eficiencia Energética (IEE) será inferior a 63. 
+ A partir del 1 de marzo de 2024, los lavavajillas domésticos deberán cumplir el requisito siguiente: 
+ b) 
+ El IEE será inferior a 56 para los lavavajillas domésticos con una capacidad asignada igual o inferior a diez cubiertos. 
+ El IEE se calculará de conformidad con el anexo III. 
+ 3.   REQUISITOS FUNCIONALES 
+ A partir del 1 de marzo de 2021, los lavavajillas domésticos deberán cumplir los requisitos siguientes: 
+ a) 
+ El índice de eficiencia del lavado (I C ) será superior a 1,12. 
+ b) 
+ El índice de eficiencia del secado (I D ) será superior a 1,06 en los lavavajillas domésticos con una capacidad asignada superior a siete cubiertos. 
+ c) 
+ El índice de eficiencia del secado (I D ) será superior a 0,86 en los lavavajillas domésticos con una capacidad asignada inferior o igual a siete cubiertos. 
+ I C e I D se calcularán de conformidad con el anexo III. 
+ 4.   MODOS DE BAJO CONSUMO 
+ A partir del 1 de marzo de 2021, los lavavajillas domésticos deberán cumplir los requisitos siguientes: 
+ a) 
+ los lavavajillas domésticos contarán con un modo desactivado o un modo preparado, o ambos; el consumo eléctrico en cualquiera de estos modos no excederá de 0,50 W; 
+ b) 
+ si el modo preparado incluye la visualización de información o del estado, el consumo eléctrico en este modo no excederá de 1,00 W; 
+ c) 
+ si el modo preparado ofrece una conexión a una red y ofrece un modo preparado en red, según se define en el Reglamento (UE) n. o 801/2013 de la Comisión  ( 1 ) , el consumo eléctrico en dicho modo no excederá de 2,00 W; 
+ d) 
+ a más tardar 15 minutos después de que se haya conectado el lavavajillas doméstico al final (o después del final) de un programa y de las actividades asociadas o después de cualquier interacción con el equipo, si no se activa ningún otro modo, incluidas las medidas de emergencia, el equipo pasará automáticamente al modo desactivado o al preparado; 
+ e) 
+ si el lavavajillas doméstico permite un inicio aplazado, el consumo de energía en esta situación, incluido cualquier modo de espera, no excederá de 4,00 W; el usuario no podrá programar el aplazamiento del inicio durante más de 24 horas; 
+ f) 
+ todo lavavajillas doméstico que pueda conectarse a una red deberá ofrecer la posibilidad de activar y desactivar la conexión de red; la conexión de red estará desactivada por defecto. 
+ 5.   REQUISITOS DE EFICIENCIA EN EL USO DE LOS RECURSOS 
+ A partir del 1 de marzo de 2021, los lavavajillas domésticos deberán cumplir los requisitos siguientes: 
+ 1) 
+ disponibilidad de piezas de recambio: 
+ a) 
+ los fabricantes, importadores o representantes autorizados de lavavajillas domésticos pondrán a disposición de los reparadores profesionales al menos las piezas de recambio siguientes, durante un período mínimo de siete años tras la introducción de la última unidad del modelo en el mercado: 
+ — 
+ motor, 
+ — 
+ bomba de circulación y de desagüe, 
+ — 
+ calentadores y elementos calefactores, incluidas las bombas de calor (de forma separada o agrupada); 
+ — 
+ tubos y elementos relacionados, incluidas todas las mangueras, válvulas, filtros y aquastops ; 
+ — 
+ partes estructurales e interiores relacionadas con los conjuntos de puertas (de forma separada o agrupada); 
+ — 
+ placas de circuito impreso; 
+ — 
+ indicadores visuales electrónicos; 
+ — 
+ interruptores de presión; 
+ — 
+ termostatos y sensores; 
+ — 
+ software y firmware , incluido el software de reinicio; 
+ b) 
+ los fabricantes, importadores o representantes autorizados de lavavajillas domésticos pondrán a disposición de los reparadores profesionales y de los usuarios finales, como mínimo, las siguientes piezas de recambio: bisagras y juntas de estanqueidad de las puertas, otras juntas de estanqueidad, brazos de pulverización, filtros de desagüe, soportes interiores y complementos periféricos de plástico, como cestas y tapas, durante un período mínimo de diez años tras la introducción de la última unidad del modelo en el mercado; 
+ c) 
+ los fabricantes, importadores o representantes autorizados de lavavajillas domésticos velarán por que las piezas de recambio mencionadas en las letras a) y b) puedan sustituirse utilizando herramientas corrientes y sin daño permanente para el aparato; 
+ d) 
+ la lista de piezas de recambio a que se refiere la letra a) y el procedimiento para encargarlas se pondrán a disposición del público en el sitio web de libre acceso del fabricante, importador o representante autorizado, a más tardar dos años después de la introducción en el mercado de la primera unidad de un modelo y hasta el final del período de disponibilidad de estas piezas de recambio; 
+ e) 
+ la lista de piezas de recambio a que se refiere la letra b) y el procedimiento para encargarlas, así como las instrucciones de reparación, se pondrán a disposición del público en el sitio web de libre acceso del fabricante, importador o representante autorizado, cuando se introduzca en el mercado la primera unidad de un modelo y hasta el final del período de disponibilidad de estas piezas de recambio; 
+ 2) 
+ plazo máximo para la entrega de piezas de recambio: 
+ a) 
+ durante el período mencionado en el punto 1, el fabricante, importador o representante autorizado velará por la entrega de las piezas de recambio en el plazo de 15 días laborables tras la recepción del pedido; 
+ b) 
+ en el caso de las piezas de recambio a que se refiere el punto 1, letra a), su disponibilidad podrá limitarse a los reparadores profesionales registrados de conformidad con el punto 3, letras a) y b); 
+ 3) 
+ acceso a la información sobre reparación y mantenimiento: 
+ transcurridos dos años desde la introducción en el mercado de la primera unidad de un modelo, y hasta el final del período mencionado en el punto 1, el fabricante, importador o representante autorizado concederá a los reparadores profesionales acceso a la información sobre la reparación y el mantenimiento de sus aparatos en las condiciones que se describen a continuación: 
+ a) 
+ el sitio web del fabricante, importador o representante autorizado indicará el proceso que deben seguir los reparadores profesionales para registrarse a fin de acceder a la información; para aceptar la solicitud de acceso, los fabricantes, importadores o representantes autorizados podrán exigir al reparador profesional que demuestre que: 
+ i) 
+ tiene la competencia técnica para reparar lavavajillas domésticos y cumple la normativa aplicable a los reparadores de equipos eléctricos en los Estados miembros en los que ejerza su actividad; a tal efecto, se aceptará como prueba la referencia a un sistema de registro oficial en calidad de reparador profesional, en caso de existir tal sistema en los Estados miembros de que se trate; 
+ ii) 
+ tiene un seguro que cubre las responsabilidades derivadas de su actividad, independientemente de si esto es requerido por el Estado miembro; 
+ b) 
+ los fabricantes, importadores o representantes autorizados aceptarán o rechazarán la inscripción en el registro en el plazo de 5 días hábiles a partir de la fecha de la solicitud; 
+ c) 
+ los fabricantes, importadores o representantes autorizados podrán imponer cánones razonables y proporcionados para acceder a la información sobre reparación y mantenimiento o recibir actualizaciones periódicas; se entiende por canon razonable aquel que no desincentiva el acceso a la información por no tener en cuenta la medida en que el reparador profesional utiliza esa información; 
+ una vez registrado, el reparador profesional tendrá acceso, en el plazo de un día laborable después de su solicitud, a la información solicitada sobre la reparación y el mantenimiento; si procede, podrá proporcionarse la información relativa a un modelo equivalente o a un modelo de la misma familia; 
+ la información disponible sobre reparación y mantenimiento incluirá lo siguiente: 
+ — 
+ identificación inequívoca del aparato; 
+ — 
+ esquema de desmontaje o vista explosionada; 
+ — 
+ lista del equipo necesario para la reparación y el ensayo, 
+ — 
+ información sobre componentes y diagnóstico (por ejemplo, valores teóricos mínimos y máximos para las mediciones); 
+ — 
+ esquemas de cableado y conexiones; 
+ — 
+ códigos de error y avería para el diagnóstico (incluidos, en su caso, los códigos específicos del fabricante); 
+ — 
+ instrucciones para la instalación del software y el firmware pertinentes, incluidos los programas de reinicio, e 
+ — 
+ información sobre cómo acceder a los registros de averías notificadas que estén almacenados en el lavavajillas doméstico (en su caso); 
+ 4) 
+ requisitos de información aplicables a los gases refrigerantes: 
+ sin perjuicio de lo dispuesto en el Reglamento (UE) n. o 517/2014 del Parlamento Europeo y del Consejo  ( 2 ) , en el caso de los lavavajillas domésticos equipados con una bomba de calor, el nombre químico del gas refrigerante utilizado, o una referencia equivalente, como un símbolo, una etiqueta o un logotipo comúnmente utilizados y comprendidos, se exhibirá de forma permanente, visible y legible en el exterior del aparato, por ejemplo en el panel trasero; podrá usarse más de una referencia para el mismo nombre químico; 
+ 5) 
+ requisitos aplicables al desarmado con fines de valorización y reciclado de materiales al mismo tiempo que se evita la contaminación: 
+ — 
+ los fabricantes, importadores o representantes autorizados velarán por que los lavavajillas domésticos estén diseñados de manera tal que se puedan extraer de ellos los materiales y componentes a que se refiere el anexo VII de la Directiva 2012/19/UE utilizando herramientas corrientes; 
+ — 
+ los fabricantes, importadores o representantes autorizados cumplirán las obligaciones establecidas en el artículo 15, apartado 1, de la Directiva 2012/19/UE. 
+ 6.   REQUISITOS DE INFORMACIÓN 
+ Las instrucciones para el usuario y para el instalador se proporcionarán en forma de manual del usuario en un sitio web de libre acceso del fabricante, importador o representante autorizado, e incluirán: 
+ 1) 
+ información sobre el hecho de que el programa eco es apropiado para lavar la vajilla de suciedad normal; que, para ese uso, es el programa más eficiente en cuanto a consumo combinado de energía y agua; y que es el programa usado para evaluar la conformidad con la normativa de la UE en materia de diseño ecológico; 
+ 2) 
+ información sobre el hecho de que cargar el lavavajillas doméstico hasta el máximo de la capacidad indicada por el fabricante contribuirá al ahorro de energía y agua, así como información sobre la forma de cargar correctamente la vajilla y las principales consecuencias de hacerlo de manera incorrecta; 
+ 3) 
+ información sobre el hecho de que enjuagar previamente la vajilla conlleva un mayor consumo de energía y agua y no se recomienda hacerlo; 
+ 4) 
+ información sobre el hecho de que normalmente el lavavajillas doméstico, en su fase de uso, consume menos energía y agua que si el lavado de la vajilla se hace a mano, siempre y cuando el lavavajillas doméstico se utilice de acuerdo con las instrucciones del fabricante; 
+ 5) 
+ valores sobre la duración y el consumo de energía y agua de todos los programas que ofrezcan un ciclo; 
+ 6) 
+ información que señale que los valores dados respecto a los programas distintos del programa eco son solo indicativos, y 
+ 7) 
+ instrucciones sobre cómo encontrar la información sobre el modelo almacenada en la base de datos de los productos, con arreglo a lo establecido en el Reglamento (UE) 2019/2017, con un enlace que dirija a la información sobre el modelo almacenada en la base de datos o un enlace a la base de datos de los productos e información sobre cómo encontrar el identificador del modelo en el propio producto. 
+ Las instrucciones de uso también incluirán instrucciones para que el usuario realice las operaciones de mantenimiento. En dichas instrucciones se explicará, al menos, cómo hacer lo siguiente: 
+ 8) 
+ instalación correcta (por ejemplo, nivelación del aparato, conexión a la red eléctrica o conexión a la toma de agua, fría o caliente según corresponda); 
+ 9) 
+ uso correcto del detergente, la sal y otros aditivos, así como principales consecuencias de una dosificación incorrecta; 
+ 10) 
+ extracción de objetos extraños del lavavajillas doméstico; 
+ 11) 
+ limpieza periódica, incluida la frecuencia óptima, y prevención del depósito de cal, y procedimiento; 
+ 12) 
+ comprobación periódica de los filtros, incluida la frecuencia óptima, y procedimiento; 
+ 13) 
+ identificación de errores, significado de estos y acción requerida, y en particular identificación de errores que requieran la intervención de un profesional; 
+ 14) 
+ contacto con un reparador profesional (sitios web, direcciones y datos de contacto). 
+ Dichas instrucciones incluirán también información sobre: 
+ 15) 
+ las posibles consecuencias de la autorreparación o de la reparación no profesional para la seguridad del usuario final y para la garantía; 
+ 16) 
+ el período mínimo durante el cual se pueden conseguir piezas de recambio para el lavavajillas doméstico. 
+ ( 1 )   Reglamento (UE) n. o 801/2013 de la Comisión, de 22 de agosto de 2013, por el que se modifica el Reglamento (CE) n. o 1275/2008 en lo relativo a los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos preparado y desactivado de los equipos eléctricos y electrónicos domésticos y de oficina, y por el que se modifica el Reglamento (CE) n. o 642/2009 con respecto a los requisitos de diseño ecológico aplicables a las televisiones ( DO L 225 de 23.8.2013, p. 1 ). 
+ ( 2 )   Reglamento (UE) n. o 517/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, sobre los gases fluorados de efecto invernadero y por el que se deroga el Reglamento (CE) n. o 842/2006 ( DO L 150 de 20.5.2014, p. 195 ). 
+ ANEXO III 
+ Métodos de medición y cálculos 
+ Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, las mediciones y los cálculos se harán utilizando normas armonizadas cuyos números de referencia hayan sido publicados a este efecto en el Diario Oficial de la Unión Europea , u otros métodos fiables, exactos y reproducibles, que tengan en cuenta los métodos más avanzados generalmente aceptados, y en sintonía con las disposiciones que se indican a continuación. 
+ El programa eco a la capacidad asignada se utilizará para la medición y el cálculo del Índice de Eficiencia Energética (IEE), el consumo de agua, la duración del programa, la eficiencia del lavado y del secado y el ruido acústico aéreo emitido de un modelo de lavavajillas doméstico. El consumo de energía, el consumo de agua, la duración del programa, y la eficiencia del lavado y del secado se medirán de forma simultánea. 
+ El consumo de agua del programa eco (EPWC) se expresa en litros por ciclo y redondeado al primer decimal. 
+ La duración del programa eco (T t ) se expresa en horas y minutos y se redondea con precisión de un minuto. 
+ 1.   ÍNDICE DE EFICIENCIA ENERGÉTICA 
+ A efectos del cálculo del IEE de un modelo de lavavajillas doméstico, el consumo de energía del programa eco («EPEC») del lavavajillas doméstico se compara con el consumo de energía del programa normal («SPEC»). 
+ a) 
+ El IEE se calcula mediante la siguiente fórmula y se redondea al primer decimal: 
+ IEE = (EPEC/SPEC) × 100 
+ donde: 
+ EPEC es el consumo energético del programa eco del lavavajillas doméstico, medido en kWh/ciclo y redondeado al tercer decimal; 
+ SPEC es el consumo de energía del programa normal del lavavajillas doméstico. 
+ b) 
+ El SPEC se calcula en kWh/ciclo y se redondea al tercer decimal como se indica a continuación: 
+ i) 
+ en caso de lavavajillas domésticos con una capacidad asignada igual o superior a diez cubiertos y una anchura superior a 50 cm: 
+ SPEC = 0,025 × capacidad asignada + 1,350
+ ii) 
+ en caso de lavavajillas domésticos con una capacidad asignada igual o inferior a nueve cubiertos y una anchura igual o inferior a 50 cm: 
+ SPEC = 0,090 × capacidad asignada + 0,450
+ donde «capacidad asignada» es el número de cubiertos. 
+ 2.   ÍNDICE DE EFICIENCIA DEL LAVADO 
+ Para calcular el índice de eficiencia del lavado («I C 
+ ») de un modelo de lavavajillas doméstico, se compara la eficiencia del lavado del programa eco con la eficiencia del lavado de un lavavajillas de referencia. 
+ I C se calcula mediante la siguiente fórmula y se redondea al segundo decimal: 
+ I C = exp (ln I C ) 
+ y 
+ donde: 
+ «C T,i 
+ » es la eficiencia del lavado del programa eco del lavavajillas doméstico sometido a ensayo en una tanda de ensayo (i), redondeada al segundo decimal; 
+ «C R,i 
+ » es la eficiencia de lavado del lavavajillas de referencia en una tanda de ensayo (i), redondeada al segundo decimal; 
+ «n» es el número de tandas de ensayo. 
+ 3.   ÍNDICE DE EFICIENCIA DEL SECADO 
+ Para calcular el índice de eficiencia del secado («I D 
+ ») de un modelo de lavavajillas doméstico, se compara la eficiencia del secado del programa eco con la eficiencia del secado del lavavajillas de referencia. 
+ I D se calcula mediante la siguiente fórmula y se redondea al segundo decimal: 
+ I D = exp (ln I D ) 
+ y 
+ donde: 
+ «I D,i 
+ » es el índice de eficiencia del secado del programa eco del lavavajillas doméstico sometido a ensayo en una tanda de ensayo (i), 
+ «n» es el número de tandas de ensayo de lavado y secado combinados. 
+ «I D,i 
+ » se calcula mediante la siguiente fórmula y se redondea al segundo decimal: 
+ ln I D,i 
+ = ln (D T,i /D R,t ) 
+ donde: 
+ «D T,i 
+ » es la puntuación media de la eficiencia del secado del programa eco del lavavajillas doméstico sometido a ensayo en una tanda de ensayo (i), redondeada al segundo decimal, 
+ «D R,t 
+ » es la puntuación objetivo de la eficiencia del secado del lavavajillas de referencia, redondeada al segundo decimal. 
+ 4.   MODOS DE BAJO CONSUMO 
+ Se mide el consumo de energía del modo desactivado (P o ), del modo preparado (P sm ) y, en su caso, del estado de inicio aplazado (P ds ). Los valores medidos se expresarán en W y se redondearán al segundo decimal. 
+ Durante las mediciones del consumo eléctrico en modos de bajo consumo se comprobará y registrará lo siguiente: 
+ — 
+ la visualización o no de información; 
+ — 
+ la activación o no de una conexión de red. 
+ ANEXO IV 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Las tolerancias de verificación definidas en el presente anexo se refieren únicamente a la verificación de los parámetros declarados por las autoridades de los Estados miembros y no serán utilizadas por los fabricantes, importadores o representantes autorizados a modo de tolerancia permitida para establecer los valores recogidos en la documentación técnica o para interpretar esos valores con miras a lograr la conformidad o comunicar un mejor comportamiento por cualquier medio. 
+ En caso de que un modelo haya sido diseñado para que pueda detectar que está siendo objeto de ensayo (por ejemplo, reconociendo las condiciones de ensayo o el ciclo de ensayo) y reaccionar específicamente con una alteración automática de su comportamiento durante el ensayo con el objetivo de alcanzar un nivel más favorable de cualquiera de los parámetros especificados en el presente Reglamento o incluidos en la documentación técnica o en cualquiera de los documentos facilitados, se considerará que el modelo y todos los modelos equivalentes no son conformes. 
+ Al verificar la conformidad de un modelo de producto con los requisitos establecidos en el presente Reglamento conforme al artículo 3, apartado 2, de la Directiva 2009/125/CE, por lo que respecta a los requisitos recogidos en el presente anexo, las autoridades de los Estados miembros aplicarán el siguiente procedimiento: 
+ 1) 
+ las autoridades del Estado miembro de que se trate someterán a verificación una sola unidad del modelo; 
+ 2) 
+ se considerará que el modelo cumple los requisitos aplicables si: 
+ a) 
+ los valores indicados en la documentación técnica con arreglo al punto 2 del anexo IV de la Directiva 2009/125/CE (valores declarados), así como, en su caso, los valores utilizados para calcular dichos valores, no son más favorables para el fabricante, el importador o el representante autorizado que los resultados de las correspondientes mediciones realizadas con arreglo a la letra g) de dicho punto, y 
+ b) 
+ los valores declarados cumplen todos los requisitos establecidos en el presente Reglamento, y ninguna información exigida sobre el producto publicada por el fabricante, el importador o el representante autorizado contiene valores más favorables para el fabricante, el importador o el representante autorizado que los valores declarados, y 
+ c) 
+ las autoridades de los Estados miembros, cuando comprueban la unidad del modelo, observan que el fabricante, importador o representante autorizado ha establecido un sistema que cumple los requisitos del artículo 6, párrafo segundo, y 
+ d) 
+ las autoridades de los Estados miembros, cuando comprueban la unidad del modelo, observan que cumple los requisitos del programa del punto 1, los requisitos de eficiencia en el uso de los recursos del punto 5 y los requisitos de información del punto 6 del anexo II, y 
+ e) 
+ si, cuando las autoridades de los Estados miembros someten a ensayo la unidad del modelo, los valores determinados (los valores de los parámetros pertinentes medidos en ensayos y los valores calculados a partir de esas mediciones) se ajustan a las tolerancias de verificación respectivas indicadas en el cuadro 1; 
+ 3) 
+ si no se alcanzan los resultados contemplados en el punto 2, letras a), b), c) o d), se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento; 
+ 4) 
+ si no se alcanza el resultado contemplado en el punto 2, letra e), las autoridades de los Estados miembros seleccionarán tres unidades adicionales del mismo modelo para ensayo; como alternativa, esas tres unidades adicionales seleccionadas podrán pertenecer a uno o varios modelos equivalentes; 
+ 5) 
+ se considerará que el modelo cumple los requisitos aplicables si, respecto de las tres unidades, la media aritmética de los valores determinados se ajusta a las tolerancias de verificación correspondientes que figuran en el cuadro 1; 
+ 6) 
+ si no se alcanza el resultado indicado en el punto 5, se considerará que el modelo y todos los modelos equivalentes no son conformes con el presente Reglamento; 
+ 7) 
+ las autoridades de los Estados miembros proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión inmediatamente después de que se adopte una decisión sobre la no conformidad del modelo con arreglo a los puntos 3 o 6. 
+ Las autoridades de los Estados miembros utilizarán los métodos de medición y cálculo establecidos en el anexo III. 
+ Las autoridades de los Estados miembros solo aplicarán las tolerancias de verificación que se indican en el cuadro 1 y solo utilizarán el procedimiento descrito en los puntos 1) a 7) a efectos de los requisitos mencionados en el presente anexo. Con respecto a los parámetros del cuadro 1 no se aplicarán otras tolerancias, como las establecidas en normas armonizadas o en cualquier otro método de medición. 
+ Cuadro 1 
+ Tolerancias de verificación 
+ Parámetro 
+ Tolerancias de verificación 
+ Consumo de energía del programa eco (EPEC) 
+ El valor determinado  ( *1 ) no superará el valor declarado de EPEC en más del 5 %. 
+ Consumo de agua del programa eco (EPWC) 
+ El valor determinado  ( *1 ) no superará el valor declarado de EPWC en más del 5 %. 
+ Índice de eficiencia del lavado (I C ) 
+ El valor determinado  ( *1 ) no será inferior al valor declarado de I C en más del 14 %. 
+ Índice de eficiencia del secado (I D ) 
+ El valor determinado  ( *1 ) no será inferior al valor declarado de I D en más del 12 %. 
+ Duración del programa (T t ) 
+ El valor determinado  ( *1 ) no superará el valor declarado en más del 5 % o 10 minutos, si este valor es mayor. 
+ Consumo eléctrico en modo apagado (P o ) 
+ El valor determinado  ( *1 ) del consumo eléctrico P o no superará el valor declarado en más de 0,10 W. 
+ Consumo eléctrico en modo preparado (P sm ) 
+ El valor determinado  ( *1 ) del consumo eléctrico P sm no superará el valor declarado en más del 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Consumo eléctrico en inicio aplazado (P ds ) 
+ El valor determinado  ( *1 ) del consumo eléctrico P ds no superará el valor declarado en más del 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ ( *1 )   En el caso de las tres unidades adicionales sometidas a ensayo conforme a lo dispuesto en el punto 4, por «valor determinado» se entenderá la media aritmética de los valores determinados con estas tres unidades adicionales. 
+ ANEXO V 
+ Valores de referencia 
+ 1.   VALORES DE REFERENCIA INDICATIVOS PARA LOS LAVAVAJILLAS DOMÉSTICOS EN RELACIÓN CON EL CONSUMO DE AGUA Y ENERGÍA, EL RUIDO ACÚSTICO AÉREO EMITIDO Y LA DURACIÓN DEL PROGRAMA 
+ En el momento de la entrada en vigor del presente Reglamento, se establece que la mejor tecnología disponible en el mercado para los lavavajillas domésticos, en cuanto a su eficiencia energética, consumo de energía y de agua, ruido acústico aéreo emitido y duración del programa, ofrece los siguientes resultados: 
+ 1) 
+ lavavajillas domésticos para catorce cubiertos (sin tecnología de bomba de calor): 
+ a) 
+ consumo de energía: 0,67 kWh/ciclo; 
+ b) 
+ consumo de agua: 9,9 l/ciclo; 
+ c) 
+ ruido acústico aéreo emitido: 44 dB(A); 
+ d) 
+ duración del programa: 222 minutos (3 horas y 42 minutos); 
+ 2) 
+ lavavajillas domésticos para trece cubiertos (con tecnología de bomba de calor): 
+ a) 
+ consumo de energía: 0,55 kWh/ciclo; 
+ b) 
+ consumo de agua: 8,8 l/ciclo; 
+ c) 
+ ruido acústico aéreo emitido: 46 dB(A); 
+ d) 
+ duración del programa: 295 minutos (4 horas y 55 minutos); 
+ 3) 
+ lavavajillas domésticos para diez cubiertos: 
+ a) 
+ consumo de energía: 0,66 kWh/ciclo; 
+ b) 
+ consumo de agua: 9,5 l/ciclo; 
+ c) 
+ ruido acústico aéreo emitido: 44 dB(A); 
+ d) 
+ duración del programa: 195 minutos (3 horas y 15 minutos); 
+ 4) 
+ lavavajillas domésticos para seis cubiertos: 
+ a) 
+ consumo de energía: 0,62 kWh/ciclo; 
+ b) 
+ consumo de agua: 8,0 l/ciclo; 
+ c) 
+ ruido acústico aéreo emitido: 48 dB(A); 
+ d) 
+ duración del programa: 225 minutos (3 horas y 45 minutos). 
+ 2.   VALORES DE REFERENCIA INDICATIVOS PARA LOS LAVAVAJILLAS DOMÉSTICOS EN RELACIÓN CON EL CONSUMO ELÉCTRICO EN MODOS DE BAJO CONSUMO 
+ En el momento de la entrada en vigor del presente Reglamento, la mejor tecnología disponible en el mercado para los lavavajillas domésticos en cuanto al consumo eléctrico en modos de bajo consumo ofrece los siguientes resultados: 
+ 1) 
+ modo de espera: 0,20 W; 
+ 2) 
+ modo preparado en red: Ethernet 0,60 W, wifi 0,70 W. 
+ 

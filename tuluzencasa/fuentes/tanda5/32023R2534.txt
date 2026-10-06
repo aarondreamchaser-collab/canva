@@ -1,0 +1,1023 @@
+ 
+ L_202302534ES.000101.fmx.xml 
+ Diario Oficial de la Unión Europea 
+ ES 
+ Serie L 
+ 2023/2534 
+ 22.11.2023 
+ REGLAMENTO DELEGADO (UE) 2023/2534 DE LA COMISIÓN
+ de 13 de julio de 2023
+ por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las secadoras de tambor domésticas y se deroga el Reglamento Delegado (UE) n. o  392/2012 de la Comisión 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Visto el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo, de 4 de julio de 2017, por el que se establece un marco para el etiquetado energético y se deroga la Directiva 2010/30/UE  ( 1 ) , y en particular su artículo 16, apartado 1, 
+ Considerando lo siguiente: 
+ (1) 
+ El plan de trabajo sobre diseño ecológico 2016-2019  ( 2 ) , elaborado por la Comisión, establece las prioridades de trabajo en el marco del diseño ecológico y el etiquetado energético para el período 2016-2019. El Plan de Trabajo define los grupos de productos relacionados con la energía establecidos como prioridades para los estudios preparatorios y, en caso necesario, para la adopción de medidas de ejecución. Las secadoras de tambor domésticas están incluidas en dichos grupos. Además, las secadoras de tambor domésticas pertenecen a los tres grupos principales que se someterán a revisión antes de finales de 2025 en el marco del Plan de Trabajo sobre Diseño Ecológico y Etiquetado Energético 2022-2024  ( 3 ) . 
+ (2) 
+ Las medidas previstas en el Plan de Trabajo sobre Diseño Ecológico y Etiquetado Energético 2022-2024 tienen un potencial estimado de generar, en 2030, un ahorro anual de energía final total de más de 170 TWh, lo que equivale a reducir las emisiones de gases de efecto invernadero en aproximadamente 24 millones de toneladas anuales en 2030. En el caso de las secadoras de tambor domésticas, podría lograrse un ahorro de electricidad de 0,6 TWh/año de aquí a 2030 y de 1,7 TWh/año para 2040. 
+ (3) 
+ La Comisión estableció disposiciones sobre el etiquetado energético de las secadoras de tambor domésticas en el Reglamento Delegado (UE) n. o  392/2012  ( 4 ) . 
+ (4) 
+ Las secadoras de tambor domésticas constituyen uno de los grupos de productos contemplados en el artículo 11, apartado 4, del Reglamento (UE) 2017/1369 para los que la Comisión debe adoptar un acto delegado a fin de introducir una etiqueta reescalada de A a G, que se expondrá en las tiendas y en línea dieciocho meses después de la fecha de entrada en vigor del acto delegado. 
+ (5) 
+ El artículo 7 del Reglamento Delegado (UE) n. o  392/2012 exige a la Comisión que revise dicho Reglamento Delegado a la luz del progreso técnico. La Comisión ha llevado a cabo la revisión y ha analizado los aspectos técnicos, medioambientales y económicos de las secadoras de tambor, así como el comportamiento de los usuarios en la vida real. Esta revisión se ha realizado en estrecha cooperación con las partes interesadas de la Unión y terceros países. Los resultados de la revisión se hicieron públicos y se presentaron al foro consultivo establecido de conformidad con el artículo 14 del Reglamento (UE) 2017/1369. 
+ (6) 
+ La revisión concluyó que era necesario modificar los requisitos de etiquetado energético aplicables a las secadoras de tambor domésticas. 
+ (7) 
+ Los aspectos medioambientales de las secadoras de tambor domésticas que se consideran significativos a los efectos del presente Reglamento son el consumo de energía en la fase de uso, la generación de residuos al final de la vida útil y las emisiones a la atmósfera en la fase de producción (debido a la extracción y transformación de las materias primas) y en la fase de utilización (por el consumo de electricidad). 
+ (8) 
+ La revisión concluye que el consumo de electricidad de las secadoras de tambor domésticas puede reducirse aún más aplicando medidas de etiquetado energético que se centren en una mejor diferenciación de los productos. Esto incentivará a los proveedores a seguir mejorando la eficiencia en el uso de la energía y los recursos de las secadoras de tambor domésticas. 
+ (9) 
+ El etiquetado energético de las secadoras de tambor domésticas permite a los consumidores elegir con criterio optando por aparatos más eficientes en el uso de recursos y energía. La comprensión y la pertinencia de la información facilitada en la etiqueta han sido confirmadas en una encuesta específica entre los consumidores, con arreglo al artículo 14, apartado 2, del Reglamento (UE) 2017/1369. 
+ (10) 
+ El Plan de Acción de la UE para la Economía Circular  ( 5 ) y el Plan de Trabajo sobre Diseño Ecológico y Etiquetado Energético 2022-2024 subrayan la importancia de utilizar el marco de diseño ecológico y etiquetado energético para apoyar la transición hacia una economía más eficiente en el uso de los recursos y circular. 
+ (11) 
+ La revisión constató que la vida útil de las secadoras de tambor domésticas ha disminuido de catorce años a unos doce años, y que es probable que esta tendencia continúe si no existen incentivos para mantener y reparar adecuadamente las secadoras de tambor domésticas. Una puntuación de reparabilidad que informe al usuario sobre la facilidad de reparar una secadora de tambor doméstica podría ser un medio para reducir el uso de materiales y la eliminación de residuos, ya que aumentaría el interés del consumidor en la posibilidad de reparar su secadora de tambor en lugar de desecharla e influiría en el diseño del producto. Además, una puntuación de reparabilidad aplicable en la Unión podría impedir la proliferación de sistemas nacionales, que podría socavar el mercado interior. Por lo tanto, la Comisión debe analizar las posibilidades de una puntuación de reparabilidad. 
+ (12) 
+ Las secadoras domésticas con más de un tambor presentan las mismas características básicas que las secadoras de tambor domésticas estándar y, por tanto, deben incluirse en el ámbito de aplicación del presente Reglamento. 
+ (13) 
+ Las secadoras de tambor domésticas encastrables están revestidas de paneles que retienen el calor producido en el interior de la secadora de tambor, lo que da lugar a una mayor eficiencia energética. Debe mejorarse la definición de secadora de tambor doméstica encastrable para distinguirlas de otras secadoras de tambor domésticas que simplemente están colocadas debajo de un panel pero que no están revestidas de paneles y, por lo tanto, no cuentan con ese medio adicional de retención del calor. 
+ (14) 
+ Las secadoras de tambor domésticas expuestas en ferias comerciales tienen que llevar etiqueta energética si ya se ha introducido en el mercado la primera unidad del modelo, o si se introduce en el mercado en la propia feria. 
+ (15) 
+ Las secadoras de tambor que funcionan con baterías y que también pueden conectarse a la red eléctrica a través de un transformador CA/CC adquirido por separado se instalan normalmente en entornos móviles, como las autocaravanas, y no están destinadas a ser utilizadas en hogares. Por lo tanto, estas secadoras de tambor deben quedar excluidas del ámbito de aplicación de los requisitos sobre etiquetado energético. 
+ (16) 
+ El mercado de la Unión es ahora eléctrico y las secadoras de tambor alimentadas con gas son cada vez menos comunes. Por consiguiente, la etiqueta energética puede simplificarse eliminando el icono que representa la fuente de energía que alimenta la secadora de tambor doméstica. 
+ (17) 
+ La revisión indica que la gran mayoría de las secadoras de tambor domésticas presentan unas eficiencias de condensación superiores al 80 %. Por lo tanto, puede reducirse el número de clases de eficiencia de la condensación en la etiqueta y pueden aumentarse sus umbrales para reflejar más adecuadamente la mejora general del mercado en términos de eficiencia de la condensación. 
+ (18) 
+ La etiqueta energética con arreglo al Reglamento Delegado (UE) n. o  392/2012 muestra el ruido acústico aéreo emitido por las secadoras de tambor domésticas en dB(A), pero no se han definido clases de ruido. Así pues, se presenta al usuario un valor absoluto sin indicación de la calidad de dicho valor. Las clases de ruido emitido ya se han incluido en las etiquetas de lavadoras, lavavajillas y frigoríficos. Procede, por tanto, definir dichas clases e incluirlas en las etiquetas de las secadoras de tambor domésticas. 
+ (19) 
+ Los parámetros pertinentes de los productos deben medirse con métodos fiables, exactos y reproducibles. Estos métodos deben tener en cuenta los métodos de medición más avanzados reconocidos, incluidas, en su caso, las normas armonizadas adoptadas por los organismos europeos de normalización que figuran en el anexo I del Reglamento (UE) n. o  1025/2012 del Parlamento Europeo y del Consejo  ( 6 ) . 
+ (20) 
+ Reconociendo el crecimiento de las ventas de productos relacionados con la energía a través de prestadores de plataformas en línea, tal como se definen en el Reglamento (UE) 2022/2065 del Parlamento Europeo y del Consejo  ( 7 ) , en lugar de directamente de los sitios web de los proveedores, debe aclararse que dichos prestadores de plataformas en línea deben permitir a los comerciantes facilitar información sobre el etiquetado del producto en cuestión, de conformidad con el artículo 31, apartado 2, del Reglamento (UE) 2022/2065. En el contexto del presente Reglamento, debe entenderse que la «información relativa al etiquetado y marcado» a que se refiere el artículo 31, apartado 2, letra c), del Reglamento (UE) 2022/2065 abarca tanto la etiqueta energética como la ficha de información del producto. En consonancia con el artículo 6 del Reglamento (UE) 2022/2065, los prestadores de plataformas en línea no son responsables de los productos vendidos a través de sus interfaces, a condición de que no tengan conocimiento efectivo de la ilegalidad de dichos productos y de que, cuando tengan conocimiento de la ilegalidad de los productos, actúen con prontitud para eliminarlos de sus interfaces. Los distribuidores que vendan directamente a los usuarios finales a través de su propio sitio web están sujetos a las obligaciones de venta a distancia establecidas para los distribuidores en el artículo 5 del Reglamento (UE) 2017/1369. 
+ (21) 
+ El Reglamento Delegado (UE) 2023/807 de la Comisión  ( 8 ) establece un coeficiente de energía primaria para la electricidad de 1,9 (coeficiente de conversión), que debe aplicarse cuando el ahorro de energía se calcule en términos de energía primaria sobre la base del consumo de energía final. Este coeficiente de energía primaria debe aplicarse al comparar el consumo de energía de las secadoras de tambor eléctricas con el de las alimentadas con gas. 
+ (22) 
+ El procedimiento de verificación a efectos de vigilancia del mercado debe prever los casos en que los ensayos realizados con secadoras de tambor domésticas no alcancen el contenido de humedad final adecuado. 
+ (23) 
+ Procede derogar el Reglamento Delegado (UE) n. o  392/2012 con efecto a partir del 30 de junio de 2025. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece los requisitos aplicables al etiquetado de las secadoras de tambor domésticas alimentadas por la red eléctrica y por gas, así como los requisitos aplicables al suministro de información complementaria relativa a dichas secadoras de tambor domésticas. También es aplicable a las secadoras de tambor domésticas encastrables, a las secadoras domésticas con más de un tambor y a las secadoras de tambor domésticas alimentadas por la red eléctrica que también pueden funcionar con baterías. 
+ 2.   El presente Reglamento no será aplicable a: 
+ a) 
+ las lavadoras-secadoras domésticas y las centrifugadoras domésticas; 
+ b) 
+ las secadoras de tambor incluidas en el ámbito de aplicación de la Directiva 2006/42/CE del Parlamento Europeo y del Consejo  ( 9 ) ; 
+ c) 
+ las secadoras de tambor domésticas que funcionan con baterías y que pueden conectarse a la red eléctrica mediante un transformador CA/CC adquirido por separado. 
+ Artículo 2 
+ Definiciones 
+ A efectos del presente Reglamento, se aplicarán las siguientes definiciones: 
+ 1) 
+ «red eléctrica»: suministro eléctrico procedente de la red de 230 (± 10 %) voltios de corriente alterna a 50 Hz; 
+ 2) 
+ «secadora de tambor doméstica»: aparato en el cual la colada se seca haciéndola girar en un tambor a través del cual se hace pasar aire caliente y que, según la declaración de conformidad emitida por su fabricante, se ajusta a la Directiva 2014/35/UE del Parlamento Europeo y del Consejo  ( 10 ) o a la Directiva 2014/53/UE del Parlamento Europeo y del Consejo  ( 11 ) ; 
+ 3) 
+ «secadora de tambor doméstica encastrable»: secadora de tambor doméstica diseñada, ensayada y comercializada exclusivamente de manera que disponga de todas las características necesarias para: 
+ a) 
+ ser instalada en un mueble o revestida de paneles (por arriba y/o abajo y por los lados); 
+ b) 
+ estar fijada sólidamente al mueble o los paneles por los lados, por arriba o por el suelo; 
+ c) 
+ ir equipada con una cobertura frontal integral de fábrica o con un panel frontal a medida; 
+ 4) 
+ «lavadora-secadora doméstica»: aparato tal como se define en el artículo 2, punto 4, del Reglamento (UE) 2019/2023 de la Comisión  ( 12 ) ; 
+ 5) 
+ «centrifugadora doméstica»: aparato en el que se extrae el agua de la colada mediante una acción centrífuga en un tambor rotatorio y se vacía a través de una bomba automática o por gravedad, y que ha sido diseñado para ser utilizado fundamentalmente con fines no profesionales, también comercializado bajo la denominación de «escurridora centrífuga»; 
+ 6) 
+ «programa»: una serie de operaciones predefinidas y declaradas por el proveedor adecuadas para el secado de determinados tipos de tejidos; 
+ 7) 
+ «punto de venta»: lugar donde se exponen o se ofertan secadoras de tambor domésticas para su venta, alquiler o alquiler con derecho a compra; 
+ 8) 
+ «secadora doméstica con más de un tambor»: secadora de tambor doméstica equipada con más de un tambor, ya sea en unidades separadas o en la misma carcasa. 
+ A efectos de los anexos II a X, serán de aplicación las definiciones adicionales establecidas en el anexo I. 
+ Artículo 3 
+ Obligaciones de los proveedores 
+ 1.   Los proveedores deberán garantizar que: 
+ a) 
+ cada secadora de tambor doméstica se suministre con una etiqueta impresa cuyo formato se ajuste a lo indicado en el anexo III y, en el caso de las secadoras domésticas con más de un tambor, a lo indicado en el anexo X; 
+ b) 
+ los valores de los parámetros de la ficha de información del producto, como se indica en el anexo V, se consignen en la parte pública de la base de datos de los productos; 
+ c) 
+ si así lo solicita expresamente el distribuidor, la ficha de información del producto esté disponible en formato impreso; 
+ d) 
+ el contenido de la documentación técnica, establecido en el anexo VI, se consigne en la base de datos de los productos; 
+ e) 
+ toda publicidad visual de un modelo específico de secadora de tambor doméstica indique la clase de eficiencia energética y la gama de clases de eficiencia energética disponibles en la etiqueta, de conformidad con los anexos VII y VIII; 
+ f) 
+ todo material técnico de promoción relativo a un modelo específico de secadora de tambor doméstica, incluido el material técnico de promoción en internet, que describa sus parámetros técnicos específicos incluya la clase de eficiencia energética de dicho modelo y el intervalo de clases de eficiencia energética disponibles en la etiqueta, de conformidad con el anexo VII; 
+ g) 
+ se facilite a los distribuidores una etiqueta electrónica con el formato y la información que figuran en el anexo III para cada modelo de secadora de tambor doméstica; 
+ h) 
+ se facilite a los distribuidores una ficha electrónica de información del producto, como la que figura en el anexo V, para cada modelo de secadora de tambor doméstica. 
+ 2.   La clase de eficiencia energética, la clase de ruido acústico aéreo emitido y, en su caso, la clase de eficiencia de la condensación, según lo establecido en el anexo II, se calcularán de conformidad con el anexo IV. 
+ Artículo 4 
+ Obligaciones de los distribuidores 
+ Los distribuidores deberán garantizar que: 
+ a) 
+ cada secadora de tambor doméstica vaya provista, en el punto de venta (incluidas las ferias comerciales), de la etiqueta facilitada por los proveedores de acuerdo con el artículo 3, apartado 1, letra a), y que esta se presente en los aparatos encastrables de manera que sea claramente visible y, en todos los demás aparatos, de manera que sea claramente visible desde su parte frontal o superior; 
+ b) 
+ en los casos de venta a distancia, la etiqueta y la ficha de información del producto se faciliten de conformidad con los anexos VII y VIII; 
+ c) 
+ toda publicidad visual de un modelo específico de secadora de tambor doméstica, también en internet, indique la clase de eficiencia energética y la gama de clases de eficiencia energética disponibles en la etiqueta, de conformidad con el anexo VII; 
+ d) 
+ todo material técnico de promoción relativo a un modelo específico de secadora de tambor doméstica, incluido el material técnico de promoción en internet, que describa sus parámetros técnicos específicos incluya la clase de eficiencia energética de dicho modelo y el intervalo de clases de eficiencia energética disponibles en la etiqueta, de conformidad con el anexo VII. 
+ Artículo 5 
+ Métodos de medición y cálculo 
+ La información que debe proporcionarse con arreglo a los artículos 3 y 4 se obtendrá con métodos de medición y cálculo fiables, exactos y reproducibles que tengan en cuenta los métodos de medición y cálculo más avanzados y reconocidos establecidos en el anexo IV. 
+ Artículo 6 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Los Estados miembros aplicarán el procedimiento establecido en el anexo IX del presente Reglamento cuando lleven a cabo los controles de vigilancia del mercado contemplados en el artículo 8, apartado 3, del Reglamento (UE) 2017/1369. 
+ Artículo 7 
+ Revisión 
+ 1.   La Comisión revisará el presente Reglamento a la luz del progreso tecnológico y presentará al foro consultivo los resultados de esa revisión, incluido, en su caso, un proyecto de propuesta de revisión, a más tardar el 1 de enero de 2030. 
+ La revisión deberá evaluar, en particular, lo siguientes elementos: 
+ a) 
+ el potencial de mejora en lo que se refiere al consumo de energía y al rendimiento funcional y medioambiental de las secadoras de tambor domésticas; 
+ b) 
+ la eficacia de las medidas existentes para incitar a los usuarios finales a comprar aparatos más eficientes en energía y recursos y utilizar programas más eficientes en energía y recursos; 
+ c) 
+ la posibilidad de abordar los objetivos de la economía circular. 
+ 2.   A más tardar el 1 de enero de 2025, la Comisión presentará al foro consultivo una puntuación de reparabilidad para las secadoras de tambor domésticas y, si procede, un proyecto de propuesta sobre la puntuación de reparabilidad de las secadoras de tambor domésticas. 
+ Artículo 8 
+ Derogación 
+ Queda derogado el Reglamento Delegado (UE) n. o  392/2012. 
+ Artículo 9 
+ Medidas transitorias 
+ Hasta el 30 de junio de 2025, la ficha del producto exigida por el artículo 3, letra b), del Reglamento Delegado (UE) n. o  392/2012 podrá facilitarse en la base de datos de los productos en lugar de proporcionarse en formato impreso junto con el producto. No obstante, si el distribuidor así lo solicita, el proveedor garantizará que la ficha del producto esté disponible en formato impreso. 
+ Artículo 10 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor el 1 de enero de 2024. 
+ Será aplicable a partir del 1 de julio de 2025. No obstante, el artículo 9 será aplicable a partir del 1 de enero de 2024 y el artículo 3, apartado 1, letras a) y b), será aplicable a partir del 1 de marzo de 2025. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 13 de julio de 2023. 
+ Por la Comisión 
+ La Presidenta 
+ Ursula VON DER LEYEN
+ ( 1 )   
+ DO L 198 de 28.7.2017, p. 1 . 
+ ( 2 )   Comunicación de la Comisión: «Plan de trabajo sobre diseño ecológico 2016-2019» [COM(2016) 773 final, de 30 de noviembre de 2016]. 
+ ( 3 )   Comunicación de la Comisión: «Plan de Trabajo sobre Diseño Ecológico y Etiquetado Energético 2022-2024» (2022/C 182/01) ( DO C 182 de 4.5.2022, p. 1 ). 
+ ( 4 )   Reglamento Delegado (UE) n. o  392/2012 de la Comisión, de 1 de marzo de 2012, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo respecto del etiquetado energético de las secadoras de tambor domésticas ( DO L 123 de 9.5.2012, p. 1 ). 
+ ( 5 )   Comunicación de la Comisión al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones: «Cerrar el círculo: un plan de acción de la UE para la economía circular» [COM(2015) 614 final, de 2 de diciembre de 2015]. 
+ ( 6 )   Reglamento (UE) n. o  1025/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea, por el que se modifican las Directivas 89/686/CEE y 93/15/CEE del Consejo y las Directivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE y 2009/105/CE del Parlamento Europeo y del Consejo y por el que se deroga la Decisión 87/95/CEE del Consejo y la Decisión n. o  1673/2006/CE del Parlamento Europeo y del Consejo ( DO L 316 de 14.11.2012, p. 12 ). 
+ ( 7 )   Reglamento (UE) 2022/2065 del Parlamento Europeo y del Consejo, de 19 de octubre de 2022, relativo a un mercado único de servicios digitales y por el que se modifica la Directiva 2000/31/CE (Reglamento de Servicios Digitales) ( DO L 277 de 27.10.2022, p. 1 ). 
+ ( 8 )   Reglamento Delegado (UE) 2023/807 de la Comisión, de 15 de diciembre de 2022, relativo a la revisión del coeficiente de energía primaria para la electricidad en aplicación de la Directiva 2012/27/UE del Parlamento Europeo y del Consejo ( DO L 101 de 14.4.2023, p. 16 ). 
+ ( 9 )   Directiva 2006/42/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, relativa a las máquinas y por la que se modifica la Directiva 95/16/CE ( DO L 157 de 9.6.2006, p. 24 ). 
+ ( 10 )   Directiva 2014/35/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de comercialización de material eléctrico destinado a utilizarse con determinados límites de tensión ( DO L 96 de 29.3.2014, p. 357 ). 
+ ( 11 )   Directiva 2014/53/UE del Parlamento Europeo y del Consejo, de 16 de abril de 2014, relativa a la armonización de las legislaciones de los Estados miembros sobre la comercialización de equipos radioeléctricos, y por la que se deroga la Directiva 1999/5/CE ( DO L 153 de 22.5.2014, p. 62 ). 
+ ( 12 )   Reglamento (UE) 2019/2023 de la Comisión, de 1 de octubre de 2019, por el que se establecen requisitos de diseño ecológico aplicables a las lavadoras domésticas y a las lavadoras-secadoras domésticas con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo y por el que se modifica el Reglamento (CE) n. o  1275/2008 de la Comisión y se deroga el Reglamento (UE) n. o  1015/2010 de la Comisión ( DO L 315 de 5.12.2019, p. 285 ). 
+ ANEXO I 
+ Definiciones 
+ A efectos de los anexos II a X, se aplicarán las siguientes definiciones: 
+ 1) 
+ «secadora de tambor de ventilación»: secadora de tambor doméstica en la cual se recoge aire del exterior, que se hace pasar sobre la colada, y el aire húmedo que resulta se evacua a la habitación o se expulsa al exterior; 
+ 2) 
+ «secadora de tambor de condensación»: secadora de tambor doméstica dotada de un sistema, mediante condensación o por cualquier otro medio, para deshumidificar el aire utilizado para el proceso de secado; 
+ 3) 
+ «secadora de tambor alimentada con gas»: secadora de tambor doméstica que utiliza gas para calentar el aire en su interior; 
+ 4) 
+ «índice de eficiencia energética» o «IEE»: la relación entre el consumo ponderado de energía y el consumo normalizado de energía por ciclo de secado de un modelo específico de secadora de tambor doméstica; 
+ 5) 
+ «ciclo de secado»: proceso completo de secado, definido por el programa prescrito, consistente en una serie de operaciones entre las que se encuentran el secado con aire caliente y el giro del tambor; 
+ 6) 
+ «duración del programa»: el tiempo transcurrido desde el inicio del programa seleccionado, excluido cualquier aplazamiento programado por el usuario, hasta que se activa el indicador de final del programa y el usuario puede acceder a la carga; 
+ 7) 
+ «capacidad asignada»: la masa máxima, en kilogramos, indicada por el fabricante, el importador o el representante autorizado, en intervalos de 0,5 kg, de ropa seca de un tipo determinado que puede tratarse en un ciclo de secado de una secadora de tambor doméstica en el programa seleccionado, cuando esta última se carga siguiendo las instrucciones del fabricante; 
+ 8) 
+ «carga completa»: la capacidad asignada de una secadora de tambor doméstica para un programa dado; 
+ 9) 
+ «carga parcial»: la mitad de la capacidad asignada de una secadora de tambor doméstica para un programa dado; 
+ 10) 
+ «eficiencia de la condensación»: la relación entre la masa de humedad condensada por una secadora de condensación y la masa de humedad separada de la carga al final de un ciclo de secado; 
+ 11) 
+ «código de respuesta rápida» o «código QR»: código de barras matricial incluido en la etiqueta energética de un modelo de producto, que enlaza con la información relativa a ese modelo contenida en la parte pública de la base de datos de los productos; 
+ 12) 
+ «modo desactivado»: el estado en el cual la secadora de tambor doméstica está conectada a la red eléctrica y no ofrece ninguna función, incluidos los siguientes estados: 
+ a) 
+ el estado en que solo se ofrece la indicación de modo desactivado; 
+ b) 
+ el estado en que solo se ofrecen las funciones previstas a fin de garantizar la compatibilidad electromagnética con arreglo a la Directiva 2014/30/UE del Parlamento Europeo y del Consejo  ( 1 ) ; 
+ 13) 
+ «modo preparado»: el estado en el que la secadora de tambor doméstica está conectada a la red eléctrica y solo se ofrecen las funciones siguientes o algunas de ellas, que pueden durar un tiempo indefinido: 
+ a) 
+ función de reactivación, o bien función de reactivación y una indicación de función de reactivación activada; 
+ b) 
+ función de reactivación mediante conexión a una red («modo preparado en red»); 
+ c) 
+ visualización de información o del estado; 
+ d) 
+ función de detección para medidas de emergencia; 
+ 14) 
+ «red»: infraestructura de comunicación con una topología de enlaces, una arquitectura, incluidos los componentes físicos, principios de organización, procedimientos y formatos de comunicación (protocolos); 
+ 15) 
+ «función de prevención de arrugas»: operación que efectúa la secadora de tambor doméstica al finalizar un programa para evitar que la colada se arrugue en exceso; 
+ 16) 
+ «inicio aplazado»: el estado en que el usuario ha seleccionado un momento posterior específico para el inicio o el final del ciclo de secado del programa seleccionado; 
+ 17) 
+ «mecanismo de visualización»: cualquier pantalla, incluidas las pantallas táctiles, u otras tecnologías visuales utilizadas para presentar contenidos de internet a los usuarios; 
+ 18) 
+ «visualización anidada»: interfaz visual gracias a la cual puede accederse a una imagen o serie de datos a partir de otra imagen o serie de datos con un clic o un barrido del ratón o con la expansión de una pantalla táctil; 
+ 19) 
+ «pantalla táctil»: pantalla que responde al tacto, como un ordenador tableta, un ordenador pizarra o un teléfono inteligente; 
+ 20) 
+ «texto alternativo»: texto facilitado como alternativa a una imagen gráfica que permite presentar información de forma no gráfica cuando un dispositivo de visualización no pueda mostrar dicha imagen gráfica o como ayuda a la accesibilidad, por ejemplo como datos de entrada para las aplicaciones de síntesis de voz; 
+ 21) 
+ «programa eco»: programa capaz de secar prendas de algodón desde un contenido de humedad inicial de la carga del 60 % hasta un contenido de humedad final de la carga del 0 %; 
+ 22) 
+ «contenido de humedad inicial»: la cantidad de humedad contenida en la carga al comenzar el ciclo de secado; 
+ 23) 
+ «contenido de humedad final»: la cantidad de humedad contenida en la carga al finalizar el ciclo de secado; 
+ 24) 
+ «garantía»: cualquier compromiso del distribuidor o el proveedor para con el consumidor de reembolsar el precio pagado o sustituir, reparar o manipular de forma pertinente la secadora de tambor doméstica si no cumple las especificaciones establecidas en el documento de garantía o en la publicidad correspondiente; 
+ 25) 
+ «valores declarados»: los valores facilitados por el proveedor correspondientes a los parámetros técnicos declarados, calculados o medidos, con arreglo al artículo 3, para la verificación del cumplimiento por las autoridades del Estado miembro; 
+ 26) 
+ «coeficiente de conversión» o «CC»: coeficiente por defecto de energía primaria por kWh de electricidad a que se refiere la Directiva 2012/27/UE  ( 2 ) del Parlamento Europeo y del Consejo. El valor del coeficiente de conversión es CC = 1,9. 
+ ( 1 )   Directiva 2014/30/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética ( DO L 96 de 29.3.2014, p. 79 ). 
+ ( 2 )   Directiva 2012/27/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, relativa a la eficiencia energética, por la que se modifican las Directivas 2009/125/CE y 2010/30/UE, y por la que se derogan las Directivas 2004/8/CE y 2006/32/CE ( DO L 315 de 14.11.2012, p. 1 ). 
+ ANEXO II 
+ Clase de eficiencia energética, clase de ruido acústico aéreo emitido y clase de eficiencia de la condensación 
+ 1.    CLASE DE EFICIENCIA ENERGÉTICA 
+ La clase de eficiencia energética de una secadora de tambor doméstica se determinará sobre la base de su índice de eficiencia energética (IEE) tal como se establece en el cuadro 1. El IEE se determinará con arreglo al punto 1 del anexo IV. 
+ Cuadro 1 
+ Clase de eficiencia energética 
+ Clase de eficiencia energética 
+ Índice de eficiencia energética 
+ A (máxima eficiencia) 
+ IEE ≤ 43 
+ B 
+ 43 < IEE ≤ 50 
+ C 
+ 50 < IEE ≤ 60 
+ D 
+ 60 < IEE ≤ 70 
+ E 
+ 70 < IEE ≤ 85 
+ F 
+ 85 < IEE ≤ 100 
+ G (mínima eficiencia) 
+ IEE > 100 
+ 2.    CLASE DE RUIDO ACÚSTICO AÉREO EMITIDO 
+ El ruido acústico aéreo emitido por una secadora de tambor doméstica se determinará como el valor medio ponderado (L WA ) de la potencia acústica del programa eco con carga completa durante el ciclo de secado, expresado en dB(A) y redondeado al número entero más próximo. 
+ La clase de ruido acústico aéreo emitido se determinará sobre la base del L WA , tal como se indica en el cuadro 2. 
+ Cuadro 2 
+ Clase de ruido acústico aéreo emitido 
+ Clase de ruido acústico aéreo emitido 
+ Ruido [dB(A)] 
+ A 
+ L WA ≤ 60 
+ B 
+ 60 < L WA ≤ 64 
+ C 
+ 64 < L WA ≤ 68 
+ D 
+ L WA > 68 
+ 3.    CLASE DE EFICIENCIA DE LA CONDENSACIÓN 
+ La clase de eficiencia de la condensación se establecerá sobre la base de la eficiencia de la condensación ponderada de acuerdo con lo establecido en el cuadro 3. 
+ Cuadro 3 
+ Clase de eficiencia de la condensación 
+ Clase de eficiencia de la condensación 
+ Eficiencia de la condensación ponderada 
+ A 
+ Ct ≥ 94 
+ B 
+ 88 ≤ Ct < 94 
+ C 
+ 82 ≤ Ct < 88 
+ D 
+ Ct < 82 
+ ANEXO III 
+ Etiquetado 
+ A.    Etiqueta de las secadoras de tambor de condensación 
+ 1.   ETIQUETA DE LAS SECADORAS DE TAMBOR DE CONDENSACIÓN 
+ Figura 1 
+ 1.1. 
+ En la etiqueta figurará la siguiente información: 
+ I 
+ un código QR; 
+ II 
+ la marca comercial; 
+ III 
+ el identificador del modelo: 
+ IV 
+ la escala de clases de eficiencia energética, de la A a la G; 
+ V 
+ la clase de eficiencia energética determinada de conformidad con el anexo II; la punta de la flecha que contiene la clase de eficiencia energética de la secadora de tambor se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente; 
+ VI 
+ el consumo medio de energía ponderado por 100 ciclos de secado en kWh, redondeado al número entero más próximo y calculado de conformidad con el anexo IV; en el caso de secadoras de tambor alimentadas con gas, el consumo medio de energía ponderado (gas y electricidad) por 100 ciclos de secado en kWh, redondeado al número entero más próximo y calculado de conformidad con el anexo IV; 
+ VII 
+ la clase de eficiencia de la condensación determinada de conformidad con el anexo II, con el logotipo pertinente y el valor redondeado al número entero más próximo y calculado de conformidad con el anexo IV; 
+ VIII 
+ la clase de ruido acústico aéreo emitido del ciclo de secado del programa eco, con el logotipo pertinente y el valor en dB(A), determinado de conformidad con el punto 4 del anexo IV; 
+ IX 
+ la capacidad asignada, en kg, para el programa eco con carga completa; 
+ X 
+ la duración del programa eco con carga completa en horas y minutos [h:min] redondeada al minuto más próximo; 
+ XI 
+ el número del presente Reglamento, es decir, «2023/2534». 
+ 1.2. 
+ En el caso de que un modelo haya recibido una «etiqueta ecológica de la UE» de conformidad con el Reglamento (CE) n. o  66/2010 del Parlamento Europeo y del Consejo  ( 1 ) , podrá añadirse una copia de dicha etiqueta ecológica. 
+ 2.   DISEÑO DE LA ETIQUETA DE LAS SECADORAS DE TAMBOR DE CONDENSACIÓN 
+ Figura 2 
+ Se tendrán en cuenta las siguientes precisiones: 
+ a) 
+ La etiqueta medirá al menos 96 mm de ancho y 192 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones de la figura 2. 
+ b) 
+ El fondo será de color 100 % blanco. 
+ c) 
+ El tipo de letra será Verdana. 
+ d) 
+ Las dimensiones y especificaciones de los elementos que constituyan la etiqueta serán las indicadas en los diseños de las etiquetas del presente anexo. 
+ e) 
+ Los colores serán CMAN (cian, magenta, amarillo y negro), según el siguiente ejemplo: 0,70,100,0: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ f) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura 2): 
+ los colores del logotipo de la UE serán: 
+ — 
+ fondo: 100,80,0,0; 
+ — 
+ estrellas: 0,0,100,0; 
+ el color del logotipo de energía será 100,80,0,0; 
+ el código QR será de color 100 % negro; 
+ la marca comercial irá en color 100 % negro y en negrita, 9 pt; 
+ el identificador del modelo será de color 100 % negro e irá en redonda, 9 pt; 
+ la escala de A a G será como sigue: 
+ a) 
+ las letras de las flechas irán en color 100 % blanco y en negrita, 16 pt, e irán centradas en un eje a 4,5 mm de la parte izquierda de las flechas; 
+ b) 
+ los colores de fondo de las flechas serán como sigue: 
+ i) 
+ clase A: 100,0,100,0; 
+ ii) 
+ clase B: 70,0,100,0; 
+ iii) 
+ clase C: 30,0,100,0; 
+ iv) 
+ clase D: 0,0,100,0; 
+ v) 
+ clase E: 0,30,100,0; 
+ vi) 
+ clase F: 0,70,100,0; 
+ vii) 
+ clase G: 0,100,100,0; 
+ los separadores internos tendrán 80 mm de anchura y un grosor de 0,5 pt; serán de color 100 % negro; 
+ la flecha de la clase de eficiencia energética será de color 100 % negro. La letra dentro de la flecha de la clase de eficiencia energética será de color 100 % blanco e irá en negrita, 26 pt; se colocará en el centro de la parte rectangular de la flecha. La flecha de la clase de eficiencia energética y la flecha correspondiente de la escala de A a G irán colocadas de manera que sus puntas estén alineadas; 
+ el valor del consumo de energía ponderado por cada 100 ciclos de secado irá en negrita, 28 pt; «kWh/» irá en redonda, 18 pt. El número «100» en el icono que representa 100 ciclos de secado irá en redonda, 14 pt. El texto estará centrado en la columna y será de color 100 % negro; 
+ los pictogramas serán los indicados en el diseño de la etiqueta como se señala a continuación: 
+ a) 
+ las líneas de los pictogramas tendrán un grosor de 1,2 pt y serán, al igual que los textos (números y unidades), de color 100 % negro; 
+ b) 
+ las escalas de A a D del pictograma de la eficiencia de la condensación y del pictograma del ruido acústico aéreo emitido se alinearán en un eje vertical a la izquierda del icono, con la letra de la clase aplicable en negrita, 12 pt, y las demás letras del resto de las clases en redonda, 8 pt; 
+ c) 
+ el número del pictograma de la eficiencia de la condensación irá en negrita, 9 pt, y la unidad en redonda, 9 pt, con el número y la unidad juntos y centrados dentro del pictograma; 
+ d) 
+ el número del pictograma del ruido acústico aéreo emitido irá en negrita, 12 pt, y la unidad en redonda, 9 pt, con el número y la unidad juntos y centrados dentro del pictograma; 
+ e) 
+ el número del pictograma de capacidad asignada irá en negrita, 16 pt, y la unidad en redonda, 12 pt, con el número y la unidad juntos y centrados bajo el pictograma; 
+ f) 
+ el número de la duración del programa eco irá en negrita, 16 pt, y estará centrado bajo el pictograma; 
+ el número del Reglamento será de color 100 % negro e irá en redonda, 6 pt. 
+ B.    Etiqueta de las secadoras de tambor que no son de condensación 
+ 1.   ETIQUETA DE LAS SECADORAS DE TAMBOR QUE NO SON DE CONDENSACIÓN 
+ Figura 3 
+ 1.1. 
+ En la etiqueta figurará la siguiente información: 
+ I 
+ un código QR; 
+ II 
+ la marca comercial; 
+ III 
+ el identificador del modelo: 
+ IV 
+ la escala de clases de eficiencia energética, de la A a la G; 
+ V 
+ la clase de eficiencia energética determinada de conformidad con el anexo II; la punta de la flecha que contiene la clase de eficiencia energética de la secadora de tambor se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente; 
+ VI 
+ el consumo medio de energía ponderado por 100 ciclos de secado en kWh, redondeado al número entero más próximo y calculado de conformidad con el anexo IV; en el caso de secadoras de tambor alimentadas con gas, el consumo medio de energía ponderado (gas y electricidad) por 100 ciclos de secado en kWh, redondeado al número entero más próximo y calculado de conformidad con el anexo IV; 
+ VII 
+ la clase de ruido acústico aéreo emitido del ciclo de secado del programa eco, con el logotipo pertinente y el valor en dB(A), determinado de conformidad con el punto 4 del anexo IV; 
+ VIII 
+ la capacidad asignada, en kg, para el programa eco con carga completa; 
+ IX 
+ la duración del programa eco con carga completa en horas y minutos [h:min] redondeada al minuto más próximo; 
+ X 
+ el número del presente Reglamento, es decir, «2023/2534». 
+ 1.2. 
+ En el caso de que un modelo haya recibido una «etiqueta ecológica de la UE» de conformidad con el Reglamento (CE) n. o  66/2010 del Parlamento Europeo y del Consejo, podrá añadirse una copia de dicha etiqueta ecológica. 
+ 2.   DISEÑO DE LA ETIQUETA DE LAS SECADORAS DE TAMBOR QUE NO SON DE CONDENSACIÓN 
+ Figura 4 
+ Se tendrán en cuenta las siguientes precisiones: 
+ a) 
+ La etiqueta medirá al menos 96 mm de ancho y 192 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones de la figura 4. 
+ b) 
+ El fondo será de color 100 % blanco. 
+ c) 
+ El tipo de letra será Verdana. 
+ d) 
+ Las dimensiones y especificaciones de los elementos que constituyan la etiqueta serán las indicadas en los diseños de las etiquetas del presente anexo. 
+ e) 
+ Los colores serán CMAN (cian, magenta, amarillo y negro), según el siguiente ejemplo: 0,70,100,0: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ f) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura 4): 
+ los colores del logotipo de la UE serán: 
+ — 
+ fondo: 100,80,0,0; 
+ — 
+ estrellas: 0,0,100,0; 
+ el color del logotipo de energía será 100,80,0,0; 
+ el código QR será de color 100 % negro; 
+ la marca comercial irá en color 100 % negro y en negrita, 9 pt; 
+ el identificador del modelo será de color 100 % negro e irá en redonda, 9 pt; 
+ la escala de A a G será como sigue: 
+ a) 
+ las letras de las flechas irán en color 100 % blanco y en negrita, 16 pt, e irán centradas en un eje a 4,5 mm de la parte izquierda de las flechas; 
+ b) 
+ los colores de fondo de las flechas serán como sigue: 
+ i) 
+ clase A: 100,0,100,0; 
+ ii) 
+ clase B: 70,0,100,0; 
+ iii) 
+ clase C: 30,0,100,0; 
+ iv) 
+ clase D: 0,0,100,0; 
+ v) 
+ clase E: 0,30,100,0; 
+ vi) 
+ clase F: 0,70,100,0; 
+ vii) 
+ clase G: 0,100,100,0; 
+ los separadores internos tendrán 80 mm de anchura y un grosor de 0,5 pt; serán de color 100 % negro; 
+ la flecha de la clase de eficiencia energética será de color 100 % negro. La letra dentro de la flecha de la clase de eficiencia energética será de color 100 % blanco e irá en negrita, 26 pt; se colocará en el centro de la parte rectangular de la flecha. La flecha de la clase de eficiencia energética y la flecha correspondiente de la escala de A a G irán colocadas de manera que sus puntas estén alineadas; 
+ el valor del consumo de energía ponderado por cada 100 ciclos de secado irá en negrita, 28 pt; «kWh/» irá en redonda, 18 pt. El número «100» en el icono que representa 100 ciclos de secado irá en redonda, 14 pt. El texto estará centrado en la columna y será de color 100 % negro; 
+ los pictogramas serán los indicados en el diseño de la etiqueta como se señala a continuación: 
+ a) 
+ las líneas de los pictogramas tendrán un grosor de 1,2 pt y serán, al igual que los textos (números y unidades), de color 100 % negro; 
+ b) 
+ la escala de A a D del pictograma del ruido acústico aéreo emitido se alineará en un eje vertical a la izquierda del icono, con la letra de la clase aplicable en negrita, 12 pt, y las demás letras del resto de las clases en redonda, 8 pt; 
+ c) 
+ el número del pictograma del ruido acústico aéreo emitido irá en negrita, 12 pt, y la unidad en redonda, 9 pt, con el número y la unidad juntos y centrados dentro del pictograma; 
+ d) 
+ el número del pictograma de capacidad asignada irá en negrita, 16 pt, y la unidad en redonda, 12 pt, con el número y la unidad juntos y centrados bajo el pictograma; 
+ e) 
+ el número de la duración del programa eco irá en negrita, 16 pt, y estará centrado bajo el pictograma; 
+ el número del Reglamento será de color 100 % negro e irá en redonda, 6 pt. 
+ ( 1 )   Reglamento (CE) n. o  66/2010 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009, relativo a la etiqueta ecológica de la UE ( DO L 27 de 30.1.2010, p. 1 ). 
+ ANEXO IV 
+ Métodos de medición y cálculo 
+ A efectos de la verificación del cumplimiento de los requisitos del presente Reglamento, se efectuarán mediciones y cálculos utilizando las normas armonizadas cuyos números de referencia hayan sido publicados a tal efecto en el Diario Oficial de la Unión Europea , u otros métodos fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica más avanzado generalmente reconocido y estén en consonancia con las disposiciones del presente anexo. 
+ Si se declara un parámetro con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el cuadro 5 del anexo VI del presente Reglamento, el proveedor utilizará su valor declarado para los cálculos del presente anexo. 
+ Para la medición y el cálculo del IEE, la eficiencia de la condensación, la duración del programa, el contenido de humedad final y el ruido acústico aéreo emitido, se utilizará el programa eco tal como pueda encontrarse en la selección del programa, en la pantalla y a través de la conexión a la red, según las funcionalidades proporcionadas por la secadora de tambor doméstica, y sin ninguna otra modificación del ajuste del contenido de humedad final. El consumo de energía, la eficiencia de la condensación, la duración del programa y el contenido de humedad final también se medirán simultáneamente. 
+ El cálculo del consumo de energía ponderado, la duración ponderada del programa, el contenido de humedad final y la eficiencia de la condensación se realizará sobre la base de tres ciclos de secado con carga completa y cuatro ciclos de secado con carga parcial. 
+ La capacidad asignada declarada para el programa eco no será inferior a la capacidad asignada declarada más alta de todos los programas de algodón de la secadora de tambor doméstica. 
+ 1.   ÍNDICE DE EFICIENCIA ENERGÉTICA 
+ Para el cálculo del IEE de un modelo de secadora de tambor doméstica, el consumo de energía ponderado por ciclo de secado para el programa eco con carga completa y con carga parcial se compara con el consumo normalizado de energía por ciclo de secado. 
+ a) 
+ El IEE se calcula mediante la siguiente fórmula y se redondea al primer decimal: 
+ donde: 
+ E tC 
+ = 
+ consumo de energía ponderado por ciclo de secado, 
+ SE C 
+ = 
+ consumo normalizado de energía por ciclo de secado. 
+ b) 
+ El SE C 
+ se calcula mediante la siguiente fórmula y se redondea al segundo decimal: 
+ i) 
+ en el caso de secadoras de tambor domésticas distintas de las secadoras de tambor de ventilación: 
+ ii) 
+ en el caso de las secadoras de tambor de ventilación: 
+ donde 
+ c 
+ es la capacidad asignada de la secadora de tambor doméstica para el programa eco, 
+ T t 
+ es la duración ponderada del programa eco. 
+ c) 
+ El E tC 
+ se calcula mediante la siguiente fórmula y se redondea al segundo decimal: 
+ donde 
+ E dry 
+ = 
+ consumo de energía del programa eco con carga completa, en kWh y redondeado al segundo decimal, 
+ E dry½ 
+ = 
+ consumo de energía del programa eco con carga parcial, en kWh y redondeado al segundo decimal. 
+ d) 
+ En el caso de las secadoras de tambor alimentadas con gas, E dry y E dry1/2 se calculan mediante la siguiente fórmula: 
+ donde 
+ Eg dry 
+ = 
+ consumo de gas del programa eco con carga completa, en kWh y redondeado al segundo decimal, 
+ Eg dry½ 
+ = 
+ consumo de gas del programa eco con carga parcial, en kWh y redondeado al segundo decimal, 
+ Eg dry,a 
+ = 
+ consumo eléctrico auxiliar en el programa eco con carga completa, en kWh y redondeado al segundo decimal, 
+ Eg dry½,a 
+ = 
+ consumo eléctrico auxiliar en el programa eco con carga parcial, en kWh y redondeado al segundo decimal, 
+ CC (coeficiente de conversión) 
+ = 
+ 1,9. 
+ e) 
+ La T t 
+ del programa eco se calcula en minutos, redondeada al minuto más próximo, mediante la siguiente fórmula: 
+ donde 
+ T dry 
+ = 
+ duración del programa eco con carga completa, en minutos y redondeada al minuto más próximo, 
+ T dry½ 
+ = 
+ duración del programa eco con carga parcial, en minutos y redondeada al minuto más próximo. 
+ f) 
+ El consumo medio de energía ponderado por 100 ciclos del ciclo completo de la secadora de tambor doméstica alimentada por la red eléctrica se calcula mediante la siguiente fórmula y se redondea al número entero más próximo: 
+ E tc 
+ × 100 
+ El consumo medio de energía ponderado por 100 ciclos del ciclo completo de la secadora de tambor alimentada por gas se calcula mediante la siguiente fórmula y se redondea al número entero más próximo: 
+ donde 
+ Eg dry 
+ = 
+ consumo de gas del programa eco con carga completa, en kWh y redondeado al segundo decimal, 
+ Eg dry½ 
+ = 
+ consumo de gas del programa eco con carga parcial, en kWh y redondeado al segundo decimal, 
+ Eg dry,a 
+ = 
+ consumo eléctrico auxiliar en el programa eco con carga completa, en kWh y redondeado al segundo decimal, 
+ Eg dry½,a 
+ = 
+ consumo eléctrico auxiliar en el programa eco con carga parcial, en kWh y redondeado al segundo decimal. 
+ g) 
+ El contenido medio de humedad final μ t 
+ para el programa eco se calcula en porcentaje, redondeado al primer decimal, mediante la siguiente fórmula: 
+ donde 
+ μ dry 
+ = 
+ contenido de humedad final del programa eco con carga completa, en porcentaje y redondeado al primer decimal, 
+ μ dry½ 
+ = 
+ contenido de humedad final del programa eco con carga parcial, en porcentaje y redondeado al primer decimal. 
+ 2.   EFICIENCIA DE LA CONDENSACIÓN 
+ La eficiencia de la condensación de un programa ( Ct ) es la relación entre la masa de humedad condensada y recogida en el contenedor de una secadora de tambor de condensación y la masa de humedad extraída de la carga por el programa; esta última es la diferencia entre la masa de la carga de ensayo húmeda antes del secado y la masa de la carga de ensayo después del secado. 
+ C t 
+ se calcula como porcentaje y se redondea al entero más próximo mediante la siguiente fórmula: 
+ donde 
+ C dry 
+ = 
+ media de la eficiencia de la condensación del programa eco con carga completa, 
+ C dry½ 
+ = 
+ media de la eficiencia de la condensación del programa eco con carga parcial. 
+ 3.   MODOS DE BAJO CONSUMO 
+ Se mide el consumo de energía del modo apagado ( P o 
+ ), del modo preparado ( P sm 
+ ) y, en su caso, del inicio aplazado ( P ds 
+ ). Los valores medidos se expresan en W y se redondean al segundo decimal. 
+ Durante las mediciones del consumo de energía en modos de bajo consumo, se comprobarán y se registrarán las funciones siguientes: 
+ a) 
+ si se visualiza información o no; 
+ b) 
+ si se activa o no una conexión de red. 
+ Si el modo preparado incluye la visualización de información o el estado, también se proporcionará esta función cuando se ofrezca el modo preparado en red. 
+ Si la secadora de tambor doméstica cuenta con una función de prevención de arrugas, esta se interrumpirá al abrir la puerta de la secadora de tambor doméstica, o mediante cualquier otra intervención adecuada quince minutos antes de la medición del consumo de energía. 
+ 4.   RUIDO ACÚSTICO AÉREO EMITIDO 
+ El ruido acústico aéreo emitido durante el ciclo de secado de una secadora de tambor doméstica se calculará para el programa eco con carga completa, utilizando normas armonizadas cuyos números de referencia hayan sido publicados a tal efecto en el Diario Oficial de la Unión Europea, u otros métodos fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica más avanzado generalmente reconocido. 
+ El ruido acústico aéreo emitido se expresará en dB(A) con respecto a 1 pW y se redondeará al número entero más próximo. 
+ ANEXO V 
+ Ficha de información del producto 
+ Con arreglo al artículo 3, apartado 1, letra b), el proveedor introducirá en la base de datos de los productos la información que figura en el cuadro 4. 
+ El manual del usuario u otra documentación que acompañe al producto indicarán claramente el enlace al modelo en la base de datos de los productos, bien como una dirección URL legible por personas, bien como un código QR, o bien facilitando el número de registro del producto. 
+ Cuadro 4 
+ Contenido, orden y formato de la ficha de información del producto 
+ Nombre o marca comercial del proveedor 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Dirección del proveedor 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Identificador del modelo 
+  ( 1 ) : 
+ Tecnología de la secadora de tambor 
+ [eléctrica de ventilación, eléctrica de condensación, alimentada por gas] 
+ Parámetros generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Capacidad asignada  ( 2 ) (kg) 
+ x,x 
+ Dimensiones  ( 1 ) 
+ , 
+  ( 3 ) , en cm 
+ Altura 
+ x 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ Índice de Eficiencia Energética (IEE)  ( 2 ) 
+ x,x 
+ Clase de eficiencia energética  ( 2 ) 
+ [A/B/C/D/E/F/G]  ( 4 ) 
+ Eficiencia de la condensación (%)  ( 2 ) 
+ (si procede) 
+ xx 
+ Clase de eficiencia de la condensación (si procede)  ( 2 ) 
+ [A/B/C/D]  ( 4 ) 
+ Consumo de energía ponderado en kWh por ciclo de secado  ( 8 ) . El consumo real de energía dependerá de cómo se utilice el aparato. 
+ x,xx 
+ Duración del programa  ( 2 ) (horas:minutos) 
+ Capacidad asignada 
+ x:xx 
+ Tipo 
+ [encastrable/de libre instalación] 
+ Mitad 
+ x:xx 
+ Ruido acústico aéreo emitido  ( 2 ) [dB(A) con respecto a 1 pW] 
+ x 
+ Clase de ruido acústico aéreo emitido  ( 2 ) 
+ [A/B/C/D]  ( 4 ) 
+ Modo desactivado (si procede) (W) 
+ x,xx 
+ Modo preparado (si procede) (W) 
+ x,xx 
+ Inicio aplazado (W) (si procede) 
+ x,xx 
+ Modo preparado en red (W) (si procede) 
+ x,xx 
+ En el caso de las secadoras de tambor domésticas equipadas con una bomba de calor, el nombre químico o la designación industrial aceptada del gas refrigerante utilizado, sin perjuicio de lo dispuesto en el Reglamento (UE) n. o  517/2014, relativo a los gases fluorados de efecto invernadero   ( 1 ) 
+  ( 1 ) 
+ , 
+  ( 3 ) . 
+ Enlace del sitio web con información sobre la disponibilidad de piezas de recambio para los reparadores profesionales y los usuarios finales  ( 1 ) 
+  ( 3 ) 
+  ( 5 ) 
+ https://xxx 
+ Enlace del sitio web con las instrucciones de reparación para usuarios finales  ( 1 ) 
+  ( 3 ) 
+  ( 6 ) 
+ https://xxx 
+ Enlace del sitio web con los precios indicativos antes de impuestos  ( 1 ) 
+  ( 3 ) 
+  ( 7 ) 
+ https://xxx 
+ Duración mínima de la garantía ofrecida por el proveedor  ( 1 ) 
+ , 
+  ( 3 ) 
+ Información adicional 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Enlace al sitio web del proveedor, en el que se encuentra la información contemplada en el punto 6 del anexo II del Reglamento (UE) 2023/XXX de la Comisión  ( 3 ) 
+  ( 2 ) : 
+ ( 1 )   Reglamento (UE) 517/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, sobre los gases fluorados de efecto invernadero y por el que se deroga el Reglamento (CE) n. o  842/2006 ( DO L 150 de 20.5.2014, p. 195 ). 
+ ( 2 )   Reglamento (UE) 2023/2533 de la Comisión, de …, ( DO L 2023/2533, 22.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2533/oj ). 
+ ( 1 )   Este elemento no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369. 
+ ( 2 )   En relación con el programa eco. 
+ ( 3 )   Los cambios de estos elementos no se considerarán relevantes a los efectos del artículo 4, punto 4, del Reglamento (UE) 2017/1369. 
+ ( 4 )   Si la base de datos de los productos genera automáticamente el contenido definitivo de esa celda, el proveedor no introducirá esos datos. 
+ ( 5 )   Los proveedores están obligados a incluir el enlace del sitio web en el que estará disponible la información pertinente. No obstante, el acceso efectivo al sitio web debe concederse de conformidad con el calendario y las disposiciones establecidas en el punto 5.1.b) del anexo II del Reglamento (UE) 2023/2533. 
+ ( 6 )   Los proveedores están obligados a incluir el enlace del sitio web en el que estará disponible la información pertinente. No obstante, el acceso efectivo al sitio web debe concederse de conformidad con el calendario y las disposiciones establecidas en el punto 5.1.d) del anexo II del Reglamento (UE) 2023/2533. 
+ ( 7 )   Los proveedores están obligados a incluir el enlace del sitio web en el que estará disponible la información pertinente. No obstante, el acceso efectivo al sitio web debe concederse de conformidad con el calendario y las disposiciones establecidas en el punto 5.1.f) del anexo II del Reglamento (UE) 2023/2533. 
+ ( 8 )   En el caso de las secadoras de tambor alimentadas con gas, calculado como el consumo medio de energía ponderado por 100 ciclos de secado con arreglo al punto 1, letra f), del anexo IV, dividido por 100. 
+ ANEXO VI 
+ Documentación técnica 
+ 1.    
+ En el caso de las secadoras de tambor domésticas eléctricas, la documentación técnica mencionada en el artículo 3, apartado 1, letra d), incluirá la siguiente información: 
+ a) 
+ una descripción general del modelo que permita identificarlo fácil e inequívocamente; 
+ b) 
+ referencias de las normas armonizadas aplicadas o de otras normas de medición empleadas; 
+ c) 
+ las precauciones específicas que deben tomarse durante el montaje, la instalación, el mantenimiento o el ensayo del modelo; 
+ d) 
+ los detalles y los resultados de los cálculos efectuados con arreglo al anexo IV; 
+ e) 
+ las condiciones de ensayo si no están se describen suficientemente en las referencias proporcionadas con arreglo a la letra b) del presente punto; 
+ f) 
+ los modelos equivalentes, en caso de haberlos, incluidos los identificadores del modelo; 
+ g) 
+ los valores de los parámetros técnicos establecidos en el cuadro 5, que se consideran los valores declarados a efectos del procedimiento de verificación establecido en el anexo IX. 
+ La información facilitada con arreglo a las letras a) a g) constituirá las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369. 
+ Cuadro 5 
+ Información que debe figurar en la documentación técnica de las secadoras de tambor domésticas eléctricas 
+ PARÁMETRO 
+ UNIDAD 
+ VALOR 
+ Capacidad asignada del programa eco, en intervalos de 0,5 kg (c) 
+ kg 
+ X,X 
+ Consumo de energía del programa eco con carga completa ( E dry 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo de energía del programa eco con carga parcial ( E dry½ 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo de energía ponderado del programa eco ( E tC 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo normalizado de energía del programa eco ( SE C 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Índice de eficiencia energética ( IEE ) 
+ - 
+ X,X 
+ Duración del programa eco con carga completa ( T dry 
+ ) 
+ h:min 
+ X:XX 
+ Duración del programa eco con carga parcial ( T dry½ 
+ ) 
+ h:min 
+ X:XX 
+ Duración ponderada del programa eco ( T t 
+ ) 
+ h:min 
+ X:XX 
+ Eficiencia media de condensación del programa eco con carga completa ( C dry 
+ ) (si procede) 
+ % 
+ XX 
+ Eficiencia media de condensación del programa eco con carga parcial ( C dry½ 
+ ) (si procede) 
+ % 
+ XX 
+ Eficiencia ponderada de la condensación del programa eco ( C t 
+ ) (si procede) 
+ % 
+ XX 
+ Ruido acústico aéreo emitido durante el programa eco 
+ dB(A) con respecto a 1 pW 
+ X 
+ Consumo de energía en modo apagado ( P o 
+ ) (si procede) 
+ W 
+ X,XX 
+ Consumo de energía en modo preparado ( P sm 
+ ) (si procede) 
+ W 
+ X,XX 
+ ¿Incluye el modo preparado la visualización de información? 
+ - 
+ Sí/No 
+ Consumo de energía en modo preparado en estado de modo preparado en red (P nsm ) (si procede) 
+ W 
+ X,XX 
+ Consumo de energía en inicio aplazado ( P ds 
+ ) (si procede) 
+ W 
+ X,XX 
+ 2.    
+ En el caso de las secadoras de tambor alimentadas con gas, la documentación técnica mencionada en el artículo 3, apartado 1, letra d), incluirá la información que figura en el punto 1, letras a) a f), del presente anexo, así como la información establecida en el cuadro 6 para el programa eco. Los valores del cuadro 6 se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX. 
+ La información facilitada con arreglo al párrafo primero del presente punto constituirá las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369. 
+ Cuadro 6 
+ Información que debe figurar en la documentación técnica de las secadoras de tambor alimentadas con gas 
+ PARÁMETRO 
+ UNIDAD 
+ VALOR 
+ Capacidad asignada del programa eco, en intervalos de 0,5 kg (c) 
+ kg 
+ X,X 
+ Consumo de gas del programa eco con carga completa ( E gdry 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo de gas del programa eco con carga parcial ( E gdry½ 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo auxiliar de electricidad del programa eco con carga completa 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo auxiliar de electricidad del programa eco con carga parcial 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo de energía ponderado del programa eco ( E tC 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo normalizado de energía del programa eco ( SE C 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Índice de eficiencia energética ( IEE ) 
+ - 
+ X,X 
+ Duración del programa eco con carga completa ( T dry 
+ ) 
+ h:min 
+ XXX 
+ Duración del programa eco con carga parcial ( T dry½ 
+ ) 
+ h:min 
+ XXX 
+ Duración ponderada del programa eco ( T t 
+ ) 
+ h:min 
+ XXX 
+ Ruido acústico aéreo emitido durante el programa eco 
+ dB(A) con respecto a 1 pW 
+ X 
+ Consumo de energía en modo apagado ( P o 
+ ) (si procede) 
+ W 
+ X,XX 
+ Consumo de energía en modo preparado ( P sm 
+ ) (si procede) 
+ W 
+ X,XX 
+ ¿Incluye el modo preparado la visualización de información? 
+ - 
+ Sí/No 
+ Consumo de energía en modo preparado en estado de modo preparado en red (P nsm ) (si procede) 
+ W 
+ X,XX 
+ Consumo de energía en inicio aplazado ( P ds 
+ ) (si procede) 
+ W 
+ X,XX 
+ 3.    
+ La información incluida en la documentación técnica de un modelo concreto de secadora de tambor doméstica puede obtenerse mediante uno de los métodos siguientes: 
+ a) 
+ a partir de un modelo con las mismas características técnicas pertinentes para la información técnica que debe facilitarse, pero que es producido por un proveedor distinto; 
+ b) 
+ mediante cálculos efectuados sobre la base del diseño o por extrapolación de otro modelo del mismo proveedor o de un proveedor diferente. 
+ Si la información a que se refiere el párrafo primero se obtiene utilizando cualquiera de los métodos establecidos en las letras a) y b), la documentación técnica incluirá los detalles del cálculo, la evaluación realizada por los proveedores para verificar la exactitud del cálculo y, en su caso, la declaración de identidad entre los modelos de los diferentes proveedores. 
+ ANEXO VII 
+ Información que debe facilitarse en los anuncios visuales, el material técnico de promoción y la venta a distancia, excepto la venta a distancia por internet 
+ 1.    
+ En los anuncios visuales, para garantizar la conformidad con los requisitos establecidos en el artículo 3, apartado 1, letra e), y en el artículo 4, letra c), la clase de eficiencia energética y el intervalo de clases de eficiencia energética disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo. 
+ 2.    
+ En el material técnico promocional, para garantizar la conformidad con los requisitos establecidos en el artículo 3, apartado 1, letra f), y en el artículo 4, letra d), la clase de eficiencia energética y el intervalo de clases de eficiencia energética disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo. 
+ 3.    
+ En el caso de la venta a distancia por medio impreso se mostrarán en la etiqueta la clase de eficiencia energética y el intervalo de clases de eficiencia energética disponibles, tal como se indica en el punto 4 del presente anexo. 
+ 4.    
+ En los casos contemplados en los puntos 1, 2 y 3, la clase de eficiencia energética y el intervalo de clases de eficiencia energética se mostrarán, como se indica en la figura 5, de conformidad con las especificaciones siguientes: 
+ i) 
+ se utilizará una flecha que contenga la letra de la clase de eficiencia energética, de color 100 % blanco en Calibri negrita y con un tamaño de fuente al menos equivalente al del precio, si este aparece indicado, 
+ ii) 
+ el color de la flecha será igual al de la clase de eficiencia energética, 
+ iii) 
+ el intervalo de clases de eficiencia energética disponibles será de color 100 % negro, 
+ iv) 
+ la flecha deberá tener un tamaño que la haga claramente visible y legible La letra contenida en la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, con un borde de 0,5 pt en color 100 % negro en torno a la flecha y la letra de la clase de eficiencia energética. 
+ No obstante, si el anuncio visual, el material técnico promocional o la venta a distancia por medio impreso se imprimen en monocromo, la flecha podrá estar en ellos en monocromo. 
+ Figura 5 
+ Flecha hacia la izquierda coloreada/monocroma, con indicación del intervalo de clases de eficiencia energética 
+ 5.    
+ En la venta telefónica a distancia se informará específicamente al cliente de la clase de eficiencia energética del producto y del intervalo de clases de eficiencia energética disponibles en la etiqueta, y el cliente tendrá la posibilidad de acceder a la etiqueta completa y a la ficha de información del producto a través de un sitio web de libre acceso o solicitando una copia impresa. 
+ 6.    
+ Para todas las situaciones mencionadas en los puntos 1, 2, 3 y 5, el cliente deberá tener la posibilidad de obtener, previa solicitud, una copia impresa de la etiqueta y de la ficha de información del producto. 
+ ANEXO VIII 
+ Información que debe facilitarse en caso de venta a distancia por internet 
+ 1.    
+ La correspondiente etiqueta puesta a disposición por los proveedores conforme al artículo 3, apartado 1, letra g), deberá mostrarse en el mecanismo de visualización cerca del precio del producto, si este se muestra, y cerca del nombre o la imagen del producto, en los demás casos. Por su tamaño, la etiqueta deberá ser claramente visible, legible y proporcionada al tamaño especificado en el anexo III. Podrá presentarse en formato de visualización anidada, en cuyo caso la imagen que dé acceso a la etiqueta deberá cumplir las especificaciones recogidas en el punto 2 del presente anexo. Si se utiliza la visualización anidada, la etiqueta deberá aparecer con el primer clic o barrido del ratón sobre la imagen o la primera expansión de esta en pantalla táctil. 
+ 2.    
+ En caso de visualización anidada, la imagen que se use para acceder a la etiqueta, tal como se indica en la figura 6, deberá: 
+ i) 
+ consistir en una flecha del color correspondiente a la clase de eficiencia energética del producto en la etiqueta, 
+ ii) 
+ indicar en la flecha la clase de eficiencia energética del producto en color 100 % blanco, en Calibri negrita y con un tamaño de fuente equivalente al del precio, 
+ iii) 
+ indicar el intervalo de clases de eficiencia energética disponibles, en color 100 % negro, 
+ iv) 
+ tener el formato indicado a continuación, y su tamaño deberá permitir que la flecha sea claramente visible y legible. La letra contenida en la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, con un borde visible en color 100 % negro en torno a la flecha y la letra de la clase de eficiencia energética. 
+ Figura 6 
+ Flecha hacia la izquierda coloreada, con indicación del intervalo de clases de eficiencia energética 
+ 3.    
+ En caso de visualización anidada, la visualización de la etiqueta seguirá la siguiente secuencia: 
+ a) 
+ la imagen a la que se refiere el punto 2 del presente anexo se presentará en el mecanismo de visualización cerca del precio del producto; 
+ b) 
+ la imagen servirá de enlace a la etiqueta establecida en el anexo III; 
+ c) 
+ la etiqueta aparecerá con un clic o barrido del ratón sobre la imagen o una expansión de esta en pantalla táctil; 
+ d) 
+ la etiqueta se visualizará en forma de ventana emergente, en otra pestaña, en otra página o en una pantalla en recuadro; 
+ e) 
+ para aumentar el tamaño de la etiqueta en las pantallas táctiles, se aplicarán las instrucciones sobre ampliación táctil de estos dispositivos; 
+ f) 
+ la etiqueta dejará de visualizarse utilizando la opción «cerrar» u otro mecanismo habitual de cierre; 
+ g) 
+ el texto alternativo del gráfico, que aparecerá si no se visualiza la etiqueta, consistirá en la clase de eficiencia energética del producto y tendrá un tamaño de fuente equivalente al del precio. 
+ 4.    
+ La ficha electrónica de información del producto facilitada por el proveedor conforme al artículo 3, apartado 1, letra h), deberá mostrarse en el mecanismo de visualización cerca del precio del producto, si este se muestra, y cerca del nombre o la imagen del producto, en los demás casos. Deberá tener un tamaño que la haga claramente visible y legible. La ficha de información del producto podrá mostrarse mediante visualización anidada o por referencia a la base de datos de los productos, en cuyo caso el enlace utilizado para acceder a la ficha de información del producto deberá indicar de manera clara y legible el texto «Ficha de información del producto». Si se utiliza la visualización anidada, la ficha de información del producto aparecerá con el primer clic o barrido del ratón sobre el enlace o la primera expansión de este en pantalla táctil. 
+ ANEXO IX 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ 1.    
+ Las tolerancias de verificación definidas en el presente anexo se refieren únicamente a la verificación de los valores de los parámetros declarados por las autoridades del Estado miembro y no serán utilizadas por el proveedor como tolerancia permitida para establecer los valores indicados en la documentación técnica o para interpretar esos valores a efectos de alcanzar la conformidad o comunicar un mejor rendimiento por cualquier medio. 
+ 2.    
+ Los valores y clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores declarados en la documentación técnica. 
+ 3.    
+ En caso de que un modelo haya sido diseñado de manera que pueda detectar que está siendo objeto de ensayo (por ejemplo, reconociendo las condiciones de ensayo o el ciclo de secado de ensayo) y reaccionar específicamente con una alteración automática de su rendimiento durante el ensayo a fin de alcanzar un nivel más favorable en cualquiera de los parámetros especificados en el presente Reglamento o incluidos en la documentación técnica o en cualquiera de los documentos facilitados, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes. 
+ 4.    
+ Como parte de la verificación de la conformidad de un modelo de producto con los requisitos establecidos en el presente Reglamento, las autoridades de los Estados miembros aplicarán el siguiente procedimiento: 
+ a) 
+ Las autoridades del Estado miembro verificarán una sola unidad del modelo. 
+ b) 
+ Se considerará que el modelo es conforme a los requisitos aplicables cuando cumpla todas las condiciones siguientes: 
+ i) 
+ los valores declarados indicados en la documentación técnica de conformidad con el artículo 3, apartado 3, del Reglamento (UE) 2017/1369, así como, en su caso, los valores utilizados para calcular dichos valores declarados, no son más favorables para el proveedor que los valores correspondientes presentados en los informes de ensayo, 
+ ii) 
+ los valores publicados en la etiqueta y en la ficha de información del producto no son más favorables para el proveedor que los valores declarados, y la clase de eficiencia energética, la clase de eficiencia energética de la condensación y la clase de ruido acústico aéreo emitido indicadas no son más favorables para el proveedor que la clase determinada por los valores declarados, 
+ iii) 
+ los valores determinados, es decir, los valores de los parámetros pertinentes medidos en los ensayos y los valores calculados a partir de estas mediciones se ajustan a: 
+ a) 
+ los criterios de validez establecidos en el cuadro 7; 
+ b) 
+ las respectivas tolerancias de verificación establecidas en el cuadro 7. 
+ 5.    
+ Si no se obtienen los resultados a que se refiere el punto 4, letra b), incisos i) o ii), se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento. 
+ 6.    
+ Si no se obtiene el resultado a que se refiere el punto 4, letra b), inciso iii), las autoridades del Estado miembro seleccionarán tres unidades adicionales del mismo modelo para someterlas a ensayo. Como alternativa, esas tres unidades adicionales seleccionadas podrán pertenecer a uno o varios modelos equivalentes. 
+ 7.    
+ Se considerará que el modelo y todos los modelos equivalentes no son conformes con el presente Reglamento si el valor determinado del contenido medio de humedad final del programa eco no cumple los criterios de validez que figuran en el cuadro 7 para una de las tres unidades adicionales mencionadas en el punto 6. En este caso, no es necesario someter a ensayo las demás unidades aún no sometidas a ensayo. El modelo se considerará conforme si el valor determinado del contenido de humedad final cumple los criterios de validez que figuran en el cuadro 7 para cada una de las tres unidades adicionales. 
+ 8.    
+ Se considerará que el modelo cumple los requisitos aplicables si la media aritmética de los valores determinados correspondientes a las tres unidades mencionadas en el punto 6 cumple las respectivas tolerancias de verificación indicadas en el cuadro 7. 
+ 9.    
+ Si no se alcanza el resultado a que se refiere el punto 8, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento. 
+ 10.    
+ Inmediatamente después de la adopción de la decisión de no conformidad del modelo con arreglo a los puntos 2, 3, 5, 7 o 9, las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión. 
+ 11.    
+ Las autoridades de los Estados miembros utilizarán los métodos de medición y cálculo establecidos en el anexo IV. 
+ 12.    
+ Las autoridades de los Estados miembros aplicarán únicamente los criterios de validez y las tolerancias de verificación establecidos en el cuadro 7 y solo utilizarán el procedimiento descrito en los puntos 1 a 9 en lo que concierne a los requisitos contemplados en el presente anexo. En lo que se refiere a los parámetros establecidos en el cuadro 7, no se aplicarán otros criterios de validez ni otras tolerancias de verificación, tales como las establecidas en las normas armonizadas o en cualquier otro método de medición. 
+ Cuadro 7 
+ Tolerancias de verificación y criterios de validez 
+ Parámetro 
+ Criterios de validez 
+ Contenido medio de humedad final del programa eco μ t 
+ El valor determinado se medirá y calculará y será inferior al 1,5 %. 
+ Parámetro 
+ Tolerancias de verificación 
+ E dry 
+ y E dry½ 
+ El valor determinado* no podrá superar el valor declarado de E dry 
+ y E dry½ 
+ en más del 6 %. 
+ Eg dry 
+ y Eg dry½ 
+ El valor determinado* no podrá superar el valor declarado de Eg dry 
+ y Eg dry½ 
+ en más del 6 %. 
+ Eg dry,a 
+ y Eg dry½,a 
+ El valor determinado* no podrá superar el valor declarado de Eg dry,a 
+ y Eg dry½,a 
+ en más del 6 %. 
+ C t 
+ El valor determinado* no podrá ser inferior al valor declarado de C t 
+ en más del 6 %. 
+ T dry 
+ y T dry½ 
+ El valor determinado* no podrá superar el valor declarado de T dry 
+ y T dry½ 
+ en más del 6 %. 
+ P o 
+ El valor determinado* del consumo de energía P o 
+ no podrá superar el valor declarado en más de 0,10 W. 
+ P sm 
+ El valor determinado* del consumo de energía P sm 
+ no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ P ds 
+ El valor determinado* del consumo de energía P ds 
+ no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Ruido acústico aéreo emitido 
+ El valor determinado* no podrá superar el valor declarado en más de 2 dB con respecto a 1 pW. 
+ * 
+ Si se someten tres unidades adicionales a ensayo conforme a lo dispuesto en el punto 6, por «valor determinado» se entenderá la media aritmética de los valores determinados para esas tres unidades adicionales. 
+ ANEXO X 
+ Secadoras domésticas con más de un tambor 
+ Las disposiciones de los anexos II y III, que siguen los métodos de medición y cálculo establecidos en el anexo IV, serán aplicables a todos los tambores. Las disposiciones de los anexos II y III serán aplicables a cada uno de los tambores de forma independiente, salvo si los tambores están montados en la misma carcasa y en el programa eco solo pueden funcionar simultáneamente. En este último caso, estas disposiciones serán aplicables a la secadora doméstica con más de un tambor en su conjunto, según se indica a continuación: 
+ a) 
+ la capacidad asignada de la secadora doméstica con más de un tambor en su conjunto será la suma de las capacidades asignadas de cada tambor; 
+ b) 
+ el consumo de energía de la secadora doméstica con más de un tambor en su conjunto será la suma del consumo de energía de cada tambor; 
+ c) 
+ el índice de eficiencia energética (IEE) de la secadora doméstica con más de un tambor en su conjunto se calculará utilizando la capacidad asignada y el consumo de energía de las letras a) y b) anteriores; la clase de eficiencia energética es aplicable a toda la secadora doméstica con más de un tambor; 
+ d) 
+ la duración del programa de la secadora doméstica con más de un tambor en su conjunto será la duración del programa eco más prolongado que funcione en cada tambor; 
+ e) 
+ el contenido de humedad final del programa eco se medirá individualmente para cada tambor de la secadora doméstica con más de un tambor; 
+ f) 
+ los modos de bajo consumo, el ruido acústico aéreo emitido y la clase de ruido acústico aéreo emitido serán aplicables a toda la secadora doméstica con más de un tambor. 
+ La ficha de información del producto y la documentación técnica deberán incluir y presentar conjuntamente la información exigida con arreglo al anexo V y al anexo VI, respectivamente, en relación con todos los tambores para los que sean aplicables las disposiciones del presente anexo. 
+ Las disposiciones de los anexos VII y VIII serán aplicables a cada uno de los tambores para los que sean aplicables las disposiciones del presente anexo. 
+ El procedimiento de verificación que se expone en el anexo IX será aplicable a las secadoras domésticas con más de un tambor en su conjunto, con los criterios de validez y las tolerancias de verificación aplicables a cada uno de los parámetros determinados en aplicación del presente anexo. 
+ ELI: http://data.europa.eu/eli/reg_del/2023/2534/oj 
+ ISSN 1977-0685 (electronic edition) 
+ 

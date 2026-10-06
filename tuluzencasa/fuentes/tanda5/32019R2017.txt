@@ -1,0 +1,625 @@
+ 
+ L_2019315ES.01013401.xml 
+ 5.12.2019    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 315/134 
+ REGLAMENTO DELEGADO (UE) 2019/2017 DE LA COMISIÓN
+ de 11 de marzo de 2019
+ por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de los lavavajillas domésticos y se deroga el Reglamento Delegado (UE) n. o 1059/2010 de la Comisión 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Visto el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo, de 4 de julio de 2017, por el que se establece un marco para el etiquetado energético y se deroga la Directiva 2010/30/UE  ( 1 ) , y en particular su artículo 11, apartado 5, y su artículo 16, 
+ Considerando lo siguiente: 
+ (1) 
+ El Reglamento (UE) 2017/1369 faculta a la Comisión para adoptar actos delegados en lo que respecta al etiquetado o reescalado de los grupos de productos que representan un importante ahorro potencial de energía y, si procede, de otros recursos. 
+ (2) 
+ En el Reglamento Delegado (UE) n. o 1059/2010 de la Comisión  ( 2 ) se establecieron disposiciones sobre el etiquetado energético de los lavavajillas domésticos. 
+ (3) 
+ La Comunicación de la Comisión COM(2016) 773 final  ( 3 ) (plan de trabajo sobre diseño ecológico), adoptada por la Comisión en aplicación del artículo 16, apartado 1, de la Directiva 2009/125/CE del Parlamento Europeo y del Consejo  ( 4 ) , establece las prioridades de trabajo dentro del marco sobre diseño ecológico y etiquetado energético para el período 2016-2019. El plan de trabajo sobre diseño ecológico enumera los grupos de productos relacionados con la energía que se consideran prioritarios para la realización de estudios preparatorios y la posible adopción de medidas de ejecución, así como la revisión del Reglamento (UE) n. o 1016/2010 de la Comisión  ( 5 ) y del Reglamento Delegado n. o 1059/2010. 
+ (4) 
+ Según las estimaciones, las medidas del plan de trabajo sobre diseño ecológico podrían permitir un ahorro anual final de energía superior a 260 TWh en 2030, lo que equivale a reducir las emisiones de gases de efecto invernadero en aproximadamente 100 millones de toneladas anuales en 2030. Los lavavajillas domésticos se encuentran entre los grupos de productos que figuran en el plan de trabajo, con un ahorro de energía anual estimado en 2,1 TWh, que se prevé permita reducir las emisiones de gases de efecto invernadero en 0,7 millones de toneladas equivalentes de CO 2 al año, y un ahorro de 16 millones de m 3 de agua en 2030. 
+ (5) 
+ Los lavavajillas domésticos se encuentran también entre los grupos de productos mencionados en el artículo 11, apartado 5, letra b), del Reglamento (UE) 2017/1369 para los que la Comisión debe adoptar un acto delegado a fin de introducir una etiqueta reescalada de la A a la G. 
+ (6) 
+ La Comisión ha revisado el Reglamento Delegado (UE) n. o 1059/2010 de conformidad con su artículo 7, y ha analizado los aspectos técnicos, medioambientales y económicos, así como el impacto del comportamiento de los usuarios. Esta revisión se ha llevado a cabo en estrecha cooperación con las partes interesadas de la Unión y terceros países. Los resultados de la revisión se publicaron y presentaron al Foro consultivo establecido mediante el artículo 14 del Reglamento (UE) 2017/1369. 
+ (7) 
+ La revisión llegó a la conclusión de que era necesario introducir requisitos revisados sobre el etiquetado energético de los lavavajillas domésticos. 
+ (8) 
+ Los lavavajillas no domésticos presentan características y usos distintos. Están sujetos a otros actos reglamentarios, en particular la Directiva 2006/42/CE del Parlamento Europeo y del Consejo  ( 6 ) , y no deben incluirse en el ámbito de aplicación del presente Reglamento. El presente Reglamento sobre lavavajillas domésticos debe aplicarse a lavavajillas que tengan características técnicas idénticas, con independencia de la configuración en la que se utilicen. 
+ (9) 
+ Los aspectos medioambientales de los lavavajillas domésticos que se consideran significativos a los efectos del presente Reglamento son el consumo de energía y de agua en la fase de uso, la generación de residuos al final de la vida útil y las emisiones a la atmósfera y al agua en la fase de producción (debido a la extracción y transformación de las materias primas) y en la fase de utilización (por el consumo de electricidad). 
+ (10) 
+ En la revisión se puso de manifiesto que el consumo de electricidad y agua de los lavavajillas domésticos puede reducirse significativamente aplicando medidas de etiquetado energético centradas en diferenciar mejor los productos, lo que animará a los proveedores a seguir mejorando la eficiencia energética y de recursos, acelerando al mismo tiempo la evolución del mercado hacia tecnologías más eficientes. 
+ (11) 
+ El etiquetado energético de los lavavajillas domésticos permite a los consumidores elegir con criterio optando por aparatos más eficientes en el uso de recursos y energía. La comprensión y la pertinencia de la información facilitada en la etiqueta han sido confirmadas en una encuesta específica entre los consumidores, con arreglo al artículo 14, apartado 2, del Reglamento (UE) 2017/1369. 
+ (12) 
+ Los lavavajillas domésticos que se expongan en ferias comerciales deberán llevar la etiqueta energética si la primera unidad del modelo ya ha sido introducida en el mercado o se introduce en el mercado en esa feria comercial. 
+ (13) 
+ Los parámetros pertinentes de los productos deben medirse mediante procedimientos fiables, precisos y reproducibles. Estos deben tener en cuenta los métodos de medición más avanzados reconocidos, incluidas, en su caso, las normas armonizadas adoptadas por los organismos de normalización europeos que figuran en el anexo I del Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo  ( 7 ) . 
+ (14) 
+ Reconociendo el incremento de las ventas de productos relacionados con la energía a través de tiendas virtuales y plataformas de venta en internet, en lugar de directamente por los proveedores, conviene aclarar que los proveedores de servicios de las tiendas virtuales y las plataformas de venta en internet deben ser responsables de exponer la etiqueta facilitada por el proveedor cerca del precio. Deben informar de esta obligación al proveedor, aunque no deben ser responsables de la exactitud ni del contenido de la etiqueta o la ficha de información del producto proporcionadas. No obstante, en aplicación del artículo 14, apartado 1, letra b), de la Directiva 2000/31/CE del Parlamento Europeo y del Consejo, relativa al comercio electrónico  ( 8 ) , tales plataformas de alojamiento de datos deben actuar con prontitud para retirar o impedir el acceso a la información sobre el producto de que se trate si tienen conocimiento del incumplimiento (por ejemplo, una etiqueta o una ficha de información sobre el producto incompletas o incorrectas, o la ausencia de estas), por ejemplo si reciben información al respecto de la autoridad de vigilancia del mercado. Los proveedores que vendan directamente a los usuarios finales a través de su propio sitio web están sujetos a las obligaciones de venta a distancia establecidas para los distribuidores en el artículo 5 del Reglamento (UE) 2017/1369. 
+ (15) 
+ Las medidas previstas en el presente Reglamento han sido debatidas por el foro consultivo y con expertos de los Estados miembros, de conformidad con el artículo 17 del Reglamento (UE) 2017/1369. 
+ (16) 
+ Procede derogar el Reglamento Delegado (UE) n. o 1059/2010. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece los requisitos para el etiquetado y el suministro de información adicional sobre los productos en relación con los lavavajillas domésticos conectados a la red eléctrica, incluidos los lavavajillas domésticos encastrados y los lavavajillas domésticos conectados a la red eléctrica que también pueden ser alimentados por baterías. 
+ 2.   El presente Reglamento no será aplicable a: 
+ a) 
+ los lavavajillas incluidos en el ámbito de aplicación de la Directiva 2006/42/CE; 
+ b) 
+ los lavavajillas domésticos que funcionan con baterías y que pueden conectarse a la red eléctrica mediante un transformador CA/CC adquirido por separado. 
+ Artículo 2 
+ Definiciones 
+ A efectos del presente Reglamento, se aplicarán las siguientes definiciones: 
+ 1) 
+ «red de alimentación» o «red eléctrica»: suministro de electricidad de la red de 230 (± 10 %) voltios de corriente alterna a 50 Hz; 
+ 2) 
+ «lavavajillas doméstico»: máquina que lava y aclara la vajilla y que, según la declaración de conformidad emitida por su fabricante, se ajusta a la Directiva 2014/35/UE del Parlamento Europeo y del Consejo  ( 9 ) o a la Directiva 2014/53/UE del Parlamento Europeo y del Consejo  ( 10 ) ; 
+ 3) 
+ «lavavajillas doméstico encastrable»: un lavavajillas doméstico diseñado, probado y comercializado exclusivamente para: 
+ a) 
+ ser encastrado en una estructura de ebanistería o panelado (por la parte superior, inferior y lateral); 
+ b) 
+ ser fijado con seguridad por la parte lateral, superior o inferior a la estructura de ebanistería o los paneles, e 
+ c) 
+ ir equipado con una cobertura frontal integral de fábrica o con un panel frontal a medida; 
+ 4) 
+ «punto de venta»: lugar donde se exponen o se ofrecen lavavajillas domésticos para su venta, alquiler o alquiler con derecho a compra. 
+ A efectos de los anexos, en el anexo I figuran definiciones adicionales. 
+ Artículo 3 
+ Obligaciones de los proveedores 
+ 1.   Los proveedores velarán por que: 
+ a) 
+ cada lavavajillas doméstico se entregue con una etiqueta impresa en el formato establecido en el anexo III; 
+ b) 
+ los parámetros de la ficha de información del producto, como se indica en el anexo V, se consignen en la base de datos de los productos; 
+ c) 
+ si así lo solicita específicamente el distribuidor, la ficha de información del producto esté disponible en formato impreso; 
+ d) 
+ el contenido de la documentación técnica que figura en el anexo VI se introduzca en la base de datos de los productos; 
+ e) 
+ toda publicidad visual de un modelo específico de lavavajillas doméstico indique la clase de eficiencia energética y la gama de clases de eficiencia energética disponibles en la etiqueta, de conformidad con los anexos VII y VIII; 
+ f) 
+ todo material técnico de promoción relativo a un modelo específico de lavavajillas doméstico, incluido el presentado en internet, que describa sus parámetros técnicos específicos incluya la clase de eficiencia energética de ese modelo y la gama de clases de eficiencia energética disponibles en la etiqueta, de conformidad con el anexo VII; 
+ g) 
+ se facilite a los distribuidores una etiqueta electrónica con el formato y la información que figuran en el anexo III para cada modelo de lavavajillas doméstico; 
+ h) 
+ se facilite a los distribuidores una ficha electrónica de información del producto, como la que figura en el anexo V, para cada modelo de lavavajillas doméstico. 
+ 2.   La clase de eficiencia energética y la clase de ruido acústico aéreo emitido se definen en el anexo II y se determinarán de conformidad con el anexo IV. 
+ Artículo 4 
+ Obligaciones de los distribuidores 
+ Los distribuidores velarán por que: 
+ a) 
+ en el punto de venta, incluidas las ferias comerciales, cada lavavajillas doméstico lleve la etiqueta facilitada por los proveedores de conformidad con el artículo 3, apartado 1, letra a), y que, en el caso de los lavavajillas domésticos encastrables, la etiqueta se exponga de manera claramente visible y, en el caso de todos los demás lavavajillas domésticos, de manera que sea claramente visible en la parte exterior frontal o superior del lavavajillas doméstico; 
+ b) 
+ en caso de venta a distancia, la etiqueta y la ficha de información del producto se presenten de conformidad con los anexos VII y VIII; 
+ c) 
+ toda publicidad visual de un modelo específico de lavavajillas doméstico indique la clase de eficiencia energética de ese modelo y la gama de clases de eficiencia energética disponibles en la etiqueta, de conformidad con el anexo VII; 
+ d) 
+ todo material técnico de promoción relativo a un modelo específico de lavavajillas doméstico, incluido el presentado en internet, que describa sus parámetros técnicos específicos incluya la clase de eficiencia energética de ese modelo y la gama de clases de eficiencia energética disponibles en la etiqueta, de conformidad con el anexo VII. 
+ Artículo 5 
+ Obligaciones de las plataformas de alojamiento en internet 
+ Cuando un prestador de servicios de alojamiento de datos contemplado en el artículo 14 de la Directiva 2000/31/CE permita la venta directa de lavavajillas domésticos a través de su sitio internet, deberá hacer posible que la etiqueta electrónica y la ficha electrónica de información del producto proporcionadas por el distribuidor se muestren en el mecanismo de visualización, de conformidad con lo dispuesto en el anexo VIII, e informará al distribuidor de la obligación de mostrarlas. 
+ Artículo 6 
+ Métodos de medición 
+ La información que deba proporcionarse con arreglo a los artículos 3 y 4 se obtendrá con métodos de medición y de cálculo fiables, exactos y reproducibles que tengan en cuenta los métodos de medición y cálculo más avanzados y reconocidos establecidos en el anexo IV. 
+ Artículo 7 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Los Estados miembros aplicarán el procedimiento de verificación establecido en el anexo IX del presente Reglamento cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 8, apartado 3, del Reglamento (UE) 2017/1369. 
+ Artículo 8 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso tecnológico y presentará al foro consultivo los resultados de esa revisión, incluido, en su caso, un proyecto de propuesta de revisión, a más tardar el 25 de diciembre de 2025. 
+ La revisión deberá evaluar, en particular, lo siguiente: 
+ a) 
+ el potencial de mejora en lo que se refiere al consumo de energía durante el rendimiento funcional y medioambiental de los lavavajillas domésticos; 
+ b) 
+ la eficacia de las medidas existentes para cambiar el comportamiento del usuario final de manera que compre aparatos más eficientes en energía y recursos y utilice programas más eficientes en energía y recursos; 
+ c) 
+ la posibilidad de abordar los objetivos de la economía circular. 
+ Artículo 9 
+ Derogación 
+ El Reglamento (UE) n. o 1059/2010 queda derogado con efecto a partir del 1 de marzo de 2021. 
+ Artículo 10 
+ Medidas transitorias 
+ A partir del 25 de diciembre de 2019 y hasta el 28 de febrero de 2021, la ficha del producto exigida por el artículo 3, letra b), del Reglamento (UE) n. o 1059/2010 podrá ponerse a disposición en la base de datos de los productos en lugar de proporcionarse en formato impreso junto con el producto. En este caso, el proveedor se asegurará de que, si así lo solicita expresamente el distribuidor, la ficha del producto esté disponible en formato impreso. 
+ Artículo 11 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea . 
+ Será aplicable a partir del 1 de marzo de 2021. No obstante, el artículo 10 será aplicable a partir del 25 de diciembre de 2019 y el artículo 3, apartado 1, letras a), b) y c), será aplicable a partir del 1 de noviembre de 2020. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 11 de marzo de 2019. 
+ Por la Comisión 
+ El Presidente 
+ Jean-Claude JUNCKER
+ ( 1 )   
+ DO L 198 de 28.7.2017, p. 1 . 
+ ( 2 )   Reglamento Delegado (UE) n. o 1059/2010 de la Comisión, de 28 de septiembre de 2010, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de los lavavajillas domésticos ( DO L 314 de 30.11.2010, p. 1 ). 
+ ( 3 )   Comunicación de la Comisión. Plan de trabajo sobre diseño ecológico 2016-2019, COM(2016) 773 final, Bruselas, 30 de noviembre de 2016. 
+ ( 4 )   Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía ( DO L 285 de 31.10.2009, p. 10 ). 
+ ( 5 )   Reglamento (UE) n. o 1016/2010 de la Comisión, de 10 de noviembre de 2010, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo respecto de los requisitos de diseño ecológico aplicables a los lavavajillas domésticos ( DO L 293 de 11.11.2010, p. 31 ). 
+ ( 6 )   Directiva 2006/42/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, relativa a las máquinas ( DO L 157 de 9.6.2006, p. 24 ). 
+ ( 7 )   Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea, por el que se modifican las Directivas 89/686/CEE y 93/15/CEE del Consejo y las Directivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE y 2009/105/CE del Parlamento Europeo y del Consejo y por el que se derogan la Decisión 87/95/CEE del Consejo y la Decisión n. o 1673/2006/CE del Parlamento Europeo y del Consejo ( DO L 316 de 14.11.2012, p. 12 ). 
+ ( 8 )   Directiva 2000/31/CE del Parlamento Europeo y del Consejo, de 8 de junio de 2000, relativa a determinados aspectos jurídicos de los servicios de la sociedad de la información, en particular el comercio electrónico en el mercado interior (Directiva sobre comercio electrónico) ( DO L 178 de 17.7.2000, p. 1 ). 
+ ( 9 )   Directiva 2014/35/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de comercialización de material eléctrico destinado a utilizarse con determinados límites de tensión ( DO L 96 de 29.3.2014, p. 357 ). 
+ ( 10 )   Directiva 2014/53/UE del Parlamento Europeo y del Consejo, de 16 de abril de 2014, relativa a la armonización de las legislaciones de los Estados miembros sobre la comercialización de equipos radioeléctricos, y por la que se deroga la Directiva 1999/5/CE ( DO L 153 de 22.5.2014, p. 62 ). 
+ ANEXO I 
+ Definiciones aplicables a los anexos 
+ Se aplicarán las siguientes definiciones: 
+ 1) 
+ «índice de eficiencia energética» (IEE): relación entre el consumo de energía del programa «eco» y el consumo de energía del programa estándar; 
+ 2) 
+ «consumo de energía del programa «eco»» (EPEC): consumo de energía de un lavavajillas doméstico durante el programa «eco», expresado en kilovatios-hora por ciclo; 
+ 3) 
+ «consumo de energía del programa estándar» (SPEC): consumo de energía tomado como referencia en función de la capacidad asignada del lavavajillas doméstico, expresado en kilovatios-hora por ciclo; 
+ 4) 
+ «programa»: serie de operaciones predefinidas que el proveedor ha declarado adecuadas para grados de suciedad o tipos de carga específicos, o ambos; 
+ 5) 
+ «ciclo»: proceso completo de lavado, aclarado y secado, tal como se define en el programa seleccionado, que consiste en una serie de operaciones hasta el cese de toda actividad; 
+ 6) 
+ «código de respuesta rápida» (código QR): código de barras de matriz incluido en la etiqueta energética de un modelo de producto que remite a la información relativa a ese modelo en la parte pública de la base de datos de los productos; 
+ 7) 
+ «cubierto tipo» (ps): un conjunto de artículos para el servicio de mesa que se corresponde con las necesidades de una persona, excluidos utensilios de servicio y fuentes; 
+ 8) 
+ «fuentes y utensilios de servicio»: artículos para la preparación y el servicio de alimentos que pueden incluir cazuelas, cuencos, cubiertos para servir y una fuente; 
+ 9) 
+ «capacidad asignada»: número máximo de cubiertos tipo, junto con fuentes y utensilios de servicio, que pueden limpiarse, enjuagarse y secarse en un lavavajillas doméstico en un ciclo, cargado con arreglo a las instrucciones del proveedor; 
+ 10) 
+ «consumo de agua del programa «eco»» (EPWC): consumo de agua de un lavavajillas doméstico durante el programa «eco», expresado en litros por ciclo; 
+ 11) 
+ «índice de rendimiento de lavado» (I C ): relación entre el rendimiento de lavado de un lavavajillas doméstico y el rendimiento de lavado de un lavavajillas doméstico de referencia; 
+ 12) 
+ «índice de rendimiento de secado» (I D ): relación entre el rendimiento de secado de un lavavajillas doméstico y el rendimiento de secado de un lavavajillas doméstico de referencia; 
+ 13) 
+ «duración del programa» (T t ): tiempo transcurrido desde el inicio del programa seleccionado, excluido cualquier aplazamiento programado por el usuario, hasta que se indica el final del programa y el usuario tiene acceso a la carga; 
+ 14) 
+ «eco»: nombre del programa de un lavavajillas doméstico que el fabricante indica que es adecuado para lavar una vajilla de suciedad normal y al que se refiere la información que figura en la etiqueta energética y la ficha de información del producto; 
+ 15) 
+ «modo desactivado»: condición en que el lavavajillas doméstico está conectado a la fuente de alimentación, pero no ofrece función alguna. también se considerarán modo apagado: 
+ a) 
+ las condiciones que ofrecen solamente indicación de modo apagado; 
+ b) 
+ las condiciones que ofrecen solamente las funciones previstas para garantizar la compatibilidad electromagnética con arreglo a la Directiva 2014/30/UE del Parlamento Europeo y del Consejo  ( 1 ) ; 
+ 16) 
+ «modo preparado»: condición en la que el lavavajillas doméstico está conectado a la red eléctrica y proporciona solamente las funciones siguientes, que pueden durar un tiempo indefinido: 
+ a) 
+ función de reactivación, o función de reactivación y una mera indicación de que esta función de reactivación está habilitada, o 
+ b) 
+ función de reactivación mediante conexión a una red; o 
+ c) 
+ visualización de información o del estado, y/o 
+ d) 
+ función de detección para medidas de emergencia; 
+ 17) 
+ «red»: infraestructura de comunicación compuesta por una topología de enlaces, una arquitectura, incluidos los componentes físicos, unos principios de organización y unos procedimientos y formatos de comunicación (protocolos); 
+ 18) 
+ «inicio aplazado»: condición en la que el usuario ha seleccionado un determinado aplazamiento del inicio del ciclo de programa seleccionado; 
+ 19) 
+ «garantía»: cualquier compromiso del minorista o proveedor con el consumidor de: 
+ a) 
+ reembolsar el precio pagado, o 
+ b) 
+ sustituir, reparar o manipular de cualquier manera los lavavajillas domésticos si no cumplen las especificaciones establecidas en el documento de garantía o en la publicidad correspondiente; 
+ 20) 
+ «mecanismo de visualización»: cualquier pantalla, incluidas las pantallas táctiles, u otra tecnología visual utilizada para presentar contenidos de internet a los usuarios; 
+ 21) 
+ «visualización anidada»: interfaz visual en la que se accede a una imagen o a un conjunto de datos con un clic o un barrido del ratón o con la expansión de otra imagen o conjunto de datos en una pantalla táctil; 
+ 22) 
+ «pantalla táctil»: pantalla que responde al tacto, como un ordenador tableta, un ordenador pizarra o un teléfono inteligente; 
+ 23) 
+ «texto alternativo»: texto facilitado como alternativa a un gráfico que permite presentar información de forma no gráfica cuando los dispositivos de visualización no pueden presentar el gráfico o como ayuda a la accesibilidad, por ejemplo acompañando a las aplicaciones con síntesis de voz. 
+ ( 1 )   Directiva 2014/30/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética ( DO L 96 de 29.3.2014, p. 79 ). 
+ ANEXO II 
+ A.    Clases de eficiencia energética 
+ La clase de eficiencia energética de un lavavajillas doméstico se determinará sobre la base de su índice de eficiencia energética (IEE), tal como se indica en el cuadro 1. 
+ El IEE de un lavavajillas doméstico se calculará de conformidad con el anexo IV. 
+ Cuadro 1 
+ Clases de eficiencia energética 
+ Clase de eficiencia energética 
+ Índice de eficiencia energética 
+ A 
+ IEE < 32 
+ B 
+ 32 ≤ IEE < 38 
+ C 
+ 38 ≤ IEE < 44 
+ D 
+ 44 ≤ IEE < 50 
+ E 
+ 50 ≤ IEE < 56 
+ F 
+ 56 ≤ IEE < 62 
+ G 
+ IEE ≥ 62 
+ B.    Clases de ruido acústico aéreo emitido 
+ La clase de ruido acústico aéreo emitido de un lavavajillas doméstico se determinará sobre la base del ruido acústico aéreo emitido, tal como se indica en el cuadro 2. 
+ Cuadro 2 
+ Clases de ruido acústico aéreo emitido 
+ Clase de ruido acústico aéreo emitido 
+ Ruido (dB(A) 
+ A 
+ n < 39 
+ B 
+ 39 ≤ n ≤ 45 
+ C 
+ 45 ≤ n < 51 
+ D 
+ 51 ≤ n 
+ ANEXO III 
+ Etiqueta 
+ 1.   ETIQUETA 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ código QR; 
+ II. 
+ nombre o marca comercial del proveedor; 
+ III. 
+ identificador del modelo del proveedor; 
+ IV. 
+ escala de clases de eficiencia energética, de la A a la G; 
+ V. 
+ clase de eficiencia energética determinada de conformidad con la letra A del anexo II; 
+ VI. 
+ consumo de energía del programa «eco» (EPEC) en kWh por 100 ciclos, redondeado al entero más próximo; 
+ VII. 
+ capacidad asignada, en número de cubiertos tipo, para el programa «eco»; 
+ VIII. 
+ consumo de agua del programa «eco» (EPWC) en litros por ciclo, redondeado al primer decimal; 
+ IX. 
+ duración del programa «eco» en h:min, redondeada al minuto más próximo; 
+ X. 
+ ruido acústico aéreo emitido expresado en dB(A) con respecto a 1 pW y redondeado al entero más próximo, y clase de ruido acústico aéreo emitido, determinado de conformidad con la letra B del anexo II; 
+ XI. 
+ el número del presente Reglamento, que es «2019/2017». 
+ 2.   DISEÑO DE LA ETIQUETA 
+ El diseño de la etiqueta se ajustará a la figura que aparece a continuación. 
+ Se tendrán en cuenta las siguientes precisiones: 
+ a) 
+ la etiqueta medirá al menos 96 mm de ancho y 192 mm de alto, aunque se imprima en un formato mayor, su contenido deberá guardar la proporción con las especificaciones citadas; 
+ b) 
+ el fondo de la etiqueta será 100 % blanco; 
+ c) 
+ los tipos de letra serán Verdana y Calibri; 
+ d) 
+ las dimensiones y las especificaciones de los elementos de la etiqueta serán las indicadas en el diseño de la etiqueta para los lavavajillas domésticos. 
+ e) 
+ los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 0,70,100,0: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %; 
+ f) 
+ la etiqueta deberá cumplir íntegramente los siguientes requisitos (los números se refieren a la figura anterior): 
+ los colores del logotipo de la UE serán: 
+ — 
+ fondo: 100,80,0,0; 
+ — 
+ estrellas: 0,0,100,0; 
+ el color del logotipo de energía será 100,80,0,0; 
+ el código QR será 100 % negro; 
+ el nombre del proveedor irá en color 100 % negro y en Verdana negrita, 9 pt; 
+ el identificador del modelo será 100 % negro e irá en Verdana normal, 9 pt; 
+ la escala de A a G será la siguiente: 
+ — 
+ las letras de la escala de eficiencia energética serán de color 100 % blanco e irán en Calibri negrita, 19 pt; las letras irán centradas en un eje a 4,5 mm de la parte izquierda de las flechas; 
+ — 
+ el color de las flechas de la escala de A a G será como sigue: 
+ — 
+ Clase A: 100,0,100,0; 
+ — 
+ Clase B: 70,0,100,0; 
+ — 
+ Clase C: 30,0,100,0; 
+ — 
+ Clase D: 0,0,100,0; 
+ — 
+ Clase E: 0,30,100,0; 
+ — 
+ Clase F: 0,70,100,0; 
+ — 
+ Clase G: 0,100,100,0; 
+ los separadores internos tendrán un grosor de 0,5 pt y el color será 100 % negro; 
+ la letra de la clase de eficiencia energética será de color blanco 100 % e irá en Calibri negrita, 33 pt; la flecha de la clase de eficiencia energética y la flecha correspondiente de la escala A a G se colocarán de forma que sus puntas estén alineadas; la letra de la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, que será de color 100 % negro; 
+ el valor del consumo de energía del programa «eco» por 100 ciclos se indicará en Verdana negrita, 28 pt; «kWh» irá en Verdana normal, 18 pt; el número «100» en el pictograma que representa 100 ciclos irá en Verdana normal, 14 pt; el valor y la unidad estarán centrados y se indicarán en color 100 % negro; 
+ los pictogramas serán como figuran en los diseños de las etiquetas y de la siguiente manera: 
+ — 
+ las líneas de los pictogramas tendrán un grosor de 1,2 pt y serán, al igual que los textos (números y unidades), de color 100 % negro; 
+ — 
+ los textos que siguen al pictograma irán en Verdana negrita, 16 pt, con la unidad en Verdana normal, 12 pt, y estarán centrados debajo del pictograma; 
+ — 
+ pictograma de ruido acústico aéreo emitido : el número de decibelios en el altavoz irá en Verdana negrita, 12 pt, con la unidad «dB» en Verdana normal, 9 pt; el intervalo de clases de ruido (A a D) estará centrado debajo del pictograma, con la letra de la clase de ruido aplicable en Verdana negrita, 16 pt, y las demás letras de las clases de ruido en Verdana normal 10 pt; 
+ el identificador del modelo será 100 % negro e irá en Verdana normal, 6 pt; 
+ ANEXO IV 
+ Métodos y cálculos de medición 
+ Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, se harán mediciones y cálculos utilizando normas armonizadas cuyos números de referencia hayan sido publicados a este efecto en el Diario Oficial de la Unión Europea , u otros métodos fiables, exactos y reproducibles que tengan en cuenta los métodos más avanzados generalmente reconocidos, y de conformidad con las disposiciones que se indican a continuación: 
+ El consumo de energía, el IEE, el consumo de agua, la duración del programa, los resultados de la limpieza y el secado y el ruido acústico aéreo emitido de un modelo de lavavajillas doméstico se medirán o calcularán utilizando el programa «eco» cuando el lavavajillas doméstico esté cargado a la capacidad asignada. El consumo de energía, el consumo de agua, la duración del programa, la limpieza y el secado se medirán de forma simultánea. 
+ El EPWC se calcula en kWh por ciclo y se redondea al primer decimal como se indica a continuación: 
+ La duración del programa eco (T t ) se expresa en horas y minutos y se redondea al minuto más próximo. 
+ El ruido acústico aéreo emitido se expresa en dB(A) con respecto a 1 pW y se redondea al número entero más próximo; 
+ 1.   ÍNDICE DE EFICIENCIA ENERGÉTICA 
+ Para calcular el IEE de un modelo de lavavajillas doméstico, el EPEC se compara con el SPEC. 
+ a) 
+ El IEE se calcula mediante la siguiente fórmula y se redondea al primer decimal: 
+ IEE = (EPEC/SPEC) × 100 
+ donde: 
+ EPEC es el consumo energético del programa «eco» de un lavavajillas doméstico, medido en kWh/ciclo y redondeado al tercer decimal; 
+ SPEC es el consumo energético del programa estándar de un lavavajillas doméstico. 
+ b) 
+ El SPEC se calcula en kWh/ciclo y se redondea al tercer decimal como se indica a continuación: 
+ 1) 
+ para los lavavajillas domésticos con una capacidad asignada ps ≥ 10 y una anchura > 50 cm: 
+ SPEC = 0,025 × ps + 1,350
+ 2) 
+ para los lavavajillas domésticos con una capacidad asignada ps ≤ 9 o una anchura ≤ 50 cm: 
+ SPEC = 0,090 × ps + 0,450
+ donde ps es el número de cubiertos tipo. 
+ 2.   ÍNDICE DE EFICACIA DE LAVADO 
+ Para calcular el índice de rendimiento de lavado (I C ) de un modelo de lavavajillas doméstico, el rendimiento de lavado del programa «eco» se compara con el rendimiento de lavado de un lavavajillas de referencia. 
+ El I C se calcula mediante la siguiente fórmula y se redondea al segundo decimal: 
+ I C = exp (ln I C ) 
+ y 
+ donde: 
+ C T,i es el rendimiento de lavado del programa «eco» del lavavajillas doméstico sometido a una sola tanda de ensayo (i), redondeada al segundo decimal; 
+ C R,i es el rendimiento de lavado del lavavajillas de referencia para una sola tanda de ensayo (i), redondeada al segundo decimal; 
+ n es el número de tandas de ensayo. 
+ 3.   ÍNDICE DE EFICACIA DE SECADO 
+ Para calcular el índice de rendimiento de secado (I D ) de un modelo de lavavajillas doméstico, el rendimiento de secado del programa «eco» se compara con el rendimiento de secado del lavavajillas de referencia. 
+ El I D se calcula mediante la siguiente fórmula y se redondea al segundo decimal: 
+ I D = exp (ln I D ) 
+ y 
+ donde: 
+ I D,i es el índice de rendimiento de secado del programa «eco» del lavavajillas doméstico sometido a una sola tanda de ensayo (i); 
+ n es el número de ensayos combinados de lavado y secado. 
+ El I D,i se calcula mediante la siguiente fórmula y se redondea al segundo decimal: 
+ ln I D,i 
+ = ln (D T,i /D R,t ) 
+ donde: 
+ D T,i es la puntuación media de rendimiento de secado del programa «eco» del lavavajillas doméstico sometido a una sola tanda de ensayo (i), redondeada al segundo decimal; 
+ D R,t es la puntuación de secado objetivo del lavavajillas de referencia, redondeada al segundo decimal. 
+ 4.   MODOS DE BAJO CONSUMO 
+ Se mide el consumo de energía del modo apagado (P o ), del modo preparado (P sm ) y, en su caso, del inicio aplazado (P ds ). Los valores medidos se expresarán en W y se redondearán al segundo decimal. 
+ Durante las mediciones del consumo eléctrico en modos de bajo consumo se comprobará y registrará lo siguiente: 
+ — 
+ la presentación o no de información; 
+ — 
+ la activación o no de una conexión de red. 
+ ANEXO V 
+ Ficha de información sobre el producto 
+ La parte informativa de la ficha de información del producto de un lavavajillas doméstico con arreglo al artículo 3, apartado 1, letra b), será introducida por el proveedor en la base de datos de los productos de acuerdo con el cuadro 3. 
+ El manual del usuario u otra documentación que acompañe al producto indicará claramente el enlace al modelo en la base de datos del producto, bien como una dirección URL legible por personas, bien como un código QR, o bien facilitando el número de registro del producto. 
+ Cuadro 3 
+ Contenido, orden y formato de la ficha de información del producto 
+ Nombre o marca del proveedor: 
+ Dirección del proveedor 
+  ( 2 ) 
+ : 
+ Identificador del modelo: 
+ Parámetros generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Capacidad asignada  ( 1 ) (ps) 
+ x 
+ Dimensiones en cm 
+ Altura 
+ x 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ IEE  ( 1 ) 
+ x,x 
+ Clase de eficiencia energética  ( 1 ) 
+ [A/B/C/D/E/F/G]  ( 3 ) 
+ Índice de rendimiento de lavado  ( 1 ) 
+ x,xx 
+ Índice de rendimiento de secado  ( 1 ) 
+ x,xx 
+ Consumo de energía en kWh [por ciclo], sobre la base del programa «eco» utilizando una carga con agua fría; El consumo real de energía dependerá de cómo se utilice el aparato. 
+ x,xxx 
+ Consumo de agua en litros [por ciclo], sobre la base del programa «eco». El consumo real de agua dependerá de cómo se utilice el aparato y de la dureza del agua. 
+ x,x 
+ Duración del programa  ( 1 ) (h:min) 
+ x:xx 
+ Tipo 
+ [encastrable/independiente] 
+ Ruido acústico aéreo emitido  ( 1 ) [dB(A) re 1pW] 
+ x 
+ Clase de ruido acústico aéreo emitido  ( 1 ) 
+ [A/B/C/D]  ( 3 ) 
+ Modo apagado (W) 
+ x,xx 
+ Modo preparado (W) 
+ x,xx 
+ Inicio aplazado (W) (en su caso) 
+ x,xx 
+ Modo preparado en red (en su caso) 
+ x,xx 
+ Duración mínima de la garantía ofrecida por el proveedor 
+  ( 2 ) 
+ : 
+ Información adicional: 
+ Enlace al sitio web del proveedor en el que se encuentra la información a que se refiere el punto 6 del anexo II del Reglamento (UE) 2019/2022 de la Comisión  ( 1 ) 
+  ( 2 ) : 
+ ( 1 )   para el programa «eco». 
+ ( 2 )   los cambios introducidos en estos elementos no se considerarán relevantes a efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 3 )   si la base de datos de los productos genera automáticamente el contenido definitivo de esta casilla, el proveedor no introducirá estos datos. 
+ ( 1 )   Reglamento (UE) 2019/2022 de la Comisión, de 1 de octubre de 2019, por el que se establecen los requisitos de diseño ecológico aplicables a los lavavajillas domésticos con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, se modifica el Reglamento (CE) n. o 1275/2008 de la Comisión y se deroga el Reglamento (UE) n. o 1016/2010 de la Comisión (véase la página 267 del presente Diario Oficial). 
+ ANEXO VI 
+ Documentación técnica 
+ 1.    
+ La documentación técnica a la que se refiere el artículo 3, apartado 1, letra d), deberá incluir: 
+ a) 
+ la información establecida en el anexo V; 
+ b) 
+ la información establecida en el cuadro 4. estos valores se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX; 
+ Cuadro 4 
+ Información que debe incluirse en la documentación técnica 
+ PARÁMETRO 
+ UNIDAD 
+ VALOR 
+ Consumo de energía del programa «eco» (EPEC), redondeado al tercer decimal. 
+ kWh/ciclo 
+ X,XXX 
+ Consumo de energía del programa estándar (SPEC), redondeado al tercer decimal. 
+ kWh/ciclo 
+ X,XXX 
+ Índice de eficiencia energética (IEE) 
+ — 
+ X,X 
+ Consumo de agua del programa «eco» (EPWC), redondeado al primer decimal 
+ L/ciclo 
+ X,X 
+ Índice de rendimiento de lavado (I C ) 
+ — 
+ X,XX 
+ Índice de rendimiento de secado (I D ) 
+ — 
+ X,XX 
+ Duración del programa eco (T t ), redondeada al minuto más próximo 
+ h: mín. 
+ X:XX 
+ Consumo de energía en modo apagado (P o ), redondeado al segundo decimal 
+ W 
+ X,XX 
+ Consumo de energía en modo preparado (P sm ), redondeado al segundo decimal 
+ W 
+ X,XX 
+ ¿Incluye el modo preparado la visualización de información? 
+ — 
+ Sí/No 
+ Consumo de energía en modo preparado (P sm ) en condición de modo preparado en red (en su caso), redondeado al segundo decimal 
+ W 
+ X,XX 
+ Consumo de energía en inicio aplazado (P ds ) (en su caso), redondeado al segundo decimal 
+ W 
+ X,XX 
+ Ruido acústico aéreo emitido 
+ dB(A) re 1 pW 
+ X 
+ c) 
+ si procede, las referencias de las normas armonizadas aplicadas; 
+ d) 
+ si procede, las demás especificaciones y normas técnicas aplicadas; 
+ e) 
+ los detalles y resultados de los cálculos efectuados con arreglo al anexo IV; 
+ f) 
+ una lista de todos los modelos equivalentes, incluido el identificador del modelo. 
+ 2.    
+ Si la información incluida en la documentación técnica de un modelo concreto de lavavajillas doméstico se ha obtenido mediante uno de los métodos siguientes, o de ambos: 
+ — 
+ a partir de un modelo con las mismas características técnicas pertinentes a efectos de la información técnica que debe facilitarse, pero que es producido por un proveedor distinto; 
+ — 
+ mediante cálculos efectuados sobre la base del diseño o por extrapolación de otro modelo del mismo proveedor o de un proveedor diferente; 
+ la documentación técnica incluirá los detalles de dicho cálculo, la evaluación realizada por los proveedores para comprobar la exactitud de los cálculos y, en su caso, la declaración de identidad entre los modelos de distintos proveedores. 
+ ANEXO VII 
+ Información que debe facilitarse en la publicidad visual, en el material técnico de promoción, en la venta a distancia y el telemarketing, salvo la venta a distancia por internet 
+ 1.    
+ En los anuncios visuales, para garantizar la conformidad con los requisitos establecidos en el artículo 3, apartado 1, letra e), y en el artículo 4, letra c), la clase energética y el intervalo de clases de eficiencia disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo. 
+ 2.    
+ En el material promocional, para garantizar la conformidad con los requisitos establecidos en el artículo 3, punto 1, letra f), y en el artículo 4, letra d), la clase de eficiencia energética y el intervalo de clases de eficiencia energética disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo. 
+ 3.    
+ En toda venta a distancia por medio impreso deben mostrarse, como se indica en el punto 4 del presente anexo, la clase de eficiencia energética y el intervalo de clases de eficiencia energética disponibles en la etiqueta. 
+ 4.    
+ La clase de eficiencia energética y el intervalo de clases de eficiencia energética deberán mostrarse, como se indica en la figura 1: 
+ a) 
+ con una flecha que contenga la letra de la clase de eficiencia energética, en color 100 % blanco, en Calibri negrita y en un tamaño de fuente al menos equivalente al del precio, si este aparece indicado; 
+ b) 
+ con un color de la flecha igual al de la clase de eficiencia energética; 
+ c) 
+ indicando el intervalo de clases de eficiencia energética disponibles, en color 100 % negro; y 
+ d) 
+ un tamaño que haga que la flecha sea claramente visible y legible. la letra contenida en la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, con un borde de 0,5 pt en color 100 % negro en torno a la flecha y la letra de la clase de eficiencia energética. 
+ No obstante, si el anuncio visual, el material técnico promocional o la venta a distancia por medio impreso se imprimen en monocromo, la flecha podrá estar en ellos en monocromo. 
+ Figura 1 
+ Flecha izquierda/derecha coloreada/monocroma, con indicación del intervalo de clases de eficiencia energética 
+ 5.    
+ En la venta a distancia por telemarketing debe informarse específicamente al cliente sobre la clase de eficiencia energética del producto y el intervalo de clases de eficiencia energética disponibles en la etiqueta, así como sobre la posibilidad de que el cliente acceda a la etiqueta y a la ficha de información del producto a través del sitio web de la base de datos del producto o solicitando una copia impresa. 
+ 6.    
+ Para todas las situaciones mencionadas en los puntos 1 a 3 y 5, el cliente deberá tener la posibilidad de obtener, previa solicitud, una copia impresa de la etiqueta y de la ficha de información del producto. 
+ ANEXO VIII 
+ Información que debe facilitarse en caso de venta a distancia por internet 
+ 1.    
+ La etiqueta electrónica facilitada por los proveedores conforme al artículo 3, apartado 1, letra g), deberá mostrarse en el mecanismo de visualización cerca del precio del producto. Deberá tener un tamaño que la haga claramente visible y legible y que sea proporcional al tamaño indicado en el punto 2 del anexo III. La etiqueta podrá mostrarse mediante una visualización anidada, en cuyo caso la imagen utilizada para acceder a ella deberá cumplir las especificaciones establecidas en el punto 2 del presente anexo. Si se utiliza la visualización anidada, la etiqueta deberá aparecer con el primer clic o barrido del ratón sobre la imagen o la expansión de la misma en pantalla táctil. 
+ 2.    
+ En caso de visualización anidada, la imagen que se use para acceder a la etiqueta, como se indica en la figura 2, deberá: 
+ a) 
+ consistir en una flecha del color correspondiente a la clase de eficiencia energética del producto en la etiqueta; 
+ b) 
+ indicar en la flecha la clase de eficiencia energética del producto en color 100 % blanco, en Calibri negrita y con un tamaño de fuente equivalente al del precio; 
+ c) 
+ indicar el intervalo de clases de eficiencia energética disponibles, en color 100 % negro; y 
+ d) 
+ presentar uno de los dos formatos siguientes, y su tamaño deberá ser tal que la flecha sea claramente visible y legible. la letra contenida en la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, con un borde visible de color 100 % negro en torno a la flecha y la letra de la clase de eficiencia energética. 
+ Figura 2 
+ Flecha izquierda/derecha coloreada, con indicación del intervalo de clases de eficiencia energética 
+ 3.    
+ En caso de visualización anidada, la visualización de la etiqueta deberá seguir la siguiente secuencia: 
+ a) 
+ la imagen a que se refiere el punto 2 del presente anexo se presentará en el mecanismo de visualización cerca del precio del producto; 
+ b) 
+ la imagen deberá enlazar con la etiqueta tal como se expone en el anexo III; 
+ c) 
+ la etiqueta aparecerá con un clic o barrido del ratón sobre la imagen o una expansión de la misma en pantalla táctil; 
+ d) 
+ la etiqueta aparecerá en forma de «pop-up» (ventana emergente), pestaña nueva o pantalla en recuadro; 
+ e) 
+ para aumentar el tamaño de la etiqueta en las pantallas táctiles, se aplicarán las instrucciones sobre ampliación táctil de estos dispositivos; 
+ f) 
+ la etiqueta dejará de visualizarse utilizando la opción «cerrar» u otro mecanismo habitual de cierre; 
+ g) 
+ el texto alternativo al gráfico, que aparecerá si no se visualiza la etiqueta, consistirá en la clase de eficiencia energética del producto y tendrá un tamaño de fuente equivalente al del precio. 
+ 4.    
+ La ficha electrónica de información del producto facilitada por los proveedores conforme al artículo 3, apartado 1, letra h), se mostrará en el mecanismo de visualización cerca del precio del producto. Deberá tener un tamaño que la haga claramente visible y legible. La ficha de información del producto podrá mostrarse mediante visualización anidada o por referencia a la base de datos de los productos, en cuyo caso el enlace utilizado para acceder a la ficha de información del producto deberá indicar de manera clara y legible el texto «Ficha de información del producto». Si se utiliza la visualización anidada, la ficha de información del producto aparecerá con el primer clic o barrido del ratón sobre el enlace o la primera expansión de este en pantalla táctil. 
+ ANEXO IX 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Las tolerancias de verificación que contempla el presente anexo se refieren únicamente a la verificación de los parámetros medidos por las autoridades del Estado miembro y no deben ser utilizadas por el proveedor como tolerancia permitida para establecer los valores indicados en la documentación técnica. Los valores y las clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores presentados en la documentación técnica. 
+ En caso de que un modelo haya sido diseñado para poder detectar que está siendo objeto de ensayo (por ejemplo, reconociendo las condiciones de ensayo o el ciclo de ensayo) y reaccionar específicamente con una alteración automática de su comportamiento durante el ensayo con el objetivo de alcanzar un nivel más favorable de cualquiera de los parámetros especificados en el presente Reglamento o incluidos en la documentación técnica o en cualquiera de los documentos facilitados, se considerará que el modelo y todos los modelos equivalentes no son conformes. 
+ Al verificar la conformidad de un modelo de producto con los requisitos establecidos en el presente Reglamento, las autoridades de los Estados miembros aplicarán el siguiente procedimiento: 
+ 1) 
+ Las autoridades del Estado miembro verificarán una sola unidad del modelo. 
+ 2) 
+ Se considerará que el modelo cumple los requisitos aplicables si: 
+ a) 
+ los valores indicados en la documentación técnica con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 (valores declarados), así como, en su caso, los valores utilizados para calcular dichos valores, no son más favorables para el proveedor que los correspondientes valores indicados en las actas de ensayo; y 
+ b) 
+ los valores publicados en la etiqueta y en la ficha de información del producto no son más favorables para el proveedor que los valores declarados, y la clase de eficiencia energética y el ruido acústico aéreo emitido no son más favorables para el proveedor que la clase determinada por los valores declarados; y 
+ c) 
+ cuando las autoridades del Estado miembro someten a ensayo la unidad del modelo, los valores determinados (los valores de los parámetros pertinentes medidos en ensayos y los valores calculados a partir de esas mediciones) se ajustan a las tolerancias de verificación respectivas indicadas en el cuadro 5. 
+ 3) 
+ Si no se alcanzan los resultados a que se refiere el punto 2, letras a) o b), se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento. 
+ 4) 
+ Si no se obtiene el resultado a que se refiere el punto 2, letra c), las autoridades del Estado miembro someterán a ensayo tres unidades adicionales del mismo modelo. Como alternativa, esas tres unidades adicionales seleccionadas podrán pertenecer a uno o varios modelos equivalentes. 
+ 5) 
+ El modelo se considerará conforme con los requisitos aplicables si la media aritmética de los valores determinados correspondientes a esas tres unidades cumple las respectivas tolerancias indicadas en el cuadro 5. 
+ 6) 
+ Si no se alcanza el resultado a que se refiere el punto 5, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento. 
+ 7) 
+ Las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión sin demora una vez adoptada una decisión sobre la no conformidad del modelo con arreglo a los puntos 3 y 6. 
+ Las autoridades del Estado miembro utilizarán los métodos de medición y cálculo establecidos en el anexo IV. 
+ Las autoridades del Estado miembro aplicarán únicamente las tolerancias de verificación indicadas en el cuadro 5 y solo utilizarán el procedimiento descrito en los puntos 1 a 7 en lo que concierne a los requisitos contemplados en el presente anexo. Con respecto a los parámetros del cuadro 5 no se aplicarán otras tolerancias, como las establecidas en normas armonizadas o en cualquier otro método de medición. 
+ Cuadro 5 
+ Tolerancias de verificación 
+ Parámetro 
+ Tolerancias de verificación 
+ Consumo de energía del programa «eco» (EPEC) 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de EPEC en más del 5 %. 
+ Consumo de agua del programa «eco» (EPWC) 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de EPWC en más del 5 %. 
+ Índice de rendimiento de lavado (I C ) 
+ El valor determinado  ( *1 ) no podrá ser inferior al valor declarado de I C en más del 14 %. 
+ Índice de rendimiento de secado (I D ) 
+ El valor determinado  ( *1 ) no podrá ser inferior al valor declarado de I D en más del 12 %. 
+ Duración del programa (T t ) 
+ El valor determinado  ( *1 ) no podrá superar los valores declarados de T t en más del 5 % o en 10 minutos, según el que sea el período más largo. 
+ Consumo de energía en modo apagado (P o ) 
+ El valor determinado  ( *1 ) del consumo de energía P o no podrá superar el valor declarado en más de 0,10 W. 
+ Consumo de energía en modo preparado (P sm ) 
+ El valor determinado  ( *1 ) del consumo de energía P sm no podrá superar el valor declarado en más de un 10 %, si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Consumo de energía en inicio aplazado (P ds ) 
+ El valor determinado  ( *1 ) del consumo de energía P ds no podrá superar el valor declarado en más de un 10 %, si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Ruido acústico aéreo emitido 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado en más de 2 dB(A) re 1pW. 
+ ( *1 )   En el caso de las tres unidades adicionales sometidas a ensayo conforme a lo dispuesto en el punto 4, por valor determinado se entenderá la media aritmética de los valores determinados para estas tres unidades adicionales. 
+ 

@@ -1,0 +1,2456 @@
+ 
+ L_2021068ES.01006201.xml 
+ 26.2.2021    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 68/62 
+ REGLAMENTO DELEGADO (UE) 2021/340 DE LA COMISIÓN
+ de 17 de diciembre de 2020
+ por el que se modifican los Reglamentos Delegados (UE) 2019/2013, (UE) 2019/2014, (UE) 2019/2015, (UE) 2019/2016, (UE) 2019/2017 y (UE) 2019/2018 en lo relativo a los requisitos de etiquetado energético de las pantallas electrónicas, las lavadoras domésticas y las lavadoras-secadoras domésticas, las fuentes luminosas, los aparatos de refrigeración, los lavavajillas domésticos y los aparatos de refrigeración con función de venta directa 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Visto el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo, de 4 de julio de 2017, por el que se establece un marco para el etiquetado energético y se deroga la Directiva 2010/30/UE  ( 1 ) , y en particular su artículo 11, apartado 5, y su artículo 16, 
+ Considerando lo siguiente: 
+ (1) 
+ El Reglamento (UE) 2017/1369 otorga a la Comisión poderes para adoptar actos delegados. 
+ (2) 
+ Mediante los Reglamentos Delegados (UE) 2019/2013  ( 2 ) , (UE) 2019/2014  ( 3 ) , (UE) 2019/2015  ( 4 ) , (UE) 2019/2016  ( 5 ) , (UE) 2019/2017  ( 6 ) y (UE) 2019/2018  ( 7 ) de la Comisión (en lo sucesivo, «Reglamentos modificados»), se establecieron disposiciones relativas al etiquetado energético de las pantallas electrónicas, las lavadoras domésticas y las lavadoras-secadoras domésticas, las fuentes luminosas, los aparatos de refrigeración, los lavavajillas domésticos y los aparatos de refrigeración con función de venta directa. 
+ (3) 
+ Para evitar confusiones a los fabricantes y a las autoridades nacionales de vigilancia del mercado sobre los valores que deben incluirse en la documentación técnica y cargarse en la base de datos de los productos y en relación con las tolerancias de verificación, debe añadirse una definición de «valores declarados». 
+ (4) 
+ La documentación técnica debe bastar para que las autoridades de vigilancia del mercado puedan comprobar los valores publicados en la etiqueta y en la ficha de información del producto. De conformidad con el artículo 12 del Reglamento (UE) 2017/1369, los valores declarados del modelo deben introducirse en la base de datos de los productos. 
+ (5) 
+ Los parámetros pertinentes de los productos deben medirse o calcularse con métodos fiables, precisos y reproducibles. Estos deben tener en cuenta los métodos de medición más avanzados reconocidos, incluidas, en su caso, las normas armonizadas adoptadas por los organismos de normalización europeos, tal como se enumeran en el anexo I del Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo  ( 8 ) . 
+ (6) 
+ Los productos que contengan fuentes luminosas que no puedan extraerse para su verificación sin dañar una o varias de ellas deben ser sometidos a ensayo como fuentes luminosas para la evaluación de la conformidad y la verificación. 
+ (7) 
+ En el caso de las pantallas electrónicas, aún no se han elaborado normas armonizadas, y las normas pertinentes vigentes no cubren todos los parámetros regulados necesarios, especialmente por lo que se refiere al alto rango dinámico y al control automático de brillo. Hasta que los organismos europeos de normalización adopten normas armonizadas con respecto a esos grupos de productos deben utilizarse, para garantizar la comparabilidad de las mediciones y los cálculos, los métodos transitorios establecidos en el presente Reglamento u otros métodos fiables, precisos y reproducibles, que tengan en cuenta el estado de la técnica más avanzado generalmente aceptado. 
+ (8) 
+ Los armarios verticales de aire estático con puertas no transparentes son aparatos de refrigeración profesionales que se regulan en el Reglamento Delegado (UE) 2015/1094 de la Comisión  ( 9 ) y, por tanto, deben quedar fuera del ámbito de aplicación del Reglamento Delegado (UE) 2019/2018. 
+ (9) 
+ La terminología y los métodos de ensayo que se utilizan en el Reglamento (UE) 2019/2018 son coherentes con la terminología y los métodos de ensayo adoptados en las normas EN 16901, EN 16902, EN 50597 y EN ISO 23953-2 y EN 16838. 
+ (10) 
+ Las medidas previstas en el presente Reglamento han sido debatidas por el foro consultivo y con expertos de los Estados miembros, de conformidad con los artículos 14 y 17 del Reglamento (UE) 2017/1369. 
+ (11) 
+ Procede, por tanto, modificar los Reglamentos Delegados (UE) 2019/2013, (UE) 2019/2014, (UE) 2019/2015, (UE) 2019/2016, (UE) 2019/2017 y (UE) 2019/2018 en consecuencia. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Modificaciones del Reglamento Delegado (UE) 2019/2013 
+ El Reglamento Delegado (UE) 2019/2013 se modifica como sigue: 
+ 1) 
+ En el artículo 1, apartado 2, la letra g) se sustituye por el texto siguiente: 
+ «g) 
+ las pantallas electrónicas que sean componentes o subconjuntos, tal como se definen en el artículo 2, punto 2, de la Directiva 2009/125/CE;». 
+ 2) 
+ El artículo 2 se modifica como sigue: 
+ a) 
+ el punto 10 se sustituye por el texto siguiente: 
+ «10) 
+ “HiNA”: alta disponibilidad a la red (HiNA), según la definición que figura en el artículo 2 del Reglamento (CE) n. o 1275/2008 de la Comisión  ( *1 ) . 
+ ( *1 )   Reglamento (CE) n. o 1275/2008 de la Comisión, de 17 de diciembre de 2008, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo en lo concerniente a los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos preparado y desactivado, así como en el modo preparado en red, de los equipos eléctricos y electrónicos domésticos y de oficina ( DO L 339 de 18.12.2008, p. 45 )»;"
+ b) 
+ se suprime el punto 17. 
+ 3) 
+ En el artículo 3, apartado 1, la letra b) se sustituye por el texto siguiente: 
+ «b) 
+ los valores de los parámetros incluidos en la ficha de información del producto, como se indica en el anexo V, se consignen en la parte pública de la base de datos de los productos;». 
+ 4) 
+ Los anexos I, II, III, IV, V, VI y IX se modifican con arreglo a lo dispuesto en el anexo I del presente Reglamento. 
+ Artículo 2 
+ Modificaciones del Reglamento Delegado (UE) 2019/2014 
+ El Reglamento Delegado (UE) 2019/2014 se modifica como sigue: 
+ 1) 
+ En el artículo 3, apartado 1, la letra b) se sustituye por el texto siguiente: 
+ «b) 
+ los valores de los parámetros incluidos en la ficha de información del producto, como se indica en el anexo V, se consignen en la parte pública de la base de datos de los productos;». 
+ 2) 
+ Los anexos I, IV, V, VI, VIII, IX y X se modifican con arreglo a lo dispuesto en el anexo II del presente Reglamento. 
+ Artículo 3 
+ Modificaciones del Reglamento Delegado (UE) 2019/2015 
+ El Reglamento Delegado (UE) 2019/2015 se modifica como sigue: 
+ 1) 
+ En el artículo 2, el punto 3 se sustituye por el texto siguiente: 
+ «3) 
+ “Producto continente”: producto que contiene una o varias fuentes luminosas o mecanismos de control independientes, o ambas cosas, lo que incluye, entre otras cosas, las luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen, los aparatos domésticos que contienen fuentes luminosas o los muebles (mostradores, espejos y vitrinas) con fuentes luminosas.». 
+ 2) 
+ El artículo 3 se modifica como sigue: 
+ a) 
+ en el apartado 1, la letra b) se sustituye por el texto siguiente: 
+ «b) 
+ los valores de los parámetros incluidos en la ficha de información del producto, como se indica en el anexo V, se consignen en la parte pública de la base de datos de los productos;»; 
+ b) 
+ en el apartado 1, la letra i) se sustituye por el texto siguiente: 
+ «i) 
+ no obstante lo dispuesto en el artículo 11, apartado 13, letra b), del Reglamento (UE) 2017/1369, a solicitud de los distribuidores y de conformidad con el artículo 4, letra e), se faciliten etiquetas impresas autoadhesivas, del mismo tamaño de las etiquetas existentes, para el reescalado de los productos.»; 
+ c) 
+ se inserta el apartado 1 bis siguiente: 
+ «1    bis . No obstante lo dispuesto en el artículo 11, apartado 13, letra a), del Reglamento (UE) 2017/1369, el proveedor, cuando introduzca una fuente luminosa en el mercado, la suministrará con la etiqueta existente hasta el 31 de agosto de 2021 y con la etiqueta reescalada a partir del 1 de septiembre de 2021. El proveedor podrá optar por suministrar fuentes luminosas introducidas en el mercado durante el período comprendido entre el 1 de julio y el 31 de agosto de 2021 ya con la etiqueta reescalada en caso de que no se hayan comercializado fuentes luminosas pertenecientes al mismo modelo o a modelos equivalentes antes del 1 de julio de 2021. En tal caso, el distribuidor no pondrá esas fuentes luminosas a la venta antes del 1 de septiembre de 2021. Los proveedores notificarán esta consecuencia a los distribuidores afectados tan pronto como sea posible, en particular cuando incluyan dichas fuentes luminosas en sus ofertas a los distribuidores.». 
+ 3) 
+ En el artículo 4, la letra e) se sustituye por el texto siguiente: 
+ «e) 
+ no obstante lo dispuesto en el artículo 11, apartado 13, del Reglamento (UE) 2017/1369, las etiquetas existentes en las fuentes luminosas en los puntos de venta se sustituyan por etiquetas reescaladas de forma que queden cubiertas, incluso en caso de estar impresas o unidas al embalaje, en el plazo de dieciocho meses después de la fecha de aplicación del presente Reglamento, y las etiquetas reescaladas no se expongan antes de esa fecha.». 
+ 4) 
+ El artículo 10, último párrafo, se modifica como sigue: 
+ «Será aplicable a partir del 1 de septiembre de 2021. No obstante, el artículo 3, apartado 1, letra b), será aplicable a partir del 1 de mayo de 2021, y el artículo 3, apartado 2, letra a), será aplicable a partir del 1 de marzo de 2022.». 
+ 5) 
+ Los anexos I, III, IV, V, VI y IX se modifican con arreglo a lo dispuesto en el anexo III del presente Reglamento. 
+ Artículo 4 
+ Modificaciones del Reglamento Delegado (UE) 2019/2016 
+ El Reglamento Delegado (UE) 2019/2016 se modifica como sigue: 
+ 1) 
+ En el artículo 2, el punto 31 se sustituye por el texto siguiente: 
+ «31) 
+ “aparato móvil de refrigeración”: aparato de refrigeración empleado en lugares donde no hay acceso a la red eléctrica principal y que requiere una red de muy baja tensión (< 120 V DC), combustible o ambas cosas como fuente de energía para desempeñar la función de refrigeración, incluidos aquellos aparatos de refrigeración que, además de las redes de muy baja tensión o el combustible, o ambas cosas, pueden alimentarse de la red eléctrica a través de un convertidor AC/DC externo que debe adquirirse por separado; un aparato comercializado con un convertidor AC/DC no es un aparato móvil de refrigeración;». 
+ 2) 
+ En el artículo 3, apartado 1, la letra b) se sustituye por el texto siguiente: 
+ «b) 
+ los valores de los parámetros incluidos en la ficha de información del producto, como se indica en el anexo V, se consignen en la parte pública de la base de datos de los productos;». 
+ 3) 
+ En el artículo 11, el último párrafo se sustituye por el texto siguiente: 
+ «Será de aplicación a partir del 1 de marzo de 2021. No obstante, el artículo 10 será de aplicación a partir del 25 de diciembre de 2019, el artículo 3, punto 1, letras a), b) y c), será de aplicación a partir del 1 de noviembre de 2020 y la obligación de proporcionar la clase de eficiencia energética para los parámetros de la fuente luminosa mencionada en el anexo V, cuadro 6, será de aplicación a partir del 1 de marzo de 2022.». 
+ 4) 
+ Los anexos I, II, IV, V, VI y IX se modifican con arreglo a lo dispuesto en el anexo IV del presente Reglamento. 
+ Artículo 5 
+ Modificaciones del Reglamento Delegado (UE) 2019/2017 
+ El Reglamento Delegado (UE) 2019/2017 se modifica como sigue: 
+ 1) 
+ En el artículo 3, apartado 1, la letra b) se sustituye por el texto siguiente: 
+ «b) 
+ los valores de los parámetros incluidos en la ficha de información del producto, como se indica en el anexo V, se consignen en la parte pública de la base de datos de los productos;». 
+ 2) 
+ Los anexos I, II, IV, V, VI y IX se modifican con arreglo a lo dispuesto en el anexo V del presente Reglamento. 
+ Artículo 6 
+ Modificaciones del Reglamento Delegado (UE) 2019/2018 
+ El Reglamento Delegado (UE) 2019/2018 se modifica como sigue: 
+ 1) 
+ En el artículo 1, apartado 2, la letra j) se sustituye por el texto siguiente: 
+ «j) 
+ los armarios de esquina o curvos y de carrusel;». 
+ 2) 
+ El artículo 2 se modifica como sigue: 
+ a) 
+ el punto 15 se sustituye por el texto siguiente: 
+ «15) 
+ “armario de esquina o curvo”: aparato de refrigeración con función de venta directa utilizado para lograr una continuidad geométrica entre dos armarios lineales que se sitúan en ángulo o forman una curva. Un armario de esquina o curvo no tiene un eje longitudinal o una longitud reconocibles, ya que únicamente es una forma de relleno (cuña o similar) y no está diseñado para funcionar como una unidad de refrigeración independiente. Las dos extremidades del armario de esquina o curvo están inclinadas a un ángulo de entre 30° y 90°;»; 
+ b) 
+ se añade el punto 25 siguiente: 
+ «25) 
+ “armario de carrusel”: armario para supermercado de forma redonda o circular que puede instalarse como unidad autónoma o como unidad que conecta dos armarios para supermercado lineales. Los armarios de carrusel también pueden ir equipados con un sistema giratorio que haga visible la exposición de productos alimenticios a 360°;»; 
+ c) 
+ se añade el punto 26 siguiente: 
+ «26) 
+ “armario para supermercado”: aparato de refrigeración con función de venta directa destinado a la venta y la exposición de productos alimenticios y otros artículos en establecimientos minoristas, como los supermercados. Los refrigeradores de bebidas, las máquinas expendedoras refrigeradas, las vitrinas de helados y los congeladores de helados no se consideran armarios para supermercado;». 
+ 3) 
+ En el artículo 3, apartado 1, la letra b) se sustituye por el texto siguiente: 
+ «b) 
+ los valores de los parámetros incluidos en la ficha de información del producto, como se indica en el anexo V, se consignen en la parte pública de la base de datos de los productos;». 
+ 4) 
+ En el artículo 9, el último párrafo se sustituye por el texto siguiente: 
+ «Será aplicable a partir del 1 de marzo de 2021, a excepción de la obligación de proporcionar la clase de eficiencia energética para los parámetros de la fuente luminosa a que se hace referencia en el anexo V, cuadro 10, parte 5, que será aplicable a partir del 1 de marzo de 2022.». 
+ 5) 
+ Los anexos I, III, IV, V, VI y IX se modifican con arreglo a lo dispuesto en el anexo VI del presente Reglamento. 
+ Artículo 7 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor a los tres días de su publicación en el Diario Oficial de la Unión Europea . 
+ El artículo 1, apartado 4, el artículo 2, apartado 2, el artículo 4, apartado 4, el artículo 5, apartado 2, y el artículo 6, apartado 5, serán aplicables a partir del 1 de mayo de 2021. El artículo 3, apartado 2, letra a), será aplicable a partir del 1 de mayo de 2021. El artículo 3, apartado 2, letra c), será aplicable a partir del 1 de julio de 2021. El artículo 3, apartado 1, apartado 2, letra b), apartado 3 y apartado 5, será aplicable a partir del 1 de septiembre de 2021. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 17 de diciembre de 2020. 
+ Por la Comisión 
+ La Presidenta 
+ Ursula VON DER LEYEN
+ ( 1 )   
+ DO L 198 de 28.7.2017, p. 1 . 
+ ( 2 )   Reglamento Delegado (UE) 2019/2013 de la Comisión, de 11 de marzo de 2019, por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las pantallas electrónicas y se deroga el Reglamento Delegado (UE) n. o 1062/2010 de la Comisión ( DO L 315 de 5.12.2019, p. 1 ). 
+ ( 3 )   Reglamento Delegado (UE) 2019/2014 de la Comisión, de 11 de marzo de 2019, por el que se complementa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las lavadoras domésticas y las lavadoras-secadoras domésticas y por el que se derogan el Reglamento Delegado (UE) n. o 1061/2010 y la Directiva 96/60/CE de la Comisión ( DO L 315 de 5.12.2019, p. 29 ). 
+ ( 4 )   Reglamento Delegado (UE) 2019/2015 de la Comisión, de 11 de marzo de 2019, por el que se complementa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las fuentes luminosas y se deroga el Reglamento Delegado (UE) n. o 874/2012 de la Comisión ( DO L 315 de 5.12.2019, p. 68 ). 
+ ( 5 )   Reglamento Delegado (UE) 2019/2016 de la Comisión, de 11 de marzo de 2019, por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de los aparatos de refrigeración domésticos y se deroga el Reglamento Delegado (UE) n. o 1060/2010 de la Comisión ( DO L 315 de 5.12.2019, p. 102 ). 
+ ( 6 )   Reglamento Delegado (UE) 2019/2017 de la Comisión, de 11 de marzo de 2019, por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de los lavavajillas domésticos y se deroga el Reglamento Delegado (UE) n. o 1059/2010 de la Comisión ( DO L 315 de 5.12.2019, p. 134 ). 
+ ( 7 )   Reglamento Delegado (UE) 2019/2018 de la Comisión, de 11 de marzo de 2019, por el que se complementa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de los aparatos de refrigeración con función de venta directa ( DO L 315 de 5.12.2019, p. 155 ). 
+ ( 8 )   Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea, por el que se modifican las Directivas 89/686/CEE y 93/15/CEE del Consejo y las Directivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE y 2009/105/CE del Parlamento Europeo y del Consejo y por el que se deroga la Decisión 87/95/CEE del Consejo y la Decisión n. o 1673/2006/CE del Parlamento Europeo y del Consejo ( DO L 316 de 14.11.2012, p. 12 ). 
+ ( 9 )   Reglamento Delegado (UE) 2015/1094 de la Comisión, de 5 de mayo de 2015, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en relación con el etiquetado energético de los armarios de conservación refrigerados profesionales ( DO L 177 de 8.7.2015, p. 2 ). 
+ ANEXO I 
+ Los anexos I, II, III, IV, V, VI y IX del Reglamento Delegado (UE) 2019/2013 se modifican como sigue: 
+ 1) 
+ En el anexo I se añaden los puntos 29 y 30 siguientes: 
+ “ 29) 
+ “valores declarados”: los valores facilitados por el proveedor correspondientes a los parámetros técnicos declarados, calculados o medidos, con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el artículo 3, apartado 1, letra d), y el anexo VI del presente Reglamento, para la verificación del cumplimiento por las autoridades del Estado miembro; 
+ 30) 
+ “garantía”: cualquier compromiso del minorista o proveedor con el consumidor de: 
+ a) 
+ reembolsar el precio pagado; o 
+ b) 
+ sustituir, reparar o manipular de forma pertinente las pantallas electrónicas si no cumplen las especificaciones establecidas en el documento de garantía o en la publicidad correspondiente; ”. 
+ 2) 
+ Al final de la letra B del anexo II se añade el párrafo siguiente: 
+ “ Para el cálculo del IEE se utilizarán los valores declarados de la potencia en modo encendido ( P measured 
+ ) y de la superficie de visualización (A) que figuran en el cuadro 5 del anexo VI. ”. 
+ 3) 
+ En el anexo III, al final del punto 10 de la letra f) de la parte 2, se añade el párrafo siguiente: 
+ “ si la pantalla electrónica no admite HDR, no aparecerán ni el pictograma de HDR ni las letras de las clases de eficiencia energética; el pictograma de la pantalla, que indica el tamaño y la resolución de la pantalla, estará centrado verticalmente en la zona situada por debajo de la indicación del consumo de energía. ”. 
+ 4) 
+ El anexo IV se modifica como sigue: 
+ a) 
+ se inserta el párrafo segundo siguiente: 
+ “ A falta de normas pertinentes existentes y hasta que se publiquen las referencias de las normas armonizadas pertinentes en el Diario Oficial, se utilizarán los métodos de ensayo transitorios establecidos en el anexo III bis del Reglamento (UE) 2019/2021 de la Comisión, por el que se establecen requisitos de diseño ecológico aplicables a las pantallas electrónicas, u otros métodos fiables, precisos y reproducibles, que tengan en cuenta el estado de la técnica más avanzado generalmente aceptado. ”; 
+ b) 
+ al final del anexo se añade el texto siguiente: 
+ “ Las mediciones del rango dinámico normal, el alto rango dinámico, la luminancia de pantalla para el control automático del brillo, la razón de luminancia blanca pico y otras mediciones de luminancia se realizarán como se detalla en el anexo III, cuadro 3 bis , del Reglamento (UE) 2019/2021. ”. 
+ 5) 
+ En el anexo V, el cuadro 4 se sustituye por el texto siguiente: 
+ « Parámetro 
+ Valor y precisión del parámetro 
+ Unidad 
+ Notas 
+ 1. 
+ Nombre o marca del proveedor  ( 2 ) 
+  ( 3 ) 
+ TEXTO 
+ Dirección del proveedor  ( 2 ) 
+  ( 3 ) 
+  ( 4 ) 
+ Información tal como figura en el registro del proveedor en la base de datos de los productos. 
+ 2. 
+ Identificador del modelo  ( 2 ) 
+ TEXTO 
+ 3. 
+ Clase de eficiencia energética para el rango dinámico normal (SDR) 
+ [A/B/C/D/E/F/G] 
+ 4. 
+ Demanda de potencia en modo encendido en el rango dinámico normal (SDR) 
+ X,X 
+ W 
+ Redondeado al primer decimal para los valores de potencia inferiores a 100 W y redondeado al primer entero para los valores de potencia iguales o superiores a 100 W. 
+ 5. 
+ Clase de eficiencia energética (HDR) 
+ [A/B/C/D/E/F/G] o n. a. 
+ Si la base de datos de los productos genera automáticamente el contenido definitivo de esta casilla, el proveedor no introducirá estos datos. El valor se definirá como “n. a.” (no aplicable) si no se aplica el HDR. 
+ 6. 
+ Demanda de potencia en modo encendido para el alto rango dinámico (HDR), si se implementa 
+ X,X 
+ W 
+ Redondeado al primer decimal para los valores de potencia inferiores a 100 W y redondeado al primer entero para los valores de potencia a partir de 100 W [el valor se establecerá en 0 (cero) si es “no aplicable”]. 
+ 7. 
+ Demanda de potencia en modo desactivado, en caso de aplicarse 
+ X,X 
+ W 
+ 8. 
+ Demanda de potencia en modo preparado, en caso de aplicarse 
+ X,X 
+ W 
+ 9. 
+ Demanda de potencia en modo preparado en red, en caso de aplicarse 
+ X,X 
+ W 
+ 10. 
+ Categoría de pantalla electrónica 
+ [televisión/monitor/señalización/otra] 
+ Selecciónese una. 
+ 11. 
+ Ratio de tamaño 
+ X 
+ : 
+ Y 
+ entero 
+ P. ej. 16:9,21:9, etc. 
+ 12. 
+ Resolución de la pantalla 
+ X 
+ × 
+ Y 
+ píxeles 
+ Píxeles horizontales y verticales 
+ 13. 
+ Diagonal de la pantalla 
+ X,X 
+ cm 
+ Redondeado al primer decimal. 
+ 14. 
+ Diagonal de la pantalla 
+ X 
+ pulgadas 
+ Facultativo, en pulgadas, redondeado al número entero más próximo. 
+ 15. 
+ Superficie visible de la pantalla 
+ X,X 
+ dm 2 
+ Redondeado al primer decimal. 
+ 16. 
+ Tecnología usada en el panel 
+ TEXTO 
+ Por ejemplo LCD/LEDLCD/QLED LCD/OLED/MicroLED/QDLED/SED/FED/EPD, etc. 
+ 17. 
+ Control automático de brillo (ABC) disponible 
+ [SÍ/NO] 
+ Debe estar activado por defecto (en caso afirmativo). 
+ 18. 
+ Sensor de reconocimiento vocal disponible 
+ [SÍ/NO] 
+ 19. 
+ Sensor de presencia disponible 
+ [SÍ/NO] 
+ Debe estar activado por defecto (en caso afirmativo). 
+ 20. 
+ Frecuencia de refresco de la imagen (por defecto) 
+ X 
+ Hz 
+ 21. 
+ Disponibilidad mínima garantizada de actualizaciones de software y de firmware (a partir de la fecha de introducción en el mercado de la última unidad)  ( 2 ) 
+  ( 3 ) 
+ X 
+ Años 
+ Tal como se establece en el anexo II, letra E, punto 1, del Reglamento (UE) 2019/2021 de la Comisión  ( 1 ) 
+ 22. 
+ Disponibilidad mínima garantizada de actualizaciones de piezas de recambio (a partir de la fecha de introducción en el mercado de la última unidad)  ( 2 ) 
+  ( 3 ) 
+ X 
+ Años 
+ Tal como se establece en el anexo II, letra E, punto 1, del Reglamento (UE) 2019/2021 
+ 23. 
+ Disponibilidad mínima garantizada de asistencia para el producto  ( 2 ) 
+  ( 3 ) 
+ X 
+ Años 
+ Tal como se establece en el anexo II, letra E, punto 1, del Reglamento (UE) 2019/2021 
+ Duración mínima de la garantía ofrecida por el proveedor  ( 2 ) 
+  ( 3 ) 
+ X 
+ Años 
+ 24. 
+ Tipo de fuente de alimentación: 
+ Interna/externa/externa normalizada 
+ Selecciónese una. 
+ 25. 
+ Fuente de alimentación externa (no normalizada e incluida en la caja del producto) 
+ i 
+ TEXTO 
+ Descripción 
+ ii 
+ Tensión de entrada 
+ X 
+ V 
+ iii 
+ Tensión de salida 
+ X,X 
+ V 
+ 26. 
+ Fuente de alimentación externa normalizada (o una adecuada, si no está incluida en la caja del producto) 
+ i 
+ Nombre o lista de las normas de apoyo 
+ TEXTO 
+ ii 
+ Tensión de salida requerida 
+ X,X 
+ V 
+ iii 
+ Intensidad de corriente requerida (mínima) 
+ X,X 
+ A 
+ iv 
+ Frecuencia de corriente requerida 
+ XX 
+ Hz 
+ 6) 
+ El anexo VI se modifica como sigue: 
+ a) 
+ los puntos 1 a 5 se sustituyen por el texto siguiente: 
+ «1) 
+ una descripción general del modelo que permita identificarlo fácil e inequívocamente; 
+ 2) 
+ referencias de las normas armonizadas aplicadas u de otras normas de medición empleadas; 
+ 3) 
+ las precauciones específicas que deben tomarse durante el montaje, la instalación, el mantenimiento o el ensayo del modelo; 
+ 4) 
+ los valores de los parámetros técnicos establecidos en el cuadro 5; estos valores se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX; 
+ 5) 
+ los detalles y los resultados de los cálculos efectuados con arreglo al anexo IV; 
+ 6) 
+ las condiciones de ensayo, si no se describen suficientemente en el punto 2; 
+ 7) 
+ los modelos equivalentes, en caso de haberlos, incluidos los identificadores del modelo. 
+ Estos elementos constituirán también las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369.»; 
+ b) 
+ el cuadro 5 se sustituye por el texto siguiente: 
+ «Cuadro 5 
+ Parámetros técnicos del modelo y valores declarados 
+ Parámetro 
+ Valor y precisión del parámetro 
+ Unidad 
+ Valor declarado 
+ General 
+ 1 
+ Nombre o marca del proveedor 
+ TEXTO 
+ 2 
+ Identificador del modelo 
+ TEXTO 
+ 3 
+ Clase de eficiencia energética para el rango dinámico normal (SDR) 
+ [A/B/C/D/E/F/G] 
+ A-G 
+ 4 
+ Demanda de potencia en modo encendido en el rango dinámico normal (SDR) 
+ XXX,X 
+ W 
+ 5 
+ Clase de eficiencia energética para el alto rango dinámico normal (HDR), si se aplica 
+ [A/B/C/D/E/F/G] o no aplicable. 
+ A-G 
+ 6 
+ Demanda de potencia en modo encendido para el alto rango dinámico (HDR) 
+ XXX,X 
+ W 
+ 7 
+ Demanda de potencia en modo desactivado 
+ X,X 
+ W 
+ 8 
+ Demanda de potencia en modo preparado 
+ X,X 
+ W 
+ 9 
+ Demanda de potencia en modo preparado en red 
+ X,X 
+ W 
+ 10 
+ Categoría de pantalla electrónica 
+ [televisión/monitor/señalización/otra] 
+ TEXTO 
+ 11 
+ Ratio de tamaño 
+ XX 
+ : 
+ XX 
+ 12 
+ Resolución de la pantalla (en píxeles) 
+ X 
+ × 
+ X 
+ 13 
+ Diagonal de la pantalla 
+ XXX,X 
+ cm 
+ 14 
+ Diagonal de la pantalla 
+ XX 
+ pulgadas 
+ 15 
+ Superficie visible de la pantalla 
+ XXX,X 
+ dm 2 
+ 16 
+ Tecnología usada en el panel 
+ TEXTO 
+ 17 
+ Control automático de brillo (ABC) disponible 
+ [SÍ/NO] 
+ 18 
+ Sensor de reconocimiento vocal disponible 
+ [SÍ/NO] 
+ 19 
+ Sensor de presencia disponible 
+ [SÍ/NO] 
+ 20 
+ Frecuencia de refresco de la imagen (configuración normal) 
+ XXX 
+ Hz 
+ 21 
+ Disponibilidad mínima garantizada de actualizaciones de software y firmware [a partir de la fecha de introducción en el mercado de la última unidad, tal como se establece en el anexo II, sección E, punto 1, del Reglamento (UE) 2019/2021] 
+ XX 
+ Años 
+ 22 
+ Disponibilidad mínima garantizada de piezas de recambio [a partir de la fecha de introducción en el mercado de la última unidad, tal como se establece en el anexo II, sección E, punto 1, del Reglamento (UE) 2019/2021] 
+ XX 
+ Años 
+ 23 
+ Disponibilidad mínima garantizada de asistencia para el producto [a partir de la fecha de introducción en el mercado de la última unidad, tal como se establece en el anexo II, sección E, punto 1, del Reglamento (UE) 2019/2021] 
+ XX 
+ Años 
+ Duración mínima de la garantía general ofrecida por el proveedor: 
+ XX 
+ Años 
+ Para el modo encendido 
+ 24 
+ Luminancia blanca pico de la configuración más brillante en modo encendido 
+ XXXX 
+ cd/m 2 
+ 25 
+ Luminancia blanca pico de la configuración normal 
+ XXXX 
+ cd/m 2 
+ 26 
+ Razón de luminancia blanca pico (calculada como 
+ valor de la “luminancia blanca pico de la configuración normal” dividido por el valor de la “luminancia blanca pico de la configuración más brillante en modo encendido” multiplicado por 100) 
+ XX,X 
+ % 
+ Para el apagado automático (APD) 
+ 27 
+ Tiempo transcurrido en modo encendido antes de que la pantalla electrónica cambie automáticamente al modo preparado, el modo desactivado u otra condición que no rebase los requisitos de demanda de potencia aplicables para los modos desactivado o preparado. 
+ XX:XX 
+ mm:ss 
+ 28 
+ Para televisiones: tiempo transcurrido, después de la última interacción del usuario, antes de que la televisión cambie automáticamente al modo preparado, el modo desactivado u otra condición que no rebase los requisitos de demanda de potencia aplicables para los modos desactivado o preparado. 
+ XX:XX 
+ mm:ss 
+ 29 
+ Para televisiones equipadas con un sensor de presencia: tiempo transcurrido, cuando no se detecta ninguna presencia, antes de que la televisión cambie automáticamente al modo preparado, el modo desactivado u otra condición que no rebase los requisitos de demanda de potencia aplicables para los modos desactivado o preparado. 
+ XX:XX 
+ mm:ss 
+ 30 
+ En el caso de otras pantallas electrónicas distintas de las televisiones y las pantallas para producciones audiovisuales: tiempo transcurrido, cuando no se detecta ninguna entrada, antes de que la pantalla electrónica cambie automáticamente al modo preparado, el modo desactivado u otra condición que no rebase los requisitos de consumo de potencia aplicables para los modos desactivado o preparado. 
+ XX:XX 
+ mm:ss 
+ Para ABC 
+ Si está disponible y activado por defecto 
+ 31 
+ Porcentaje de reducción de potencia debido a la acción ABC entre las condiciones de luz ambiente de 100 lux y 12 lux 
+ XX,X 
+ % 
+ 32 
+ Potencia en modo encendido a 100 lux de luz ambiente en el sensor ABC 
+ XXX,X 
+ W 
+ 33 
+ Potencia en modo encendido a 12 lux de luz ambiente en el sensor ABC 
+ XXX,X 
+ W 
+ 34 
+ Luminancia de pantalla a 100 lux de luz ambiente en el sensor ABC  ( *1 ) 
+ XXX 
+ cd/m 2 
+ 35 
+ Luminancia de pantalla a 60 lux de luz ambiente en el sensor ABC  ( *1 ) 
+ XXX 
+ cd/m 2 
+ 36 
+ Luminancia de pantalla a 35 lux de luz ambiente en el sensor ABC  ( *1 ) 
+ XXX 
+ cd/m 2 
+ 37 
+ Luminancia de pantalla a 12 lux de luz ambiente en el sensor ABC  ( *1 ) 
+ XXX 
+ cd/m 2 
+ Para la fuente de alimentación 
+ 38 
+ Tipo de fuente de alimentación 
+ Interna/externa 
+ 39 
+ Referencias a normas (si procede) 
+ TEXTO 
+ 40 
+ Tensión de entrada 
+ XXX,X 
+ V 
+ 41 
+ Tensión de salida 
+ XXX,X 
+ V 
+ 42 
+ Corriente de entrada (máx.) 
+ XXX,X 
+ A 
+ 43 
+ Corriente de salida (mín.) 
+ XXX,X 
+ A 
+ c) 
+ el punto 6 se renumera como punto 9; 
+ d) 
+ el punto 7 se renumera como punto 10; 
+ e) 
+ el punto 8 se renumera como punto 11. 
+ 7) 
+ El anexo IX se modifica como sigue: 
+ a) 
+ el párrafo primero se sustituye por el texto siguiente: 
+ «Las tolerancias de verificación establecidas en el presente anexo solo se refieren a la verificación de los valores declarados por las autoridades del Estado miembro y no serán utilizadas por el proveedor como tolerancia admisible para establecer los valores que figuren en la documentación técnica o para interpretar estos valores con vistas a lograr el cumplimiento o a comunicar un mayor rendimiento por cualquier medio. Los valores y clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores declarados en la documentación técnica.»; 
+ b) 
+ en el párrafo tercero, las palabras «Al verificar» se sustituyen por «Como parte de la verificación de»; 
+ c) 
+ el punto 7 se sustituye por el texto siguiente: 
+ «7) 
+ Las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión inmediatamente después de la adopción de una decisión sobre la no conformidad del modelo con arreglo a los puntos 3 o 6, o al párrafo segundo del presente anexo.»; 
+ d) 
+ el cuadro 6 se sustituye por el texto siguiente: 
+ «Cuadro 6 
+ Tolerancias de verificación 
+ Parámetro 
+ Tolerancias de verificación 
+ Demanda de potencia en modo encendido ( P measured 
+ , vatios) 
+ El valor determinado  ( *3 ) no superará el valor declarado en más del 7 %. 
+ Demanda de potencia en modo desactivado, en modo preparado y en modo preparado en red (en vatios), según proceda. 
+ El valor determinado  ( *3 ) no superará el valor declarado en más de 0,10 vatios si el valor declarado es igual o inferior a 1,00 vatio, ni en más del 10 % si el valor declarado es superior a 1,00 vatio. 
+ Superficie visible de la pantalla 
+ El valor determinado  ( *2 ) no será inferior al valor declarado en más del 1 % o en 0,1 dm 2 , según el valor que sea menor. 
+ Diagonal visible de la pantalla, en centímetros 
+ El valor determinado  ( *2 ) no se apartará del valor declarado más de 1 cm. 
+ La resolución de la pantalla en píxeles horizontales y verticales 
+ El valor determinado  ( *2 ) no se desviará del valor declarado. 
+ Luminancia blanca pico 
+ El valor determinado  ( *3 ) no será inferior al valor declarado en más del 8 %. 
+ Tiempo transcurrido en modo encendido antes de que la pantalla electrónica cambie automáticamente al modo preparado, el modo desactivado u otra condición que no rebase los requisitos de demanda de potencia aplicables para los modos desactivado o preparado. 
+ El valor determinado  ( *2 ) no podrá superar el valor declarado en más de 5 segundos. 
+ Para televisiones: el tiempo transcurrido, después de la última interacción del usuario, antes de que la televisión cambie automáticamente al modo preparado, el modo desactivado u otra condición que no rebase los requisitos de demanda de potencia aplicables para los modos desactivado o preparado. 
+ El valor determinado  ( *2 ) no podrá superar el valor declarado en más de 5 segundos. 
+ Para televisiones equipadas con un sensor de presencia: el tiempo transcurrido, cuando no se detecta ninguna presencia, antes de que la televisión cambie automáticamente al modo preparado, el modo desactivado u otra condición que no rebase los requisitos de demanda de potencia aplicables para los modos desactivado o preparado. 
+ El valor determinado  ( *2 ) no podrá superar el valor declarado en más de 5 segundos. 
+ En el caso de otras pantallas electrónicas distintas de las televisiones y las pantallas para producciones audiovisuales: el tiempo transcurrido, cuando no se detecta ninguna entrada, antes de que la pantalla electrónica cambie automáticamente al modo preparado, el modo desactivado u otra condición que no rebase los requisitos de consumo de potencia aplicables para los modos desactivado o preparado. 
+ El valor determinado  ( *2 ) no podrá superar el valor declarado en más de 5 segundos. 
+ ( 1 )   Reglamento (UE) 2019/2021 de la Comisión, de 1 de octubre de 2019, por el que se establecen requisitos de diseño ecológico aplicables a las pantallas electrónicas con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, se modifica el Reglamento (CE) n. o 1275/2008 de la Comisión y se deroga el Reglamento (CE) n. o 642/2009 de la Comisión (véase la página 241 del presente Diario Oficial). 
+ ( 2 )   Esta rúbrica no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369. 
+ ( 3 )   Los cambios en estas rúbricas no se considerarán relevantes a los efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 4 )   El proveedor no introducirá estos datos para cada modelo en caso de que sean suministrados automáticamente por la base de datos.». 
+ ( *1 )   Los valores de los parámetros relacionados con la luminancia ABC son indicativos, y se verifican los requisitos aplicables relacionados con el ABC.»; 
+ ( *2 )   En caso de que el valor determinado para una sola unidad no sea conforme, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento. 
+ ( *3 )   En caso de someter a ensayo tres unidades adicionales conforme a lo dispuesto en el punto 4, por “valor determinado” se entenderá la media aritmética de los valores determinados de estas tres unidades adicionales.». 
+ ANEXO II 
+ Los anexos I, IV, V, VI, VIII, IX y X del Reglamento Delegado (UE) 2019/2014 se modifican como sigue: 
+ 1) 
+ En el anexo I se añade el punto 33 siguiente: 
+ «33) 
+ “valores declarados”: los valores facilitados por el proveedor correspondientes a los parámetros técnicos declarados, calculados o medidos, con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el artículo 3, apartado 1, letra d), y el anexo VI del presente Reglamento, para la verificación del cumplimiento por las autoridades del Estado miembro.». 
+ 2) 
+ El anexo IV se modifica como sigue: 
+ a) 
+ después del párrafo primero se añade el texto siguiente: 
+ «Si se declara un parámetro con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el anexo VI, cuadro 7, en el caso de las lavadoras domésticas o con el anexo VI, cuadro 8, en el caso de las lavadoras-secadoras domésticas, su valor declarado será utilizado por el proveedor para los cálculos en el presente anexo.»; 
+ b) 
+ el punto 1 se sustituye por el texto siguiente: 
+ «1.   CAPACIDAD ASIGNADA DE LAS LAVADORAS-SECADORAS DOMÉSTICAS 
+ La capacidad asignada de las lavadoras-secadoras domésticas es la capacidad asignada del ciclo de lavado y secado. 
+ Si la lavadora-secadora doméstica dispone de ciclo continuo, la capacidad asignada del ciclo de lavado y secado será la capacidad asignada de ese ciclo. 
+ Si la lavadora-secadora doméstica no proporciona un ciclo continuo, la capacidad asignada del ciclo de lavado y secado será el valor que sea más bajo entre el valor de la capacidad de lavado asignada del programa “eco 40-60” y el valor de la capacidad de secado asignada del ciclo de secado que alcance el estado de “listo para guardar”.»; 
+ c) 
+ los puntos 3 y 4 se sustituyen por el texto siguiente: 
+ «3.   ÍNDICE DE EFICIENCIA DE LAVADO 
+ El índice de eficiencia de lavado de las lavadoras domésticas y del ciclo de lavado de las lavadoras-secadoras domésticas (I W ) y el índice de eficiencia de lavado del ciclo completo de las lavadoras-secadoras domésticas (J W ) se calcularán usando normas armonizadas cuyos números de referencia se hayan publicado a este efecto en el Diario Oficial de la Unión Europea , u otros métodos fiables, exactos y reproducibles, que tengan en cuenta el estado de la técnica generalmente aceptado, y se redondearán al tercer decimal. 
+ En el caso de las lavadoras domésticas con una capacidad asignada superior a 3 kg y del ciclo de lavado de las lavadoras-secadoras domésticas con una capacidad asignada superior a 3 kg, el I W indicado en la ficha de información del producto será el valor más bajo entre el índice de eficiencia de lavado a la capacidad de lavado asignada, a la mitad de la capacidad de lavado asignada y a la cuarta parte de la capacidad de lavado asignada. 
+ En el caso de las lavadoras domésticas con una capacidad asignada inferior o igual a 3 kg y del ciclo de lavado de las lavadoras-secadoras domésticas con una capacidad asignada inferior o igual a 3 kg, el I W indicado en la ficha de información del producto será el índice de eficiencia de lavado a la capacidad de lavado asignada. 
+ En el caso de las lavadoras-secadoras domésticas con una capacidad asignada superior a 3 kg, el valor J W indicado en la ficha de información del producto será el valor más bajo entre el índice de eficiencia de lavado a la capacidad asignada y a la mitad de la capacidad asignada. 
+ En el caso de las lavadoras-secadoras domésticas con una capacidad asignada superior a 3 kg, el valor J W indicado en la ficha de información del producto será el índice de eficiencia de lavado a la capacidad asignada. 
+ 4.   EFICACIA DE ACLARADO 
+ La eficacia de aclarado de las lavadoras domésticas y del ciclo de lavado de las lavadoras-secadoras domésticas (I R ) y la eficacia de aclarado del ciclo completo de las lavadoras-secadoras domésticas (J R ) se calcularán usando normas armonizadas cuyos números de referencia se hayan publicado a este efecto en el Diario Oficial de la Unión Europea , u otro método fiable, exacto y reproducible basado en la detección del marcador sulfonato de alquilbenceno lineal (LAS), y se redondearán al primer decimal. 
+ En el caso de las lavadoras domésticas con una capacidad asignada superior a 3 kg y del ciclo de lavado de las lavadoras-secadoras domésticas con una capacidad asignada superior a 3 kg, el I R indicado en la ficha de información del producto será el valor más alto entre la eficacia de aclarado a la capacidad de lavado asignada, a la mitad de la capacidad de lavado asignada y a la cuarta parte de la capacidad de lavado asignada. 
+ En el caso de las lavadoras domésticas con capacidad asignada inferior o igual a 3 kg y del ciclo de lavado de las lavadoras-secadoras domésticas con capacidad asignada inferior o igual a 3 kg, no se indicará ningún valor de I R en la ficha de información del producto. 
+ En el caso de las lavadoras-secadoras domésticas con una capacidad asignada superior a 3 kg, el valor J R indicado en la ficha de información del producto será el valor más alto entre la eficacia de aclarado a la capacidad asignada y a la mitad de la capacidad asignada. 
+ En el caso de las lavadoras-secadoras domésticas con una capacidad asignada inferior o igual a 3 kg, no se indicará ningún valor de J R en la ficha de información del producto.»; 
+ d) 
+ en el punto 6, el párrafo primero del punto 2 se sustituye por el texto siguiente: 
+ «En el caso de las lavadoras-secadoras domésticas con una capacidad asignada de lavado inferior o igual a 3 kg, el consumo ponderado de agua del ciclo de lavado y secado es el consumo de agua a la capacidad asignada y redondeado a número entero más próximo.»; 
+ e) 
+ el punto 7 se sustituye por el texto siguiente: 
+ «7.   CONTENIDO DE HUMEDAD RESIDUAL 
+ El contenido de humedad residual ponderado después del lavado (D) de una lavadora doméstica y del ciclo de lavado de una lavadora-secadora doméstica se calcula en porcentaje como se indica a continuación y se redondea al primer decimal: 
+ donde: 
+ D full es el contenido de humedad residual en el programa “eco 40-60” a la capacidad de lavado asignada, en porcentaje y redondeado al segundo decimal; 
+ D 1/2 es el contenido de humedad residual del programa “eco 40-60” a la mitad de la capacidad de lavado asignada, en porcentaje y redondeado al segundo decimal; 
+ D 1/4 es el contenido de humedad residual del programa “eco 40-60” a la cuarta parte de la capacidad de lavado asignada, en porcentaje y redondeado al segundo decimal; 
+ A, B y C son los factores de ponderación descritos en el punto 2.1, letra c).»; 
+ f) 
+ el punto 9 se sustituye por el texto siguiente: 
+ «9.   MODOS DE BAJO CONSUMO 
+ Cuando proceda, se miden el consumo de energía en modo desactivado (P o ), en modo preparado (P sm ) y, cuando proceda, en inicio aplazado (P ds ), expresado en W y redondeado al segundo decimal. 
+ Al medir el consumo de energía en los modos de bajo consumo, se comprobarán y registrarán los aspectos siguientes: 
+ — 
+ si se visualiza información o no; 
+ — 
+ si se activa o no una conexión de red. 
+ Si una lavadora doméstica o una lavadora-secadora doméstica cuentan con una función antiarrugamiento, esta se interrumpirá al abrir la puerta de la lavadora doméstica o la lavadora-secadora doméstica, o mediante cualquier otra intervención apropiada quince minutos antes de la medición del consumo de energía eléctrica.»; 
+ g) 
+ al final se añade el punto 11 siguiente: 
+ «11.   VELOCIDAD DE CENTRIFUGADO 
+ La velocidad de centrifugado de una lavadora doméstica y del ciclo de lavado de una lavadora-secadora doméstica se medirán o calcularán a la opción de centrifugado más alta del programa “eco 40-60” usando normas armonizadas cuyos números de referencia se hayan publicado a este efecto en el Diario Oficial de la Unión Europea , u otros métodos fiables, exactos y reproducibles, que tengan en cuenta el estado de la técnica generalmente aceptado, y se redondeará al segundo decimal.». 
+ 3) 
+ El anexo V se modifica como sigue: 
+ a) 
+ el cuadro 5 se sustituye por el texto siguiente: 
+ «Cuadro 5 
+ Contenido, orden y formato de la ficha de información del producto 
+ Nombre o marca comercial del proveedor 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Dirección del proveedor 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Identificador del modelo 
+  ( 1 ) : 
+ Parámetros generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Capacidad asignada  ( 2 ) (kg) 
+ x,x 
+ Dimensiones en cm  ( 1 ) 
+ , 
+  ( 3 ) 
+ Altura 
+ x 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ Índice de eficiencia energética  ( 2 ) (IEE W ) 
+ x,x 
+ Clase de eficiencia energética  ( 2 ) 
+ [A/B/C/D/E/F/G]  ( 4 ) 
+ Índice de eficiencia de lavado  ( 2 ) 
+ x,xxx 
+ Eficacia de aclarado (g/kg)  ( 2 ) 
+ x,x 
+ Consumo de energía en kWh por ciclo, sobre la base del programa “eco 40-60” en una combinación de cargas total y parcial. El consumo real de energía dependerá de cómo se utilice el aparato. 
+ x,xxx 
+ Consumo de agua en litros por ciclo, sobre la base del programa “eco 40-60” en una combinación de cargas total y parcial. El consumo real de agua dependerá de cómo se utilice el aparato y de la dureza del agua. 
+ x 
+ Temperatura máxima dentro de la ropa tratada  ( 2 ) (°C) 
+ Capacidad asignada 
+ x 
+ Contenido de humedad residual ponderado  ( 2 ) (%) 
+ x,x 
+ Mitad 
+ x 
+ Cuarta parte 
+ x 
+ Velocidad de centrifugado  ( 2 ) (rpm) 
+ Capacidad asignada 
+ x 
+ Clase de eficiencia de centrifugado  ( 2 ) 
+ [A/B/C/D/E/F/G]  ( 4 ) 
+ Mitad 
+ x 
+ Cuarta parte 
+ x 
+ Duración del programa  ( 2 ) (h:min) 
+ Capacidad asignada 
+ x:xx 
+ Tipo 
+ [encastrable/de libre instalación] 
+ Mitad 
+ x:xx 
+ Cuarta parte 
+ x:xx 
+ Ruido acústico aéreo emitido en la fase de centrifugado  ( 2 ) [dB(A) re 1 pW] 
+ x 
+ Clase de ruido acústico aéreo emitido  ( 2 ) (fase de centrifugado) 
+ [A/B/C/D]  ( 4 ) 
+ Modo apagado (W) (si procede) 
+ x,xx 
+ Modo preparado (W) (si procede) 
+ x,xx 
+ Inicio aplazado (W) (si procede) 
+ x,xx 
+ Modo preparado en red (W) (si procede) 
+ x,xx 
+ Duración mínima de la garantía ofrecida por el proveedor 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Este producto ha sido diseñado para liberar iones de plata durante el ciclo de lavado 
+ [SÍ/NO] 
+ Información adicional 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Enlace al sitio web del proveedor, en el que se encuentra la información contemplada en el punto 9 del anexo II del Reglamento (UE) 2019/2023 de la Comisión  ( 1 ) : 
+ b) 
+ el cuadro 6 se sustituye por el texto siguiente: 
+ «Cuadro 6 
+ Contenido, orden y formato de la ficha de información del producto 
+ Nombre o marca comercial del proveedor 
+  ( 5 ) 
+ , 
+  ( 8 ) : 
+ Dirección del proveedor 
+  ( 5 ) 
+ , 
+  ( 8 ) : 
+ Identificador del modelo 
+  ( 5 ) : 
+ Parámetros generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Capacidad asignada (kg) 
+ Capacidad asignada  ( 7 ) 
+ x,x 
+ Dimensiones en cm  ( 5 ) 
+ , 
+  ( 8 ) 
+ Altura 
+ x 
+ Capacidad de lavado asignada  ( 6 ) 
+ x,x 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ Índice de eficiencia energética 
+ IEE W 
+  ( 6 ) 
+ x,x 
+ Clase de eficiencia energética 
+ IEE W 
+  ( 6 ) 
+ [A/B/C/D/E/F/G]  ( 9 ) 
+ IEE WD 
+  ( 7 ) 
+ x,x 
+ IEE WD 
+  ( 7 ) 
+ [A/B/C/D/E/F/G]  ( 9 ) 
+ Índice de eficiencia de lavado 
+ I W 
+  ( 6 ) 
+ x,xxx 
+ Eficacia del aclarado (g/kg de tejido seco) 
+ I R 
+  ( 6 ) 
+ x,x 
+ J W 
+  ( 7 ) 
+ x,xxx 
+ J R 
+  ( 7 ) 
+ x,x 
+ Consumo de energía en kWh por ciclo, correspondiente al ciclo de lavado de la lavadora-secadora doméstica, utilizando el programa “eco 40-60” en una combinación a plena carga y con parte de la carga. El consumo real de energía dependerá de cómo se utilice el aparato. 
+ x,xxx 
+ Consumo de energía en kWh por ciclo, correspondiente al ciclo de lavado y secado de la lavadora-secadora doméstica, en una combinación a plena carga y con la mitad de la carga. El consumo real de energía dependerá de cómo se utilice el aparato. 
+ x,xxx 
+ Consumo de agua en litros por ciclo, correspondiente al programa “eco 40-60” en una combinación a plena carga y con parte de la carga. El consumo real de agua dependerá de cómo se utilice el aparato y de la dureza del agua. 
+ x 
+ Consumo de agua en litros por ciclo, correspondiente al ciclo de lavado y secado de la lavadora-secadora doméstica, en una combinación a plena carga y con la mitad de la carga. El consumo real de agua dependerá de cómo se utilice el aparato y de la dureza del agua. 
+ x 
+ Temperatura máxima en el interior del tejido tratado (°C) para el ciclo de lavado de la lavadora-secadora doméstica, utilizando el programa “eco 40-60” 
+ Capacidad de lavado asignada 
+ x 
+ Temperatura máxima en el interior del tejido tratado (°C) para el ciclo de lavado de la lavadora-secadora doméstica, utilizando el ciclo de lavado y secado 
+ Capacidad asignada 
+ x 
+ Mitad 
+ x 
+ Cuarta parte 
+ x 
+ Mitad 
+ x 
+ Velocidad de centrifugado (rpm)  ( 6 ) 
+ Capacidad de lavado asignada 
+ x 
+ Contenido de humedad residual ponderado (%)  ( 6 ) 
+ x,x 
+ Mitad 
+ x 
+ Cuarta parte 
+ x 
+ Duración del programa “eco 40-60” (h:min) 
+ Capacidad de lavado asignada 
+ x:xx 
+ Clase de eficiencia de centrifugado  ( 6 ) 
+ [A/B/C/D/E/F/G]  ( 9 ) 
+ Mitad 
+ x:xx 
+ Cuarta parte 
+ x:xx 
+ Ruido acústico aéreo emitido en la fase de centrifugado del ciclo de lavado “eco 40-60” a la capacidad de lavado asignada [dB(A) re 1 pW] 
+ x 
+ Duración del ciclo de lavado y secado (h:min) 
+ Capacidad asignada 
+ x:xx 
+ Mitad 
+ x:xx 
+ Tipo 
+ [encastrable/de libre instalación] 
+ Ruido acústico aéreo emitido correspondiente a la fase de centrifugado del programa “eco 40-60” a la capacidad de lavado asignada 
+ [A/B/C/D]  ( 9 ) 
+ Modo apagado (W) (si procede) 
+ x,xx 
+ Modo preparado (W) (si procede) 
+ x,xx 
+ Inicio aplazado (W) (si procede) 
+ x,xx 
+ Modo preparado en red (W) (si procede) 
+ x,xx 
+ Duración mínima de la garantía ofrecida por el proveedor 
+  ( 5 ) 
+ , 
+  ( 8 ) : 
+ Este producto ha sido diseñado para liberar iones de plata durante el ciclo de lavado 
+ [SÍ/NO] 
+ Información adicional 
+  ( 5 ) 
+ , 
+  ( 8 ) : 
+ Enlace al sitio web del proveedor, en el que se encuentra la información contemplada en el punto 9 del anexo II del Reglamento (UE) 2019/2023: 
+ 4) 
+ El anexo VI se modifica como sigue: 
+ a) 
+ el punto 1 se sustituye por el texto siguiente: 
+ «1. 
+ En el caso de las lavadoras domésticas, la documentación técnica mencionada en el artículo 3, apartado 1, letra d), comprenderá los elementos siguientes: 
+ a) 
+ una descripción general del modelo que permita identificarlo fácil e inequívocamente; 
+ b) 
+ referencias de las normas armonizadas aplicadas u de otras normas de medición empleadas; 
+ c) 
+ las precauciones específicas que deben tomarse durante el montaje, la instalación, el mantenimiento o el ensayo del modelo; 
+ d) 
+ los valores de los parámetros técnicos establecidos en el cuadro 7; estos valores se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX; 
+ e) 
+ los detalles y los resultados de los cálculos efectuados con arreglo al anexo IV; 
+ f) 
+ las condiciones de ensayo en caso de que no estén suficientemente descritas en la letra b); 
+ g) 
+ los modelos equivalentes, en caso de haberlos, incluidos los identificadores del modelo. 
+ Estos elementos constituirán también las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369. 
+ Cuadro 7 
+ Parámetros técnicos del modelo y sus valores declarados para las lavadoras domésticas 
+ PARÁMETRO 
+ VALOR DECLARADO 
+ UNIDAD 
+ Capacidad asignada del programa “eco 40-60”, en intervalos de 0,5 kg (c) 
+ X,X 
+ kg 
+ Consumo de energía del programa “eco 40-60” a la capacidad asignada (E W,full ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo de energía del programa “eco 40-60” a la mitad de la capacidad asignada (E W,½ ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo de energía del programa “eco 40-60” a la cuarta parte de la capacidad asignada (E W,1/4 ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo de energía ponderado del programa “eco 40-60” (E W ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo normalizado de energía del programa “eco 40-60” (SCE W ) 
+ X,XXX 
+ kWh/ciclo 
+ Índice de eficiencia energética (IEE W ) 
+ X,X 
+ - 
+ Consumo de agua del programa “eco 40-60” a la capacidad asignada (W W,full ) 
+ X,X 
+ L/ciclo 
+ Consumo de agua del programa “eco 40-60” a la mitad de la capacidad asignada (W W,½ ) 
+ X,X 
+ L/ciclo 
+ Consumo de agua del programa “eco 40-60” a la cuarta parte de la capacidad asignada (W W,1/4 ) 
+ X,X 
+ L/ciclo 
+ Consumo de agua ponderado (W W ) 
+ X 
+ L/ciclo 
+ Índice de eficiencia de lavado del programa “eco 40-60” a la capacidad asignada (I W ) 
+ X,XXX 
+ - 
+ Índice de eficiencia de lavado del programa “eco 40-60” a la mitad de la capacidad asignada (I W ) 
+ X,XXX 
+ - 
+ Índice de eficiencia de lavado del programa “eco 40-60” a la cuarta parte de la capacidad asignada (I W ) 
+ X,XXX 
+ - 
+ Eficacia de aclarado del programa “eco 40-60” a la capacidad asignada (I R ) 
+ X,X 
+ g/kg 
+ Eficacia de aclarado del programa “eco 40-60” a la mitad de la capacidad asignada (I R ) 
+ X,X 
+ g/kg 
+ Eficacia de aclarado del programa “eco 40-60” a la cuarta parte de la capacidad asignada (I R ) 
+ X,X 
+ g/kg 
+ Duración del programa “eco 40-60” a la capacidad asignada (t W ) 
+ X:XX 
+ h:min 
+ Duración del programa “eco 40-60” a la mitad de la capacidad asignada (t W ) 
+ X:XX 
+ h:min 
+ Duración del programa “eco 40-60” a la cuarta parte de la capacidad asignada (t W ) 
+ X:XX 
+ h:min 
+ Temperatura alcanzada durante un mínimo de 5 minutos dentro de la carga durante el programa “eco 40-60” a la capacidad asignada (T) 
+ X 
+ °C 
+ Temperatura alcanzada durante un mínimo de 5 minutos dentro de la carga durante el programa “eco 40-60” a la mitad de la capacidad asignada (T) 
+ X 
+ °C 
+ Temperatura alcanzada durante un mínimo de 5 minutos dentro de la carga durante el programa “eco 40-60” a la cuarta parte de la capacidad asignada (T) 
+ X 
+ °C 
+ Velocidad de centrifugado en la fase de centrifugado del programa “eco 40-60” a la capacidad asignada (S) 
+ X 
+ rpm 
+ Velocidad de centrifugado en la fase de centrifugado del programa “eco 40-60” a la mitad de la capacidad asignada (S) 
+ X 
+ rpm 
+ Velocidad de centrifugado en la fase de centrifugado del programa “eco 40-60” a la cuarta parte de la capacidad asignada (S) 
+ X 
+ rpm 
+ Contenido de humedad residual ponderado (D) 
+ X,X 
+ % 
+ Ruido acústico aéreo emitido durante el programa “eco 40-60” (fase de centrifugado) 
+ X 
+ dB(A) re 1 pW 
+ Consumo de energía en modo apagado (P o ) (si procede) 
+ X,XX 
+ W 
+ Consumo de energía en modo preparado (P sm ) (si procede) 
+ X,XX 
+ W 
+ ¿Incluye el modo preparado la visualización de información? 
+ Sí/No 
+ - 
+ Consumo de energía en modo preparado (P sm ) en condición de modo preparado en red (si procede) 
+ X,XX 
+ W 
+ Consumo de energía en inicio aplazado (P ds ) (si procede) 
+ X,XX 
+ W»; 
+ b) 
+ el punto 2 se sustituye por el texto siguiente: 
+ «2. 
+ En el caso de las lavadoras-secadoras domésticas, la documentación técnica mencionada en el artículo 3, apartado 1, letra d), comprenderá los elementos siguientes: 
+ a) 
+ una descripción general del modelo que permita identificarlo fácil e inequívocamente; 
+ b) 
+ referencias de las normas armonizadas aplicadas u de otras normas de medición empleadas; 
+ c) 
+ las precauciones específicas que deben tomarse durante el montaje, la instalación, el mantenimiento o el ensayo del modelo; 
+ d) 
+ los valores de los parámetros técnicos establecidos en el cuadro 8; estos valores se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX; 
+ e) 
+ los detalles y los resultados de los cálculos efectuados con arreglo al anexo IV; 
+ f) 
+ las condiciones de ensayo en caso de que no estén suficientemente descritas en la letra b); 
+ g) 
+ los modelos equivalentes, en caso de haberlos, incluidos los identificadores del modelo. 
+ Estos elementos constituirán también las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369. 
+ Cuadro 8 
+ Parámetros técnicos del modelo y sus valores declarados para las lavadoras-secadoras domésticas 
+ PARÁMETRO 
+ VALOR DECLARADO 
+ UNIDAD 
+ Capacidad asignada del ciclo de lavado, en intervalos de 0,5 kg (c) 
+ X,X 
+ kg 
+ Capacidad asignada del ciclo de lavado y secado, en intervalos de 0,5 kg (d) 
+ X,X 
+ kg 
+ Consumo de energía del programa “eco 40-60” a la capacidad de lavado asignada (E W,full ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo de energía del programa «eco 40-60” a la mitad de la capacidad de lavado asignada (E W,½ ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo de energía del programa “eco 40-60” a la cuarta parte de la capacidad de lavado asignada (E W,1/4 ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo de energía ponderado del programa “eco 40-60” (E W ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo normalizado de energía del programa “eco 40-60” (SCE W ) 
+ X,XXX 
+ kWh/ciclo 
+ Índice de eficiencia energética (IEE W ) del ciclo de lavado 
+ X,X 
+ - 
+ Consumo de energía del ciclo de lavado y secado a la capacidad asignada (E WD,full ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo de energía del ciclo de lavado y secado a la mitad de la capacidad asignada (E WD,½ ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo de energía ponderado del ciclo de lavado y secado (E WD ) 
+ X,XXX 
+ kWh/ciclo 
+ Consumo normalizado de energía del ciclo de lavado y secado (SCE WD ) 
+ X,XXX 
+ kWh/ciclo 
+ Índice de eficiencia energética del ciclo de lavado y secado (IEE WD ) 
+ X,X 
+ - 
+ Consumo de agua del programa “eco 40-60” a la capacidad de lavado asignada (W W,full ) 
+ X,X 
+ L/ciclo 
+ Consumo de agua del programa “eco 40-60” a la mitad de la capacidad de lavado asignada (W W,½ ) 
+ X,X 
+ L/ciclo 
+ Consumo de agua del programa “eco 40-60” a la cuarta parte de la capacidad de lavado asignada (W W,1/4 ) 
+ X,X 
+ L/ciclo 
+ Consumo de agua ponderado del ciclo de lavado (W W ) 
+ X 
+ L/ciclo 
+ Consumo de agua del ciclo de lavado y secado a la capacidad asignada (W WD,full ) 
+ X,X 
+ L/ciclo 
+ Consumo de agua del ciclo de lavado y secado a la mitad de la capacidad asignada (W WD,½ ) 
+ X,X 
+ L/ciclo 
+ Consumo de agua ponderado del ciclo de lavado y secado (W WD ) 
+ X 
+ L/ciclo 
+ Índice de eficiencia de lavado del programa “eco 40-60” a la capacidad de lavado asignada (I W ) 
+ X,XXX 
+ - 
+ Índice de eficiencia de lavado del programa “eco 40-60” a la mitad de la capacidad de lavado asignada (I W ) 
+ X,XXX 
+ - 
+ Índice de eficiencia de lavado del programa “eco 40-60” a la cuarta parte de la capacidad de lavado asignada (I W ) 
+ X,XXX 
+ - 
+ Índice de eficiencia de lavado del ciclo de lavado y secado a la capacidad asignada (J W ) 
+ X,XXX 
+ - 
+ Índice de eficiencia de lavado del ciclo de lavado y secado a la mitad de la capacidad asignada (J W ) 
+ X,XXX 
+ - 
+ Eficacia de aclarado del programa “eco 40-60” a la capacidad de lavado asignada (I R ) 
+ X,X 
+ g/kg 
+ Eficacia de aclarado del programa «eco 40-60” a la mitad de la capacidad de lavado asignada (I R ) 
+ X,X 
+ g/kg 
+ Eficacia de aclarado del programa “eco 40-60” a la cuarta parte de la capacidad de lavado asignada (I R ) 
+ X,X 
+ g/kg 
+ Eficacia de aclarado del ciclo de lavado y secado a la capacidad asignada (J R ) 
+ X,X 
+ g/kg 
+ Eficacia de aclarado del ciclo de lavado y secado a la mitad de la capacidad asignada (J R ) 
+ X,X 
+ g/kg 
+ Duración del programa “eco 40-60” a la capacidad de lavado asignada (t W ) 
+ X:XX 
+ h:min 
+ Duración del programa “eco 40-60” a la mitad de la capacidad de lavado asignada (t W ) 
+ X:XX 
+ h:min 
+ Duración del programa “eco 40-60” a la cuarta parte de la capacidad de lavado asignada (t W ) 
+ X:XX 
+ h:min 
+ Duración del ciclo de lavado y secado a la capacidad asignada (t WD ) 
+ X:XX 
+ h:min 
+ Duración del ciclo de lavado y secado a la mitad de la capacidad asignada (t WD ) 
+ X:XX 
+ h:min 
+ Temperatura alcanzada durante un mínimo de 5 minutos dentro de la carga durante el programa “eco 40-60” a la capacidad de lavado asignada (T) 
+ X 
+ °C 
+ Temperatura alcanzada durante un mínimo de 5 minutos dentro de la carga durante el programa “eco 40-60” a la mitad de la capacidad de lavado asignada (T) 
+ X 
+ °C 
+ Temperatura alcanzada durante un mínimo de 5 minutos dentro de la carga durante el programa “eco 40-60” a la cuarta parte de la capacidad de lavado asignada (T) 
+ X 
+ °C 
+ Temperatura alcanzada durante un mínimo de 5 minutos dentro de la carga en el ciclo de lavado durante el ciclo de lavado y secado a la capacidad asignada (T) 
+ X 
+ °C 
+ Temperatura alcanzada durante un mínimo de 5 minutos dentro de la carga en el ciclo de lavado durante el ciclo de lavado y secado a la mitad de la capacidad asignada (T) 
+ X 
+ °C 
+ Velocidad de centrifugado en la fase de centrifugado del programa “eco 40-60” a la capacidad de lavado asignada (S) 
+ X 
+ rpm 
+ Velocidad de centrifugado en la fase de centrifugado del programa “eco 40-60” a la mitad de la capacidad de lavado asignada (S) 
+ X 
+ rpm 
+ Velocidad de centrifugado en la fase de centrifugado del programa “eco 40-60” a la cuarta parte de la capacidad de lavado asignada (S) 
+ X 
+ rpm 
+ Contenido de humedad residual ponderado después del lavado (D) 
+ X,X 
+ % 
+ Contenido de humedad final después del secado 
+ X,X 
+ % 
+ Ruido acústico aéreo emitido durante el programa “eco 40-60” (fase de centrifugado) 
+ X 
+ dB(A) re 1 pW 
+ Consumo de energía en modo apagado (P o ) (si procede) 
+ X,XX 
+ W 
+ Consumo de energía en modo preparado (P sm ) (si procede) 
+ X,XX 
+ W 
+ ¿Incluye el modo preparado la visualización de información? 
+ Sí/No 
+ - 
+ Consumo de energía en modo preparado (P sm ) en condición de modo preparado en red (si procede) 
+ X,XX 
+ W 
+ Consumo de energía en inicio aplazado (P ds ) (si procede) 
+ X,XX 
+ W».» 
+ 5) 
+ En el anexo VIII, el punto 1 se sustituye por el texto siguiente: 
+ «1. 
+ La correspondiente etiqueta facilitada por los proveedores conforme al artículo 3, apartado 1, letra g), deberá mostrarse en el mecanismo de visualización cerca del precio del producto. Por su tamaño, la etiqueta deberá ser claramente visible, legible y proporcionada al tamaño especificado en el anexo III. Podrá presentarse en formato de visualización anidada, en cuyo caso la imagen que dé acceso a la etiqueta deberá cumplir las especificaciones recogidas en el punto 2 del presente anexo. Si se utiliza la visualización anidada, la etiqueta aparecerá con el primer clic o barrido del ratón sobre la imagen o la expansión de esta en pantalla táctil.». 
+ 6) 
+ El anexo IX se modifica como sigue: 
+ a) 
+ el párrafo primero se sustituye por el texto siguiente: 
+ «Las tolerancias de verificación establecidas en el presente anexo solo se refieren a la verificación de los valores declarados por las autoridades del Estado miembro y no serán utilizadas por el proveedor como tolerancia admisible para establecer los valores que figuren en la documentación técnica o para interpretar estos valores con vistas a lograr el cumplimiento o a comunicar un mayor rendimiento por cualquier medio. Los valores y clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores declarados en la documentación técnica.»; 
+ b) 
+ en el párrafo tercero, las palabras «Al verificar» se sustituyen por «Como parte de la verificación de»; 
+ c) 
+ el punto 7 se sustituye por el texto siguiente: 
+ «7) 
+ Las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión inmediatamente después de la adopción de una decisión sobre la no conformidad del modelo con arreglo a los puntos 3 o 6, o al párrafo segundo del presente anexo.»; 
+ d) 
+ el cuadro 9 se sustituye por el texto siguiente: 
+ «Cuadro 9 
+ Tolerancias de verificación 
+ Parámetro 
+ Tolerancias de verificación 
+ E W,full , E W,½ , E W,1/4 , E WD,full y E WD,½ 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de E W,full , E W,½ , E W,1/4 , E WD,full y E WD,½ ,, en más del 10 %. 
+ Consumo de energía ponderado (E W y E WD ) 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de E W y E WD , respectivamente, en más del 10 %. 
+ W W,full , W W,½ W W,1/4, W WD,full y W WD,½ 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de W W,full , W W,½ W W,1/4, W WD,full y W WD,½ , respectivamente, en más del 10 %. 
+ Consumo de agua ponderado (W W y W WD ) 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de W W y W WD , respectivamente, en más del 10 %. 
+ Índice de eficiencia de lavado (I W y J W ) en todas las cargas pertinentes 
+ El valor determinado  ( *1 ) no podrá ser inferior al valor declarado de I W y J W , respectivamente, en más del 8 %. 
+ Eficacia de aclarado (I R y J R ) en todas las cargas pertinentes 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de I R y J R , respectivamente, en más de 1,0 g/kg. 
+ Duración del programa o del ciclo (t W y t WD ) en todas las cargas pertinentes 
+ El valor determinado  ( *1 ) de la duración del programa o del ciclo no podrá ser superior al valor declarado de t W y t WD , respectivamente, en más de un 5 % o en más de 10 minutos, según el valor que sea menor. 
+ Temperatura máxima en el interior de la ropa (T) durante el ciclo de lavado en todas las cargas pertinentes 
+ El valor determinado  ( *1 ) no podrá ser inferior al valor declarado de T en más de 5 K y no podrá ser superior al valor declarado de T en más de 5 K. 
+ Contenido de humedad residual ponderado después del lavado (D) 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de D en más del 10 %. 
+ Contenido de humedad final tras el secado en todas las cargas pertinentes 
+ El valor determinado  ( *1 ) no podrá ser superior al 3,0 %. 
+ Velocidad de centrifugado (S) en todas las cargas pertinentes 
+ El valor determinado  ( *1 ) no podrá ser inferior al valor declarado de S en más del 10 %. 
+ Consumo de energía en modo apagado (P o ) 
+ El valor determinado  ( *1 ) del consumo de energía P o no podrá superar el valor declarado en más de 0,10 W. 
+ Consumo de energía en modo preparado (P sm ) 
+ El valor determinado  ( *1 ) del consumo de energía P sm no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Consumo de energía en inicio aplazado (P ds ) 
+ El valor determinado  ( *1 ) del consumo de energía P ds no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Ruido acústico aéreo emitido 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado en más de 2 dB(A) re 1 pW. 
+ 7) 
+ En el anexo X, la letra f) se sustituye por el texto siguiente: 
+ «f) 
+ el contenido de humedad residual tras el lavado se calcula como la media ponderada, de acuerdo con la capacidad asignada de cada tambor;». 
+ ( 1 )   Esta rúbrica no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369. 
+ ( 2 )   En relación con el programa “eco 40-60”. 
+ ( 3 )   Los cambios en esta rúbrica no se considerarán relevantes a los efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 4 )   Si la base de datos de los productos genera automáticamente el contenido definitivo de esta celda, el proveedor no introducirá estos datos. 
+ ( 5 )   Esta rúbrica no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369. 
+ ( 6 )   En relación con el programa “eco 40-60”. 
+ ( 7 )   En relación con el ciclo de lavado y secado. 
+ ( 8 )   Los cambios en esta rúbrica no se considerarán relevantes a los efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 9 )   Si la base de datos de los productos genera automáticamente el contenido definitivo de esta celda, el proveedor no introducirá estos datos.». 
+ ( *1 )   En caso de someter a ensayo tres unidades adicionales conforme a lo dispuesto en el punto 4, por “valor determinado” se entenderá la media aritmética de los valores determinados de estas tres unidades adicionales.». 
+ ANEXO III 
+ Los anexos I, III, IV, V, VI y IX del Reglamento Delegado (UE) 2019/2015 se modifican como sigue: 
+ 1) 
+ En el anexo I, el punto 42 se sustituye por el texto siguiente: 
+ «42) 
+ “valores declarados”: los valores facilitados por el proveedor correspondientes a los parámetros técnicos declarados, calculados o medidos, con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el artículo 3, apartado 1, letra d), y el anexo VI del presente Reglamento, para la verificación del cumplimiento por las autoridades del Estado miembro.». 
+ 2) 
+ El anexo III se modifica como sigue: 
+ a) 
+ el párrafo tercero del punto 1 se sustituye por el texto siguiente: 
+ «La etiqueta tendrá: 
+ — 
+ si es de tamaño normal, como mínimo 36 mm de anchura y 72 mm de altura; 
+ — 
+ si es de tamaño pequeño (de anchura inferior a 36 mm), como mínimo 20 mm de anchura y 54 mm de altura.»; 
+ b) 
+ el punto 2.3, letra e), topo 6, se sustituye por el texto siguiente: 
+ «6. 
+ El borde rectangular de la etiqueta y las líneas divisorias interiores tendrán un grosor de 0,5 pt y serán de color 100 % negro; 
+ 3) 
+ El anexo IV se modifica como sigue: 
+ a) 
+ en el punto 1, la letra a) se sustituye por el texto siguiente: 
+ «a) 
+ en instalaciones radiológicas y de medicina nuclear que estén sujetas a las normas en materia de seguridad radiológica establecidas en la Directiva 2013/59/Euratom del Consejo  ( 1 ) ; 
+ ( 1 )   Directiva 2013/59/Euratom del Consejo, de 5 de diciembre de 2013, por la que se establecen normas de seguridad básicas para la protección contra los peligros derivados de la exposición a radiaciones ionizantes ( DO L 13 de 17.1.2014, p. 1 ).»;"
+ b) 
+ en el punto 3 se añade la letra l) siguiente: 
+ «l) 
+ fuentes luminosas incandescentes con contacto sable, conectores eléctricos metálicos, cable, hilo trenzado, rosca métrica, casquillo de patillas o interfaz eléctrica adaptada no estándar, con recubrimiento fabricado a partir de tubos de vidrio de sílice, diseñadas específicamente y comercializadas exclusivamente para equipos industriales o profesionales de electrocalentamiento (por ejemplo, proceso de moldeo por estirado y soplado en la industria de PET, impresión 3D, procesos de fabricación fotovoltaica y electrónica, secado o endurecimiento de adhesivos, tintas, pinturas o revestimientos).»; 
+ c) 
+ se añade el punto 4 siguiente: 
+ «4) 
+ Las fuentes luminosas diseñadas específicamente y comercializadas exclusivamente para productos comprendidos en el ámbito de aplicación de los Reglamentos 2019/2023, 2019/2022, 932/2012 y 2019/2019 quedarán exentas de los requisitos del punto 1, letra e), puntos 7 ter , 7 quater y 7 quinquies , del anexo VI del presente Reglamento.». 
+ 4) 
+ El anexo V se modifica como sigue: 
+ a) 
+ el cuadro 3 se sustituye por el texto siguiente: 
+ « Cuadro 3 
+ Ficha de información del producto 
+ Nombre o marca del proveedor 
+  ( 1 ) 
+ , 
+  ( 5 ) : 
+ Dirección del proveedor 
+  ( 1 ) 
+ , 
+  ( 5 ) : 
+ Identificador del modelo 
+  ( 5 ) : 
+ Tipo de fuente luminosa: 
+ Tecnología de iluminación utilizada: 
+ [HL/LFL T5 HE/LFL T5 HO/CFLni/otras FL/HPS/MH/otras HID/LED/OLED/mixtas/otras] 
+ No direccional o direccional: 
+ [NDLS/DLS] 
+ Tipo de casquillo de la fuente luminosa 
+ (u otra interfaz eléctrica) 
+ [texto libre] 
+ De red o no de red: 
+ [MLS/NMLS] 
+ Fuente luminosa conectada (CLS): 
+ [sí/no] 
+ Fuente luminosa de color variable: 
+ [sí/no] 
+ Envolvente: 
+ [no/segunda/opaca] 
+ Fuente luminosa de alta luminancia: 
+ [sí/no] 
+ Protección antideslumbramiento: 
+ [sí/no] 
+ Atenuable: 
+ [sí/solo con atenuadores específicos/no] 
+ Parámetros del producto 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Parámetros generales del producto: 
+ Consumo de energía en modo encendido (kWh/1 000 h), redondeado al número entero superior más próximo 
+ x 
+ Clase de eficiencia energética 
+ [A/B/C/D/E/F/G]  ( 2 ) 
+ Flujo luminoso útil (Φ use ), indicando si se refiere al flujo en una esfera (360°), en un cono amplio (120°) o en un cono estrecho (90°) 
+ x en [esfera/conoamplio/cono estrecho] 
+ Temperatura de color correlacionada, redondeada a los 100 K más próximos, o intervalo de temperaturas de color correlacionadas, redondeado a los 100 K más próximos, que puede regularse 
+ [x/x…x/x o x (o x…)] 
+ Potencia en modo encendido (P on ), expresada en W 
+ x,x 
+ Potencia en espera (P sb ), expresada en W y redondeada al segundo decimal 
+ x,xx 
+ Potencia en espera en red (P net ), expresada en W y redondeada al segundo decimal, en caso de CLS 
+ x,xx 
+ Índice de rendimiento de color, redondeado al entero más próximo, o intervalo de valores CRI que puede regularse 
+ [x/x…x] 
+ Dimensiones exteriores  ( 1 ) 
+ , 
+  ( 5 ) 
+ sin mecanismo de control independiente, piezas de control de la iluminación ni piezas ajenas a la iluminación, de haberlos (milímetros) 
+ Altura 
+ x 
+ Distribución espectral de la potencia en el intervalo de 250 nm a 800 nm, a plena carga 
+ [gráfico] 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ Declaración de potencia equivalente  ( 3 ) 
+ [sí/-] 
+ En caso afirmativo, potencia equivalente (W) 
+ x 
+ Coordenadas de cromaticidad (x e y) 
+ 0,xxx 
+ 0,xxx 
+ Parámetros de fuentes luminosas direccionales: 
+ Intensidad luminosa máxima (cd) 
+ x 
+ Ángulo del haz en grados, o intervalo de ángulos del haz que puede regularse 
+ [x/x…x] 
+ Parámetros de fuentes luminosas de LED y OLED: 
+ Valor del índice de rendimiento de color R9 
+ x 
+ Factor de supervivencia 
+ x,xx 
+ Factor de mantenimiento del flujo luminoso 
+ x,xx 
+ Parámetros de fuentes luminosas de red de LED y OLED: 
+ Factor de desplazamiento (cos φ1) 
+ x,xx 
+ Consistencia cromática en elipses de MacAdam 
+ x 
+ Declaración de que una fuente luminosa de LED sustituye a una fuente luminosa fluorescente sin balasto integrado de un determinado vataje. 
+ [sí/-]  ( 4 ) 
+ En caso afirmativo, declaración de sustitución (W) 
+ x 
+ Unidad de medida del parpadeo (P st LM) 
+ x,x 
+ Unidad de medida del efecto estroboscópico (SVM) 
+ x,x 
+ b) 
+ el cuadro 7 se sustituye por el texto siguiente: 
+ «Cuadro 7 
+ Declaraciones de equivalencia para fuentes luminosas no direccionales 
+ Flujo luminoso de la fuente luminosa Φ (lm) 
+ Potencia equivalente declarada de fuente luminosa incandescente (W) 
+ 136 
+ 15 
+ 249 
+ 25 
+ 470 
+ 40 
+ 806 
+ 60 
+ 1 055 
+ 75 
+ 1 521 
+ 100 
+ 2 452 
+ 150 
+ 3 452 
+ 200». 
+ 5) 
+ El anexo VI se modifica como sigue: 
+ a) 
+ en el punto 1, la letra e) se sustituye por el texto siguiente: 
+ «e) 
+ los valores declarados y medidos correspondientes a los siguientes parámetros técnicos; estos valores se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX: 
+ 1) 
+ el flujo luminoso útil (Φ use ) en lm; 
+ 2) 
+ el índice de rendimiento de color (CRI); 
+ 3) 
+ la potencia en modo encendido (P on ) en W; 
+ 4) 
+ el ángulo del haz en grados, en el caso de fuentes luminosas direccionales (DLS); 
+ 4 bis) 
+ la intensidad luminosa máxima, en cd, en el caso de fuentes luminosas direccionales (DLS); 
+ 5) 
+ la temperatura de color correlacionada (CCT), en K; 
+ 6) 
+ la potencia en espera (P sb ) en W, incluso si es igual a cero; 
+ 7) 
+ la potencia en espera en red (P net ) en W, en el caso de fuentes luminosas conectadas (CLS); 
+ 7 bis) 
+ el valor del índice de rendimiento de color R9, en el caso de fuentes luminosas de LED y OLED; 
+ 7 ter) 
+ el factor de supervivencia, en el caso de fuentes luminosas de LED y OLED; 
+ 7 quater) 
+ el factor de mantenimiento del flujo luminoso, en el caso de fuentes luminosas de LED y OLED; 
+ 7 quinquies) 
+ vida útil 70B50, en el caso de fuentes luminosas de LED y OLED; 
+ 8) 
+ el factor de desplazamiento (cos φ1), en el caso de fuentes luminosas de red de LED y OLED; 
+ 9) 
+ la consistencia cromática en pasos de la elipse de MacAdam, en el caso de fuentes luminosas de LED y OLED; 
+ 10) 
+ la luminancia-HLLS en cd/mm 2 (solo en el caso de HLLS); 
+ 11) 
+ el valor del flickermetro (Pst LM), en el caso de fuentes luminosas de LED y OLED; 
+ 12) 
+ el valor del efecto estroboscópico (SVM), en el caso de fuentes luminosas de LED y OLED; 
+ 13) 
+ la pureza de excitación, solo en el caso de CTLS, correspondiente a los siguientes colores y longitudes de onda dominantes en el intervalo dado: 
+ Color 
+ Intervalo de longitud de onda dominante 
+ Azul 
+ 440 nm-490 nm 
+ Verde 
+ 520 nm-570 nm 
+ Rojo 
+ 610 nm-670 nm»; 
+ b) 
+ se añade el punto 2 siguiente: 
+ «2. 
+ Los elementos enumerados en el punto 1 constituirán también las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369.». 
+ 6) 
+ El anexo IX se modifica como sigue: 
+ a) 
+ el párrafo primero se sustituye por el texto siguiente: 
+ «Las tolerancias de verificación establecidas en el presente anexo solo se refieren a la verificación de los valores declarados por las autoridades del Estado miembro y no serán utilizadas por el proveedor como tolerancia admisible para establecer los valores que figuren en la documentación técnica o para interpretar estos valores con vistas a lograr el cumplimiento o a comunicar un mayor rendimiento por cualquier medio. Los valores y clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores declarados en la documentación técnica. 
+ En caso de que un modelo haya sido diseñado para que pueda detectar que está siendo objeto de ensayo (por ejemplo, reconociendo las condiciones de ensayo o el ciclo de ensayo) y reaccionar específicamente con una alteración automática de su rendimiento durante el ensayo a fin de alcanzar un nivel más favorable en cualquiera de los parámetros especificados en el presente Reglamento o incluidos en la documentación técnica o en cualquiera de los documentos facilitados, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes.»; 
+ b) 
+ en el párrafo tercero, las palabras «Al verificar» se sustituyen por «Como parte de la verificación de»; 
+ c) 
+ el párrafo segundo del punto 1 se sustituye por el texto siguiente: 
+ «Las autoridades del Estado miembro verificarán diez unidades del modelo de fuente luminosa en lo que respecta al punto 2, letra c), del presente anexo. Las tolerancias de verificación se establecen en el cuadro 9 del presente anexo.»; 
+ d) 
+ el punto 3 se sustituye por el texto siguiente: 
+ «3) 
+ Si no se alcanzan los resultados a que se refiere el punto 2, letras a), b) o c), se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento.»; 
+ e) 
+ el cuadro 9 se sustituye por el texto siguiente: 
+ «Cuadro 9 
+ Tolerancias de verificación 
+ Parámetro 
+ Tamaño de la muestra 
+ Tolerancias de verificación 
+ Potencia en modo encendido a plena carga P on 
+ [ W ]: 
+ P on ≤ 2 W 
+ 10 
+ El valor determinado no superará el valor declarado en más de 0,20 W. 
+ 2 W < P on ≤ 5 W 
+ 10 
+ El valor determinado no superará el valor declarado en más del 10 %. 
+ 5 W < P on ≤ 25 W 
+ 10 
+ El valor determinado no superará el valor declarado en más del 5 %. 
+ 25 W < P on ≤ 100 W 
+ 10 
+ El valor determinado no superará el valor declarado en más del 5 %. 
+ 100 W < P on 
+ 10 
+ El valor determinado no superará el valor declarado en más del 2,5 %. 
+ Factor de desplazamiento [ 0-1 ] 
+ 10 
+ El valor determinado no será inferior al valor declarado menos 0,1 unidades. 
+ Flujo luminoso útil Φ use 
+ [ lm ] 
+ 10 
+ El valor determinado no será inferior al valor declarado menos el 10 %. 
+ Potencia en espera P sb y potencia en espera en red P net [ W ] 
+ 10 
+ El valor determinado no superará el valor declarado en más de 0,10 W. 
+ CRI y R9 [ 0-100 ] 
+ 10 
+ El valor determinado no será inferior al valor declarado en más de 2,0 unidades. 
+ Parpadeo [ P st LM ] y efecto estroboscópico [ SVM ] 
+ 10 
+ El valor determinado no superará el valor declarado en más de 0,1, ni en más del 10 % si el valor declarado es superior a 1,0. 
+ Consistencia cromática [ pasos de la elipse de MacAdam ] 
+ 10 
+ El número determinado de pasos no superará el número declarado de pasos. El centro de la elipse de MacAdam será el centro declarado por el proveedor con una tolerancia de 0,005 unidades. 
+ Ángulo del haz [ grados ] 
+ 10 
+ El valor determinado no se apartará del valor declarado más del 25 %. 
+ Eficacia total de la red eléctrica η TM [lm/W] 
+ 10 
+ El valor determinado (cociente) no será inferior al valor declarado menos el 5 %. 
+ Factor de mantenimiento del flujo luminoso (en el caso de LED y OLED) 
+ 10 
+ El valor determinado de la muestra X LMF % no será inferior a X LMF , MIN % conforme al texto del anexo V del Reglamento (UE) 2019/2020 de la Comisión  ( 2 ) . 
+ Factor de supervivencia 
+ (en el caso de LED y OLED) 
+ 10 
+ Por lo menos nueve fuentes luminosas de la muestra de ensayo deben funcionar después de realizar el ensayo del anexo V del Reglamento (UE) 2019/2020. 
+ Pureza de excitación [%] 
+ 10 
+ El valor determinado no será inferior al valor declarado menos el 5 %. 
+ Temperatura de color correlacionada [K] 
+ 10 
+ El valor determinado no se apartará del valor declarado más del 10 %. 
+ Intensidad luminosa máxima [cd] 
+ 10 
+ El valor determinado no se apartará del valor declarado más del 25 %. 
+ En el caso de fuentes luminosas con geometría lineal que sean extensibles y de mucha longitud, como las tiras o cadenas de LED, en los ensayos de verificación de las autoridades de vigilancia del mercado se tomará una longitud de 50 cm o, si la fuente luminosa no es extensible hasta esa longitud, el valor más próximo a 50 cm. El proveedor de la fuente luminosa deberá indicar qué mecanismo de control es adecuado para esa longitud. 
+ Al verificar si un producto es una fuente luminosa, las autoridades de vigilancia del mercado deberán comparar directamente los valores medidos de las coordenadas de cromaticidad (x e y), el flujo luminoso, la densidad del flujo luminoso y el índice de rendimiento de color con los valores límite contenidos en la definición de fuente luminosa del artículo 2 del presente Reglamento, sin aplicar ninguna tolerancia. Si cualquiera de las diez unidades de la muestra reúne las condiciones para ser una fuente luminosa, se considerará que el modelo de producto es una fuente luminosa. 
+ Las fuentes luminosas que permiten al usuario final controlar, manual o automáticamente, directamente o a distancia, la intensidad luminosa, el color, la temperatura de color correlacionada, el espectro o el ángulo del haz de la luz emitida se evaluarán utilizando el ajuste de control de referencia.»
+ ». 
+ ( 1 )   Directiva 2013/59/Euratom del Consejo, de 5 de diciembre de 2013, por la que se establecen normas de seguridad básicas para la protección contra los peligros derivados de la exposición a radiaciones ionizantes ( DO L 13 de 17.1.2014, p. 1 ).»;” 
+ ( 1 )   Los cambios introducidos en estos elementos no se considerarán relevantes a efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 2 )   Si la base de datos de los productos genera automáticamente el contenido definitivo de esta celda, el proveedor no introducirá estos datos. 
+ ( 3 )   
+ “-”: no aplicable; 
+ “sí”: solo puede hacerse una declaración de equivalencia que incluya la potencia de un tipo de fuente luminosa sustituido: 
+ — 
+ En el caso de fuentes luminosas direccionales, si el tipo de fuente luminosa figura en la lista del cuadro 4 y el flujo luminoso de la fuente luminosa en un cono de 90° (Φ 90° ) no es inferior al correspondiente flujo luminoso de referencia de dicho cuadro. El flujo luminoso de referencia se multiplicará por el factor de corrección del cuadro 5. En el caso de fuentes luminosas de LED, se multiplicará además por el factor de corrección del cuadro 6. 
+ — 
+ En el caso de fuentes luminosas no direccionales, la potencia equivalente declarada de fuente luminosa incandescente (en vatios, con redondeo al primer entero) será la que corresponda en el cuadro 7 al flujo luminoso de la fuente luminosa. 
+ Los valores intermedios del flujo luminoso y de la potencia equivalente declarada de la fuente luminosa (en vatios, con redondeo al primer entero) se calcularán por interpolación lineal entre los dos valores adyacentes. 
+ ( 4 )   
+ “-”: no aplicable; 
+ “sí”: Declaración de que una fuente luminosa de LED sustituye a una fuente luminosa fluorescente sin balasto integrado de un determinado vataje. Solo puede hacerse esta declaración si: 
+ — 
+ la intensidad luminosa en cualquier dirección alrededor del eje del tubo no se desvía más de un 25 % de la intensidad luminosa media alrededor del tubo; y 
+ — 
+ el flujo luminoso de la fuente luminosa de LED no es inferior al flujo luminoso de la fuente luminosa fluorescente del vataje declarado; el flujo luminoso de la fuente luminosa fluorescente se obtendrá multiplicando el vataje declarado por el valor mínimo de eficacia luminosa correspondiente a la fuente luminosa fluorescente del cuadro 8, y 
+ — 
+ el vataje de la fuente luminosa de LED no es superior al de la fuente luminosa fluorescente a la que se declara que sustituye. 
+ El registro de documentación técnica deberá contener los datos que fundamenten estas declaraciones. 
+ ( 5 )   Esta rúbrica no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369.»; 
+ ( 2 )   Reglamento (UE) 2019/2020 de la Comisión, de 1 de octubre de 2019, por el que se establecen requisitos de diseño ecológico para las fuentes luminosas y los mecanismos de control independientes con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo y se derogan los Reglamentos (CE) n. o 244/2009, (CE) n. o 245/2009 y (UE) n. o 1194/2012 de la Comisión (véase la página 209 del presente Diario Oficial). 
+ ANEXO IV 
+ Los anexos I, II, IV, V, VI y IX del Reglamento Delegado (UE) 2019/2016 se modifican como sigue: 
+ 1) 
+ En el anexo I se añade el punto 42 siguiente: 
+ «42) 
+ “valores declarados”: los valores facilitados por el proveedor correspondientes a los parámetros técnicos declarados, calculados o medidos, con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el artículo 3, apartado 1, letra d), y el anexo VI del presente Reglamento, para la verificación del cumplimiento por las autoridades del Estado miembro.». 
+ 2) 
+ En el anexo II, el cuadro 1 se sustituye por el texto siguiente: 
+ «Cuadro 1 
+ Clases de eficiencia energética de los aparatos de refrigeración 
+ Clase de eficiencia energética 
+ Índice de eficiencia energética (IEE) 
+ A 
+ IEE ≤ 41 
+ B 
+ 41 < IEE ≤ 51 
+ C 
+ 51 < IEE ≤ 64 
+ D 
+ 64 < IEE ≤ 80 
+ E 
+ 80 < IEE ≤ 100 
+ F 
+ 100 < IEE ≤ 125 
+ G 
+ IEE > 125». 
+ 3) 
+ En el anexo IV, el punto 1 se modifica como sigue: 
+ a) 
+ después del párrafo primero se añade el texto siguiente: 
+ «Si se declara un parámetro con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el anexo VI, cuadro 7, su valor declarado será utilizado por el proveedor para los cálculos en el presente anexo.»; 
+ b) 
+ las letras h) e i) se sustituyen por el texto siguiente: 
+ «h) 
+ La capacidad de congelación de un compartimento se calcula multiplicando por 24 el peso de la carga ligera de dicho compartimento, dividido por el tiempo de congelación necesario para hacer descender la temperatura de dicha carga de +25 a -18 °C a una temperatura ambiente de 25 °C, expresada en kg/24h y redondeada al primer decimal. 
+ i) 
+ En el caso de los compartimentos de cuatro estrellas, el tiempo de congelación para llevar la temperatura de la carga ligera de +25 a -18 °C a una temperatura ambiente de 25 °C será tal que la capacidad de congelación resultante cumpla el requisito del anexo I, punto 4.»; 
+ c) 
+ se añade la letra k) siguiente: 
+ «k) 
+ El peso de la carga ligera correspondiente a cada compartimento de cuatro estrellas será: 
+ — 
+ 3,5 kg/100 l del volumen del compartimento de cuatro estrellas evaluado, redondeado al alza a los 0,5 kg más próximos; y 
+ — 
+ 2 kg en el caso de un compartimento de cuatro estrellas con un volumen para el que 3,5 kg/100 l dé lugar a un valor inferior a 2 kg; 
+ en caso de que el aparato de refrigeración incluya una combinación de compartimentos de tres y cuatro estrellas, la suma de las cargas ligeras se incrementará de manera que la suma de los pesos de las cargas ligeras correspondientes a todos los compartimentos de cuatro estrellas sea: 
+ — 
+ 3,5 kg/100 l del volumen total de todos los compartimentos de cuatro y de tres estrellas evaluados, redondeado al alza a los 0,5 kg más próximos, y 
+ — 
+ 2 kg en caso de que el volumen total de todos los compartimentos de cuatro y de tres estrellas para los que 3,5 kg/100 l dé lugar a un valor inferior a 2 kg.». 
+ 4) 
+ En el anexo V, el cuadro 6 se sustituye por el texto siguiente: 
+ «Cuadro 6 
+ Ficha de información del producto 
+ Nombre o marca comercial del proveedor 
+  ( 2 ) 
+ , 
+  ( 4 ) : 
+ Dirección del proveedor 
+  ( 2 ) 
+ , 
+  ( 4 ) : 
+ Identificador del modelo 
+  ( 4 ) : 
+ Tipo de aparato de refrigeración: 
+ Aparato de bajo nivel de ruido: 
+ [sí/no] 
+ Tipo de diseño: 
+ [encastrable/de libre instalación] 
+ Armarios para la conservación de vinos: 
+ [sí/no] 
+ Otros aparatos de refrigeración: 
+ [sí/no] 
+ Parámetros generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Dimensiones totales (milímetros)  ( 2 ) 
+ , 
+  ( 4 ) 
+ Altura 
+ x 
+ Volumen total (dm 3 o l) 
+ x 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ IEE 
+ x 
+ Clase de eficiencia energética 
+ [A/B/C/D/E/F/G]  ( 3 ) 
+ Ruido acústico aéreo emitido [dB(A) re 1 pW] 
+ x 
+ Clases de ruido acústico aéreo emitido 
+ [A/B/C/D]  ( 4 ) 
+ Consumo de energía anual (kWh/a) 
+ x 
+ Clase climática: 
+ [templada extendida/templada/subtropical/tropical] 
+ Temperatura ambiente mínima (°C) en la que puede funcionar el aparato de refrigeración 
+ x c 
+ Temperatura ambiente máxima (°C) en la que puede funcionar el aparato de refrigeración 
+ x  ( 3 ) 
+ Ajuste de invierno 
+ [sí/no] 
+ Parámetros de los compartimentos: 
+ Tipo de compartimento 
+ Parámetros y valores de los compartimentos 
+ Volumen del compartimento (dm 3 o l) 
+ Ajuste de temperatura recomendado para la conservación optimizada de los alimentos (°C). 
+ Estos ajustes no contradirán las condiciones de conservación contempladas en el anexo IV, cuadro 3. 
+ Capacidad de congelación (kg/24 h) 
+ Tipo de desescarche 
+ (desescarche automático = A, 
+ desescarche manual = M) 
+ Compartimento despensa 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ Conservación de vinos 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ Compartimento bodega 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ Alimentos frescos 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ Helador 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ 0 estrellas/Fabricación de hielo 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ 1 estrella 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ 2 estrellas 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ 3 estrellas 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ 4 estrellas 
+ [sí/no] 
+ x,x 
+ x 
+ x,x 
+ [A/M] 
+ Sección 2 estrellas 
+ [sí/no] 
+ x,x 
+ x 
+ - 
+ [A/M] 
+ Compartimento de temperatura variable 
+ Tipos de compartimento 
+ x,x 
+ x 
+ x,x (en compartimentos de 4 estrellas) o - 
+ [A/M] 
+ En compartimentos de 4 estrellas 
+ Capacidad de congelación rápida 
+ [sí/no] 
+ En el caso de los armarios para la conservación de vinos: 
+ Número de botellas de vino estándar 
+ x 
+ Parámetros de las fuentes luminosas 
+  ( 1 ) 
+ , 
+  ( 2 ) : 
+ Tipo de fuente luminosa 
+ [Tecnología de iluminación] 
+ Clase de eficiencia energética 
+ [A/B/C/D/E/F/G] 
+ Duración mínima de la garantía ofrecida por el fabricante 
+  ( 2 ) 
+ , 
+  ( 4 ) : 
+ Información adicional 
+  ( 2 ) 
+ , 
+  ( 4 ) : 
+ Enlace al sitio web del proveedor, en el que se encuentra la información contemplada en el punto 4 del anexo II del Reglamento (UE) 2019/2019 de la Comisión  ( 2 ) : 
+ 5) 
+ En el anexo VI, el punto 1 se sustituye por el texto siguiente: 
+ «1. 
+ La documentación técnica contemplada en el artículo 3, apartado 1, letra d), incluirá los elementos siguientes: 
+ a) 
+ una descripción general del modelo que permita identificarlo fácil e inequívocamente; 
+ b) 
+ referencias de las normas armonizadas aplicadas u de otras normas de medición empleadas; 
+ c) 
+ las precauciones específicas que deben tomarse durante el montaje, la instalación, el mantenimiento o el ensayo del modelo; 
+ d) 
+ los valores de los parámetros técnicos establecidos en el cuadro 7; estos valores se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX; 
+ e) 
+ los detalles y los resultados de los cálculos efectuados con arreglo al anexo IV; 
+ f) 
+ las condiciones de ensayo en caso de que no estén suficientemente descritas en la letra b); 
+ g) 
+ los modelos equivalentes, en caso de haberlos, incluidos los identificadores del modelo. 
+ Estos elementos constituirán también las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369. 
+ Cuadro 7 
+ Parámetros técnicos del modelo y sus valores declarados para los aparatos de refrigeración 
+ Una descripción general del modelo del aparato de refrigeración, que permita identificarlo fácil e inequívocamente : 
+ Especificaciones del producto: 
+ Especificaciones generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Consumo de energía anual (kWh/a) 
+ x,xx 
+ IEE (%) 
+ x,x 
+ Consumo de energía anual normalizado (kWh/a) 
+ x,xx 
+ Parámetro “combi” 
+ x,xx 
+ Lapso de aumento de la temperatura (h) 
+ x,xx 
+ Factor de carga 
+ x,x 
+ Factor de pérdida de calor por la puerta 
+ x,xxx 
+ Clase climática 
+ [templada extendida/templada/subtropical/tropical] 
+ Tipo de resistencia anticondensación 
+ [Encendido-apagado manual/controlada por el ambiente/otros/ninguna] 
+ Ruido acústico aéreo emitido [dB(A) re 1 pW] 
+ x 
+ Especificaciones de producto adicionales de los aparatos de refrigeración, salvo los aparatos de refrigeración de bajo nivel de ruido: 
+ Parámetro 
+ Valor 
+ Consumo diario de energía a 32 °C (kWh/24h) 
+ x,xxx 
+ Especificaciones de producto adicionales de los aparatos de refrigeración de bajo nivel de ruido: 
+ Parámetro 
+ Valor 
+ Consumo diario de energía a 25 °C (kWh/24h) 
+ x,xxx 
+ Especificaciones de producto adicionales de los armarios para la conservación de vinos 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Humedad interna (%) 
+ [intervalo] 
+ Número de botellas 
+ X 
+ Cuando el aparato de refrigeración tenga varios compartimentos del mismo tipo, se repetirán las filas correspondientes a estos compartimentos. Cuando no exista un tipo de compartimento determinado, los valores de los parámetros relativos a los compartimentos serán “-”. 
+ Especificaciones de los compartimentos: 
+ Parámetros y valores de los compartimentos 
+ Tipo de compartimento 
+ Temperatura de referencia (°C) 
+ Volumen del compartimento (dm 3 o l) 
+ Capacidad de congelación (kg/24 h) 
+ Parámetro termodinámico ( r c ) 
+ N c 
+ M 
+ c 
+ Factor de desescarche ( A c 
+ ) 
+ Factor de encastre ( B c 
+ ) 
+ Despensa 
+ + 17 
+ x,x 
+ - 
+ 0,35 
+ 75 
+ 0,12 
+ 1,00 
+ x,xx 
+ Conservación de vinos 
+ + 12 
+ x,x 
+ - 
+ 0,60 
+ 75 
+ 0,12 
+ 1,00 
+ x,xx 
+ Compartimento bodega 
+ + 12 
+ x,x 
+ - 
+ 0,60 
+ 75 
+ 0,12 
+ 1,00 
+ x,xx 
+ Alimentos frescos 
+ + 4 
+ x,x 
+ - 
+ 1,00 
+ 75 
+ 0,12 
+ 1,00 
+ x,xx 
+ Helador 
+ + 2 
+ x,x 
+ - 
+ 1,10 
+ 138 
+ 0,12 
+ 1,00 
+ x,xx 
+ 0 estrellas/Fabricación de hielo 
+ 0 
+ x,x 
+ - 
+ 1,20 
+ 138 
+ 0,15 
+ x,xx 
+ x,xx 
+ 1 estrella 
+ -6 
+ x,x 
+ - 
+ 1,50 
+ 138 
+ 0,15 
+ x,xx 
+ x,xx 
+ 2 estrellas 
+ -12 
+ x,x 
+ - 
+ 1,80 
+ 138 
+ 0,15 
+ x,xx 
+ x,xx 
+ 3 estrellas 
+ -18 
+ x,x 
+ - 
+ 2,10 
+ 138 
+ 0,15 
+ x,xx 
+ x,xx 
+ 4 estrellas 
+ -18 
+ x,x 
+ x,x 
+ 2,10 
+ 138 
+ 0,15 
+ x,xx 
+ x,xx 
+ Sección 2 estrellas 
+ -12 
+ x,x 
+ - 
+ 2,10 
+ 138 
+ 0,15 
+ x,xx 
+ x,xx 
+ Compartimento de temperatura variable 
+ X 
+ x,x 
+ x,x (en compartimentos de 4 estrellas) o - 
+ x,xx 
+ x 
+ x,xx 
+ x,xx 
+ x,xx 
+ Suma de los volúmenes de los compartimentos heladores y los compartimentos para productos sin congelar 
+ [l o dm 3 ] 
+ x 
+ Suma de los volúmenes de los compartimentos para congelados [l o dm 3 ] 
+ x». 
+ 6) 
+ El anexo IX se modifica como sigue: 
+ a) 
+ el párrafo primero se sustituye por el texto siguiente: 
+ «Las tolerancias de verificación establecidas en el presente anexo solo se refieren a la verificación de los valores declarados por las autoridades del Estado miembro y no serán utilizadas por el proveedor como tolerancia admisible para establecer los valores que figuren en la documentación técnica o para interpretar estos valores con vistas a lograr el cumplimiento o a comunicar un mayor rendimiento por cualquier medio. Los valores y clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores declarados en la documentación técnica.»; 
+ b) 
+ en el párrafo tercero, las palabras «Al verificar» se sustituyen por «Como parte de la verificación de»; 
+ c) 
+ el punto 7 se sustituye por el texto siguiente: 
+ «7) 
+ Las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión inmediatamente después de la adopción de una decisión sobre la no conformidad del modelo con arreglo a los puntos 3 o 6, o al párrafo segundo del presente anexo.»; 
+ d) 
+ el cuadro 8 se sustituye por el texto siguiente: 
+ « Cuadro 8 
+ Tolerancias de verificación de los parámetros medidos 
+ Parámetros 
+ Tolerancias de verificación 
+ Volumen total y volumen del compartimento 
+ El valor determinado  ( a ) no será inferior al valor declarado en más del 3 % o 1 litro, si este valor es superior. 
+ Capacidad de congelación 
+ El valor determinado  ( a ) no será más de un 10 % inferior al valor declarado. 
+ E 32 
+ El valor determinado  ( a ) no será más de un 10 % superior al valor declarado. 
+ Consumo de energía anual 
+ El valor determinado  ( a ) no será más de un 10 % superior al valor declarado. 
+ Humedad interior de los aparatos para conservación de vinos (%) 
+ El valor determinado  ( a ) no se apartará del intervalo declarado más del 10 %. 
+ Ruido acústico aéreo emitido 
+ El valor determinado  ( a ) no será superior al valor declarado en más de 2 dB(A) re 1 pW. 
+ Tiempo de subida de temperatura 
+ El valor determinado  ( a ) no será más de un 15 % inferior al valor declarado. 
+ ( 1 )   Determinados de acuerdo con el Reglamento Delegado (UE) 2019/2015 de la Comisión  ( 1 ) . 
+ ( 2 )   Los cambios en esta rúbrica no se considerarán relevantes a los efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 3 )   Cuando la base de datos de los productos genere automáticamente el contenido definitivo de esta celda, el proveedor no introducirá los datos. 
+ ( 4 )   Esta rúbrica no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369. 
+ ( a )   En caso de someter a ensayo tres unidades adicionales conforme a lo dispuesto en el punto 4, por “valor determinado” se entenderá la media aritmética de los valores determinados de estas tres unidades adicionales.». 
+ ANEXO V 
+ Los anexos I, II, IV, V, VI y IX del Reglamento Delegado (UE) 2019/2017 se modifican como sigue: 
+ 1) 
+ En el anexo I se añade el punto 24 siguiente: 
+ «24) 
+ “valores declarados”: los valores facilitados por el proveedor correspondientes a los parámetros técnicos declarados, calculados o medidos, con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el artículo 3, apartado 1, letra d), y el anexo VI del presente Reglamento, para la verificación del cumplimiento por las autoridades del Estado miembro.». 
+ 2) 
+ En el anexo II, el título del cuadro 1 se sustituye por el texto siguiente: «Clases de eficiencia energética de los lavavajillas domésticos». 
+ 3) 
+ El anexo IV se modifica como sigue: 
+ a) 
+ después del párrafo primero se añade el texto siguiente: 
+ «Si se declara un parámetro con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el anexo VI, cuadro 4, su valor declarado será utilizado por el proveedor para los cálculos en el presente anexo.»; 
+ b) 
+ los puntos 2, 3 y 4 se sustituyen por el texto siguiente: 
+ «2.   ÍNDICE DE RENDIMIENTO DE LAVADO 
+ Para calcular el índice de rendimiento de lavado (I C ) de un modelo de lavavajillas doméstico, el rendimiento de lavado del programa “eco” se compara con el rendimiento de lavado de un lavavajillas de referencia. 
+ El I C se calcula mediante la siguiente fórmula y se redondea al tercer decimal: 
+ I C = exp (ln I C ) 
+ y 
+ ln I C = (1/n) × Σ n 
+ i = 1 ln (C T,i /C R,i ) 
+ donde: 
+ C T,i es el rendimiento de lavado del programa “eco” del lavavajillas doméstico sometido a una sola tanda de ensayo (i), redondeado al tercer decimal; 
+ C R,i es el rendimiento de lavado del lavavajillas de referencia sometido a una sola tanda de ensayo (i), redondeado al tercer decimal; 
+ “n” es el número de tandas de ensayo. 
+ 3.   ÍNDICE DE RENDIMIENTO DE SECADO 
+ Para calcular el índice de rendimiento de secado (I D ) de un modelo de lavavajillas doméstico, el rendimiento de secado del programa “eco” se compara con el rendimiento de secado del lavavajillas de referencia. 
+ El I D se calcula mediante la siguiente fórmula y se redondea al tercer decimal: 
+ I D = exp (ln I D ) 
+ y 
+ ln I D = (1/n) × Σ n 
+ i = 1 ln(I D,i ) 
+ donde: 
+ I D,i es el índice de rendimiento de secado del programa “eco” del lavavajillas doméstico sometido a una sola tanda de ensayo (i); 
+ “n” es el número de tandas de ensayo de lavado y secado combinados. 
+ El I D,i se calcula mediante la siguiente fórmula y se redondea al tercer decimal: 
+ ln I D,i 
+ = ln (D T,i /D R,t ) 
+ donde: 
+ D T,i es la puntuación media de rendimiento de secado del programa “eco” del lavavajillas doméstico sometido a una sola tanda de ensayo (i), redondeada al tercer decimal; 
+ D R,t es la puntuación de secado objetivo del lavavajillas de referencia, redondeada al tercer decimal. 
+ 4.   MODOS DE BAJO CONSUMO 
+ Cuando proceda, se miden el consumo de energía en modo desactivado (P o ), en modo preparado (P sm ) y, cuando proceda, en inicio aplazado (P ds ), expresado en W y redondeado al segundo decimal. 
+ Al medir el consumo de energía en los modos de bajo consumo, se comprobarán y registrarán los aspectos siguientes: 
+ — 
+ si se visualiza información o no; 
+ — 
+ si se activa o no una conexión de red.». 
+ 4) 
+ En el anexo V, el cuadro 3 se sustituye por el texto siguiente: 
+ «Cuadro 3 
+ Contenido, orden y formato de la ficha de información del producto 
+ Nombre o marca del proveedor 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Dirección del proveedor 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Identificador del modelo 
+  ( 1 ) : 
+ Parámetros generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Capacidad asignada  ( 2 ) (ps) 
+ x 
+ Dimensiones en cm  ( 1 ) 
+ , 
+  ( 3 ) 
+ Altura 
+ x 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ IEE  ( 2 ) 
+ x,x 
+ Clase de eficiencia energética  ( 2 ) 
+ [A/B/C/D/E/F/G]  ( 4 ) 
+ Índice de rendimiento de lavado  ( 2 ) 
+ x,xxx 
+ Índice de rendimiento de secado  ( 2 ) 
+ x,xxx 
+ Consumo de energía en kWh [por ciclo], sobre la base del programa “eco” utilizando una carga con agua fría. El consumo real de energía dependerá de cómo se utilice el aparato. 
+ x,xxx 
+ Consumo de agua en litros [por ciclo], sobre la base del programa “eco”. El consumo real de agua dependerá de cómo se utilice el aparato y de la dureza del agua. 
+ x,x 
+ Duración del programa  ( 2 ) (h:min) 
+ x:xx 
+ Tipo 
+ [encastrable/de libre instalación] 
+ Ruido acústico aéreo emitido  ( 2 ) [dB(A) re 1 pW] 
+ x 
+ Clase de ruido acústico aéreo emitido  ( 2 ) 
+ [A/B/C/D]  ( 4 ) 
+ Modo desactivado (W) (si procede) 
+ x,xx 
+ Modo preparado (W) (si procede) 
+ x,xx 
+ Inicio aplazado (W) (si procede) 
+ x,xx 
+ Modo preparado en red (W) (si procede) 
+ x,xx 
+ Duración mínima de la garantía ofrecida por el proveedor 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Información adicional 
+  ( 1 ) 
+ , 
+  ( 3 ) : 
+ Enlace al sitio web del proveedor, en el que se encuentra la información contemplada en el punto 6 del anexo II del Reglamento (UE) 2019/2022 de la Comisión  ( 1 ) : 
+ 5) 
+ En el anexo VI, el punto 1 se sustituye por el texto siguiente: 
+ «1. 
+ La documentación técnica contemplada en el artículo 3, apartado 1, letra d), incluirá los elementos siguientes: 
+ a) 
+ una descripción general del modelo que permita identificarlo fácil e inequívocamente; 
+ b) 
+ referencias de las normas armonizadas aplicadas u de otras normas de medición empleadas; 
+ c) 
+ las precauciones específicas que deben tomarse durante el montaje, la instalación, el mantenimiento o el ensayo del modelo; 
+ d) 
+ los valores de los parámetros técnicos establecidos en el cuadro 4; estos valores se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX; 
+ e) 
+ los detalles y los resultados de los cálculos efectuados con arreglo al anexo IV; 
+ f) 
+ las condiciones de ensayo en caso de que no estén suficientemente descritas en la letra b); 
+ g) 
+ los modelos equivalentes, en caso de haberlos, incluidos los identificadores del modelo. 
+ Estos elementos constituirán también las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369. 
+ Cuadro 4 
+ Parámetros técnicos del modelo y sus valores declarados para los lavavajillas domésticos 
+ PARÁMETRO 
+ VALOR DECLARADO 
+ UNIDAD 
+ Capacidad asignada en cubiertos tipo 
+ X 
+ - 
+ Consumo de energía del programa “eco” (EPEC), redondeado al tercer decimal. 
+ X,XXX 
+ kWh/ciclo 
+ Consumo de energía del programa estándar (SPEC), redondeado al tercer decimal. 
+ X,XXX 
+ kWh/ciclo 
+ Índice de eficiencia energética (IEE) 
+ X,X 
+ - 
+ Consumo de agua del programa “eco” (EPWC), redondeado al primer decimal 
+ X,X 
+ L/ciclo 
+ Índice de rendimiento de lavado (I C ) 
+ X,XXX 
+ - 
+ Índice de rendimiento de secado (I D ) 
+ X,XXX 
+ - 
+ Duración del programa eco (T t ), redondeada al minuto más próximo 
+ X:XX 
+ h:min 
+ Consumo de energía en modo desactivado (P o ), redondeado al segundo decimal (si procede) 
+ X,XX 
+ W 
+ Consumo de energía en modo preparado (P sm ), redondeado al segundo decimal (si procede) 
+ X,XX 
+ W 
+ ¿Incluye el modo preparado la visualización de información? 
+ Sí/No 
+ - 
+ Consumo de energía en modo preparado (P sm ) en condición de modo preparado en red (si procede), redondeado al segundo decimal 
+ X,XX 
+ W 
+ Consumo de energía en inicio aplazado (P ds ) (si procede), redondeado al segundo decimal 
+ X,XX 
+ W 
+ Ruido acústico aéreo emitido 
+ X 
+ dB(A) re 1 pW». 
+ 6) 
+ El anexo IX se modifica como sigue: 
+ a) 
+ el párrafo primero se sustituye por el texto siguiente: 
+ «Las tolerancias de verificación establecidas en el presente anexo solo se refieren a la verificación de los valores declarados por las autoridades del Estado miembro y no serán utilizadas por el proveedor como tolerancia admisible para establecer los valores que figuren en la documentación técnica o para interpretar estos valores con vistas a lograr el cumplimiento o a comunicar un mayor rendimiento por cualquier medio. Los valores y clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores declarados en la documentación técnica.»; 
+ b) 
+ en el párrafo tercero, las palabras «Al verificar» se sustituyen por «Como parte de la verificación de»; 
+ c) 
+ el punto 7 se sustituye por el texto siguiente: 
+ «7) 
+ Las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión inmediatamente después de la adopción de una decisión sobre la no conformidad del modelo con arreglo a los puntos 3 o 6, o al párrafo segundo del presente anexo.». 
+ ( 1 )   Esta rúbrica no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369. 
+ ( 2 )   Para el programa “eco”. 
+ ( 3 )   Los cambios en esta rúbrica no se considerarán relevantes a los efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 4 )   Si la base de datos de los productos genera automáticamente el contenido definitivo de esta celda, el proveedor no introducirá estos datos. 
+ ANEXO VI 
+ Los anexos I, III, IV, V, VI y IX del Reglamento Delegado (UE) 2019/2018 se modifican como sigue: 
+ 1) 
+ En el anexo I, el punto 18 se sustituye por el texto siguiente: 
+ «18) 
+ “valores declarados”: los valores facilitados por el proveedor correspondientes a los parámetros técnicos declarados, calculados o medidos, con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el artículo 3, apartado 1, letra d), y el anexo VI del presente Reglamento, para la verificación del cumplimiento por las autoridades del Estado miembro.». 
+ 2) 
+ El anexo IV se modifica como sigue: 
+ a) 
+ después del párrafo primero se añade el texto siguiente: 
+ «Si se declara un parámetro con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 y de conformidad con el anexo VI, cuadro 11, su valor declarado será utilizado por el proveedor para los cálculos en el presente anexo.»; 
+ b) 
+ en el cuadro 4, parte a), se añaden las líneas siguientes: 
+ «Armarios frigoríficos verticales y combinados para supermercados 
+ M0 
+ ≤ + 4 
+ ≥-1 
+ no aplicable 
+ 1,30 
+ Armarios frigoríficos horizontales para supermercados 
+ M0 
+ ≤ + 4 
+ ≥-1 
+ no aplicable 
+ 1,13»; 
+ c) 
+ la primera nota al final del cuadro 4 se sustituye por el texto siguiente: 
+ «(*) 
+ En el caso de las máquinas expendedoras multitemperatura, TV será la media de TV1 (la temperatura máxima medida del producto en el compartimento más caliente) y TV2 (la temperatura máxima medida del producto en el compartimento más frío), redondeadas al primer decimal.»; 
+ d) 
+ en el anexo V, el cuadro 10 se sustituye por el texto siguiente: 
+ «Cuadro 10 
+ Ficha de información del producto 
+ Nombre o marca comercial del proveedor 
+  ( 2 ) 
+ , 
+  ( 5 ) : 
+ Dirección del proveedor 
+  ( 2 ) 
+ , 
+  ( 5 ) : 
+ Identificador del modelo 
+  ( 5 ) : 
+ Empleo: 
+ Exposición y venta 
+ Tipo de aparato de refrigeración con función de venta directa: 
+ [Refrigerador de bebidas/Congelador de helados/Vitrina de helados/Armario para supermercado/Máquina expendedora refrigerada] 
+ Código de la clase de armario, conforme a las normas armonizadas u otros métodos fiables, exactos y reproducibles de conformidad con el anexo IV. 
+ Por ejemplo: [HC1/…/HC8], [VC1/…/VC4] 
+ Parámetros específicos del producto 
+ (Refrigerador de bebidas: cumpliméntese el punto 1; congelador de helados: cumpliméntese el punto 2; vitrina de helados: cumpliméntese el punto 3; armario para supermercado: cumpliméntese el punto 4; máquinas expendedoras refrigeradas: cumpliméntese el punto 5. Si el aparato de refrigeración con función de venta directa tiene compartimentos que funcionan a diferentes temperaturas, o un compartimento que puede ajustarse a temperaturas diferentes, se repetirán las líneas por cada ajuste de compartimento o de temperatura): 
+ 1. 
+ Refrigerador de bebidas: 
+ Volumen bruto (dm 3 o L) 
+ Condiciones ambiente para las que está diseñado el aparato (según el cuadro 6) 
+ Temperatura más caliente (°C) 
+ Humedad relativa (%) 
+ x 
+ x 
+ x 
+ 2. 
+ Congelador de helados con [tapa transparente/tapa opaca]: 
+ Volumen neto (dm 3 o L) 
+ Condiciones ambiente para las que está diseñado el aparato (según el cuadro 8) 
+ Intervalo de temperatura (°C) 
+ Intervalo de humedad relativa (%) 
+ mínima 
+ máxima 
+ mínima 
+ máxima 
+ x 
+ x 
+ x 
+ x 
+ x 
+ 3. 
+ Vitrina de helados 
+ Superficie total de exposición (m 2 ) 
+ Clase de temperatura [según el cuadro 4, sección b)] 
+ x,xx 
+ [G1/G2/G3/L1/L2/L3/S] 
+ 4. 
+ Armario para supermercado [integral/remoto] [horizontal/vertical (distinto de semivertical)/semivertical/combinado], de carga rodante: [sí/no]: 
+ Superficie total de exposición (m 2 ) 
+ Clase de temperatura [según el cuadro 4, sección a)] 
+ x,xx 
+ [frigorífico: [M2/H1/H2/M1]/congelador: [L1/L2/L3]] 
+ 5. 
+ Máquinas expendedoras refrigeradas, [máquinas refrigeradas con frente cerrado para latas y botellas donde los productos están apilados/máquinas refrigeradas con frente de cristal para (latas y botellas, confitería y refrigerios/exclusivamente para productos alimenticios perecederos)/máquinas refrigeradas multitemperatura para (indíquese el tipo de producto alimenticio para el que están diseñadas)/máquinas combinadas que consisten en máquinas de diferentes categorías incluidas en la misma caja y enfriadas por un solo enfriador para (indíquese el tipo de producto alimenticio para el que están diseñadas)]: 
+ Volumen (dm 3 o L) 
+ Clase de temperatura [según el cuadro 4, sección c)] 
+ x 
+ categoría [1/2/3/4/6] 
+ Parámetros generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Consumo de energía anual (kWh/a)  ( 4 ) 
+ x,xx 
+ Temperaturas recomendadas para conservación optimizada de alimentos (°C) (estos ajustes no entrarán en conflicto con las condiciones de temperatura establecidas en el anexo IV, cuadros 4, 5 o 6, según proceda) 
+ x 
+ IEE 
+ x,x 
+ Clase de eficiencia energética 
+ [A/B/C/D/E/F/G]  ( 3 ) 
+ Parámetros de la fuente luminosa 
+  ( 1 ) 
+ , 
+  ( 2 ) : 
+ Tipo de fuente luminosa 
+ [Tecnología de iluminación] 
+ Clase de eficiencia energética 
+ [A/B/C/D/E/F/G] 
+ Duración mínima de la garantía ofrecida por el proveedor 
+  ( 2 ) 
+ , 
+  ( 5 ) 
+ Información adicional 
+  ( 2 ) 
+ , 
+  ( 5 ) : 
+ Enlace al sitio web del proveedor donde se encuentre la información establecida en el punto 3 del anexo II del Reglamento (UE) 2019/2024 de la Comisión  ( 2 ) : 
+ 3) 
+ En el anexo VI, el punto 1 se sustituye por el texto siguiente: 
+ «1. 
+ La documentación técnica contemplada en el artículo 3, apartado 1, letra d), incluirá los elementos siguientes: 
+ a) 
+ una descripción general del modelo que permita identificarlo fácil e inequívocamente; 
+ b) 
+ referencias de las normas armonizadas aplicadas u de otras normas de medición empleadas; 
+ c) 
+ las precauciones específicas que deben tomarse durante el montaje, la instalación, el mantenimiento o el ensayo del modelo; 
+ d) 
+ los valores de los parámetros técnicos establecidos en el cuadro 11; estos valores se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX; 
+ e) 
+ los detalles y los resultados de los cálculos efectuados con arreglo al anexo IV; 
+ f) 
+ las condiciones de ensayo en caso de que no estén suficientemente descritas en la letra b); 
+ g) 
+ los modelos equivalentes, en caso de haberlos, incluidos los identificadores del modelo. 
+ Estos elementos constituirán también las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369. 
+ Cuadro 11 
+ Parámetros técnicos del modelo y sus valores declarados para los aparatos de refrigeración con función de venta directa 
+ Una descripción general del modelo de aparato de refrigeración con función de venta directa que permita identificarlo de forma fácil e inequívoca: 
+ Especificaciones del producto 
+ Especificaciones generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Consumo de energía anual (kWh/a) 
+ x,xx 
+ Consumo de energía anual normalizado (kWh/a) 
+ x,xx 
+ Consumo de energía diario (kWh/24h) 
+ x,xxx 
+ Condiciones ambiente 
+ [Serie 1/Serie 2] 
+ M 
+ x,x 
+ N 
+ x,xxx 
+ Coeficiente de temperatura (C) 
+ x,xx 
+ Y 
+ x,xx 
+ P 
+ x,xx 
+ Temperatura objetivo (Tc) (°C) * 
+ x,x 
+ Factor de la clase climática (CC) * 
+ x,xx 
+ Información adicional: 
+ Las referencias de las normas armonizadas u otros métodos fiables, exactos y reproducibles que se han aplicado: 
+ Si procede, los datos y la firma de la persona habilitada para firmar la declaración en nombre del proveedor: 
+ Una lista de modelos equivalentes, incluidos los identificadores de modelo: 
+ * Solamente para refrigeradores de bebidas y congeladores de helados. 
+ Especificaciones adicionales del producto en el caso de los refrigeradores de bebidas: 
+ Parámetro 
+ Valor 
+ Volumen bruto (dm 3 o L) 
+ x 
+ Condiciones ambiente para las que está diseñado el aparato (según el cuadro 6) 
+ Temperatura más caliente (°C) 
+ x 
+ Humedad relativa (%) 
+ x 
+ Especificaciones adicionales del producto en el caso de los congeladores de helados con [tapa transparente/tapa opaca]: 
+ Parámetro 
+ Valor 
+ Volumen neto (dm 3 o L) 
+ x 
+ Condiciones ambiente para las que está diseñado el aparato (según el cuadro 8) 
+ Intervalo de temperatura (°C) 
+ Mínima 
+ x 
+ Máxima 
+ x 
+ Intervalo de humedad relativa (%) 
+ Mínima 
+ x 
+ Máxima 
+ x 
+ Especificaciones adicionales del producto en el caso de las vitrinas de helados 
+ Parámetro 
+ Valor 
+ Superficie total de exposición (m 2 ) 
+ x,xx 
+ Clase de temperatura 
+ XY 
+ Especificaciones adicionales del producto en el caso de los armarios para supermercado 
+ Parámetro 
+ Valor 
+ Superficie total de exposición (m 2 ) 
+ x,xx 
+ Clase de temperatura 
+ XY 
+ Especificaciones adicionales del producto en el caso de las máquinas expendedoras refrigeradas: 
+ Parámetro 
+ Valor 
+ Clase de temperatura 
+ XY 
+ Volumen (dm 3 o L) 
+ x». 
+ 4) 
+ El anexo IX se modifica como sigue: 
+ a) 
+ el párrafo primero se sustituye por el texto siguiente: 
+ «Las tolerancias de verificación establecidas en el presente anexo solo se refieren a la verificación de los valores declarados por las autoridades del Estado miembro y no serán utilizadas por el proveedor como tolerancia admisible para establecer los valores que figuren en la documentación técnica o para interpretar estos valores con vistas a lograr el cumplimiento o a comunicar un mayor rendimiento por cualquier medio. Los valores y clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores declarados en la documentación técnica.»; 
+ b) 
+ en el párrafo tercero, las palabras «Al verificar» se sustituyen por «Como parte de la verificación de»; 
+ c) 
+ el punto 7 se sustituye por el texto siguiente: 
+ «7) 
+ Las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión inmediatamente después de la adopción de una decisión sobre la no conformidad del modelo con arreglo a los puntos 3 o 6, o al párrafo segundo del presente anexo.». 
+ ( 1 )   Determinada conforme al Reglamento Delegado (UE) 2019/2015 de la Comisión  ( 1 ) . 
+ ( 2 )   Los cambios en esta rúbrica no se considerarán relevantes a los efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 3 )   Si la base de datos de los productos genera automáticamente el contenido definitivo de esta celda, el proveedor no introducirá estos datos. 
+ ( 4 )   Si el aparato de refrigeración con función de venta directa tiene compartimentos que funcionan a diferentes temperaturas, se indicará el consumo de energía anual de la unidad integrada. Si los distintos compartimentos de una misma unidad emplean sistemas de refrigeración independientes, se indicará también el consumo de energía de cada subsistema, cuando sea posible. 
+ ( 5 )   Esta rúbrica no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369). 
+ 

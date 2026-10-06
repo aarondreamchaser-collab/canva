@@ -3,6 +3,7 @@ title_seo: Magnetotérmico y diferencial: diferencias y por qué saltan
 excerpt: Magnetotérmico y diferencial: el primero protege los cables de sobrecargas y cortocircuitos; el segundo, a las personas de las fugas. Cómo distinguirlos.
 category: instalacion
 keyword: magnetotérmico y diferencial
+linea_fecha: no
 ---
 La diferencia entre magnetotérmico y diferencial es qué protegen: el magnetotérmico protege los cables de una sobrecarga o un cortocircuito, y el diferencial te protege a ti de una descarga cuando hay una fuga de corriente. En una vivienda, el reglamento exige diferenciales de 30 mA como máximo y un magnetotérmico para cada circuito: 10 A para la luz y 16 A para los enchufes.
 

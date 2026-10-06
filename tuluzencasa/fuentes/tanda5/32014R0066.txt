@@ -1,0 +1,601 @@
+ 
+ L_2014029ES.01003301.xml 
+ 31.1.2014    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 29/33 
+ REGLAMENTO (UE) N
+ o 66/2014 DE LA COMISIÓN
+ de 14 de enero de 2014
+ por el que se aplica la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a los hornos, las placas de cocina y las campanas extractoras de uso doméstico 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Vista la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía  ( 1 ) , y, en particular, su artículo 15, apartado 1, 
+ Previa consulta al Foro consultivo al que se refiere el artículo 18 de la Directiva 2009/125/CE, 
+ Considerando lo siguiente: 
+ (1) 
+ La Directiva 2009/125/CE dispone que la Comisión establezca requisitos de diseño ecológico para los productos relacionados con la energía que representen un volumen notable de ventas y de comercio, que tengan un importante impacto medioambiental y que, por su diseño, ofrezcan posibilidades significativas de mejorar ese impacto sin que ello conlleve excesivos costes. 
+ (2) 
+ El artículo 16, apartado 2, letra a), de la Directiva 2009/125/CE establece que, de conformidad con el procedimiento del artículo 19, apartado 3, según los criterios establecidos en el artículo 15, apartado 2, y previa consulta al Foro consultivo, la Comisión introduzca medidas de ejecución para productos que ofrezcan un elevado potencial de reducción rentable de emisiones de gases de efecto invernadero, como los aparatos domésticos, entre los que se incluyen los hornos, las placas de cocina y las campanas extractoras. 
+ (3) 
+ La Comisión ha realizado estudios preparatorios para analizar los aspectos técnicos, medioambientales y económicos de aparatos domésticos para cocina tales como los hornos, las placas de cocina y las campanas extractoras. Han participado en esos estudios partes interesadas de la Unión y de terceros países y los resultados se han hecho públicos. 
+ (4) 
+ El aspecto medioambiental de los productos analizados que se ha considerado más significativo a efectos del presente Reglamento es el consumo de energía en la fase de utilización. 
+ (5) 
+ Una parte importante del consumo energético total de aparatos domésticos tales como hornos, placas de cocina y campanas extractoras puede radicar en las funciones de modo de espera y modo desactivado. En estos aparatos, el consumo de energía de estas funciones forma parte de los requisitos mínimos de eficiencia energética. Los requisitos relativos al modo de espera y al modo desactivado de los hornos y las placas de cocina domésticos se basan en los requisitos de diseño ecológico del Reglamento (CE) n o 1275/2008 de la Comisión, de 17 de diciembre de 2008, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo en lo concerniente a los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos «preparado» y «desactivado» de los equipos eléctricos y electrónicos domésticos y de oficina  ( 2 ) . 
+ (6) 
+ En 2010, el consumo anual de energía de los hornos, las placas de cocina y las campanas extractoras de uso doméstico en la UE se estimó en 755 PJ (consumo de energía primaria). De no adoptarse medidas específicas, se prevé que el consumo anual de electricidad sea de 779 PJ en 2020. Los estudios preparatorios muestran que el consumo de energía de estos productos puede reducirse significativamente. 
+ (7) 
+ Se espera que, combinando los requisitos de diseño ecológico fijados en este Reglamento y los requisitos de etiquetado del Reglamento Delegado (UE) n o 65/2014 de la Comisión  ( 3 ) , se consiga un ahorro anual de energía primaria de 27 PJ en 2020 y de 60 PJ en 2030. 
+ (8) 
+ Los estudios preparatorios ponen de manifiesto que no es necesario aplicar requisitos a los demás parámetros de diseño ecológico contemplados en la parte 1, punto 1.3, del anexo I de la Directiva 2009/125/CE, pues el aspecto medioambiental más significativo de aparatos domésticos para cocina tales como hornos, placas de cocina y campanas extractoras es el consumo de electricidad y de gas en la fase de utilización. 
+ (9) 
+ Los productos sujetos al presente Reglamento deben hacerse más eficientes desde el punto de vista energético poniendo en práctica determinadas soluciones tecnológicas rentables y de dominio público existentes que podrían recortar los costes combinados de su adquisición y funcionamiento. 
+ (10) 
+ Los requisitos de diseño ecológico no deben afectar a la funcionalidad desde la perspectiva del usuario final ni perjudicar a la salud, la seguridad o el medio ambiente. En particular, los beneficios obtenidos al reducir el consumo de energía en la fase de utilización deberían compensar con creces el posible impacto ambiental adicional que pudiera producirse en las fases de producción y de eliminación del producto. 
+ (11) 
+ Los requisitos de diseño ecológico deben introducirse gradualmente en tres fases para que los fabricantes dispongan de tiempo suficiente para rediseñar los productos contemplados en el presente Reglamento. El calendario debe fijarse de manera que se eviten efectos negativos en las funcionalidades de los equipos que ya están en el mercado y se tome en consideración la repercusión en los costes para el usuario final y los fabricantes, en particular las pequeñas y medianas empresas, todo ello sin perjuicio de la consecución de los objetivos del presente Reglamento en los plazos previstos. 
+ (12) 
+ Los parámetros de los productos deben medirse y calcularse mediante métodos de medición fiables, exactos y reproducibles, que tengan en cuenta los métodos de medición y cálculo más avanzados reconocidos, incluyendo, en su caso, las normas armonizadas adoptadas por los organismos europeos de normalización enumerados en el anexo I del Reglamento (UE) n o 1025/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea  ( 4 ) . 
+ (13) 
+ De conformidad con el artículo 8 de la Directiva 2009/125/CE, en el presente Reglamento se especifican los procedimientos de evaluación de la conformidad aplicables. 
+ (14) 
+ A fin de facilitar el control de la conformidad, los fabricantes deben aportar información en la documentación técnica a que se refieren los anexos IV y V de la Directiva 2009/125/CE, en la medida en que dicha información guarde relación con los requisitos establecidos en el presente Reglamento. 
+ (15) 
+ Para garantizar unas condiciones equitativas de competencia, conseguir el ahorro de energía proyectado e informar con precisión a los consumidores del rendimiento energético de los productos, es necesario dejar claro en el presente Reglamento que las tolerancias prescritas para las autoridades nacionales de vigilancia del mercado cuando lleven a cabo ensayos físicos encaminados a determinar si un modelo específico de un producto relacionado con la energía es conforme con el presente Reglamento, no deben ser aprovechadas por los fabricantes para declarar un rendimiento del modelo más favorable de lo que las mediciones y los cálculos declarados en la documentación técnica del producto pueden justificar. 
+ (16) 
+ Además de los requisitos jurídicamente vinculantes establecidos en el presente Reglamento, deben señalarse parámetros de referencia indicativos de las mejores tecnologías disponibles para garantizar una amplia disponibilidad de la información sobre el comportamiento medioambiental durante el ciclo de vida de los productos regulados por el presente Reglamento y un fácil acceso a ella. 
+ (17) 
+ Es conveniente prever una revisión de las disposiciones del presente Reglamento en función del progreso tecnológico y, en particular, una revisión de la eficacia y conveniencia del enfoque adoptado para determinar la eficiencia energética de los hornos. 
+ (18) 
+ Las medidas establecidas en el presente Reglamento se ajustan al dictamen del Comité creado en virtud del artículo 19, apartado 1, de la Directiva 2009/125/CE. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece los requisitos de diseño ecológico aplicables a la introducción en el mercado y la puesta en servicio de hornos (incluidos los incorporados en cocinas), placas de cocina y campanas extractoras eléctricas de uso doméstico, incluso cuando se vendan para fines no domésticos. 
+ 2.   El presente Reglamento no se aplica a: 
+ a) 
+ los aparatos que utilicen fuentes de energía distintas de la electricidad o el gas; 
+ b) 
+ los aparatos que tengan una función de calentamiento por microondas; 
+ c) 
+ los hornos de pequeño tamaño; 
+ d) 
+ los hornos portátiles; 
+ e) 
+ los hornos por acumulación de calor; 
+ f) 
+ los hornos calentados por vapor cuya función primaria es la de calefacción; 
+ g) 
+ los quemadores de gas recubiertos en placas de cocina; 
+ h) 
+ los aparatos de cocina de exterior; 
+ i) 
+ los aparatos diseñados para funcionar únicamente con gas de la «tercera familia» (propano y butano); 
+ j) 
+ las parrillas. 
+ Artículo 2 
+ Definiciones 
+ A los efectos del presente Reglamento, se aplicarán las siguientes definiciones, además de las que figuran en el artículo 2 de la Directiva 2009/125/CE: 
+ 1)    «horno» : aparato o parte de un aparato que tiene una o más cavidades que funcionan con electricidad y/o gas, en el que se preparan alimentos en modo de funcionamiento convencional o de circulación forzada; 
+ 2)    «cavidad» : compartimento cerrado en el que puede controlarse la temperatura para preparar alimentos; 
+ 3)    «horno de cavidad múltiple» : horno con dos o más cavidades, cada una de ellas calentada de forma independiente; 
+ 4)    «horno de pequeño tamaño» : horno en el que todas las cavidades tienen una anchura y una profundidad inferiores a 250 mm o una altura inferior a 120 mm; 
+ 5)    «horno portátil» : horno cuya masa total es inferior a 18 kilogramos, siempre y cuando no esté concebido para instalaciones integradas; 
+ 6)    «calentamiento por microondas» : calentamiento de alimentos mediante energía electromagnética; 
+ 7)    «modo convencional» : modo de funcionamiento de un horno que utiliza únicamente la convección natural para la circulación del aire caliente dentro de la cavidad del horno; 
+ 8)    «modo de circulación forzada» : modo en el que un ventilador integrado hace circular el aire caliente dentro de la cavidad del horno; 
+ 9)    «ciclo» : período de calentamiento de una carga normalizada en la cavidad de un horno en unas condiciones dadas; 
+ 10)    «cocina» : aparato compuesto por un horno y una placa de cocina que funciona con gas o electricidad; 
+ 11)    «modo de funcionamiento» : situación en que se encuentra un horno o una placa de cocina cuando se está usando; 
+ 12)    «fuente de calor» : principal forma de energía utilizada para calentar un horno o una placa de cocina; 
+ 13)    «placa de cocina eléctrica» : aparato o parte de un aparato equipado con uno o varios focos o zonas de cocción y una unidad de mando y que funciona con electricidad; 
+ 14)    «placa de cocina de gas» : aparato o parte de un aparato que consta de uno o varios focos de cocción y una unidad de mando y que funciona mediante quemadores de gas de una potencia mínima de 1,16 kW; 
+ 15)    «placa de cocina» : una placa de cocina eléctrica o de gas o mixta; 
+ 16)    «quemadores de gas recubiertos» : quemadores de gas encerrados o sellados bajo una plancha cerámica o de vidrio de alta resistencia que proporciona una superficie de cocina lisa y continua; 
+ 17)    «placa de cocina mixta» : un aparato con uno o varios focos o zonas de cocción que funcionan con electricidad y uno o varios focos de cocción que funcionan mediante quemadores de gas; 
+ 18)    «foco de cocción» : una parte de una placa de cocina, con un diámetro de al menos 100 mm, en el que se colocan y calientan los utensilios de cocina (uno a la vez); el foco de cocción puede estar delimitado de manera visible en la superficie de la cocina; 
+ 19)    «zona de cocción» : parte de una cocina eléctrica que se calienta mediante un campo magnético inducido, en la que colocan los utensilios de cocina para calentarlos sin que existan delimitaciones visibles, y en la que pueden calentarse al mismo tiempo varios utensilios; 
+ 20)    «campana extractora» : aparato dotado de un motor controlado por ella que evacúa el aire contaminado encima de una cocina o que incorpora un sistema de aspiración descendente que se instala junto a cocinas, placas de cocina y aparatos de cocina similares y que aspira el vapor hacia abajo a un conducto de salida interno; 
+ 21)    «modo de funcionamiento automático durante los períodos de cocción» : estado en el que el flujo de aire de la campana extractora durante los períodos de cocción es controlado automáticamente mediante uno o varios sensores en función de la humedad, la temperatura, etc.; 
+ 22)    «campana extractora completamente automática» : campana extractora en la que el flujo de aire y/o las demás funciones se controlan automáticamente mediante uno o varios sensores durante 24 horas, incluidos los períodos de cocción; 
+ 23)    «punto de máxima eficiencia» (BEP) : punto de funcionamiento en el que la campana extractora alcanza la máxima eficiencia desde el punto de vista de la fluidodinámica (FDE campana ); 
+ 24)    «iluminancia media» (E media ) : iluminancia media proporcionada por el sistema de iluminación de la campana extractora en la superficie de la cocina, medida en lux; 
+ 25)    «modo desactivado» : estado en el que el equipo está conectado a la red eléctrica pero no ejecuta función alguna, o únicamente indica que se encuentra desactivado, o en el que solamente ofrece funciones para garantizar la compatibilidad electromagnética con arreglo a la Directiva 2004/108/CE del Parlamento Europeo y del Consejo  ( 5 ) ; 
+ 26)    «modo de espera» : estado en el que el equipo está conectado a la red eléctrica, depende de la aportación de energía procedente de dicha red para funcionar como está previsto y ofrece solamente la función de reactivación o la función de reactivación más una mera indicación de que dicha función está habilitada, y/o una visualización de información o de estado, que pueden persistir por tiempo indefinido; 
+ 27)    «función de reactivación» : aquella que permite la activación de otros modos, incluido el modo activo, mediante un conmutador a distancia, que puede ser un control remoto, un sensor interno o un temporizador, a un estado que proporcione funciones adicionales, incluida la función principal; 
+ 28)    «visualización de información o de estado» : una función continua que proporciona información o indica el estado del equipo en un visualizador, incluidos eventuales relojes; 
+ 29)    «usuario final» : el consumidor que compra o podría comprar un producto; 
+ 30)    «modelo equivalente» : un modelo comercializado con los mismos parámetros técnicos que otro modelo comercializado por el mismo fabricante o importador con un número de código comercial diferente. 
+ Artículo 3 
+ Requisitos de diseño ecológico y calendario 
+ 1.   En el anexo I del presente Reglamento se establecen los requisitos de diseño ecológico, incluido el calendario correspondiente, aplicables a los hornos, las placas de cocina y las campanas extractoras de uso doméstico. 
+ 2.   El cumplimiento de los requisitos de diseño ecológico se medirá y calculará con los métodos expuestos en el anexo II. 
+ Artículo 4 
+ Evaluación de la conformidad 
+ 1.   El procedimiento de evaluación de la conformidad contemplado en el artículo 8 de la Directiva 2009/125/CE será el sistema de control interno del diseño que figura en el anexo IV de la citada Directiva o el sistema de gestión descrito en su anexo V. 
+ 2.   A los efectos de la evaluación de la conformidad según lo dispuesto en el artículo 8 de la Directiva 2009/125/CE, la documentación técnica deberá incluir una copia del cálculo contemplado en el anexo II del presente Reglamento. 
+ 3.   Cuando la información contenida en la documentación técnica sobre un determinado modelo se haya obtenido mediante un cálculo basado en el diseño o en una extrapolación a partir de otros aparatos equivalentes, o de ambos modos, la documentación técnica incluirá los pormenores de dichos cálculos o extrapolaciones, o de ambos, y de los ensayos realizados por los fabricantes para verificar la exactitud de los mismos. En esos casos, la documentación técnica incluirá también una lista de todos los modelos equivalentes en los que la información que figura en la documentación técnica se haya obtenido sobre la misma base. 
+ 4.   Si el fabricante o importador comercializa modelos equivalentes, deberá incluir una lista de todos ellos. 
+ Artículo 5 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Las autoridades de los Estados miembros aplicarán el procedimiento de verificación que se describe en el anexo III del presente Reglamento cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE a fin de supervisar el cumplimiento de los requisitos fijados en el anexo I del presente Reglamento. 
+ Artículo 6 
+ Parámetros de referencia indicativos 
+ En el anexo IV figuran los parámetros de referencia indicativos de los aparatos con mejores prestaciones disponibles en el mercado en la fecha de entrada en vigor del presente Reglamento. 
+ Artículo 7 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso técnico y presentará los resultados de dicha revisión al Foro consultivo a más tardar siete años después de la entrada en vigor del presente Reglamento. En esa revisión, se evaluará, entre otras cosas, la oportunidad de instaurar posibles requisitos que mejoren la recuperación y el reciclado de los aparatos; las disposiciones en materia de durabilidad y vida útil; la posibilidad de incluir los aparatos profesionales y comerciales, y los requisitos en materia de eliminación de humos y olores. 
+ Artículo 8 
+ Entrada en vigor y aplicación 
+ 1.   El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+ 2.   Se aplicará un año después de su entrada en vigor. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 14 de enero de 2014. 
+ Por la Comisión 
+ El Presidente 
+ José Manuel BARROSO
+ ( 1 )   
+ DO L 285 de 31.10.2009, p. 10 . 
+ ( 2 )   
+ DO L 339 de 18.12.2008, p. 45 . 
+ ( 3 )   Véase la página 1 del presente Diario Oficial. 
+ ( 4 )   
+ DO L 316 de 14.11.2012, p. 12 . 
+ ( 5 )   Directiva 2004/108/CE del Parlamento Europeo y del Consejo, de 15 de diciembre de 2004, relativa a la aproximación de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética y por la que se deroga la Directiva 89/336/CEE ( DO L 390 de 31.12.2004, p. 24 ). 
+ ANEXO I 
+ Requisitos de diseño ecológico 
+ 1.   REQUISITOS DE EFICIENCIA ENERGÉTICA, FLUJO DE AIRE E ILUMINACIÓN 
+ 1.1.    Hornos domésticos 
+ Las cavidades de los hornos domésticos (incluidos los incorporados en cocinas) se ajustarán a los límites máximos en materia de índice de eficiencia energética que se indican en el cuadro 1. 
+ Cuadro 1 
+ Valores límite del índice de eficiencia energética de las cavidades de hornos domésticos (EEI cavidad ) 
+ Hornos domésticos eléctricos y de gas 
+ 1 año después de la entrada en vigor 
+ EEI cavidad < 146 
+ 2 años después de la entrada en vigor 
+ EEI cavidad < 121 
+ 5 años después de la entrada en vigor 
+ EEI cavidad < 96 
+ A partir de los cinco años después de la entrada en vigor, al menos una cavidad de los hornos de cavidad múltiple (incluidos los incorporados en cocinas) cumplirán el índice de eficiencia energética indicado en el cuadro 1, aplicable cinco años después de la entrada en vigor; las demás cavidades cumplirán el índice de eficiencia energética indicado en el cuadro 1, aplicable dos años después de la entrada en vigor. 
+ 1.2.    Placas de cocina domésticas 
+ Las placas de cocina domésticas se ajustarán a los límites máximos en materia de consumo energético aplicables a las placas eléctricas (EC placa eléctrica ) y a los límites mínimos de eficiencia energética aplicables a las placas de gas (EC placa gas ) que se indican en el cuadro 2. 
+ Cuadro 2 
+ Límites de eficiencia energética de las placas de cocina domésticas (EC placa eléctrica ) y (EC placa gas ) 
+ Placa eléctrica 
+ (EC placa eléctrica ) en Wh/kg.) 
+ Placa de gas 
+ (EC placa gas en %) 
+ 1 año después de la entrada en vigor 
+ EC placa eléctrica < 210 
+ EC placa gas > 53 
+ 3 años después de la entrada en vigor 
+ EC placa eléctrica < 200 
+ EC placa gas > 54 
+ 5 años después de la entrada en vigor 
+ EC placa eléctrica < 195 
+ EC placa gas > 55 
+ 1.3.    Campanas extractoras domésticas 
+ 1.3.1.    Índice de eficiencia energética (EEI campana ) y eficiencia fluidodinámica (FDE campana ) 
+ Las campanas extractoras tendrá el EEI campana máximo y la FDE campana mínima que se indican en el cuadro 3. 
+ Cuadro 3 
+ Índice de eficiencia energética (EEI campana ) y eficiencia fluidodinámica (FDE campana ) de las campanas extractoras domésticas 
+ EEI campana 
+ FDE campana 
+ 1 año después de la entrada en vigor 
+ EEI campana < 120 
+ FDE campana > 3 
+ 3 años después de la entrada en vigor 
+ EEI campana < 110 
+ FDE campana > 5 
+ 5 años después de la entrada en vigor 
+ EEI campana < 100 
+ FDE campana > 8 
+ 1.3.2.    Flujo de aire 
+ A partir de un año después de la entrada en vigor, las campanas extractoras domésticas que tengan un flujo de aire máximo en alguno de los ajustes disponibles superior a 650 m 3 /h deberán pasar automáticamente a un flujo de aire inferior o igual a 650 m 3 /h en un tiempo t límite según lo indicado en el anexo II. 
+ 1.3.3.    Modos de bajo consumo de las campanas extractoras domésticas 
+ 1) 
+ A partir de dieciocho meses después de la entrada en vigor: 
+ — 
+ Consumo eléctrico en modo apagado: el consumo eléctrico en cualquier modo apagado no excederá de 1,00 W. 
+ — 
+ Consumo eléctrico en modo de espera: 
+ — 
+ el consumo eléctrico en cualquier estado que ofrezca solamente una función de reactivación, o solamente una función de reactivación y una mera indicación de que esta función está habilitada, no excederá de 1,00 W, 
+ — 
+ el consumo eléctrico en cualquier estado que proporcione solamente visualización de información o estado, o bien una combinación de una función de reactivación y de visualización de información o de estado, no excederá de 2,00 W. 
+ — 
+ Disponibilidad de los modos apagado y/o en espera: las campanas extractoras domésticas dispondrán de un modo apagado y/o un modo de espera y/o cualquier otro estado que no rebase los requisitos de consumo eléctrico aplicables a los modos apagado y/o de espera mientras el equipo en cuestión se halle conectado a la red de alimentación eléctrica. 
+ 2) 
+ A partir de tres años y seis meses después de la entrada en vigor: 
+ — 
+ Consumo eléctrico en modo apagado: el consumo eléctrico en cualquier modo apagado no excederá de 0,50 W. 
+ — 
+ Consumo eléctrico en modo de espera: el consumo eléctrico en cualquier estado que ofrezca solamente una función de reactivación, o solamente una función de reactivación y una mera indicación de que esta función está habilitada, no excederá de 0,50 W. 
+ El consumo eléctrico en cualquier estado que proporcione solamente visualización de información o estado, o bien una combinación de una función de reactivación y de visualización de información o de estado, no excederá de 1,00 W. 
+ — 
+ Gestión del consumo eléctrico: cuando las campanas extractoras domésticas no estén ejecutando su función principal y otros productos que consumen energía no dependan de sus funciones, el equipo en cuestión ofrecerá, salvo cuando resulte inadecuado para el uso previsto, una función de gestión del consumo eléctrico, o función similar, que haga pasar automáticamente el equipo, tras el lapso de tiempo más breve adecuado para el uso previsto del equipo: 
+ — 
+ al modo de espera, o 
+ — 
+ al modo apagado, o 
+ — 
+ a cualquier otro estado que no rebase los requisitos de consumo eléctrico aplicables a los modos apagado y/o de espera mientras el equipo en cuestión se halle conectado a la red de alimentación eléctrica. 
+ — 
+ La función de gestión del consumo eléctrico se activará antes de la entrega. 
+ — 
+ En el caso de campanas extractoras domésticas que dispongan de un modo de funcionamiento automático durante el período de cocción y de campanas extractoras completamente automáticas, el lapso de tiempo en el cual el producto debe pasar automáticamente a los modos de funcionamiento o estados contemplados en el punto anterior será de un minuto después de que el motor y la iluminación, o ambos, se apaguen automática o manualmente. 
+ 1.3.4.    Iluminancia del sistema de iluminación 
+ A partir de un año después de la entrada en vigor, la iluminancia media del sistema de iluminación de las campanas dotadas de dichos sistemas sobre la superficie de cocción (E media ) será superior a 40 lux, medida en condiciones normalizadas. 
+ 2.   REQUISITOS DE INFORMACIÓN SOBRE EL PRODUCTO 
+ A partir de un año después de la entrada en vigor, en la documentación técnica del producto, en el manual de instrucciones y en las páginas web de libre acceso de los fabricantes de hornos, placas de cocina y campanas extractoras de uso doméstico, así como de sus representantes autorizados o sus importadores, deberá figurar la información sobre el producto que se expone a continuación: 
+ a) 
+ un título abreviado de los métodos de medición y cálculo empleados para determinar el cumplimiento de los anteriores requisitos o una referencia a dichos métodos; 
+ b) 
+ información que permita a los usuarios reducir el impacto ambiental total (por ejemplo, el consumo de energía) del proceso de cocinado. 
+ A partir de un año después de la entrada en vigor, en la documentación técnica y en la parte reservada a los profesionales de las páginas web de libre acceso de los fabricantes, representantes autorizados o importadores deberá figurar información pertinente para el desmontaje no destructivo con fines de mantenimiento y para el desmontaje definitivo, en particular en lo relativo al motor, si procede, y a las baterías el reciclado, la recuperación y la eliminación al final de la vida útil. 
+ 2.1.    Hornos domésticos 
+ Cuadro 4 
+ Información sobre los hornos domésticos 
+ Símbolo 
+ Valor 
+ Unidad 
+ Identificación del modelo 
+ Tipo de horno 
+ Masa del aparato 
+ M 
+ X,X 
+ kg 
+ Número de cavidades 
+ X 
+ Fuente de calor por cavidad (electricidad o gas) 
+ Volumen por cavidad 
+ V 
+ X 
+ l 
+ Consumo de energía (electricidad) necesario para calentar una carga normalizada en una cavidad de un horno eléctrico durante un ciclo en modo convencional, por cavidad (energía eléctrica final) 
+ EC cavidad eléctrica 
+ X,XX 
+ kWh/ciclo 
+ Consumo de energía necesario para calentar una carga normalizada en una cavidad de un horno eléctrico durante un ciclo en modo de circulación forzada, por cavidad (energía eléctrica final) 
+ EC cavidad eléctrica 
+ X,XX 
+ kWh/ciclo 
+ Consumo de energía necesario para calentar una carga normalizada en una cavidad de un horno de gas durante un ciclo en modo convencional, por cavidad (energía de gas final) 
+ EC cavidad de gas 
+ X,XX 
+ X,XX 
+ MJ/ciclo 
+ kWh/ciclo  ( 1 ) 
+ Consumo de energía necesario para calentar una carga normalizada en una cavidad de un horno de gas durante un ciclo en modo de circulación forzada (energía de gas final) 
+ EC cavidad de gas 
+ X,XX 
+ X,XX 
+ MJ/ciclo 
+ kWh/ciclo 
+ Índice de eficiencia energética por cavidad 
+ EEI cavidad 
+ X,X 
+ 2.2.    Placas de cocina domésticas 
+ 2.2.1.    Placas de cocina domésticas eléctricas 
+ Cuadro 5a 
+ Información sobre las placas de cocina domésticas eléctricas 
+ Símbolo 
+ Valor 
+ Unidad 
+ Identificación del modelo 
+ Tipo de placa de cocina 
+ Número de selectores de los focos y/o zonas de cocción 
+ X 
+ Tecnología de calentamiento (focos y zonas de cocción por inducción, focos de cocción por radiación, placas macizas) 
+ Para focos o zonas de cocción circulares: diámetro de la superficie útil de cada foco de cocción eléctrica, redondeado a la fracción de 5 mm más cercana 
+ Ø 
+ X,X 
+ cm 
+ Para focos o zonas de cocción no circulares: ancho y largo de la superficie útil de cada foco o zona de cocción eléctrica, redondeados a la fracción de 5 mm más cercana 
+ L 
+ W 
+ X,X 
+ X,X 
+ cm 
+ Consumo de energía por foco o zona de cocción, calculado por kg 
+ EC cocción eléctrica 
+ X,X 
+ Wh/kg 
+ Consumo de energía de la placa, calculado por kg 
+ EC placa eléctrica 
+ X,X 
+ Wh/kg 
+ 2.2.2.    Placas de gas 
+ Cuadro 5b 
+ Información sobre las placas de cocina domésticas de gas 
+ Símbolo 
+ Valor 
+ Unidad 
+ Identificación del modelo 
+ Tipo de placa de cocina 
+ Número de quemadores de gas 
+ X 
+ Eficiencia energética por quemador de gas 
+ EE quemador de gas 
+ X,X 
+ Eficiencia energética de la placa de gas 
+ EE placa de gas 
+ X,X 
+ 2.2.3.    Placas domésticas mixtas de gas y electricidad 
+ Cuadro 5c 
+ Información sobre las placas de cocina domésticas mixtas 
+ Símbolo 
+ Valor 
+ Unidad 
+ Identificación del modelo 
+ Tipo de placa de cocina 
+ Número de focos y/o zonas de cocción eléctricas 
+ X 
+ Tecnología de calentamiento (focos y zonas de cocción por inducción, focos de cocción por radiación, placas macizas) por foco y/o zona de cocción eléctrica 
+ Para focos o zonas eléctricas de cocción circulares: diámetro de la superficie útil de cada foco de cocción eléctrica, redondeado a la fracción de 5 mm más cercana. 
+ Ø 
+ X,X 
+ cm 
+ Para focos o zonas eléctricas de cocción no circulares: ancho y largo de la superficie útil de cada foco o zona de cocción eléctrica, redondeados a la fracción de 5 mm más cercana 
+ L 
+ W 
+ X,X 
+ X,X 
+ cm 
+ Consumo de energía por foco o zona eléctrica de cocción, calculado por kg 
+ EC cocción eléctrica 
+ X 
+ Wh/kg 
+ Número de quemadores de gas 
+ X 
+ Eficiencia energética por quemador de gas 
+ EE quemador de gas 
+ X,X 
+ 2.3.    Campanas extractoras domésticas 
+ Cuadro 6 
+ Información sobre las campanas extractoras domésticas 
+ Símbolo 
+ Valor 
+ Unidad 
+ Identificación del modelo 
+ Consumo anual de energía 
+ AEC campana 
+ X,X 
+ kWh/a 
+ Factor de incremento temporal 
+ f 
+ X,X 
+ Eficiencia fluidodinámica 
+ FDE campana 
+ X,X 
+ Índice de eficiencia energética 
+ EEI campana 
+ X,X 
+ Flujo de aire medido en el punto de máxima eficiencia 
+ Q BEP 
+ X,X 
+ m 3 /h 
+ Presión de aire medida en el punto de máxima eficiencia 
+ P BEP 
+ X 
+ Pa 
+ Flujo de aire máximo 
+ Q máx 
+ X,X 
+ m 3 /h 
+ Potencia eléctrica de entrada medida en el punto de máxima eficiencia 
+ W BEP 
+ X,X 
+ W 
+ Potencia nominal del sistema de iluminación 
+ W L 
+ X,X 
+ W 
+ Iluminancia media del sistema de iluminación en la superficie de cocción 
+ E media 
+ X 
+ lux 
+ Consumo eléctrico en modo de espera 
+ P s 
+ X,XX 
+ W 
+ Consumo eléctrico en modo apagado 
+ P o 
+ X,XX 
+ W 
+ Nivel sonoro 
+ L WA 
+ X 
+ dB 
+ ( 1 )   1 kWh/ciclo = 3,6 MJ/ciclo. 
+ ANEXO II 
+ Mediciones y cálculos 
+ Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, se harán mediciones y cálculos utilizando un método fiable, exacto y reproducible que tenga en cuenta los métodos de medición y cálculo más avanzados generalmente aceptados, incluidas las normas armonizadas cuyos números de referencia hayan sido publicados a tal fin en el Diario Oficial de la Unión Europea. Dichos métodos deberán seguir las definiciones técnicas y las condiciones, ecuaciones y parámetros que establece el presente anexo. 
+ 1.   HORNOS DOMÉSTICOS 
+ El consumo de energía de la cavidad de un horno doméstico debe medirse con relación a un ciclo normalizado, en modo convencional y en modo de circulación forzada, si el horno dispone de él, calentando una carga normalizada inmersa en agua. Durante el ciclo de prueba se comprobará que la temperatura dentro de la cavidad del horno alcance la seleccionada en el termostato del horno y/o a la que muestre el display de control. En los cálculos que figuran a continuación se utilizará el consumo de energía por ciclo que corresponda al modo que tenga el mejor rendimiento (modo convencional o modo de circulación forzada). 
+ El índice de eficiencia energética de cada cavidad de un horno coméstico (EEI cavidad ) se calculará mediante las siguientes fórmulas: 
+ Para hornos eléctricos: 
+ (en kWh) 
+ Para hornos de gas: 
+ (en MJ) 
+ donde: 
+ —    EEI cavidad 
+ = índice de eficiencia energética de cada cavidad de un horno doméstico, redondeado al primer decimal, 
+ —    SEC cavidad eléctrica 
+ = consumo de energía (electricidad) requerido para calentar una carga normalizada en una cavidad de un horno eléctrico doméstico durante un ciclo, expresado en kWh, redondeado al segundo decimal, 
+ —    SEC cavidad de gas 
+ = consumo de energía requerido para calentar una carga normalizada en una cavidad de un horno de gas doméstico durante un ciclo, expresado en MJ, redondeado al segundo decimal, 
+ —    V = volumen de la cavidad del horno doméstico en litros (L), redondeado al entero más próximo, 
+ —    EC cavidad eléctrica 
+ = consumo de energía requerido para calentar una carga normalizada en una cavidad de un horno eléctrico doméstico durante un ciclo, expresado en kWh, redondeado al segundo decimal, 
+ —    EC cavidad de gas 
+ = consumo de energía requerido para calentar una carga normalizada en una cavidad de un horno de gas doméstico durante un ciclo, expresado en MJ, redondeado al segundo decimal. 
+ 2.   PLACAS DOMÉSTICAS 
+ 2.1.    Placas de cocina domésticas eléctricas 
+ El consumo de energía de una placa de cocina doméstica (EC placa eléctrica ) se mide en Wh por kg de agua calentada en una medida normalizada (Wh/kg) y redondeada al primer decimal, considerando que los utensilios se ajustan a unas condiciones normalizadas de ensayo. 
+ 2.2.    Placas de cocina domésticas de gas 
+ La eficiencia energética de los quemadores de gas de las placas de cocina domésticas se calcula del siguiente modo: 
+ donde: 
+ —    EE quemador de gas 
+ = eficiencia energética de un quemador de gas en %, redondeado al primer decimal, 
+ —    E quemador de gas 
+ = contenido de energía del gas consumido para el calentamiento prescrito en MJ, redondeado al primer decimal, 
+ —    E teórico 
+ = energía mínima teórica requerida para el calentamiento correspondiente prescrito en MJ, redondeado al primer decimal. 
+ La eficiencia energética de la placa de gas ( EE placa de gas 
+ ) se calcula como el promedio de eficiencia energética de los diferentes quemadores de gas ( EE quemador de gas 
+ ) de la placa. 
+ 2.3.    Placas de cocina domésticas mixtas (gas y electricidad) 
+ Las placas de cocina domésticas mixtas de gas y electricidad se tratan como dos aparatos distintos a los efectos de las mediciones. Para los focos y zonas eléctricas de cocción de las placas mixtas se aplicará lo dispuesto en el punto 2.1 y para los focos de cocción calentados por quemadores de gas se aplicará lo dispuesto en el punto 2.2. 
+ 3.   CAMPANAS EXTRACTORAS DOMÉSTICAS 
+ 3.1.    Cálculo del índice de eficiencia energética (EEI campana ) 
+ El índice de eficiencia energética ( EEI campana 
+ ) se calculará del siguiente modo: 
+ y se redondeará al primer decimal. 
+ donde: 
+ —    SAEC campana 
+ = consumo anual de energía normalizado de la campana extractora doméstica, en kWh/a, redondeado al primer decimal, 
+ —    AEC campana 
+ = consumo anual de energía de la campana extractora doméstica, en kWh/a, redondeado al primer decimal. 
+ El consumo anual de energía normalizado ( SAEC campana 
+ ) de una campana extractora doméstica se calculará del siguiente modo: 
+ donde: 
+ — 
+ W BEP 
+ es la potencia eléctrica de entrada de la campana extractora doméstica en el punto de máxima eficiencia, en vatios, redondeada al primer decimal, 
+ — 
+ W L 
+ es la potencia eléctrica nominal de entrada del sistema de iluminación de la campana extractora doméstica en la superficie de cocción, en vatios, redondeada al primer decimal. 
+ El consumo anual de energía ( AEC campana 
+ ) de una campana extractora doméstica se calculará del siguiente modo: 
+ i) 
+ campanas extractoras domésticas completamente automáticas: 
+ ii) 
+ todas las demás campanas extractoras domésticas: 
+ donde: 
+ — 
+ t L 
+ es el tiempo medio diario de iluminación, en minutos (t L  = 120), 
+ — 
+ t H 
+ es el tiempo medio diario de funcionamiento de las campanas extractoras domésticas, en minutos, (t H  = 60), 
+ — 
+ P o 
+ es la potencia eléctrica de entrada en modo apagado de la campana extractora doméstica, en vatios, redondeada al segundo decimal, 
+ — 
+ P s 
+ es la potencia eléctrica de entrada en modo de espera de la campana extractora doméstica, en vatios, redondeada al segundo decimal, 
+ — 
+ f es el factor de incremento en el tiempo, calculado del siguiente modo y redondeado al primer decimal: 
+ 3.2.    Cálculo de la eficiencia fluidodinámica (FDE campana ) 
+ La FDE campana en el punto de máxima eficiencia se calculará mediante la siguiente fórmula y se redondeará al primer decimal: 
+ donde: 
+ — 
+ Q BEP 
+ es el flujo de aire de la campana extractora doméstica en el punto de máxima eficiencia, expresado en m 3 /h y redondeado al primer decimal, 
+ — 
+ P BEP 
+ es la diferencia de presión estática de la campana extractora doméstica en el punto de máxima eficiencia, expresada en Pa y redondeada al entero más próximo, 
+ — 
+ W BEP 
+ es la potencia eléctrica de entrada de la campana extractora doméstica en el punto de máxima eficiencia, expresada en vatios y redondeada al primer decimal. 
+ 3.3.    Cálculo de la limitación del aire de salida 
+ 3.3.1. 
+ Las campanas extractores domésticas cuyo flujo de aire máximo en alguno de los ajustes disponibles es superior a 650 m 3 /h deberán pasar automáticamente a un flujo de aire inferior o igual a 650 m 3 /h en un tiempo t límite . Dicho límite corresponde al tiempo necesario para que la campana extractora doméstica, funcionando a un flujo de aire superior a 650 m 3 /h, extraiga un volumen de aire de 100 m 3 antes de pasar automáticamente a un flujo de aire inferior o igual a 650 m 3 /h. Se calculará del siguiente modo, expresándolo en minutos y redondeándolo al entero más próximo: 
+   ( 1 ) 
+ donde: 
+ — 
+ Q máx es el caudal máximo de aire de la campana extractora doméstica, incluso en el modo ultrarrápido o reforzado, de existir, expresado en m 3 /h y redondeado al primer decimal. 
+ El presente requisito no se considerará cumplido mediante la mera presencia de un conmutador o un ajuste manual que permita reducir el flujo de aire del aparato hasta un valor inferior o igual a 650 m 3 /h. 
+ 3.3.2. 
+ En el caso de las campanas extractoras domésticas que dispongan de un modo de funcionamiento automático durante el período de cocción: 
+ — 
+ el modo de funcionamiento automático únicamente deberá poderse activar por medio de una operación manual del usuario, ya sea en la campana extractora, ya en otra parte, 
+ — 
+ el modo de funcionamiento automático deberá pasar al modo de control manual a más tardar diez minutos después de que el motor se apague automáticamente. 
+ 3.4.    Iluminancia del sistema de iluminación (E media ) 
+ La iluminancia media del sistema de iluminación en la superficie de cocción (E media ) se mide en lux en condiciones normalizadas y se redondeará al entero más próximo. 
+ 3.5.    Ruido 
+ El nivel de ruido (en dB) es el ruido acústico aéreo emitido, ponderado por el valor A (valor medio ponderado - L WA ), por una campana extractora doméstica en el ajuste máximo de utilización normal, excluido el modo ultrarrápido o reforzado, redondeado al entero más próximo. 
+ ( 1 )   Véase 
+ que puede simplificarse a 
+ donde: 
+ — 
+ V máx es el volumen máximo de aire para extraer, fijado en 100 m 3 , 
+ — 
+ Q máx es el caudal máximo de aire de la campana extractora, incluso en el modo ultrarrápido o reforzado, de existir, 
+ — 
+ t es el tiempo, expresado en minutos y redondeado al entero más próximo, 
+ — 
+ dt es el tiempo total que se tarda en alcanzar el volumen de aire de 100 m 3 , 
+ — 
+ t límite 
+ es el tiempo límite, expresado en minutos y redondeado al entero más próximo, necesario para extraer 100 m 3 . 
+ ANEXO III 
+ Procedimiento de control de la conformidad del producto por parte de las autoridades de vigilancia del mercado 
+ Para evaluar la conformidad de los productos, contemplada en el artículo 3, apartado 2, de la Directiva 2009/125/CE, con los requisitos recogidos en el presente Reglamento, las autoridades de los Estados miembros aplicarán el siguiente procedimiento: 
+ 1. 
+ Las autoridades de los Estados miembros someterán a ensayo una sola unidad por modelo. 
+ 2. 
+ Se considerará que el modelo cumple los requisitos pertinentes: 
+ a) 
+ si los valores declarados en la información del producto conforme a lo exigido por el presente Reglamento no son más favorables para el fabricante que los valores de la documentación técnica, incluidos los informes de los ensayos, y 
+ b) 
+ si los ensayos efectuados para verificar los parámetros pertinentes del modelo, aplicando los niveles de tolerancia recogidos en el cuadro 7, demuestran que se cumplen tales parámetros. 
+ 3. 
+ De no obtenerse el resultado indicado en el punto 2, letra a), se considerará que el modelo y todos los modelos equivalentes no cumplen el presente Reglamento. 
+ 4. 
+ Si no se obtiene el resultado indicado en el punto 2, letra b), las autoridades de los Estados miembros seleccionarán tres unidades adicionales del mismo modelo para ensayo. Alternativamente, las tres unidades adicionales seleccionadas podrán ser de uno o varios modelos diferentes que hayan sido identificados como producto equivalente en la documentación técnica del proveedor. 
+ 5. 
+ Se considerará que el modelo cumple los requisitos aplicables establecidos si los ensayos efectuados para verificar los parámetros pertinentes del modelo recogidos en el cuadro 7 demuestran que se cumplen tales parámetros. 
+ 6. 
+ De no obtenerse el resultado indicado en el punto 5, se considerará que el modelo y todos los modelos equivalentes no cumplen el presente Reglamento. Las autoridades de los Estados miembros comunicarán a las autoridades de los demás Estados miembros y a la Comisión los resultados de los ensayos, así como cualquier otra información pertinente, en el plazo de un mes a partir de la decisión de inconformidad del modelo. 
+ Las autoridades de los Estados miembros utilizarán los métodos de medición y cálculo recogidos en el anexo II. 
+ Las tolerancias de verificación expuestas en el presente anexo, que representan las variaciones permitidas en las mediciones de los ensayos de verificación, solo pueden aplicarse a la verificación de los parámetros medidos por las autoridades de los Estados miembros y en ningún caso podrán ser utilizadas por el fabricante para determinar los valores en la documentación técnica ni para interpretar dichos valores con el fin de, en cualquier manera posible, obtener un etiquetado más favorable o comunicar un nivel superior de eficiencia. 
+ Cuadro 7 
+ Tolerancias de verificación 
+ Parámetros medidos 
+ Tolerancias de verificación 
+ Masa del horno doméstico (M) 
+ El valor determinado no podrá superar el valor declarado de M en más del 5 % 
+ Volumen de la cavidad del horno doméstico (V) 
+ El valor determinado no podrá ser inferior al valor declarado de V en más del 5 % 
+ EC cavidad eléctrica , EC cavidad de gas 
+ El valor determinado no podrá superar el valor declarado de EC cavidad eléctrica , EC cavidad de gas en más del 5 % 
+ EC placa eléctrica 
+ El valor determinado no podrá superar el valor declarado de EC placa eléctrica en más del 5 % 
+ EE placa de gas 
+ El valor determinado no podrá ser inferior al valor declarado de EE placa de gas en más del 5 % 
+ W BEP , W L 
+ El valor determinado no podrá superar el valor declarado de W BEP , W L en más del 5 % 
+ Q BEP , P BEP 
+ El valor determinado no podrá ser inferior al valor declarado de Q BEP , P BEP en más del 5 % 
+ Q máx 
+ El valor determinado no podrá superar el valor declarado de Q máx en más del 8 % 
+ E media 
+ El valor determinado no podrá ser inferior al valor declarado de E media en más del 5 % 
+ Nivel sonoro L WA 
+ El valor determinado no podrá superar el valor declarado 
+ P o , P s 
+ El valor determinado de consumo eléctrico Po y Ps no podrá superar el valor declarado en más del 10 %. Si es igual o inferior a 1,00 W, el valor determinado de consumo eléctrico Po y Ps no podrá superar el valor declarado en más de 0,10 W. 
+ ANEXO IV 
+ Parámetros de referencia indicativos 
+ En la fecha de entrada en vigor del presente Reglamento, los mejores hornos, placas de cocina y campanas extractoras domésticos disponibles en el mercado desde el punto de la eficiencia energética presentaban los valores siguientes: 
+ Hornos domésticos 
+ Eléctricos 
+ EEI cavidad = 70,7 
+ De gas 
+ EEI cavidad = 75,4 
+ Placas domésticas 
+ Eléctricas 
+ EC placa eléctrica = 169,3 
+ De gas 
+ EE quemador de gas = 63,5 % 
+ Campanas extractoras domésticas 
+ Flujo de aire 
+ FDE campana = 22 
+ Ruido 
+ 51 dB a 550 m 3 /h; 57 dB a 750 m 3 /h 
+ 

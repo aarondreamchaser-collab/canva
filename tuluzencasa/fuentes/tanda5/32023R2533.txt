@@ -1,0 +1,701 @@
+ 
+ L_202302533ES.000101.fmx.xml 
+ Diario Oficial de la Unión Europea 
+ ES 
+ Serie L 
+ 2023/2533 
+ 22.11.2023 
+ REGLAMENTO (UE) 2023/2533 DE LA COMISIÓN
+ de 17 de noviembre de 2023
+ por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a las secadoras de tambor domésticas, se modifica el Reglamento (UE) 2023/826 de la Comisión y se deroga el Reglamento (UE) n. o  932/2012 de la Comisión 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Vista la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía  ( 1 ) , y en particular su artículo 15, apartado 1, 
+ Considerando lo siguiente: 
+ (1) 
+ Con arreglo al artículo 15 de la Directiva 2009/125/CE, la Comisión debe establecer requisitos de diseño ecológico para los productos relacionados con la energía que representen un volumen notable de ventas y de comercio en la Unión, que tengan un importante impacto medioambiental y que, a través de su diseño, ofrezcan posibilidades significativas de mejorar ese impacto sin que ello conlleve excesivos costes. 
+ (2) 
+ El plan de trabajo sobre diseño ecológico 2016-2019  ( 2 ) , elaborado por la Comisión de conformidad con el artículo 16, apartado 1, de la Directiva 2009/125/CE, establece las prioridades de trabajo dentro del marco sobre diseño ecológico y etiquetado energético para los años 2016-2019. El plan de trabajo define los grupos de productos relacionados con la energía establecidos como prioridades para los estudios preparatorios y, en caso necesario, para la adopción de medidas de ejecución. Las secadoras de tambor domésticas están incluidas en dichos grupos. Además, las secadoras de tambor domésticas pertenecen a los tres grupos principales que se someterán a revisión antes de finales de 2025 en el marco del Plan de Trabajo sobre Diseño Ecológico y Etiquetado Energético 2022-2024  ( 3 ) . 
+ (3) 
+ Las medidas previstas en el Plan de Trabajo sobre Diseño Ecológico 2022-2024 tienen el potencial de generar, en 2030, un ahorro anual de energía final total que se estima en más de 170 TWh, lo que equivale a reducir las emisiones de gases de efecto invernadero en aproximadamente 24 millones de toneladas anuales en ese año. En el caso de las secadoras de tambor domésticas, podría lograrse un ahorro de electricidad de 0,6 TWh/año de aquí a 2030 y de 1,7 TWh/año para 2040. 
+ (4) 
+ El Reglamento (UE) n. o  932/2012 de la Comisión  ( 4 ) estableció requisitos de diseño ecológico aplicables a las secadoras de tambor domésticas. 
+ (5) 
+ El artículo 7 del Reglamento (UE) n. o  932/2012 exige a la Comisión que revise dicho Reglamento a la luz del progreso técnico. La Comisión llevó a cabo la revisión y analizó los aspectos técnicos, medioambientales y económicos de las secadoras de tambor domésticas, así como el comportamiento de los usuarios en la vida real. La revisión se realizó en estrecha cooperación con colaboradores y partes interesadas de la Unión y de terceros países. Los resultados de la revisión se hicieron públicos y se presentaron al foro consultivo establecido de conformidad con el artículo 18 de la Directiva 2009/125/CE. 
+ (6) 
+ Los aspectos medioambientales de las secadoras de tambor domésticas que se consideran significativos a los efectos del presente Reglamento son el consumo de energía durante la fase de uso, la generación de residuos al final de la vida útil y las emisiones a la atmósfera en la fase de producción (debido a la extracción y transformación de las materias primas) y en la fase de utilización (por el consumo de electricidad). 
+ (7) 
+ En la Unión, el consumo anual de energía de las secadoras de tambor domésticas sujetas al Reglamento (UE) n. o  932/2012 se estimó en 10,5 TWh/año en 2020. En una hipótesis de mantenimiento del statu quo , se espera que el consumo disminuya a 9 TWh/año en 2030. Esta disminución puede producirse con mayor rapidez si se actualizan los requisitos de diseño ecológico vigentes para eliminar del mercado las secadoras de tambor domésticas con un bajo rendimiento energético. 
+ (8) 
+ El Plan de Acción de la UE para la Economía Circular  ( 5 ) y el Plan de Trabajo sobre Diseño Ecológico y Etiquetado Energético 2022-2024 subrayan la importancia de utilizar el marco de diseño ecológico para apoyar la transición hacia una economía más eficiente en el uso de los recursos y circular. Se estima que la vida útil de las secadoras de tambor domésticas ha disminuido recientemente de catorce años a unos doce años, y que es probable que esta tendencia continúe si no existen incentivos para mantener y reparar adecuadamente las secadoras de tambor domésticas. Por consiguiente, el presente Reglamento debe establecer requisitos adecuados que contribuyan a los objetivos de la economía circular, en particular haciendo obligatoria la disponibilidad de piezas de recambio y mejorando la calidad de la información sobre el automantenimiento por parte del usuario final. 
+ (9) 
+ La revisión que se menciona en el considerando 5 indica que la gran mayoría de las secadoras de tambor en el mercado presentan eficiencias de condensación superiores al 80 %. El umbral mínimo para la eficiencia de la condensación debe aumentarse del 70 % al 80 %. 
+ (10) 
+ Las secadoras domésticas con más de un tambor presentan las mismas características básicas que las secadoras de tambor domésticas y, por tanto, deben incluirse en el ámbito de aplicación del presente Reglamento. 
+ (11) 
+ Las secadoras de tambor domésticas encastrables se instalan en un mueble o están revestidas de paneles que, cuando se someten a ensayo para comprobar la conformidad, retienen el calor producido en el interior de la secadora de tambor, lo que da lugar a una mayor eficiencia energética y contribuye al cumplimiento de los requisitos de diseño ecológico. Debe mejorarse la definición de secadora de tambor doméstica encastrable para diferenciarlas de otras secadoras de tambor domésticas que simplemente están colocadas debajo de un panel pero que no están revestidas de paneles y, por lo tanto, no pueden someterse a ensayo como secadoras de tambor domésticas encastrables. 
+ (12) 
+ Las secadoras de tambor domésticas que funcionan con baterías y que también pueden conectarse a la red eléctrica mediante un transformador CA/CC adquirido por separado suelen utilizarse en entornos móviles, como las autocaravanas, entre otros. Por consiguiente, conviene excluirlas del ámbito de aplicación del presente Reglamento. 
+ (13) 
+ Es preciso establecer umbrales específicos para los modos de bajo consumo de las secadoras de tambor domésticas. Los requisitos del Reglamento (UE) 2023/826 de la Comisión  ( 6 ) no han de aplicarse a los productos contemplados en el ámbito de aplicación del presente Reglamento. Procede, por tanto, modificar el Reglamento (UE) 2023/826 en consecuencia. 
+ (14) 
+ El calendario para el nuevo requisito sobre el consumo máximo de energía en modo desactivado para las secadoras de tambor domésticas debe ajustarse al calendario establecido para el consumo de energía en modo desactivado en virtud del Reglamento (UE) 2023/826. 
+ (15) 
+ Los parámetros pertinentes de los productos deben medirse con métodos fiables, exactos y reproducibles. Estos deben tener en cuenta los métodos de medición más avanzados reconocidos, incluidas, en su caso, las normas armonizadas adoptadas por las organizaciones de normalización europeas que figuran en el anexo I del Reglamento (UE) n. o  1025/2012 del Parlamento Europeo y del Consejo  ( 7 ) . 
+ (16) 
+ De conformidad con el artículo 8, apartado 2, de la Directiva 2009/125/CE, el presente Reglamento debe especificar los procedimientos de evaluación de la conformidad aplicables. 
+ (17) 
+ A fin de facilitar el control del cumplimiento, los fabricantes, importadores o representantes autorizados deben aportar información en la documentación técnica a la que se refieren los anexos IV y V de la Directiva 2009/125/CE, en la medida en que dicha información guarde relación con los requisitos establecidos en el presente Reglamento. 
+ (18) 
+ Cuando los parámetros de la documentación técnica especificados en el presente Reglamento sean idénticos a los de la ficha de información del producto especificada en el Reglamento Delegado (UE) 2023/2534 de la Comisión  ( 8 ) , los fabricantes, importadores o representantes autorizados deben introducir los datos correspondientes en la base de datos de los productos de conformidad con el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo  ( 9 ) y quedar exentos de la obligación de transmitir tales datos a las autoridades de vigilancia del mercado como parte de la documentación técnica. 
+ (19) 
+ Con el fin de proteger a los consumidores, no deben permitirse en el mercado los productos que, en condiciones de ensayo, alteren automáticamente su rendimiento en términos de los parámetros declarados. Del mismo modo, las actualizaciones del software del producto no deben empeorar el rendimiento en términos de los parámetros declarados. 
+ (20) 
+ El procedimiento de verificación a efectos de vigilancia del mercado debe prever los casos en que los ensayos realizados con secadoras de tambor domésticas no produzcan resultados válidos para compararlos con los valores declarados por el fabricante. 
+ (21) 
+ De conformidad con la parte 3, punto 2, del anexo I de la Directiva 2009/125/CE, deben determinarse valores de referencia indicativos correspondientes a las mejores tecnologías disponibles con el objeto de garantizar la amplia disponibilidad de la información sobre el comportamiento medioambiental durante el ciclo de vida de los productos regulados por el presente Reglamento, así como el fácil acceso a dicha información. 
+ (22) 
+ La posible fuga del refrigerante contenido en las secadoras de tambor con bomba de calor puede contribuir al calentamiento global. La secadora de tambor doméstica debe mostrar en un lugar visible el tipo de refrigerante utilizado para facilitar la manipulación adecuada del refrigerante a la hora de reparar, reciclar o desechar el aparato. 
+ (23) 
+ El Reglamento Delegado (UE) 2023/807 de la Comisión  ( 10 ) establece un coeficiente de energía primaria para la electricidad de 1,9 (coeficiente de conversión), que debe aplicarse cuando el ahorro de energía se calcule en términos de energía primaria sobre la base del consumo de energía final. Este coeficiente de energía primaria debe aplicarse al comparar el consumo de energía de las secadoras de tambor eléctricas con el de las alimentadas con gas. 
+ (24) 
+ Conviene revisar el presente Reglamento con el fin de evaluar la pertinencia y la efectividad de sus disposiciones a la hora de cumplir sus objetivos. La fecha de la revisión ha de fijarse dejando el tiempo suficiente para poder aplicar la totalidad de las disposiciones del Reglamento y que estas produzcan efectos en el mercado. 
+ (25) 
+ A fin de facilitar la transición del Reglamento (UE) n. o  932/2012 al presente Reglamento, debe permitirse el uso del nuevo término «eco» a partir de la entrada en vigor del presente Reglamento. Al mismo tiempo, debe permitirse a los fabricantes cumplir los requisitos del presente Reglamento cuatro meses antes de su fecha de aplicación. 
+ (26) 
+ Con el fin de garantizar que las secadoras de tambor domésticas puedan repararse de manera eficaz, el precio de las piezas de recambio debe ser razonable y no desincentivar la reparación. Para crear transparencia e incentivar la fijación de precios razonables, el precio indicativo antes de impuestos de las piezas de recambio proporcionadas de conformidad con el presente Reglamento debe estar accesible en un sitio web de libre acceso. 
+ (27) 
+ Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité establecido por el artículo 19 de la Directiva 2009/125/CE. 
+ (28) 
+ Procede derogar el Reglamento (UE) n. o  932/2012 con efecto a partir del 30 de junio de 2025. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece requisitos de diseño ecológico para la introducción en el mercado o la puesta en servicio de secadoras de tambor domésticas alimentadas por la red eléctrica y por gas. También es aplicable a las secadoras de tambor domésticas encastrables, a las secadoras domésticas con más de un tambor y a las secadoras de tambor domésticas alimentadas por la red eléctrica que también pueden funcionar con baterías. 
+ 2.   El presente Reglamento no será aplicable a: 
+ a) 
+ las lavadoras-secadoras domésticas y las centrifugadoras domésticas; 
+ b) 
+ las secadoras de tambor incluidas en el ámbito de aplicación de la Directiva 2006/42/CE del Parlamento Europeo y del Consejo  ( 11 ) ; 
+ c) 
+ las secadoras de tambor domésticas que funcionan con baterías y que pueden conectarse a la red eléctrica mediante un transformador CA/CC adquirido por separado. 
+ 3.   Los requisitos de los puntos 2 y 3 y de los puntos 6.1.a) y 6.1.b) del anexo II no será aplicable a las secadoras de tambor domésticas con una capacidad asignada para el programa eco igual o inferior a 3 kg. 
+ Artículo 2 
+ Definiciones 
+ A efectos del presente Reglamento, se aplicarán las siguientes definiciones: 
+ 1) 
+ «secadora de tambor doméstica»: aparato en el cual los textiles se secan haciéndolos girar en un tambor a través del cual se hace pasar aire caliente y que, según la declaración de conformidad emitida por su fabricante, se ajusta a la Directiva 2014/35/UE del Parlamento Europeo y del Consejo  ( 12 ) o a la Directiva 2014/53/UE del Parlamento Europeo y del Consejo  ( 13 ) ; 
+ 2) 
+ «red eléctrica»: suministro eléctrico procedente de la red de 230 (± 10 %) voltios de corriente alterna a 50 Hz; 
+ 3) 
+ «secadora de tambor alimentada con gas»: secadora de tambor doméstica que utiliza gas para calentar el aire en su interior; 
+ 4) 
+ «secadora de tambor doméstica encastrable»: secadora de tambor doméstica diseñada, ensayada y comercializada exclusivamente de manera que disponga de todas las características necesarias para: 
+ a) 
+ ser instalada en un mueble o revestida de paneles (por arriba y/o abajo y por los lados); 
+ b) 
+ estar fijada sólidamente al mueble o los paneles por los lados, por arriba o por el suelo; 
+ c) 
+ ir equipada con una cobertura frontal integral de fábrica o con un panel frontal a medida; 
+ 5) 
+ «lavadora-secadora doméstica»: aparato tal como se define en el artículo 2, punto 4, del Reglamento (UE) 2019/2023 de la Comisión  ( 14 ) ; 
+ 6) 
+ «centrifugadora doméstica»: aparato en el que se extrae el agua de los textiles mediante una acción centrífuga en un tambor rotatorio y se vacía a través de una bomba automática o por gravedad, y que ha sido diseñado para ser utilizado fundamentalmente con fines no profesionales, también comercializado bajo la denominación de «escurridora centrífuga»; 
+ 7) 
+ «secadora doméstica con más de un tambor»: secadora de tambor doméstica equipada con más de un tambor, ya sea en carcasas separadas o en la misma carcasa; 
+ 8) 
+ «modelo equivalente»: modelo que posee las mismas características técnicas pertinentes para la información técnica que debe facilitarse, pero que es introducido en el mercado o puesto en servicio por el mismo fabricante, importador o representante autorizado como un modelo distinto con un identificador del modelo diferente; 
+ 9) 
+ «programa»: una serie de operaciones predefinidas y declaradas por el fabricante, importador o representante autorizado adecuadas para el secado de determinados tipos de tejidos; 
+ 10) 
+ «identificador del modelo»: código, por lo general alfanumérico, que distingue un modelo de producto específico de otros modelos con la misma marca o el mismo nombre de fabricante, de importador o de representante autorizado; 
+ 11) 
+ «valores declarados»: los valores facilitados por el fabricante, importador o representante autorizado correspondientes a los parámetros técnicos declarados, calculados o medidos, con arreglo al artículo 4, para la verificación del cumplimiento por las autoridades del Estado miembro; 
+ 12) 
+ «base de datos de los productos»: una base de datos según se define en el artículo 2, punto 25, del Reglamento (UE) 2017/1369; 
+ 13) 
+ «capacidad asignada»: la masa máxima, en kilogramos, indicada por el fabricante, el importador o el representante autorizado, en intervalos de 0,5 kg, de textiles secos de un tipo determinado que pueden tratarse en un ciclo de secado de una secadora de tambor doméstica en el programa seleccionado, cuando esta última se carga siguiendo las instrucciones del fabricante; 
+ 14) 
+ «programa eco»: programa capaz de secar prendas de algodón desde un contenido de humedad inicial de la carga del 60 % hasta un contenido de humedad final de la carga del 0 %; 
+ 15) 
+ «contenido de humedad inicial»: la cantidad de humedad contenida en la carga al comenzar el ciclo de secado; 
+ 16) 
+ «contenido de humedad final»: la cantidad de humedad contenida en la carga al finalizar el ciclo de secado; 
+ 17) 
+ «ciclo de secado»: proceso completo de secado, definido por el programa prescrito, consistente en una serie de operaciones entre las que se encuentran el secado con aire caliente y el giro del tambor. 
+ A efectos de los anexos II a V, serán de aplicación las definiciones adicionales establecidas en el anexo I. 
+ Artículo 3 
+ Requisitos de diseño ecológico 
+ 1.   Las secadoras de tambor domésticas deberán cumplir los requisitos de diseño ecológico establecidos en el anexo II. 
+ 2.   El cumplimiento de los requisitos de diseño ecológico se medirá y calculará de conformidad con los métodos establecidos en el anexo III. 
+ Artículo 4 
+ Evaluación de la conformidad 
+ 1.   El procedimiento de evaluación de la conformidad mencionado en el artículo 8 de la Directiva 2009/125/CE seguirá el sistema de control interno del diseño que figura en el anexo IV de la citada Directiva o el sistema de gestión descrito en su anexo V. 
+ 2.   A efectos de la evaluación de la conformidad mencionada en el artículo 8 de la Directiva 2009/125/CE, la documentación técnica deberá contener los valores declarados de los parámetros que figuran en los puntos 2, 3 y 4 del anexo II del presente Reglamento y los detalles y resultados de los cálculos efectuados con arreglo al anexo III del presente Reglamento. 
+ 3.   Si la información incluida en la documentación técnica de un modelo concreto se ha obtenido por uno de los siguientes medios, la documentación técnica incluirá los detalles del cálculo, la evaluación realizada por el fabricante para verificar la exactitud del cálculo y, en su caso, la declaración de identidad entre los modelos de diferentes fabricantes: 
+ a) 
+ a partir de un modelo que posee las mismas características técnicas pertinentes para la información técnica que debe facilitarse, pero que es producido por un fabricante diferente, o 
+ b) 
+ mediante cálculos efectuados en función del diseño o por extrapolación a partir de otro modelo del mismo u otro fabricante, o por ambos métodos. 
+ 4.   La documentación técnica incluirá una lista de todos los modelos equivalentes, indicando los identificadores de modelo. 
+ 5.   La documentación técnica incluirá, en el mismo orden, la información establecida en el anexo VI del Reglamento Delegado (UE) 2023/2534. A efectos de la vigilancia del mercado, los fabricantes, los importadores o sus representantes autorizados podrán, sin perjuicio de lo dispuesto en el anexo IV, punto 2, letra g), de la Directiva 2009/125/CE, hacer referencia a la documentación técnica cargada en la base de datos de los productos que contiene la misma información establecida en el Reglamento Delegado (UE) 2023/2534. 
+ Artículo 5 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Los Estados miembros aplicarán el procedimiento de verificación establecido en el anexo IV del presente Reglamento cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE. 
+ Artículo 6 
+ Elusión 
+ 1.   Los fabricantes, importadores o representantes autorizados no introducirán en el mercado ni pondrán en servicio productos diseñados para modificar su comportamiento o sus propiedades durante los ensayos con el fin de alcanzar un resultado más favorable para cualquiera de los valores declarados de los parámetros regulados por el presente Reglamento. Esto incluye, entre otras cosas, los productos diseñados para detectar que se están sometiendo a ensayo reconociendo las condiciones de ensayo o el ciclo de ensayo y para modificar automáticamente su comportamiento o sus propiedades en respuesta a ello, así como los productos preconfigurados para modificar su comportamiento o sus propiedades en el momento del ensayo. 
+ 2.   Los fabricantes, importadores o representantes autorizados no prescribirán instrucciones de ensayo específicas que modifiquen el comportamiento o las propiedades de los productos con el fin de alcanzar un resultado más favorable para cualquiera de los valores declarados de los parámetros regulados por el presente Reglamento. Esto incluye, entre otras cosas, prescribir una modificación manual de un producto en preparación para el ensayo que modifique el comportamiento del producto o sus propiedades en comparación con el uso normal por parte del usuario final. 
+ 3.   Los fabricantes, importadores o representantes autorizados no introducirán en el mercado ni pondrán en servicio productos diseñados para modificar su comportamiento o sus propiedades en un breve período de tiempo tras su puesta en servicio y empeorar cualquiera de los valores declarados para los parámetros regulados por el presente Reglamento. 
+ Artículo 7 
+ Actualizaciones del 
+ software 
+ 1.   Las actualizaciones del software o el firmware no empeorarán ninguno de los valores declarados para los parámetros de una secadora de tambor doméstica cuando la medición se realice utilizando el método de ensayo aplicable en el momento de su introducción en el mercado o puesta en servicio. 
+ 2.   No se producirá ningún cambio de ninguno de los valores declarados para los parámetros de una secadora de tambor doméstica cuando la medición se realice utilizando el método de ensayo aplicable en el momento de su introducción en el mercado o puesta en servicio como consecuencia de rechazar la actualización. 
+ Artículo 8 
+ Valores de referencia indicativos 
+ En el anexo V se establecen los valores de referencia respecto de las secadoras de tambor domésticas con las mejores prestaciones disponibles en el mercado en el momento de la entrada en vigor del presente Reglamento. 
+ Artículo 9 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso técnico y presentará al foro consultivo los resultados de esa revisión, incluido, en su caso, un proyecto de propuesta de revisión, a más tardar el 12 de diciembre de 2029. 
+ La revisión deberá evaluar, en particular, lo siguiente: 
+ a) 
+ el potencial de mejora en lo que se refiere al rendimiento energético y medioambiental de las secadoras de tambor domésticas; 
+ b) 
+ la evolución del comportamiento de los consumidores y la viabilidad de un mecanismo obligatorio de transmisión de información acerca de la carga del aparato, el consumo de energía y la duración del programa seleccionado; 
+ c) 
+ la efectividad de los requisitos vigentes sobre eficiencia en el uso de los recursos; 
+ d) 
+ la conveniencia de establecer requisitos adicionales de eficiencia en el uso de los recursos para los productos de conformidad con los objetivos de la economía circular, incluida la disponibilidad de piezas de recambio adicionales e información sobre las materias primas fundamentales y otros materiales pertinentes desde el punto de vista medioambiental; 
+ e) 
+ la conveniencia de establecer requisitos de diseño ecológico para las secadoras instaladas en un mueble; 
+ f) 
+ la conveniencia de establecer requisitos para reducir la propagación de microplásticos. 
+ Artículo 10 
+ Modificación del Reglamento (UE) 2023/826 
+ 1.   En el punto 1 del anexo II del Reglamento (UE) 2023/826: 
+ a) 
+ la entrada «secadoras de tambor y demás secadoras de ropa» se sustituye por «secadoras de ropa, a excepción de las secadoras de tambor domésticas comprendidas en el ámbito de aplicación del Reglamento (UE) 2023/2533 de la Comisión  ( *1 ) 
+ b) 
+ la entrada «otros aparatos para el cocinado y la preparación de alimentos y bebidas, la limpieza y el cuidado de la ropa, con exclusión de los lavavajillas domésticos regulados por el Reglamento (UE) 2019/2022 de la Comisión y de las lavadoras domésticas y las lavadoras-secadoras domésticas comprendidas en el ámbito de aplicación del Reglamento (UE) 2019/2023 de la Comisión» se sustituye por el texto siguiente: 
+ «otros aparatos para el cocinado y la preparación de alimentos y bebidas, la limpieza y el cuidado de la ropa, con exclusión de los lavavajillas domésticos regulados por el Reglamento (UE) 2019/2022 de la Comisión  ( *2 ) y de las lavadoras domésticas y las lavadoras-secadoras domésticas comprendidas en el ámbito de aplicación del Reglamento (UE) 2019/2023 de la Comisión  ( *3 ) y las secadoras domésticas comprendidas en el ámbito de aplicación del Reglamento (UE) 2023/2533. 
+ ( *2 )   Reglamento (UE) 2019/2022 de la Comisión, de 1 de octubre de 2019, por el que se establecen los requisitos de diseño ecológico aplicables a los lavavajillas domésticos con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, se modifica el Reglamento (CE) n. o  1275/2008 de la Comisión y se deroga el Reglamento (UE) n. o  1016/2010 de la Comisión ( DO L 315 de 5.12.2019, p. 267 )."
+ ( *3 )   Reglamento (UE) 2019/2023 de la Comisión, de 1 de octubre de 2019, por el que se establecen requisitos de diseño ecológico aplicables a las lavadoras domésticas y a las lavadoras-secadoras domésticas con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo y por el que se modifica el Reglamento (CE) n. o  1275/2008 de la Comisión y se deroga el Reglamento (UE) n. o  1015/2010 de la Comisión ( DO L 315 de 5.12.2019, p. 285 ).»."
+ 2.   En el punto 1, letra b), del anexo III del Reglamento (UE) 2023/826: 
+ el párrafo «El consumo de energía del equipo en cualquier estado que proporcione solo una visualización de información o del estado, o solo una combinación de una función de reactivación y una visualización de información o del estado, o solo una función de reactivación y una indicación de la habilitación de esta función y una visualización de información o del estado, no excederá de 0,80 W, excepto en el caso de las secadoras de tambor domésticas comprendidas en el ámbito de aplicación del Reglamento (UE) n. o  932/2012 de la Comisión, para las que este valor será de 1,00 W» se sustituye por el texto siguiente: 
+ «El consumo de energía del equipo en cualquier estado que proporcione solo una visualización de información o del estado, o solo una combinación de una función de reactivación y una visualización de información o del estado, o solo una función de reactivación y una indicación de la habilitación de esta función y una visualización de información o del estado, no excederá de 0,80 W.». 
+ Artículo 11 
+ Derogación 
+ Queda derogado el Reglamento (UE) n. o  932/2012. 
+ Artículo 12 
+ Medidas transitorias 
+ 1.   No obstante lo dispuesto en el punto 1.1 del anexo I del Reglamento (UE) n. o  932/2012, hasta el 30 de junio de 2025 no será necesario que la indicación del programa normal de algodón se muestre en el dispositivo de selección de programas o en el panel de visualización de las secadoras de tambor domésticas si se cumplen las dos condiciones siguientes: 
+ a) 
+ el programa normal de algodón es claramente identificable en el manual de instrucciones a que se refiere el punto 1.2 del anexo I del Reglamento (UE) n. o  932/2012 y en la documentación técnica a que se refiere el artículo 4, apartado 2, de dicho Reglamento; 
+ b) 
+ el programa eco se muestra claramente en el dispositivo de selección de programas de las secadoras de tambor domésticas, de conformidad con el punto 1, letra b), del anexo II. 
+ 2.   Si antes del 1 de marzo de 2025 no se ha introducido en el mercado ninguna unidad perteneciente al mismo modelo o a modelos equivalentes, se considerará que las unidades de los modelos introducidos en el mercado entre el 1 de marzo de 2025 y el 30 de junio de 2025 que cumplan lo dispuesto en el presente Reglamento cumplen los requisitos del Reglamento (UE) n. o  932/2012. 
+ Artículo 13 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea . 
+ Será aplicable a partir del 1 de julio de 2025. No obstante, el artículo 6 será aplicable a partir del 12 de diciembre de 2023. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 17 de noviembre de 2023. 
+ Por la Comisión 
+ La Presidenta 
+ Ursula VON DER LEYEN
+ ( 1 )   
+ DO L 285 de 31.10.2009, p. 10 . 
+ ( 2 )   Comunicación de la Comisión: «Plan de trabajo sobre diseño ecológico 2016-2019» [COM(2016) 773 final, de 30 de noviembre de 2016]. 
+ ( 3 )   Comunicación de la Comisión: «Plan de Trabajo sobre Diseño Ecológico y Etiquetado Energético 2022-2024» (2022/C 182/01) ( DO C 182 de 4.5.2022, p. 1 ). 
+ ( 4 )   Reglamento (UE) n. o  932/2012 de la Comisión, de 3 de octubre de 2012, por el que se aplica la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a las secadoras de tambor domésticas ( DO L 278 de 12.10.2012, p. 1 ). 
+ ( 5 )   Comunicación de la Comisión al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones: «Cerrar el círculo: un plan de acción de la UE para la economía circular» [COM(2015) 614 final, de 2 de diciembre de 2015]. 
+ ( 6 )   Reglamento (UE) 2023/826 de la Comisión, de 17 de abril de 2023, por el que se establecen requisitos de diseño ecológico aplicables al consumo de energía en los modos desactivado y preparado, así como en el modo preparado en red, de los equipos eléctricos y electrónicos domésticos y de oficina con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo y se derogan los Reglamentos (CE) n. o  1275/2008 [y] (CE) n. o  107/2009 de la Comisión ( DO L 103 de 18.4.2023, p. 29 ). 
+ ( 7 )   Reglamento (UE) n. o  1025/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea, por el que se modifican las Directivas 89/686/CEE y 93/15/CEE del Consejo y las Directivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE y 2009/105/CE del Parlamento Europeo y del Consejo y por el que se deroga la Decisión 87/95/CEE del Consejo y la Decisión n. o  1673/2006/CE del Parlamento Europeo y del Consejo ( DO L 316 de 14.11.2012, p. 12 ). 
+ ( 8 )   Reglamento Delegado (UE) 2023/2534 de la Comisión, de 13 de julio de 2023, por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las secadoras de tambor domésticas y se deroga el Reglamento Delegado (UE) n. o  392/2012 de la Comisión ( DO L, 2023/2533, 22.11.2023, ELI: http://data.europa.eu/eli/reg_del/2023/2534/oj ). 
+ ( 9 )   Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo, de 4 de julio de 2017, por el que se establece un marco para el etiquetado energético y se deroga la Directiva 2010/30/UE ( DO L 198 de 28.7.2017, p. 1 ). 
+ ( 10 )   Reglamento Delegado (UE) 2023/807 de la Comisión, de 15 de diciembre de 2022, relativo a la revisión del coeficiente de energía primaria para la electricidad en aplicación de la Directiva 2012/27/UE del Parlamento Europeo y del Consejo ( DO L 101 de 14.4.2023, p. 16 ). 
+ ( 11 )   Directiva 2006/42/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, relativa a las máquinas y por la que se modifica la Directiva 95/16/CE ( DO L 157 de 9.6.2006, p. 24 ). 
+ ( 12 )   Directiva 2014/35/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de comercialización de material eléctrico destinado a utilizarse con determinados límites de tensión ( DO L 96 de 29.3.2014, p. 357 ). 
+ ( 13 )   Directiva 2014/53/UE del Parlamento Europeo y del Consejo, de 16 de abril de 2014, relativa a la armonización de las legislaciones de los Estados miembros sobre la comercialización de equipos radioeléctricos, y por la que se deroga la Directiva 1999/5/CE ( DO L 153 de 22.5.2014, p. 62 ). 
+ ( 14 )   Reglamento (UE) 2019/2023 de la Comisión, de 1 de octubre de 2019, por el que se establecen requisitos de diseño ecológico aplicables a las lavadoras domésticas y a las lavadoras-secadoras domésticas con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo y por el que se modifica el Reglamento (CE) n. o  1275/2008 de la Comisión y se deroga el Reglamento (UE) n. o  1015/2010 de la Comisión ( DO L 315 de 5.12.2019, p. 285 ). 
+ ANEXO I 
+ DEFINICIONES 
+ A efectos de los anexos II a V, se aplicarán las siguientes definiciones: 
+ 1) 
+ «secadora de tambor de ventilación»: secadora de tambor doméstica en la cual se recoge aire del exterior, que se hace pasar sobre los textiles, y el aire húmedo que resulta se evacua a la habitación o se expulsa al exterior; 
+ 2) 
+ «secadora de tambor de condensación»: secadora de tambor doméstica dotada de un sistema, mediante condensación o por cualquier otro medio, para deshumidificar el aire utilizado para el proceso de secado; 
+ 3) 
+ «secadora de tambor con elemento calentador»: secadora de tambor doméstica en la que el único o el principal medio para calentar el aire interior es una resistencia eléctrica; 
+ 4) 
+ «secadora de tambor con bomba de calor»: secadora de tambor doméstica en la que el único o el principal medio para calentar el aire interior es un sistema de bomba de calor; 
+ 5) 
+ «índice de eficiencia energética» o «IEE»: la relación entre el consumo ponderado de energía y el consumo normalizado de energía por ciclo de secado de un modelo específico de secadora de tambor doméstica; 
+ 6) 
+ «duración del programa»: el tiempo transcurrido desde el inicio del programa seleccionado, excluido cualquier aplazamiento programado por el usuario, hasta que se activa el indicador de final del programa y el usuario puede acceder a la carga; 
+ 7) 
+ «carga completa»: la capacidad asignada de una secadora de tambor doméstica para un programa dado; 
+ 8) 
+ «carga parcial»: la mitad de la capacidad asignada de una secadora de tambor doméstica para un programa dado; 
+ 9) 
+ «eficiencia de la condensación»: la relación entre la masa de humedad condensada por una secadora de condensación y la masa de humedad separada de la carga al final de un ciclo de secado; 
+ 10) 
+ «modo desactivado»: el estado en el cual la secadora de tambor doméstica está conectada a la red eléctrica y no se ofrece ninguna función, incluidos los siguientes estados: 
+ a) 
+ el estado en que solo se ofrece la indicación de modo desactivado; 
+ b) 
+ el estado en que solo se ofrecen las funciones previstas a fin de garantizar la compatibilidad electromagnética con arreglo a la Directiva 2014/30/UE del Parlamento Europeo y del Consejo  ( 1 ) ; 
+ 11) 
+ «modo preparado»: el estado en el que la secadora de tambor doméstica está conectada a la red eléctrica y solo ofrece las funciones siguientes o algunas de ellas, que pueden durar un tiempo indefinido: 
+ a) 
+ función de reactivación, o bien función de reactivación y una indicación de función de reactivación activada; 
+ b) 
+ función de reactivación mediante conexión a una red («modo preparado en red»); 
+ c) 
+ visualización de información o del estado; 
+ d) 
+ función de detección para medidas de emergencia; 
+ 12) 
+ «red»: infraestructura de comunicación con una topología de enlaces, una arquitectura, incluidos los componentes físicos, principios de organización, procedimientos y formatos de comunicación (protocolos); 
+ 13) 
+ «función de prevención de arrugas»: operación que efectúa la secadora de tambor doméstica al finalizar un programa para evitar que la colada se arrugue en exceso; 
+ 14) 
+ «inicio aplazado»: el estado en que el usuario ha seleccionado un momento posterior específico para el inicio o el final del ciclo de secado del programa seleccionado; 
+ 15) 
+ «pieza de recambio»: pieza separada que puede sustituir a otra pieza con una función idéntica o parecida en un producto; 
+ 16) 
+ «reparador profesional»: operario o empresa que ofrece servicios de reparación y mantenimiento profesional de secadoras de tambor domésticas; 
+ 17) 
+ «garantía»: cualquier compromiso del distribuidor o el fabricante para con el consumidor de reembolsar el precio pagado o sustituir, reparar o manipular de forma pertinente la secadora de tambor doméstica si no cumple las especificaciones establecidas en el documento de garantía o en la publicidad correspondiente; 
+ 18) 
+ «coeficiente de conversión» o «CC»: coeficiente por defecto de energía primaria por kWh de electricidad a que se refiere la Directiva 2012/27/UE del Parlamento Europeo y del Consejo. El valor del coeficiente de conversión es CC = 1,9. 
+ ( 1 )   Directiva 2014/30/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética ( DO L 96 de 29.3.2014, p. 79 ). 
+ ANEXO II 
+ REQUISITOS DE DISEÑO ECOLÓGICO 
+ 1.   Requisitos de los programas 
+ Las secadoras de tambor domésticas serán conformes con los requisitos siguientes: 
+ a) 
+ las secadoras de tambor domésticas proporcionarán un programa eco; la capacidad asignada declarada para el programa eco no será inferior a la capacidad asignada declarada más alta de todos los programas de algodón de la secadora de tambor doméstica; 
+ b) 
+ el programa eco se indicará como «eco» y será claramente identificable en la selección de programas, en el panel de visualización y a través de la conexión de red, según las funciones que ofrezca la secadora de tambor doméstica; 
+ c) 
+ la denominación «eco» se usará exclusivamente para el programa eco y solo podrá completarse con el término «algodón»; no se restringe el formato de escritura de la denominación en cuanto al tipo o el tamaño de letra, el uso de mayúsculas o minúsculas, o el color; el término «eco» no podrá figurar en el nombre de ningún otro programa; 
+ d) 
+ el programa eco estará configurado como programa por defecto en la selección automática de programas o cualquier función que mantenga la selección de programas, o bien, en caso de no haber selección automática de programas, podrá seleccionarse directamente sin necesidad de seleccionar otros parámetros, como un tiempo o una carga específicos; 
+ e) 
+ no se emplearán, en los nombres de los programas de las secadoras de tambor domésticas, las indicaciones «normal», «diario», «habitual» o «estándar», ni sus traducciones a las distintas lenguas oficiales de la Unión, ya sea de forma independiente o en combinación con otra información. 
+ 2.   Requisitos de eficiencia energética 
+ El IEE de las secadoras de tambor domésticas no será superior a 85. 
+ El IEE se calculará de conformidad con el anexo III. 
+ 3.   Requisitos de eficiencia de la condensación 
+ La eficiencia de la condensación de las secadoras de tambor de condensación no será inferior al 80 %. La clase de eficiencia de la condensación se calculará de conformidad con el anexo III. 
+ 4.   Modos de bajo consumo 
+ Las secadoras de tambor domésticas serán conformes con los requisitos siguientes: 
+ a) 
+ deberán tener un modo desactivado, un modo preparado o ambos; el consumo de energía en modo desactivado no excederá de 0,50 W y el consumo de energía en modo preparado no excederá de 0,50 W; a partir del 9 de mayo de 2027, el consumo de energía en modo desactivado no excederá de 0,3 W; 
+ b) 
+ si el modo preparado incluye la visualización de información o del estado, el consumo de energía en este modo no excederá de 1,00 W; 
+ c) 
+ si el modo preparado ofrece una conexión a una red y cuenta con el modo preparado en red, según se define en el artículo 2, punto 10, del Reglamento (UE) n. o  2023/826 de la Comisión, el consumo de energía en este modo no excederá de 2,00 W; 
+ d) 
+ la secadora de tambor doméstica pasará automáticamente al modo desactivado o al modo preparado si no se activa ningún otro modo, incluidas las medidas de emergencia, como máximo quince minutos después de haber encendido el aparato, haber finalizado un programa y las actividades conexas, haber interrumpido la función de prevención de arrugas o haber tenido lugar cualquier otro tipo de interacción con el aparato; 
+ e) 
+ si la secadora de tambor doméstica dispone de la función de inicio aplazado, el consumo de energía en este estado, incluido cualquier modo preparado, no excederá de 4,00 W; el usuario no tendrá la opción de programar el inicio aplazado con un lapso superior a 24 horas; 
+ f) 
+ toda secadora de tambor doméstica que pueda conectarse a una red dispondrá de la opción de activar y desactivar la conexión o las conexiones de red; la conexión o las conexiones de red estarán desactivadas por defecto. 
+ 5.   Requisitos de eficiencia en el uso de los recursos 
+ 1) 
+ Disponibilidad de piezas de recambio: 
+ a) 
+ para todos los modelos cuyas unidades se introduzcan en el mercado a partir del 1 de julio de 2025, los fabricantes o los importadores de las secadoras de tambor domésticas, o sus representantes autorizados, pondrán a disposición de los reparadores profesionales al menos las siguientes piezas de recambio: 
+ i) 
+ juntas y retenes, 
+ ii) 
+ interruptores y botones, 
+ iii) 
+ bombas de condensación, 
+ iv) 
+ motores y escobillas de motor, 
+ v) 
+ transmisiones entre el motor y el tambor, 
+ vi) 
+ ventiladores y ruedas de ventilador, 
+ vii) 
+ tambores y rodamientos, 
+ viii) 
+ tubos para el agua y elementos relacionados, incluidas las mangueras, las válvulas y los filtros, 
+ ix) 
+ cables y clavijas, 
+ x) 
+ circuitos impresos, 
+ xi) 
+ indicadores visuales electrónicos, 
+ xii) 
+ termostatos y sensores de temperatura, 
+ xiii) 
+ software y firmware , incluido el software de reinicio, 
+ xiv) 
+ amortiguadores y muelles, 
+ xv) 
+ resistencias y elementos calentadores, 
+ xvi) 
+ fusibles eléctricos (por separado o en conjunto), 
+ xvii) 
+ poleas tensoras, 
+ xviii) 
+ rodillos de soporte, 
+ xix) 
+ interruptores de presión; 
+ b) 
+ se garantizará la disponibilidad de las piezas de recambio a que se refiere la letra a) durante un período mínimo que comenzará a más tardar el 1 de julio de 2025 o dos años después de la introducción en el mercado de la primera unidad del modelo, si esta fecha es posterior, y terminará al menos diez años después de la introducción en el mercado de la última unidad del modelo de que se trate; a tal fin, la lista de piezas de recambio, el procedimiento para encargarlas y las instrucciones de reparación estarán a disposición del público en el sitio web de libre acceso del fabricante, importador o representante autorizado, al menos durante el mismo período y a partir de la fecha mencionada en el presente punto; 
+ c) 
+ para todos los modelos cuyas unidades se introduzcan en el mercado a partir del 1 de julio de 2025, los fabricantes o los importadores de secadoras de tambor domésticas, o sus representantes autorizados, pondrán a disposición de los reparadores profesionales y los usuarios finales al menos las siguientes piezas de recambio: 
+ i) 
+ puertas, juntas de la puerta, tiradores, montajes del cierre y bisagras de la puerta, 
+ ii) 
+ filtros de pelusas, 
+ iii) 
+ filtros de aire, 
+ iv) 
+ elementos auxiliares de plástico, 
+ v) 
+ depósitos de condensación; 
+ d) 
+ se garantizará la disponibilidad de las piezas de recambio a que se refiere la letra c) durante un período mínimo que comenzará en la fecha de introducción en el mercado de la unidad y terminará al menos diez años después de la introducción en el mercado de la última unidad del modelo de que se trate; a tal fin, la lista de piezas de recambio, el procedimiento para encargarlas y la información de mantenimiento estarán a disposición del público en el sitio web de libre acceso del fabricante, importador o representante autorizado, al menos durante el mismo período y a partir de la fecha mencionada en el presente punto; 
+ e) 
+ los fabricantes o los importadores de secadoras de tambor domésticas, o sus representantes autorizados, garantizarán que las piezas de recambio a que se refieren las letras a) y c) puedan sustituirse empleando herramientas corrientes y sin que esa sustitución dañe de manera permanente la secadora de tambor doméstica; 
+ f) 
+ durante el período mencionado en las letras b) y d), los fabricantes, importadores o representantes autorizados indicarán en su sitio web de libre acceso los precios indicativos previstos antes de impuestos, al menos en euros, para las piezas de recambio que figuran en las letras a) y c), así como el precio indicativo antes de impuestos de los elementos de fijación y las herramientas, si se suministran con la pieza de recambio. 
+ 2) 
+ Plazo máximo para la entrega de piezas de recambio: 
+ durante el período de disponibilidad de las piezas de recambio, el fabricante, importador o representante autorizado garantizará la entrega de las piezas de recambio en el plazo de 15 días hábiles tras la recepción de un pedido. 
+ 3) 
+ Acceso a la información sobre la reparación y el mantenimiento: 
+ a) 
+ durante el período mencionado en el punto 1, letra b), el fabricante, importador o representante autorizado facilitará el acceso a la información sobre la reparación y el mantenimiento del aparato a los reparadores profesionales. 
+ En el sitio web del fabricante, importador o representante autorizado se indicará el procedimiento que deben seguir los reparadores profesionales a fin de solicitar acceso a la información. Para aceptar la solicitud de acceso, el fabricante, importador o representante autorizado solo podrá exigir al reparador profesional que demuestre que: 
+ i) 
+ dispone de la competencia técnica suficiente para reparar secadoras de tambor domésticas y cumple la reglamentación aplicable a los reparadores de equipos eléctricos en los Estados miembros en que opera; a tal efecto, se aceptará como prueba la referencia a un sistema de registro oficial en calidad de reparador profesional, en caso de existir tal sistema en los Estados miembros de que se trate, 
+ ii) 
+ está protegido por un seguro que cubre la responsabilidad resultante de su actividad, independientemente de si los Estados miembros lo exigen o no; 
+ b) 
+ los fabricantes, los importadores o los representantes autorizados aceptarán o rechazarán la solicitud a que se refiere la letra a) en un plazo de cinco días hábiles; 
+ c) 
+ el fabricante, importador o representante autorizado podrá imponer tasas razonables y proporcionadas para acceder a la información sobre la reparación y el mantenimiento o para recibir actualizaciones periódicas; se entenderá por tasa razonable aquella que no desincentiva el acceso a la información por no tener en cuenta la medida en que el reparador profesional utiliza esa información; 
+ d) 
+ una vez ha sido aceptada la solicitud, el reparador profesional tendrá acceso a la información solicitada sobre la reparación y el mantenimiento en el plazo de un día hábil; si procede, podrá proporcionarse la información relativa a un modelo equivalente o a un modelo de la misma familia; 
+ e) 
+ la información sobre la reparación y el mantenimiento contendrá: 
+ i) 
+ la identificación inequívoca de la secadora de tambor doméstica, 
+ ii) 
+ un esquema de desmontaje o una vista explosionada, 
+ iii) 
+ un manual técnico de instrucciones para la reparación, 
+ iv) 
+ una lista del equipo necesario para la reparación y el ensayo, 
+ v) 
+ información sobre componentes y diagnóstico (como los valores teóricos mínimos y máximos para las mediciones), 
+ vi) 
+ los diagramas de cableado y conexiones, 
+ vii) 
+ códigos de error y avería para el diagnóstico (incluidos, en su caso, los códigos específicos del fabricante), 
+ viii) 
+ instrucciones para la instalación del software y el firmware pertinentes, incluido el software de reinicio, 
+ ix) 
+ información sobre cómo acceder a los registros de datos de incidentes de errores notificados almacenados en la secadora de tambor doméstica (en su caso), 
+ x) 
+ diagramas de las placas electrónicas; 
+ f) 
+ sin perjuicio de los derechos de propiedad intelectual, se permitirá a terceros utilizar y publicar información sin modificaciones sobre la reparación y el mantenimiento publicada inicialmente por el fabricante, importador o representante autorizado y contemplada en la letra e) una vez que el fabricante, importador o representante autorizado ponga fin al acceso a dicha información tras el fin del período de acceso a la información sobre la reparación y el mantenimiento. 
+ 4) 
+ Los fabricantes o los importadores de secadoras de tambor domésticas, o sus representantes autorizados, proporcionarán actualizaciones del software y el firmware durante un mínimo de diez años a partir de la introducción en el mercado de la última unidad de un modelo, y estas actualizaciones del software y el firmware se facilitarán gratuitamente. 
+ 5) 
+ Requisitos de información aplicables a los gases refrigerantes: 
+ sin perjuicio de lo dispuesto en el Reglamento (UE) n. o  517/2014 del Parlamento Europeo y del Consejo  ( 1 ) , y en particular en su artículo 12 sobre etiquetado e información sobre el producto y el aparato, la denominación química o la designación industrial aceptada del gas refrigerante utilizado en las secadoras de tambor con bomba de calor se expondrá permanentemente en un lugar de las partes exteriores del aparato que sea visible y fácil de identificar por el usuario final, por ejemplo en el panel trasero. 
+ 6) 
+ Requisitos aplicables al desmontaje con fines de valorización y reciclado de materiales al mismo tiempo que se evita la contaminación: 
+ a) 
+ los fabricantes, importadores o representantes autorizados velarán por que las secadoras de tambor domésticas estén diseñadas de manera tal que se puedan extraer del aparato los materiales y componentes a que se refiere el anexo VII de la Directiva 2012/19/UE del Parlamento Europeo y del Consejo  ( 2 ) empleando herramientas corrientes; 
+ b) 
+ los fabricantes, importadores o representantes autorizados cumplirán las obligaciones establecidas en el artículo 15, apartado 1, de la Directiva 2012/19/UE. 
+ 6.   Requisitos de información 
+ Se proporcionarán instrucciones de uso y de instalación en forma de manual de usuario a través de un sitio web de libre acceso del fabricante, importador o representante autorizado; estas instrucciones incluirán lo siguiente: 
+ 1) 
+ La siguiente información de carácter general: 
+ a) 
+ información que detalle que el programa eco es adecuado para secar ropa de algodón húmeda, y que este programa se utiliza para evaluar el cumplimiento de la legislación de la UE en materia de diseño ecológico; 
+ b) 
+ información que detalle que el programa eco es el más eficiente en términos de consumo de energía para secar ropa de algodón húmeda; 
+ c) 
+ información que detalle que la carga de la secadora de tambor doméstica hasta el máximo de la capacidad indicada por el fabricante para cada programa contribuirá al ahorro de energía; 
+ d) 
+ en su caso, información sobre cómo activar y desactivar la conexión de red y cómo influye en el consumo de energía; 
+ e) 
+ instrucciones sobre cómo encontrar la información relativa al modelo en la base de datos de los productos, con arreglo a lo establecido en el Reglamento Delegado (UE) 2023/2534 de la Comisión  ( 3 ) , a través de un enlace web que dirija a la información del modelo almacenada en dicha base de datos o de un enlace a la base de datos de los productos e información sobre cómo encontrar el identificador del modelo en el propio producto; 
+ 2) 
+ Los valores de los parámetros siguientes: 
+ a) 
+ capacidad asignada en kg; 
+ b) 
+ duración de los programas, expresada en horas y minutos; 
+ c) 
+ consumo de electricidad y, en su caso, de gas, en kWh/ciclo de secado; 
+ d) 
+ contenido de humedad final tras el ciclo de secado; 
+ e) 
+ ruido acústico aéreo emitido por el ciclo de secado. 
+ Los valores de los parámetros establecidos en las letras a) a e) se facilitarán para el programa eco con carga completa y, excepto para el parámetro establecido en la letra e), con carga parcial y para los siguientes programas cuando estén disponibles: 
+ a) 
+ tejidos sintéticos, seco, con carga completa; 
+ b) 
+ tejidos delicados/lana, seco, con carga completa; 
+ c) 
+ algodón, extra/muy seco, con carga completa y con carga parcial; 
+ d) 
+ algodón, listo para planchar, con carga completa y con carga parcial; 
+ e) 
+ tejidos sintéticos, extra/muy seco, con carga completa; 
+ f) 
+ tejidos sintéticos, listo para planchar, con carga completa. 
+ Los valores indicados para programas distintos del programa eco son meramente indicativos. 
+ 3) 
+ Instrucciones para realizar operaciones de mantenimiento, incluidas, como mínimo, las operaciones siguientes: 
+ a) 
+ correcta instalación, incluida la nivelación del aparato, la conexión a la red eléctrica, la conexión a la salida de agua (si procede), la conexión al gas (si procede) y la instalación de la manguera de ventilación (si procede); 
+ b) 
+ limpieza de los filtros, incluida la frecuencia óptima y el procedimiento, y principales consecuencias de una limpieza insuficiente de estos; las instrucciones indicarán que, al limpiar los filtros, las pelusas deben tirarse a la basura y no eliminarse por el desagüe para evitar la propagación de microplásticos en el sistema de agua utilizado; 
+ c) 
+ vaciado del depósito de agua para las secadoras de condensación en caso de que la secadora de tambor doméstica no esté conectada a la salida de agua; 
+ d) 
+ limpieza periódica, incluida la frecuencia óptima; 
+ e) 
+ apertura de puerta entre ciclos de secado, si procede; 
+ f) 
+ extracción de cuerpos extraños; 
+ g) 
+ detección de errores, significado de estos y acción requerida, incluida la detección de errores que requieran la intervención de un profesional; 
+ h) 
+ contacto con los servicios de un reparador profesional (sitios web, direcciones y datos de contacto). 
+ Las instrucciones también incluirán información sobre las consecuencias de una autorreparación o reparación no profesional para la seguridad del usuario y en lo que respecta a la garantía, así como información sobre el período mínimo durante el cual están disponibles las piezas de recambio. 
+ ( 1 )   Reglamento (UE) 517/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, sobre los gases fluorados de efecto invernadero y por el que se deroga el Reglamento (CE) n. o  842/2006 ( DO L 150 de 20.5.2014, p. 195 ). 
+ ( 2 )   Directiva 2012/19/UE del Parlamento Europeo y del Consejo, de 4 de julio de 2012, sobre residuos de aparatos eléctricos y electrónicos (RAEE) ( DO L 197 de 24.7.2012, p. 38 ). 
+ ( 3 )   Reglamento Delegado (UE) 2023/2534 de la Comisión, de 13 de julio de 2023, por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las secadoras de tambor domésticas y se deroga el Reglamento Delegado (UE) n. o  392/2012 de la Comisión ( DO L, 2023/2534, 22.11.2023, ELI: http://data.europa.eu/eli/reg_del/2023/2534/oj ). 
+ ANEXO III 
+ MÉTODOS DE MEDICIÓN Y CÁLCULO 
+ A efectos del cumplimiento y de la verificación del cumplimiento de los requisitos del presente Reglamento, se efectuarán mediciones y cálculos utilizando las normas armonizadas cuyos números de referencia hayan sido publicados a tal efecto en el Diario Oficial de la Unión Europea , u otros métodos fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica más avanzado generalmente reconocido y estén en consonancia con las disposiciones del presente anexo. 
+ Cuando se declare un parámetro con arreglo al artículo 4, el fabricante, importador o representante autorizado utilizará su valor declarado para los cálculos del presente anexo. 
+ Para la medición y el cálculo del IEE, la eficiencia de la condensación, la duración del programa, el contenido de humedad final y el ruido acústico aéreo emitido, se utilizará el programa eco tal como pueda encontrarse en la selección del programa, en la pantalla y a través de la conexión a la red, según las funcionalidades proporcionadas por la secadora de tambor doméstica, y sin ninguna otra modificación del ajuste del contenido de humedad final. El consumo de energía, la eficiencia de la condensación, la duración del programa y el contenido de humedad final se medirán simultáneamente. 
+ El cálculo del consumo de energía ponderado, la duración ponderada del programa, el contenido de humedad final y la eficiencia de la condensación se realizará sobre la base de tres ciclos de secado con carga completa y cuatro ciclos de secado con carga parcial. 
+ 1.    Índice de eficiencia energética 
+ Para el cálculo del IEE de un modelo de secadora de tambor doméstica, el consumo de energía ponderado por ciclo de secado para el programa eco con carga completa y con carga parcial se compara con el consumo normalizado de energía por ciclo de secado. 
+ a) 
+ El IEE se calcula mediante la siguiente fórmula y se redondea al primer decimal: 
+ donde 
+ E tC 
+ = 
+ consumo de energía ponderado por ciclo de secado, 
+ SE C 
+ = 
+ consumo normalizado de energía por ciclo de secado. 
+ b) 
+ El SE C se calcula en kWh mediante la siguiente fórmula y se redondea al segundo decimal: 
+ i) 
+ en el caso de secadoras de tambor domésticas distintas de las secadoras de tambor de ventilación: 
+ ii) 
+ en el caso de las secadoras de tambor de ventilación: 
+ donde 
+ c 
+ es la capacidad asignada de la secadora de tambor doméstica para el programa eco, 
+ T t 
+ es la duración ponderada del programa eco. 
+ c) 
+ El E tC se calcula en kWh mediante la siguiente fórmula y se redondea al segundo decimal: 
+ donde 
+ E dry 
+ = 
+ consumo de energía del programa eco con carga completa, en kWh y redondeado al segundo decimal, 
+ E dry½ 
+ = 
+ consumo de energía del programa eco con carga parcial, en kWh y redondeado al segundo decimal. 
+ d) 
+ En el caso de las secadoras de tambor alimentadas con gas, E dry y E dry1/2 se calculan mediante la siguiente fórmula: 
+ donde 
+ Eg dry 
+ = 
+ consumo de gas del programa eco con carga completa, en kWh y redondeado al segundo decimal, 
+ Eg dry½ 
+ = 
+ consumo de gas del programa eco con carga parcial, en kWh y redondeado al segundo decimal, 
+ Eg dry,a 
+ = 
+ consumo eléctrico auxiliar en el programa eco con carga completa, en kWh y redondeado al segundo decimal, 
+ Eg dry½,a 
+ = 
+ consumo eléctrico auxiliar en el programa eco con carga parcial, en kWh y redondeado al segundo decimal, 
+ CC (coeficiente de conversión) 
+ = 
+ 1,9. 
+ e) 
+ La Tt del programa eco se calcula en minutos, redondeada al minuto más próximo, mediante la siguiente fórmula: 
+ donde 
+ T dry 
+ = 
+ duración del programa eco con carga completa, en minutos y redondeada al minuto más próximo, 
+ T dry½ 
+ = 
+ duración del programa eco con carga parcial, en minutos y redondeada al minuto más próximo. 
+ f) 
+ El contenido medio de humedad final μ t 
+ para el programa eco se calcula en porcentaje, redondeado al primer decimal, mediante la siguiente fórmula: 
+ donde 
+ μ dry 
+ = 
+ contenido de humedad final del programa eco con carga completa, en porcentaje y redondeado al primer decimal, 
+ μ dry½ 
+ = 
+ contenido de humedad final del programa eco con carga parcial, en porcentaje y redondeado al primer decimal. 
+ 2.    Eficiencia de la condensación 
+ La eficiencia de la condensación de un programa ( Ct ) es la relación entre la masa de humedad condensada y recogida en el contenedor de una secadora de tambor de condensación y la masa de humedad extraída de la carga por el programa; esta última es la diferencia entre la masa de la carga de ensayo húmeda antes del secado y la masa de la carga de ensayo después del secado. 
+ C t se calcula como porcentaje y se redondea al entero más próximo mediante la siguiente fórmula: 
+ donde 
+ C dry 
+ = 
+ media de la eficiencia de la condensación del programa eco con carga completa, 
+ C dry½ 
+ = 
+ media de la eficiencia de la condensación del programa eco con carga parcial. 
+ 3.    Modos de bajo consumo 
+ Se mide el consumo de energía del modo desactivado ( P o 
+ ), del modo preparado ( P sm 
+ ) y, en su caso, del inicio aplazado ( P ds 
+ ). Los valores medidos se expresan en W y se redondean al segundo decimal. 
+ Durante las mediciones del consumo de energía en modos de bajo consumo, se comprobarán y se registrarán las funciones siguientes: 
+ a) 
+ si se visualiza información o no; 
+ b) 
+ si se activa o no una conexión de red. 
+ Si el modo preparado incluye la visualización de información o el estado, también se proporcionará esta función cuando se ofrezca el modo preparado en red. 
+ Si la secadora de tambor doméstica cuenta con una función de prevención de arrugas, esta se interrumpirá al abrir la puerta de la secadora de tambor doméstica, o mediante cualquier otra intervención adecuada quince minutos antes de la medición del consumo de energía. 
+ 4.    Ruido acústico aéreo emitido 
+ El ruido acústico aéreo emitido durante el ciclo de secado de una secadora de tambor doméstica se calculará para el programa eco con carga completa, utilizando normas armonizadas cuyos números de referencia hayan sido publicados a tal efecto en el Diario Oficial de la Unión Europea , u otros métodos fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica más avanzado generalmente reconocido. 
+ El ruido acústico aéreo emitido se expresará en dB(A) con respecto a 1 pW y se redondeará al número entero más próximo. 
+ ANEXO IV 
+ PROCEDIMIENTO DE VERIFICACIÓN A EFECTOS DE LA VIGILANCIA DEL MERCADO 
+ 1.    
+ Las tolerancias de verificación definidas en el presente anexo se refieren únicamente a la verificación de los valores declarados por las autoridades del Estado miembro y no serán utilizadas por el fabricante, el importador o los representantes autorizados como tolerancia permitida para establecer los valores indicados en la documentación técnica o para interpretar esos valores a efectos de alcanzar la conformidad o comunicar un mejor rendimiento por cualquier medio. 
+ 2.    
+ Si un modelo no es conforme con los requisitos establecidos en el artículo 6, se considerará que ni el modelo ni todos los modelos equivalentes son conformes. 
+ 3.    
+ Como parte de la verificación de la conformidad de un modelo de producto con los requisitos establecidos en el presente Reglamento con arreglo al artículo 3, apartado 2, de la Directiva 2009/125/CE, las autoridades de los Estados miembros aplicarán el siguiente procedimiento: 
+ a) 
+ las autoridades del Estado miembro someterán a verificación una sola unidad del modelo; 
+ b) 
+ se considerará que el modelo es conforme a los requisitos aplicables cuando cumpla todas las condiciones siguientes: 
+ i) 
+ los valores declarados indicados en la documentación técnica con arreglo al punto 2 del anexo IV de la Directiva 2009/125/CE, así como, en su caso, los valores utilizados para calcular esos valores declarados, no son más favorables para el fabricante, el importador o el representante autorizado que los resultados de las correspondientes mediciones realizadas con arreglo al punto 2, letra g) de ese anexo, 
+ ii) 
+ los valores declarados cumplen cualquiera de los requisitos establecidos en el presente Reglamento, y ninguna información exigida sobre el producto publicada por el fabricante, el importador o el representante autorizado contiene valores más favorables para el fabricante o el importador que los valores declarados, 
+ iii) 
+ cuando las autoridades de un Estado miembro comprueben la unidad del modelo, cualquier sistema de actualización del software que haya sido instalado por el fabricante, importador o representante autorizado cumple los requisitos establecidos en el artículo 7, 
+ iv) 
+ cuando las autoridades de un Estado miembro comprueben la unidad del modelo, este es conforme con los requisitos de los programas del punto 1, los requisitos sobre eficiencia en el uso de los recursos del punto 5, y los requisitos sobre información del punto 6 del anexo II, y 
+ v) 
+ cuando las autoridades de un Estado miembro sometan a ensayo la unidad del modelo, los valores determinados (los valores de los parámetros pertinentes medidos en ensayos y los valores calculados a partir de esas mediciones) se ajustan a: 
+ a) 
+ los criterios de validez establecidos en el cuadro 1; 
+ b) 
+ las respectivas tolerancias de verificación establecidas en el cuadro 1. 
+ 4.    
+ Si no se alcanzan los resultados a que se refiere el punto 3 letra b), incisos i), ii), iii) o iv), se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento. 
+ 5.    
+ Si no se alcanza el resultado a que se refiere el punto 3, letra b), inciso v), las autoridades del Estado miembro seleccionarán tres unidades adicionales del mismo modelo para someterlas a ensayo. Como alternativa, esas tres unidades adicionales seleccionadas podrán pertenecer a uno o varios modelos equivalentes. 
+ 6.    
+ Se considerará que el modelo y todos los modelos equivalentes no son conformes con el presente Reglamento tan pronto como el valor determinado del contenido medio de humedad final del programa eco no cumpla los criterios de validez que figuran en el cuadro 1 para una de las tres unidades adicionales mencionadas en el punto 5. En este caso, no es necesario someter a ensayo las demás unidades aún no sometidas a ensayo. El modelo se considerará conforme si el valor determinado del contenido de humedad final cumple los criterios de validez que figuran en el cuadro 1 para cada una de las tres unidades adicionales. 
+ 7.    
+ Se considerará que el modelo es conforme a los requisitos aplicables si la media aritmética de los valores determinados correspondientes a las tres unidades mencionadas en el punto 5 cumple las respectivas tolerancias de verificación indicadas en el cuadro 1. 
+ 8.    
+ Si no se alcanza el resultado a que se refiere el punto 7, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento. 
+ 9.    
+ Inmediatamente después de la adopción de la decisión de no conformidad del modelo con arreglo a los puntos 2, 4, 6 u 8, las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión. 
+ 10.    
+ Las autoridades de los Estados miembros utilizarán los métodos de medición y cálculo establecidos en el anexo III. 
+ 11.    
+ Las autoridades de los Estados miembros aplicarán únicamente los criterios de validez y las tolerancias de verificación establecidos en el cuadro 1 y solo utilizarán el procedimiento descrito en los puntos 3 a 8 en lo que concierne a los requisitos contemplados en el presente anexo. En lo que se refiere a los parámetros del cuadro 1, no se aplicarán otros criterios de validez ni otras tolerancias de verificación, tales como las establecidas en las normas armonizadas o en cualquier otro método de medición. 
+ Cuadro 1 
+ Tolerancias de verificación y criterios de validez 
+ Parámetro 
+ Criterios de validez 
+ Contenido medio de humedad final del programa eco μ t 
+ El valor determinado se medirá y calculará y será inferior al 1,5 %. 
+ Parámetro 
+ Tolerancias de verificación 
+ E dry y E dry½ 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de E dry y E dry½ en más del 6 %. 
+ Eg dry y Eg dry½ 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de Eg dry y Eg dry½ en más del 6 %. 
+ Eg dry,a y Eg dry½,a 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de Eg dry,a y Eg dry½,a en más del 6 %. 
+ C t 
+ El valor determinado  ( *1 ) no podrá ser inferior al valor declarado de C t en más del 6 %. 
+ T dry y T dry½ 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de T dry y T dry½ en más del 6 %. 
+ P o 
+ El valor determinado  ( *1 ) del P o no podrá superar el valor declarado en más de 0,10 W. 
+ P sm 
+ El valor determinado  ( *1 ) del P sm no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ P ds 
+ El valor determinado  ( *1 ) del P ds no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Ruido acústico aéreo emitido 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado en más de 2 dB con respecto a 1 pW. 
+ ( *1 )   Si se someten tres unidades adicionales a ensayo conforme a lo dispuesto en el punto 5, por «valor determinado» se entenderá la media aritmética de los valores determinados para esas tres unidades adicionales. 
+ ANEXO V 
+ VALORES DE REFERENCIA 
+ En el momento de la entrada en vigor del presente Reglamento, la mejor tecnología disponible en el mercado para las secadoras de tambor domésticas es la siguiente: 
+ 1) 
+ secadora de tambor de condensación con elemento calentador y con una capacidad asignada de 7 kg: 
+ a) 
+ consumo de energía: 2,73 kWh/ciclo de secado para el programa eco (*); 
+ b) 
+ duración del ciclo de secado: 76 minutos para el programa eco (*); 
+ c) 
+ ruido acústico aéreo emitido: 63 dB(A); 
+ 2) 
+ secadora de tambor con bomba de calor y con una capacidad asignada de 7 kg: 
+ a) 
+ consumo de energía: 0,85 kWh/ciclo de secado para el programa eco (*); 
+ b) 
+ duración del ciclo de secado: 134 minutos para el programa eco (*); 
+ c) 
+ ruido acústico aéreo emitido: 66 dB(A); 
+ 3) 
+ secadora de tambor de ventilación con una capacidad asignada de 7 kg: 
+ a) 
+ consumo de energía: 2,58 kWh/ciclo de secado para el programa eco (*); 
+ b) 
+ duración del ciclo de secado: 76 minutos para el programa eco (*); 
+ c) 
+ ruido acústico aéreo emitido: 69 dB(A). 
+ (*) 
+ Calculado sobre la base de una media ponderada entre la carga completa y la carga parcial, multiplicando la primera por 0,24 y la segunda por 0,76. 
+ ANEXO VI 
+ SECADORAS DOMÉSTICAS CON MÁS DE UN TAMBOR 
+ En el caso de las secadoras domésticas con más de un tambor, las disposiciones de los puntos 1 a 4 del anexo II, que siguen los métodos de medición y cálculo establecidos en el anexo III, serán aplicables a todos los tambores. Las disposiciones del punto 5 del anexo II serán aplicables a las secadoras domésticas con más de un tambor en su conjunto. Las disposiciones del punto 6 del anexo II serán aplicables a cada tambor o a las secadoras domésticas con más de un tambor en su conjunto, según proceda. Las disposiciones de los puntos 1 a 4 del anexo II serán aplicables a cada uno de los tambores de forma independiente, salvo si los tambores están montados en la misma carcasa y en el programa eco solo pueden funcionar simultáneamente. En este último caso, estas disposiciones serán aplicables a la secadora doméstica con más de un tambor en su conjunto, según se indica a continuación: 
+ a) 
+ la capacidad asignada de la secadora doméstica con más de un tambor será la suma de las capacidades asignadas de cada tambor; 
+ b) 
+ el consumo de energía de la secadora doméstica con más de un tambor será la suma del consumo de energía de cada tambor; 
+ c) 
+ el índice de eficiencia energética se calculará utilizando la capacidad asignada y el consumo de energía de toda la secadora doméstica con más de un tambor; 
+ d) 
+ la duración del programa será la duración del programa eco del tambor con la mayor capacidad asignada; 
+ e) 
+ los requisitos relativos a los modos de bajo consumo serán aplicables a toda la secadora doméstica con más de un tambor; 
+ f) 
+ el ruido acústico aéreo emitido será el de toda la secadora doméstica con más de un tambor. 
+ El procedimiento de verificación que se expone en el anexo IV será aplicable a las secadoras domésticas con más de un tambor en su conjunto, con los criterios de validez y las tolerancias de verificación aplicables a cada uno de los parámetros determinados en aplicación del presente anexo. 
+ ELI: http://data.europa.eu/eli/reg/2023/2533/oj 
+ ISSN 1977-0685 (electronic edition) 
+ 

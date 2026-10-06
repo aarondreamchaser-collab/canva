@@ -1,0 +1,576 @@
+{
+ "lavadora_frecuencia": {
+  "headers": [
+   "Uso",
+   "Energía al mes",
+   "Coste al mes",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "3 lavados a la semana",
+    "10,4 kWh",
+    "1,72 €",
+    "20,65 €"
+   ],
+   [
+    "5 lavados a la semana",
+    "17,4 kWh",
+    "2,87 €",
+    "34,41 €"
+   ],
+   [
+    "7 lavados a la semana",
+    "24,3 kWh",
+    "4,01 €",
+    "48,18 €"
+   ]
+  ]
+ },
+ "lavadora_etiqueta": {
+  "headers": [
+   "Lo que pone la etiqueta",
+   "Energía por lavado",
+   "Coste por lavado",
+   "Coste de 100 ciclos",
+   "Coste al año (12 al mes)"
+  ],
+  "rows": [
+   [
+    "40 kWh/100 ciclos",
+    "0,40 kWh",
+    "0,07 €",
+    "6,60 €",
+    "9,50 €"
+   ],
+   [
+    "50 kWh/100 ciclos",
+    "0,50 kWh",
+    "0,08 €",
+    "8,25 €",
+    "11,88 €"
+   ],
+   [
+    "60 kWh/100 ciclos",
+    "0,60 kWh",
+    "0,10 €",
+    "9,90 €",
+    "14,26 €"
+   ],
+   [
+    "70 kWh/100 ciclos",
+    "0,70 kWh",
+    "0,12 €",
+    "11,55 €",
+    "16,63 €"
+   ],
+   [
+    "80 kWh/100 ciclos",
+    "0,80 kWh",
+    "0,13 €",
+    "13,20 €",
+    "19,01 €"
+   ]
+  ]
+ },
+ "lavadora_clases": {
+  "headers": [
+   "Clase",
+   "Índice de eficiencia energética",
+   "¿Se puede vender nueva?"
+  ],
+  "rows": [
+   [
+    "A",
+    "52 o menos",
+    "Sí"
+   ],
+   [
+    "B",
+    "Más de 52 y hasta 60",
+    "Sí"
+   ],
+   [
+    "C",
+    "Más de 60 y hasta 69",
+    "Sí"
+   ],
+   [
+    "D",
+    "Más de 69 y hasta 80",
+    "Sí"
+   ],
+   [
+    "E",
+    "Más de 80 y hasta 91",
+    "Sí, por debajo de 91"
+   ],
+   [
+    "F",
+    "Más de 91 y hasta 102",
+    "No, desde marzo de 2024 (más de 3 kg)"
+   ],
+   [
+    "G",
+    "Más de 102",
+    "No"
+   ]
+  ]
+ },
+ "lavadora_tramos": {
+  "headers": [
+   "Aparato",
+   "Energía por uso",
+   "En punta",
+   "En llano",
+   "En valle",
+   "Ahorro al mes de punta a valle (12 usos)"
+  ],
+  "rows": [
+   [
+    "Lavadora a 40 °C (800 W, 1 h)",
+    "0,80 kWh",
+    "0,19 €",
+    "0,12 €",
+    "0,08 €",
+    "1,34 €"
+   ]
+  ]
+ },
+ "secadora_tipos": {
+  "headers": [
+   "Secadora de 7 kg, programa eco",
+   "Energía por ciclo",
+   "Duración",
+   "Coste por ciclo",
+   "Coste al mes (12 ciclos)",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "De evacuación (ventilación)",
+    "2,58 kWh",
+    "76 min",
+    "0,43 €",
+    "5,11 €",
+    "61,30 €"
+   ],
+   [
+    "De condensación con resistencia",
+    "2,73 kWh",
+    "76 min",
+    "0,45 €",
+    "5,41 €",
+    "64,86 €"
+   ],
+   [
+    "Con bomba de calor",
+    "0,85 kWh",
+    "134 min",
+    "0,14 €",
+    "1,68 €",
+    "20,20 €"
+   ]
+  ]
+ },
+ "secadora_etiqueta": {
+  "headers": [
+   "Lo que pone la etiqueta",
+   "Energía por secado",
+   "Coste por secado",
+   "Coste de 100 ciclos",
+   "Coste al año (12 al mes)"
+  ],
+  "rows": [
+   [
+    "60 kWh/100 ciclos",
+    "0,60 kWh",
+    "0,10 €",
+    "9,90 €",
+    "14,26 €"
+   ],
+   [
+    "100 kWh/100 ciclos",
+    "1,00 kWh",
+    "0,17 €",
+    "16,50 €",
+    "23,76 €"
+   ],
+   [
+    "150 kWh/100 ciclos",
+    "1,50 kWh",
+    "0,25 €",
+    "24,75 €",
+    "35,64 €"
+   ],
+   [
+    "200 kWh/100 ciclos",
+    "2,00 kWh",
+    "0,33 €",
+    "33,00 €",
+    "47,52 €"
+   ],
+   [
+    "250 kWh/100 ciclos",
+    "2,50 kWh",
+    "0,41 €",
+    "41,25 €",
+    "59,40 €"
+   ]
+  ]
+ },
+ "secadora_clases": {
+  "headers": [
+   "Clase",
+   "Índice de eficiencia energética",
+   "¿Se puede vender nueva?"
+  ],
+  "rows": [
+   [
+    "A",
+    "43 o menos",
+    "Sí"
+   ],
+   [
+    "B",
+    "Más de 43 y hasta 50",
+    "Sí"
+   ],
+   [
+    "C",
+    "Más de 50 y hasta 60",
+    "Sí"
+   ],
+   [
+    "D",
+    "Más de 60 y hasta 70",
+    "Sí"
+   ],
+   [
+    "E",
+    "Más de 70 y hasta 85",
+    "Sí"
+   ],
+   [
+    "F",
+    "Más de 85 y hasta 100",
+    "No, desde julio de 2025"
+   ],
+   [
+    "G",
+    "Más de 100",
+    "No, desde julio de 2025"
+   ]
+  ]
+ },
+ "secadora_tramos": {
+  "headers": [
+   "Aparato",
+   "Energía por uso",
+   "En punta",
+   "En llano",
+   "En valle",
+   "Ahorro al mes de punta a valle (12 usos)"
+  ],
+  "rows": [
+   [
+    "Secadora de evacuación",
+    "2,58 kWh",
+    "0,62 €",
+    "0,39 €",
+    "0,26 €",
+    "4,33 €"
+   ],
+   [
+    "Secadora con bomba de calor",
+    "0,85 kWh",
+    "0,21 €",
+    "0,13 €",
+    "0,09 €",
+    "1,43 €"
+   ]
+  ]
+ },
+ "lavavajillas_frecuencia": {
+  "headers": [
+   "Uso",
+   "Energía al mes",
+   "Coste al mes",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "3 lavados a la semana",
+    "12,9 kWh",
+    "2,13 €",
+    "25,55 €"
+   ],
+   [
+    "5 lavados a la semana",
+    "21,5 kWh",
+    "3,55 €",
+    "42,59 €"
+   ],
+   [
+    "7 lavados a la semana",
+    "30,1 kWh",
+    "4,97 €",
+    "59,62 €"
+   ]
+  ]
+ },
+ "lavavajillas_etiqueta": {
+  "headers": [
+   "Lo que pone la etiqueta",
+   "Energía por lavado",
+   "Coste por lavado",
+   "Coste de 100 ciclos",
+   "Coste al año (12 al mes)"
+  ],
+  "rows": [
+   [
+    "50 kWh/100 ciclos",
+    "0,50 kWh",
+    "0,08 €",
+    "8,25 €",
+    "11,88 €"
+   ],
+   [
+    "65 kWh/100 ciclos",
+    "0,65 kWh",
+    "0,11 €",
+    "10,73 €",
+    "15,44 €"
+   ],
+   [
+    "80 kWh/100 ciclos",
+    "0,80 kWh",
+    "0,13 €",
+    "13,20 €",
+    "19,01 €"
+   ],
+   [
+    "95 kWh/100 ciclos",
+    "0,95 kWh",
+    "0,16 €",
+    "15,68 €",
+    "22,57 €"
+   ],
+   [
+    "110 kWh/100 ciclos",
+    "1,10 kWh",
+    "0,18 €",
+    "18,15 €",
+    "26,14 €"
+   ]
+  ]
+ },
+ "lavavajillas_clases": {
+  "headers": [
+   "Clase",
+   "Índice de eficiencia energética"
+  ],
+  "rows": [
+   [
+    "A",
+    "Menos de 32"
+   ],
+   [
+    "B",
+    "De 32 a menos de 38"
+   ],
+   [
+    "C",
+    "De 38 a menos de 44"
+   ],
+   [
+    "D",
+    "De 44 a menos de 50"
+   ],
+   [
+    "E",
+    "De 50 a menos de 56"
+   ],
+   [
+    "F",
+    "De 56 a menos de 62"
+   ],
+   [
+    "G",
+    "62 o más"
+   ]
+  ]
+ },
+ "lavavajillas_tramos": {
+  "headers": [
+   "Aparato",
+   "Energía por uso",
+   "En punta",
+   "En llano",
+   "En valle",
+   "Ahorro al mes de punta a valle (12 usos)"
+  ],
+  "rows": [
+   [
+    "Lavavajillas, programa eco (1.200 W, 1,5 h)",
+    "0,99 kWh",
+    "0,24 €",
+    "0,15 €",
+    "0,10 €",
+    "1,66 €"
+   ]
+  ]
+ },
+ "horno_potencias": {
+  "headers": [
+   "Potencia del horno",
+   "Coste por hora",
+   "Energía por uso (45 min)",
+   "Coste por uso",
+   "Coste al mes (12 usos)",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "2.000 W",
+    "0,20 €",
+    "0,90 kWh",
+    "0,15 €",
+    "1,78 €",
+    "21,38 €"
+   ],
+   [
+    "2.200 W",
+    "0,22 €",
+    "0,99 kWh",
+    "0,16 €",
+    "1,96 €",
+    "23,52 €"
+   ],
+   [
+    "2.500 W",
+    "0,25 €",
+    "1,13 kWh",
+    "0,19 €",
+    "2,23 €",
+    "26,73 €"
+   ],
+   [
+    "3.000 W",
+    "0,30 €",
+    "1,35 kWh",
+    "0,22 €",
+    "2,67 €",
+    "32,08 €"
+   ]
+  ]
+ },
+ "horno_minutos": {
+  "headers": [
+   "Tiempo de horno (con precalentado)",
+   "Energía",
+   "Coste"
+  ],
+  "rows": [
+   [
+    "20 min",
+    "0,44 kWh",
+    "0,07 €"
+   ],
+   [
+    "30 min",
+    "0,66 kWh",
+    "0,11 €"
+   ],
+   [
+    "40 min",
+    "0,88 kWh",
+    "0,15 €"
+   ],
+   [
+    "45 min",
+    "0,99 kWh",
+    "0,16 €"
+   ],
+   [
+    "60 min",
+    "1,32 kWh",
+    "0,22 €"
+   ],
+   [
+    "90 min",
+    "1,98 kWh",
+    "0,33 €"
+   ],
+   [
+    "120 min",
+    "2,64 kWh",
+    "0,44 €"
+   ]
+  ]
+ },
+ "horno_clases": {
+  "headers": [
+   "Clase",
+   "Índice de eficiencia energética",
+   "¿Se puede vender nuevo?"
+  ],
+  "rows": [
+   [
+    "A+++",
+    "Menos de 45",
+    "Sí"
+   ],
+   [
+    "A++",
+    "De 45 a menos de 62",
+    "Sí"
+   ],
+   [
+    "A+",
+    "De 62 a menos de 82",
+    "Sí"
+   ],
+   [
+    "A",
+    "De 82 a menos de 107",
+    "Solo por debajo de 96, desde febrero de 2019"
+   ],
+   [
+    "B",
+    "De 107 a menos de 132",
+    "No"
+   ],
+   [
+    "C",
+    "De 132 a menos de 159",
+    "No"
+   ],
+   [
+    "D",
+    "159 o más",
+    "No"
+   ]
+  ]
+ },
+ "horno_tramos": {
+  "headers": [
+   "Aparato",
+   "Energía por uso",
+   "En punta",
+   "En llano",
+   "En valle",
+   "Ahorro al mes de punta a valle (12 usos)"
+  ],
+  "rows": [
+   [
+    "Horno de 2.200 W, 45 min",
+    "0,99 kWh",
+    "0,24 €",
+    "0,15 €",
+    "0,10 €",
+    "1,66 €"
+   ]
+  ]
+ }
+}

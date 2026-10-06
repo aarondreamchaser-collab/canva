@@ -1,0 +1,273 @@
+ 
+ L_202502262ES.000101.fmx.xml 
+ Diario Oficial de la Unión Europea 
+ ES 
+ Serie L 
+ 2025/2262 
+ 20.11.2025 
+ REGLAMENTO (UE) 2025/2262 DE LA COMISIÓN
+ de 11 de noviembre de 2025
+ por el que se modifica el Reglamento (UE) 2023/826 para aclarar definiciones y algunos aspectos de las condiciones de medición y se modifica el Reglamento (UE) 2023/2533 en relación con la metodología para calcular el contenido medio de humedad final, y la identificación y disponibilidad de piezas de recambio y de información sobre reparaciones, entre otros aspectos 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Vista la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía  ( 1 ) , y en particular su artículo 15, 
+ Considerando lo siguiente: 
+ (1) 
+ La definición de «elemento de edificios accionado por motor» del anexo I del Reglamento (UE) 2023/826 de la Comisión  ( 2 ) debe modificarse para aportar claridad jurídica y permitir la armonización con los productos que se establecen en el punto 6 del anexo II como elementos de edificios accionados por motor. 
+ (2) 
+ Debe añadirse una definición del término «unidad de control» en el anexo I del Reglamento (UE) 2023/826, a fin de proporcionar seguridad jurídica en lo que respecta a los elementos de edificios accionados por motor cubiertos por dicho Reglamento. 
+ (3) 
+ En el punto 1 del anexo II del Reglamento (UE) 2023/826 figura una lista de aparatos diseñados, sometidos a ensayo y comercializados para uso doméstico a los que se aplican los requisitos de diseño ecológico pertinentes. Con el fin de garantizar la seguridad jurídica, debe especificarse en ella el tipo de molinillos a los que se hace referencia. 
+ (4) 
+ El anexo IV del Reglamento (UE) 2023/826, que establece los métodos de medición y los cálculos, debe modificarse de modo que las condiciones de medición que figuran en su letra d) se apliquen a todos los tipos de cafeteras domésticas cubiertas por dicho Reglamento, y no solo a las que se consideren equipos en red. 
+ (5) 
+ Debe aclararse el ámbito de aplicación del procedimiento descrito en la letra c) del anexo IV del Reglamento (UE) 2023/826 en relación con los métodos de medición y los cálculos. 
+ (6) 
+ Es necesario evitar prácticas que alteren ilegalmente el comportamiento de los productos para lograr un resultado más favorable. El artículo 40, apartados 1 a 4, del Reglamento (UE) 2024/1781 del Parlamento Europeo y del Consejo  ( 3 ) , que garantiza que la prevención de la elusión se aborde de manera exhaustiva, se aplica a los productos cubiertos por el Reglamento (UE) 2023/2533  ( 4 ) . Por lo tanto, el artículo 6 del Reglamento (CE) 2023/2533 resulta innecesario y debe suprimirse. 
+ (7) 
+ A fin de garantizar la seguridad jurídica, debe añadirse una definición de «contenido medio de humedad final» en el anexo I del Reglamento (UE) 2023/2533, y las definiciones relativas a los modos de bajo consumo deben armonizarse con las del Reglamento (UE) 2023/826. 
+ (8) 
+ En el punto 5.1.a) del anexo II del Reglamento (UE) 2023/2533 se establece una lista de piezas de recambio que, como mínimo, deben ponerse a disposición de los reparadores profesionales. Dicha lista constituye también la base para seleccionar las piezas prioritarias que se han incluido en el cálculo del índice de reparabilidad establecido en el Reglamento Delegado (UE) 2023/2534 de la Comisión  ( 5 ) . La lista debe modificarse para garantizar la armonización entre las piezas de recambio reguladas por el Reglamento (UE) 2023/2533 y las piezas prioritarias reguladas por el Reglamento Delegado (UE) 2023/2534. Esto incluye modificar el nombre por el que se designan algunas piezas de recambio y añadir una nueva pieza de recambio que es relevante para el cálculo del índice de reparabilidad. 
+ (9) 
+ El punto 5.1.b) del anexo II del Reglamento (UE) 2023/2533 debe modificarse para que la información sobre reparaciones relativa a las piezas de recambio cuya disponibilidad se limite a los reparadores profesionales no esté disponible para el público general a través de un sitio web de libre acceso. 
+ (10) 
+ El punto 5.1.e) del anexo II del Reglamento (UE) 2023/2533 exige que las piezas de recambio puedan sustituirse empleando herramientas corrientes. El término «herramientas corrientes» es ambiguo y no ofrece una idea precisa de las herramientas en cuestión. Además, la fórmula para calcular el índice de reparabilidad que se establece en el Reglamento Delegado (UE) 2023/2534 incluye un criterio de puntuación relativo al tipo de herramientas utilizadas para el desmontaje de una pieza prioritaria específica, en el que la puntuación depende de si las herramientas son herramientas básicas, herramientas suministradas con las piezas de recambio o herramientas disponibles en el mercado. Con vistas a garantizar la coherencia entre ambos Reglamentos, el término «herramientas corrientes» del Reglamento (UE) 2023/2533 debe sustituirse y ajustarse a la terminología empleada en el Reglamento Delegado (UE) 2023/2534, cuando proceda. Por consiguiente, deben introducirse definiciones de «herramientas disponibles en el mercado», «herramientas básicas» y «herramientas protegidas por derechos». 
+ (11) 
+ El punto 6.2 del anexo II del Reglamento (UE) 2023/2533 debe modificarse para aclarar los valores que han de facilitar los fabricantes, importadores o representantes autorizados para los diferentes parámetros del programa eco y para otros programas, cuando estén disponibles. 
+ (12) 
+ El punto 1, letra f), del anexo III del Reglamento (UE) 2023/2533 impone a los fabricantes e importadores la obligación de declarar el contenido medio de humedad final del programa eco. El hecho de declarar en la documentación técnica un contenido de humedad final de la carga del 0 %, que es el valor que se exige en dicho Reglamento, podría implicar un secado de la ropa por encima de su contenido natural de agua, lo que podría conllevar efectos no deseados, como un consumo excesivo de energía o posibles daños de los tejidos. Por consiguiente, es necesario eliminar el contenido medio de humedad final de los requisitos de información que figuran en el anexo II y de los métodos de cálculo y medición que se establecen en el anexo III. En su lugar, este parámetro debe calcularse empleando los métodos de medición y cálculo incluidos en las normas armonizadas, que prevén tolerancias adecuadas. 
+ (13) 
+ El contenido del cuadro 1 del anexo IV debe dividirse en dos cuadros diferentes en aras de la claridad. 
+ (14) 
+ Las medidas establecidas en el presente Reglamento se ajustan al dictamen del Comité creado en virtud del artículo 19 de la Directiva 2009/125/CE. 
+ (15) 
+ Procede, por tanto, modificar los Reglamentos (UE) 2023/826 y (UE) 2023/2533 en consecuencia. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Modificaciones del Reglamento (UE) 2023/826 
+ Los anexos I, II y IV del Reglamento (UE) 2023/826 quedan modificados con arreglo a lo dispuesto en el anexo del presente Reglamento. 
+ Artículo 2 
+ Modificaciones del Reglamento (UE) 2023/2533 
+ El Reglamento (UE) 2023/2533 se modifica como sigue: 
+ 1) 
+ Se suprime el artículo 6. 
+ 2) 
+ El artículo 13, relativo a la entrada en vigor y la aplicación, se sustituye por el texto siguiente: 
+ «El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea . 
+ Será aplicable a partir del 1 de julio de 2025. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.»
+ 3) 
+ Los anexos I, II, III y IV quedan modificados con arreglo a lo dispuesto en el anexo del presente Reglamento. 
+ Artículo 3 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor a los cuatro días de su publicación en el Diario Oficial de la Unión Europea . 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 11 de noviembre de 2025. 
+ Por la Comisión 
+ La Presidenta 
+ Ursula VON DER LEYEN
+ ( 1 )   
+ DO L 285 de 31.10.2009, p. 10 ., ELI: http://data.europa.eu/eli/dir/2009/125/oj . 
+ ( 2 )   Reglamento (UE) 2023/826 de la Comisión, de 17 de abril de 2023, por el que se establecen requisitos de diseño ecológico aplicables al consumo de energía en los modos desactivado y preparado, así como en el modo preparado en red, de los equipos eléctricos y electrónicos domésticos y de oficina con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo y se derogan los Reglamentos (CE) n. o  1275/2008 y (CE) n. o  107/2009 de la Comisión ( DO L 103 de 18.4.2023, p. 29 , ELI: http://data.europa.eu/eli/reg/2023/826/oj ). 
+ ( 3 )   Reglamento (UE) 2024/1781 del Parlamento Europeo y del Consejo, de 13 de junio de 2024, por el que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos sostenibles, se modifican la Directiva (UE) 2020/1828 y el Reglamento (UE) 2023/1542 y se deroga la Directiva 2009/125/CE ( DO L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj ). 
+ ( 4 )   Reglamento (UE) 2023/2533 de la Comisión, de 17 de noviembre de 2023, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a las secadoras de tambor domésticas, se modifica el Reglamento (UE) 2023/826 de la Comisión y se deroga el Reglamento (UE) n. o  932/2012 de la Comisión ( DO L, 2023/2533, 22.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2533/oj ). 
+ ( 5 )   Reglamento Delegado (UE) 2023/2534 de la Comisión, de 13 de julio de 2023, por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las secadoras de tambor domésticas y se deroga el Reglamento Delegado (UE) n. o  392/2012 de la Comisión ( DO L, 2023/2534, 22.11.2023, ELI: http://data.europa.eu/eli/reg_del/2023/2534/oj ). 
+ ANEXO 
+ 1)    
+ El Reglamento (UE) 2023/826 se modifica como sigue: 
+ a) 
+ el anexo I se modifica como sigue: 
+ i) 
+ en el punto 21, la definición de «elemento de edificios accionado por motor» se sustituye por el texto siguiente: 
+ «21) 
+ “elemento de edificios accionado por motor”: un equipo de apertura o confort para su uso en edificios o estructuras conexas, excluidos los equipos de ventilación, que puede moverse o girar, o ambas cosas, utilizando energía suministrada por la red eléctrica; el elemento de edificios accionado por motor incorpora un motor eléctrico o un actuador y una unidad de control, y puede ser operado por el usuario final mediante un control o controles por cable y/o inalámbricos, a través de una red, o ser controlado automáticamente mediante el uso de sensores;»; 
+ ii) 
+ se inserta la siguiente definición después del punto 21: 
+ «22) 
+ “unidad de control”: una unidad que recibe señales del usuario final mediante un control o controles por cable y/o inalámbricos a través de una red, o que las recibe a través de sensores, y que hace posible el accionamiento requerido del motor o el actuador del elemento de edificios accionado por motor. Los sensores conectados a la unidad y que reciben alimentación del mismo punto de entrada de la red eléctrica que el resto del elemento de edificios accionado por motor se consideran parte de la unidad de control;»; 
+ b) 
+ en el punto 1 del anexo II, el octavo guion se sustituye por el siguiente texto: 
+ «— 
+ molinillos utilizados en cocina para la transformación de alimentos;»; 
+ c) 
+ el anexo IV se modifica como sigue: 
+ i) 
+ después del párrafo primero se inserta el párrafo siguiente: 
+ «En relación con todos los tipos de cafeteras domésticas, la medición se efectuará una vez finalizado el último ciclo de preparación o, en su caso, tras la finalización de un proceso de desincrustación, autolimpieza o cualquier operación realizada por el usuario, a menos que se haya disparado una alarma que exija la intervención del usuario para evitar cualquier posible daño o accidente.». 
+ ii) 
+ en la letra c), la primera frase se sustituye por el texto siguiente: «Con objeto de medir el consumo de energía en modo preparado en red para los requisitos de eficiencia energética del punto 1, letra c), del anexo III y de someter a ensayo la función de gestión del consumo se utilizará el siguiente procedimiento:»; 
+ iii) 
+ se suprime la letra d). 
+ 2)    
+ El Reglamento (UE) 2023/2533 se modifica como sigue: 
+ a) 
+ el anexo I se modifica como sigue: 
+ i) 
+ los puntos 10 y 11 se sustituyen por el texto siguiente: 
+ «10) 
+ “modo desactivado”: aquel estado en que la secadora de tambor doméstica se halla conectada a la red eléctrica y no proporciona ninguna función, o se encuentra en un estado en que solo proporciona: 
+ a) 
+ una indicación del estado de modo desactivado; 
+ b) 
+ funcionalidades destinadas a garantizar la compatibilidad electromagnética con arreglo a la Directiva 2014/30/UE del Parlamento Europeo y del Consejo  ( *1 ) ; 
+ 11) 
+ “modo preparado”: aquel estado en que la secadora de tambor doméstica se halla conectada a la red eléctrica, depende de la energía procedente de dicha red para funcionar según los fines previstos y ejecuta solamente una o más de las siguientes funciones, que se pueden prolongar por un tiempo indefinido: 
+ a) 
+ función de reactivación; 
+ b) 
+ función de reactivación y solo una indicación de la habilitación de dicha función de reactivación; 
+ c) 
+ visualización de información o del estado; 
+ ( *1 )   Directiva 2014/30/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética ( DO L 96 de 29.3.2014, p. 79 , ELI:  http://data.europa.eu/eli/dir/2014/30/oj ).»;"
+ ii) 
+ se añaden los puntos siguientes: 
+ «19) 
+ “contenido medio de humedad final”: la cantidad media de humedad contenida en la carga al finalizar los ciclos de secado para el programa eco con carga completa y a media carga; 
+ 20) 
+ “función de reactivación”: aquella función que produce un cambio del modo preparado a otro modo, incluido el modo activo, a través de un conmutador remoto, un control remoto, un sensor interno o un temporizador, proporcionando funciones adicionales; 
+ 21) 
+ “visualización de información o del estado”: una función continua que muestra información o indica el estado del equipo en una pantalla, incluidos relojes; un simple indicador luminoso no se considera una visualización del estado; 
+ 22) 
+ “modo activo”: aquel estado en que el equipo se halla conectado a la red eléctrica y se ha activado al menos una de las funciones principales; 
+ 23) 
+ “función principal”: aquella función que proporciona el servicio o servicios principales para los que ha sido diseñado, sometido a ensayo y comercializado el equipo, y que corresponde al uso previsto del equipo; 
+ 24) 
+ “herramienta disponible en el mercado”: herramienta disponible para su compra por el público general y que no es ni una herramienta básica ni una herramienta protegida por derechos; 
+ 25) 
+ “herramienta básica”: destornillador para tornillos de cabeza ranurada, con muesca cruciforme o de hueco hexalobular, llave para tornillos de cabeza hueca hexagonal, llave combinada, alicates universales, alicates universales para decapar y engastar terminales, alicates de punta redonda, alicates de corte diagonal, tenazas de abertura múltiple, alicates de bloqueo, palanca, pinzas, lupa, palanca tipo spudger y púa; 
+ 26) 
+ “herramienta protegida por derechos”: herramienta que no está disponible para la compra por el público general o con relación a la cual no existe ninguna patente aplicable para la que se pueda obtener una licencia en condiciones justas, razonables y no discriminatorias.»; 
+ b) 
+ el anexo II se modifica como sigue: 
+ i) 
+ el punto 5 se modifica como sigue: 
+ 1) 
+ el punto 1 se modifica como sigue: 
+ — 
+ la letra a) se modifica como sigue: 
+ — 
+ el inciso iii) se sustituye por el texto siguiente: 
+ «iii) 
+ bombas de agua,»; 
+ — 
+ el inciso v) se sustituye por el texto siguiente: 
+ «v) 
+ transmisiones entre el motor y el tambor, como la correa del tambor,»; 
+ — 
+ el inciso vii) se sustituye por el texto siguiente: 
+ «vii) 
+ tambores y rodamientos de tambor,»; 
+ — 
+ se añade el inciso siguiente: 
+ «xx) 
+ condensador del motor;»; 
+ — 
+ la letra b) se sustituye por el texto siguiente: 
+ «b) 
+ se garantizará la disponibilidad de las piezas de recambio a que se refiere la letra a) durante un período mínimo que comenzará a más tardar el 1 de julio de 2025 o dos años después de la introducción en el mercado de la primera unidad del modelo, si esta fecha es posterior, y terminará al menos diez años después de la introducción en el mercado de la última unidad del modelo de que se trate; a tal fin, la lista de piezas de recambio y el procedimiento para encargarlas estarán a disposición del público en el sitio web de libre acceso del fabricante, importador o representante autorizado, al menos durante el mismo período y a partir de la fecha mencionada en el presente punto;»; 
+ — 
+ la letra e) se sustituye por el texto siguiente: 
+ «e) 
+ los fabricantes o los importadores de secadoras de tambor domésticas, o sus representantes autorizados, garantizarán que las piezas de recambio a que se refieren las letras a) y c) puedan sustituirse sin herramientas o empleando herramientas que no sean herramientas protegidas por derechos, y sin que esa sustitución dañe de manera permanente la secadora de tambor doméstica;»; 
+ 2) 
+ en el punto 6, la letra a) se sustituye por el texto siguiente: 
+ «a) 
+ los fabricantes, importadores o representantes autorizados velarán por que las secadoras de tambor domésticas estén diseñadas de manera tal que se puedan extraer del aparato los materiales y componentes a que se refiere el anexo VII de la Directiva 2012/19/UE del Parlamento Europeo y del Consejo  ( *2 ) sin herramientas o empleando herramientas que no sean herramientas protegidas por derechos; 
+ ( *2 )   Directiva 2012/19/UE del Parlamento Europeo y del Consejo, de 4 de julio de 2012, sobre residuos de aparatos eléctricos y electrónicos (RAEE) ( DO L 197 de 24.7.2012, p. 38 , ELI: http://data.europa.eu/eli/dir/2012/19/oj ).»;"
+ ii) 
+ el punto 6.2 se sustituye por el texto siguiente: 
+ «2) 
+ Los valores de los parámetros siguientes: 
+ a) 
+ capacidad en kg; 
+ b) 
+ duración de los programas, expresada en horas y minutos; 
+ c) 
+ consumo de electricidad y, en su caso, de gas, en kWh/ciclo de secado; 
+ d) 
+ ruido acústico aéreo emitido por el ciclo de secado. 
+ En el caso del programa eco, los valores de los parámetros que figuran en las letras a) a c) se facilitarán tanto con carga completa como con carga parcial; el valor del parámetro que figura en la letra d) se facilitará únicamente con carga completa. 
+ En el caso de los programas distintos del programa eco, cuando estén disponibles, los valores indicativos se facilitarán del modo siguiente: 
+ a) 
+ en el caso del programa de secado de tejidos sintéticos, los valores de los parámetros que figuran en las letras a) a c) se facilitarán con carga completa; 
+ b) 
+ en el caso del programa de secado de lana o tejidos delicados, los valores de los parámetros que figuran en las letras a) a c) se facilitarán con carga completa; 
+ c) 
+ en el caso del programa de secado extra/muy seco para tejidos sintéticos, los valores de los parámetros que figuran en las letras a) a c) se facilitarán con carga completa; 
+ d) 
+ en el caso del programa de secado de tejidos sintéticos, listo para planchar, los valores de los parámetros que figuran en las letras a) a c) se facilitarán con carga completa; 
+ e) 
+ en el caso del programa de secado extra/muy seco para algodón, los valores de los parámetros que figuran en las letras a) a c) se facilitarán tanto con carga completa como con carga parcial; 
+ f) 
+ en el caso del programa de secado de algodón, listo para planchar, los valores de los parámetros que figuran en las letras a) a c) se facilitarán tanto con carga completa como con carga parcial;»; 
+ c) 
+ el anexo III se modifica como sigue: 
+ i) 
+ en la parte introductoria, los párrafos tercero y cuarto se sustituyen por el texto siguiente: 
+ «Para la medición y el cálculo del IEE, la eficiencia de la condensación, la duración del programa y el ruido acústico aéreo emitido, se utilizará el programa eco tal como pueda encontrarse en la selección del programa, en la pantalla y a través de la conexión a la red, según las funcionalidades proporcionadas por la secadora de tambor doméstica, y sin ninguna otra modificación del ajuste del contenido de humedad final. El consumo de energía, la eficiencia de la condensación y la duración del programa se medirán simultáneamente. 
+ El cálculo del consumo de energía ponderado, la duración ponderada del programa y la eficiencia de la condensación se realizará sobre la base de tres ciclos de secado con carga completa y cuatro ciclos de secado con carga parcial.»; 
+ ii) 
+ en el punto 1, se suprime la letra f), relativa al cálculo del contenido medio de humedad final; 
+ d) 
+ el anexo IV se modifica como sigue: 
+ i) 
+ los puntos 1 y 2 se sustituyen por el texto siguiente: 
+ «1) 
+ Las tolerancias de verificación definidas en el cuadro 2 se refieren únicamente a la verificación de los valores declarados por las autoridades del Estado miembro y no serán utilizadas por el fabricante, el importador o los representantes autorizados como tolerancia permitida para establecer los valores indicados en la documentación técnica o para interpretar esos valores a efectos de alcanzar la conformidad o comunicar un mejor rendimiento por cualquier medio. 
+ 2. 
+ Si un modelo no es conforme con los requisitos establecidos en el artículo 40 del Reglamento (UE) 2024/1781, se considerará que ni el modelo ni todos los modelos equivalentes son conformes.»; 
+ ii) 
+ en el punto 3, letra b), el inciso v) se sustituye por el texto siguiente: 
+ «v) 
+ cuando las autoridades de un Estado miembro sometan a ensayo la unidad del modelo, los valores determinados (los valores de los parámetros pertinentes medidos en ensayos y los valores calculados a partir de esas mediciones) se ajustan a: 
+ a) 
+ los criterios de validez establecidos en el cuadro 1; 
+ b) 
+ las respectivas tolerancias de verificación establecidas en el cuadro 2.»; 
+ iii) 
+ el punto 7 se sustituye por el texto siguiente: 
+ «7) 
+ Se considerará que el modelo es conforme a los requisitos aplicables si la media aritmética de los valores determinados correspondientes a las tres unidades mencionadas en el punto 5 cumple las respectivas tolerancias de verificación indicadas en el cuadro 2.»; 
+ iv) 
+ el punto 11 se sustituye por el texto siguiente: 
+ «11) 
+ Las autoridades de los Estados miembros aplicarán únicamente los criterios de validez establecidos en el cuadro 1 y las tolerancias de verificación indicadas en el cuadro 2 y solo utilizarán el procedimiento descrito en los puntos 3 a 8 en lo que concierne a los requisitos contemplados en el presente anexo. En lo que se refiere a los parámetros de los cuadros 1 y 2, no se aplicarán otros criterios de validez ni otras tolerancias de verificación, tales como las establecidas en las normas armonizadas o en cualquier otro método de medición.»; 
+ v) 
+ el cuadro 1 se sustituye por el siguiente: 
+ « Cuadro 1 
+ Criterios de validez 
+ Parámetro 
+ Criterios de validez 
+ Contenido medio de humedad final del programa eco μ t 
+ El valor determinado se medirá y calculará y será inferior al 1,5 %.» 
+ vi) 
+ se añade el siguiente cuadro: 
+ « Cuadro 2 
+ Tolerancias de verificación 
+ Parámetro 
+ Tolerancias de verificación 
+ E dry y E dry½ 
+ El valor determinado  ( *3 ) no podrá superar el valor declarado de E dry y E dry½ en más del 6 %. 
+ Eg dry y Eg dry½ 
+ El valor determinado  ( *3 ) no podrá superar el valor declarado de Eg dry y Eg dry½ en más del 6 %. 
+ Eg dry,a y Eg dry½,a 
+ El valor determinado  ( *3 ) no podrá superar el valor declarado de Eg dry,a y Eg dry½,a en más del 6 %. 
+ C t 
+ El valor determinado  ( *3 ) no podrá ser inferior al valor declarado de C t en más del 6 %. 
+ T dry y T dry½ 
+ El valor determinado  ( *3 ) no podrá superar el valor declarado de T dry y T dry½ en más del 6 %. 
+ P o 
+ El valor determinado  ( *3 ) del P o no podrá superar el valor declarado en más de 0,10 W. 
+ P sm 
+ El valor determinado  ( *3 ) del P sm no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ P ds 
+ El valor determinado  ( *3 ) del P ds no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Ruido acústico aéreo emitido 
+ El valor determinado  ( *3 ) no podrá superar el valor declarado en más de 2 dB con respecto a 1 pW. 
+ ( *1 )   Directiva 2014/30/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética ( DO L 96 de 29.3.2014, p. 79 , ELI:  http://data.europa.eu/eli/dir/2014/30/oj ).»; 
+ ( *2 )   Directiva 2012/19/UE del Parlamento Europeo y del Consejo, de 4 de julio de 2012, sobre residuos de aparatos eléctricos y electrónicos (RAEE) ( DO L 197 de 24.7.2012, p. 38 , ELI: http://data.europa.eu/eli/dir/2012/19/oj ).»;» 
+ ( *3 )   Si se someten tres unidades adicionales a ensayo conforme a lo dispuesto en el punto 5, por “valor determinado” se entenderá la media aritmética de los valores determinados para esas tres unidades adicionales.»
+ ELI: http://data.europa.eu/eli/reg/2025/2262/oj 
+ ISSN 1977-0685 (electronic edition) 
+ 

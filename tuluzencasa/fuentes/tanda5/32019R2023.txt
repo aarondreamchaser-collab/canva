@@ -1,0 +1,809 @@
+ 
+ L_2019315ES.01028501.xml 
+ 5.12.2019    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 315/285 
+ REGLAMENTO (UE) 2019/2023 DE LA COMISIÓN
+ de 1 de octubre de 2019
+ por el que se establecen requisitos de diseño ecológico aplicables a las lavadoras domésticas y a las lavadoras-secadoras domésticas con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo y por el que se modifica el Reglamento (CE) n. o 1275/2008 de la Comisión y se deroga el Reglamento (UE) n. o 1015/2010 de la Comisión 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el artículo 114 del Tratado de Funcionamiento de la Unión Europea, 
+ Vista la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía  ( 1 ) , y en particular su artículo 15, apartado 1, 
+ Considerando lo siguiente: 
+ (1) 
+ De conformidad con la Directiva 2009/125/CE, la Comisión debe establecer requisitos de diseño ecológico para los productos relacionados con la energía que representen un volumen significativo de ventas y comercio en la Unión, y que tengan un importante impacto medioambiental y presenten un potencial significativo de mejora a través del diseño por lo que se refiere al impacto medioambiental, sin que ello suponga costes excesivos. 
+ (2) 
+ La Comunicación COM(2016) 773 (plan de trabajo sobre diseño ecológico)  ( 2 ) , elaborada por la Comisión en aplicación del artículo 16, apartado 1, de la Directiva 2009/125/CE, establece las prioridades de trabajo dentro del marco sobre diseño ecológico y etiquetado energético para el período 2016-2019. En el plan de trabajo se señalan los grupos de productos relacionados con la energía que deben considerarse prioritarios para la realización de estudios preparatorios y la posible adopción de medidas de ejecución, y se planifica la revisión del Reglamento (UE) n. o 1015/2010 de la Comisión  ( 3 ) , el Reglamento Delegado (UE) n. o 1061/2010 de la Comisión  ( 4 ) y la Directiva 96/60/CE de la Comisión  ( 5 ) . 
+ (3) 
+ Se estima que, gracias a las medidas del plan de trabajo, se podría obtener en total un ahorro de energía final superior a 260 TWh anuales en 2030, lo cual equivale a reducir las emisiones de gases de efecto invernadero en aproximadamente 100 millones de toneladas anuales en 2030. Las lavadoras domésticas y las lavadoras-secadoras domésticas forman parte de los grupos de productos recogidos en el plan de trabajo, con un ahorro anual estimado de electricidad de 2,5 TWh, lo cual conllevaría una reducción de las emisiones de GEI de 0,8 Mt equivalentes de CO 2 al año y un ahorro estimado de agua de 711 millones de m 3 en 2030. 
+ (4) 
+ La Comisión estableció requisitos de diseño ecológico aplicables a las lavadoras domésticas en el Reglamento (UE) n. o 1015/2010, y, con arreglo a este Reglamento, la Comisión debe revisarlo a la luz del progreso tecnológico. 
+ (5) 
+ La Comisión ha revisado el Reglamento (UE) n. o 1015/2010 y ha analizado los aspectos técnicos, medioambientales y económicos en relación con las lavadoras domésticas y las lavadoras-secadoras domésticas, así como el comportamiento real del consumidor. Esta revisión se ha llevado a cabo en estrecha cooperación con los interlocutores y las partes interesadas de la Unión y de terceros países. Los resultados de la revisión se hicieron públicos y fueron presentados al Foro consultivo establecido por el artículo 18 de la Directiva 2009/125/CE. 
+ (6) 
+ Del estudio de revisión se desprende que es necesario revisar los requisitos de diseño ecológico aplicables a las lavadoras domésticas y establecer requisitos de diseño ecológico para las lavadoras-secadoras domésticas. Los requisitos están relacionados con el uso de recursos fundamentales como la energía y el agua. Asimismo, es preciso introducir requisitos relativos a la eficiencia en el uso de los recursos, como la reparabilidad y la reciclabilidad. 
+ (7) 
+ Los aspectos medioambientales de las lavadoras domésticas y de las lavadoras-secadoras domésticas que han sido identificados como significativos a efectos del presente Reglamento son el consumo de energía y agua durante la fase de uso, la generación de residuos al final de la vida útil, y las emisiones a la atmósfera y al agua en la fase de producción (debido a la extracción y a la transformación de materias primas) y en la fase de uso (debido al consumo de electricidad y al vertido de aguas). 
+ (8) 
+ En 2015, el consumo anual de energía y agua en la Unión de los productos contemplados en el presente Reglamento se estimó en 35,3 TWh y 2 496 millones de m 3 , respectivamente. En una hipótesis de statu quo , se prevé que en 2030 el consumo de electricidad de las lavadoras domésticas y las lavadoras-secadoras domésticas descienda hasta los 33,5 TWh y el consumo de agua, hasta los 1 764 millones de m 3 . Esta reducción del consumo de energía y agua puede verse acelerada si se actualizan los requisitos de diseño ecológico vigentes. Por último, se estima que en los últimos años la vida útil de las lavadoras domésticas y de las lavadoras-secadoras domésticas se ha reducido a unos 12,5 años, y es probable que, a falta de incentivos, esta tendencia se mantenga. 
+ (9) 
+ La Comunicación de la Comisión al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones COM(2015) 614 final (plan de acción para la economía circular)  ( 6 ) y la Comunicación relativa al plan de trabajo sobre diseño ecológico  ( 7 ) subrayan la importancia de usar el marco del diseño ecológico para favorecer la transición hacia una economía más eficiente en el uso de los recursos y circular. La Directiva 2012/19/UE del Parlamento Europeo y del Consejo  ( 8 ) hace referencia a la Directiva 2009/125/CE e indica que los requisitos de diseño ecológico deben facilitar la reutilización, el desarmado y la valorización de los residuos de aparatos eléctricos y electrónicos (RAEE) abordando estas cuestiones desde las primeras fases. Por tanto, el presente Reglamento ha de establecer requisitos apropiados que contribuyan a los objetivos de la economía circular. 
+ (10) 
+ Las lavadoras no domésticas y las lavadoras-secadoras no domésticas tienen usos y características diferentes. Están sujetas a otros actos normativos, en particular la Directiva 2006/42/CE del Parlamento Europeo y del Consejo  ( 9 ) , y no deben incluirse en el ámbito de aplicación del presente Reglamento. Es preciso que las disposiciones relativas a las lavadoras domésticas y las lavadoras-secadoras domésticas se apliquen a los aparatos que tengan las mismas características técnicas, independientemente del ámbito en el que se empleen. 
+ (11) 
+ Solo se requiere que las lavadoras domésticas y las lavadoras-secadoras domésticas con más de un tambor estén sujetas a normas específicas si todos los tambores realizan la misma función. De lo contrario, cada tambor debe considerarse una lavadora doméstica o una lavadora-secadora doméstica independiente. 
+ (12) 
+ Es preciso fijar requisitos específicos para los modos de bajo consumo de las lavadoras domésticas y las lavadoras-secadoras domésticas. Los requisitos del Reglamento (CE) n. o 1275/2008 de la Comisión  ( 10 ) no han de aplicarse a los productos contemplados en el ámbito de aplicación del presente Reglamento. El Reglamento (CE) n. o 1275/2008 debe modificarse en consecuencia. 
+ (13) 
+ Los parámetros pertinentes de los productos deben medirse mediante procedimientos fiables, precisos y reproducibles. Es necesario que tales procedimientos tengan en cuenta los métodos de medición más avanzados reconocidos, incluidas, en su caso, las normas armonizadas adoptadas por las organizaciones europeas de normalización que se recogen en el anexo I del Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo  ( 11 ) . 
+ (14) 
+ Con arreglo al artículo 8 de la Directiva 2009/125/CE, el presente Reglamento debe especificar los procedimientos de evaluación de la conformidad aplicables. 
+ (15) 
+ A fin de facilitar el control de la conformidad, los fabricantes, importadores o representantes autorizados deben aportar información en la documentación técnica a la que se refieren los anexos IV y V de la Directiva 2009/125/CE, en la medida en que dicha información guarde relación con los requisitos establecidos en el presente Reglamento. 
+ (16) 
+ Cuando los parámetros de la documentación técnica, según se determinan en el presente Reglamento, sean idénticos a los parámetros de la ficha de información del producto prevista en el Reglamento Delegado (UE) 2019/2014 de la Comisión  ( 12 ) , conviene que los fabricantes, los importadores o los representantes autorizados introduzcan los datos correspondientes en la base de datos de los productos que se define en el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo  ( 13 ) y queden exentos de la obligación de transmitir tales datos a las autoridades de vigilancia del mercado como parte de la documentación técnica. 
+ (17) 
+ A fin de garantizar la efectividad y la credibilidad del Reglamento y proteger a los consumidores, no se debe permitir la introducción en el mercado de aquellos productos que automáticamente alteren su funcionamiento en condiciones de ensayo con el propósito de mejorar los parámetros declarados. 
+ (18) 
+ Además de los requisitos establecidos en el presente Reglamento, deben determinarse valores de referencia indicativos respecto de las mejores tecnologías disponibles con el objeto de garantizar la amplia disponibilidad de la información sobre el comportamiento medioambiental durante el ciclo de vida de los productos regulados por el presente Reglamento, así como el fácil acceso a dicha información, de conformidad con el anexo I, parte 3, punto 2, de la Directiva 2009/125/CE. 
+ (19) 
+ Conviene revisar el presente Reglamento con el fin de evaluar la pertinencia y la efectividad de sus disposiciones a la hora de cumplir sus objetivos. La fecha de la revisión ha de fijarse dejando el tiempo suficiente para poder aplicar la totalidad de las disposiciones del Reglamento y que estas produzcan efectos en el mercado. 
+ (20) 
+ Debe derogarse el Reglamento (UE) n. o 1015/2010. 
+ (21) 
+ Con miras a facilitar la transición entre el Reglamento (UE) n. o 1015/2010 y el presente Reglamento, se ha de permitir el uso de la nueva denominación «eco 40-60» a partir de la entrada en vigor del presente Reglamento. 
+ (22) 
+ Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité establecido por el artículo 19 de la Directiva 2009/125/CE. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece los requisitos de diseño ecológico aplicables a efectos de la introducción en el mercado o la puesta en servicio de lavadoras domésticas y lavadoras-secadoras domésticas conectadas a la red eléctrica, incluidas aquellas que sean encastrables, así como aquellas conectadas a la red eléctrica que pueden funcionar también con baterías. 
+ 2.   El presente Reglamento no se aplicará a los siguientes productos: 
+ a) 
+ lavadoras y lavadoras-secadoras que pertenecen al ámbito de aplicación de la Directiva 2006/42/CE; 
+ b) 
+ lavadoras domésticas y lavadoras-secadoras domésticas alimentadas por baterías que pueden conectarse a la red eléctrica mediante un transformador CA/CC adquirido por separado. 
+ 3.   Los requisitos del anexo II, puntos 1 a 6 y punto 9, apartado 1, letras a) y c), y apartado 2, incisos i) y vii), no se aplicarán a los aparatos siguientes: 
+ a) 
+ lavadoras domésticas con una capacidad asignada inferior a 2 kg; 
+ b) 
+ lavadoras-secadoras domésticas con una capacidad de lavado asignada inferior a 2 kg. 
+ Artículo 2 
+ Definiciones 
+ A efectos del presente Reglamento, se entenderá por: 
+ 1) 
+ «red eléctrica»: un suministro eléctrico procedente de la red de 230 (± 10 %) voltios de corriente alterna a 50 Hz; 
+ 2) 
+ «lavadora automática», una lavadora que realiza todo el tratamiento de la carga sin necesidad de que el usuario intervenga en ninguna fase del programa; 
+ 3) 
+ «lavadora doméstica»: una lavadora automática que lava y aclara la ropa del hogar utilizando agua y procedimientos químicos, mecánicos y térmicos, que tiene también una función de centrifugado, y que, según la declaración de conformidad emitida por su fabricante, se ajusta a la Directiva 2014/35/UE del Parlamento Europeo y del Consejo  ( 14 ) o a la Directiva 2014/53/UE del Parlamento Europeo y del Consejo  ( 15 ) . 
+ 4) 
+ «lavadora-secadora doméstica», una lavadora doméstica que, además de realizar las funciones de una lavadora automática, en el mismo tambor incluye un sistema para secar los tejidos mediante aire caliente y giro del tambor, y respecto de la que el fabricante declara, a través de la declaración de conformidad, que se ajusta a lo dispuesto en la Directiva 2014/35/UE o la Directiva 2014/53/UE; 
+ 5) 
+ «lavadora doméstica encastrable»: una lavadora doméstica diseñada, ensayada y comercializada exclusivamente: 
+ a) 
+ para ser instalada en un mueble o revestida de paneles (por arriba y/o abajo y por los lados); 
+ b) 
+ para estar fijada sólidamente al mueble o los paneles por los lados, por arriba o por el suelo; y 
+ c) 
+ para ir equipada con una cobertura frontal integral de fábrica o con un panel frontal a medida; 
+ 6) 
+ «lavadora-secadora doméstica encastrable»: una lavadora-secadora doméstica diseñada, ensayada y comercializada exclusivamente: 
+ a) 
+ para ser instalada en un mueble o revestida de paneles (por arriba y/o abajo y por los lados); 
+ b) 
+ para estar fijada sólidamente al mueble o los paneles por los lados, por arriba o por el suelo; y 
+ c) 
+ para ir equipada con una cobertura frontal integral de fábrica o con un panel frontal a medida; 
+ 7) 
+ «lavadora doméstica con más de un tambor»: una lavadora doméstica equipada con más de un tambor, ya sea en unidades separadas o en la misma carcasa; 
+ 8) 
+ «lavadora-secadora doméstica con más de un tambor»: una lavadora-secadora doméstica equipada con más de un tambor, ya sea en unidades separadas o en la misma carcasa; 
+ 9) 
+ «modelo equivalente»: un modelo que posee las mismas características técnicas pertinentes para la información técnica que debe proporcionarse, pero que es introducido en el mercado o puesto en servicio por el mismo fabricante, importador o representante autorizado como un modelo distinto con un identificador del modelo diferente; 
+ 10) 
+ «identificador del modelo»: un código, por lo general alfanumérico, que distingue un modelo de producto específico de otros modelos con la misma marca o el mismo nombre de fabricante, de importador o de representante autorizado; 
+ 11) 
+ «base de datos de los productos»: una recopilación de datos relativos a los productos dispuestos de manera sistemática y que consta de una parte pública orientada al consumidor, en la que la información relativa a los parámetros de cada producto es accesible por medios electrónicos, un portal en línea para la accesibilidad y una parte de cumplimiento, con unos requisitos de accesibilidad y de seguridad especificados claramente, tal como establece el Reglamento (UE) 2017/1369; 
+ 12) 
+ «eco 40-60»: el nombre del programa que, según declaran el fabricante, el importador o el representante autorizado, permite limpiar, juntas en el mismo ciclo de lavado, prendas de algodón lavables a 40 °C o a 60 °C con un grado de suciedad normal, y al que se refieren los requisitos de diseño ecológico en materia de eficiencia energética, eficiencia del lavado, eficacia del aclarado, duración de programa y consumo de agua; 
+ 13) 
+ «programa»: una serie de operaciones predefinidas que, según declaran el fabricante, el importador o el representante autorizado, es adecuada para el lavado, el secado o el lavado y el secado de forma continuada de determinados tipos de tejidos; 
+ 14) 
+ «ciclo de lavado»: un proceso completo de lavado, definido por el programa seleccionado, consistente en una serie de operaciones como el lavado, el aclarado y el centrifugado. 
+ A efecto de los anexos, figuran en el anexo I definiciones adicionales. 
+ Artículo 3 
+ Requisitos de diseño ecológico 
+ Los requisitos de diseño ecológico que se establecen en el anexo II y el anexo VI serán aplicables a partir de las fechas que en ellos se indican. 
+ Artículo 4 
+ Evaluación de la conformidad 
+ 1.   El procedimiento de evaluación de la conformidad mencionado en el artículo 8 de la Directiva 2009/125/CE será el sistema de control interno del diseño que figura en el anexo IV de la citada Directiva o el sistema de gestión descrito en su anexo V. 
+ 2.   A efectos de la evaluación de la conformidad con arreglo al artículo 8 de la Directiva 2009/125/CE, la documentación técnica contendrá los valores declarados de los parámetros enumerados en el anexo II, puntos 3 a 7, y los detalles y resultados de los cálculos efectuados de conformidad con el anexo III. 
+ 3.   Si la información incluida en la documentación técnica de un modelo particular se ha obtenido: 
+ a) 
+ a partir de un modelo que posee las mismas características técnicas pertinentes para la información técnica que debe proporcionarse, pero que es producido por un fabricante diferente, o 
+ b) 
+ mediante cálculo sobre la base del diseño o por extrapolación de otro modelo del mismo o de otro fabricante, o de ambas formas, 
+ la documentación técnica contendrá los detalles de tales cálculos, la evaluación efectuada por el fabricante para verificar la exactitud de los cálculos y, en su caso, la declaración de identidad entre los modelos de diferentes fabricantes. 
+ La documentación técnica incluirá una lista de todos los modelos equivalentes, incluyendo los identificadores de modelo. 
+ 4.   La documentación técnica incluirá, en el mismo orden, la información establecida en el anexo VI del Reglamento Delegado (UE) 2019/2014. A efectos de la vigilancia del mercado, los fabricantes, los importadores o sus representantes autorizados podrán, sin perjuicio de lo dispuesto en el anexo IV, punto 2, letra g), de la Directiva 2009/125/CE, hacer referencia a la documentación técnica cargada en la base de datos de los productos que contiene la misma información establecida en el Reglamento Delegado (UE) 2019/2014. 
+ Artículo 5 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Las autoridades de los Estados miembros aplicarán el procedimiento de verificación establecido en el anexo IV cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE. 
+ Artículo 6 
+ Elusión 
+ El fabricante, el importador o su representante autorizado no introducirán en el mercado productos que hayan sido diseñados para poder detectar que son objeto de ensayo (por ejemplo, reconociendo las condiciones de ensayo o el ciclo de ensayo) y reaccionar específicamente con una alteración automática de su comportamiento durante el ensayo con el objetivo de alcanzar un nivel más favorable en cualquiera de los parámetros declarados por el fabricante, el importador o su representante autorizado en la documentación técnica o incluidos en cualquiera de los documentos facilitados. 
+ El consumo de energía y agua del producto, y cualquier otro de los parámetros declarados, medido con la misma norma de ensayo utilizada originalmente para la declaración de conformidad, no empeorarán tras una actualización del software o del firmware , excepto con el consentimiento expreso del usuario final antes de la actualización. No se producirá ninguna alteración del rendimiento como consecuencia del rechazo de la actualización. 
+ Artículo 7 
+ Parámetros de referencia indicativos 
+ En el anexo V se establecen los parámetros de referencia indicativos respecto de los productos o las tecnologías más eficaces disponibles en el mercado en el momento de la adopción del presente Reglamento. 
+ Artículo 8 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso tecnológico y presentará los resultados de dicha evaluación, incluido, en su caso, un proyecto de propuesta de revisión, al Foro consultivo a más tardar el 25 de diciembre de 2025. 
+ La revisión se centrará particularmente en lo siguiente: 
+ a) 
+ el potencial de mejora con respecto al rendimiento energético y medioambiental de las lavadoras domésticas y las lavadoras-secadoras domésticas; 
+ b) 
+ la evolución del comportamiento de los consumidores y la viabilidad de un mecanismo obligatorio de transmisión de información acerca de la carga del aparato y el consumo de energía del programa seleccionado; 
+ c) 
+ la efectividad de los requisitos vigentes sobre eficiencia de los materiales; 
+ d) 
+ la idoneidad de establecer requisitos adicionales sobre eficiencia en el uso de los recursos para los productos, de conformidad con los objetivos de la economía circular, así como la conveniencia de incluir más piezas de recambio; 
+ e) 
+ la viabilidad y la idoneidad de introducir nuevos requisitos sobre dosificación automática de detergentes y otros aditivos; 
+ f) 
+ la viabilidad y la idoneidad de introducir nuevos requisitos destinados a reducir la presencia de microplásticos en el sistema de desagüe, como el uso de filtros. 
+ Artículo 9 
+ Modificación del Reglamento (CE) n. o 1275/2008 
+ En el anexo I, punto 1, del Reglamento (CE) n. o 1275/2008: 
+ — 
+ se suprime la entrada «Lavadoras», 
+ — 
+ la entrada «Otros aparatos para la cocción y preparación de alimentos, el lavado y cuidado de la ropa» se sustituye por «Otros aparatos para la cocción u otro tipo de preparación de los alimentos, el lavado y el cuidado de la ropa, a excepción de las lavadoras domésticas y las lavadoras-secadoras domésticas». 
+ Artículo 10 
+ Derogación 
+ El Reglamento (UE) n. o 1015/2010 queda derogado a partir del 1 de marzo de 2021. 
+ Artículo 11 
+ Medidas transitorias 
+ No obstante lo dispuesto en el anexo I, punto 1, del Reglamento (UE) n. o 1015/2010, desde el 25 de diciembre de 2019 hasta el 28 de febrero de 2021, no será necesario que las indicaciones de «programa normal de algodón a 60 °C» y «programa normal de algodón a 40 °C» se muestren en el dispositivo de selección de programas o en el panel de visualización de las lavadoras domésticas si se cumplen las siguientes condiciones: 
+ — 
+ el «programa normal de algodón a 60 °C» y el «programa normal de algodón a 40 °C» son claramente identificables en el manual de instrucciones y en la documentación técnica, en el sentido del artículo 4, apartado 2, del Reglamento (UE) n. o 1015/2010, y 
+ — 
+ el programa «eco 40-60» se muestra claramente en el dispositivo de selección de programas o en el panel de visualización de las lavadoras domésticas, de conformidad con el anexo II, punto 1, apartado 3, del presente Reglamento. 
+ Artículo 12 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea . 
+ Será aplicable a partir del 1 de marzo de 2021. No obstante, el artículo 6, párrafo primero, y el artículo 11 se aplicarán a partir del 25 de diciembre de 2019. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 1 de octubre de 2019. 
+ Por la Comisión 
+ El Presidente 
+ Jean-Claude JUNCKER
+ ( 1 )   
+ DO L 285 de 31.10.2009, p. 10 . 
+ ( 2 )   Comunicación de la Comisión. Plan de trabajo sobre diseño ecológico 2016-2019, COM(2016) 773 final, de 30.11.2016. 
+ ( 3 )   Reglamento (UE) n. o 1015/2010 de la Comisión, de 10 de noviembre de 2010, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo respecto de los requisitos de diseño ecológico aplicables a las lavadoras domésticas ( DO L 293 de 11.11.2010, p. 21 ). 
+ ( 4 )   Reglamento Delegado (UE) n. o 1061/2010 de la Comisión, de 28 de septiembre de 2010, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo que respecta al etiquetado energético de las lavadoras domésticas ( DO L 314 de 30.11.2010, p. 47 ). 
+ ( 5 )   Directiva 96/60/CE de la Comisión, de 19 de septiembre de 1996, por la que se establecen disposiciones de aplicación de la Directiva 92/75/CEE del Consejo en lo que respecta al etiquetado energético de las lavadoras-secadoras combinadas domésticas ( DO L 266 de 18.10.1996, p. 1 ). 
+ ( 6 )   Comunicación de la Comisión al Parlamento Europeo, al Consejo, al Comité Económico y Social Europeo y al Comité de las Regiones titulada «Cerrar el círculo: un plan de acción de la UE para la economía circular» [COM(2015) 614 final de 2.12.2015]. 
+ ( 7 )   COM(2016) 773 final de 30.11.2016. 
+ ( 8 )   Directiva 2012/19/UE del Parlamento Europeo y del Consejo, de 4 de julio de 2012, sobre residuos de aparatos eléctricos y electrónicos (RAEE) ( DO L 197 de 24.7.2012, p. 38 ). 
+ ( 9 )   Directiva 2006/42/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, relativa a las máquinas y por la que se modifica la Directiva 95/16/CE ( DO L 157 de 9.6.2006, p. 24 ). 
+ ( 10 )   Reglamento (CE) n. o 1275/2008 de la Comisión, de 17 de diciembre de 2008, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo en lo concerniente a los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos preparado y desactivado, así como en el modo preparado en red, de los equipos eléctricos y electrónicos domésticos y de oficina ( DO L 339 de 18.12.2008, p. 45 ). 
+ ( 11 )   Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea, por el que se modifican las Directivas 89/686/CEE y 93/15/CEE del Consejo y las Directivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE y 2009/105/CE del Parlamento Europeo y del Consejo y por el que se deroga la Decisión 87/95/CEE del Consejo y la Decisión n. o 1673/2006/CE del Parlamento Europeo y del Consejo ( DO L 316 de 14.11.2012, p. 12 ). 
+ ( 12 )   Reglamento Delegado (UE) 2019/2014 de la Comisión, de 11 de marzo de 2019, por el que se complementa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las lavadoras domésticas y las lavadoras-secadoras domésticas y por el que se derogan el Reglamento Delegado (UE) n. o 1061/2010 y la Directiva 96/60/CE de la Comisión (véase la página 29 del presente Diario Oficial). 
+ ( 13 )   Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo, de 4 de julio de 2017, por el que se establece un marco para el etiquetado energético y se deroga la Directiva 2010/30/UE ( DO L 198 de 28.7.2017, p. 1 ). 
+ ( 14 )   Directiva 2014/35/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de comercialización de material eléctrico destinado a utilizarse con determinados límites de tensión ( DO L 96 de 29.3.2014, p. 357 ). 
+ ( 15 )   Directiva 2014/53/UE del Parlamento Europeo y del Consejo, de 16 de abril de 2014, relativa a la armonización de las legislaciones de los Estados miembros sobre la comercialización de equipos radioeléctricos, y por la que se deroga la Directiva 1999/5/CE ( DO L 153 de 22.5.2014, p. 62 ). 
+ ANEXO I 
+ Definiciones aplicables a los anexos 
+ Se entenderá por: 
+ 1) 
+ «índice de eficiencia energética» (EEI): la relación entre el consumo ponderado de energía y el consumo normal de energía por ciclo; 
+ 2) 
+ «ciclo de secado»: un proceso completo de secado, definido por el programa prescrito, consistente en una serie de operaciones entre las que se encuentran el secado con aire caliente y el giro del tambor; 
+ 3) 
+ «ciclo completo»: un proceso de lavado y secado, consistente en un ciclo de lavado y un ciclo de secado. 
+ 4) 
+ «ciclo continuo»: un ciclo completo sin interrupción del proceso y que no requiere la intervención del usuario en ningún momento mientras dura el programa; 
+ 5) 
+ «capacidad asignada»: la masa máxima en kilogramos, indicada por el fabricante, el importador o el representante autorizado en intervalos de 0,5 kg de tejido seco de un tipo determinado, que puede tratarse en un ciclo de lavado de una lavadora doméstica o en un ciclo completo de una lavadora-secadora doméstica con el programa seleccionado, siempre que la carga se ajuste a las instrucciones del fabricante, el importador o el representante autorizado; 
+ 6) 
+ «capacidad asignada de lavado»: la masa máxima en kilogramos, indicada por el fabricante, el importador o el representante autorizado en intervalos de 0,5 kg de tejido seco de un tipo determinado, que puede tratarse en un ciclo de lavado de una lavadora doméstica o en un ciclo de lavado de una lavadora-secadora doméstica con el programa seleccionado, siempre que la carga se ajuste a las instrucciones del fabricante, el importador o el representante autorizado; 
+ 7) 
+ «capacidad asignada de secado»: la masa máxima en kilogramos, indicada por el fabricante, el importador o el representante autorizado en intervalos de 0,5 kg de tejido seco de un tipo determinado, que puede tratarse en un ciclo de secado de una lavadora-secadora doméstica con el programa seleccionado, siempre que la carga se ajuste a las instrucciones del fabricante, el importador o el representante autorizado; 
+ 8) 
+ «consumo ponderado de energía (E W )»: la media ponderada del consumo de energía del ciclo de lavado de una lavadora doméstica o una lavadora-secadora doméstica en el programa «eco 40-60» al total de la capacidad asignada de lavado, así como a la mitad y a un cuarto de la capacidad asignada de lavado, expresada en kilovatios hora por ciclo; 
+ 9) 
+ «consumo ponderado de energía (E WD )»: la media ponderada del consumo de energía de una lavadora-secadora doméstica en el ciclo de lavado y secado al total y a la mitad de la capacidad asignada de lavado, expresada en kilovatios hora por ciclo; 
+ 10) 
+ «lavado y secado»: el nombre del ciclo completo de una lavadora-secadora doméstica consistente en el programa «eco 40-60» para el ciclo de lavado y en un ciclo de secado que logra el estado de «seco para guardar»; 
+ 11) 
+ «consumo normal de energía por ciclo» (SCE): el consumo de energía tomado como referencia, en función de la capacidad asignada de una lavadora doméstica o una lavadora-secadora doméstica, expresado en kilovatios hora por ciclo; 
+ 12) 
+ «consumo ponderado de agua (W W )»: la media ponderada del consumo de agua de un ciclo de lavado de una lavadora doméstica o una lavadora-secadora doméstica en el programa «eco 40-60» al total de la capacidad asignada de lavado, así como a la mitad y a un cuarto de la capacidad asignada de lavado, expresada en litros por ciclo; 
+ 13) 
+ «consumo ponderado de agua (W WD )»: la media ponderada del consumo de agua de una lavadora-secadora doméstica en el ciclo de lavado y secado al total y a la mitad de la capacidad asignada de lavado, expresada en litros por ciclo; 
+ 14) 
+ «índice de eficiencia del lavado»: la relación entre, por una parte, la eficiencia del lavado del ciclo de lavado de una lavadora doméstica o de una lavadora-secadora doméstica (I W ), o bien del ciclo completo de una lavadora-secadora doméstica (J W ), y, por otra, la eficiencia del lavado de una lavadora doméstica de referencia; 
+ 15) 
+ «eficacia del aclarado»: la concentración del contenido residual de sulfonato de alquilbenceno lineal (LAS) en los tejidos tratados, bien después del ciclo de lavado de una lavadora doméstica o una lavadora-secadora doméstica (I R ), bien después del ciclo completo de una lavadora-secadora doméstica (J R ), expresada en gramos por kilogramo de tejido seco; 
+ 16) 
+ «contenido de humedad residual»: en el caso de las lavadoras domésticas y del ciclo de lavado de las lavadoras-secadoras domésticas, la cantidad de humedad que contiene la carga al finalizar el ciclo de lavado; 
+ 17) 
+ «contenido final de humedad»: en el caso de las lavadoras-secadoras domésticas, la cantidad de humedad que contiene la carga al finalizar el ciclo de secado; 
+ 18) 
+ «seco para guardar»: el estado de los tejidos tratados que se someten a un ciclo de secado hasta alcanzar un contenido final de humedad del 0 %; 
+ 19) 
+ «duración del programa» (t W ): el tiempo transcurrido desde el inicio del programa seleccionado, excluido cualquier aplazamiento programado por el usuario, hasta que se indica el final del programa y el usuario puede acceder a la carga; 
+ 20) 
+ «duración del ciclo» (t WD ): en el caso del ciclo completo de una lavadora-secadora doméstica, el tiempo transcurrido desde el inicio del programa seleccionado para el ciclo de lavado, excluido cualquier aplazamiento programado por el usuario, hasta que se indica el final del ciclo de secado y el usuario puede acceder a la carga; 
+ 21) 
+ «modo desactivado» (P o ): el modo en que la lavadora doméstica o la lavadora-secadora doméstica está conectada a la red eléctrica y no proporciona función alguna; también se considerarán modo desactivado los estados siguientes: 
+ a) 
+ el estado en que solo se ofrece la indicación de modo desactivado; 
+ b) 
+ el estado en que solo estén disponibles las funciones previstas a fin de garantizar la compatibilidad electromagnética con arreglo a la Directiva 2014/30/UE del Parlamento Europeo y del Consejo  ( 1 ) ; 
+ 22) 
+ «modo preparado» (P sm ): el estado en que la lavadora doméstica o la lavadora-secadora doméstica está conectada a la red eléctrica y proporciona solamente las funciones siguientes, que pueden durar un tiempo indefinido: 
+ a) 
+ función de reactivación, o bien función de reactivación y una mera indicación de que la función de reactivación está habilitada; y/o 
+ b) 
+ función de reactivación a través de la conexión a una red; y/o 
+ c) 
+ visualización de información o del estado; y/o 
+ d) 
+ función de detección para medidas de emergencia; 
+ 23) 
+ «red»: una infraestructura de comunicación con una topología de enlaces, una arquitectura, incluidos los componentes físicos, principios de organización, procedimientos y formatos de comunicación (protocolos); 
+ 24) 
+ «función de prevención de arrugas»: la operación que efectúa la lavadora doméstica o la lavadora-secadora doméstica al finalizar un programa para evitar que las prendas se arruguen en exceso; 
+ 25) 
+ «inicio aplazado» (P ds ): el estado en que el usuario ha seleccionado un momento posterior específico para el inicio o el final del ciclo del programa seleccionado; 
+ 26) 
+ «repuesto»: una pieza separada que puede servir para remplazar otra con una función idéntica o parecida en un producto; 
+ 27) 
+ «reparador profesional»: un agente o empresa que ofrece servicios de reparación y mantenimiento profesional de lavadoras domésticas o de lavadoras-secadoras domésticas; 
+ 28) 
+ «garantía»: un compromiso asumido por el vendedor o un fabricante, para con el consumidor, de: 
+ a) 
+ reembolsar el precio pagado; 
+ b) 
+ sustituir, reparar o hacerse cargo de otro modo de la lavadora doméstica o la lavadora-secadora doméstica si el aparato no satisface las especificaciones enunciadas en el documento de garantía o en la publicidad correspondiente. 
+ ( 1 )   Directiva 2014/30/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética ( DO L 96 de 29.3.2014, p. 79 ). 
+ ANEXO II 
+ Requisitos de diseño ecológico 
+ 1.   REQUISITOS DE LOS PROGRAMAS 
+ A partir del 1 de marzo de 2021, las lavadoras domésticas y las lavadoras-secadoras domésticas serán conformes con los requisitos siguientes: 
+ 1) 
+ las lavadoras domésticas y las lavadoras-secadoras domésticas dispondrán de: 
+ a) 
+ un ciclo de lavado denominado «eco 40-60», capaz de limpiar, juntas en un mismo ciclo, prendas de algodón con un grado de suciedad normal para las que se aconseja el lavado a 40 °C o a 60 °C; 
+ b) 
+ un ciclo de lavado denominado «20 °C» capaz de limpiar prendas de algodón ligeramente sucias a una temperatura nominal de 20 °C; 
+ estos ciclos serán claramente identificables en la selección de programas, en el panel de visualización y a través de la conexión de red, según las funciones que ofrezca la lavadora doméstica o la lavadora-secadora doméstica; 
+ 2) 
+ a efectos de los requisitos establecidos en el punto 3, apartados 1) y 3), el punto 4, apartados 1), 2) y 5), el punto 5 y el punto 6, apartado 1), se usará el programa «eco 40-60»; 
+ 3) 
+ el programa «eco 40-60» recibirá esta denominación en la selección de programas, en el panel de visualización y a través de la conexión de red, según las funciones que ofrezca la lavadora doméstica o la lavadora-secadora doméstica: 
+ la denominación «eco 40-60» se usará exclusivamente para este programa; no se restringe el formato de escritura de la denominación «eco 40-60» en cuanto al tipo o el tamaño de letra, el uso de mayúsculas o minúsculas, o el color; el término «eco» no podrá figurar en el nombre de ningún otro programa; 
+ el programa «eco 40-60» estará configurado como programa por defecto en la selección automática de programas o cualquier función que mantenga la selección de programas, o bien, en caso de no haber selección automática de programas, podrá seleccionarse directamente sin necesidad de seleccionar otros parámetros, como una temperatura específica o una carga; 
+ no se emplearán, en los nombres de los programas de las lavadoras domésticas o las lavadoras-secadoras domésticas, las indicaciones «normal», «diario», «habitual» o «estándar», ni sus traducciones a las distintas lenguas oficiales de la UE, ya sea de forma independiente o en combinación con otra información. 
+ 2.   CICLO DE LAVADO Y SECADO 
+ A partir del 1 de marzo de 2021, las lavadoras-secadoras domésticas serán conformes con los requisitos siguientes: 
+ 1) 
+ las lavadoras-secadoras domésticas contarán con un ciclo completo para las prendas de algodón, denominado «lavado y secado», que: 
+ — 
+ será continuo si la lavadora-secadora doméstica ofrece un ciclo continuo, 
+ — 
+ constará de un ciclo de lavado consistente en un programa «eco 40-60» según se define en el punto 1, y 
+ — 
+ constará de un ciclo de secado hasta el estado de «seco para guardar»; 
+ 2) 
+ el ciclo de lavado y secado será claramente identificable en las instrucciones de uso a que se hace referencia en el punto 9 del presente anexo; 
+ 3) 
+ si la lavadora-secadora doméstica proporciona un ciclo continuo, la capacidad asignada del ciclo de lavado y secado será la capacidad asignada para dicho ciclo; 
+ 4) 
+ si la lavadora-secadora doméstica no proporciona un ciclo continuo, la capacidad asignada del ciclo de lavado y secado será el valor que sea más bajo entre el valor de la capacidad de lavado asignada del programa «eco 40-60» y el valor de la capacidad de secado asignada del ciclo de secado que alcance el estado de «listo para guardar»; 
+ 5) 
+ a efectos de los requisitos establecidos en el punto 3, apartados 2) y 4), el punto 4, apartados 3), 4) y 6), y el punto 6, apartado 2), se usará el ciclo de lavado y secado. 
+ 3.   REQUISITOS DE EFICIENCIA ENERGÉTICA 
+ A partir del 1 de marzo de 2021, las lavadoras domésticas y las lavadoras-secadoras domésticas serán conformes con los requisitos siguientes: 
+ 1) 
+ el índice de eficiencia energética (EEI W ) de las lavadoras domésticas y del ciclo de lavado de las lavadoras-secadoras domésticas será inferior a 105; 
+ 2) 
+ el índice de eficiencia energética (EEI WD ) del ciclo de lavado y secado de las lavadoras-secadoras domésticas será inferior a 105. 
+ A partir del 1 de marzo de 2024, las lavadoras domésticas con una capacidad asignada superior a 3 kg y las lavadoras-secadoras domésticas con una capacidad asignada de lavado superior a 3 kg serán conformes con los requisitos siguientes: 
+ 3) 
+ el EEI W de las lavadoras domésticas y del ciclo de lavado de las lavadoras-secadoras domésticas será inferior a 91; 
+ 4) 
+ el EEI WD del ciclo de lavado y secado de las lavadoras-secadoras domésticas será inferior a 88. 
+ Los índices EEI W e EEI WD se calcularán de conformidad con el anexo III. 
+ 4.   REQUISITOS FUNCIONALES 
+ A partir del 1 de marzo de 2021, las lavadoras domésticas y las lavadoras-secadoras domésticas serán conformes con los requisitos siguientes: 
+ 1) 
+ en el caso de las lavadoras domésticas con una capacidad asignada superior a 3 kg y el ciclo de lavado de las lavadoras-secadoras domésticas con una capacidad asignada superior a 3 kg, el índice de eficiencia del lavado (I w ) del programa «eco 40-60» será superior a 1,03 en todos los tamaños de carga siguientes: total, mitad y un cuarto de la capacidad asignada de lavado; 
+ 2) 
+ en el caso de las lavadoras domésticas con una capacidad asignada inferior o igual a 3 kg y el ciclo de lavado de las lavadoras-secadoras domésticas con una capacidad asignada inferior o igual a 3 kg, el índice de eficiencia del lavado (I w ) del programa «eco 40-60» será superior a 1,00 cuando la carga sea del total de la capacidad asignada de lavado; 
+ 3) 
+ en el caso de las lavadoras-secadoras domésticas con una capacidad asignada superior a 3 kg, el índice de eficiencia del lavado (J w ) del ciclo de lavado y secado será superior a 1,03 cuando la carga sea del total de la capacidad asignada y de la mitad de la capacidad asignada; 
+ 4) 
+ en el caso de las lavadoras-secadoras domésticas con una capacidad asignada inferior o igual a 3 kg, el índice de eficiencia del lavado (J w ) del ciclo de lavado y secado será superior a 1,00 cuando la carga sea del total de la capacidad asignada; 
+ 5) 
+ en el caso de las lavadoras domésticas con una capacidad asignada superior a 3 kg y el ciclo de lavado de las lavadoras-secadoras domésticas con una capacidad asignada superior a 3 kg, la eficacia del aclarado (I R ) del programa «eco 40-60» será inferior o igual a 5,0 g/kg en todos los tamaños de carga siguientes: total, mitad y un cuarto de la capacidad asignada de lavado; 
+ 6) 
+ en el caso de las lavadoras-secadoras domésticas con una capacidad asignada superior a 3 kg, la eficacia del aclarado (J R ) del ciclo de lavado y secado será inferior o igual a 5,0 g/kg cuando la carga sea del total y de la mitad de la capacidad asignada. 
+ Los índices I w , J w , I R y J R se calcularán de conformidad con el anexo III. 
+ 5.   REQUISITOS RELATIVOS A LA DURACIÓN 
+ A partir del 1 de marzo de 2021, las lavadoras domésticas y las lavadoras-secadoras domésticas serán conformes con los requisitos siguientes: 
+ la duración del programa «eco 40-60» (t W ), expresada en horas y minutos y redondeada al minuto más próximo, será inferior o igual al tiempo máximo t cap , que depende de la capacidad asignada como se indica a continuación: 
+ 1) 
+ en el caso de la carga al total de la capacidad asignada de lavado, el tiempo máximo se determina mediante la ecuación siguiente: 
+ t cap (in min) =137 + c × 10,2
+ con un máximo de 240 minutos; 
+ 2) 
+ en el caso de la carga a la mitad y a un cuarto de la capacidad asignada de lavado, el tiempo máximo se determina mediante la ecuación siguiente: 
+ t cap (in min) =120 + c × 6 
+ con un máximo de 180 minutos; 
+ donde c es la capacidad asignada de la lavadora doméstica o la capacidad asignada de lavado de la lavadora-secadora doméstica en el programa «eco 40-60». 
+ 6.   REQUISITO RELATIVO AL CONSUMO PONDERADO DE AGUA 
+ A partir del 1 de marzo de 2021, las lavadoras domésticas y las lavadoras-secadoras domésticas serán conformes con los requisitos siguientes: 
+ 1) 
+ en el caso de las lavadoras domésticas y el ciclo de lavado de las lavadoras-secadoras domésticas, el consumo ponderado de agua (W W , en litros/ciclo) del programa «eco 40-60» será el siguiente: 
+ W W ≤ 2,25 × c + 30 
+ donde c es la capacidad asignada de la lavadora doméstica o la capacidad asignada de lavado de la lavadora-secadora doméstica en el programa «eco 40-60»; 
+ 2) 
+ en el caso de las lavadoras-secadoras domésticas, el consumo ponderado de agua (W WD , en litros/ciclo) del ciclo de lavado y secado será el siguiente: 
+ W WD ≤ 10 × d + 30 
+ donde d es la capacidad asignada de la lavadora-secadora doméstica en el ciclo de lavado y secado. 
+ W W y W WD se calcularán de conformidad con el anexo III. 
+ 7.   MODOS DE BAJO CONSUMO 
+ A partir del 1 de marzo de 2021, las lavadoras domésticas y las lavadoras-secadoras domésticas serán conformes con los requisitos siguientes: 
+ 1) 
+ las lavadoras domésticas y las lavadoras-secadoras domésticas contarán con un modo desactivado o un modo preparado, o ambos; el consumo eléctrico en cualquiera de estos modos no excederá de 0,50 W; 
+ 2) 
+ si el modo preparado incluye la visualización de información o del estado, el consumo eléctrico en este modo no excederá de 1,00 W; 
+ 3) 
+ si el modo preparado ofrece una conexión a una red y cuenta con el modo preparado en red, según se define en el Reglamento (UE) n. o 801/2013 de la Comisión  ( 1 ) , el consumo eléctrico en este modo no excederá de 2,00 W; 
+ 4) 
+ la lavadora doméstica o la lavadora-secadora doméstica pasará automáticamente al modo desactivado o al modo preparado si no se activa ningún otro modo, incluidas las medidas de emergencia, como máximo quince minutos después de haber encendido el aparato, haber finalizado un programa y las actividades conexas, haber interrumpido la función de prevención de arrugas o haber tenido lugar cualquier otro tipo de interacción con el aparato; 
+ 5) 
+ si la lavadora doméstica o la lavadora-secadora doméstica dispone de la función de inicio aplazado, el consumo de energía en este estado, incluido cualquier modo preparado, no excederá de 4,00 W; el usuario no tendrá la opción de programar el inicio aplazado con un lapso superior a veinticuatro horas; 
+ 6) 
+ toda lavadora doméstica y lavadora-secadora doméstica que pueda conectarse a una red dispondrá de la opción de activar y desactivar la conexión o las conexiones de red; la conexión o las conexiones de red estarán desactivadas por defecto. 
+ 8.   REQUISITOS DE EFICIENCIA EN EL USO DE LOS RECURSOS 
+ A partir del 1 de marzo de 2021, las lavadoras domésticas y las lavadoras-secadoras domésticas serán conformes con los requisitos siguientes: 
+ 1) 
+ disponibilidad de piezas de recambio: 
+ a) 
+ los fabricantes, los importadores o los representantes autorizados de lavadoras domésticas y lavadoras-secadoras domésticas pondrán a disposición de los reparadores profesionales al menos las piezas de recambio que se indican a continuación, durante un período mínimo de diez años tras la introducción en el mercado de la última unidad de un modelo: 
+ — 
+ motor y escobillas del motor, 
+ — 
+ transmisión entre el motor y el tambor, 
+ — 
+ bombas, 
+ — 
+ amortiguadores y muelles, 
+ — 
+ tambor de lavado, cruceta del tambor y sus rodamientos de bolas relacionados (por separado o en conjunto), 
+ — 
+ resistencias y elementos calentadores, incluidas las bombas de calor (por separado o en conjunto), 
+ — 
+ tubos y elementos relacionados, incluidas las distintas mangueras, las válvulas, los filtros y los sistemas antifugas (por separado o en conjunto), 
+ — 
+ circuitos impresos, 
+ — 
+ indicadores visuales electrónicos, 
+ — 
+ interruptores de presión, 
+ — 
+ termostatos y sensores, 
+ — 
+ software y firmware , incluido el software de reinicio; 
+ b) 
+ los fabricantes, los importadores o los representantes autorizados de lavadoras domésticas y lavadoras-secadoras domésticas pondrán a disposición de los reparadores profesionales y los usuarios finales al menos las piezas de recambio siguientes: puerta, bisagra y juntas de la puerta, otro tipo de juntas, montaje del cierre de la puerta y elementos auxiliares de plástico, como el distribuidor de detergente, durante un mínimo de diez años tras la introducción en el mercado de la última unidad de un modelo; 
+ c) 
+ los fabricantes, los importadores o los representantes autorizados de lavadoras domésticas y lavadoras-secadoras domésticas garantizarán que las piezas de recambio mencionadas en las letras a) y b) puedan sustituirse empleando herramientas corrientes y sin que esa sustitución dañe de manera permanente la lavadora doméstica o la lavadora-secadora doméstica; 
+ d) 
+ la lista de piezas de recambio a que se refiere la letra a) y el procedimiento para encargarlas se pondrán a disposición del público en el sitio web de libre acceso del fabricante, importador o representante autorizado, a más tardar dos años después de la introducción en el mercado de la primera unidad de un modelo y hasta el final del período de disponibilidad de estas piezas de recambio; 
+ e) 
+ la lista de piezas de recambio a que se refiere la letra b) y el procedimiento para encargarlas, así como las instrucciones de reparación, se pondrán a disposición del público en el sitio web de libre acceso del fabricante, importador o representante autorizado, cuando se introduzca en el mercado la primera unidad de un modelo y hasta el final del período de disponibilidad de estas piezas de recambio: 
+ 2) 
+ plazo máximo para la entrega de piezas de recambio: 
+ durante el período mencionado en el apartado 1), el fabricante, importador o representante autorizado garantizará la entrega de las piezas de recambio en el plazo de quince días hábiles tras la recepción de un pedido; 
+ en el caso de las piezas de recambio a que se refiere el apartado 1), letra a), su disponibilidad podrá limitarse a los reparadores profesionales registrados de conformidad con el apartado 3), letras a) y b); 
+ 3) 
+ acceso a la información sobre reparación y mantenimiento: 
+ transcurridos dos años desde la introducción en el mercado de la primera unidad de un modelo y hasta que finalice el período contemplado en el apartado 1), el fabricante, importador o representante autorizado facilitará el acceso de los reparadores profesionales a la información sobre reparación y mantenimiento de las lavadoras domésticas o las lavadoras-secadoras domésticas en las condiciones siguientes: 
+ a) 
+ el sitio web del fabricante, importador o representante autorizado indicará el proceso que deben seguir los reparadores profesionales para registrarse a fin de acceder a la información; para aceptar una solicitud de acceso de este tipo, el fabricante, importador o representante autorizado podrá exigir al reparador profesional que demuestre: 
+ i) 
+ que posee la competencia técnica necesaria para reparar lavadoras domésticas y lavadoras-secadoras domésticas y cumple la normativa aplicable a los reparadores de equipos eléctricos en el Estado miembro o los Estados miembros en los que ejerza su actividad; como prueba de cumplimiento de lo dispuesto en el presente inciso se aceptará la referencia a un sistema de registro oficial como reparador profesional cuando en el Estado miembro o los Estados miembros en cuestión exista dicho sistema, 
+ ii) 
+ que el reparador profesional está protegido por un seguro adecuado que cubre la responsabilidad resultante de su actividad, independientemente de si el Estado miembro lo exige o no; 
+ b) 
+ los fabricantes, los importadores o los representantes autorizados aceptarán o denegarán el registro en el plazo de cinco días hábiles desde la solicitud; 
+ c) 
+ los fabricantes, importadores o representantes autorizados podrán imponer cánones razonables y proporcionados para acceder a la información sobre reparación y mantenimiento o recibir actualizaciones periódicas; se entiende por canon razonable aquel que no desincentiva el acceso a la información por no tener en cuenta la medida en que el reparador profesional utiliza esa información; 
+ d) 
+ una vez registrado, el reparador profesional tendrá acceso, en el plazo de un día laborable después de su solicitud, a la información solicitada sobre la reparación y el mantenimiento; si procede, podrá proporcionarse la información relativa a un modelo equivalente o un modelo de la misma familia; 
+ e) 
+ la información sobre reparación y mantenimiento de lavadoras domésticas o lavadoras-secadoras domésticas a que se refiere la letra a) contendrá lo siguiente: 
+ — 
+ identificación inequívoca de la lavadora doméstica o la lavadora-secadora doméstica, 
+ — 
+ esquema de desmontaje o vista explosionada, 
+ — 
+ manual técnico de instrucciones para la reparación, 
+ — 
+ lista del equipo necesario para la reparación y el ensayo, 
+ — 
+ información sobre componentes y diagnóstico (por ejemplo, valores teóricos mínimos y máximos para las mediciones), 
+ — 
+ esquemas de cableado y conexiones, 
+ — 
+ códigos de error y avería para el diagnóstico (incluidos, en su caso, los códigos específicos del fabricante), 
+ — 
+ instrucciones para la instalación del software y el firmware pertinentes, incluido el software de reinicio del aparato, e 
+ — 
+ información sobre el modo de acceder a los registros de los datos relativos a los fallos notificados y almacenados en la lavadora doméstica o la lavadora-secadora doméstica (en su caso); 
+ 4) 
+ requisitos de información aplicables a los gases refrigerantes: 
+ sin perjuicio de lo dispuesto en el Reglamento (UE) n. o 517/2014 del Parlamento Europeo y del Consejo  ( 2 ) , en el caso de las lavadoras domésticas y las lavadoras-secadoras domésticas equipadas con bomba de calor, el nombre químico del gas refrigerante utilizado, o una referencia equivalente como un símbolo, una etiqueta o un logotipo de uso corriente y comprensión común, figurará de forma permanente, visible y legible en la parte exterior de las lavadoras domésticas o las lavadoras-secadoras domésticas, por ejemplo, en el panel trasero; podrá usarse más de una referencia para el mismo nombre químico; 
+ 5) 
+ requisitos aplicables al desarmado con fines de valorización y reciclado de materiales al mismo tiempo que se evita la contaminación: 
+ — 
+ los fabricantes, los importadores o los representantes autorizados velarán por que las lavadoras domésticas y las lavadoras-secadoras domésticas estén diseñadas de manera tal que se puedan extraer de ellas los materiales y componentes a que se refiere el anexo VII de la Directiva 2012/19/UE empleando herramientas corrientes; 
+ — 
+ los fabricantes, los importadores o los representantes autorizados cumplirán las obligaciones establecidas en el artículo 15, apartado 1, de la Directiva 2012/19/UE. 
+ 9.   REQUISITOS DE INFORMACIÓN 
+ A partir del 1 de marzo de 2021, las lavadoras domésticas y las lavadoras-secadoras domésticas serán conformes con los requisitos siguientes: 
+ se proporcionarán instrucciones de uso y de instalación en forma de manual de usuario a través de un sitio web de libre acceso del fabricante, importador o representante autorizado; estas instrucciones incluirán lo siguiente: 
+ 1) 
+ información de carácter general: 
+ a) 
+ información acerca de que el programa «eco 40-60» es capaz de limpiar, juntas en un mismo ciclo, prendas de algodón lavables a 40 °C o a 60 °C con un grado de suciedad normal, y que este programa se usa para evaluar la conformidad con la legislación de la UE en materia de diseño ecológico; 
+ b) 
+ información acerca de que los programas más eficientes desde el punto de vista del consumo de energía son, por lo general, aquellos que funcionan a menor temperatura y tienen mayor duración; 
+ c) 
+ en el caso de las lavadoras-secadoras domésticas: información acerca de que el ciclo de lavado y secado es capaz de limpiar, juntas en un mismo ciclo, prendas de algodón lavables a 40 °C o a 60 °C con un grado de suciedad normal y secar estas prendas de manera tal que puedan guardarse inmediatamente, así como información acerca de que este programa se usa para evaluar la conformidad con la legislación de la UE en materia de diseño ecológico; 
+ d) 
+ información acerca de que la carga de la lavadora doméstica o la lavadora-secadora doméstica hasta el máximo de la capacidad indicada por el fabricante para cada programa contribuirá al ahorro de energía y agua; 
+ e) 
+ recomendaciones sobre el tipo de detergente adecuado para cada temperatura y programa de lavado; 
+ f) 
+ información acerca de que el ruido y el contenido de humedad residual varían en función de la velocidad de centrifugado: a mayor velocidad de centrifugado en la fase de centrifugado, mayor ruido y menor contenido de humedad residual; 
+ g) 
+ información acerca del modo de activar y desactivar la conexión de red (en su caso) y cómo influye en el consumo de energía; 
+ h) 
+ instrucciones sobre cómo encontrar la información sobre el modelo en la base de datos de los productos, con arreglo a lo establecido en el Reglamento (UE) 2019/2014, con un enlace que dirija a la información sobre el modelo almacenada la propia base de datos o un enlace a la base de datos de los productos e información sobre cómo encontrar el identificador del modelo en el propio producto; 
+ 2) 
+ valores de los parámetros siguientes: 
+ a) 
+ capacidad asignada en kg; 
+ b) 
+ duración de los programas, expresada en horas y minutos; 
+ c) 
+ consumo de energía, expresado en kWh/ciclo; 
+ d) 
+ consumo de agua, expresado en litros/ciclo; 
+ e) 
+ temperatura máxima alcanzada durante un mínimo de cinco minutos en el interior de la colada que se trata en el ciclo de lavado, expresada en grados centígrados; y 
+ f) 
+ contenido de humedad residual tras el ciclo de lavado, expresado en porcentaje de contenido de agua, y velocidad de centrifugado con la que se ha logrado ese contenido de humedad residual; 
+ para cada uno de los programas siguientes (como mínimo): 
+ i) 
+ el programa «eco 40-60» al total, a la mitad y a un cuarto de la capacidad asignada, 
+ ii) 
+ el programa a 20 °C al total de la capacidad asignada de este programa, 
+ iii) 
+ un programa para algodón a una temperatura nominal igual o superior a 60 °C (si está disponible) al total de la capacidad asignada de este programa, 
+ iv) 
+ un programa para tejidos distintos del algodón o mezcla de tejidos (si está disponible) al total de la capacidad asignada de este programa, 
+ v) 
+ un programa de lavado rápido de prendas ligeramente sucias (si está disponible) al total de la capacidad asignada de este programa, 
+ vi) 
+ un programa para prendas muy sucias (si está disponible) al total de la capacidad asignada de este programa, 
+ vii) 
+ en el caso de las lavadoras-secadoras domésticas: el ciclo de lavado y secado al total y a la mitad de la capacidad asignada, e 
+ información sobre el hecho de que los valores señalados para programas distintos del programa «eco 40-60» y el ciclo de lavado y secado son meramente indicativos; 
+ 3) 
+ las instrucciones de uso contendrán asimismo instrucciones para que el usuario pueda llevar a cabo operaciones de mantenimiento; en dichas instrucciones se explicará, como mínimo, lo siguiente: 
+ a) 
+ correcta instalación (por ejemplo, nivelación del aparato, conexión a la red eléctrica o conexión a la toma de agua, fría o caliente según corresponda); 
+ b) 
+ uso correcto del detergente, el suavizante y otros aditivos, así como principales consecuencias de una dosificación incorrecta; 
+ c) 
+ extracción de cuerpos extraños de la lavadora doméstica o la lavadora-secadora doméstica; 
+ d) 
+ limpieza periódica, incluida la frecuencia óptima, prevención de la formación de cal y procedimiento; 
+ e) 
+ apertura de puerta entre ciclos, si procede; 
+ f) 
+ comprobación periódica de los filtros, incluida la frecuencia óptima, y procedimiento; 
+ g) 
+ identificación de errores, significado de estos y acción requerida, incluida la identificación de errores que requieran la intervención de un profesional; 
+ h) 
+ manera de acceder a la reparación profesional (sitios web, direcciones, datos de contacto); 
+ dichas instrucciones contendrán igualmente información sobre lo siguiente: 
+ i) 
+ posibles consecuencias de la reparación por cuenta del usuario final o de una reparación no profesional en lo que respecta a la seguridad del propio usuario final y la garantía; 
+ j) 
+ período mínimo durante el que estarán disponibles las piezas de recambio para la lavadora doméstica o la lavadora-secadora doméstica. 
+ ( 1 )   Reglamento (UE) n. o 801/2013 de la Comisión, de 22 de agosto de 2013, por el que se modifica el Reglamento (CE) n. o 1275/2008 en lo relativo a los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos preparado y desactivado de los equipos eléctricos y electrónicos domésticos y de oficina, y por el que se modifica el Reglamento (CE) n. o 642/2009 con respecto a los requisitos de diseño ecológico aplicables a las televisiones ( DO L 225 de 23.8.2013 ). 
+ ( 2 )   Reglamento (UE) n. o 517/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, sobre los gases fluorados de efecto invernadero y por el que se deroga el Reglamento (CE) n. o 842/2006 ( DO L 150 de 20.5.2014, p. 195 ). 
+ ANEXO III 
+ Métodos de medición y cálculos 
+ A efectos del cumplimiento y la verificación del cumplimiento de los requisitos del presente Reglamento, se efectuarán mediciones y cálculos utilizando las normas armonizadas cuyos números de referencia hayan sido publicados a tal efecto en el Diario Oficial de la Unión Europea u otros métodos fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica más avanzado generalmente aceptado, y en consonancia con las disposiciones siguientes. 
+ Al medir los parámetros definidos en el anexo II y en el presente anexo en relación con el programa «eco 40-60» y el ciclo de lavado y secado, se usará la mayor velocidad de centrifugado disponible en el programa «eco 40-60» al total, a la mitad y a un cuarto de la capacidad asignada. 
+ En el caso de las lavadoras domésticas con una capacidad asignada inferior o igual a 3 kg y las lavadoras-secadoras domésticas con una capacidad asignada de lavado inferior o igual a 3 kg, los parámetros correspondientes al programa «eco 40-60» y el ciclo de lavado y secado se medirán únicamente al total de la capacidad asignada. 
+ La duración del programa «eco 40-60» (t W ) y la duración del ciclo de lavado y secado (t WD ) se expresarán en horas y minutos, redondeadas al minuto más próximo. 
+ 1.   ÍNDICE DE EFICIENCIA ENERGÉTICA 
+ 1.1.   Índice de eficiencia energética (EEI W ) de las lavadoras domésticas y del ciclo de lavado de las lavadoras-secadoras domésticas 
+ Para calcular el EEI W , se compara el consumo ponderado de energía del programa «eco 40-60» al total, a la mitad y a un cuarto de la capacidad asignada de lavado con el consumo normal de energía por ciclo. 
+ a) 
+ El EEI W se calcula mediante la siguiente fórmula y se redondea al primer decimal: 
+ EEI W = (E W /SCE W ) × 100 
+ donde: 
+ E W es el consumo ponderado de energía de la lavadora doméstica o del ciclo de lavado de la lavadora-secadora doméstica, 
+ SCE W es el consumo normal de energía por ciclo de la lavadora doméstica o del ciclo de lavado de la lavadora-secadora doméstica. 
+ b) 
+ El SCE W se calcula en kWh por ciclo mediante la siguiente fórmula y se redondea al tercer decimal: 
+ SCE W = -0,0025 × c 2 + 0,0846 × c + 0,3920
+ donde c es la capacidad asignada de la lavadora doméstica o la capacidad asignada de lavado de la lavadora-secadora doméstica en el programa «eco 40-60». 
+ c) 
+ El E W se calcula en kWh por ciclo mediante la siguiente fórmula y se redondea al tercer decimal: 
+ donde: 
+ E W,full es el consumo de energía de la lavadora doméstica o del ciclo de lavado de la lavadora-secadora doméstica en el programa «eco 40-60» al total de la capacidad asignada de lavado y redondeado al tercer decimal, 
+ E W,½ es el consumo de energía de la lavadora doméstica o del ciclo de lavado de la lavadora-secadora doméstica en el programa «eco 40-60» a la mitad de la capacidad asignada de lavado y redondeado al tercer decimal, 
+ E W,1/4 es el consumo de energía de la lavadora doméstica o del ciclo de lavado de la lavadora-secadora doméstica en el programa «eco 40-60» a un cuarto de la capacidad asignada de lavado y redondeado al tercer decimal, 
+ A es el factor de ponderación del total de la capacidad asignada de lavado, redondeado al tercer decimal, 
+ B es el factor de ponderación de la mitad de la capacidad asignada de lavado, redondeado al tercer decimal, 
+ C es el factor de ponderación de la capacidad de lavado asignada y redondeado al tercer decimal; 
+ en el caso de las lavadoras domésticas con capacidad asignada inferior o igual a 3 kg y de las lavadoras-secadoras domésticas con capacidad de lavado asignada inferior o igual a 3 kg, A será igual a 1; B y C serán iguales a 0; 
+ en el caso de otras lavadoras domésticas y lavadoras-secadoras domésticas, los valores de los factores de ponderación dependen de la capacidad asignada con arreglo a las ecuaciones siguientes: 
+ A = –0,0391 × c + 0,6918
+ B = –0,0109 × c + 0,3582
+ C = 1 – (A + B) 
+ donde c es la capacidad asignada de la lavadora doméstica o la capacidad de lavado asignada de la lavadora-secadora doméstica. 
+ 1.2.   Índice de eficiencia energética (EEI WD ) del ciclo completo de las lavadoras-secadoras domésticas 
+ Para calcular el EEI WD de un modelo de lavadora-secadora doméstica, se compara el consumo ponderado de energía del ciclo de lavado y secado al total y a la mitad de la capacidad asignada con el consumo normal de energía por ciclo. 
+ a) 
+ El EEI WD se calcula mediante la siguiente fórmula y se redondea al primer decimal: 
+ EEI WD = (E WD /SCE WD ) × 100 
+ donde: 
+ E WD es el consumo ponderado de energía del ciclo completo de la lavadora-secadora doméstica, 
+ SCE WD es el consumo normal de energía por ciclo del ciclo completo de la lavadora-secadora doméstica. 
+ b) 
+ El SCE W se calcula en kWh por ciclo mediante la siguiente fórmula y se redondea al tercer decimal: 
+ SCE WD = –0,0502 × d 2 + 1,1742 × d – 0,644
+ donde d es la capacidad asignada de la lavadora-secadora doméstica en el ciclo de lavado y secado. 
+ c) 
+ En el caso de las lavadoras-secadoras domésticas con una capacidad asignada de lavado inferior o igual a 3 kg, el consumo ponderado de energía es el consumo de energía al total de la capacidad asignada y redondeado al tercer decimal. 
+ d) 
+ Respecto de otras lavadoras-secadoras domésticas, el consumo ponderado de energía (E WD ) se calcula en kWh por ciclo como se indica a continuación y se redondea al tercer decimal: 
+ donde: 
+ E WD,full es el consumo de energía de la lavadora-secadora doméstica en el ciclo de lavado y secado al total de la capacidad asignada y redondeado al tercer decimal, 
+ E WD,½ es el consumo de energía de la lavadora-secadora doméstica en el ciclo de lavado y secado a la mitad de la capacidad asignada y redondeado al tercer decimal. 
+ 2.   ÍNDICE DE EFICIENCIA DEL LAVADO 
+ El índice de eficiencia del lavado de las lavadoras domésticas y del ciclo de lavado de las lavadoras-secadoras domésticas (I w ) y el índice de eficiencia del lavado del ciclo completo de las lavadoras-secadoras domésticas (J w ) se calcularán usando normas armonizadas cuyos números de referencia hayan sido publicados a tal efecto en el Diario Oficial de la Unión Europea , u otros métodos fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica más avanzado generalmente aceptado, y se redondearán al segundo decimal. 
+ 3.   EFICACIA DEL ACLARADO 
+ La eficacia del aclarado de las lavadoras domésticas y del ciclo de lavado de las lavadoras-secadoras domésticas (I R ) y la eficacia del aclarado del ciclo completo de las lavadoras-secadoras domésticas (J R ) se calcularán usando normas armonizadas cuyos números de referencia hayan sido publicados a tal efecto en el Diario Oficial de la Unión Europea , u otro método fiable, exacto y reproducible basado en la detección del marcador de sulfonato de alquilbenceno lineal (LAS), y se redondearán al primer decimal. 
+ 4.   TEMPERATURA MÁXIMA 
+ La temperatura máxima alcanzada durante cinco minutos en el interior de la colada que se trata en las lavadoras domésticas y en el ciclo de lavado de las lavadoras-secadoras domésticas se determinará usando normas armonizadas cuyos números de referencia hayan sido publicados a tal efecto en el Diario Oficial de la Unión Europea , u otro método fiable, exacto y reproducible, y se redondeará al número entero más próximo. 
+ 5.   CONSUMO PONDERADO DE AGUA 
+ 1) 
+ El consumo ponderado de agua (W W ) de una lavadora doméstica o del ciclo de lavado de una lavadora-secadora doméstica se calcula en litros mediante la fórmula siguiente y se redondea al número entero más próximo: 
+ W t = (A × W W,full + B × W W,1/2 + C × W W,1/4 ) 
+ donde: 
+ W W,full es el consumo de agua de la lavadora doméstica o del ciclo de lavado de una lavadora-secadora doméstica en el programa «eco 40-60» al total de la capacidad asignada de lavado, en litros y redondeado al primer decimal, 
+ W W,½ es el consumo de agua de la lavadora doméstica o del ciclo de lavado de una lavadora-secadora doméstica en el programa «eco 40-60» a la mitad de la capacidad asignada de lavado, en litros y redondeado al primer decimal, 
+ W W,1/4 es el consumo de agua de la lavadora doméstica o del ciclo de lavado de una lavadora-secadora doméstica en el programa «eco 40-60» a un cuarto de la capacidad asignada de lavado, en litros y redondeado al primer decimal, 
+ A, B y C son los factores de ponderación descritos en el punto 1.1, letra c). 
+ 2) 
+ En el caso de las lavadoras-secadoras domésticas con una capacidad asignada de lavado inferior o igual a 3 kg, el consumo ponderado de agua es el consumo de agua al total de la capacidad asignada y redondeado a número entero más próximo. 
+ Respecto de otras lavadoras-secadoras domésticas, el consumo ponderado de agua (W WD ) del ciclo de lavado y secado de una lavadora-secadora doméstica se calcula mediante la fórmula siguiente y se redondea al número entero más próximo: 
+ donde: 
+ W WD,full es el consumo de agua del ciclo de lavado y secado de una lavadora-secadora doméstica al total de la capacidad asignada, en litros y redondeado al primer decimal; 
+ W WD,½ es el consumo de agua del ciclo de lavado y secado de una lavadora-secadora doméstica a la mitad de la capacidad asignada, en litros y redondeado al primer decimal. 
+ 6.   CONTENIDO DE HUMEDAD RESIDUAL 
+ El contenido de humedad residual ponderado después del lavado (D) de una lavadora doméstica y del ciclo de lavado de una lavadora-secadora doméstica se calcula en porcentaje mediante la fórmula siguiente y se redondea al porcentaje entero más próximo: 
+ donde: 
+ D full es el contenido de humedad residual en el programa «eco 40-60» al total de la capacidad asignada de lavado, en porcentaje y redondeado al primer decimal, 
+ D 1/2 es el contenido de humedad residual en el programa «eco 40-60» a la mitad de la capacidad asignada de lavado, en porcentaje y redondeado al primer decimal, 
+ D 1/4 es el contenido de humedad residual en el programa «eco 40-60» a un cuarto de la capacidad asignada de lavado, en porcentaje y redondeado al primer decimal, 
+ A, B y C son los factores de ponderación descritos en el punto 1.1, letra c). 
+ 7.   CONTENIDO DE HUMEDAD FINAL 
+ Respecto del ciclo de secado de una lavadora-secadora doméstica, el estado de «seco para guardar» corresponde a un contenido de humedad final del 0 %, que es el equilibrio termodinámico entre la carga y las condiciones del aire ambiente de temperatura (ensayo a 20 ± 2 °C) y humedad relativa (ensayo a 65 ± 5 %). 
+ El contenido de humedad final se calcula de acuerdo con las normas armonizadas cuyos números de referencia hayan sido publicados a tal efecto en el Diario Oficial de la Unión Europea y se redondea al primer decimal. 
+ 8.   MODOS DE BAJO CONSUMO 
+ Debe medirse el consumo de energía en el modo desactivado (P o ), el modo preparado (P sm ) y, en su caso, el inicio aplazado (P ds ). Los valores medidos se expresan en W y se redondean al segundo decimal. 
+ Al medir el consumo de energía en los modos de bajo consumo, se comprobarán y registrarán los aspectos siguientes: 
+ — 
+ visualización o no de información, 
+ — 
+ activación o no de una conexión de red. 
+ Si la lavadora doméstica o la lavadora-secadora doméstica disponen de una función de prevención de arrugas, esta operación se interrumpirá abriendo la puerta del aparato, o mediante otro tipo de intervención apropiada, quince minutos antes de la medición del consumo de energía. 
+ ANEXO IV 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Las tolerancias de verificación definidas en el presente anexo se refieren únicamente a la verificación de los parámetros declarados por las autoridades del Estado miembro y no serán utilizadas por el fabricante, importador o representante autorizado como tolerancia permitida para establecer los valores indicados en la documentación técnica o para interpretar esos valores a efectos de alcanzar la conformidad o comunicar un mejor rendimiento por cualquier medio. 
+ En caso de que un modelo haya sido diseñado para que pueda detectar que está siendo objeto de ensayo (por ejemplo, reconociendo las condiciones de ensayo o el ciclo de ensayo) y reaccionar específicamente con una alteración automática de su rendimiento durante el ensayo a fin de alcanzar un nivel más favorable en cualquiera de los parámetros especificados en el presente Reglamento o incluidos en la documentación técnica o en cualquiera de los documentos facilitados, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes. 
+ Al verificar la conformidad de un modelo de producto con los requisitos establecidos en el presente Reglamento en virtud del artículo 3, apartado 2, de la Directiva 2009/125/CE, las autoridades del Estado miembro aplicarán el procedimiento que se indica a continuación por lo que respecta a los requisitos mencionados en el presente anexo: 
+ 1) 
+ las autoridades del Estado miembro someterán a verificación una sola unidad del modelo; 
+ 2) 
+ se considerará que el modelo cumple los requisitos aplicables si: 
+ a) 
+ los valores indicados en la documentación técnica con arreglo al anexo IV, punto 2, de la Directiva 2009/125/CE (valores declarados), así como, en su caso, los valores utilizados para calcular dichos valores, no son más favorables para el fabricante, el importador o el representante autorizado que los resultados de las correspondientes mediciones realizadas con arreglo a la letra g) de dicho punto; y 
+ b) 
+ los valores declarados cumplen los requisitos establecidos en el presente Reglamento, y ninguna información exigida sobre el producto que publiquen el fabricante, el importador o el representante autorizado contiene valores más favorables para el fabricante, el importador o el representante autorizado que los valores declarados; y 
+ c) 
+ cuando las autoridades del Estado miembro comprueben la unidad del modelo, constatan que el fabricante, importador o representante autorizado ha introducido un sistema que se ajusta a los requisitos del artículo 6, párrafo segundo; y 
+ d) 
+ cuando las autoridades del Estado miembro comprueben la unidad del modelo, este es conforme con los requisitos de los programas del anexo II, puntos 1 y 2, los requisitos sobre eficiencia en el uso de los recursos del anexo II, punto 8, y los requisitos sobre información del anexo II, punto 9; y 
+ e) 
+ si, cuando las autoridades del Estado miembro someten a ensayo la unidad del modelo, los valores determinados (los valores de los parámetros pertinentes medidos en ensayos y los valores calculados a partir de esas mediciones) se ajustan a las tolerancias de verificación respectivas indicadas en el cuadro 1; 
+ 3) 
+ si no se alcanzan los resultados contemplados en el punto 2, letras a), b), c) o d), se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento; 
+ 4) 
+ si no se alcanza el resultado contemplado en el punto 2, letra e), las autoridades del Estado miembro seleccionarán tres unidades adicionales del mismo modelo para ensayo; como alternativa, esas tres unidades suplementarias podrán pertenecer a uno o varios modelos equivalentes; 
+ 5) 
+ se considerará que el modelo cumple los requisitos aplicables si, con respecto a estas tres unidades, la media aritmética de los valores determinados cumple las respectivas tolerancias de verificación indicadas en el cuadro 1; 
+ 6) 
+ si no se obtiene el resultado indicado en el punto 5, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento; 
+ 7) 
+ las autoridades del Estado miembro proporcionarán sin demora toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión tan pronto como adopten una decisión sobre la no conformidad del modelo con arreglo a los puntos 3) o 6). 
+ Las autoridades del Estado miembro utilizarán los métodos de medición y cálculo establecidos en el anexo III. 
+ Las autoridades del Estado miembro solo aplicarán las tolerancias de verificación que se indican en el cuadro 1 y solo utilizarán el procedimiento descrito en los puntos 1) a 7) por lo que respecta a los requisitos mencionados en el presente anexo. En cuanto a los parámetros del cuadro 1, no se aplicarán otras tolerancias de verificación, como las establecidas en normas armonizadas o en otros métodos de medición. 
+ Cuadro 1 
+ Tolerancias de verificación 
+ Parámetro 
+ Tolerancias de verificación 
+ E W,full , E W,½ , E W,1/4 , E WD,full , E WD,½ 
+ El valor determinado  ( *1 ) no superará el valor declarado de E W,full , E W,½ , E W,1/4, E WD,full y E WD,½ , respectivamente, en más del 10 %. 
+ Consumo ponderado de energía (E W y E WD ) 
+ El valor determinado  ( *1 ) no superará el valor declarado de E W , o respectivamente E WD , en más del 10 %. 
+ W W,full , W W,½ W W,1/4, W WD,full , W WD,½ 
+ El valor determinado  ( *1 ) no superará el valor declarado de W W,full , W W,½ , W W,1/4, W WD,full y W WD,½ , respectivamente, en más del 10 %. 
+ Consumo ponderado de agua (W W y W WD ) 
+ El valor determinado  ( *1 ) no superará el valor declarado de W W , o respectivamente W WD , en más del 10 %. 
+ Índice de eficiencia del lavado (I W y J W ) 
+ El valor determinado  ( *1 ) no será inferior al valor declarado de I W , o respectivamente de J w , en más del 8 %. 
+ Eficacia del aclarado (I R y J R ) 
+ El valor determinado  ( *1 ) no superará el valor declarado de I R , o respectivamente de J R , en más de 1,0 g/kg. 
+ Duración del programa «eco 40-60» (t W ) 
+ El valor determinado  ( *1 ) de la duración del programa no superará el valor declarado de t W en más del 5 % o en más de 10 minutos, el tiempo que sea menor. 
+ Duración del ciclo de lavado y secado (t WD ) 
+ El valor determinado de la duración del ciclo no superará el valor declarado de t WD en más del 5 % o en más de 10 minutos, el tiempo que sea menor. 
+ Temperatura máxima en el interior de la colada (T) 
+ El valor determinado no será inferior a los valores declarados de T en más de 5 K ni superará el valor declarado de T en más de 5 K. 
+ D full , D ½ D 1/4 
+ El valor determinado  ( *1 ) no superará el valor declarado de D full , D ½ y D 1/4 , respectivamente, en más del 10 %. 
+ Contenido de humedad residual tras el lavado (D) 
+ El valor determinado  ( *1 ) no superará el valor declarado de D en más del 10 %. 
+ Contenido de humedad final tras el secado 
+ El valor determinado  ( *1 ) no superará el 3,0 %. 
+ Consumo eléctrico en modo apagado (P o ) 
+ El valor determinado  ( *1 ) de consumo eléctrico P o no superará el valor declarado en más de 0,10 W. 
+ Consumo eléctrico en modo preparado (P sm ) 
+ El valor determinado  ( *1 ) de consumo eléctrico P sm no superará el valor declarado en más del 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Consumo eléctrico en inicio aplazado (P ds ) 
+ El valor determinado  ( *1 ) de consumo eléctrico P ds no superará el valor declarado en más del 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ ( *1 )   En caso de someter a ensayo tres unidades adicionales conforme a lo dispuesto en el punto 4), por «valor determinado» se entenderá la media aritmética de los valores determinados de estas tres unidades adicionales. 
+ ANEXO V 
+ Parámetros de referencia 
+ 1.   PARÁMETROS DE REFERENCIA INDICATIVOS PARA LAVADORAS DOMÉSTICAS EN RELACIÓN CON EL CONSUMO DE AGUA Y ENERGÍA, LA EFICIENCIA DEL LAVADO Y EL RUIDO ACÚSTICO AÉREO EMITIDO 
+ En el momento de la entrada en vigor del presente Reglamento, la mejor tecnología disponible en el mercado en el caso de las lavadoras domésticas, desde el punto de vista de su consumo de agua y energía y el ruido acústico aéreo emitido durante el lavado/centrifugado en el programa normal de algodón a 60 °C al total y a la mitad de la capacidad asignada y en el programa normal de algodón a 40 °C a la mitad de la capacidad asignada, es la siguiente  ( 1 ) : 
+ 1) 
+ lavadora doméstica con una capacidad asignada de 5 kg: 
+ a) 
+ consumo de energía: 0,56 kWh/ciclo (o 0,11 kWh/kg), esto es, consumo total de 82 kWh/año; 
+ b) 
+ consumo de agua: 40 l/ciclo, esto es, 8 800 l/año en 220 ciclos; 
+ c) 
+ ruido acústico aéreo emitido durante el lavado/centrifugado: 58/82 dB(A); 
+ 2) 
+ lavadora doméstica con una capacidad asignada de 6 kg: 
+ a) 
+ consumo de energía: 0,55 kWh/ciclo (o 0,092 kWh/kg), esto es, consumo total de 122 kWh/año; 
+ b) 
+ consumo de agua: 40,45 l/ciclo, esto es, 8 900 l/año en 220 ciclos; 
+ c) 
+ ruido acústico aéreo emitido durante el lavado/centrifugado: 47/77 dB(A); 
+ 3) 
+ lavadora doméstica con una capacidad asignada de 7 kg: 
+ a) 
+ consumo de energía: 0,6 kWh/ciclo (o 0,15 kWh/kg), esto es, consumo total de 124 kWh/año; 
+ b) 
+ consumo de agua: 39 l/ciclo, esto es, 8 500 l/año en 220 ciclos; 
+ c) 
+ ruido acústico aéreo emitido durante el lavado/centrifugado: 52/73 dB(A); 
+ 4) 
+ lavadora doméstica con una capacidad asignada de 8 kg (equipada con bomba de calor): 
+ a) 
+ consumo de energía: 0,52 kWh/ciclo (o 0,065 kWh/kg), esto es, consumo total de 98 kWh/año; 
+ b) 
+ consumo de agua: 44,55 l/ciclo, esto es, 9 800 l/año en 220 ciclos; 
+ 5) 
+ lavadora doméstica con una capacidad asignada de 8 kg (no equipada con tecnología de bomba de calor): 
+ a) 
+ consumo de energía: 0,54 kWh/ciclo (o 0,067 kWh/kg), esto es, consumo total de 116 kWh/año; 
+ b) 
+ consumo de agua: 36,82 l/ciclo, esto es, 8 100 l/año en 220 ciclos; 
+ 6) 
+ lavadora doméstica con una capacidad asignada de 9 kg: 
+ a) 
+ consumo de energía: 0,35 kWh/ciclo (o 0,038 kWh/kg), esto es, consumo total de 76 kWh/año; 
+ b) 
+ consumo de agua: 47,72 l/ciclo, esto es, 10 499 l/año en 220 ciclos. 
+ 2.   PARÁMETROS DE REFERENCIA INDICATIVOS PARA LAVADORAS-SECADORAS DOMÉSTICAS EN RELACIÓN CON EL CONSUMO DE AGUA Y ENERGÍA, LA EFICIENCIA DEL LAVADO Y EL RUIDO ACÚSTICO AÉREO EMITIDO 
+ En el momento de la entrada en vigor del presente Reglamento, la mejor tecnología disponible en el mercado en el caso de las lavadoras-secadoras domésticas, desde el punto de vista de su consumo de agua y energía y el ruido acústico aéreo emitido durante el lavado/centrifugado/secado en el ciclo normal de lavado de algodón a 60 °C al total de la capacidad asignada y en el ciclo de secado «algodón seco», es la siguiente  ( 2 ) : 
+ 1) 
+ lavadora-secadora doméstica con una capacidad asignada de lavado de 6 kg: 
+ a) 
+ consumo de energía de un ciclo completo (lavado, centrifugado y secado) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 3,64 kWh/ciclo, esto es, consumo total de 800,8 kWh/año; 
+ b) 
+ consumo de energía de un ciclo de lavado (lavado y centrifugado únicamente) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 0,77 kWh/ciclo, esto es, consumo total de 169,4 kWh/año; 
+ c) 
+ consumo de agua de un ciclo completo (lavado, centrifugado y secado) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 78 l/ciclo, esto es, 17 160 l/año en 220 ciclos; 
+ d) 
+ ruido acústico aéreo emitido durante el lavado/centrifugado/secado: 51/77/66 dB(A); 
+ 2) 
+ lavadora-secadora doméstica con una capacidad asignada de lavado de 7 kg: 
+ a) 
+ consumo de energía de un ciclo completo (lavado, centrifugado y secado) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 4,76 kWh/ciclo, esto es, consumo total de 1 047 kWh/año; 
+ b) 
+ consumo de energía de un ciclo de lavado (lavado y centrifugado únicamente) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 0,8 kWh/ciclo, esto es, consumo total de 176 kWh/año; 
+ c) 
+ consumo de agua de un ciclo completo (lavado, centrifugado y secado) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 72 l/ciclo, esto es, 15 840 l/año en 220 ciclos; 
+ d) 
+ ruido acústico aéreo emitido durante el lavado/centrifugado/secado: 47/73/58 dB(A); 
+ 3) 
+ lavadora-secadora doméstica con una capacidad asignada de lavado de 8 kg: 
+ a) 
+ consumo de energía de un ciclo completo (lavado, centrifugado y secado) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 3,8 kWh/ciclo, esto es, consumo total de 836 kWh/año; 
+ b) 
+ consumo de energía de un ciclo de lavado (lavado y centrifugado únicamente) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 1,04 kWh/ciclo, esto es, consumo total de 229 kWh/año; 
+ c) 
+ consumo de agua de un ciclo completo (lavado, centrifugado y secado) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 70 l/ciclo, esto es, 15 400 l/año en 220 ciclos; 
+ d) 
+ ruido acústico aéreo emitido durante el lavado/centrifugado/secado: 49/73/66 dB(A); 
+ 4) 
+ lavadora-secadora doméstica con una capacidad asignada de lavado de 9 kg: 
+ a) 
+ consumo de energía de un ciclo completo (lavado, centrifugado y secado) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 3,67 kWh/ciclo, esto es, consumo total de 807 kWh/año; 
+ b) 
+ consumo de energía de un ciclo de lavado (lavado y centrifugado únicamente) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 1,09 kWh/ciclo, esto es, consumo total de 240 kWh/año; 
+ c) 
+ consumo de agua en un ciclo completo (lavado, centrifugado y secado) al total de la capacidad asignada y en el programa normal de algodón a 60 °C: 69 l/ciclo, esto es, 15 180 l/año en 220 ciclos; 
+ d) 
+ ruido acústico aéreo emitido durante el lavado/centrifugado/secado: 49/75/66 dB(A). 
+ ( 1 )   El consumo de agua, el consumo de energía y la eficiencia del lavado se han determinado empleando los métodos de cálculo establecidos en el anexo II del Reglamento (UE) n. o 1015/2010 relativo a los requisitos de diseño ecológico aplicables a las lavadoras domésticas; por su parte, el ruido acústico aéreo emitido durante el lavado/centrifugado se ha determinado de acuerdo con la medición normalizada de EN 60704. 
+ ( 2 )   El consumo de agua, el consumo de energía y el rendimiento del lavado se han determinado empleando los métodos de cálculo establecidos en la Directiva 96/60/CE relativa al etiquetado energético de las lavadoras-secadoras combinadas domésticas; por su parte, el ruido acústico aéreo emitido durante el lavado/centrifugado/secado se ha determinado de acuerdo con la medición normalizada de EN 60704. 
+ ANEXO VI 
+ Lavadoras domésticas multitambor y lavadoras-secadoras domésticas multitambor 
+ Las disposiciones del anexo II, puntos 1 a 6 y punto 9, apartado 2), siguiendo los métodos de medición y cálculo establecidos en el anexo III, se aplicarán a todos los tambores de las lavadoras domésticas multitambor y las lavadoras-secadoras domésticas multitambor. Las disposiciones del anexo II, punto 7, punto 8 y punto 9, apartados 1) y 3), se aplicarán a todas las lavadoras domésticas multitambor y todas las lavadoras-secadoras domésticas multitambor. 
+ Las disposiciones del anexo II, puntos 1 a 6 y punto 9, apartado 2), se aplicarán por separado a cada uno de los tambores, salvo en el caso de que los tambores estén montados en la misma carcasa y, en el programa «eco 40-60» o en el ciclo de lavado y secado, únicamente puedan funcionar de manera simultánea. En tal caso, dichas disposiciones se aplicarán a la lavadora doméstica multitambor o a la lavadora-secadora doméstica multitambor en su conjunto, como se indica a continuación: 
+ a) 
+ la capacidad asignada de lavado será la suma de la capacidad asignada de lavado de cada tambor; respecto de las lavadoras-secadoras domésticas multitambor, la capacidad asignada será la suma de las capacidades asignadas de cada tambor; 
+ b) 
+ el consumo de energía o de agua de la lavadora doméstica multitambor y del ciclo de lavado de la lavadora-secadora doméstica multitambor será la suma del consumo de energía o del consumo de agua de cada tambor; 
+ c) 
+ el consumo de energía o de agua del ciclo completo de la lavadora-secadora doméstica multitambor será la suma del consumo de energía o del consumo de agua de cada tambor; 
+ d) 
+ el índice de eficiencia energética (EEI W ) se calcula a partir de la capacidad asignada de lavado y el consumo de energía; respecto de las lavadoras-secadoras domésticas multitambor, el índice de eficiencia energética (EEI WD ) se calcula a partir de la capacidad asignada y el consumo de energía; 
+ e) 
+ cada tambor deberá ser conforme, de manera individual, con los requisitos mínimos tanto de eficiencia del lavado como de eficacia del aclarado; 
+ f) 
+ cada tambor deberá ser conforme, de manera individual, con el requisito sobre duración aplicable al tambor con mayor capacidad asignada; 
+ g) 
+ los requisitos relativos a los modos de bajo consumo se aplicarán a la lavadora doméstica o la lavadora-secadora doméstica en su conjunto; 
+ h) 
+ el contenido de humedad residual tras el lavado se calcula como la media ponderada, según la capacidad asignada de cada tambor; 
+ i) 
+ respecto de las lavadoras-secadoras domésticas multitambor, el requisito sobre contenido de humedad final tras el secado se aplica por separado a cada tambor. 
+ El procedimiento de verificación dispuesto en el anexo IV se aplica a la lavadora doméstica multitambor y a la lavadora-secadora doméstica multitambor en su conjunto, con las tolerancias de verificación aplicables a cada uno de los parámetros determinados en aplicación del presente anexo. 
+ 

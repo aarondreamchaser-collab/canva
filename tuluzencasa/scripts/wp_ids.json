@@ -87,5 +87,21 @@
  "diferencia-magnetotermico-diferencial": {
   "id": 206,
   "rankmath_status": 200
+ },
+ "cuanto-consume-lavadora": {
+  "id": 214,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-secadora": {
+  "id": 215,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-lavavajillas": {
+  "id": 216,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-horno-electrico": {
+  "id": 217,
+  "rankmath_status": 200
  }
 }

@@ -1,0 +1,1139 @@
+ 
+ L_202501353ES.000101.fmx.xml 
+ Diario Oficial de la Unión Europea 
+ ES 
+ Serie L 
+ 2025/1353 
+ 20.11.2025 
+ REGLAMENTO DELEGADO (UE) 2025/1353 DE LA COMISIÓN
+ de 1 de julio de 2025
+ por el que se modifica el Reglamento Delegado (UE) 2023/2534, relativo a las secadoras de tambor domésticas, en lo que respecta a la información sobre la reparabilidad y se aclaran algunos aspectos de los métodos de medición y cálculo, la ficha de información del producto, la documentación técnica y el procedimiento de verificación 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Visto el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo, de 4 de julio de 2017, por el que se establece un marco para el etiquetado energético y se deroga la Directiva 2010/30/UE  ( 1 ) , y en particular su artículo 16, apartado 1, 
+ Considerando lo siguiente: 
+ (1) 
+ El Reglamento Delegado (UE) 2023/2534 de la Comisión  ( 2 ) establece requisitos armonizados para el etiquetado de las secadoras de tambor domésticas, de modo que los clientes puedan tomar decisiones de compra con conocimiento de causa sobre la base de la eficiencia energética e información complementaria sobre los aparatos. El artículo 3 de dicho Reglamento también especifica el contenido y el formato de la ficha de información del producto y de la documentación técnica y exige a los proveedores que introduzcan los parámetros pertinentes en el registro europeo de productos para el etiquetado energético (EPREL). 
+ (2) 
+ Es importante abordar la considerable disminución de la vida útil de las secadoras de tambor domésticas durante los últimos quince años, que ha provocado un aumento de la tasa de producción para compensar el acortamiento de la vida útil. Facilitar información sobre la reparabilidad de las secadoras de tambor por medio de un índice de reparabilidad podría suponer diversos beneficios medioambientales, sociales y económicos al animar a los consumidores a elegir productos más reparables. El índice de reparabilidad debe calcularse sobre la base de parámetros pertinentes para evaluar la facilidad de reparación de una secadora de tambor doméstica. 
+ (3) 
+ A partir del 1 de enero de 2027, cualquier secadora de tambor doméstica que se introduzca en el mercado debe ir acompañada de una etiqueta y una ficha de información del producto que contengan información sobre la reparabilidad. Con el fin de garantizar una introducción fluida del índice de reparabilidad, los proveedores pueden proporcionar etiquetas que incluyan información sobre la reparabilidad antes de la fecha límite obligatoria del 1 de enero de 2027, en lugar de etiquetas sin información sobre la reparabilidad. 
+ (4) 
+ Dado que la puesta en aplicación de un índice de reparabilidad no implica un reescalamiento de la etiqueta, debe permitirse que, después del 1 de enero de 2027, los distribuidores vendan sin límite de tiempo las secadoras de tambor domésticas que hayan introducido en el mercado antes de esa fecha y cuyas etiquetas no incluyan el índice de reparabilidad. 
+ (5) 
+ Con el fin de mejorar la reparabilidad de las secadoras de tambor domésticas, debe incluirse un elemento adicional en la revisión prevista en el artículo 7 del Reglamento (UE) 2023/2534, a saber, la evaluación de la posibilidad de incluir las bombas de calor entre las piezas prioritarias que se tienen en cuenta al calcular el índice de reparabilidad. 
+ (6) 
+ A fin de garantizar la seguridad jurídica, deben añadirse las definiciones pertinentes relativas al índice de reparabilidad y al contenido medio de humedad final. 
+ (7) 
+ Para ayudar a los consumidores a elegir con conocimiento de causa el grado de reparación y de mantenimiento de las secadoras de tambor domésticas, debe incluirse la clase de reparabilidad correspondiente en las etiquetas energéticas tanto para las secadoras de tambor domésticas de condensación como para las que no son de condensación, desde la clase A hasta la E, donde la clase A, que es la más alta, corresponde a las secadoras de tambor domésticas con los mejores índices de reparabilidad y la clase E, que es la más baja, a las secadoras de tambor domésticas con los peores índices de reparabilidad. 
+ (8) 
+ El término «logotipo» debe sustituirse por «pictograma» en la descripción de la etiqueta que figura en el anexo III, en aras de la coherencia con otros actos delegados sobre etiquetado energético. Además, la referencia a la etiqueta ecológica de la UE ha de suprimirse del anexo III, puesto que esta etiqueta ya no se concede. 
+ (9) 
+ Ha de definirse un método para calcular el índice de reparabilidad de las secadoras de tambor domésticas que permita asignar una clase de reparabilidad a cada modelo de secadora de tambor doméstica. 
+ (10) 
+ El cálculo del índice de reparabilidad debe realizarse mediante una fórmula basada en parámetros de puntuación específicos que se hayan considerado pertinentes para determinar la facilidad de reparación de cada modelo de secadora de tambor doméstica. Esos parámetros de puntuación son la profundidad del desmontaje, el tipo de elementos de fijación, el tipo de herramientas y la información sobre reparación. 
+ (11) 
+ Excepto en el caso de la información sobre reparación, que debe evaluarse a nivel del producto, los otros tres parámetros de puntuación deben evaluarse a nivel de las piezas de la secadora de tambor doméstica que vayan a sustituirse. Por este motivo, se han seleccionado e incluido piezas prioritarias en la fórmula de cada parámetro de puntuación, con una media ponderada que refleja la importancia de cada pieza prioritaria en términos de tasas de ventas y de fallos. 
+ (12) 
+ La descripción de las fases de desmontaje utilizadas para calcular el parámetro de puntuación de la profundidad del desmontaje debe ser coherente con la información sobre reparación y mantenimiento que ha de facilitarse a los reparadores profesionales. 
+ (13) 
+ Procede suprimir de la información que debe facilitarse en la documentación técnica del producto los detalles del método de cálculo del contenido medio de humedad final del programa eco que se establecieron originalmente en el punto 1, letra g), del anexo IV del Reglamento Delegado (UE) 2023/2534. Se ha observado que la obtención de un valor del 0 % para el contenido medio de humedad final a menudo conlleva efectos secundarios negativos no deseados, en términos de daños térmicos de los tejidos debido a un secado excesivo y de un consumo excesivo de energía, que deben evitarse. En su lugar, este parámetro debe calcularse empleando los métodos de medición y cálculo que se establecen en las normas armonizadas, dado que prevén tolerancias adecuadas. 
+ (14) 
+ Para garantizar que los consumidores elijan con conocimiento de causa y fomentar el consumo sostenible, la ficha de información del producto debe incluir información sobre el índice de reparabilidad y las puntuaciones parciales de cada uno de los parámetros de puntuación. A fin de evitar cargas administrativas innecesarias para los proveedores, únicamente los cambios en la puntuación global del índice de reparabilidad de un producto deben considerarse pertinentes para la definición de un nuevo modelo. En cambio, no se consideran pertinentes los cambios en los cálculos parciales de los parámetros de puntuación que no alteren el índice de reparabilidad global. 
+ (15) 
+ Con el objetivo de evitar confusiones para los proveedores y las autoridades de vigilancia del mercado, debe aclararse el contenido de la documentación técnica, incluida la información pertinente sobre reparabilidad. 
+ (16) 
+ Procede, por tanto, modificar el Reglamento Delegado (UE) 2023/2534 en consecuencia. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Disposiciones modificadoras 
+ El Reglamento Delegado (UE) 2023/2534 se modifica como sigue: 
+ 1) 
+ El artículo 3 se modifica como sigue: 
+ a) 
+ el apartado 1 se sustituye por el texto siguiente: 
+ «1.   Los proveedores deberán garantizar que: 
+ a) 
+ del 1 de marzo de 2025 al 31 de diciembre de 2026: 
+ i) 
+ cada secadora de tambor doméstica se suministre con una etiqueta impresa con el formato y la información que figuran en el anexo III y, en el caso de las secadoras domésticas con más de un tambor, según lo indicado en el anexo X, 
+ ii) 
+ los valores de los parámetros de la ficha de información del producto, como se indica en el anexo V, se consignen en la parte pública de la base de datos de los productos; 
+ b) 
+ del 1 de julio de 2025 al 31 de diciembre de 2026: 
+ i) 
+ el contenido de la documentación técnica, establecido en el anexo VI, se consigne en la base de datos de los productos, 
+ ii) 
+ se facilite a los distribuidores una etiqueta electrónica con el formato y la información que figuran en el anexo III para cada modelo de secadora de tambor doméstica, 
+ iii) 
+ se facilite a los distribuidores una ficha electrónica de información del producto, como la que figura en el anexo V, para cada modelo de secadora de tambor doméstica, 
+ iv) 
+ si así lo solicita expresamente el distribuidor, la ficha de información del producto, como la que figura en el anexo V, esté disponible en formato impreso; 
+ c) 
+ a partir del 1 de enero de 2027: 
+ i) 
+ cada secadora de tambor doméstica se suministre con una etiqueta impresa con el formato y la información que figuran en el anexo III bis y, en el caso de las secadoras domésticas con más de un tambor, según lo indicado en el anexo X, 
+ ii) 
+ los valores de los parámetros de la ficha de información del producto, que figura en el anexo V bis , se consignen en la parte pública de la base de datos de los productos, 
+ iii) 
+ el contenido de la documentación técnica que figura en el anexo VI bis , excepto la información establecida en el punto 1, letras h) e i), de dicho anexo, se introduzca en la base de datos de los productos, 
+ iv) 
+ se facilite a los distribuidores una etiqueta electrónica con el formato y la información que figuran en el anexo III bis para cada modelo de secadora de tambor doméstica, 
+ v) 
+ se facilite a los distribuidores una ficha electrónica de información del producto, como la que figura en el anexo V bis , para cada modelo de secadora de tambor doméstica, 
+ vi) 
+ si así lo solicita expresamente el distribuidor, la ficha de información del producto, como la que figura en el anexo V bis , esté disponible en formato impreso; 
+ d) 
+ a partir del 1 de julio de 2025: 
+ i) 
+ toda publicidad visual de un modelo específico de secadora de tambor doméstica indique la clase de eficiencia energética y el intervalo de clases de eficiencia energética disponibles en la etiqueta, de conformidad con los anexos VII y VIII, 
+ ii) 
+ todo material técnico de promoción relativo a un modelo específico de secadora de tambor doméstica, incluido el material técnico de promoción en internet, que describa sus parámetros técnicos específicos indique la clase de eficiencia energética de dicho modelo y el intervalo de clases de eficiencia energética disponibles en la etiqueta, de conformidad con el anexo VII.» 
+ ; 
+ b) 
+ se inserta el apartado 1 bis siguiente: 
+ «1 bis .   No obstante lo dispuesto en el apartado 1, letras a) y b), durante el período comprendido entre el 24 de noviembre de 2025 y el 31 de diciembre de 2026, los proveedores podrán cumplir las obligaciones establecidas en el apartado 1, letras a) y b), de la forma establecida en el apartado 1, letra c).» 
+ . 
+ 2) 
+ En el artículo 4, la letra a) se sustituye por el texto siguiente: 
+ «a) 
+ cada secadora de tambor doméstica vaya provista, en el punto de venta (incluidas las ferias comerciales), de la etiqueta facilitada por los proveedores de acuerdo con el artículo 3, apartado 1, letra a), inciso i), o letra c), inciso i), y que esta se presente en los aparatos encastrables de manera que sea claramente visible y, en todos los demás aparatos, de manera que sea claramente visible desde su parte frontal o superior;». 
+ 3) 
+ El artículo 7 se modifica como sigue: 
+ a) 
+ el apartado 1 se sustituye por el texto siguiente: 
+ «La Comisión revisará el presente Reglamento a la luz del progreso tecnológico y presentará al Foro de Diseño Ecológico los resultados de esa revisión, incluido, en su caso, un proyecto de propuesta, a más tardar el 1 de enero de 2030. 
+ La revisión deberá evaluar, en particular, los siguientes elementos: 
+ a) 
+ el potencial de mejora en lo que se refiere al consumo de energía y al rendimiento funcional y medioambiental de las secadoras de tambor domésticas; 
+ b) 
+ la eficacia de las medidas existentes para incitar a los usuarios finales a comprar aparatos más eficientes en energía y recursos y utilizar programas más eficientes en energía y recursos; 
+ c) 
+ la posibilidad de abordar los objetivos de la economía circular; 
+ d) 
+ la pertinencia de incluir la bomba de calor en la lista de piezas prioritarias a efectos del cálculo del índice de reparabilidad.»; 
+ b) 
+ se suprime el apartado 2. 
+ 4) 
+ En el artículo 10, el párrafo segundo se sustituye por el texto siguiente: 
+ «Será aplicable a partir del 1 de julio de 2025. No obstante, el artículo 9 será aplicable a partir del 1 de enero de 2024, y el artículo 3, apartados 1 y 1 bis , según lo que en ellos se establezca.». 
+ 5) 
+ Los anexos I, II y III se modifican con arreglo al anexo I del presente Reglamento. 
+ 6) 
+ Se inserta como anexo III bis el texto establecido en el anexo II del presente Reglamento. 
+ 7) 
+ Los anexos IV y V se modifican de conformidad con el anexo III del presente Reglamento. 
+ 8) 
+ Se inserta como anexo V bis el texto establecido en el anexo IV del presente Reglamento. 
+ 9) 
+ El anexo VI se modifica con arreglo a lo dispuesto en el anexo V del presente Reglamento. 
+ 10) 
+ Se inserta como anexo VI bis el texto establecido en el anexo VI del presente Reglamento. 
+ 11) 
+ Los anexos VII, VIII, IX y X se modifican de conformidad con el anexo VII del presente Reglamento. 
+ Artículo 2 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor a los cuatro días de su publicación en el Diario Oficial de la Unión Europea . 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 1 de julio de 2025. 
+ Por la Comisión 
+ La Presidenta 
+ Ursula VON DER LEYEN
+ ( 1 )   
+ DO L 198 de 28.7.2017, p. 1 , ELI: http://data.europa.eu/eli/reg/2017/1369/oj . 
+ ( 2 )   Reglamento Delegado (UE) 2023/2534 de la Comisión, de 13 de julio de 2023, por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las secadoras de tambor domésticas y se deroga el Reglamento Delegado (UE) n. o  392/2012 de la Comisión ( DO L, 2023/2534, 22.11.2023, ELI: http://data.europa.eu/eli/reg_del/2023/2534/oj ). 
+ ANEXO I 
+ Los anexos I, II y III del Reglamento Delegado (UE) 2023/2534 se modifican como sigue: 
+ 1) 
+ En el anexo I, se añaden los puntos siguientes: 
+ «27) 
+ “contenido medio de humedad final”: la media del contenido de humedad final para el programa eco con carga completa y a media carga; 
+ 28) 
+ “pieza de recambio”: una pieza independiente que puede sustituir a otra que cumple la misma función o una función similar en una secadora de tambor doméstica; 
+ 29) 
+ “pieza prioritaria”: pieza de recambio utilizada en los cálculos del índice de reparabilidad establecido en el punto 5 del anexo IV; 
+ 30) 
+ “placa de circuito impreso principal”: placa que gestiona directa o indirectamente los componentes eléctricos y electrónicos integrados en el aparato; 
+ 31) 
+ “desmontaje”: proceso mediante el cual se separan las piezas o componentes de un producto de tal manera que este podría montarse de nuevo posteriormente y ser operativo; 
+ 32) 
+ “elemento de fijación”: dispositivo metálico o sustancia que conecta o fija dos o más objetos, partes o piezas por medios mecánicos, magnéticos u otros, incluidos los dispositivos metálicos que, además, dispongan de una función eléctrica; 
+ 33) 
+ “elemento de fijación reutilizable”: elemento de fijación que puede reutilizarse completamente con el mismo fin durante el remontaje y que no causa daños ni al producto ni al propio elemento de fijación durante el proceso de desmontaje o remontaje de tal manera que resulte imposible su reutilización múltiple; 
+ 34) 
+ “elemento de fijación extraíble”: elemento de fijación que no es un elemento de fijación reutilizable, pero cuya extracción no daña el producto ni deja residuos que impidan su remontaje; 
+ 35) 
+ “elemento de fijación resuministrado”: elemento de fijación extraíble que se suministra con la pieza de recambio que se pretende conectar o fijar; los adhesivos se considerarán elementos de fijación resuministrados si se suministran con la pieza de recambio en una cantidad suficiente para el remontaje; 
+ 36) 
+ “fase”: operación que finaliza con la extracción de una pieza (o un conjunto de piezas) o con un cambio de herramienta, incluida cualquier colocación de una pieza en un lugar distinto de su ubicación inicial cuando la extracción implique una desconexión o un desenchufe parcial; 
+ 37) 
+ “herramienta disponible en el mercado”: herramienta disponible para su compra por el público general y que no es ni una herramienta básica ni una herramienta protegida por derechos; 
+ 38) 
+ “herramienta básica”: destornillador para tornillos de cabeza ranurada, con muesca cruciforme o de hueco hexalobular, llave para tornillos de cabeza hueca hexagonal, llave combinada, alicates universales, alicates universales para decapar y engastar terminales, alicates de punta redonda, alicates de corte diagonal, tenazas de abertura múltiple, alicates de bloqueo, palanca, pinzas, lupa, palanca tipo spudger o púa; 
+ 39) 
+ “herramienta protegida por derechos”: herramienta que no está disponible para la compra por el público general o con relación a la cual no existe ninguna patente aplicable para la que se pueda obtener una licencia en condiciones justas, razonables y no discriminatorias; 
+ 40) 
+ “reparador profesional”: operario o empresa que ofrece servicios de reparación y mantenimiento profesional de secadoras de tambor domésticas.». 
+ 2) 
+ En el anexo II, se añade el punto 4 siguiente: 
+ «4.    CLASE DE REPARABILIDAD 
+ La clase de reparabilidad de una secadora de tambor doméstica se determinará sobre la base del índice de reparabilidad, tal como se indica en el cuadro 3a. El índice de reparabilidad se determinará con arreglo al punto 5 del anexo IV. 
+ Cuadro 3a 
+ Clase de reparabilidad 
+ Clase de reparabilidad 
+ Índice de reparabilidad (R) 
+ A (máxima reparabilidad) 
+ R > 9,00 
+ B 
+ 7,00 ≤ R ≤ 9,00 
+ C 
+ 5,00 ≤ R < 7,00 
+ D 
+ 3,00 ≤ R < 5,00 
+ E (mínima reparabilidad) 
+ R < 3,00». 
+ 3) 
+ El anexo III se modifica como sigue: 
+ a) 
+ en la sección A, el punto 1.1 se modifica como sigue: 
+ i) 
+ el punto V se sustituye por el texto siguiente: 
+ «V 
+ la clase de eficiencia energética determinada de conformidad con el anexo II;», 
+ ii) 
+ los puntos VII y VIII se sustituyen por el texto siguiente: 
+ «VII 
+ la clase de eficiencia de la condensación determinada de conformidad con el anexo II, con el pictograma pertinente y el valor redondeado al número entero más próximo y calculado de conformidad con el anexo IV; 
+ VIII 
+ la clase de ruido acústico aéreo emitido del ciclo de secado del programa eco, con el pictograma pertinente y el valor en dB(A), determinado de conformidad con el punto 4 del anexo IV;», 
+ iii) 
+ se suprime el punto 1.2; 
+ b) 
+ en la sección B, el punto 1.1 se modifica como sigue: 
+ i) 
+ el punto V se sustituye por el texto siguiente: 
+ «V 
+ la clase de eficiencia energética determinada de conformidad con el anexo II;», 
+ ii) 
+ el punto VII se sustituye por el texto siguiente: 
+ «VII 
+ la clase de ruido acústico aéreo emitido del ciclo de secado del programa eco, con el pictograma pertinente y el valor en dB(A), determinado de conformidad con el punto 4 del anexo IV;», 
+ iii) 
+ se suprime el punto 1.2. 
+ ANEXO II 
+ «ANEXO III BIS 
+ ETIQUETA CON INFORMACIÓN SOBRE LA REPARABILIDAD 
+ A.    Etiqueta de las secadoras de tambor de condensación con pictograma de la clase de reparabilidad 
+ 1.   ETIQUETA DE LAS SECADORAS DE TAMBOR DE CONDENSACIÓN CON PICTOGRAMA DE LA CLASE DE REPARABILIDAD 
+ Figura 4a 
+ En la etiqueta figurará la siguiente información: 
+ I 
+ un código QR; 
+ II 
+ la marca comercial; 
+ III 
+ el identificador del modelo; 
+ IV 
+ la escala de clases de eficiencia energética, de la A a la G; 
+ V 
+ la clase de eficiencia energética determinada de conformidad con el anexo II; 
+ VI 
+ el consumo medio de energía ponderado por 100 ciclos de secado, en kWh, redondeado al número entero más próximo y calculado de conformidad con el anexo IV; en el caso de secadoras de tambor alimentadas con gas, el consumo medio de energía ponderado (gas y electricidad) por 100 ciclos de secado, en kWh, redondeado al número entero más próximo y calculado de conformidad con el anexo IV; 
+ VII 
+ la clase de reparabilidad determinada de conformidad con el anexo II, calculada con arreglo al anexo IV; 
+ VIII 
+ la clase de eficiencia de la condensación determinada de conformidad con el anexo II, con el pictograma pertinente y el valor redondeado al número entero más próximo y calculado de conformidad con el anexo IV; 
+ IX 
+ la clase de ruido acústico aéreo emitido del ciclo de secado del programa eco, con el pictograma pertinente y el valor en dB(A), determinado de conformidad con el punto 4 del anexo IV; 
+ X 
+ la capacidad asignada, en kg, para el programa eco con carga completa; 
+ XI 
+ la duración del programa eco con carga completa, en horas y minutos [h:min], redondeada al minuto más próximo; 
+ XII 
+ el número del presente Reglamento, es decir, “2023/2534”. 
+ 2.   DISEÑO DE LA ETIQUETA DE LAS SECADORAS DE TAMBOR DE CONDENSACIÓN CON PICTOGRAMA DE LA CLASE DE REPARABILIDAD 
+ Figura 4b 
+ Se tendrán en cuenta las siguientes precisiones: 
+ a) 
+ La etiqueta medirá al menos 96 mm de ancho y 192 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones de la figura 4b. 
+ b) 
+ El fondo será de color 100 % blanco. 
+ c) 
+ El tipo de letra será Verdana. 
+ d) 
+ Las dimensiones y especificaciones de los elementos que constituyan la etiqueta serán las indicadas en los diseños de las etiquetas del presente anexo. 
+ e) 
+ Los colores serán CMAN (cian, magenta, amarillo y negro), según el siguiente ejemplo: 0,70,100,0: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ f) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura 4b): 
+ los colores del logotipo de la UE serán: 
+ — 
+ fondo: 100,80,0,0; 
+ — 
+ estrellas: 0,0,100,0; 
+ el color del logotipo de energía será 100,80,0,0; 
+ el código QR será de color 100 % negro; 
+ la marca comercial irá en color 100 % negro y en negrita, 9 pt; 
+ el identificador del modelo será de color 100 % negro e irá en redonda, 9 pt; 
+ la escala de A a G será como sigue: 
+ a) 
+ las letras de las flechas irán en color 100 % blanco y en negrita, 16 pt, e irán centradas en un eje a 4,5 mm de la parte izquierda de las flechas; 
+ b) 
+ los colores de fondo de las flechas serán como sigue: 
+ i) 
+ clase A: 100,0,100,0; 
+ ii) 
+ clase B: 70,0,100,0; 
+ iii) 
+ clase C: 30,0,100,0; 
+ iv) 
+ clase D: 0,0,100,0; 
+ v) 
+ clase E: 0,30,100,0; 
+ vi) 
+ clase F: 0,70,100,0; 
+ vii) 
+ clase G: 0,100,100,0; 
+ los separadores internos tendrán 80 mm de anchura y un grosor de 0,5 pt; serán de color 100 % negro; 
+ la flecha de la clase de eficiencia energética será de color 100 % negro. La letra dentro de la flecha de la clase de eficiencia energética será de color 100 % blanco e irá en negrita, 26 pt; se colocará en el centro de la parte rectangular de la flecha. La flecha de la clase de eficiencia energética y la flecha correspondiente de la escala de A a G irán colocadas de manera que sus puntas estén alineadas; 
+ el valor del consumo de energía ponderado por cada 100 ciclos de secado irá en negrita, 28 pt; “kWh/” irá en redonda, 18 pt. El número “100” en el icono que representa 100 ciclos de secado irá en redonda, 14 pt. El texto estará centrado en la columna y será de color 100 % negro; 
+ los pictogramas serán los indicados en el diseño de la etiqueta como se señala a continuación: 
+ a) 
+ las líneas de los pictogramas tendrán un grosor de 1,2 pt y serán, al igual que los textos (números y unidades), de color 100 % negro; 
+ b) 
+ las escalas de A a D del pictograma de la eficiencia de la condensación y del pictograma del ruido acústico aéreo emitido se alinearán en un eje vertical a la izquierda del icono, con la letra de la clase aplicable en negrita, 12 pt, y las demás letras del resto de las clases en redonda, 8 pt; 
+ c) 
+ el número del pictograma de la eficiencia de la condensación irá en negrita, 9 pt, y la unidad en redonda, 9 pt, con el número y la unidad juntos y centrados dentro del pictograma; 
+ d) 
+ la escala de A a E del pictograma de la clase de reparabilidad se alineará en un eje vertical a la izquierda del icono, con la letra de la clase aplicable en negrita, 12 pt, y las demás letras del resto de las clases en redonda, 8 pt; 
+ e) 
+ el número del pictograma del ruido acústico aéreo emitido irá en negrita, 12 pt, y la unidad en redonda, 9 pt, con el número y la unidad juntos y centrados dentro del pictograma; 
+ f) 
+ el número del pictograma de capacidad asignada irá en negrita, 16 pt, y la unidad en redonda, 12 pt, con el número y la unidad juntos y centrados bajo el pictograma; 
+ g) 
+ el número de la duración del programa eco irá en negrita, 16 pt, y estará centrado bajo el pictograma; 
+ el número del Reglamento será de color 100 % negro e irá en redonda, 6 pt. 
+ B.    Etiqueta de las secadoras de tambor que no son de condensación con pictograma de la clase de reparabilidad 
+ 1.   ETIQUETA DE LAS SECADORAS DE TAMBOR QUE NO SON DE CONDENSACIÓN CON PICTOGRAMA DE LA CLASE DE REPARABILIDAD 
+ Figura 4c 
+ En la etiqueta figurará la siguiente información: 
+ I 
+ un código QR; 
+ II 
+ la marca comercial; 
+ III 
+ el identificador del modelo; 
+ IV 
+ la escala de clases de eficiencia energética, de la A a la G; 
+ V 
+ la clase de eficiencia energética determinada de conformidad con el anexo II; 
+ VI 
+ el consumo medio de energía ponderado por 100 ciclos de secado, en kWh, redondeado al número entero más próximo y calculado de conformidad con el anexo IV; en el caso de secadoras de tambor alimentadas con gas, el consumo medio de energía ponderado (gas y electricidad) por 100 ciclos de secado, en kWh, redondeado al número entero más próximo y calculado de conformidad con el anexo IV; 
+ VII 
+ la clase de reparabilidad determinada de conformidad con el anexo II, calculada con arreglo al anexo IV; 
+ VIII 
+ la clase de ruido acústico aéreo emitido del ciclo de secado del programa eco, con el pictograma pertinente y el valor en dB(A), determinado de conformidad con el punto 4 del anexo IV; 
+ IX 
+ la capacidad asignada, en kg, para el programa eco con carga completa; 
+ X 
+ la duración del programa eco con carga completa, en horas y minutos [h:min], redondeada al minuto más próximo; 
+ XI 
+ el número del presente Reglamento, es decir, “2023/2534”. 
+ 2.   DISEÑO DE LA ETIQUETA DE LAS SECADORAS DE TAMBOR QUE NO SON DE CONDENSACIÓN CON PICTOGRAMA DE LA CLASE DE REPARABILIDAD 
+ Figura 4d 
+ Se tendrán en cuenta las siguientes precisiones: 
+ a) 
+ La etiqueta medirá al menos 96 mm de ancho y 192 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones de la figura 4d. 
+ b) 
+ El fondo será de color 100 % blanco. 
+ c) 
+ El tipo de letra será Verdana. 
+ d) 
+ Las dimensiones y especificaciones de los elementos que constituyan la etiqueta serán las indicadas en los diseños de las etiquetas del presente anexo. 
+ e) 
+ Los colores serán CMAN (cian, magenta, amarillo y negro), según el siguiente ejemplo: 0,70,100,0: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ f) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura 4d): 
+ los colores del logotipo de la UE serán: 
+ — 
+ fondo: 100,80,0,0; 
+ — 
+ estrellas: 0,0,100,0; 
+ el color del logotipo de energía será 100,80,0,0; 
+ el código QR será de color 100 % negro; 
+ la marca comercial irá en color 100 % negro y en negrita, 9 pt; 
+ el identificador del modelo será de color 100 % negro e irá en redonda, 9 pt; 
+ la escala de A a G será como sigue: 
+ a) 
+ las letras de las flechas irán en color 100 % blanco y en negrita, 16 pt, e irán centradas en un eje a 4,5 mm de la parte izquierda de las flechas; 
+ b) 
+ los colores de fondo de las flechas serán como sigue: 
+ i) 
+ clase A: 100,0,100,0; 
+ ii) 
+ clase B: 70,0,100,0; 
+ iii) 
+ clase C: 30,0,100,0; 
+ iv) 
+ clase D: 0,0,100,0; 
+ v) 
+ clase E: 0,30,100,0; 
+ vi) 
+ clase F: 0,70,100,0; 
+ vii) 
+ clase G: 0,100,100,0; 
+ los separadores internos tendrán 80 mm de anchura y un grosor de 0,5 pt; serán de color 100 % negro; 
+ la flecha de la clase de eficiencia energética será de color 100 % negro. La letra dentro de la flecha de la clase de eficiencia energética será de color 100 % blanco e irá en negrita, 26 pt; se colocará en el centro de la parte rectangular de la flecha. La flecha de la clase de eficiencia energética y la flecha correspondiente de la escala de A a G irán colocadas de manera que sus puntas estén alineadas; 
+ el valor del consumo de energía ponderado por cada 100 ciclos de secado irá en negrita, 28 pt; “kWh/” irá en redonda, 18 pt. El número “100” en el icono que representa 100 ciclos de secado irá en redonda, 14 pt. El texto estará centrado en la columna y será de color 100 % negro; 
+ los pictogramas serán los indicados en el diseño de la etiqueta como se señala a continuación: 
+ a) 
+ las líneas de los pictogramas tendrán un grosor de 1,2 pt y serán, al igual que los textos (números y unidades), de color 100 % negro; 
+ b) 
+ la escala de A a D del pictograma del ruido acústico aéreo emitido se alineará en un eje vertical a la izquierda del icono, con la letra de la clase aplicable en negrita, 12 pt, y las demás letras del resto de las clases en redonda, 8 pt; 
+ c) 
+ la escala de A a E del pictograma de la clase de reparabilidad se alineará en un eje vertical a la izquierda del icono, con la letra de la clase aplicable en negrita, 12 pt, y las demás letras del resto de las clases en redonda, 8 pt; 
+ d) 
+ el número del pictograma del ruido acústico aéreo emitido irá en negrita, 12 pt, y la unidad en redonda, 9 pt, con el número y la unidad juntos y centrados dentro del pictograma; 
+ e) 
+ el número del pictograma de capacidad asignada irá en negrita, 16 pt, y la unidad en redonda, 12 pt, con el número y la unidad juntos y centrados bajo el pictograma; 
+ f) 
+ el número de la duración del programa eco irá en negrita, 16 pt, y estará centrado bajo el pictograma; 
+ el número del Reglamento será de color 100 % negro e irá en redonda, 6 pt. 
+ ». 
+ ANEXO III 
+ Los anexos IV y V del Reglamento Delegado (UE) 2023/2534 se modifican como sigue: 
+ 1) 
+ El anexo IV se modifica como sigue: 
+ a) 
+ los párrafos tercero y cuarto se sustituyen por el texto siguiente: 
+ «Para la medición y el cálculo del IEE, la eficiencia de la condensación, la duración del programa y el ruido acústico aéreo emitido, se utilizará el programa eco tal como pueda encontrarse en la selección del programa, en la pantalla y a través de la conexión a la red, según las funcionalidades proporcionadas por la secadora de tambor doméstica, y sin ninguna otra modificación del ajuste del contenido de humedad final. El consumo de energía, la eficiencia de la condensación y la duración del programa también se medirán simultáneamente. 
+ El cálculo del consumo de energía ponderado, la duración ponderada del programa y la eficiencia de la condensación se realizará sobre la base de tres ciclos de secado con carga completa y cuatro ciclos de secado con carga parcial.»; 
+ b) 
+ en el punto 1, se suprime la letra g); 
+ c) 
+ se añade el punto 5 siguiente: 
+ «5.   MÉTODO DE CÁLCULO DEL ÍNDICE DE REPARABILIDAD DE LAS SECADORAS DE TAMBOR DOMÉSTICAS 
+ El índice de reparabilidad consiste en una puntuación agregada y normalizada, como valor calculado derivado de cuatro parámetros de puntuación donde: 
+ — 
+ S DD 
+ es la puntuación de “profundidad del desmontaje”; 
+ — 
+ S F 
+ es la puntuación del “(tipo de) elementos de fijación”; 
+ — 
+ S T 
+ es la puntuación del “(tipo de) herramientas”; 
+ — 
+ S RI 
+ es la puntuación de la “información sobre reparación”. 
+ Se calculará el índice de reparabilidad (R) de la manera siguiente: 
+ y se redondeará al segundo decimal. 
+ Las puntuaciones de la “profundidad del desmontaje” ( S DD 
+ ), del “(tipo de) elementos de fijación” ( S F 
+ ) y del “(tipo de) herramientas” ( S T 
+ ) están basadas en la agregación de las siguientes puntuaciones a nivel de las piezas prioritarias: 
+ — 
+ WP es la bomba de agua; 
+ — 
+ B es el rodamiento del tambor; 
+ — 
+ DB es la correa del tambor; 
+ — 
+ D es la puerta; 
+ — 
+ M es el motor; 
+ — 
+ MB es la placa de circuito impreso principal; 
+ — 
+ F es el ventilador; 
+ — 
+ MC es el condensador del motor. 
+ Si cualquiera de las piezas prioritarias mencionadas anteriormente está presente más de una vez en un producto, solo se tendrá en cuenta aquella con la puntuación más baja en el cálculo de las puntuaciones de la “profundidad del desmontaje” ( S DD 
+ ), del “(tipo de) elementos de fijación” ( S F 
+ ) y del “(tipo de) herramientas” ( S T 
+ ). Si una o varias piezas prioritarias no están presentes en el producto, dichas piezas prioritarias se eliminarán de la fórmula de los parámetros de puntuación cuando aparezcan. Además, los coeficientes de las piezas prioritarias restantes en la fórmula de cada parámetro de puntuación se dividirán por el complemento a 1 de la suma de los coeficientes correspondientes a las piezas prioritarias que no estén presentes en el producto, de modo que la suma de los coeficientes restantes sea siempre igual a 1. 
+ Los parámetros S DD 
+ , S F 
+ y S T 
+ se calcularán sobre la base de la descripción de las fases de desmontaje, los elementos de fijación y las herramientas necesarias para cada pieza prioritaria. 
+ La evaluación del índice de reparabilidad, en particular de los parámetros S DD 
+ , S F 
+ y S T 
+ , comenzará sobre un producto que cumpla las condiciones siguientes: 
+ — 
+ su mantenimiento para uso diario se lleva a cabo de conformidad con las disposiciones del manual del usuario; 
+ — 
+ está completamente montado; 
+ — 
+ se encuentra de pie y el acceso a todos los paneles laterales y a la parte superior del aparato está despejado; 
+ — 
+ está desconectado de cualquier suministro y fuente de evacuación. 
+ Tras la evaluación, el producto se volverá a montar completamente. 
+ 5.1. 
+ Se calculará la puntuación de la “profundidad del desmontaje” ( S DD 
+ ) de la manera siguiente: 
+ Evaluación de la profundidad del desmontaje (DD) a nivel de las piezas 
+ Se establecerá la puntuación de la profundidad del desmontaje ( DD i 
+ ) para cada pieza prioritaria ( DD WP 
+ , DD B 
+ , DD DB 
+ , DD D 
+ , DD M 
+ , 
+ DD MB 
+ , 
+ DD F 
+ , DD MC 
+ ) sobre la base del número de fases necesarias para extraer la pieza prioritaria del producto ( DD ) con respecto al número medio de fases de desmontaje ( MDS ) para esa pieza prioritaria sin dañar el producto. Para cada pieza prioritaria, el MDS es el siguiente: 
+ — 
+ bomba de agua: 16,1 fases; 
+ — 
+ rodamiento del tambor: 18,9 fases; 
+ — 
+ correa del tambor: 40,9 fases; 
+ — 
+ puerta: 3 fases; 
+ — 
+ motor: 49,4 fases; 
+ — 
+ placa de circuito impreso principal: 13,7 fases; 
+ — 
+ ventilador: 7,7 fases; 
+ — 
+ condensador del motor: 24,9 fases. 
+ Se asignará una puntuación del 0 al 10 a la DD i 
+ para cada pieza prioritaria del siguiente modo: 
+ — 
+ si DD ≤ 0,70 × MDS , DD i 
+  = 10 pt; 
+ — 
+ si 0,70 × MDS < DD ≤ 0,90 × MDS , DD i 
+  = 7 pt; 
+ — 
+ si 0,90 × MDS < DD ≤ 1,10 × MDS , DD i 
+  = 4 pt; 
+ — 
+ si 1,10 × MDS < DD ≤ 1,30 × MDS , DD i 
+  = 1 pt; 
+ — 
+ si DD > 1,30 × MDS , DD i 
+  = 0 pt. 
+ Para el cálculo de la DD , se aplicarán las normas siguientes: 
+ — 
+ el recuento de fases para el desmontaje de cada pieza prioritaria concluirá cuando la pieza prioritaria objetivo esté separada y sea accesible individualmente. Cuando la pieza prioritaria objetivo forme parte de un grupo o conjunto de piezas, lo que implica en primer lugar la extracción del grupo o del conjunto, el proceso de desmontaje concluirá cuando la pieza prioritaria objetivo esté separada y sea accesible individualmente; 
+ — 
+ los elementos de fijación no se consideran una pieza; 
+ — 
+ si, tras el desmontaje de una pieza prioritaria, son necesarias parcialmente las mismas fases de desmontaje para desmontar otra pieza, el desmontaje de esta pieza podrá comenzar con la primera fase que sea diferente. No obstante, la DD para esa pieza será el número total de fases calculado a partir de un producto completamente montado; 
+ — 
+ cuando es necesario utilizar varias herramientas simultáneamente, el uso de cada herramienta cuenta como una fase diferente. Coger una herramienta, dejarla o extraer un elemento de fijación no se considera el final de una fase. La mano no se considerará una herramienta; 
+ — 
+ las operaciones relacionadas con la limpieza, la eliminación de restos o el calentamiento se contabilizan como fases; 
+ — 
+ la DD se calculará sobre la base de la descripción de las fases de desmontaje para cada pieza prioritaria que figure en la documentación técnica; 
+ — 
+ cuando sea necesaria la notificación a distancia o la autorización de números de serie para la plena funcionalidad de la pieza prioritaria, la DDi será cero. 
+ 5.2. 
+ Se calculará la puntuación del tipo de elementos de fijación ( S F 
+ ) de la manera siguiente: 
+ Evaluación del (tipo de) elementos de fijación (F) a nivel de las piezas 
+ Se asignará la puntuación del “(tipo de) elementos de fijación” ( F i 
+ ) para cada pieza prioritaria ( F WP 
+ , F B 
+ , F DB 
+ , F D 
+ , F M 
+ , 
+ F MB 
+ , 
+ F F 
+ , F MC 
+ ) en función de la facilidad de extracción y reutilizabilidad de los elementos de fijación utilizados en el montaje del dispositivo. Se asignará una puntuación del 0 al 10 al F i 
+ para cada pieza prioritaria del siguiente modo: 
+ — 
+ elementos de fijación reutilizables, F i 
+  = 10 pt; 
+ — 
+ elementos de fijación resuministrados sin coste alguno, F i 
+  = 7 pt; 
+ — 
+ elementos de fijación resuministrados con costes adicionales, F i 
+  = 4 pt; 
+ — 
+ elementos de fijación extraíbles, F i 
+  = 0 pt. 
+ La determinación del tipo de elementos de fijación se basa en la descripción de cada tipo de elemento de fijación para el proceso de desmontaje con el fin de extraer la pieza prioritaria específica que se indica en la documentación técnica. 
+ En caso de que se encuentren distintos tipos de elementos de fijación en el desmontaje de una pieza prioritaria, se otorgará la puntuación más baja. 
+ 5.3. 
+ Se calculará la puntuación del tipo de herramientas ( S T 
+ ) de la manera siguiente: 
+ Evaluación del tipo de herramientas (T) a nivel de las piezas 
+ Se asignará la puntuación del tipo de herramientas ( T i 
+ ) para cada pieza prioritaria i ( T WP 
+ , T B 
+ , T DB 
+ , T D 
+ , T M 
+ , T MB 
+ , T F 
+ , T MC 
+ ) en función de la complejidad y de la disponibilidad de las herramientas necesarias para su sustitución. Se asignará una puntuación del 0 al 10 al T i 
+ para cada pieza prioritaria del siguiente modo: 
+ — 
+ sustitución posible con herramientas básicas o sin herramientas, T i 
+  = 10 pt; 
+ — 
+ sustitución posible con herramientas facilitadas junto con la pieza de recambio, T i 
+  = 5 pt; 
+ — 
+ sustitución posible con herramientas disponibles en el mercado, T i 
+  = 0 pt. 
+ La evaluación del tipo de herramientas se basa en el proceso de desmontaje para extraer la pieza prioritaria específica que se indica en la documentación técnica. 
+ En caso de que se necesiten distintos tipos de herramientas en el desmontaje de una pieza prioritaria, se otorgará la puntuación más baja. 
+ 5.4. 
+ Evaluación de la información sobre reparación ( RI ) a nivel del producto 
+ La puntuación de la información sobre reparación ( S RI 
+ ) correspondiente a la información sobre reparación y mantenimiento que figura en el punto 5.1.b) del anexo II del Reglamento (UE) 2023/2533 se calculará a nivel del producto del modo siguiente: 
+ — 
+ disponibilidad de información sobre reparación sin coste alguno para los reparadores profesionales, S RI 
+  = 10 pt; 
+ — 
+ disponibilidad de información sobre reparación tras el pago de una tasa razonable y proporcionada para los reparadores profesionales, S RI 
+  = 0 pt. 
+ Se entenderá por tasa razonable aquella que no desincentiva el acceso a la información sobre reparación por no tener en cuenta la medida en que el reparador profesional utiliza esa información.». 
+ 2) 
+ El anexo V se modifica como sigue: 
+ a) 
+ el párrafo primero se sustituye por el texto siguiente: 
+ «Con arreglo al artículo 3, apartado 1, letra a), inciso ii), hasta el 31 de diciembre de 2026 el proveedor introducirá en la base de datos de los productos la información que figura en el cuadro 4. No obstante, de conformidad con el artículo 3, apartado 1 bis , los proveedores podrán introducir la información requerida en el cuadro 4a del anexo V bis en la base de datos de los productos a partir del 24 de noviembre de 2025 en lugar de la información exigida en el cuadro 4.»; 
+ b) 
+ el cuadro 4 se sustituye por el siguiente: 
+ « Cuadro 4 
+ Contenido, orden y formato de la ficha de información del producto 
+ Marca comercial 
+  ( 1 ) 
+  ( 3 ) : 
+ Identificador del modelo 
+  ( 1 ) : 
+ Tecnología de la secadora de tambor 
+ [eléctrica de ventilación, eléctrica de condensación con bomba de calor, eléctrica de condensación convencional, alimentada con gas] 
+ Parámetros generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Capacidad asignada  ( 2 ) (kg) 
+ x,x 
+ Dimensiones  ( 1 ) 
+  ( 3 ) (cm) 
+ Altura 
+ x 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ Índice de Eficiencia Energética (IEE)  ( 2 ) 
+ x,x 
+ Clase de eficiencia energética  ( 2 ) 
+ [A/B/C/D/E/F/G]  ( 4 ) 
+ Eficiencia de la condensación (%)  ( 2 ) 
+ (si procede) 
+ xx 
+ Clase de eficiencia de la condensación (si procede)  ( 2 ) 
+ [A/B/C/D]  ( 4 ) 
+ Consumo de energía ponderado, en kWh, por ciclo de secado  ( 8 ) . El consumo real de energía dependerá de cómo se utilice el aparato. 
+ x,xx 
+ Duración del programa  ( 2 ) (horas:minutos) 
+ Capacidad asignada 
+ x:xx 
+ Tipo 
+ [encastrable/de libre instalación] 
+ Mitad 
+ x:xx 
+ Ruido acústico aéreo emitido  ( 2 ) [dB(A) con respecto a 1 pW] 
+ x 
+ Clase de ruido acústico aéreo emitido  ( 2 ) 
+ [A/B/C/D]  ( 4 ) 
+ Modo desactivado (si procede) (W) 
+ x,xx 
+ Modo preparado (si procede) (W) 
+ x,xx 
+ Inicio aplazado (W) (si procede) 
+ x,xx 
+ Modo preparado en red (W) (si procede) 
+ x,xx 
+ En el caso de las secadoras de tambor domésticas equipadas con una bomba de calor, el nombre químico o la designación industrial aceptada del gas refrigerante utilizado, sin perjuicio de lo dispuesto en el Reglamento (UE) n. o  517/2014, relativo a los gases fluorados de efecto invernadero  ( 1 ) 
+  ( 1 ) 
+  ( 3 ) . 
+ Enlace del sitio web con información sobre la disponibilidad de piezas de recambio para los reparadores profesionales y los usuarios finales  ( 1 ) 
+  ( 3 ) 
+  ( 5 ) 
+ https://xxx 
+ Enlace del sitio web con las instrucciones de reparación para usuarios finales  ( 1 ) 
+  ( 3 ) 
+  ( 6 ) 
+ https://xxx 
+ Enlace del sitio web con los precios indicativos antes de impuestos  ( 1 ) 
+  ( 3 ) 
+  ( 7 ) 
+ https://xxx 
+ Duración mínima de la garantía comercial ofrecida por el proveedor  ( 1 ) 
+  ( 3 ) (meses) 
+ Información adicional 
+  ( 3 ) 
+ Enlace al sitio web del proveedor, en el que se encuentra la información contemplada en el punto 6 del anexo II del Reglamento (UE) 2023/2533 de la Comisión  ( 3 ) 
+  ( 2 ) : 
+ ( 1 )   Reglamento (UE) n. o  517/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, sobre los gases fluorados de efecto invernadero y por el que se deroga el Reglamento (CE) n. o  842/2006 ( DO L 150 de 20.5.2014, p. 195 , ELI: http://data.europa.eu/eli/reg/2014/517/oj ). 
+ ( 2 )   Reglamento (UE) 2023/2533 de la Comisión, de 17 de noviembre de 2023, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a las secadoras de tambor domésticas, se modifica el Reglamento (UE) 2023/826 de la Comisión y se deroga el Reglamento (UE) n. o  932/2012 de la Comisión ( DO L, 2023/2533, 22.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2533/oj ). 
+ ( 1 )   Este elemento no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369. 
+ ( 2 )   En relación con el programa eco. 
+ ( 3 )   Los cambios de estos elementos no se considerarán relevantes a los efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 4 )   Si la base de datos de los productos genera automáticamente el contenido definitivo de esa celda, el proveedor no introducirá esos datos. 
+ ( 5 )   Los proveedores están obligados a incluir el enlace de la página web en la que estará disponible la información pertinente. No obstante, el acceso efectivo al sitio web debe concederse de conformidad con el calendario y las disposiciones establecidas en el punto 5.1.b) del anexo II del Reglamento (UE) 2023/2533. 
+ ( 6 )   Los proveedores están obligados a incluir el enlace de la página web en la que estará disponible la información pertinente. No obstante, el acceso efectivo al sitio web debe concederse de conformidad con el calendario y las disposiciones establecidas en el punto 5.1.d) del anexo II del Reglamento (UE) 2023/2533. 
+ ( 7 )   Los proveedores están obligados a incluir el enlace de la página web en la que estará disponible la información pertinente. No obstante, el acceso efectivo al sitio web debe concederse de conformidad con el calendario y las disposiciones establecidas en el punto 5.1.f) del anexo II del Reglamento (UE) 2023/2533. 
+ ( 8 )   En el caso de las secadoras de tambor alimentadas con gas, calculado como el consumo medio de energía ponderado por 100 ciclos de secado con arreglo al punto 1, letra f), del anexo IV del presente Reglamento, dividido por 100.». 
+ ANEXO IV 
+ «ANEXO V BIS 
+ FICHA DE INFORMACIÓN DEL PRODUCTO CON INFORMACIÓN SOBRE LA REPARABILIDAD 
+ Con arreglo al artículo 3, apartado 1, letra c), inciso ii), a partir del 1 de enero de 2027 el proveedor introducirá la información que figura en el cuadro 4a en la base de datos de los productos. No obstante, de conformidad con el artículo 3, apartado 1 bis , del presente Reglamento, los proveedores podrán introducir la información requerida en el cuadro 4a en la base de datos de los productos a partir del 24 de noviembre de 2025 en lugar de la información exigida en el cuadro 4 del anexo V del presente Reglamento. 
+ El manual del usuario u otra documentación que acompañe al producto indicarán claramente el enlace al modelo en la base de datos de los productos, bien como una dirección URL legible por personas, bien como un código QR, o bien facilitando el número de registro del producto. 
+ Cuadro 4a 
+ Contenido, orden y formato de la ficha de información del producto 
+ Marca comercial 
+  ( 1 ) 
+  ( 3 ) : 
+ Identificador del modelo 
+  ( 1 ) : 
+ Tecnología de la secadora de tambor 
+ [eléctrica de ventilación, eléctrica de condensación con bomba de calor, eléctrica de condensación convencional, alimentada con gas] 
+ Parámetros generales del producto: 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Capacidad asignada  ( 2 ) (kg) 
+ x,x 
+ Dimensiones  ( 1 ) 
+  ( 3 ) (cm) 
+ Altura 
+ x 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ Índice de Eficiencia Energética (IEE)  ( 2 ) 
+ x,x 
+ Clase de eficiencia energética  ( 2 ) 
+ [A/B/C/D/E/F/G]  ( 4 ) 
+ Eficiencia de la condensación (%)  ( 2 ) 
+ (si procede) 
+ xx 
+ Clase de eficiencia de la condensación (si procede)  ( 2 ) 
+ [A/B/C/D]  ( 4 ) 
+ Consumo de energía ponderado, en kWh, por ciclo de secado  ( 8 ) . El consumo real de energía dependerá de cómo se utilice el aparato. 
+ x,xx 
+ Duración del programa  ( 2 ) (horas:minutos) 
+ Capacidad asignada 
+ x:xx 
+ Tipo 
+ [encastrable/de libre instalación] 
+ Mitad 
+ x:xx 
+ Ruido acústico aéreo emitido  ( 2 ) [dB(A) con respecto a 1 pW] 
+ x 
+ Clase de ruido acústico aéreo emitido  ( 2 ) 
+ [A/B/C/D]  ( 4 ) 
+ Modo desactivado (si procede) (W) 
+ x,xx 
+ Modo preparado (si procede) (W) 
+ x,xx 
+ Inicio aplazado (W) (si procede) 
+ x,xx 
+ Modo preparado en red (W) (si procede) 
+ x,xx 
+ En el caso de las secadoras de tambor domésticas equipadas con una bomba de calor, el nombre químico o la designación industrial aceptada del gas refrigerante utilizado, sin perjuicio de lo dispuesto en el Reglamento (UE) n. o  517/2014, relativo a los gases fluorados de efecto invernadero  ( 1 ) 
+  ( 1 ) 
+  ( 3 ) . 
+ Información sobre la reparabilidad: 
+ Clase de reparabilidad (sobre la base del índice que figura a continuación) 
+ [A/B/C/D/E]  ( 4 ) 
+ Índice de reparabilidad  ( 1 ) 
+ x,xx 
+ Puntuación de la profundidad del desmontaje ( S DD 
+ )  ( 1 ) 
+  ( 3 ) 
+ x,xx 
+ Puntuación del tipo de elementos de fijación ( S F 
+ )  ( 1 ) 
+  ( 3 ) 
+ x,xx 
+ Puntuación del tipo de herramientas ( S T 
+ )  ( 1 ) 
+  ( 3 ) 
+ x,xx 
+ Puntuación de la información sobre reparación ( S RI 
+ )  ( 1 ) 
+  ( 3 ) 
+ x,xx 
+ Enlace del sitio web con información sobre la disponibilidad de piezas de recambio para los reparadores profesionales y los usuarios finales  ( 1 ) 
+  ( 3 ) 
+  ( 5 ) 
+ https://xxx 
+ Enlace del sitio web con las instrucciones de reparación para usuarios finales  ( 1 ) 
+  ( 3 ) 
+  ( 6 ) 
+ https://xxx 
+ Enlace del sitio web con los precios indicativos antes de impuestos  ( 1 ) 
+  ( 3 ) 
+  ( 7 ) 
+ https://xxx 
+ Duración mínima de la garantía comercial ofrecida por el proveedor  ( 1 ) 
+  ( 3 ) (meses) 
+ Información adicional 
+  ( 5 ) 
+ Enlace al sitio web del proveedor, en el que se encuentra la información contemplada en el punto 6 del anexo II del Reglamento (UE) 2023/2533 de la Comisión  ( 5 ) 
+  ( 2 ) : 
+ ». 
+ ( 1 )   Reglamento (UE) n. o  517/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, sobre los gases fluorados de efecto invernadero y por el que se deroga el Reglamento (CE) n. o  842/2006 ( DO L 150 de 20.5.2014, p. 195 , ELI: http://data.europa.eu/eli/reg/2014/517/oj ). 
+ ( 2 )   Reglamento (UE) 2023/2533 de la Comisión, de 17 de noviembre de 2023, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a las secadoras de tambor domésticas, se modifica el Reglamento (UE) 2023/826 de la Comisión y se deroga el Reglamento (UE) n. o  932/2012 de la Comisión ( DO L, 2023/2533, 22.11.2023, ELI: http://data.europa.eu/eli/reg/2023/2533/oj ). 
+ ( 1 )   Este elemento no se considerará relevante a los efectos del artículo 2, punto 6, del Reglamento (UE) 2017/1369. 
+ ( 2 )   En relación con el programa eco. 
+ ( 3 )   Los cambios de estos elementos no se considerarán relevantes a los efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 4 )   Si la base de datos de los productos genera automáticamente el contenido definitivo de esa celda, el proveedor no introducirá esos datos. 
+ ( 5 )   Los proveedores están obligados a incluir el enlace de la página web en la que estará disponible la información pertinente. No obstante, el acceso efectivo al sitio web debe concederse de conformidad con el calendario y las disposiciones establecidas en el punto 5.1.b) del anexo II del Reglamento (UE) 2023/2533. 
+ ( 6 )   Los proveedores están obligados a incluir el enlace de la página web en la que estará disponible la información pertinente. No obstante, el acceso efectivo al sitio web debe concederse de conformidad con el calendario y las disposiciones establecidas en el punto 5.1.d) del anexo II del Reglamento (UE) 2023/2533. 
+ ( 7 )   Los proveedores están obligados a incluir el enlace de la página web en la que estará disponible la información pertinente. No obstante, el acceso efectivo al sitio web debe concederse de conformidad con el calendario y las disposiciones establecidas en el punto 5.1.f) del anexo II del Reglamento (UE) 2023/2533. 
+ ( 8 )   En el caso de las secadoras de tambor alimentadas con gas, calculado como el consumo medio de energía ponderado por 100 ciclos de secado con arreglo al punto 1, letra f), del anexo IV del presente Reglamento, dividido por 100. 
+ ANEXO V 
+ El anexo VI del Reglamento Delegado (UE) 2023/2534 se modifica como sigue: 
+ 1) 
+ El punto 1 se modifica como sigue: 
+ a) 
+ en el párrafo primero, la parte introductoria se sustituye por el texto siguiente: 
+ «En el caso de las secadoras de tambor domésticas eléctricas, la documentación técnica mencionada en el artículo 3, apartado 1, letra b), inciso i), incluirá la siguiente información:»; 
+ b) 
+ la letra g) se sustituye por el texto siguiente: 
+ «g) 
+ los valores de los parámetros técnicos establecidos en el cuadro 5 para el programa eco, que se consideran los valores declarados a efectos del procedimiento de verificación establecido en el anexo IX.». 
+ 2) 
+ En el cuadro 5, el título se sustituye por el texto siguiente: 
+ «
+ Cuadro 5 
+ Parámetros técnicos declarados para las secadoras de tambor domésticas eléctricas». 
+ 3) 
+ En el punto 2, el párrafo primero se sustituye por el texto siguiente: 
+ «En el caso de las secadoras de tambor alimentadas con gas, la documentación técnica mencionada en el artículo 3, apartado 1, letra b), inciso i), incluirá la información que figura en el punto 1, letras a) a f), del presente anexo, así como la información establecida en el cuadro 6 para el programa eco. Los valores del cuadro 6 se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX.». 
+ 4) 
+ El cuadro 6 se modifica como sigue: 
+ a) 
+ el título se sustituye por el texto siguiente: 
+ «
+ Cuadro 6 
+ Parámetros técnicos declarados para las secadoras de tambor domésticas alimentadas con gas 
+ »; 
+ b) 
+ la cuarta fila, relativa al consumo de gas del programa eco con carga parcial, se sustituye por el texto siguiente: 
+ «Consumo de gas del programa eco con carga parcial ( E gdry,½ 
+ ) 
+ kWh/ciclo de secado 
+ X,XX»; 
+ c) 
+ las filas décima, undécima y duodécima, relativas a la duración del programa eco, se sustituyen por el texto siguiente: 
+ «Duración del programa eco con carga completa ( T dry 
+ ) 
+ h:min 
+ X:XX 
+ Duración del programa eco con carga parcial ( T dry½ 
+ ) 
+ h:min 
+ X:XX 
+ Duración ponderada del programa eco ( T t 
+ ) 
+ h:min 
+ X:XX». 
+ 5) 
+ El punto 3 se sustituye por el texto siguiente: 
+ «3. 
+ Si la información incluida en la documentación técnica de una determinada secadora de tambor doméstica se ha obtenido: 
+ a) 
+ a partir de un modelo con las mismas características técnicas pertinentes para la información técnica que debe facilitarse, pero que es producido por un proveedor distinto; 
+ b) 
+ mediante cálculos efectuados sobre la base del diseño o por extrapolación de otro modelo del mismo proveedor o de un proveedor diferente, 
+ la documentación técnica incluirá los detalles del cálculo, la evaluación realizada por los proveedores para comprobar la exactitud de los cálculos y, en su caso, la declaración de identidad entre los modelos de distintos proveedores.». 
+ ANEXO VI 
+ «ANEXO VI BIS 
+ DOCUMENTACIÓN TÉCNICA CON INFORMACIÓN SOBRE LA REPARABILIDAD 
+ 1.    
+ En el caso de las secadoras de tambor domésticas eléctricas, la documentación técnica mencionada en el artículo 3, apartado 1, letra c), inciso iii), incluirá la siguiente información: 
+ a) 
+ una descripción general del modelo que permita identificarlo fácil e inequívocamente; 
+ b) 
+ referencias de las normas armonizadas aplicadas o de otras normas de medición empleadas; 
+ c) 
+ las precauciones específicas que deben tomarse durante el montaje, la instalación, el mantenimiento o el ensayo del modelo; 
+ d) 
+ los detalles y los resultados de los cálculos efectuados con arreglo al anexo IV; 
+ e) 
+ las condiciones de ensayo si no se describen suficientemente en las referencias proporcionadas con arreglo a la letra b) del presente punto; 
+ f) 
+ los modelos equivalentes, en caso de haberlos, incluidos los identificadores del modelo; 
+ g) 
+ los valores de los parámetros técnicos establecidos en el cuadro 6a para el programa eco, que se consideran los valores declarados a efectos del procedimiento de verificación establecido en el anexo IX; 
+ h) 
+ una descripción de las fases de desmontaje de cada pieza prioritaria que figura en el punto 5 del anexo IV, incluidas las herramientas y los elementos de fijación necesarios en cada fase, en su caso; 
+ i) 
+ la información relativa a la reparación y el mantenimiento establecida en el punto 5.3.e) del anexo II del Reglamento (UE) 2023/2533. 
+ La información facilitada con arreglo a las letras a) a g) constituirá las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos de los productos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369. 
+ Cuadro 6a 
+ Parámetros técnicos declarados para las secadoras de tambor domésticas eléctricas 
+ PARÁMETRO 
+ UNIDAD 
+ VALOR 
+ Capacidad asignada del programa eco, en intervalos de 0,5 kg (c) 
+ kg 
+ X,X 
+ Consumo de energía del programa eco con carga completa (E dry ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo de energía del programa eco con carga parcial (E dry½ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo de energía ponderado del programa eco ( E tC 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo normalizado de energía del programa eco ( SE C 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Índice de eficiencia energética ( IEE ) 
+ - 
+ X,X 
+ Duración del programa eco con carga completa ( T dry 
+ ) 
+ h:min 
+ X:XX 
+ Duración del programa eco con carga parcial ( T dry½ 
+ ) 
+ h:min 
+ X:XX 
+ Duración ponderada del programa eco ( T t 
+ ) 
+ h:min 
+ X:XX 
+ Eficiencia media de condensación del programa eco con carga completa ( C dry 
+ ) (si procede) 
+ % 
+ XX 
+ Eficiencia media de condensación del programa eco con carga parcial ( C dry½ 
+ ) (si procede) 
+ % 
+ XX 
+ Eficiencia ponderada de la condensación del programa eco ( C t 
+ ) (si procede) 
+ % 
+ XX 
+ Ruido acústico aéreo emitido durante el programa eco 
+ dB(A) con respecto a 1 pW 
+ X 
+ Consumo de energía en modo apagado ( P o 
+ ) (si procede) 
+ W 
+ X,XX 
+ Consumo de energía en modo preparado ( P sm 
+ ) (si procede) 
+ W 
+ X,XX 
+ ¿Incluye el modo preparado la visualización de información? 
+ - 
+ Sí/No 
+ Consumo de energía en modo preparado en estado de modo preparado en red ( P nsm 
+ ) (si procede) 
+ W 
+ X,XX 
+ Consumo de energía en inicio aplazado ( P ds 
+ ) (si procede) 
+ W 
+ X,XX 
+ Índice de reparabilidad 
+ - 
+ X,XX 
+ 2.    
+ En el caso de las secadoras de tambor alimentadas con gas, la documentación técnica mencionada en el artículo 3, apartado 1, letra c), inciso iii), incluirá la información que figura en el punto 1, letras a) a f), h) e i), del presente anexo, así como la información establecida en el cuadro 6b para el programa eco. Los valores del cuadro 6b se consideran los valores declarados a efectos del procedimiento de verificación del anexo IX. 
+ La información facilitada con arreglo al párrafo primero del presente punto, excepto las letras h) e i), constituirá las partes específicas obligatorias de la documentación técnica que el proveedor deberá introducir en la base de datos, de conformidad con el artículo 12, apartado 5, del Reglamento (UE) 2017/1369. 
+ Cuadro 6b 
+ Parámetros técnicos declarados para las secadoras de tambor domésticas alimentadas con gas 
+ PARÁMETRO 
+ UNIDAD 
+ VALOR 
+ Capacidad asignada del programa eco, en intervalos de 0,5 kg (c) 
+ kg 
+ X,X 
+ Consumo de gas del programa eco con carga completa ( E gdry 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo de gas del programa eco con carga parcial ( E gdry,½ 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo auxiliar de electricidad del programa eco con carga completa 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo auxiliar de electricidad del programa eco con carga parcial 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo de energía ponderado del programa eco ( E tC 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Consumo normalizado de energía del programa eco ( SE C 
+ ) 
+ kWh/ciclo de secado 
+ X,XX 
+ Índice de eficiencia energética ( IEE ) 
+ - 
+ X,X 
+ Duración del programa eco con carga completa ( T dry 
+ ) 
+ h:min 
+ X:XX 
+ Duración del programa eco con carga parcial ( T dry½ 
+ ) 
+ h:min 
+ X:XX 
+ Duración ponderada del programa eco ( T t 
+ ) 
+ h:min 
+ X:XX 
+ Ruido acústico aéreo emitido durante el programa eco 
+ dB(A) con respecto a 1 pW 
+ X 
+ Consumo de energía en modo apagado ( P o 
+ ) (si procede) 
+ W 
+ X,XX 
+ Consumo de energía en modo preparado ( P sm 
+ ) (si procede) 
+ W 
+ X,XX 
+ ¿Incluye el modo preparado la visualización de información? 
+ - 
+ Sí/No 
+ Consumo de energía en modo preparado en estado de modo preparado en red ( P nsm 
+ ) (si procede) 
+ W 
+ X,XX 
+ Consumo de energía en inicio aplazado ( P ds 
+ ) (si procede) 
+ W 
+ X,XX 
+ Índice de reparabilidad 
+ - 
+ X,XX 
+ 3.    
+ Si la información incluida en la documentación técnica de una determinada secadora de tambor doméstica se ha obtenido: 
+ a) 
+ a partir de un modelo con las mismas características técnicas pertinentes para la información técnica que debe facilitarse, pero que es producido por un proveedor distinto; 
+ b) 
+ mediante cálculos efectuados sobre la base del diseño o por extrapolación de otro modelo del mismo proveedor o de un proveedor diferente, 
+ la documentación técnica incluirá los detalles del cálculo, la evaluación realizada por los proveedores para comprobar la exactitud de los cálculos y, en su caso, la declaración de identidad entre los modelos de distintos proveedores. 
+ ». 
+ ANEXO VII 
+ Los anexos VII, VIII, IX y X del Reglamento Delegado (UE) 2023/2534 se modifican como sigue: 
+ 1) 
+ En el anexo VII, los puntos 1 y 2 se sustituyen por el texto siguiente: 
+ «1. 
+ En los anuncios visuales, para garantizar la conformidad con los requisitos establecidos en el artículo 3, apartado 1, letra d), inciso i), y en el artículo 4, letra c), la clase de eficiencia energética y el intervalo de clases de eficiencia energética disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo. 
+ 2. 
+ En el material técnico promocional, para garantizar la conformidad con los requisitos establecidos en el artículo 3, apartado 1, letra d), inciso ii), y en el artículo 4, letra d), la clase de eficiencia energética y el intervalo de clases de eficiencia energética disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo.». 
+ 2) 
+ El anexo VIII se modifica como sigue: 
+ a) 
+ el punto 1 se sustituye por el texto siguiente: 
+ «1. 
+ La correspondiente etiqueta facilitada por los proveedores conforme al artículo 3, apartado 1, letra b), inciso ii), o letra c), inciso iv), según proceda, deberá mostrarse en el mecanismo de visualización cerca del precio del producto, si este se muestra, y cerca del nombre o la imagen del producto, en los demás casos. Por su tamaño, la etiqueta deberá ser claramente visible, legible y proporcionada al tamaño especificado en el anexo III o III bis , según proceda. Podrá presentarse en formato de visualización anidada, en cuyo caso la imagen que dé acceso a la etiqueta deberá cumplir las especificaciones recogidas en el punto 2 del presente anexo. Si se utiliza la visualización anidada, la etiqueta deberá aparecer con el primer clic o barrido del ratón sobre la imagen o la primera expansión de esta en pantalla táctil.»; 
+ b) 
+ en el punto 3, la letra b) se sustituye por el texto siguiente: 
+ «b) 
+ la imagen servirá de enlace a la etiqueta establecida en el anexo III o en el anexo III bis , según proceda;»; 
+ c) 
+ el punto 4 se sustituye por el texto siguiente: 
+ «4. 
+ La ficha electrónica de información del producto facilitada por el proveedor conforme al artículo 3, apartado 1, letra b), inciso iii), o letra c), inciso v), según proceda, deberá mostrarse en el mecanismo de visualización cerca del precio del producto, si este se muestra, y cerca del nombre o la imagen del producto, en los demás casos. Deberá tener un tamaño que la haga claramente visible y legible. La ficha de información del producto podrá mostrarse mediante visualización anidada o por referencia a la base de datos de los productos, en cuyo caso el enlace utilizado para acceder a la ficha de información del producto deberá indicar de manera clara y legible el texto “Ficha de información del producto”. Si se utiliza la visualización anidada, la ficha de información del producto aparecerá con el primer clic o barrido del ratón sobre el enlace o la primera expansión de este en pantalla táctil.». 
+ 3) 
+ El anexo IX se modifica como sigue: 
+ a) 
+ el punto 1 se sustituye por el texto siguiente: 
+ «1. 
+ Las tolerancias de verificación definidas en el cuadro 8 se refieren únicamente a la verificación de los valores declarados por las autoridades del Estado miembro y no serán utilizadas por el proveedor como tolerancia permitida para establecer esos valores en la documentación técnica o para interpretarlos a efectos de alcanzar la conformidad o comunicar un mejor rendimiento por cualquier medio.»; 
+ b) 
+ en el punto 4, letra b), el inciso iii) se sustituye por el texto siguiente: 
+ «iii) 
+ los valores determinados, es decir, los valores de los parámetros pertinentes medidos en los ensayos y los valores calculados a partir de estas mediciones se ajustan a: 
+ a) 
+ los criterios de validez establecidos en el cuadro 7; 
+ b) 
+ las respectivas tolerancias de verificación establecidas en el cuadro 8.»; 
+ c) 
+ el punto 6 se sustituye por el texto siguiente: 
+ «6. 
+ Si no se alcanza el resultado a que se refiere el punto 4, letra b), inciso iii), las autoridades del Estado miembro seleccionarán tres unidades adicionales del mismo modelo para someterlas a ensayo. Como alternativa, esas tres unidades adicionales seleccionadas podrán pertenecer a uno o varios modelos equivalentes. En lo que respecta al índice de reparabilidad, si no se alcanza el resultado a que se refiere el punto 4, letra b), inciso iii), las autoridades del Estado miembro seleccionarán una unidad adicional del mismo modelo para someterla a ensayo.»; 
+ d) 
+ los puntos 8 y 9 se sustituyen por el texto siguiente: 
+ «8. 
+ Se considerará que el modelo cumple los requisitos aplicables si la media aritmética de los valores determinados correspondientes a las tres unidades mencionadas en el punto 6 se ajusta a las respectivas tolerancias de verificación indicadas en el cuadro 8, excepto en lo que respecta al resultado del índice de reparabilidad, en el que se considerará que el modelo cumple los requisitos aplicables si, para la unidad adicional a que se refiere el punto 6, el valor determinado se ajusta a la tolerancia respectiva establecida en el cuadro 8. 
+ 9. 
+ Si no se alcanza el resultado a que se refiere el punto 8, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento, excepto en lo que respecta al resultado del índice de reparabilidad, en el que se considerará que el modelo no es conforme con el presente Reglamento.»; 
+ e) 
+ el punto 12 se sustituye por el texto siguiente: 
+ «12. 
+ Las autoridades de los Estados miembros aplicarán únicamente los criterios de validez establecidos en el cuadro 7 y las tolerancias de verificación indicadas en el cuadro 8 y solo utilizarán el procedimiento que figura en los puntos 1 a 9 en lo que concierne a los requisitos contemplados en el presente anexo. En lo que se refiere a los parámetros establecidos en los cuadros 7 y 8, no se aplicarán otros criterios de validez ni otras tolerancias de verificación, tales como las establecidas en las normas armonizadas o en cualquier otro método de medición.»; 
+ f) 
+ el cuadro 7 se sustituye por el siguiente: 
+ « Cuadro 7 
+ Criterios de validez 
+ Parámetro 
+ Criterios de validez 
+ Contenido medio de humedad final del programa eco μ t 
+ El valor determinado se medirá y calculará y será inferior al 1,5 %.»; 
+ g) 
+ se añade el siguiente cuadro 8: 
+ « Cuadro 8 
+ Tolerancias de verificación 
+ Parámetro 
+ Tolerancias de verificación 
+ E dry y E dry½ 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de E dry y E dry½ en más del 6 %. 
+ Eg dry y Eg dry½ 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de Eg dry y Eg dry½ en más del 6 %. 
+ Eg dry,a y Eg dry½,a 
+ El valor determinado* no podrá superar el valor declarado de Eg dry,a y Eg dry½,a en más del 6 %. 
+ C t 
+ El valor determinado  ( *1 ) no podrá ser inferior al valor declarado de C t en más del 6 %. 
+ T dry y T dry½ 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado de T dry y T dry½ en más del 6 %. 
+ P o 
+ El valor determinado  ( *1 ) no superará el valor declarado en más de 0,10 W. 
+ P sm 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ P ds 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado en más de un 10 % si el valor declarado es superior a 1,00 W, o en más de 0,10 W si el valor declarado es inferior o igual a 1,00 W. 
+ Ruido acústico aéreo emitido 
+ El valor determinado  ( *1 ) no podrá superar el valor declarado en más de 2 dB con respecto a 1 pW. 
+ Índice de reparabilidad 
+ El valor determinado no podrá ser inferior al valor declarado en más del 4 %. 
+ 4) 
+ El anexo X se modifica como sigue: 
+ a) 
+ en el párrafo primero, la parte introductoria se sustituye por el texto siguiente: 
+ «Según los métodos de medición y cálculo establecidos en el anexo IV, cada tambor de una secadora doméstica con más de un tambor se suministrará con una etiqueta que cumpla los requisitos establecidos en los anexos II y III o III bis , según proceda. Dichos requisitos serán aplicables a cada uno de los tambores de forma independiente, salvo si los tambores están montados en la misma carcasa y en el programa eco solo pueden funcionar simultáneamente. En este último caso, estas disposiciones serán aplicables a la secadora doméstica con más de un tambor en su conjunto, según se indica a continuación:»; 
+ b) 
+ el párrafo segundo se sustituye por el texto siguiente: 
+ «La ficha de información del producto deberá incluir y presentar conjuntamente la información exigida con arreglo al anexo V o al anexo V bis , según proceda, en relación con todos los tambores para los que sean aplicables las disposiciones del presente anexo. La documentación técnica deberá incluir y presentar conjuntamente la información exigida con arreglo al anexo VI o al anexo VI bis , según proceda, en relación con todos los tambores para los que sean aplicables las disposiciones del presente anexo.». 
+ ( *1 )   Si se someten tres unidades adicionales a ensayo conforme a lo dispuesto en el punto 6, por “valor determinado” se entenderá la media aritmética de los valores determinados para esas tres unidades adicionales.». 
+ ELI: http://data.europa.eu/eli/reg_del/2025/1353/oj 
+ ISSN 1977-0685 (electronic edition) 
+ 

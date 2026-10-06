@@ -1,0 +1,964 @@
+ 
+ L_2014029ES.01000101.xml 
+ 31.1.2014    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 29/1 
+ REGLAMENTO DELEGADO (UE) N
+ o 65/2014 DE LA COMISIÓN
+ de 1 de octubre de 2013
+ por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en relación con el etiquetado energético de los hornos y campanas extractoras de uso doméstico 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Vista la Directiva 2010/30/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la indicación del consumo de energía y otros recursos por parte de los productos relacionados con la energía, mediante el etiquetado y una información normalizada  ( 1 ) , y, en particular, su artículo 10, 
+ Considerando lo siguiente: 
+ (1) 
+ La Directiva 2010/30/UE dispone que la Comisión adoptará actos delegados respecto del etiquetado de los productos relacionados con la energía que ofrezcan un importante potencial de ahorro energético y difieran ampliamente en sus niveles de rendimiento para funciones equivalentes. 
+ (2) 
+ La energía que consumen los hornos eléctricos representa una proporción significativa de la demanda total de energía en la Unión. Aparte de las mejoras ya logradas en materia de eficiencia energética, el campo de acción para seguir reduciendo el consumo energético de los citados aparatos es considerable. 
+ (3) 
+ La Directiva 2002/40/CE de la Comisión, de 8 mayo de 2002, por la que se establecen disposiciones de aplicación de la Directiva 92/75/CEE del Consejo en lo que respecta al etiquetado energético de los hornos eléctricos de uso doméstico  ( 2 ) , estableció disposiciones relativas al etiquetado energético de estos aparatos. 
+ (4) 
+ El desarrollo tecnológico en el ámbito de los aparatos domésticos para cocina ha avanzado mucho en los últimos años. Los estudios preparatorios en materia de diseño ecológico ponen de manifiesto que los hornos de gas y las campanas extractoras de uso doméstico tienen aún un potencial significativo de ahorro energético. Para garantizar que el etiquetado energético ofrezca incentivos dinámicos a los proveedores para que sigan mejorando la eficiencia energética de estos aparatos y aceleren la transformación del mercado en favor de tecnologías eficientes desde el punto de vista energético, es preciso derogar la Directiva 2002/40/CE y establecer nuevas disposiciones. 
+ (5) 
+ Las disposiciones del presente Reglamento deben aplicarse a los hornos eléctricos y de gas de uso doméstico (incluidos los incorporados en cocinas) y a las campanas extractoras de uso doméstico. 
+ (6) 
+ El presente Reglamento debe introducir una nueva escala de eficiencia energética de A +++ a D para cualquier tipo de horno y una nueva escala de eficiencia energética de A a G, añadiendo un signo «+» cada dos años en la clase más alta hasta que se alcance la clase A+++, para las campanas extractoras de uso doméstico; la adición de estas nuevas clases se proponen acelerar la penetración en el mercado de los aparatos más eficientes. 
+ (7) 
+ Se espera que, combinando las disposiciones del presente Reglamento y las del Reglamento (UE) n o 66/2014 de la Comisión  ( 3 ) se consiga un ahorro anual de energía primaria de 27 PJ en 2020, que aumentaría a 60 PJ en 2030. 
+ (8) 
+ El nivel acústico de una campana extractora de uso doméstico puede constituir un factor importante para los usuarios finales. La información relativa al nivel acústico debe incluirse en las etiquetas de las campanas extractoras de uso doméstico para que los usuarios finales tomen decisiones con conocimiento de causa. 
+ (9) 
+ La información facilitada en las etiquetas debe obtenerse mediante procedimientos de medición fiables, exactos y reproducibles, teniendo en cuenta los métodos de medición y cálculo más avanzados generalmente reconocidos y, en su caso, las normas armonizadas adoptadas por los organismos europeos de normalización enumerados en el anexo I del Reglamento (UE) n o 1025/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea  ( 4 ) . 
+ (10) 
+ El presente Reglamento debe especificar un diseño y un contenido uniformes para el etiquetado de los hornos de uso doméstico (incluidos los incorporados en cocinas) y de las campanas extractoras de uso doméstico. 
+ (11) 
+ El presente Reglamento debe especificar los requisitos de documentación técnica y la ficha del producto en el caso de los hornos de uso doméstico (incluidos los incorporados en cocinas) y de las campanas extractoras de uso doméstico, incluso cuando se usen para fines no domésticos. 
+ (12) 
+ El presente Reglamento debe especificar los requisitos de información que haya que facilitar para todo tipo de venta a distancia, publicidad y material técnico de promoción de hornos de uso doméstico (incluidos los incorporados en cocinas) y de campanas extractoras de uso doméstico, incluso cuando se usen para fines no domésticos. 
+ (13) 
+ Procede prever una revisión de las disposiciones del presente Reglamento en función del progreso tecnológico y, en particular, de la eficacia y conveniencia del enfoque seguido para determinar las clases de eficiencia energética de los hornos de uso doméstico. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento debe especificar los requisitos de etiquetado y de suministro de información complementaria de los hornos de uso doméstico (incluidos los incorporados en cocinas) y de las campanas extractoras de uso doméstico, incluso cuando se vendan para fines no domésticos. 
+ 2.   El presente Reglamento no se aplica a: 
+ a) 
+ los hornos que utilicen fuentes de energía distintas de la electricidad o el gas; 
+ b) 
+ los hornos que tengan una función de calentamiento por microondas; 
+ c) 
+ los hornos de pequeño tamaño; 
+ d) 
+ los hornos portátiles; 
+ e) 
+ los hornos por acumulación de calor; 
+ f) 
+ los hornos calentados por vapor cuya función primaria es la de calefacción; 
+ g) 
+ los hornos diseñados para funcionar únicamente con gas de la «tercera familia» (propano y butano). 
+ Artículo 2 
+ Definiciones 
+ A los efectos del presente Reglamento, además de las definiciones contenidas en el artículo 2 de la Directiva 2010/30/CE, se aplicarán las siguientes: 
+ 1)    «horno» : aparato o parte de un aparato que tiene una o más cavidades que funcionan con electricidad o gas y en el que se cocinan alimentos en modo convencional o de circulación forzada; 
+ 2)    «cavidad» : compartimento cerrado en el que puede controlarse la temperatura para preparar alimentos; 
+ 3)    «horno de cavidad múltiple» : horno con dos o más cavidades, cada una de ellas calentada de forma independiente; 
+ 4)    «horno de pequeño tamaño» : horno en el que todas las cavidades tienen una anchura y una profundiad inferiores a 250 mm o una altura inferior a 120 mm; 
+ 5)    «horno portátil» : horno cuya masa total es inferior a 18 kilogramos, siempre y cuando no esté concebido para instalaciones integradas; 
+ 6)    «calentamiento por microondas» : calentamiento de alimentos mediante energía electromagnética; 
+ 7)    «modo convencional» : modo de funcionamiento de un horno que utiliza únicamente la convección natural para la circulación del aire caliente dentro de la cavidad del horno; 
+ 8)    «modo de circulación forzada» : modo en el que un ventilador integrado hace circular el aire caliente dentro de la cavidad del horno; 
+ 9)    «ciclo» : período de calentamiento de una carga normalizada en la cavidad de un horno en unas condiciones dadas; 
+ 10)    «cocina» : aparato compuesto por un horno y una placa de cocina que funciona con gas o electricidad; 
+ 11)    «modo de funcionamiento» : situación en que se encuentra un horno o una placa de cocina cuando se está usando; 
+ 12)    «fuente de calor» : principal forma de energía utilizada para calentar un horno o una placa de cocina; 
+ 13)    «campana extractora» : aparato dotado de un motor controlado por ella que evacúa el aire contaminado encima de una cocina o que incorpora un sistema de aspiración descendente que se instala junto a la cocina, las placas y aparatos similares, que aspira el vapor hacia abajo a un conducto de salida interno; 
+ 14)    «modo de funcionamiento automático durante los períodos de cocción» : estado en el que el caudal de aire de la campana extractora durante los períodos de cocción es controlado automáticamente mediante uno o varios sensores en función de la humedad, la temperatura, etc.; 
+ 15)    «campana extractora completamente automática» : campana extractora en la que el caudal de aire y/o las demás funciones se controlan automáticamente mediante uno o varios sensores durante 24 horas, incluidos los períodos de cocción; 
+ 16)    «punto de máxima eficiencia» (BEP) : punto de funcionamiento en el que la campana extractora alcanza la máxima eficiencia desde el punto de vista de la fluidodinámica (FDE campana ); 
+ 17)    «eficiencia de iluminación» : el coeficiente entre la iluminancia media del sistema de iluminación de la campana extractora de uso doméstico y la potencia del sistema de iluminación, en lux/W; 
+ 18)    «eficiencia del filtrado de grasa» : la proporción relativa de grasa que queda retenida en los filtros de grasa de la campana extractora; 
+ 19)    «modo desactivado» : estado en el que el aparato está conectado a la red eléctrica pero no ejecuta función alguna, o únicamente indica que se encuentra desactivado, o en el que solamente ofrece funciones para garantizar la compatibilidad electromagnética con arreglo a la Directiva 2004/108/CE del Parlamento Europeo y del Consejo  ( 5 ) ; 
+ 20)    «modo de espera» : estado en el que el aparato está conectado a la red eléctrica, depende de la aportación de energía procedente de dicha red para funcionar como está previsto y ofrece solamente la función de reactivación o la función de reactivación más una mera indicación de que dicha función está habilitada, y/o una visualización de información o de estado, que pueden persistir por tiempo indefinido; 
+ 21)    «función de reactivación» : aquella que permite la activación de otros modos, incluido el modo activo, mediante un conmutador a distancia, que puede ser un control remoto, un sensor interno o un temporizador, a un estado que proporcione funciones adicionales, incluida la función principal; 
+ 22)    «visualización de información o de estado» : una función continua que proporciona información o indica el estado del equipo en un visualizador, incluidos eventuales relojes; 
+ 23)    «usuario final» : el consumidor que compra o que se prevé que compre un producto; 
+ 24)    «punto de venta» : lugar donde se exponen o se ofertan los aparatos para su venta o alquiler; 
+ 25)    «modelo equivalente» : un modelo comercializado con los mismos parámetros técnicos que otro modelo comercializado por el mismo fabricante o importador con un número de código comercial diferente 
+ Artículo 3 
+ Responsabilidades de los proveedores y calendario 
+ Los proveedores deberán garantizar que: 
+ 1) 
+ por lo que se refiere a las etiquetas, fichas y documentación técnica, 
+ a) 
+ en el caso de los hornos de uso doméstico, 
+ i) 
+ cada horno de uso doméstico sea suministrado con: a) etiquetas impresas informativas con el formato establecido en el punto 1 del anexo III acerca de cada cavidad del horno, 
+ ii) 
+ los hornos de uso doméstico comercializados dispongan de una ficha de producto, de conformidad con la letra A del anexo IV, 
+ iii) 
+ la documentación técnica especificada en la letra A del anexo V se ponga a disposición de las autoridades de los Estados miembros, 
+ iv) 
+ toda publicidad para un modelo específico de horno de uso doméstico contenga la clase de eficiencia energética, si la publicidad incluye información relacionada con la energía o con el precio, 
+ v) 
+ todo material técnico de promoción relativo a un modelo específico de horno de uso doméstico que describa sus parámetros técnicos específicos incluya la clase de eficiencia energética de dicho modelo, 
+ vi) 
+ se facilite a los distribuidores, para cada cavidad de cada modelo de horno doméstico, un etiquetado electrónico con el formato y el contenido informativo recogidos en el punto 1 del anexo III, 
+ vii) 
+ se facilite a los distribuidores, para cada modelo de horno doméstico, una ficha electrónica del producto de acuerdo con lo dispuesto en el punto A del anexo IV; 
+ b) 
+ en el caso de las campanas de uso doméstico, 
+ i) 
+ cada campana extractora sea suministrada con una etiqueta impresa informativa con el formato establecido en el punto 2 del anexo III, 
+ ii) 
+ las campanas extractoras de uso doméstico comercializadas dispongan de una ficha de producto, de conformidad con la letra B del anexo IV, 
+ iii) 
+ la documentación técnica especificada en la letra B del anexo V se ponga a disposición de las autoridades de los Estados miembros, 
+ iv) 
+ toda publicidad para un modelo específico de campana extractora de uso doméstico contenga la clase de eficiencia energética, si la publicidad incluye información relacionada con la energía o con el precio, 
+ v) 
+ todo material técnico de promoción relativo a un modelo específico de campana extractora de uso doméstico que describa sus parámetros técnicos específicos incluya la clase de eficiencia energética de dicho modelo, 
+ vi) 
+ se facilite a los distribuidores, para cada modelo de campana extractora doméstica, un etiquetado electrónico con el formato y el contenido informativo recogidos en el punto 2 del anexo III, 
+ vii) 
+ se facilite a los distribuidores, para cada modelo de campana extractora doméstica, una ficha electrónica del producto de acuerdo con lo dispuesto en el punto B del anexo IV; 
+ 2) 
+ por lo que se refiere a las clases de eficiencia, 
+ a) 
+ en el caso de los hornos de uso doméstico, la clase de eficiencia energética de la cavidad del horno se determinará con arreglo al punto 1 del anexo I y al punto 1 del anexo II; 
+ b) 
+ en el caso de las campanas de uso doméstico, 
+ i) 
+ las clases de eficiencia energética se determinen con arreglo al punto 2.a) del anexo I y al punto 2.1 del anexo II, 
+ ii) 
+ las clases de eficiencia fluidodinámica se determinen con arreglo al punto 2.b) del anexo I y al punto 2.2 del anexo II, 
+ iii) 
+ las clases de eficiencia de iluminación se determinen con arreglo al punto 2.c) del anexo I y al punto 2.3 del anexo II, 
+ iv) 
+ las clases de eficiencia del filtrado de grasa se determinen con arreglo al punto 2.d) del anexo I y al punto 2.4 del anexo II; 
+ 3) 
+ por lo que se refiere al formato de las etiquetas, 
+ a) 
+ en el caso de los hornos domésticos, el formato de la etiqueta para la cavidad del horno se determine con arreglo al punto 1 del anexo III tratándose de aparatos comercializados a partir del 1 de enero de 2015; 
+ b) 
+ en el caso de las campanas extractoras domésticas, el formato de la etiqueta se ajuste al punto 2 del anexo III, de conformidad con el siguiente calendario: 
+ i) 
+ tratándose de campanas extractoras comercializadas a partir del 1 de enero de 2015 con las clases de eficiencia energética A, B, C, D, E, F, G, las etiquetas se ajustarán al punto 2.1.1 del anexo III (Etiqueta 1) o, si el proveedor lo considera oportuno, al punto 2.1.2 de dicho anexo (Etiqueta 2), 
+ ii) 
+ tratándose de campanas extractoras comercializadas a partir del 1 de enero de 2016 con las clases de eficiencia energética A + , A, B, C, D, E, F, las etiquetas se ajustarán al punto 2.1.2 del anexo III (Etiqueta 2) o, si el proveedor lo considera oportuno, al punto 2.1.3 de dicho anexo (Etiqueta 3), 
+ iii) 
+ tratándose de campanas extractoras comercializadas a partir del 1 de enero de 2018 con las clases de eficiencia energética A ++ , A + , A, B, C, D, E, las etiquetas se ajustarán al punto 2.1.3 del anexo III (Etiqueta 3) o, si el proveedor lo considera oportuno, al punto 2.1.4 de dicho anexo (Etiqueta 4), 
+ iv) 
+ tratándose de campanas extractoras comercializadas a partir del 1 de enero de 2020 con las clases de eficiencia energética A +++ , A ++ , A + , A, B, C, D, las etiquetas se ajustarán al punto 2.1.4 del anexo III (Etiqueta 4). 
+ Artículo 4 
+ Responsabilidades de los distribuidores 
+ Los distribuidores deberán garantizar que: 
+ 1) 
+ en el caso de los hornos domésticos, 
+ a) 
+ cada horno presentado en el punto de venta lleve una etiqueta para cada cavidad, suministrada por el proveedor de conformidad con el artículo 3, apartado 1, letra a), inciso i) y expuesta en la parte frontal o superior del aparato, o contigua al mismo, de modo que sea perceptible y evidente que pertenece a ese modelo sin tener que leer el nombre de la marca o el número del modelo en la etiqueta; 
+ b) 
+ los hornos ofertados para su venta o alquiler en lugares donde el usuario final no tenga la posibilidad de ver el aparato expuesto, según lo dispuesto en el artículo 7 de la Directiva 2010/30/UE, se comercialicen con la información que deben facilitar los proveedores de conformidad con la parte A del anexo VI del presente Reglamento, excepto cuando la oferta se realice por internet, en cuyo caso se aplicarán las disposiciones del anexo VII; 
+ c) 
+ toda publicidad de cualquier medio o forma de venta o comercialización a distancia de un modelo específico de horno contenga una referencia a la clase de eficiencia energética, si la publicidad revela información relacionada con la energía o sobre su precio; 
+ d) 
+ todo material técnico de promoción relativo a un modelo específico de horno que describa sus parámetros técnicos incluya la clase de eficiencia energética del modelo; 
+ 2) 
+ en el caso de las campanas domésticas, 
+ a) 
+ cada campana extractora presentada en el punto de venta lleve una etiqueta suministrada por el proveedor de conformidad con el artículo 3, apartado 1, letra b), inciso i) y expuesta en la parte frontal o superior del aparato, o contigua al mismo, de modo que sea perceptible y evidente que pertenece a ese modelo sin tener que leer el nombre de la marca o el número del modelo en la etiqueta; 
+ b) 
+ las campanas extractoras de uso doméstico ofertadas para su venta o alquiler en lugares donde el usuario final no tenga la posibilidad de ver el aparato expuesto, según lo dispuesto en el artículo 7 de la Directiva 2010/30/UE, se comercialicen con la información que deben facilitar los proveedores de conformidad con la parte B del anexo VI del presente Reglamento, excepto cuando la oferta se realice por internet, en cuyo caso se aplicarán las disposiciones del anexo VII; 
+ c) 
+ toda publicidad de cualquier medio o forma de venta o comercialización a distancia de un modelo específico de campana extractora de uso doméstico contenga una referencia a la clase de eficiencia energética, si la publicidad revela información relacionada con la energía o sobre su precio; 
+ d) 
+ todo material técnico de promoción relativo a un modelo específico de campana extractora de uso doméstico que describa sus parámetros técnicos incluya la clase de eficiencia energética del modelo. 
+ Artículo 5 
+ Métodos de medición y cálculo 
+ La información que debe proporcionarse con arreglo a los artículos 3 y 4 se obtendrá mediante procedimientos de medición fiables, exactos y reproducibles que tengan en cuenta los métodos de medición y cálculo más avanzados generalmente reconocidos. 
+ Artículo 6 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Cuando los Estados miembros efectúen controles a efectos de vigilancia del mercado con el fin de comprobar el cumplimiento de los requisitos impuestos por el presente Reglamento, las autoridades de los Estados miembros aplicarán el procedimiento de verificación contemplado en el anexo VIII. 
+ Artículo 7 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso técnico a más tardar el 1 de enero de 2021. 
+ Artículo 8 
+ Derogación 
+ La Directiva 2002/40/CE quedará derogada a partir del 1 de enero de 2015. 
+ Artículo 9 
+ Disposiciones transitorias 
+ 1.   Se considerará que los hornos domésticos que cumplan las disposiciones del presente Reglamento y que se comercialicen o se pongan en venta, alquiler, o alquiler con derecho a compra antes del 1 de enero de 2015, cumplen los requisitos de la Directiva 2002/40/CE. 
+ 2.   Desde el 1 de abril de 2015, los distribuidores podrán aplicar el artículo 4, apartado 1, letra b) a los hornos específicos incluidos en el marco de dicha disposición. 
+ 3.   Desde el 1 de abril de 2015, los distribuidores podrán aplicar el artículo 4, apartado 2, letra b) a las campanas extractoras específicas incluidas en el marco de dicha disposición. 
+ Artículo 10 
+ Entrada en vigor y aplicación 
+ 1.   El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+ 2.   Se aplicará desde el 1 de enero de 2015. Sin embargo, el artículo 3, apartado 1, letra a), incisos iv) y v), el artículo 3, apartado 1, letra b), incisos iv) y v), el artículo 4, apartado 1, letras b), c) y d) y el artículo 4, apartado 2, letras b), c) y d) se aplicarán desde el 1 de abril de 2015. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 1 de octubre de 2013. 
+ Por la Comisión 
+ El Presidente 
+ José Manuel BARROSO
+ ( 1 )   
+ DO L 153 de 18.6.2010, p. 1 . 
+ ( 2 )   
+ DO L 128 de 15.5.2002, p. 45 . 
+ ( 3 )   Véase la página 33 del presente Diario Oficial. 
+ ( 4 )   
+ DO L 316 de 14.11.2012, p. 12 . 
+ ( 5 )   Directiva 2004/108/CE del Parlamento Europeo y del Consejo, de 15 de diciembre de 2004, relativa a la aproximación de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética y por la que se deroga la Directiva 89/336/CEE ( DO L 390 de 31.12.2004, p. 24 ). 
+ ANEXO I 
+ Clases de eficiencia 
+ 1.   HORNOS DOMÉSTICOS 
+ Las clases de eficiencia energética de los hornos de uso doméstico se determinarán separadamente para cada cavidad con arreglo a los valores establecidos en el cuadro 1 del presente anexo. La eficiencia energética de los hornos se determinará con arreglo a lo dispuesto en el punto 1 del anexo II. 
+ Cuadro 1 
+ Clases de eficiencia energética de los hornos de uso doméstico 
+ Clase de eficiencia energética 
+ Índice de Eficiencia Energética (EEI cavidad ) 
+ A+++ (máxima eficiencia) 
+ EEI cavidad < 45 
+ A++ 
+ 45 ≤ EEI cavidad < 62 
+ A+ 
+ 62 ≤ EEI cavidad < 82 
+ A 
+ 82 ≤ EEI cavidad < 107 
+ B 
+ 107 ≤ EEI cavidad < 132 
+ C 
+ 132 ≤ EEI cavidad < 159 
+ D (mínima eficiencia) 
+ EEI cavidad ≥ 159 
+ 2.   CAMPANAS EXTRACTORAS DOMÉSTICAS 
+ a) 
+ Las clases de eficiencia energética de las campanas extractoras de uso doméstico se determinarán con arreglo a los valores establecidos en el cuadro 2 del presente anexo. El Índice de Eficiencia Energética (EEI campana ) de las campanas extractoras de uso doméstico se calculará de conformidad con el punto 2.1 del anexo II. 
+ Cuadro 2 
+ Clases de eficiencia energética de las campanas extractoras de uso doméstico 
+ Clase de eficiencia energética 
+ Índice de eficiencia energética (EEI campana ) 
+ Etiqueta 1 
+ Etiqueta 2 
+ Etiqueta 3 
+ Etiqueta 4 
+ A+++ (máxima eficiencia) 
+ EEI campana < 30 
+ A++ 
+ EEI campana < 37 
+ 30 ≤ EEI campana < 37 
+ A+ 
+ EEI campana < 45 
+ 37 ≤ EEI campana < 45 
+ 37 ≤ EEI campana < 45 
+ A 
+ EEI campana < 55 
+ 45 ≤ EEI campana < 55 
+ 45 ≤ EEI campana < 55 
+ 45 ≤ EEI campana < 55 
+ B 
+ 55 ≤ EEI campana < 70 
+ 55 ≤ EEI campana < 70 
+ 55 ≤ EEI campana < 70 
+ 55 ≤ EEI campana < 70 
+ C 
+ 70 ≤ EEI campana < 85 
+ 70 ≤ EEI campana < 85 
+ 70 ≤ EEI campana < 85 
+ 70 ≤ EEI campana < 85 
+ D 
+ 85 ≤ EEI campana < 100 
+ 85 ≤ EEI campana < 100 
+ 85 ≤ EEI campana < 100 
+ EEI campana ≥ 85 
+ E 
+ 100 ≤ EEI campana < 110 
+ 100 ≤ EEI campana < 110 
+ EEI campana ≥ 100 
+ F 
+ 110 ≤ EEI campana < 120 
+ EEI campana ≥ 110 
+ G (mínima eficiencia) 
+ EEI campana ≥ 120 
+ b) 
+ Las clases de eficiencia fluidodinámica (FDE campana ) de las campanas extractoras de uso doméstico se determinarán con arreglo a su eficiencia fluidodinámica según lo expuesto en el cuadro 3. La eficiencia fluidodinámica de las campanas extractoras de uso doméstico se calculará de conformidad con el punto 2.2 del anexo II. 
+ Cuadro 3 
+ Clases de eficiencia fluidodinámica de las campanas extractoras de uso doméstico 
+ Clases de eficiencia fluidodinámica 
+ Eficiencia fluidodinámica (FDE campana ) 
+ A (máxima eficiencia) 
+ FDE campana > 28 
+ B 
+ 23 < FDE campana ≤ 28 
+ C 
+ 18 < FDE campana ≤ 23 
+ D 
+ 13 < FDE campana ≤ 18 
+ E 
+ 8 < FDE campana ≤ 13 
+ F 
+ 4 < FDE campana ≤ 8 
+ G (mínima eficiencia) 
+ FDE campana ≤ 4 
+ c) 
+ Las clases de eficiencia de iluminación de las campanas extractoras de uso doméstico se determinarán con arreglo a su eficiencia de iluminación (LE campana ) según lo expuesto en el cuadro 4. La eficiencia de iluminación de las campanas extractoras de uso doméstico se calculará de conformidad con el punto 2.3 del anexo II. 
+ Cuadro 4 
+ Eficiencia de iluminación de las campanas extractoras de uso doméstico 
+ Clase de eficiencia de iluminación 
+ Eficiencia de iluminación (LE campana ) 
+ A (máxima eficiencia) 
+ LE campana > 28 
+ B 
+ 20 < LE campana ≤ 28 
+ C 
+ 16 < LE campana ≤ 20 
+ D 
+ 12 < LE campana ≤ 16 
+ E 
+ 8 < LE campana ≤ 12 
+ F 
+ 4 < LE campana ≤ 8 
+ G (mínima eficiencia) 
+ LE campana ≤ 4 
+ d) 
+ Las clases de eficiencia del filtrado de grasa de las campanas extractoras de uso doméstico se determinarán con arreglo a su eficiencia del filtrado de grasa (GFE campana ) según lo expuesto en el cuadro 5. La eficiencia desde el punto de vista del filtrado de grasa de las campanas extractoras de uso doméstico se calculará de conformidad con el punto 2.4 del anexo II. 
+ Cuadro 5 
+ Clases de eficiencia del filtrado de grasa (GFE campana ) de las campanas extractoras de uso doméstico 
+ Clase de eficiencia del filtrado de grasa 
+ Eficiencia del filtrado de grasa (%) 
+ A (máxima eficiencia) 
+ GFE campana > 95 
+ B 
+ 85 < GFE campana ≤ 95 
+ C 
+ 75 < GFE campana ≤ 85 
+ D 
+ 65 < GFE campana ≤ 75 
+ E 
+ 55 < GFE campana ≤ 65 
+ F 
+ 45 < GFE campana ≤ 55 
+ G (mínima eficiencia) 
+ GFE campana ≤ 45 
+ ANEXO II 
+ Mediciones y cálculos 
+ Para hacer efectivo el presente Reglamento y verificar el cumplimiento de los requisitos establecidos en él se harán mediciones y cálculos utilizando un método fiable, exacto y reproducible que tenga en cuenta los métodos de medición y cálculo más avanzados generalmente aceptados, incluidas las normas armonizadas cuyos números de referencia hayan sido publicados a tal fin en el Diario Oficial de la Unión Europea. Dichos métodos deberán seguir las disposiciones técnicas y las condiciones, ecuaciones y parámetros que establece el presente anexo. 
+ 1.   HORNOS DOMÉSTICOS 
+ El consumo de energía de la cavidad de un horno doméstico debe medirse con relación a un ciclo normalizado, en modo convencional y en modo de circulación forzada, si el horno dispone de él, calentando una carga normalizada inmersa en agua. Se comprobará que, durante toda la operación de medición, la temperatura dentro de la cavidad del horno alcance la seleccionada en el termostato y/o la que muestre el «display» de control. En los cálculos que figuran a continuación se utilizará el consumo de energía por ciclo que corresponda al modo que tenga el mejor rendimiento (modo convencional o modo de circulación forzada). 
+ El índice de eficiencia energética de cada cavidad de un horno doméstico (EEI cavidad ) se calculará mediante las siguientes fórmulas: 
+ Para hornos eléctricos: 
+ (en kWh) 
+ Para hornos de gas: 
+ (en MJ) 
+ Donde: 
+ —    EEI cavidad 
+ = índice de eficiencia energética de cada cavidad de un horno doméstico, redondeado al primer decimal, 
+ —    SEC cavidad eléctrica 
+ = consumo normalizado de energía (electricidad) requerido para calentar una carga normalizada en una cavidad de un horno eléctrico doméstico durante un ciclo, expresado en kWh, redondeado al segundo decimal, 
+ —    SEC cavidad de gas 
+ = consumo normalizado de energía requerido para calentar una carga normalizada en una cavidad de un horno de gas doméstico durante un ciclo, expresado en MJ, redondeado al segundo decimal, 
+ —    V = volumen de la cavidad del horno doméstico en litros (L), redondeado al entero más próximo, 
+ —    EC cavidad eléctrica 
+ = consumo de energía requerido para calentar una carga normalizada en una cavidad de un horno eléctrico doméstico durante un ciclo, expresado en kWh, redondeado al segundo decimal, 
+ —    EC cavidad de gas 
+ = consumo de energía requerido para calentar una carga normalizada en una cavidad de un horno de gas doméstico durante un ciclo, expresado en MJ, redondeado al segundo decimal. 
+ 2.   CAMPANAS EXTRACTORAS DOMÉSTICAS 
+ 2.1.    Cálculo del índice de eficiencia energética (EEI campana ) 
+ El índice de eficiencia energética ( EEI campana 
+ ) se calculará del siguiente modo: 
+ y se redondeará al primer decimal. 
+ Donde: 
+ —    SAEC campana 
+ = consumo anual de energía normalizado de la campana extractora doméstica, en kWh/a, redondeado al primer decimal, 
+ —    AEC campana 
+ = consumo anual de energía de la campana extractora doméstica, en kWh/a, redondeado al primer decimal. 
+ El consumo anual de energía normalizado ( SAEC campana 
+ ) de una campana extractora doméstica se calculará del siguiente modo: 
+ Donde: 
+ — 
+ W BEP 
+ es la potencia eléctrica de entrada de la campana extractora doméstica en el punto de máxima eficiencia, en vatios, redondeada al primer decimal, 
+ — 
+ W L 
+ es la potencia eléctrica nominal de entrada del sistema de iluminación de la campana extractora doméstica en la superficie de cocción, en vatios, redondeada al primer decimal. 
+ El consumo anual de energía ( AEC campana 
+ ) de una campana extractora doméstica se calculará del siguiente modo: 
+ i) 
+ campanas extractoras domésticas completamente automáticas: 
+ ii) 
+ todas las demás campanas extractoras domésticas: 
+ Donde: 
+ — 
+ t L 
+ es el tiempo medio diario de iluminación, en minutos (t L =120), 
+ — 
+ t H 
+ es el tiempo medio diario de funcionamiento de las campanas extractoras domésticas, en minutos, (t H =60), 
+ — 
+ P o 
+ es la potencia eléctrica de entrada en modo apagado de la campana extractora doméstica, en vatios, redondeada al segundo decimal, 
+ — 
+ P s 
+ es la potencia eléctrica de entrada en modo de espera de la campana extractora doméstica, en vatios, redondeada al segundo decimal, 
+ — 
+ f es el factor de incremento en el tiempo, calculado del siguiente modo y redondeado al primer decimal: 
+ 2.2.    Cálculo de la eficiencia fluidodinámica (FDE campana ) 
+ La FDE campana 
+ en el punto de máxima eficiencia se calculará mediante la siguiente fórmula y se redondeará al primer decimal: 
+ Donde: 
+ — 
+ Q BEP 
+ es el flujo de aire de la campana extractora doméstica en el punto de máxima eficiencia, expresado en m 3 /h y redondeado al primer decimal, 
+ — 
+ P BEP 
+ es la diferencia de presión estática de la campana extractora doméstica en el punto de máxima eficiencia, expresada en Pa y redondeada al entero más próximo, 
+ — 
+ W BEP 
+ es la potencia eléctrica de entrada de la campana extractora doméstica en el punto de máxima eficiencia, expresada en vatios y redondeada al primer decimal. 
+ 2.3.    Cálculo de la eficiencia de iluminación (LE campana ) 
+ La eficiencia de iluminación (LE campana ) de una campana extractora doméstica es la relación entre la iluminancia media y la potencia eléctrica nominal de entrada del sistema de iluminación. Se calculará en lux por vatio, redondeando la cifra al número entero más próximo: 
+ Donde: 
+ — 
+ E media 
+ es la iluminancia media del sistema de iluminación de la superficie de cocción medida en condiciones normalizadas, en lux y redondeada al número entero más próximo, 
+ — 
+ W L 
+ es la potencia eléctrica nominal de entrada del sistema de iluminación de la campana extractora doméstica en la superficie de cocción, en vatios, redondeada al primer decimal. 
+ 2.4.    Calculo de la eficiencia de filtrado de grasa (GFE campana ) 
+ La eficiencia del filtrado de grasa (GFE campana ) de una campana extractora doméstica es la cantidad relativa de grasa que queda retenida en los filtros de grasa de la campana extractora. La GFE será calculada y redondeada al primer decimal: 
+ Donde: 
+ —    w g 
+ = es la masa de aceite en el filtro de grasa, incluidos todos los recubrimientos amovibles, en g y redondeada al primer decimal, 
+ —    w r 
+ = es la masa de aceite retenida en los conductos de aire de la campana extractora, en g y redondeada al primer decimal, 
+ —    w t 
+ = es la masa de aceite retenida en el filtro absoluto, en g y redondeada al primer decimal; 
+ 2.5.    Ruido 
+ El nivel de ruido (en dB) se mide en forma de emisiones sonoras en el aire ponderadas por el valor A (valor medio ponderado-L WA ) de una campana extractora de uso doméstico regulada en el ajuste máximo de utilización normal, redondeadas al número entero más próximo. 
+ ANEXO III 
+ Etiqueta 
+ 1.   ETIQUETA PARA HORNOS DE USO DOMÉSTICO 
+ 1.1.    Hornos domésticos 
+ 1.1.1.    Presentación de la etiqueta (para cada cavidad del horno eléctrico doméstico) 
+ 1.1.2.    Información de la etiqueta – hornos eléctricos domésticos 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ Nombre o marca comercial del proveedor. 
+ II. 
+ Identificación del modelo del proveedor, entendiéndose por «identificación del modelo» el código, por lo general alfanumérico, que distingue un modelo de horno doméstico específico de otros modelos con la misma marca comercial o el mismo nombre de proveedor. 
+ III. 
+ Fuente de energía del horno doméstico. 
+ IV. 
+ Clase de eficiencia energética de la cavidad, determinada de conformidad con el anexo I. La punta de la flecha que lleva la letra indicadora se situará a la misma altura que la punta de la flecha de la clase de eficiencia energética que le corresponda. 
+ V. 
+ El volumen utilizable de la cavidad en litros, redondeado al número entero más próximo. 
+ VI. 
+ Consumo de energía expresado en kWh/ciclo (consumo de electricidad) para la función o funciones de calentamiento (tradicional y, si está disponible, de circulación forzada) de la cavidad, suponiendo una carga normalizada determinada con arreglo a los procedimientos de ensayo, redondeada al segundo decimal ( EC cavidad eléctrica 
+ ). 
+ 1.1.3.    Diseño de la etiqueta – hornos eléctricos domésticos 
+ El diseño de la etiqueta de cada cavidad de los hornos eléctricos de uso doméstico se ajustará a la figura siguiente: 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 85 mm de ancho y 170 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá íntegramente los siguientes requisitos (las cifras se refieren a la figura anterior): 
+ Trazo del borde : 4 pt – color: cian 100 % – esquinas redondeadas: 3 mm. 
+ Logotipo UE – colores: X-80-00-00 y 00-00-X-00. 
+ Logotipo de energía: color: X-00-00-00; pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 70 mm. altura: 14 mm. 
+ Trazo bajo los logotipos: 1,5 pt – color: cian 100 % – longitud: 70 mm. 
+ Escala de clases de energía 
+ — 
+ Flecha: altura: 5,5 mm, espacio: 1 mm – colores: 
+ — 
+ clase superior: X-00-X-00; 
+ — 
+ segunda clase: 70-00-X-00; 
+ — 
+ tercera clase: 30-00-X-00; 
+ — 
+ cuarta clase: 00-00-X-00; 
+ — 
+ quinta clase: 00-30-X-00; 
+ — 
+ sexta clase: 00-70-X-00; 
+ — 
+ clase inferior: 00-X-X-00. 
+ — 
+ Texto: Calibri negrita 18 pt, mayúsculas y blanco; símbolos «+»: Calibri negrita 12 pt, blanco, alineado en una sola línea. 
+ Clase de eficiencia energética 
+ — 
+ Flecha: anchura: 20 mm, altura: 10 mm, negro 100 %. 
+ — 
+ Texto: Calibri negrita 24 pt, mayúsculas y blanco; símbolos «+»: Calibri negrita 18 pt, blanco, alineado en una sola línea. 
+ Consumo de energía por ciclo 
+ — 
+ Borde: 1,5 pt – color: cian 100 % – esquinas redondeadas: 3 mm. 
+ — 
+ Valor: Calibri negrita 19 pt, negro 100 %; y Calibri normal 10 pt, negro 100 %. 
+ Volumen 
+ — 
+ Borde: 1,5 pt – color: cian 100 % – esquinas redondeadas: 3 mm. 
+ — 
+ Valor: Calibri negrita 20 pt, negro 100 %; y Calibri normal 10 pt, negro 100 %. 
+ Asterisco: Calibri normal 6 pt, negro 100 %. 
+ Número del presente Reglamento: Calibri negrita 10 pt, negro 100 %; 
+ Nombre o marca comercial del proveedor 
+ Identificador del modelo del proveedor 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben poder inscribirse en un espacio de 70 × 13 mm. 
+ 1.2.    Hornos de gas domésticos 
+ 1.2.1.    Presentación de la etiqueta (para cada cavidad del horno de gas doméstico) 
+ 1.2.2.    Información de la etiqueta 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ Nombre o marca comercial del proveedor. 
+ II. 
+ Identificación del modelo del proveedor, entendiéndose por «identificación del modelo» el código, por lo general alfanumérico, que distingue un modelo de horno doméstico específico de otros modelos con la misma marca comercial o el mismo nombre de proveedor. 
+ III. 
+ Fuente de energía del horno doméstico. 
+ IV. 
+ Clase de eficiencia energética de la cavidad, determinada de conformidad con el anexo I. La punta de la flecha que lleva la letra indicadora se situará a la misma altura que la punta de la flecha de la clase de eficiencia energética que le corresponda. 
+ V. 
+ Volumen utilizable de la cavidad en litros, redondeado al número entero más próximo. 
+ VI. 
+ Consumo de energía expresado en MJ/ciclo y en kWh/ciclo  ( 1 ) (consumo de gas) para la función o funciones de calentamiento (tradicional y, si está disponible, de circulación forzada) de la cavidad, suponiendo una carga normalizada determinada con arreglo a los procedimientos de ensayo, redondeada al segundo decimal ( EC cavidad gas 
+ ). 
+ 1.2.3.    Diseño de la etiqueta – hornos de gas domésticos 
+ El diseño de la etiqueta de cada cavidad de los hornos de gas se ajustará a la figura siguiente: 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 85 mm de ancho y 170 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá íntegramente los siguientes requisitos (las cifras se refieren a la figura anterior): 
+ Trazo del borde : 4 pt – color: cian 100 % – esquinas redondeadas: 3 mm. 
+ Logotipo UE – colores: X-80-00-00 y 00-00-X-00. 
+ Logotipo de energía: color: X-00-00-00; pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 70 mm; altura: 14 mm. 
+ Trazo bajo los logotipos: 1,5 pt – color: cian 100 % – longitud: 70 mm. 
+ Escala de clases de energía 
+ — 
+ Flecha: altura: 5,5 mm, espacio: 1 mm – colores: 
+ — 
+ clase superior: X-00-X-00; 
+ — 
+ segunda clase: 70-00-X-00; 
+ — 
+ tercera clase: 30-00-X-00; 
+ — 
+ cuarta clase: 00-00-X-00; 
+ — 
+ quinta clase: 00-30-X-00; 
+ — 
+ sexta clase: 00-70-X-00; 
+ — 
+ clase inferior: 00-X-X-00. 
+ — 
+ Texto: Calibri negrita 18 pt, mayúsculas y blanco; símbolos «+»: Calibri negrita 12 pt, blanco, alineado en una sola línea. 
+ Clase de eficiencia energética 
+ — 
+ Flecha: anchura: 20 mm, altura: 10 mm, negro 100 %. 
+ — 
+ Texto: Calibri negrita 24 pt, mayúsculas y blanco; símbolos «+»: Calibri negrita 18 pt, blanco, alineado en una sola línea. 
+ Consumo de energía por ciclo 
+ — 
+ Borde: 1,5 pt – color: cian 100 % – esquinas redondeadas: 3 mm. 
+ — 
+ Valor: Calibri negrita 19 pt, negro 100 %; y Calibri normal 10 pt, negro 100 %. 
+ Volumen 
+ — 
+ Borde: 1,5 pt – color: cian 100 % – esquinas redondeadas: 3 mm. 
+ — 
+ Valor: Calibri negrita 20 pt, negro 100 %; y Calibri normal 10 pt cm 3 , negro 100 %. 
+ Asterisco : Calibri normal 6 pt, negro 100 %. 
+ Número del presente Reglamento : Calibri negrita 10 pt, negro 100 %; 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben poder inscribirse en un espacio de 70 × 13 mm. 
+ 2.   ETIQUETA PARA CAMPANAS EXTRACTORAS DE USO DOMÉSTICO 
+ 2.1.    Formatos de las etiquetas 
+ 2.1.1.    Campanas extractoras domésticas con clases de eficiencia de A a G (etiqueta 1) 
+ 2.1.2.    Campanas extractoras domésticas con clases de eficiencia de A+ a F (etiqueta 2) 
+ 2.1.3.    Campanas extractoras domésticas con clases de eficiencia de A++ a E (etiqueta 3) 
+ 2.1.4.    Campanas extractoras domésticas con clases de eficiencia de A+++ a D (etiqueta 4) 
+ 2.2.    Información de la etiqueta – campanas extractoras domésticas 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ Nombre o marca comercial del proveedor. 
+ II. 
+ Identificación del modelo del proveedor, entendiéndose por «identificación del modelo» el código, por lo general alfanumérico, que distingue un modelo de campana extractora doméstica específica de otros modelos con la misma marca comercial o el mismo nombre de proveedor. 
+ III. 
+ Clase de eficiencia energética de la campana extractora doméstica, determinada de conformidad con el anexo I. La punta de la flecha que contiene la clase de eficiencia energética se situará a la misma altura que la punta de la flecha de la clase de eficiencia energética que le corresponda. 
+ IV. 
+ Consumo de energía anual (AEC campana ) calculado con arreglo al anexo II, expresado en kWh y redondeado al número entero más próximo. 
+ V. 
+ Clase de eficiencia fluidodinámica determinada de conformidad con el anexo I. 
+ VI. 
+ Clase de eficiencia de iluminación determinada de conformidad con el anexo I. 
+ VII. 
+ Clase de eficiencia de filtrado de grasa determinada de conformidad con el anexo I. 
+ VIII. 
+ Nivel de ruido, determinado de conformidad con el punto 2.5 del anexo II, redondeado al número entero más próximo. 
+ 2.3.    Diseño de la etiqueta — campanas extractoras domésticas 
+ El diseño de la etiqueta se ajustará a la figura siguiente: 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 60 mm de ancho y 120 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá íntegramente los siguientes requisitos (las cifras se refieren a la figura anterior): 
+ Trazo del borde: 3 pt – color: cian 100 % – esquinas redondeadas: 2 mm. 
+ Logotipo UE: colores: X-80-00-00 y 00-00-X-00. 
+ Logotipo de energía: color: X-00-00-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 51 mm, altura: 10 mm. 
+ Trazo bajo los logotipos: 1 pt – color: cian 100 % – longitud: 51 mm. 
+ Escala de clases de energía 
+ — 
+ Flecha: altura: 4 mm, espacio: 0,75 mm – colores: 
+ — 
+ clase superior: X-00-X-00; 
+ — 
+ segunda clase: 70-00-X-00; 
+ — 
+ tercera clase: 30-00-X-00; 
+ — 
+ cuarta clase: 00-00-X-00; 
+ — 
+ quinta clase: 00-30-X-00; 
+ — 
+ sexta clase: 00-70-X-00; 
+ — 
+ clase inferior: 00-X-X-00. 
+ — 
+ Texto: Calibri negrita 10 pt, mayúsculas y blanco; símbolos «+»: Calibri 7 pt, blanco, alineado en una sola línea. 
+ Clase de eficiencia energética 
+ — 
+ Flecha: anchura: 15 mm, altura: 8 mm, negro 100 %. 
+ — 
+ Texto: Calibri negrita 17 pt, mayúsculas y blanco; símbolos «+»: Calibri 12 pt, blanco, alineado en una sola línea. 
+ Consumo anual de energía 
+ — 
+ Borde: 1 pt – color: cian 100 % – esquinas redondeadas: 2,5 mm. 
+ — 
+ Valor: Calibri negrita 21 pt, negro 100 %; y Calibri normal 8 pt, negro 100 %. 
+ Eficiencia fluidodinámica 
+ — 
+ Pictograma como el presentado: 
+ — 
+ Borde: 1 pt – color: cian 100 % – esquinas redondeadas: 2,5 mm. 
+ — 
+ Valor: Calibri normal 6 pt, negro 100 %; y Calibri negrita, 11,5 pt, negro 100 %. 
+ Eficiencia de iluminación 
+ — 
+ Pictograma como el presentado: 
+ — 
+ Borde: 1 pt – color: cian 100 % – esquinas redondeadas: 2,5 mm. 
+ — 
+ Valor: Calibri normal 6 pt, negro 100 %; y Calibri negrita, 11,5 pt, negro 100 %. 
+ Eficiencia del filtrado de grasa 
+ — 
+ Pictograma como el presentado: 
+ — 
+ Borde: 1 pt – color: cian 100 % – esquinas redondeadas: 2,5 mm. 
+ — 
+ Valor: Calibri normal 10 pt, negro 100 %; y Calibri negrita, 14 pt, negro 100 %. 
+ Nivel de ruido 
+ — 
+ Pictograma como el presentado: 
+ — 
+ Borde: 1 pt – color: cian 100 % – esquinas redondeadas: 2,5 mm. 
+ — 
+ Valor: Calibri normal 6 pt, negro 100 %; y Calibri negrita, 11,5 pt, negro 100 %. 
+ Número del presente Reglamento: Calibri negrita 8 pt, negro 100 %; 
+ Nombre o marca comercial del proveedor 
+ Identificador del modelo del proveedor 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben poder inscribirse en un espacio de 51 × 9 mm. 
+ ( 1 )   1 kWh/ciclo = 3,6 MJ/ciclo 
+ ANEXO IV 
+ Ficha 
+ A.   FICHA PARA HORNOS DE USO DOMÉSTICO 
+ 1. 
+ La información de la ficha del producto a que se refiere el artículo 3, apartado 1, letra a), inciso ii) se facilitará, en el caso de los hornos domésticos, en la manera y en el mismo orden que se especifica a continuación y se incluirá en el prospecto y demás documentación entregada con el producto: 
+ a) 
+ nombre o marca comercial del proveedor; 
+ b) 
+ identificador del modelo del proveedor, que es el código, por lo general alfanumérico, que distingue a un modelo específico de horno doméstico de otros de la misma marca o proveedor y con diferentes valores declarados en cada uno de los parámetros incluidos en la etiqueta del horno doméstico (punto 1 del anexo III); 
+ c) 
+ el índice de eficiencia energética (EEI cavidad ) de cada cavidad del modelo, calculado con arreglo al punto 1 del anexo II, y redondeado al primer decimal; el índice de eficiencia energética declarado no excederá el índice consignado en la documentación técnica del anexo V; 
+ d) 
+ la clase de eficiencia energética de cada cavidad del modelo, según lo dispuesto en el cuadro 1 del anexo I, la clase declarada no será más favorable que la consignada en la documentación técnica del anexo V; 
+ e) 
+ el consumo energético por ciclo de cada cavidad, si se dispone del mismo, en modo tradicional y en modo de circulación forzada (el consumo así medido se expresará en kWh en el caso de los hornos eléctricos y de gas, o en MJ, en el de los de gas), redondeado al segundo decimal; el valor declarado no será inferior al consignado en la documentación técnica del anexo V; 
+ f) 
+ el número de cavidades; la fuente o fuentes de energía, por cavidad; y el volumen de cada cavidad. 
+ 2. 
+ Sin perjuicio de los requisitos establecidos en el sistema de la etiqueta ecológica de la Unión, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la Unión Europea» en virtud del Reglamento (CE) n o 66/2010 del Parlamento Europeo y del Consejo  ( 1 ) , podrá añadirse una reproducción de la misma. 
+ 3. 
+ Se podrá utilizar una única ficha para varios modelos de horno doméstico suministrados por el mismo proveedor. 
+ 4. 
+ La información recogida en la ficha podrá consistir en una reproducción de la etiqueta de cada cavidad, ya sea en color o en blanco y negro. Si tal fuera el caso, también se facilitará la información enumerada en el punto 1 que aún no figure en la etiqueta. 
+ B.   FICHA PARA CAMPANAS EXTRACTORAS DE USO DOMÉSTICO 
+ 1. 
+ La información de la ficha del producto a que se refiere el artículo 3, apartado 1, letra b), inciso ii) se facilitará, en el caso de las campanas extractoras domésticas, en la manera y en el mismo orden que se especifica a continuación y se incluirá en el prospecto y demás documentación entregada con el producto: 
+ a) 
+ el nombre o marca comercial del proveedor; 
+ b) 
+ el identificador del modelo del proveedor, que es el código, por lo general alfanumérico, que distingue a un modelo específico de campana extractora doméstica de otros de la misma marca o proveedor y con diferentes valores declarados en cada uno de los parámetros incluidos en la etiqueta de la campana extractora doméstica (punto 2 del anexo III); 
+ c) 
+ el consumo de energía anual (AEC campana ) calculado de acuerdo con el punto 2 del anexo II, expresado en kWh/a y redondeado al primer decimal; el valor declarado no será inferior al consignado en la documentación técnica del anexo V; 
+ d) 
+ la clase de eficiencia energética, según se establece en el cuadro 2 del anexo I; la clase declarada no será más favorable que la consignada en la documentación técnica del anexo V; 
+ e) 
+ la eficiencia fluidodinámica (FDE campana ), calculada de acuerdo con el punto 2 del anexo II y redondeada al primer decimal; el valor declarado no será superior al consignado en la documentación técnica del anexo V; 
+ f) 
+ la clase de eficiencia fluidodinámica, según se establece en el cuadro 3 del anexo I; la clase declarada no será superior a la consignada en la documentación técnica del anexo V; 
+ g) 
+ la eficiencia de iluminación (LE campana ) calculada de acuerdo con el punto 2 del anexo II, expresado en lux/vatio y redondeada al primer decimal; el valor declarado no será superior al consignado en la documentación técnica del anexo V; 
+ h) 
+ la clase de eficiencia de iluminación, según se establece en el cuadro 4 del anexo I; la clase declarada no será superior a la consignada en la documentación técnica del anexo V; 
+ i) 
+ la eficiencia de filtrado de grasa, calculada de acuerdo con el punto 2 del anexo II, expresada porcentualmente y redondeada al primer decimal; el valor declarado no será superior al consignado en la documentación técnica del anexo V; 
+ j) 
+ la clase de eficiencia de filtrado de grasa, según se establece en el anexo I, cuadro 5; la clase declarada no será superior a la consignada en la documentación técnica del anexo V; 
+ k) 
+ el flujo de aire (en m 3 /h, redondeado al número entero más próximo), en su ajuste mínimo y máximo de utilización normal, pero excluyendo posiciones ultrarrápidas o reforzadas; los valores declarados no será superiores a los consignados en la documentación técnica del anexo V; 
+ l) 
+ si se dispone de la información, el flujo de aire (en m 3 /h y redondeado al número entero más próximo) en posición ultrarrápida o reforzada; el valor declarado no será superior a los consignados en la documentación técnica del anexo V; 
+ m) 
+ las emisiones sonoras en el aire ponderadas por el valor A, en dB y redondeadas al número entero más próximo, en su ajuste mínimo y máximo de utilización normal; el valor declarado no será inferior al consignado en la documentación técnica del anexo V; 
+ n) 
+ si se dispone de la información, las emisiones sonoras en el aire ponderadas por el valor A, en dB y redondeadas al número entero más próximo, en posición ultrarrápida o reforzada; el valor declarado no será inferior al consignado en la documentación técnica del anexo V; 
+ o) 
+ si procede, el consumo de electricidad en modo desactivado, en vatios y redondeado al segundo decimal; los valores declarados no serán inferiores a los consignados en la documentación técnica del anexo V; 
+ p) 
+ si procede, el consumo de electricidad en modo de espera, en vatios y redondeado al segundo decimal; los valores declarados no serán inferiores a los consignados en la documentación técnica del anexo V. 
+ 2. 
+ Se podrá utilizar una única ficha para varios modelos de campana extractora doméstica del mismo proveedor. 
+ 3. 
+ La información recogida en la ficha podrá consistir en una reproducción de la etiqueta, ya sea en color o en blanco y negro. Si tal fuera el caso, también se facilitará la información enumerada en el punto 1 que aún no figure en la etiqueta. 
+ ( 1 )   
+ DO L 27 de 30.1.2010, p. 1 . 
+ ANEXO V 
+ Documentación técnica 
+ A.   DOCUMENTACIÓN TÉCNICA DE LOS HORNOS DOMÉSTICOS 
+ 1. 
+ La documentación técnica contemplada en el artículo 3, apartado 1, letra a), inciso iii), comprenderá, como mínimo: 
+ a) 
+ el nombre y la dirección del proveedor; 
+ b) 
+ una descripción general del modelo de aparato que ha de ser suficiente para su identificación inequívoca, incluido el identificador del modelo del proveedor, que es el código, por lo general alfanumérico, que distingue a un modelo específico de horno doméstico de otros de la misma marca o proveedor y con diferentes valores declarados en cada uno de los parámetros incluidos en la etiqueta del horno doméstico (punto 1 del anexo III); 
+ c) 
+ los siguientes parámetros técnicos para las mediciones: 
+ i) 
+ el número de cavidades; el volumen de cada cavidad; la fuente o fuentes de energía, por cavidad; la función o funciones de calentamiento (tradicional o de circulación forzada) por cavidad, 
+ ii) 
+ si se dispone de la información, el consumo de energía por ciclo en cada cavidad, en modo tradicional y en circulación forzada; el consumo de energía así medido se expresará en kWh (hornos eléctricos y de gas) y en MJ (hornos de gas) redondeado al segundo decimal, 
+ iii) 
+ el índice de eficiencia energética (EEI cavidad ) de cada cavidad del horno doméstico, calculado con arreglo al punto 1 del anexo II, y redondeado al primer decimal, 
+ iv) 
+ la clase de eficiencia energética de cada cavidad del horno doméstico, según lo dispuesto en el cuadro 1 del anexo I; 
+ d) 
+ una reproducción del cálculo y los resultados de los cálculos efectuados con arreglo al anexo II; 
+ e) 
+ si procede, las referencias de las normas armonizadas aplicadas; 
+ f) 
+ si procede, las demás especificaciones y normas técnicas aplicadas; 
+ g) 
+ la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor; 
+ 2. 
+ Los proveedores podrán incluir información adicional al final de esta lista. 
+ B.   DOCUMENTACIÓN TÉCNICA DE LAS CAMPANAS EXTRACTORAS DE USO DOMÉSTICO 
+ 1. 
+ La documentación técnica contemplada en el artículo 3, apartado 1, letra b), inciso iii), comprenderá, como mínimo: 
+ a) 
+ el nombre y la dirección del proveedor; 
+ b) 
+ una descripción general del modelo de aparato que ha de ser suficiente para su identificación inequívoca, incluido el identificador del modelo del proveedor, que es el código, por lo general alfanumérico, que distingue a un modelo específico de campana extractora doméstica de otros de la misma marca o proveedor y con diferentes valores declarados en cada uno de los parámetros incluidos en la etiqueta de la campana extractora doméstica (punto 2 del anexo III); 
+ c) 
+ los siguientes parámetros técnicos para las mediciones: 
+ 1) 
+ la eficiencia energética (EEI campana ), calculada de acuerdo con el punto 2 del anexo II y redondeada al primer decimal; 
+ 2) 
+ la clase de eficiencia energética, según se establece en el cuadro 2 del anexo I; 
+ 3) 
+ el consumo de energía anual (AEC campana ), calculado de acuerdo con el anexo II, punto 2, expresado en kWh/a y redondeado al primer decimal; 
+ 4) 
+ el factor de incremento en el tiempo (f), calculado de acuerdo con lo dispuesto en el punto 2 del anexo II y redondeado al primer decimal; 
+ 5) 
+ la eficiencia fluidodinámica (FDE campana ), calculada de acuerdo con el punto 2 del anexo II y redondeada al primer decimal; 
+ 6) 
+ la clase de eficiencia fluidodinámica, según se establece en el cuadro 3 del anexo I; 
+ 7) 
+ el flujo de aire de la campana extractora doméstica en el punto de máxima eficiencia (Q BEP ), expresado en m 3 /h y redondeado al primer decimal; 
+ 8) 
+ la diferencia de presión estática de la campana extractora doméstica en el punto de máxima eficiencia (P BEP ), expresada en Pa y redondeada al número entero más próximo; 
+ 9) 
+ la potencia eléctrica de entrada de la campana extractora doméstica en el punto de máxima eficiencia (W BEP ), en vatios, redondeada al primer decimal; 
+ 10) 
+ la iluminancia media del sistema de iluminación de la superficie de cocción (E media ), en lux, redondeada al número entero más próximo; 
+ 11) 
+ el consumo nominal de electricidad del sistema de iluminación de la superficie de cocción (W L ), en vatios y redondeado al primer decimal; 
+ 12) 
+ la eficiencia de iluminación (LE campana ) calculada de acuerdo con el punto 2 del anexo II, expresado en lux/vatio y redondeada al primer decimal; 
+ 13) 
+ la clase de eficiencia de iluminación, según se establece en el cuadro 4 del anexo I; 
+ 14) 
+ la eficiencia de filtrado de grasa (GFE campana ), calculada de acuerdo con el punto 2 del anexo II y redondeada al primer decimal; 
+ 15) 
+ la clase de eficiencia de filtrado de grasa, según se establece en el cuadro 5 del anexo I; 
+ 16) 
+ si procede, el consumo de electricidad en modo desactivado (P o ), en vatios y redondeado al segundo decimal; 
+ 17) 
+ si procede, el consumo de electricidad en modo de espera (P s ), en vatios y redondeado al segundo decimal; 
+ 18) 
+ las emisiones sonoras en el aire ponderadas A, en dB y redondeadas al número entero más próximo, en su ajuste mínimo y máximo de utilización normal; 
+ 19) 
+ si se dispone de la información, las emisiones sonoras en el aire ponderadas A, en dB y redondeadas al número entero más próximo, en posición ultrarrápida o reforzada; 
+ 20) 
+ el flujo de aire de la campana extractora doméstica en su ajuste mínimo y máximo de utilización normal, expresado en m 3 /h y redondeado al primer decimal; 
+ 21) 
+ si se dispone de la información, el flujo de aire de la campana extractora doméstica en posición ultrarrápida o reforzada (en m 3 /h y redondeado al primer decimal); 
+ d) 
+ una reproducción de los cálculos y los resultados de los cálculos efectuados con arreglo al anexo II; 
+ e) 
+ si procede, las referencias de las normas armonizadas aplicadas; 
+ f) 
+ si procede, las demás especificaciones y normas técnicas aplicadas; 
+ g) 
+ identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor. 
+ 2. 
+ Los proveedores podrán incluir información adicional. 
+ ANEXO VI 
+ Información que debe facilitarse en los casos en los que el usuario final no tenga la posibilidad de ver el producto expuesto excepto en internet 
+ A.   HORNOS DOMÉSTICOS 
+ 1. 
+ La información contemplada en el artículo 4, apartado 1, letra b), se facilitará en el siguiente orden: 
+ a) 
+ el nombre o marca comercial del proveedor; 
+ b) 
+ el identificador del modelo del proveedor, es decir, el identificador del modelo de horno doméstico específico al que corresponden las cifras indicadas más adelante; 
+ c) 
+ la clase de eficiencia energética de cada cavidad del modelo, según lo dispuesto en el anexo I, cuadro 1; la clase declarada no será más favorable que la consignada en la documentación técnica del anexo V; 
+ d) 
+ si se dispone de la información, el consumo de energía por ciclo en cada cavidad, en modo tradicional y en circulación forzada; el consumo de energía así medido se expresará en kWh (hornos eléctricos y de gas) y en MJ (hornos de gas) redondeado al segundo decimal; el valor declarado no será inferior al consignado en la documentación técnica del anexo V; 
+ e) 
+ el número de cavidades; la fuente o fuentes de energía, por cavidad; el volumen de cada cavidad. 
+ 2. 
+ Cuando se facilite además otra información contenida en la ficha del producto, esta se dispondrá en la forma y orden especificados en el anexo IV. 
+ 3. 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en el presente anexo deberán ser legibles. 
+ B.   CAMPANAS EXTRACTORAS DOMÉSTICAS 
+ 1. 
+ La información contemplada en el artículo 4, apartado 2, letra b), se facilitará en el siguiente orden: 
+ a) 
+ el nombre o marca comercial del proveedor; 
+ b) 
+ el identificador del modelo del proveedor, es decir, el identificador del modelo de campana extractora específico al que corresponden las cifras indicadas más adelante; 
+ c) 
+ la clase de eficiencia energética del modelo según lo dispuesto en el cuadro 2 del anexo I, la clase declarada no será más favorable que la consignada en la documentación técnica del anexo V; 
+ d) 
+ el consumo anual de energía del modelo, en kWh, según lo dispuesto en el punto 2.1 del anexo II, el valor declarado no será inferior al consignado en la documentación técnica del anexo V; 
+ e) 
+ la clase de eficiencia fluidodinámica del modelo según lo dispuesto en el cuadro 3 del anexo I, la clase declarada no será más favorable que la consignada en la documentación técnica del anexo V; 
+ f) 
+ la clase de eficiencia de iluminación del modelo según lo dispuesto en el cuadro 4 del anexo I, la clase declarada no será más favorable que la consignada en la documentación técnica del anexo V; 
+ g) 
+ la clase de eficiencia de filtrado de grasa del modelo según lo dispuesto en el cuadro 5 del anexo I, la clase declarada no será más favorable que la consignada en la documentación técnica del anexo V; 
+ h) 
+ las emisiones sonoras en el aire ponderadas por el valor A (valor medio ponderado-L WA ), en dB y redondeadas al número entero más próximo, en su ajuste mínimo y máximo de utilización normal; el valor declarado no será inferior al consignado en la documentación técnica del anexo V. 
+ 2. 
+ Cuando se facilite además otra información contenida en la ficha del producto, esta se dispondrá en la forma y orden especificados en el anexo IV. 
+ 3. 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en el presente anexo deberán ser legibles. 
+ ANEXO VII 
+ Información que ha de facilitarse en caso de venta, alquiler o alquiler con derecho a compra por internet 
+ 1. 
+ A efectos de los puntos 2 a 5 del presente anexo, se aplicarán las siguientes definiciones: 
+ a)    «mecanismo de visualización» : una pantalla, incluidas las pantallas táctiles, u otra tecnología visual utilizada para presentar contenidos de internet a los usuarios; 
+ b)    «visualización anidada» : una interfaz visual gracias a la cual puede accederse a una imagen o serie de datos a partir de otra imagen o serie de datos con un clic o un barrido del ratón o con la expansión de una pantalla táctil; 
+ c)    «pantalla táctil» : una pantalla que responde al tacto, como la de las tabletas digitales, los ordenadores pizarra o los teléfonos inteligentes; 
+ d)    «texto alternativo» : texto facilitado como alternativa a un gráfico que permite presentar la información de forma no gráfica cuando los sistemas de visualización no puedan ofrecer el gráfico, o como ayuda a la accesibilidad, por ejemplo acompañando a las aplicaciones con voz de síntesis. 
+ 2. 
+ El etiquetado pertinente, proporcionado por los proveedores de conformidad con el artículo 3, apartado 1, letra a), inciso vi) o con el artículo 3, apartado 1, letra b), inciso vi), será mostrado en el mecanismo de visualización de forma contigua al precio del producto con arreglo al calendario fijado en el artículo 3, apartado 3. En el caso de los hornos, el etiquetado pertinente corresponderá a cada cavidad de los mismos. Por su tamaño, la etiqueta deberá ser claramente visible, legible y proporcionada al tamaño especificado en el anexo III. Podrá presentarse en formato de visualización anidada, en cuyo caso la imagen que dé acceso a la etiqueta deberá cumplir las especificaciones recogidas en el punto 3 del presente anexo. Si se utiliza la visualización anidada, la etiqueta aparecerá con el primer clic o barrido del ratón sobre la imagen o la expansión de la misma en pantalla táctil. 
+ 3. 
+ En el caso de la visualización anidada, la imagen que se use para acceder a la etiqueta deberá: 
+ a) 
+ consistir en una flecha del color correspondiente a la clase de eficiencia energética del producto en la etiqueta; 
+ b) 
+ indicar en blanco en la flecha la clase de eficiencia energética del producto en un tamaño de fuente equivalente al del precio, y 
+ c) 
+ ajustarse a uno de los siguientes formatos: 
+ 4. 
+ En caso de visualización anidada, la visualización de la etiqueta deberá seguir la siguiente secuencia: 
+ a) 
+ la imagen a que se refiere el punto 3 del presente anexo se presentará a través del mecanismo de visualización de forma contigua al precio del producto; 
+ b) 
+ la imagen servirá de enlace hacia la etiqueta; 
+ c) 
+ la etiqueta aparecerá con un clic o barrido del ratón sobre la imagen o una expansión de la misma en pantalla táctil; 
+ d) 
+ la etiqueta aparecerá en forma de «pop-up» (ventana emergente), pestaña nueva o pantalla en recuadro; 
+ e) 
+ para aumentar el tamaño de la etiqueta en las pantallas táctiles, se aplicarán las normas sobre ampliación de estos dispositivos; 
+ f) 
+ la imagen de la etiqueta desaparecerá utilizando la opción «cerrar» u otro mecanismo habitual de cierre; 
+ g) 
+ el texto alternativo al gráfico, que aparecerá si no se visualiza la etiqueta, consistirá en la clase de eficiencia energética del producto y tendrá un tamaño de fuente equivalente al del precio. 
+ 5. 
+ La ficha del producto, proporcionada por los proveedores de conformidad con el artículo 3, apartado 1, letra a), inciso vii) o con el artículo 3, apartado 1, letra b), inciso vii), será mostrada en el mecanismo de visualización de forma contigua al precio del producto. Por su tamaño, la ficha del producto será claramente visible y legible. Podrá presentarse en modo de visualización anidada, en cuyo caso el enlace por el que se accede a ella irá clara y legiblemente marcado como «Ficha del producto». Si se utiliza la visualización anidada, la ficha del producto aparecerá con el primer clic o barrido del ratón sobre el enlace o la expansión del mismo en pantalla táctil. 
+ ANEXO VIII 
+ Procedimiento de control de la conformidad del producto por las autoridades de vigilancia del mercado 
+ A efectos de la evaluación de la conformidad de los productos con los requisitos establecidos en el presente Reglamento, las autoridades de los Estados miembros aplicarán el siguiente procedimiento: 
+ 1. 
+ Las autoridades del Estado miembro someterán a ensayo una sola unidad por modelo. 
+ 2. 
+ Se considerará que el modelo cumple los requisitos aplicables: 
+ a) 
+ si los valores y clases declarados en la etiqueta y en la ficha del producto no son más favorables para el proveedor que los valores de la documentación técnica, incluidos los informes de ensayo, y 
+ b) 
+ si los ensayos efectuados para verificar los parámetros pertinentes, aplicando las tolerancias recogidas en el cuadro 6, demuestran que tales parámetros se cumplen. 
+ 3. 
+ Si no se obtiene el resultado indicado en el punto 2, letra a), se considerará que el modelo y todos los modelos equivalentes cumplen el presente Reglamento. 
+ 4. 
+ Si no se obtiene el resultado indicado en el punto 2, letra b), las autoridades de los Estados miembros seleccionarán tres unidades adicionales del mismo modelo para ensayo. Alternativamente, las tres unidades adicionales seleccionadas podrán ser de uno o varios modelos diferentes que hayan sido identificados como modelo equivalente en la documentación técnica del proveedor. 
+ 5. 
+ Se considerará que el modelo cumple los requisitos aplicables si los ensayos efectuados para verificar los parámetros pertinentes del modelo enumerados en el cuadro 6 demuestran que tales parámetros se cumplen. 
+ 6. 
+ Si no se obtiene el resultado indicado en el punto 5, se considerará que el modelo y todos los modelos equivalentes no cumplen el presente Reglamento. Las autoridades del Estado miembro proporcionarán, en el plazo de un mes a partir de la decisión de no conformidad del modelo, los resultados de los ensayos y demás información pertinente a las autoridades de los otros Estados miembros y a la Comisión. 
+ Las autoridades de los Estados miembros utilizarán los métodos de medición y cálculo establecidos en el anexo II. 
+ Las tolerancias determinadas en el presente anexo, que representan las variaciones permitidas en las mediciones de los ensayos de verificación, solo pueden aplicarse a la verificación de los parámetros medidos por las autoridades de los Estados miembros y en ningún caso podrán ser utilizadas por el proveedor para determinar los valores en la documentación técnica ni para interpretar dichos valores con el fin de, en cualquier manera posible, obtener un etiquetado más favorable o comunicar un nivel superior de eficiencia. 
+ Cuadro 6 
+ Tolerancias de verificación 
+ Parámetros medidos 
+ Tolerancias de verificación 
+ Masa del horno (M) 
+ El valor determinado no podrá superar el valor declarado de M en más del 5 % 
+ Volumen de la cavidad del horno (V) 
+ El valor determinado no podrá ser inferior al valor declarado de V en más del 5 % 
+ EC cavidad eléctrica , EC cavidad de gas 
+ El valor determinado no podrá superar el valor declarado de EC cavidad eléctrica , EC cavidad de gas en más del 5 % 
+ W BEP , W L 
+ El valor determinado no podrá superar el valor declarado de W BEP , W L en más del 5 % 
+ Q BEP , P BEP 
+ El valor determinado no podrá ser inferior al valor declarado de Q BEP , P BEP en más del 5 % 
+ Q max 
+ El valor determinado no podrá superar el valor declarado de Qmax en más del 8 % 
+ E media 
+ El valor determinado no podrá ser inferior al valor declarado de E media en más del 5 % 
+ GFE campana 
+ El valor determinado no podrá ser inferior al valor declarado de GFE campana en más del 5 %. 
+ P o , P s 
+ El valor determinado de consumo eléctrico P o 
+ y P s 
+ no podrá superar el valor declarado en más del 10 %. Si es igual o inferior a 1,00 W, el valor determinado de consumo eléctrico P o 
+ y P s 
+ no podrá superar el valor declarado en más de 0,10 W. 
+ Nivel de potencia acústica L WA 
+ El valor determinado no podrá superar el valor declarado. 
+ 

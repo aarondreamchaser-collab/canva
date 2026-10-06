@@ -1,0 +1,99 @@
+title: Cuánto consume un lavavajillas: coste por lavado, programa eco y etiqueta
+title_seo: Cuánto consume un lavavajillas por lavado y al mes
+excerpt: Cuánto consume un lavavajillas: un lavado eco gasta cerca de 1 kWh, unos 0,16 € a 0,165 €/kWh. Con 12 al mes, 1,96 €. Cómo leer la etiqueta.
+category: consumo
+keyword: cuánto consume un lavavajillas
+---
+¿Cuánto consume un lavavajillas? Un lavado con el programa eco gasta cerca de 1 kWh, unos 0,16 € por lavado. Con 12 lavados al mes son 1,96 € al mes y 23,52 € al año; si lo pones todos los días, unos 5 € al mes.
+
+Las cifras usan un precio de <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio, cámbialo: el coste sube o baja en la misma proporción. El lavado de referencia es el de nuestra calculadora de consumo: un lavavajillas de 1.200 W con un programa eco de hora y media.
+
+## Cuánto consume un lavavajillas según cuánto lo pones {#coste}
+
+El lavavajillas no funciona a plena potencia todo el ciclo: la resistencia calienta el agua a ratos y el resto del tiempo solo funcionan la bomba y el secado. Por eso, como en nuestra calculadora, aplicamos un factor de uso real de 0,55: un lavavajillas de 1.200 W durante 1,5 horas gasta unos 0,99 kWh.
+
+{{T:lavavajillas_frecuencia}}
+
+Con tres lavados a la semana pagas unos 2 € al mes. Con uno al día, unos 5 €. Si tu lavavajillas es más eficiente que el de referencia, gastará menos: mira la etiqueta.
+
+{{CAJA:Dato clave}}
+Aclarar la vajilla antes de meterla gasta más energía y agua, y el propio reglamento obliga a que el manual lo desaconseje. Basta con quitar los restos con una cuchara o una servilleta.
+{{/CAJA}}
+
+## Cómo leer la etiqueta energética del lavavajillas {#etiqueta}
+
+Desde el 1 de marzo de 2021, los lavavajillas llevan la etiqueta del <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2017" target="_blank" rel="noopener">Reglamento Delegado (UE) 2019/2017</a>, con clases de la A a la G. Muestra:
+
+- <strong>El consumo de energía por 100 ciclos</strong> del programa eco, en kWh.
+- <strong>La capacidad</strong>, en cubiertos, para el programa eco.
+- <strong>El agua por ciclo</strong>, en litros.
+- <strong>La duración</strong> del programa eco.
+- <strong>La clase de ruido</strong> y un código QR con la ficha del modelo.
+
+Divide entre 100 los kWh de la etiqueta y tendrás lo que gasta cada lavado eco:
+
+{{T:lavavajillas_etiqueta}}
+
+## Qué significan las clases {#clases}
+
+La clase compara el consumo del programa eco con el de un lavavajillas estándar de la misma capacidad:
+
+{{T:lavavajillas_clases}}
+
+El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2022" target="_blank" rel="noopener">Reglamento (UE) 2019/2022 de diseño ecológico</a> fija un mínimo: desde el 1 de marzo de 2021, los lavavajillas nuevos tienen que tener un índice inferior a 63, y desde el 1 de marzo de 2024, los de diez cubiertos o menos, inferior a 56, es decir, de clase E o mejor. Como en las lavadoras, la clase depende de la capacidad: uno grande de clase B puede gastar más por lavado que uno pequeño de clase D. Para la factura, fíjate en los kWh.
+
+## El programa eco y lo que dice el manual {#programa-eco}
+
+Todos los lavavajillas nuevos tienen un programa llamado eco. El reglamento obliga a que venga seleccionado por defecto y a que sea el que se usa para medir la etiqueta. Además, el manual tiene que explicar varias cosas que conviene saber:
+
+- Que el programa eco es el más eficiente, en energía y agua juntas, para vajilla de suciedad normal.
+- Que cargarlo hasta su capacidad ahorra energía y agua.
+- Que <strong>aclarar la vajilla antes</strong> gasta más energía y agua y no se recomienda.
+- Que, usado según las instrucciones, un lavavajillas normalmente gasta menos energía y agua que lavar a mano.
+- La duración y el consumo de energía y agua de todos sus programas.
+
+Así que, si quieres saber cuánto gasta el programa intensivo o el rápido de tu lavavajillas, la cifra está en el manual, que el fabricante tiene que publicar en su web. Es normal que el eco sea de los programas más largos: no lo cambies por uno rápido pensando que gasta menos sin mirar antes el manual.
+
+Si tu lavavajillas se conecta a internet, el reglamento obliga a que esa conexión venga desactivada de fábrica y a que se pueda activar y desactivar.
+
+## Cuánto ahorras poniéndolo en las horas baratas {#horas}
+
+El lavavajillas es de los aparatos más fáciles de mover de hora: lo cargas después de cenar y usas el inicio diferido.
+
+{{T:lavavajillas_tramos}}
+
+Con 12 lavados al mes, pasar de punta a valle ahorra 1,66 € al mes, unos 20 € al año. Las horas de cada tramo las tienes en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>. Si lo pones de noche, sigue las indicaciones del fabricante sobre su uso sin vigilancia y no lo juntes a la misma hora con el termo y la lavadora, para que no salte el limitador. Si te pasa, lee <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+
+## Trucos para que el lavavajillas gaste menos {#trucos}
+
+- <strong>Usa el programa eco</strong> para la vajilla de todos los días.
+- <strong>Llénalo</strong> antes de ponerlo, respetando cómo indica el manual que se coloca cada cosa.
+- <strong>No aclares la vajilla con agua caliente</strong>. Retira los restos con una cuchara o una servilleta.
+- <strong>Limpia el filtro</strong> con la frecuencia que indique el manual y revisa que los brazos no estén atascados.
+- <strong>Mantén la sal y el abrillantador</strong> si tu agua es dura: la cal en la resistencia empeora el rendimiento.
+- <strong>Apágalo al terminar</strong> si se queda con la pantalla encendida: así cortas el consumo en espera. Lo explicamos en <a href="https://tuluzencasa.com/consumo-fantasma/">consumo fantasma</a>.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto cuesta poner un lavavajillas?
+
+Unos 0,16 € por un lavado eco de cerca de 1 kWh, a 0,165 €/kWh. Con la etiqueta del tuyo, divide los kWh entre 100 y multiplica por tu precio.
+
+### ¿Gasta más el lavavajillas que lavar a mano?
+
+Según la información que el reglamento obliga a dar en el manual, un lavavajillas usado según las instrucciones normalmente gasta menos energía y agua que lavar a mano. Depende de cómo friegues tú: con agua caliente corriendo, gastas más.
+
+### ¿Por qué el programa eco tarda tanto?
+
+Es normal que sea largo. Lo importante es que el manual tiene que indicar que es el programa más eficiente en energía y agua para la vajilla de suciedad normal, y te da su duración y su consumo para que lo compares con los demás.
+
+### ¿Es mejor el programa rápido para ahorrar?
+
+No necesariamente. Que dure menos no significa que gaste menos. Compara la energía de cada programa en el manual.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2017" target="_blank" rel="noopener">Reglamento Delegado (UE) 2019/2017 de la Comisión</a> (DO L 315, de 5 de diciembre de 2019), etiquetado energético de lavavajillas: cuadro 1 de clases, contenido de la etiqueta y aplicación desde el 1 de marzo de 2021.
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2022" target="_blank" rel="noopener">Reglamento (UE) 2019/2022 de la Comisión</a>, diseño ecológico de lavavajillas: anexo II, programa eco, requisitos de eficiencia, conexión de red e información del manual.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: añade el lavavajillas con su potencia, las horas y los días que lo usas, y la franja horaria, para ver cuánto ahorrarías con el inicio diferido.
