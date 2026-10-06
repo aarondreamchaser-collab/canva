@@ -1,14 +1,14 @@
 # Cambios para quitar repeticiones en artículos publicados
 
-Revisión del 6 de octubre de 2026: 20 artículos publicados y 8 borradores (203-206 y 214-217).
-35 cambios en 13 artículos publicados, **pendientes de tu OK**. Solo cambia la redacción: no se tocan cifras, enlaces, títulos, estado ni fechas.
-Se aplican con `repeticiones/revisar.py --aplicar` (hace copia de cada entrada en `rediseno/copia-seguridad/`, comprueba que nadie la ha cambiado y valida los bloques).
+Revisión del 6 de octubre de 2026 sobre los 20 artículos publicados y los 8 borradores (203-206 y 214-217).
+**38 cambios en 14 artículos publicados, pendientes de tu OK.** Solo cambia la redacción: cifras, enlaces, títulos, estado y fechas no se tocan.
+Se aplican con `repeticiones/revisar.py --aplicar`, que hace copia de cada entrada en `rediseno/copia-seguridad/`, comprueba que nadie la ha cambiado y valida los bloques.
 
 Se mantienen iguales a propósito:
-- «Calcula tu caso exacto con nuestra calculadora de consumo» y «Cálculos con precios de octubre de 2026» (obligatorias por CLAUDE.md). El texto que sigue a la primera frase ya es distinto en cada artículo.
+- «Calcula tu caso exacto con nuestra calculadora de consumo» y «Cálculos con precios de octubre de 2026», obligatorias por CLAUDE.md. El texto que sigue a la primera ya es distinto en cada artículo.
 - El aviso de precio del aire acondicionado (16), que queda como el único con la fórmula original.
-- Rótulos de estructura: «En este artículo:», «Preguntas frecuentes», «Fuentes oficiales consultadas el…», y títulos de apartado con la misma forma («Trucos para que el termo gaste menos», «… la nevera gaste menos»).
-- Frases cortas de enlace («lo explicamos en qué potencia contratar») y datos que describen el mismo ejemplo de la calculadora en dos artículos.
+- Los rótulos de estructura («En este artículo:», «Preguntas frecuentes», «Fuentes oficiales consultadas el…») y los títulos de apartado con la misma forma («Trucos para que el termo gaste menos», «Cuánto consume X según su potencia»).
+- Las frases cortas de enlace («lo explicamos en qué potencia contratar») y la lista de aparatos del piso de ejemplo, que es el mismo dato en dos artículos.
 
 
 ## 17 · Cuánto consume una freidora de aire frente a un horno eléctrico
@@ -62,7 +62,7 @@ Se mantienen iguales a propósito:
 
 - **Aviso de precio repetido**
   - Antes: Las cifras usan un precio de **0,165 €/kWh con impuestos incluidos** (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo: el ahorro sube o baja en la misma proporción.
-  - Después: El precio de referencia es de **0,165 €/kWh con impuestos incluidos**: 0,13 € de energía con el impuesto eléctrico y el IVA sumados. Cuanto más caro te salga el kWh, más ahorras con la bomba de calor, y al revés, en la misma proporción.
+  - Después: El precio de referencia es de **0,165 €/kWh con impuestos incluidos**: la energía a 0,13 € con el impuesto eléctrico y el IVA ya incluidos. Cuanto más caro te salga el kWh, más ahorras con la bomba de calor, y al revés, en la misma proporción.
 
 - **Frase repetida con calefacción eléctrica más barata**
   - Antes: El invierno se cuenta como 4 meses.
@@ -173,7 +173,11 @@ Se mantienen iguales a propósito:
 
 - **Frase de tramos repetida**
   - Antes: Con la tarifa 2.0TD con discriminación horaria, el precio del kWh depende de la franja. Así sale un deshumidificador de 250 W, 8 horas al día:
-  - Después: Como el deshumidificador puede funcionar a cualquier hora, con una tarifa por tramos compensa elegir cuándo. Estos son los costes de uno de 250 W funcionando 8 horas al día en cada franja:
+  - Después: Como el deshumidificador puede funcionar a cualquier hora, con una tarifa por tramos compensa elegir cuándo. Así, en cada franja, salen estos costes para uno de 250 W que funciona 8 horas al día:
+
+- **Respuesta con la misma plantilla que en la manta eléctrica**
+  - Antes: Uno de 250 W, 24 horas, unos 4,8 kWh:
+  - Después: Si un aparato de 250 W no para en todo el día, gasta unos 4,8 kWh:
 
 
 ## 137 · Cuánto cuesta cargar un coche eléctrico en casa: por 100 km, al mes y al año
@@ -182,9 +186,20 @@ Se mantienen iguales a propósito:
   - Antes: **Si el enchufe o la clavija se calientan**, deja de cargar y llama a un instalador autorizado.
   - Después: **Si notas caliente la toma o la clavija**, para la carga y pide a un instalador autorizado que la revise.
 
+- **Horario del valle escrito igual que en tramos horarios**
+  - Antes: El valle va de 0 a 8 h de lunes a viernes y todo el día los sábados, domingos y festivos nacionales.
+  - Después: Las horas valle son las de 0 a 8 entre semana y los sábados, domingos y festivos nacionales enteros.
+
 
 ## 93 · Qué potencia contratar: cómo calcularla y cuánto ahorras
 
 - **Final del cierre idéntico al de cómo leer la factura**
   - Antes: pon tus aparatos, tu potencia contratada y los precios de tu factura.
   - Después: mete los aparatos que sueles encender a la vez y comprueba si tu potencia contratada se queda corta o te sobra.
+
+
+## 94 · PVPC o mercado libre: cuál te conviene según cuándo consumes
+
+- **Respuesta casi igual que en bono social eléctrico**
+  - Antes: El bono social solo se aplica a contratos con una comercializadora de referencia. Si estás en mercado libre y cumples los requisitos, tienes que pasarte al PVPC para pedirlo.
+  - Después: Para tener bono social hay que estar en el PVPC de una comercializadora de referencia, así que, si estás en el mercado libre y cumples los requisitos, tendrás que cambiarte para pedirlo.

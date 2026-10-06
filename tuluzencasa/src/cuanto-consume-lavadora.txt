@@ -31,6 +31,8 @@ Desde el 1 de marzo de 2021, las lavadoras llevan la etiqueta energética del <a
 - <strong>La clase de centrifugado</strong>, de la A a la G, y el ruido.
 - <strong>Un código QR</strong> que lleva a la ficha del modelo en la base de datos europea de productos.
 
+{{IMG:esquema-etiqueta}}
+
 El dato que te interesa para la factura es el de los kWh por 100 ciclos. Divídelo entre 100 y tienes los kWh de cada lavado con el programa eco 40-60:
 
 {{T:lavadora_etiqueta}}

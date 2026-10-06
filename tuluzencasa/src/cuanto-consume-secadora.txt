@@ -16,6 +16,8 @@ El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32023R2533
 
 Son las mejores de cada tipo en ese momento, así que muchas secadoras gastan más. Aun así, la tabla deja clara la diferencia: la bomba de calor gasta unas tres veces menos energía que una secadora con resistencia, aunque tarda casi una hora más.
 
+Si usas nuestra calculadora de consumo, verás que para la secadora de evacuación da unos 2 kWh por secado, no 2,58: calcula 2.500 W durante una hora con un factor de uso de 0,8, que equivale a una carga normal. El reglamento mide otra cosa, el programa eco de 76 minutos con la carga de 7 kg completa y parcial; con esa misma potencia y esa duración, la cuenta de la calculadora daría 2,53 kWh, casi lo mismo. Para tu caso, pon en la calculadora las horas que funciona tu secadora.
+
 {{CAJA:Dato clave}}
 Con 12 secados al mes, una secadora con bomba de calor ahorra 41,10 € al año frente a una de evacuación y 44,67 € frente a una de condensación con resistencia, con los valores de referencia del reglamento.
 {{/CAJA}}

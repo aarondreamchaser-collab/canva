@@ -21,7 +21,7 @@ CAMBIOS = [
   f"Para poner todos los sistemas en la misma balanza, la electricidad se paga a {P165} (0,13 € de energía, más el impuesto eléctrico y el IVA). Si tu kWh cuesta otra cosa, los importes cambian, pero el orden de qué calefacción sale más barata se mantiene."),
  (96, "Aviso de precio repetido",
   f"Las cifras usan un precio de {P165} (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo: el ahorro sube o baja en la misma proporción.",
-  f"El precio de referencia es de {P165}: 0,13 € de energía con el impuesto eléctrico y el IVA sumados. Cuanto más caro te salga el kWh, más ahorras con la bomba de calor, y al revés, en la misma proporción."),
+  f"El precio de referencia es de {P165}: la energía a 0,13 € con el impuesto eléctrico y el IVA ya incluidos. Cuanto más caro te salga el kWh, más ahorras con la bomba de calor, y al revés, en la misma proporción."),
  (97, "Aviso de precio repetido",
   f"Las cifras usan un precio de {P165} (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo y los resultados cambian en la misma proporción.",
   f"Los tres aparatos se comparan con la luz a {P165} (0,13 € por kWh de energía, más el impuesto eléctrico y el IVA). Tu precio puede ser otro: los euros cambian, la comparación entre ellos no."),
@@ -82,7 +82,7 @@ CAMBIOS = [
   "Si tu contrato tiene precios por tramos (peaje 2.0TD), mira a qué hora lo enciendes. Un emisor de 1.000 W durante 5 horas diarias cuesta esto según la franja:"),
  (106, "Frase de tramos repetida",
   "Con la tarifa 2.0TD con discriminación horaria, el precio del kWh depende de la franja. Así sale un deshumidificador de 250 W, 8 horas al día:",
-  "Como el deshumidificador puede funcionar a cualquier hora, con una tarifa por tramos compensa elegir cuándo. Estos son los costes de uno de 250 W funcionando 8 horas al día en cada franja:"),
+  "Como el deshumidificador puede funcionar a cualquier hora, con una tarifa por tramos compensa elegir cuándo. Así, en cada franja, salen estos costes para uno de 250 W que funciona 8 horas al día:"),
  # --- Pasos del enchufe medidor: iguales en estufa y manta ---
  (105, "Pasos iguales que en la estufa",
   "Enchufa la manta al medidor y úsala como siempre durante una semana.",
@@ -117,4 +117,14 @@ CAMBIOS = [
  (105, "Frase de enlace igual que en radiador, convector o calefactor",
   "Tienes el detalle de esos aparatos en <a href=\"https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/\">cuánto consume un radiador de aceite</a> y en <a",
   "Si quieres comparar con más calma, mira <a href=\"https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/\">cuánto consume un radiador de aceite</a> y <a"),
+ # --- Tercera pasada (6-10-2026, tarde) ---
+ (137, "Horario del valle escrito igual que en tramos horarios",
+  "El valle va de 0 a 8 h de lunes a viernes y todo el día los sábados, domingos y festivos nacionales.",
+  "Las horas valle son las de 0 a 8 entre semana y los sábados, domingos y festivos nacionales enteros."),
+ (94, "Respuesta casi igual que en bono social eléctrico",
+  "El bono social solo se aplica a contratos con una comercializadora de referencia. Si estás en mercado libre y cumples los requisitos, tienes que pasarte al PVPC para pedirlo.",
+  "Para tener bono social hay que estar en el PVPC de una comercializadora de referencia, así que, si estás en el mercado libre y cumples los requisitos, tendrás que cambiarte para pedirlo."),
+ (106, "Respuesta con la misma plantilla que en la manta eléctrica",
+  "Uno de 250 W, 24 horas, unos 4,8 kWh:",
+  "Si un aparato de 250 W no para en todo el día, gasta unos 4,8 kWh:"),
 ]

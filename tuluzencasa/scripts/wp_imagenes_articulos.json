@@ -10,5 +10,11 @@
   "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/esquema-cups-factura-ejemplo.jpg",
   "alt": "Esquema de una factura de luz de ejemplo, con datos inventados, que señala dónde está el CUPS y explica sus partes: país, distribuidora, punto de suministro y letras de control.",
   "pie": "Factura de ejemplo con datos inventados. El CUPS es el ejemplo que publica el BOE y no corresponde a ninguna vivienda."
+ },
+ "esquema-etiqueta": {
+  "id": 230,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/esquema-etiqueta-lavadora-ejemplo.jpg",
+  "alt": "Esquema de una etiqueta energética de lavadora de ejemplo, con datos inventados, y los pasos para pasar los kWh por 100 ciclos a euros por lavado.",
+  "pie": "Etiqueta de ejemplo con datos inventados: no corresponde a ningún modelo. Esquema de tuluzencasa.com."
  }
 }

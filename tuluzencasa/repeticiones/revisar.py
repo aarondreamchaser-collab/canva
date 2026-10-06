@@ -11,7 +11,7 @@ VAL = os.environ["VALIDADOR"]
 aplicar = "--aplicar" in sys.argv
 por = {}
 for c in CAMBIOS: por.setdefault(c[0], []).append(c)
-md = ["# Cambios para quitar repeticiones en artículos publicados\n"]
+md = [(Path(__file__).parent / "cabecera.md").read_text(encoding="utf-8")]
 copia = BASE / "rediseno" / "copia-seguridad" / f"{datetime.date.today()}-repeticiones"
 for pid, lista in por.items():
     post = requests.get(f"{API}/posts/{pid}?context=edit", auth=AUTH, timeout=60).json()
