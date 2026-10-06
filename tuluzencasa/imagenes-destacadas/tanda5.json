@@ -1,0 +1,41 @@
+{
+ "cuanto-consume-lavadora": {
+  "titulo": "File:Washing Machine Details - Flickr - dejankrsmanovic.jpg",
+  "autor": "Dejan Krsmanovic",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Washing_Machine_Details_-_Flickr_-_dejankrsmanovic.jpg",
+  "alt": "Tambor de una lavadora con ropa dentro, visto a través del cristal de la puerta.",
+  "edicion": "recortada a 16:9"
+ },
+ "cuanto-consume-secadora": {
+  "titulo": "File:Inside clothes dryer 20190218.jpg",
+  "autor": "Santeri Viinamäki",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Inside_clothes_dryer_20190218.jpg",
+  "alt": "Interior del tambor de una secadora de ropa con la puerta abierta.",
+  "edicion": "recortada a 16:9"
+ },
+ "cuanto-consume-lavavajillas": {
+  "titulo": "File:Dishwasher in a modern kitchen with opened door showing dishes inside.jpg",
+  "autor": "Shixart1985",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Dishwasher_in_a_modern_kitchen_with_opened_door_showing_dishes_inside.jpg",
+  "alt": "Lavavajillas abierto en una cocina, con la bandeja de arriba cargada de tazas.",
+  "edicion": "recortada a 16:9"
+ },
+ "cuanto-consume-horno-electrico": {
+  "titulo": "File:Grilled chicken in electric oven, Rostov-on-Don, Russia.jpg",
+  "autor": "Vyacheslav Argenberg",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Grilled_chicken_in_electric_oven,_Rostov-on-Don,_Russia.jpg",
+  "alt": "Bandeja de cristal con pollo asándose dentro de un horno eléctrico encendido.",
+  "edicion": "recortada a 16:9"
+ },
+ "esquema-etiqueta-lavadora-ejemplo": {
+  "titulo": "Esquema propio",
+  "autor": "tuluzencasa.com",
+  "licencia": "propia",
+  "alt": "Esquema de una etiqueta energética de lavadora de ejemplo, con datos inventados, y los pasos para pasar los kWh por 100 ciclos a euros por lavado.",
+  "dentro_de": "cuanto-consume-lavadora"
+ }
+}
