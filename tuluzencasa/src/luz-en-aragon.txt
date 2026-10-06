@@ -1,0 +1,100 @@
+title: Luz en Aragón: distribuidora, clima, trámites y cómo pagar menos
+title_seo: Luz en Aragón: distribuidora, trámites y cómo ahorrar
+excerpt: Luz en Aragón: mismo precio que en el resto de la península, pero calentar el agua de 3 personas cuesta unos 26 € en enero en Huesca o Teruel.
+category: luz-por-comunidades
+keyword: luz en Aragón
+---
+¿Cómo funciona la luz en Aragón? El precio es el mismo que en el resto de la península, porque los peajes, los cargos y los impuestos de la factura no dependen de la comunidad; lo que cambia es el clima, que decide cuánto gastas. Calentar el agua de la ducha para tres personas cuesta unos 26 € en enero en Huesca o Teruel, y unos 20 € en julio.
+
+En este artículo calculamos con <strong>0,165 €/kWh con impuestos</strong>. En tu caso, mira el precio del kWh en tu factura: si es distinto, los costes de las tablas suben o bajan en la misma proporción.
+
+## Luz en Aragón: qué es igual y qué cambia {#igual}
+
+En Aragón contratas la luz igual que en cualquier otra comunidad de la península: eliges comercializadora, tarifa y potencia, y puedes acogerte al precio regulado o al mercado libre. El bono social también es estatal, con los mismos requisitos y descuentos; lo tienes explicado en <a href="https://tuluzencasa.com/bono-social-electrico/">bono social eléctrico</a>.
+
+Lo que sí es propio de Aragón:
+
+- <strong>La distribuidora</strong> que lleva la red hasta tu casa.
+- <strong>El clima</strong>: inviernos fríos en buena parte del territorio, que pesan en la calefacción y en el agua caliente.
+- <strong>Los trámites</strong> que dependen del Gobierno de Aragón: el registro del boletín eléctrico, las consultas de seguridad industrial y el arbitraje de consumo.
+
+## Quién te lleva la luz: la distribuidora {#distribuidora}
+
+La distribuidora es la empresa dueña de los cables y los contadores de tu zona. No la eliges: depende de dónde vivas, y no cambia aunque cambies de compañía. Según el <a href="https://www.aragon.es/instalaciones-y-equipos-industriales/electricidad/baja-tension/especificaciones-de-empresas-distribuidoras" target="_blank" rel="noopener">Gobierno de Aragón</a>, la principal distribuidora en la comunidad es <strong>Edistribución Redes Digitales</strong>, del grupo Endesa; en algunos municipios la red puede ser de otra empresa.
+
+Para saber cuál es la tuya, mira la factura: debe aparecer el nombre de la distribuidora y su teléfono gratuito de averías. Los cuatro primeros números del CUPS también la identifican; te explicamos cómo se lee en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>. A la distribuidora tienes que llamar si se va la luz en la calle; los cambios de potencia se piden normalmente a tu comercializadora, que los tramita con ella.
+
+## El clima de Aragón y tu factura {#clima}
+
+El Código Técnico de la Edificación divide España en zonas climáticas según la provincia y la altitud. La letra indica la dureza del invierno, de la α, la más suave, a la E, la más fría; el número, la del verano, de 1 a 4. Las tres capitales quedan así:
+
+{{T:aragon_zonas}}
+
+Dentro de cada provincia, la zona empeora con la altura. Según la tabla del <a href="https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf" target="_blank" rel="noopener">Documento Básico de Ahorro de Energía</a>:
+
+- <strong>Provincia de Zaragoza</strong>: C3 hasta 200 metros, D3 de 201 a 650 y E1 por encima.
+- <strong>Provincia de Huesca</strong>: C3 hasta 200 metros, D3 de 201 a 400, D2 de 401 a 700 y E1 por encima.
+- <strong>Provincia de Teruel</strong>: C3 hasta 450 metros, C2 de 451 a 500, D2 de 501 a 1.000 y E1 por encima.
+
+En un pueblo del Pirineo o de la sierra turolense, por encima de 700 o de 1.000 metros, estás en zona E, la de invierno más duro de toda la escala. Ahí la calefacción es, con diferencia, lo que más pesa en el gasto de energía de casa. Te comparamos todos los sistemas eléctricos en <a href="https://tuluzencasa.com/calefaccion-electrica-mas-barata/">calefacción eléctrica más barata</a>.
+
+## Agua caliente: lo que cuesta calentarla en cada capital {#agua-caliente}
+
+El agua del grifo llega más fría en invierno, y calentarla cuesta más. El CTE da la temperatura media del agua de red de cada capital mes a mes y calcula las casas con 28 litros por persona y día a 60 °C. Con esos datos, para tres personas y un termo eléctrico:
+
+{{T:aragon_acs}}
+
+Es la energía justa para calentar el agua, sin contar lo que pierde el termo, así que la factura real será algo mayor. La diferencia entre capitales es pequeña; lo que más cambia es la estación: en enero se paga casi un 30 % más que en julio. Nuestra calculadora de consumo usa un caso más ahorrador, un termo de 80 litros con unas 3 horas de resistencia al día.
+
+{{CAJA:Dato clave}}
+Si tienes tarifa por horas, programa el termo para que caliente de madrugada o en fin de semana. El agua se queda caliente en el depósito y la pagas al precio más bajo.
+{{/CAJA}}
+
+## Placas solares en Aragón {#placas}
+
+El sol de Aragón da para el autoconsumo. Con los datos de la herramienta PVGIS de la Comisión Europea, cada kWp de placas bien orientadas produce en Zaragoza unos 1.619 kWh al año, casi lo mismo que en Madrid. En el ejemplo de nuestro artículo sobre <a href="https://tuluzencasa.com/placas-solares-en-casa/">placas solares en casa</a>, una instalación de 3 kWp en Zaragoza ahorra unos 463,02 € al año.
+
+Para el autoconsumo, la instalación también se registra ante el Gobierno de Aragón, como cualquier instalación eléctrica.
+
+## Trámites en Aragón: a quién acudir {#tramites}
+
+{{T:aragon_donde}}
+
+- <strong>El boletín eléctrico</strong> de una instalación nueva o reformada lo registra la empresa instaladora con el <a href="https://www.aragon.es/tramitador/-/tramite/instalaciones-electricas-baja-tension-comunicacion-puesta-servicio-baja" target="_blank" rel="noopener">trámite n.º 26 del Gobierno de Aragón</a>, que incluye una tasa. Tú no tienes que presentarlo.
+- <strong>Para cambiar el titular</strong> del contrato no hace falta boletín. La <a href="https://www.aragon.es/documents/20127/13486493/BT_Doc_Contratacion-suministro_v8.pdf/cbbab549-27b9-3a25-5664-475ab6029aa3?t=1568276543046" target="_blank" rel="noopener">guía del Gobierno de Aragón para contratar la luz</a> lo deja claro para las viviendas.
+- <strong>Si reclamas</strong> a tu compañía y no te da la razón, puedes pedir un <a href="https://www.aragon.es/tramitador/-/tramite/solicitud-arbitraje-consumo" target="_blank" rel="noopener">arbitraje de consumo</a>. Es voluntario para la empresa: si no está adherida al sistema arbitral, el arbitraje solo sigue adelante si lo acepta. Se resuelve en 3 meses con un laudo que obliga a las dos partes y que cierra la vía judicial.
+
+## Trucos para pagar menos luz en Aragón {#trucos}
+
+- <strong>Ajusta la potencia</strong> al uso real: en las casas con calefacción eléctrica suele hacer falta más en invierno que en verano. Desde 2026 puedes subirla de forma temporal, por meses o trimestres, con cinco días hábiles de antelación.
+- <strong>Programa el termo</strong> en las horas baratas si tienes tarifa por horas.
+- <strong>Calienta solo las habitaciones que usas</strong> y cierra las puertas.
+- <strong>Ventila poco rato</strong> en invierno: unos minutos bastan para renovar el aire sin enfriar la casa.
+- <strong>Aprovecha el sol</strong>: sube las persianas de las fachadas soleadas en invierno y bájalas en verano.
+- <strong>Revisa tu tarifa una vez al año</strong> con tu consumo real, que puedes descargar del área de clientes de la distribuidora.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿La luz es más cara en Aragón?
+
+No. El precio, los peajes y los impuestos son los mismos que en el resto de la península. Lo que cambia es cuánto consumes, sobre todo por el frío.
+
+### ¿Qué distribuidora tengo en Aragón?
+
+En la mayor parte de la comunidad, Edistribución Redes Digitales. Lo confirmas en tu factura, donde aparece su nombre y su teléfono de averías.
+
+### ¿Dónde se registra el boletín eléctrico en Aragón?
+
+Ante el Gobierno de Aragón, con el trámite n.º 26. Lo presenta la empresa instaladora, no el usuario.
+
+### ¿Hay bono social de la luz en Aragón?
+
+Sí, el mismo que en toda España. Se pide a una comercializadora de referencia.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://www.aragon.es/instalaciones-y-equipos-industriales/electricidad/baja-tension/especificaciones-de-empresas-distribuidoras" target="_blank" rel="noopener">Gobierno de Aragón, especificaciones de las empresas distribuidoras</a>, <a href="https://www.aragon.es/tramitador/-/tramite/instalaciones-electricas-baja-tension-comunicacion-puesta-servicio-baja" target="_blank" rel="noopener">trámite n.º 26 de instalaciones de baja tensión</a> y <a href="https://www.aragon.es/tramitador/-/tramite/solicitud-arbitraje-consumo" target="_blank" rel="noopener">arbitraje de consumo</a>.
+- <a href="https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf" target="_blank" rel="noopener">Código Técnico de la Edificación, Documento Básico HE</a>: anejo B (zonas climáticas), anejo G (temperatura del agua de red) y sección HE4 (demanda de agua caliente).
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212" target="_blank" rel="noopener">Real Decreto 88/2026</a>: artículo 38.5, cambios temporales de potencia.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu calefacción, tu termo y el resto de aparatos, y mira cuánto pesa cada uno en tu factura.

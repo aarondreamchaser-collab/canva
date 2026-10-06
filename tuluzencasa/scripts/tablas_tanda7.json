@@ -1,0 +1,376 @@
+{
+ "boletin_cuando": {
+  "headers": [
+   "Lo que quieres hacer",
+   "¿Te piden boletín?",
+   "Lo que dice la norma"
+  ],
+  "rows": [
+   [
+    "Dar de alta la luz en una vivienda nueva",
+    "Sí",
+    "La distribuidora no puede conectar sin el certificado registrado (REBT, art. 18.3)"
+   ],
+   [
+    "Reformar la instalación: circuitos nuevos, ampliación o cambio del cuadro",
+    "Sí, uno nuevo",
+    "Toda ampliación o modificación lleva certificado (ITC-BT-04)"
+   ],
+   [
+    "Cambiar el contrato a tu nombre sin tocar nada",
+    "No",
+    "RD 88/2026, art. 39.6, también con más de 20 años"
+   ],
+   [
+    "Bajar la potencia contratada",
+    "No",
+    "Solo se pide si hay obra en la instalación"
+   ],
+   [
+    "Subir la potencia sin pasar de la que admite tu boletín",
+    "No, si el contrato tiene 20 años o menos",
+    "La potencia contratada debe quedar por debajo de la del boletín"
+   ],
+   [
+    "Subir la potencia con un contrato de más de 20 años",
+    "La distribuidora revisa la instalación",
+    "Si no cumple, exige adaptarla y un boletín nuevo (RD 88/2026, art. 38.7)"
+   ],
+   [
+    "Subir por encima de la potencia que admite tu boletín",
+    "Sí, uno nuevo",
+    "Hace falta adaptar la instalación a la nueva potencia"
+   ]
+  ]
+ },
+ "boletin_iga": {
+  "headers": [
+   "Interruptor general (IGA)",
+   "Potencia máxima de la instalación",
+   "Qué dice el reglamento"
+  ],
+  "rows": [
+   [
+    "25 A",
+    "5,75 kW",
+    "Mínimo para cualquier vivienda nueva (electrificación básica)"
+   ],
+   [
+    "32 A",
+    "7,36 kW",
+    ""
+   ],
+   [
+    "40 A",
+    "9,20 kW",
+    "Mínimo para electrificación elevada"
+   ],
+   [
+    "50 A",
+    "11,50 kW",
+    ""
+   ],
+   [
+    "63 A",
+    "14,49 kW",
+    ""
+   ]
+  ]
+ },
+ "boletin_documentacion": {
+  "headers": [
+   "Instalación",
+   "Documentación técnica",
+   "Inspección de un organismo de control"
+  ],
+  "rows": [
+   [
+    "Vivienda en un piso",
+    "Memoria técnica de diseño",
+    "No"
+   ],
+   [
+    "Vivienda unifamiliar de hasta 50 kW",
+    "Memoria técnica de diseño",
+    "No"
+   ],
+   [
+    "Vivienda unifamiliar de más de 50 kW",
+    "Proyecto de un técnico titulado",
+    "No"
+   ],
+   [
+    "Edificio de viviendas de más de 100 kW por caja general de protección",
+    "Proyecto de un técnico titulado",
+    "Zonas comunes de más de 100 kW: cada 10 años"
+   ],
+   [
+    "Local de pública concurrencia",
+    "Proyecto de un técnico titulado",
+    "Inicial y cada 5 años"
+   ]
+  ]
+ },
+ "aero_calefaccion": {
+  "headers": [
+   "Calor que necesita la casa al mes",
+   "Con radiadores eléctricos",
+   "Aerotermia con SCOP 3",
+   "Aerotermia con SCOP 4",
+   "Ahorro por invierno con SCOP 3 (4 meses)"
+  ],
+  "rows": [
+   [
+    "500 kWh",
+    "82,50 €",
+    "27,50 €",
+    "20,63 €",
+    "220,00 €"
+   ],
+   [
+    "1.000 kWh",
+    "165,00 €",
+    "55,00 €",
+    "41,25 €",
+    "440,00 €"
+   ],
+   [
+    "1.500 kWh",
+    "247,50 €",
+    "82,50 €",
+    "61,88 €",
+    "660,00 €"
+   ]
+  ]
+ },
+ "aero_acs": {
+  "headers": [
+   "Agua caliente para la misma familia",
+   "Electricidad al día",
+   "Coste al mes",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Termo eléctrico (nuestra calculadora)",
+    "3,15 kWh",
+    "15,80 €",
+    "189,60 €"
+   ],
+   [
+    "Aerotermia para agua caliente, COP 2,5",
+    "1,26 kWh",
+    "6,32 €",
+    "75,84 €"
+   ],
+   [
+    "Aerotermia para agua caliente, COP 3,0",
+    "1,05 kWh",
+    "5,27 €",
+    "63,20 €"
+   ]
+  ]
+ },
+ "aero_clases": {
+  "headers": [
+   "Clase",
+   "Radiadores (salida a 55 °C)",
+   "Suelo radiante o fancoils (salida a 35 °C)"
+  ],
+  "rows": [
+   [
+    "A+++",
+    "150 % o más",
+    "175 % o más"
+   ],
+   [
+    "A++",
+    "125–149 %",
+    "150–174 %"
+   ],
+   [
+    "A+",
+    "98–124 %",
+    "123–149 %"
+   ],
+   [
+    "Mínimo para venderse desde 2017",
+    "110 %",
+    "125 %"
+   ]
+  ]
+ },
+ "corte_limites": {
+  "headers": [
+   "Zona",
+   "Municipios de la provincia con…",
+   "Horas de corte al año",
+   "Número de cortes al año"
+  ],
+  "rows": [
+   [
+    "Urbana",
+    "más de 20.000 suministros, y todas las capitales de provincia",
+    "5",
+    "10"
+   ],
+   [
+    "Semiurbana",
+    "entre 2.000 y 20.000 suministros",
+    "9",
+    "13"
+   ],
+   [
+    "Rural concentrada",
+    "entre 200 y 2.000 suministros",
+    "14",
+    "16"
+   ],
+   [
+    "Rural dispersa",
+    "menos de 200 suministros, o fuera de los núcleos de población",
+    "19",
+    "22"
+   ]
+  ]
+ },
+ "corte_descuento": {
+  "headers": [
+   "Potencia",
+   "Horas por encima del límite",
+   "kWh que se descuentan (× 5)",
+   "Referencia a 0,165 €/kWh"
+  ],
+  "rows": [
+   [
+    "3,45 kW",
+    "2 horas",
+    "34,5 kWh",
+    "5,69 €"
+   ],
+   [
+    "3,45 kW",
+    "5 horas",
+    "86,3 kWh",
+    "14,23 €"
+   ],
+   [
+    "4,60 kW",
+    "2 horas",
+    "46,0 kWh",
+    "7,59 €"
+   ],
+   [
+    "4,60 kW",
+    "5 horas",
+    "115,0 kWh",
+    "18,98 €"
+   ],
+   [
+    "5,75 kW",
+    "2 horas",
+    "57,5 kWh",
+    "9,49 €"
+   ],
+   [
+    "5,75 kW",
+    "5 horas",
+    "143,8 kWh",
+    "23,72 €"
+   ]
+  ]
+ },
+ "aragon_zonas": {
+  "headers": [
+   "Capital",
+   "Altitud (CTE)",
+   "Zona climática",
+   "Agua fría en enero",
+   "Agua fría en julio"
+  ],
+  "rows": [
+   [
+    "Huesca",
+    "488 m",
+    "D2",
+    "7 °C",
+    "19 °C"
+   ],
+   [
+    "Teruel",
+    "912 m",
+    "D2",
+    "6 °C",
+    "18 °C"
+   ],
+   [
+    "Zaragoza",
+    "199 m",
+    "C3",
+    "8 °C",
+    "20 °C"
+   ]
+  ]
+ },
+ "aragon_acs": {
+  "headers": [
+   "Capital",
+   "Energía al día en enero",
+   "Coste en enero",
+   "Coste en julio",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Huesca",
+    "5,18 kWh",
+    "25,97 €",
+    "20,09 €",
+    "279,75 €"
+   ],
+   [
+    "Teruel",
+    "5,27 kWh",
+    "26,46 €",
+    "20,58 €",
+    "287,10 €"
+   ],
+   [
+    "Zaragoza",
+    "5,08 kWh",
+    "25,48 €",
+    "19,60 €",
+    "274,85 €"
+   ]
+  ]
+ },
+ "aragon_donde": {
+  "headers": [
+   "Para…",
+   "Dónde",
+   "Cómo"
+  ],
+  "rows": [
+   [
+    "Avisar de una avería o un corte",
+    "Tu distribuidora (casi siempre e-distribución)",
+    "Teléfono gratuito de 24 horas que figura en tu factura"
+   ],
+   [
+    "Registrar el boletín de una instalación",
+    "Gobierno de Aragón, trámite n.º 26",
+    "Lo presenta la empresa instaladora, por vía electrónica"
+   ],
+   [
+    "Dudas de seguridad industrial",
+    "Servicio Provincial de Industria",
+    "Huesca 974 293 141 · Teruel 978 641 110 · Zaragoza 976 714 081"
+   ],
+   [
+    "Reclamar si la empresa no te da la razón",
+    "Junta Arbitral de Consumo de Aragón",
+    "Solicitud de arbitraje, en línea o con cita previa"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,103 @@
+title: Se ha ido la luz: qué hacer y cómo reclamar a la distribuidora
+title_seo: Se ha ido la luz: qué hacer y cómo reclamar
+excerpt: Se ha ido la luz: mira el cuadro y, si el corte es de la calle, llama al teléfono de averías de tu factura. Límites de cortes al año y cómo reclamar.
+category: instalacion
+keyword: se ha ido la luz
+linea_fecha: no
+---
+¿Se ha ido la luz? Mira primero tu cuadro eléctrico: si ha saltado algún interruptor, el problema está dentro de casa; si está todo subido y tus vecinos tampoco tienen luz, es un corte de la red y tienes que avisar a la distribuidora en el teléfono gratuito de averías, abierto las 24 horas, que aparece en tu factura. Si en un año los cortes pasan de 5 horas o de 10 interrupciones en zona urbana, la distribuidora te debe un descuento en la factura.
+
+Ese descuento es automático, pero conviene saber cómo funciona y cuándo puedes reclamar. Aquí tienes los pasos en orden, de lo que puedes comprobar tú a lo que tiene que resolver la distribuidora.
+
+## Se ha ido la luz: primero, mira el cuadro {#cuadro}
+
+Antes de llamar a nadie, abre la tapa del cuadro eléctrico de tu casa, sin tocar nada por dentro, y mira las palancas:
+
+- <strong>Todo está hacia arriba</strong>: lo más probable es que el corte venga de fuera. Asómate al rellano o a la calle y comprueba si hay luz en el portal, en las farolas o en las casas vecinas.
+- <strong>Ha bajado el diferencial</strong>: hay una fuga de corriente en algún aparato o circuito. Te explicamos cómo localizarla en <a href="https://tuluzencasa.com/por-que-salta-el-diferencial/">por qué salta el diferencial</a>.
+- <strong>Ha bajado un magnetotérmico</strong>: ese circuito ha tenido una sobrecarga o un cortocircuito. Desenchufa lo que tenías en marcha en él y súbelo.
+- <strong>Ha bajado el general o el de control de potencia</strong>: probablemente tenías demasiados aparatos funcionando a la vez.
+
+La diferencia entre cada interruptor está en <a href="https://tuluzencasa.com/diferencia-magnetotermico-diferencial/">diferencia entre magnetotérmico y diferencial</a>. <strong>Lo que puedes hacer tú, sin riesgo</strong>: subir una palanca que ha bajado y desenchufar aparatos. <strong>Lo que tiene que hacer una empresa instaladora</strong>: cualquier reparación dentro del cuadro, o buscar la avería si una protección vuelve a saltar en cuanto la subes.
+
+## Si el corte es de la calle: a quién llamar {#distribuidora}
+
+Las averías de la red las arregla la distribuidora de tu zona, no la compañía con la que tienes el contrato. El <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212" target="_blank" rel="noopener">Real Decreto 88/2026</a>, el reglamento de suministro vigente desde febrero de 2026, recoge tus derechos:
+
+- <strong>Un teléfono de asistencia gratuito</strong> de la distribuidora, en funcionamiento las 24 horas, para incidencias de seguridad o de continuidad del suministro. Debe figurar claramente en tus facturas.
+- <strong>Un aviso por SMS o correo electrónico</strong> cuando haya una avería que afecte a tu suministro, si has dado un teléfono o un correo.
+- <strong>Ser identificado como persona electrodependiente</strong>, si dependes de un equipo médico que funciona con electricidad. Pregúntalo a tu compañía.
+
+Cuando llames, ten a mano el CUPS, el código de tu punto de suministro: así localizan tu casa en su red. Si no sabes dónde mirarlo, lo explicamos en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>. Apunta la hora a la que se fue la luz y la hora a la que vuelve: te servirá si luego reclamas.
+
+## Cortes programados: con aviso previo {#programados}
+
+Para trabajos en la red, la distribuidora puede cortar la luz de forma programada, pero con condiciones. Según el artículo 101 del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2000-24019" target="_blank" rel="noopener">Real Decreto 1955/2000</a>, en la redacción de 2026:
+
+- Tiene que pedir autorización a la comunidad autónoma con al menos 72 horas de antelación, sin contar sábados, domingos ni festivos.
+- Tiene que avisar a los afectados al menos 24 horas antes con carteles en lugares visibles, en dos medios escritos y dos digitales de la provincia y en su web. Si le has dado tu teléfono o tu correo, también por esa vía.
+- El aviso debe decir la fecha y la hora de inicio y de final del corte.
+
+Un corte programado bien avisado no da derecho a descuento. Si no se cumplieron esos requisitos, cuenta como cualquier otro.
+
+## Cuántos cortes son demasiados {#limites}
+
+La norma fija, para cada vivienda, un máximo de horas y de interrupciones al año. Solo cuentan los cortes imprevistos de más de tres minutos, y el límite depende de la zona donde vivas, que se define por el número de suministros de tu municipio:
+
+{{T:corte_limites}}
+
+Las capitales de provincia son siempre zona urbana, aunque tengan menos de 20.000 suministros. No cuentan como incumplimiento los cortes por fuerza mayor o por acciones de terceros, siempre que la distribuidora lo demuestre. Pero la norma no admite como fuerza mayor los fenómenos atmosféricos habituales en tu zona, ni los fallos por instalaciones inadecuadas o falta de previsión.
+
+## El descuento en la factura {#descuento}
+
+Si se superan los límites, la distribuidora tiene que aplicar un descuento en tu facturación durante el primer trimestre del año siguiente. Por horas de corte, el cálculo es la potencia media que te facturan, multiplicada por las horas que pasan del límite y por cinco veces el precio del kWh, con un tope del 10 % de lo que pagas en un año:
+
+{{T:corte_descuento}}
+
+La última columna usa <strong>0,165 €/kWh con impuestos</strong> como referencia para hacerse una idea de las cantidades. El precio exacto con el que se valoran esos kWh lo fija la normativa según tu tipo de contrato, así que el importe real puede ser otro. Si el incumplimiento es por número de cortes, la cuenta es distinta, y si se superan los dos límites se aplica el más favorable para ti.
+
+{{CAJA:Dato clave}}
+El descuento por cortes no compensa los daños. Si un corte o la vuelta de la luz te estropea un aparato o la comida del congelador, puedes reclamar aparte la indemnización por daños y perjuicios.
+{{/CAJA}}
+
+## Cómo reclamar paso a paso {#reclamar}
+
+- <strong>1. Reclama a la empresa</strong>. Hazlo a la distribuidora, que es quien gestiona la red, o a tu comercializadora: las dos tienen que tener un servicio de atención de reclamaciones. Pide el número de referencia: están obligadas a dártelo. Si reclamas por teléfono, pide un documento que acredite la reclamación.
+- <strong>2. Espera la respuesta</strong>. El Real Decreto 88/2026 da a las empresas un máximo de 15 días hábiles para contestar.
+- <strong>3. Si no te dan la razón</strong>, acude a la Junta Arbitral de Consumo de tu comunidad autónoma o a la entidad de resolución alternativa de litigios a la que esté adherida la empresa: tiene que informarte de cuál es.
+- <strong>4. Si discrepas sobre la calidad del suministro</strong>, por ejemplo sobre las horas de corte, resuelve el órgano competente de tu comunidad autónoma, que puede consultar el registro de incidencias de la distribuidora.
+
+Para los daños, guarda pruebas: fotos, la factura de la reparación o del aparato nuevo, el informe del técnico y las horas del corte. La vía para reclamar esa indemnización es la civil, como recoge el artículo 105 del Real Decreto 1955/2000.
+
+## Mientras vuelve la luz {#mientras}
+
+- <strong>Abre la nevera y el congelador lo menos posible</strong>: cerrados, mantienen el frío más tiempo.
+- <strong>Desenchufa los aparatos más delicados</strong>, como el ordenador o la televisión, para que no reciban un pico al volver la corriente.
+- <strong>Deja una lámpara encendida</strong> para saber cuándo vuelve la luz.
+- <strong>Usa linternas</strong> mejor que velas.
+- <strong>No toques el cuadro ni la caja general del portal</strong> más allá de subir una palanca: la red de la calle es de la distribuidora.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Llamo a mi compañía de luz o a la distribuidora?
+
+Para un corte o una avería, a la distribuidora: su teléfono gratuito de 24 horas viene en tu factura. Tu comercializadora vende la energía, pero no arregla la red.
+
+### ¿Me pagan si se me estropea la nevera por un corte?
+
+Puedes reclamar los daños a la distribuidora con las facturas y el informe del técnico. Es independiente del descuento por exceso de cortes.
+
+### ¿Cuánto tiempo tienen para contestar a mi reclamación?
+
+Como máximo 15 días hábiles. Si no contestan o no te convence la respuesta, puedes ir a la junta arbitral de consumo o a la entidad de resolución de litigios de la empresa.
+
+### ¿Tengo que pedir el descuento por cortes?
+
+No: la distribuidora debe aplicarlo en la factura durante el primer trimestre del año siguiente. Si crees que te corresponde y no aparece, reclama.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2000-24019" target="_blank" rel="noopener">Real Decreto 1955/2000</a>: artículos 99 (zonas), 101 (cortes programados, redacción de 2026), 104 (límites individuales) y 105 (descuentos e indemnizaciones).
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212" target="_blank" rel="noopener">Real Decreto 88/2026, Reglamento general de suministro, comercialización y agregación de energía eléctrica</a>: artículos 6, 55 y 57.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: si lo que salta es el interruptor general, suma los aparatos que enciendes a la vez y comprueba si te falta potencia.

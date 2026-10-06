@@ -1,0 +1,4525 @@
+
+ L_2013239ES.01013601.xml
+6.9.2013   
+ | 
+ES
+ | 
+Diario Oficial de la Unión Europea
+ | 
+L 239/136
+ | 
+ REGLAMENTO (UE) N
+ o 813/2013 DE LA COMISIÓN
+de 2 de agosto de 2013
+por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo respecto de los requisitos de diseño ecológico aplicables a los aparatos de calefacción y a los calefactores combinados
+(Texto pertinente a efectos del EEE)
+LA COMISIÓN EUROPEA,
+Visto el Tratado de Funcionamiento de la Unión Europea,
+Vista la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía (1), y, en particular, su artículo 15, apartado 1,
+Previa consulta con el Foro Consultivo sobre Diseño Ecológico,
+Considerando lo siguiente:
+(1)
+ | 
+De conformidad con la Directiva 2009/125/CE, la Comisión debe establecer requisitos de diseño ecológico para los productos relacionados con la energía que representan un volumen significativo de ventas y comercio, que tienen un importante impacto medioambiental y que presentan posibilidades significativas de mejora por lo que se refiere al impacto medioambiental sin que ello suponga costes excesivos.
+ | 
+(2)
+ | 
+Con la Directiva 92/42/CEE del Consejo, de 21 de mayo de 1992, relativa a los requisitos de rendimiento para las calderas nuevas de agua caliente alimentadas con combustibles líquidos o gaseosos (2), se establecieron requisitos de rendimiento de las calderas.
+ | 
+(3)
+ | 
+En el artículo 16, apartado 2, letra a), de la Directiva 2009/125/CE se establece que, de conformidad con el procedimiento del artículo 19, apartado 3, según los criterios establecidos en el artículo 15, apartado 2, y previa consulta al Foro Consultivo sobre Diseño Ecológico, la Comisión debe introducir medidas de ejecución para productos que ofrezcan un elevado potencial de reducción rentable de emisiones de gases de efecto invernadero, como las relacionadas con los equipos de calefacción y caldeo de agua, según proceda.
+ | 
+(4)
+ | 
+La Comisión ha llevado a cabo un estudio preparatorio para analizar los aspectos técnicos, medioambientales y económicos de los aparatos de calefacción y los calefactores combinados (de espacios y de agua) que suelen utilizarse en la Unión. El estudio se ha concebido conjuntamente con los interlocutores y partes interesadas de la Unión y terceros países, y los resultados se han puesto a disposición del público.
+ | 
+(5)
+ | 
+Los aspectos medioambientales de los aparatos de calefacción y los calefactores combinados que se consideran significativos a efectos del presente Reglamento son el consumo de energía en la fase de uso y (para los calefactores con bomba de calor) el nivel de potencia acústica. Además, en el caso de los calefactores que usan combustibles fósiles, se consideran aspectos ambientales significativos la emisión de óxidos de nitrógeno, monóxido de carbono, partículas e hidrocarburos.
+ | 
+(6)
+ | 
+No conviene fijar requisitos de diseño ecológico para las emisiones de monóxido de carbono, partículas e hidrocarburos, puesto que todavía no existen métodos de medición europeos apropiados. Con el objetivo de desarrollar dichos métodos de medición, la Comisión ha encargado a los organismos europeos de normalización que estudien los requisitos de diseño ecológico para dichas emisiones durante la revisión del presente Reglamento. Las disposiciones nacionales en materia de requisitos de diseño ecológico sobre emisiones de monóxidos de carbono, partículas e hidrocarburos para los aparatos de calefacción y los calefactores combinados podrán mantenerse, o podrán introducirse otras nuevas, hasta que entren en vigor los requisitos de diseño ecológico correspondientes de la Unión. Las disposiciones de la Directiva 2009/142/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, sobre los aparatos de gas (3), que limitan los gases de combustión de los aparatos de gas por razones de salud y seguridad, no se verán afectadas.
+ | 
+(7)
+ | 
+El estudio preparatorio muestra que, en el caso de los aparatos de calefacción y los calefactores combinados, no es necesario regular los demás parámetros de diseño ecológico que se mencionan en el anexo I, parte 1, de la Directiva 2009/125/CE. En particular, no considera significativas las emisiones de gases de efecto invernadero relacionadas con los refrigerantes empleados en los calefactores con bomba de calor en los edificios actuales en Europa. Cuando se revise el presente Reglamento se volverá a evaluar si conviene establecer requisitos de diseño ecológico para estas emisiones de gases de efecto invernadero.
+ | 
+(8)
+ | 
+El ámbito de aplicación del presente Reglamento incluirá los aparatos de calefacción con caldera, los aparatos de calefacción de cogeneración y los aparatos de calefacción con bomba de calor que suministren calor a sistemas de calefacción centralizada que funcionan con agua para la calefacción de espacios, así como a los calefactores combinados con caldera o con de calor que suministren calor a sistemas de calefacción centralizada que funcionan con agua para la calefacción de espacios y el suministro de agua caliente potable y sanitaria. Estos calefactores están diseñados para usar combustibles gaseosos o líquidos, inclusive combustible de biomasa (a menos que sea predominante), electricidad y calor ambiental o residual.
+ | 
+(9)
+ | 
+Los calefactores diseñados para utilizar combustibles gaseosos o líquidos producidos predominantemente (en más del 50 %) a partir de la biomasa tienen unas características técnicas específicas que requieren más análisis técnicos, económicos y ambientales. Según el resultado de dichos análisis, llegado el caso deberían fijarse requisitos de diseño ecológico en una fase posterior.
+ | 
+(10)
+ | 
+Se calcula que el consumo energético anual en la Unión asociado a los aparatos de calefacción y los calefactores combinados fue de 12 089 PJ (alrededor de 289 Mtep) en 2005, lo que corresponde a una emisión de 698 Mt de CO2. De no adoptarse medidas específicas, se prevé que el consumo anual de electricidad sea de 10 688 PJ en 2020. Se calcula que las emisiones anuales de óxidos de nitrógeno asociadas a los aparatos de calefacción y los calefactores combinados en la Unión en 2005 fueron de 821 kt de equivalente de SOx. De no adoptarse medidas específicas, se prevé que las emisiones anuales en 2020 serán de 783 kt de equivalente de SOx. El estudio preparatorio muestra que las emisiones de óxidos de nitrógeno y el consumo de energía en la fase de uso de los aparatos de calefacción y los calefactores combinados podrían reducirse significativamente.
+ | 
+(11)
+ | 
+El consumo de energía de los aparatos de calefacción y los calefactores combinados podría reducirse aplicando tecnologías rentables existentes no sujetas a derechos de propiedad, que comportan una reducción del gasto conjunto de adquisición y utilización de esos productos.
+ | 
+(12)
+ | 
+En la Unión hay cerca de cinco millones de viviendas con circuitos de combustión compartidos de flujo abierto. Por cuestiones técnicas, no se pueden sustituir los sistemas de calefacción con caldera y los calefactores combinados con caldera existentes por calderas de condensación eficientes en las viviendas con circuito de combustión compartido de flujo abierto. Los requisitos estipulados en el presente Reglamento permiten que sigan ofreciéndose en el mercado calderas que no son de condensación diseñadas específicamente para una configuración de este tipo; de este modo, se evitan gastos excesivos para los consumidores, se ofrece a los fabricantes tiempo para desarrollar calderas con tecnologías de calefacción más eficientes y se permite a los Estados miembros reflexionar sobre sus ordenanzas de construcción nacionales.
+ | 
+(13)
+ | 
+Según las previsiones, el efecto combinado de los requisitos de diseño ecológico expuestos en el presente Reglamento y en el Reglamento Delegado (UE) no 811/2013 de la Comisión, de 18 de febrero de 2013, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo que respecta al etiquetado energético de los aparatos de calefacción, los calefactores combinados, los equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar, y los equipos combinados de calefactor combinado, control de temperatura y dispositivo solar (4), generará de aquí a 2020 un ahorro anual de energía de alrededor de 1 900 PJ (alrededor de 45 Mtep), lo que corresponde a una emisión de alrededor de 110 Mt de CO2, y una reducción en las emisiones anuales de óxidos de nitrógeno de alrededor de 270 kt de equivalente de SOx, en comparación con la situación que se produciría en caso de no tomarse medidas.
+ | 
+(14)
+ | 
+Los requisitos de diseño ecológico deben armonizar las prescripciones sobre consumo de energía, el nivel de potencia acústica y emisiones de óxidos de nitrógeno para los aparatos de calefacción y los calefactores combinados en la Unión, contribuyendo así al buen funcionamiento del mercado interior y a la mejora del comportamiento medioambiental de dichos productos.
+ | 
+(15)
+ | 
+Los requisitos de diseño ecológico no deben afectar a la funcionalidad o la asequibilidad de los aparatos de calefacción y los calefactores combinados desde la perspectiva del usuario final ni perjudicar a la salud, la seguridad o el medio ambiente.
+ | 
+(16)
+ | 
+Los requisitos de diseño ecológico deben introducirse gradualmente para que los fabricantes dispongan de tiempo suficiente para volver a diseñar los productos contemplados en el presente Reglamento. El calendario fijado debe tener en cuenta la incidencia en los costes de los fabricantes, en particular las pequeñas y medianas empresas, aunque todo ello no debe ir en perjuicio del puntual logro de los objetivos del presente Reglamento.
+ | 
+(17)
+ | 
+Los parámetros de los productos deben medirse y calcularse utilizando métodos fiables, exactos y reproducibles, que tengan en cuenta los métodos de medición y cálculo más avanzados reconocidos, incluyendo, en su caso, las normas armonizadas adoptadas por los organismos europeos de normalización a petición de la Comisión, en virtud de los procedimientos establecidos en el Reglamento (UE) no 1025/2012 del Parlamento Europeo y del Consejo, de 25 octubre 2012, sobre la normalización europea (5).
+ | 
+(18)
+ | 
+De conformidad con el artículo 8, apartado 2, de la Directiva 2009/125/CE, el presente Reglamento especifica qué procedimientos de evaluación de la conformidad son aplicables.
+ | 
+(19)
+ | 
+A fin de facilitar el control de la conformidad, los fabricantes deben aportar información en la documentación técnica a que se refieren los anexos IV y V de la Directiva 2009/125/CE, en la medida en que dicha información guarde relación con los requisitos establecidos en el presente Reglamento.
+ | 
+(20)
+ | 
+Para limitar aún más el impacto medioambiental de los aparatos de calefacción y los calefactores combinados, los fabricantes deben facilitar información sobre el desmontaje, reciclado o eliminación.
+ | 
+(21)
+ | 
+Además de los requisitos legalmente vinculantes establecidos en el presente Reglamento, deben señalarse valores de referencia indicativos de las mejores tecnologías disponibles para garantizar una amplia disponibilidad y un fácil acceso a la información sobre el comportamiento medioambiental durante el ciclo de vida de los aparatos de calefacción y los calefactores combinados.
+ | 
+(22)
+ | 
+Es preciso derogar la Directiva 92/42/CEE, salvo su artículo 7, apartado 2, su artículo 8 y sus anexos III a V, y adoptar nuevas disposiciones mediante el presente Reglamento para garantizar que el ámbito de aplicación abarque asimismo los calentadores distintos de las calderas, mejorar todavía más la eficiencia energética de los aparatos de calefacción y los calefactores combinados y mejorar otros aspectos medioambientales significativos de los aparatos de calefacción y los calefactores combinados.
+ | 
+(23)
+ | 
+Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité creado en virtud del artículo 19, apartado 1, de la Directiva 2009/125/CE.
+ | 
+HA ADOPTADO EL PRESENTE REGLAMENTO:
+Artículo 1
+Objeto y ámbito de aplicación
+1.   El presente Reglamento establece los requisitos de diseño ecológico para la comercialización o puesta en funcionamiento de aparatos de calefacción y calefactores combinados con una potencia calorífica nominal de ≤ 400 kW, incluidos los integrados en combinaciones de aparato de calefacción, control de temperatura y dispositivo solar y en combinaciones de calefactor, control de temperatura y dispositivo solar, tal como se definen en el artículo 2 del Reglamento Delegado (UE) no 811/2013.
+2.   El presente Reglamento no se aplicará a:
+a)
+ | 
+los calefactores diseñados específicamente para utilizar combustibles gaseosos o líquidos producidos predominantemente a partir de biomasa;
+ | 
+b)
+ | 
+los calefactores que utilizan combustibles sólidos;
+ | 
+c)
+ | 
+los calefactores incluidos en el ámbito de la Directiva 2010/75/UE del Parlamento Europeo y del Consejo (6);
+ | 
+d)
+ | 
+los calentadores que generan calor exclusivamente para suministrar agua caliente potable o sanitaria;
+ | 
+e)
+ | 
+los calentadores destinados a caldear y distribuir medios gaseosos portadores de calor, como vapor o aire;
+ | 
+f)
+ | 
+los aparatos de calefacción de cogeneración con una capacidad eléctrica máxima de 50 kW o más;
+ | 
+g)
+ | 
+los generadores de calor concebidos para calefactores o cajas de calefactor que deban equiparse con tales generadores de calor, comercializados antes del 1 de enero de 2018, para sustituir a idénticos generadores de calor e idénticas cajas de calefactor. El producto de repuesto o su embalaje deberán indicar claramente para qué calefactor está previsto.
+ | 
+Artículo 2
+Definiciones
+A los efectos del presente Reglamento, además de las definiciones contenidas en el artículo 2 de la Directiva 2009/125/CE, se aplicarán las siguientes:
+1)   «calefactor»: un aparato de calefacción o un calefactor combinado;
+2)   «aparato de calefacción»: un dispositivo que
+a)
+ | 
+suministra calor a un sistema central de calefacción a base de agua a fin de alcanzar y mantener un nivel de temperatura determinado en el interior de un espacio cerrado, como un edificio, una vivienda o una estancia, y que
+ | 
+b)
+ | 
+está equipado con uno o varios generadores de calor;
+ | 
+3)   «calefactor combinado»: un aparato de calefacción diseñado para suministrar igualmente calor destinado a proporcionar niveles, cantidades y caudales predeterminados de agua caliente potable o sanitaria durante determinados intervalos, y que está conectado a un suministro externo de agua potable o sanitaria;
+4)   «sistema de calefacción central a base de agua»: un sistema que utiliza agua como medio de transferencia para distribuir calor generado de forma centralizada entre emisores de calor para el caldeo del interior de edificios o parte de estos;
+5)   «generador de calor»: la parte de un calefactor que genera calor mediante uno o varios de los siguientes procesos:
+a)
+ | 
+combustión de combustibles fósiles o combustibles de biomasa;
+ | 
+b)
+ | 
+utilización del efecto Joule en los elementos calefactores de una resistencia eléctrica;
+ | 
+c)
+ | 
+captura del calor ambiente a partir de una fuente atmosférica, acuática o geotérmica, o de calor residual;
+ | 
+considerándose que un generador de calor concebido para un calefactor y una caja de calefactor que deba equiparse con tal generador de calor también es un calefactor;
+6)   «caja de calefactor»: la parte de un calefactor diseñada para alojar un generador de calor;
+7)   «potencia calorífica nominal» (Prated): la potencia calorífica declarada de un calefactor cuando suministra calefacción para espacios y, en su caso, caldeo de agua en condiciones nominales estándar, expresada en kW; en el caso de los aparatos de calefacción con bomba de calor o los calefactores combinados con bomba de calor, las condiciones de regulación estándar para determinar la potencia calorífica nominal serán las condiciones de diseño de referencia, estipuladas en el cuadro 4 del anexo III;
+8)   «condiciones de regulación estándar»: las condiciones de funcionamiento de los calefactores en condiciones climáticas medias para determinar la potencia calorífica nominal, la eficiencia energética estacional de la calefacción, la eficiencia energética del caldeo de agua, el nivel de potencia acústica y las emisiones de óxido de nitrógeno;
+9)   «biomasa»: la fracción biodegradable de los productos, desechos y residuos de origen biológico procedentes de la agricultura (incluidas las sustancias de origen vegetal y animal), de la silvicultura y otras industrias relacionadas, como la pesca y la acuicultura, así como la fracción biodegradable de los residuos industriales y urbanos;
+10)   «combustible de biomasa»: el combustible gaseoso o líquido producido a partir de la biomasa;
+11)   «combustible fósil»: el combustible gaseoso o líquido de origen fósil;
+12)   «aparato de calefacción con caldera»: un aparato de calefacción que genera calor mediante la combustión de combustibles fósiles o de biomasa o mediante el efecto Joule en elementos calefactores de resistencia eléctrica;
+13)   «calefactor combinado con caldera»: un aparato de calefacción con caldera diseñado para suministrar igualmente calor destinado a proporcionar niveles, cantidades y caudales predeterminados de agua caliente potable o sanitaria durante determinados intervalos, y que está conectado a un suministro externo de agua potable o sanitaria;
+14)   «aparato de calefacción con caldera eléctrica»: un aparato de calefacción con caldera que genera calor exclusivamente mediante el efecto Joule en elementos calefactores de resistencia eléctrica;
+15)   «calefactor combinado con caldera eléctrica»: un calefactor combinado con caldera que genera calor exclusivamente mediante el efecto Joule en elementos calefactores de resistencia eléctrica;
+16)   «aparato de calefacción de cogeneración»: un aparato de calefacción que genera simultáneamente calor y electricidad en un único proceso;
+17)   «aparato de calefacción con bomba de calor»: un aparato de calefacción que capta el calor ambiente de una fuente atmosférica, acuática o geotérmica o calor residual para generar calor; un aparato de calefacción con bomba de calor puede disponer de uno o varios calefactores complementarios que emplean el efecto Joule en elementos calefactores de resistencia eléctrica o la combustión de combustibles fósiles o de biomasa;
+18)   «calefactor combinado con bomba de calor»: un aparato de calefacción con bomba de calor diseñado para suministrar igualmente calor destinado a proporcionar niveles, cantidades y caudales predeterminados de agua caliente potable o sanitaria durante determinados intervalos, y que está conectado a un suministro externo de agua potable o sanitaria;
+19)   «calefactor complementario»: calefactor no preferencial que genera calor en aquellos casos en que la demanda de calor es superior a la potencia calorífica nominal del calefactor preferencial;
+20)   «eficiencia energética estacional de calefacción de espacios» (ηs
+ ): la relación entre la demanda de calefacción de espacios para una determinada temporada de calefacción, suministrada por un calefactor, y el consumo anual de energía necesario para satisfacer dicha demanda, expresada en %;
+21)   «eficiencia energética del caldeo de agua» (ηwh
+ ): relación entre la energía útil contenida en el agua potable o sanitaria suministrada por un calefactor combinado y la energía necesaria para su generación, expresada en %;
+22)   «nivel de potencia acústica» (LWA
+ ): nivel de potencia acústica ponderada A, en interiores o exteriores, expresado en dB;
+23)   «coeficiente de conversión» (CC): un coeficiente que refleja la eficiencia el 40 % de eficiencia de generación media de la UE contemplada en la Directiva 2012/27/UE del Parlamento Europeo y del Consejo (7); el valor del coeficiente de conversión es CC = 2,5.
+En el anexo I figuran definiciones adicionales a los efectos de los anexos II a V.
+Artículo 3
+Requisitos de diseño ecológico y calendario
+1.   Los requisitos de diseño ecológico de los calefactores se establecen en el anexo II.
+2.   Cada requisito de diseño ecológico se aplicará de conformidad con el siguiente calendario:
+a)
+ | 
+a partir del 26 de septiembre de 2015:
+i)
+ | 
+los calefactores respetarán los requisitos indicados en el anexo II, punto 1, letra a), y puntos 3 y 5,
+ | 
+ii)
+ | 
+los calefactores combinados respetarán los requisitos indicados en el anexo II, punto 2, letra a);
+ | 
+ | 
+b)
+ | 
+a partir del 26 de septiembre de 2017:
+i)
+ | 
+los aparatos de calefacción eléctricos, los calefactores combinados eléctricos, los aparatos de calefacción de cogeneración, los aparatos de calefacción con bomba de calor y los calefactores combinados con bomba de calor respetarán los requisitos indicados en el anexo II, punto 1, letra b),
+ | 
+ii)
+ | 
+los calefactores combinados respetarán los requisitos indicados en el anexo II, punto 2, letra b);
+ | 
+ | 
+c)
+ | 
+a partir del 26 de septiembre de 2018 los calefactores cumplirán los requisitos establecidos en el anexo II, punto 4, letra a);
+ | 
+3.   El cumplimiento de los requisitos de diseño ecológico se medirá y calculará de conformidad con los requisitos expuestos en el anexo III.
+Artículo 4
+Evaluación de la conformidad
+1.   El procedimiento de evaluación de la conformidad mencionado en el artículo 8, apartado 2, de la Directiva 2009/125/CE será el sistema de control interno del diseño que figura en el anexo IV de la citada Directiva o el sistema de gestión descrito en su anexo V, sin perjuicio de lo dispuesto en el artículo 7, apartado 2, en el artículo 8, y en los anexos III a V de la Directiva 92/42/CEE.
+2.   A efectos de evaluación de la conformidad, la documentación técnica deberá contener la información sobre el producto que se especifica en el punto 5, letra b), del anexo II del presente Reglamento.
+Artículo 5
+Procedimiento de verificación a efectos de la vigilancia del mercado
+Cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE a fin de supervisar el cumplimiento de los requisitos establecidos en el anexo II del presente Reglamento, las autoridades de los Estados miembros aplicarán el procedimiento de verificación que se describe en el anexo IV del presente Reglamento.
+Artículo 6
+Valores de referencia indicativos
+Los valores de referencia indicativos para los calefactores de mejores prestaciones disponibles en el mercado en el momento de entrar en vigor el presente Reglamento figuran en el anexo V.
+Artículo 7
+Revisión
+La Comisión revisará el presente Reglamento a la luz del progreso técnico de los calefactores y presentará el resultado de dicha revisión al Foro Consultivo sobre Diseño Ecológico, como muy tarde cinco años después de la entrada en vigor del presente Reglamento. En particular, la revisión incluirá una evaluación de los siguientes aspectos:
+a)
+ | 
+la conveniencia de establecer requisitos de diseño ecológico para las emisiones de gases de efecto invernadero relacionadas con refrigerantes;
+ | 
+b)
+ | 
+sobre la base de los métodos de medición en proceso de desarrollo, el alcance de los requisitos de diseño ecológico para las emisiones de monóxido de carbono, hidrocarburos y partículas que puedan introducirse;
+ | 
+c)
+ | 
+la conveniencia de fijar requisitos de diseño ecológico más estrictos en materia de eficiencia energética de los aparatos de calefacción con caldera y los calefactores combinados con caldera, así como con respecto al nivel de potencia acústica y a las emisiones de óxidos de nitrógeno;
+ | 
+d)
+ | 
+la conveniencia de fijar requisitos de diseño ecológico para calefactores diseñados para funcionar principalmente con combustibles gaseosos o líquidos producidos a partir de biomasa;
+ | 
+e)
+ | 
+la validez del valor del coeficiente de conversión;
+ | 
+f)
+ | 
+la conveniencia de la certificación por terceros.
+ | 
+Artículo 8
+Disposiciones transitorias
+1.   Hasta el 26 de septiembre de 2015 los Estados miembros podrán permitir la comercialización o puesta en funcionamiento de calefactores conformes con las disposiciones nacionales vigentes en el momento de la adopción del presente Reglamento en lo relativo a la eficiencia energética estacional de calefacción de espacios, la eficiencia energética de caldeo de agua y el nivel de potencia acústica.
+2.   Hasta el 26 de septiembre de 2018, los Estados miembros podrán autorizar la comercialización o puesta en servicio de calefactores que se ajusten a la normativa nacional vigente en el momento de adoptarse el presente Reglamento en relación con las emisiones de óxidos de nitrógeno.
+Artículo 9
+Derogación
+Queda derogada la Directiva 92/42/CEE, salvo su artículo 7, apartado 2, su artículo 8 y sus anexos III a V, sin perjuicio de las obligaciones de los Estados miembros en lo que respecta a la transposición a la legislación nacional y a la aplicación de dicha Directiva hasta que se empiecen a aplicar los requisitos de diseño ecológico estipulados en el anexo II del presente Reglamento.
+Artículo 10
+Entrada en vigor
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea.
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.
+Hecho en Bruselas, el 2 de agosto de 2013.
+ Por la Comisión
+ El Presidente
+José Manuel BARROSO
+ (1)  
+ DO L 285 de 31.10.2009, p. 10.
+ (2)  
+ DO L 167 de 22.6.1992, p. 17.
+ (3)  
+ DO L 330 de 16.12.2009, p. 10.
+ (4)  Véase la página 1 del presente Diario Oficial.
+ (5)  
+ DO L 316 de 14.11.2012, p. 12.
+ (6)  
+ DO L 334 de 17.12.2010, p. 17.
+ (7)  
+ DO L 315 de 14.11.2012, p. 1.
+ANEXO I
+ Definiciones aplicables a los anexos II a V
+A los efectos de los anexos II a V, se aplicarán las definiciones siguientes:
+ Definiciones relacionadas con los calefactores
+1)   «modo de espera»: estado en que el calefactor se halla conectado a la red eléctrica, depende de la energía procedente de dicha red para funcionar según los fines previstos y ejecuta solamente las siguientes funciones, que se pueden prolongar por tiempo indefinido: función de reactivación, o función de reactivación y tan solo indicación de función de reactivación habilitada, y/o visualización de información o de estado;
+2)   «consumo de electricidad en modo en espera» (PSB
+ ): consumo de electricidad de un calentador en modo de espera, expresado en kW;
+3)   «condiciones climáticas medias»: las condiciones de temperatura características en la ciudad de Estrasburgo;
+4)   «control de temperatura»: equipo de interfaz con el usuario final para determinar los valores y la duración de la temperatura interior deseada, y que comunica los datos correspondientes a una interfaz del calefactor, como una unidad central de procesamiento, con el fin de regular la(s) temperatura(s) interior(es);
+5)   «valor calorífico bruto» (GCV): cantidad total de calor liberado por una cantidad unitaria de combustible cuando es quemado por completo con oxígeno y cuando se devuelven los productos de la combustión a la temperatura ambiente; esta cantidad incluye el calor de condensación del vapor de agua contenido en el combustible y el vapor de agua formado por la combustión del hidrógeno contenido en el combustible;
+6)   «modelo equivalente»: un modelo comercializado con los mismos parámetros técnicos establecidos en los cuadros 1 o 2 (según corresponda) del anexo II, punto 5, que otro modelo comercializado por el mismo fabricante;
+ Definiciones relacionadas con los aparatos de calefacción con caldera, los calefactores combinados con caldera y los aparatos de calefacción de cogeneración
+7)   «aparato de calefacción con caldera de combustible»: un aparato de calefacción con caldera que genera calor quemando combustibles fósiles o de biomasa y que puede estar equipado con uno o varios generadores de calor que utilizan el efecto Joule en elementos calefactores de resistencia eléctrica;
+8)   «calefactor combinado con caldera de combustible»: un calefactor combinado con caldera que genera calor quemando combustibles fósiles o de biomasa y que puede estar equipado con uno o varios generadores de calor que utilizan el efecto Joule en elementos calefactores de resistencia eléctrica;
+9)   «caldera de tipo B1»: un aparato de calefacción con caldera de combustible que incorpora un cortatiro que debe ir conectado a una salida de humos con tiro natural que evacúa los residuos de combustión hacia el exterior de la estancia en que está situado el aparato de calefacción con caldera de combustible, y que toma el aire de combustión directamente de dicha estancia; las calderas de tipo B1 se comercializan exclusivamente como calderas de tipo B1;
+10)   «caldera combinada de tipo B1»: un calefactor combinado con caldera de combustible que incorpora un cortatiro que debe ir conectado a una salida de humos con tiro natural que evacúa los residuos de combustión hacia el exterior de la sala que contiene el calefactor combinado con caldera de combustible, y que toma el aire de combustión directamente de dicha sala; las calderas combinadas de tipo B1 se comercializan exclusivamente como calderas combinadas de tipo B1;
+11)   
+ «eficiencia energética estacional de calefacción en modo activo» (ηson
+ )
+: 
+—
+ | 
+en el caso de los aparatos de calefacción con caldera y los calefactores combinados con caldera que utilizan combustibles, una media ponderada de la eficiencia útil a la potencia calorífica nominal y la eficiencia útil a un 30 % de dicha potencia, expresada en porcentaje,
+ | 
+—
+ | 
+en el caso de los aparatos de calefacción y calefactores combinados con caldera eléctrica, la eficiencia útil a la potencia calorífica nominal, expresada en %,
+ | 
+—
+ | 
+en el caso de los aparatos de calefacción de cogeneración no provistos de calefactores complementarios, la eficiencia útil a la potencia calorífica nominal, expresada en %,
+ | 
+—
+ | 
+en el caso de los aparatos de calefacción provistos de calefactores complementarios, la media ponderada de la eficiencia útil a la potencia calorífica nominal con los calefactores complementarios desactivados, y la eficiencia útil a dicha potencia con los calefactores complementarios activados, expresada en porcentaje;
+ | 
+12)   «eficiencia útil» (η): la relación entre la potencia calorífica útil y el insumo total de energía de un aparato de calefacción con caldera, un calefactor combinado con caldera o un aparato de calefacción de cogeneración, expresada en porcentaje; el insumo total de energía se expresará en términos de GCV o en términos de la energía final multiplicada por CC;
+13)   «potencia calorífica útil» (P): la potencia calorífica de un aparato de calefacción con caldera, un calefactor combinado con caldera o un aparato de calefacción de cogeneración transmitida al portador de calor, expresada en kW;
+14)   «eficiencia eléctrica» (ηel
+ ): la relación entre la potencia eléctrica y el insumo total de energía de un aparato de calefacción de cogeneración, expresada en porcentaje el insumo total de energía se expresará en términos de GCV o en términos de la energía final multiplicada por CC;
+15)   «consumo de electricidad del quemador de encendido» (Pign
+ ): el consumo de electricidad de un quemador destinado a encender el quemador principal, expresado en W en términos de GCV;
+16)   «caldera de condensación»: aparato de calefacción o calefactor combinado con caldera en el que, en condiciones normales de funcionamiento y a una temperatura dada del agua, el vapor de agua presente en los productos de combustión se condensa parcialmente a fin de aprovechar el calor latente de este vapor con fines de calefacción;
+17)   «consumo de electricidad auxiliar»: el consumo anual de electricidad necesario para el funcionamiento previsto de un aparato de calefacción con caldera, un calefactor combinado con caldera o un aparato de calefacción de cogeneración, calculado a partir del consumo de electricidad a plena carga (elmax), a carga parcial (elmin), en modo de espera y en las horas de funcionamiento predeterminadas en cada modo, expresado en kWh en términos de energía final;
+18)   «pérdida de calor en modo de espera» (Pstby
+ ): la pérdida de calor de un aparato de calefacción con caldera, un calefactor combinado con caldera o un aparato de calefacción de cogeneración en modos de funcionamiento en que no hay demanda de calor, expresada en kW;
+ Definiciones relacionadas con los aparatos de calefacción y calefactores combinados con bomba de calor
+19)   «temperatura exterior» (Tj
+ ): temperatura del aire exterior medida con un termómetro seco y expresada en grados Celsius; la humedad relativa podrá indicarse mediante la temperatura de bulbo húmedo correspondiente;
+20)   «coeficiente nominal de rendimiento» (COPrated
+ ) o «relación nominal de energía primaria»(PERrated
+ ): la capacidad calorífica declarada, expresada en kW, dividida entre el insumo de energía, expresado en kW en términos de GCV y/o en kW en términos de energía final, y multiplicada por CC, para calefacción generada en condiciones de regulación estándar;
+21)   «condiciones de diseño de referencia»: la combinación de la temperatura de diseño de referencia, la temperatura bivalente máxima y la temperatura límite de funcionamiento máxima, según se indica en el cuadro 4 del anexo III;
+22)   «temperatura de diseño de referencia» (Tdesignh): la temperatura exterior, expresada en grados Celsius, indicada en el cuadro 4 del anexo III, en la que la relación de carga parcial es igual a 1;
+23)   «relación de carga parcial» (pl(Tj
+ )): la temperatura exterior menos 16 °C, dividida por la temperatura de diseño de referencia menos 16 °C;
+24)   «temporada de calefacción»: conjunto de condiciones de funcionamiento que describen, para cada período de temperatura, la combinación de temperaturas exteriores y el número de horas en que se registran estas temperaturas en cada temporada;
+25)   «período de temperatura» (binj
+ ): combinación de temperatura exterior y horas por período, tal como se indica en el cuadro 5 del anexo III;
+26)   «horas por período de temperatura» (Hj
+ ): las horas por temporada de calefacción, expresadas en horas por año, en las que se registra una temperatura exterior para cada período de temperatura, tal como se indica en el cuadro 5 del anexo III;
+27)   «carga parcial para calefacción» (Ph(Tj
+ )): la carga de calefacción a una temperatura exterior determinada, que se calcula multiplicando la carga de diseño por la relación de carga parcial, expresada en kW;
+28)   «coeficiente estacional de rendimiento» (SCOP) o «relación estacional de energía primaria» (SPER): el coeficiente de rendimiento global de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza electricidad, o bien la relación total de energía primaria de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza combustible, representativa de la temporada de calefacción de que se trate, que se calcula dividiendo la demanda anual de calefacción de referencia entre el consumo anual de energía;
+29)   «demanda anual de calefacción de referencia» (QH
+ ): la demanda de calefacción de referencia para una temporada de calefacción determinada, que se usa para el cálculo de SCOP o SPER, y se calcula multiplicando la carga de diseño para calefacción por las horas anuales en modo activo equivalente, expresada en kWh;
+30)   «consumo anual de energía» (QHE
+ ): el consumo energético necesario para satisfacer la demanda anual de calefacción de referencia para una temporada de calefacción designada, expresado en kWh en términos de GCV o en kWh en términos de energía final multiplicada por CC;
+31)   «horas anuales en modo activo equivalente» (HHE
+ ): el número de horas anuales durante las que se supone que un aparato de calefacción con bomba de calor o un calefactor combinado de calor debe suministrar la carga de diseño para calefacción a fin de satisfacer la demanda anual de calefacción de referencia, expresadas en h;
+32)   «coeficiente de rendimiento en modo activo» (SCOPon
+ ) o «relación de energía primaria en modo activo» (SPERon
+ ): el coeficiente medio de rendimiento de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor en modo activo o la relación media de energía primaria en modo activo de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza combustible para la temporada de calefacción de que se trate;
+33)   «capacidad complementaria de calefacción» (sup(Tj
+ )): la potencia calorífica nominal Psup de un calefactor complementario que complementa la capacidad declarada de calefacción para satisfacer la carga parcial de calefacción, si la capacidad de calefacción declarada es inferior a la carga parcial de calefacción, expresada en kW;
+34)   «coeficiente de rendimiento de un período determinado de temperatura» (COPbin(Tj
+ )) o «relación de energía primaria de un período determinado de temperatura» (PERbin(Tj
+ )): el coeficiente de rendimiento de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza electricidad, o la relación de energía primaria de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza combustible correspondiente a todos los períodos de temperatura de una temporada, que se deriva de la carga parcial de calefacción, la capacidad de calefacción declarada y el coeficiente de rendimiento declarado para los períodos de temperatura de que se trate, y se calcula para otros períodos de temperatura mediante interpolación o extrapolación, corregida en caso necesario por el coeficiente de degradación;
+35)   «capacidad declarada de calefacción» (Pdh(Tj
+ )): la capacidad de calefacción que un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor puede suministrar a una temperatura exterior determinada, expresada en kW;
+36)   «control de capacidad»: la posibilidad de que un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor cambie de capacidad mediante la modificación del caudal volumétrico de al menos uno de los fluidos para operar el ciclo de refrigeración, que deberá llevar la mención «fijo» si el caudal volumétrico no puede modificarse o «variable» si el caudal volumétrico puede modificarse o variarse en series de dos o más pasos;
+37)   «carga de diseño para calefacción» (Pdesignh): la potencia calorífica nominal (Prated) de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor, en la que la carga de diseño de calefacción es igual a la carga parcial de calefacción con una temperatura exterior igual a la temperatura de diseño de referencia, expresada en kW;
+38)   «coeficiente de rendimiento declarado» (COPd(Tj
+ )) o «relación de energía primaria declarada» (PERd(Tj
+ )): el coeficiente de rendimiento o relación de energía primaria de un número limitado de períodos de temperatura especificados;
+39)   «temperatura bivalente» (Tbiv
+ ): la temperatura exterior para calefacción declarada por el fabricante, en la que la capacidad de calefacción declarada es igual a la carga parcial de calefacción y por debajo de la cual la capacidad de calefacción declarada requiere una capacidad complementaria para satisfacer la carga parcial de calefacción, expresada en grados Celsius;
+40)   «temperatura límite de funcionamiento» (TOL): la temperatura exterior para calefacción declarada por el fabricante, por debajo de la cual un aparato de calefacción provisto de una bomba de calor aire-agua o un calefactor combinado provisto de una bomba de calor aire-agua no puede suministrar capacidad de calefacción y la capacidad de calefacción declarada es igual a cero, expresada en grados Celsius;
+41)   «temperatura límite de calentamiento de agua» (WTOL): la temperatura de salida del agua declarada por el fabricante, por encima de la cual un aparato de calefacción con bomba de calor o un calefactor combinado provisto de bomba de calor no puede suministrar capacidad de calefacción alguna y la capacidad de calefacción declarada es igual a cero, expresada en grados Celsius;
+42)   «capacidad de calefacción de intervalo cíclico» (Pcych): la capacidad de calefacción integrada durante el intervalo cíclico de ensayo para calefacción, expresada en kW;
+43)   «eficiencia del intervalo cíclico» (COPcyc o PERcyc): el coeficiente medio de rendimiento o la relación media de energía primaria durante el intervalo cíclico de ensayo, que se calcula como la capacidad de calefacción integrada durante el intervalo, expresada en kWh, dividida por el consumo de energía integrado durante el mismo intervalo, expresado en kWh en términos de GCV o en kWh en términos de energía final, multiplicado por el CC;
+44)   «coeficiente de degradación» (Cdh): medida de la pérdida de eficiencia debida a los ciclos de los aparatos de calefacción con bomba de calor o de los calefactores combinados con bomba de calor; si el Cdh no se determina por medición, el coeficiente de degradación por defecto es Cdh = 0,9;
+45)   «modo activo»: estado correspondiente a las horas con carga de calefacción del espacio cerrado y en el cual la función de calefacción se encuentra activada; este estado puede incluir ciclos del aparato de calefacción con bomba de calor o del calefactor combinado con bomba de calor con el fin de alcanzar o mantener la temperatura atmosférica interior requerida;
+46)   «modo desactivado»: estado en que el aparato de calefacción con bomba de calor o el calefactor combinado con bomba de calor está conectado a la toma de corriente y no ejecuta función alguna, incluidos los estados en que únicamente indica que se encuentra desactivado o en los que solamente ofrece funciones para garantizar la compatibilidad electromagnética con arreglo a la Directiva 2004/108/CE del Parlamento y del Consejo (1);
+47)   «modo desactivado por termostato»: el estado correspondiente a las horas sin carga calorífica y con la función de calefacción activada, en el que esta última se encuentra activada, pero el aparato de calefacción con bomba de calor o el calefactor combinado con bomba de calor no está operativo; los ciclos en modo activo no se consideran un modo desactivado por termostato;
+48)   «modo de calefactor del cárter»: estado en el que un dispositivo de calefacción está activado para evitar que el refrigerante se traslade al compresor a fin de limitar la concentración de refrigerante en el aceite cuando se pone en marcha el compresor;
+49)   «consumo de electricidad en modo desactivado» (POFF
+ ): el consumo de electricidad de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor en modo desactivado, expresado en kW;
+50)   «consumo de electricidad en modo desactivado por termostato» (PTO
+ ): el consumo de electricidad de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor cuando se encuentra desactivado por termostato, expresado en kW;
+51)   «consumo de electricidad en modo de calefactor del cárter» (PCK
+ ): el consumo de electricidad de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor en modo de calefactor del cárter, expresado en kW;
+52)   «bomba de calor de baja temperatura»: aparato de calefacción con bomba de calor diseñado específicamente para aplicaciones de baja temperatura y que no puede suministrar agua caliente a una temperatura de salida de 52 °C con una temperatura de entrada medida con termómetro seco de – 7 °C (– 8 °C) en condiciones de diseño de referencia para un clima medio;
+53)   «aplicación de baja temperatura»: aplicación en la que el aparato de calefacción con bomba de calor suministra su capacidad de calefacción declarada a una temperatura de 35 °C en la salida de un intercambiador de calor de interior;
+54)   «aplicación de temperatura media»: aplicación en la que el aparato de calefacción con bomba de calor o el calentador combinado con bomba de calor suministra su capacidad de calefacción declarada a una temperatura de 55 °C en la salida de un intercambiador de calor de interior;
+ Definiciones relacionadas con el caldeo de agua de los calefactores combinados
+55)   «perfil de carga»: una determinada secuencia de salidas de agua, conforme a lo especificado en el anexo III, cuadro 7; cada calefactor combinado cumple al menos un perfil de carga;
+56)   «salida de agua»: una determinada combinación de caudal de agua útil, temperatura del agua útil, contenido de energía útil y temperatura pico, conforme a lo especificado en el cuadro 7 del anexo III;
+57)   «caudal de agua útil» (f): el caudal mínimo, expresado en litros por minuto, en que el agua caliente contribuye a la energía de referencia, conforme a lo especificado en el cuadro 7 del anexo III;
+58)   «temperatura de agua útil» (Tm
+ ): la temperatura del agua, expresada en grados Celsius, a la cual el agua caliente empieza a contribuir a la energía de referencia, conforme a lo especificado en el cuadro 7 del anexo III;
+59)   «contenido de energía útil» (Qtap
+ ): el contenido energético del agua caliente, expresado en kWh, suministrado a una temperatura igual o superior a la temperatura del agua útil, y a caudales de agua iguales o superiores al caudal de agua útil, conforme a lo especificado en el cuadro 7 del anexo III;
+60)   «contenido energético del agua caliente»: producto de la capacidad térmica específica del agua, la diferencia de temperatura media entre el agua caliente saliente y el agua fría entrante y la masa total de agua caliente suministrada;
+61)   «temperatura pico» (Tp
+ ): temperatura mínima del agua, expresada en grados Celsius, que ha de alcanzarse durante la salida de agua, conforme a lo especificado en el cuadro 7 del anexo III;
+62)   «energía de referencia» (Qref
+ ): suma del contenido de energía útil de las salidas de agua, expresada en kWh, en un determinado perfil de carga, conforme a lo especificado en el cuadro 7 del anexo III;
+63)   «perfil de carga máximo»: perfil de carga con la mayor energía de referencia que es capaz de suministrar un calefactor combinado cuando cumple las condiciones de temperatura y caudal de ese perfil de carga;
+64)   «perfil de carga declarado»: perfil de carga aplicado para la evaluación de la conformidad;
+65)   «consumo diario de electricidad» (Qelec
+ ): el consumo de electricidad para el caldeo de agua durante 24 horas consecutivas con el perfil de carga declarado, expresado en kWh en términos de energía final;
+66)   «consumo diario de combustible» (Qfuel
+ ): el consumo de combustibles para el caldeo de agua durante 24 horas consecutivas con el perfil de carga declarado, expresado en kWh en términos de GCV.
+ (1)  
+ DO L 390 de 31.12.2004, p. 24.
+ANEXO II
+ Requisitos de diseño ecológico
+1.   REQUISITOS DE EFICIENCIA ENERGÉTICA ESTACIONAL DE CALEFACCIÓN DE ESPACIOS
+a)
+ | 
+A partir del 26 de septiembre de 2015, la eficiencia energética estacional de calefacción de espacios y las eficiencias útiles de los calefactores no podrán ser inferiores a los siguientes valores:
+ | 
+ Aparatos de calefacción con caldera de combustible con una potencia calorífica nominal ≤ 70 kW y calefactores combinados con caldera de combustible con una potencia calorífica nominal ≤ 70 kW, a excepción de las calderas de tipo B1 con una potencia calorífica nominal ≤ 10 kW y las calderas combinadas B1 con una potencia calorífica nominal ≤ 30 kW:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 86 %.
+ | 
+ | 
+ Calderas de tipo B1 con una potencia calorífica nominal ≤ 10 kW y calderas combinadas de tipo B1 con una potencia calorífica nominal ≤ 30 kW:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 75 %.
+ | 
+ | 
+ Aparatos de calefacción con caldera de combustible con una potencia calorífica nominal > 70 kW e ≤ 400 kW y calefactores combinados con caldera de combustible con una potencia calorífica nominal > 70 kW e ≤ 400 kW:
+La eficiencia útil al 100 % de la potencia calorífica nominal no podrá ser inferior al 86 % y la eficiencia útil al 30 % de la potencia calorífica nominal no podrá ser inferior al 94 %.
+ | 
+ | 
+ Aparatos de calefacción con caldera eléctrica y calefactores combinados con caldera eléctrica:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 30 %.
+ | 
+ | 
+ Aparatos de calefacción de cogeneración:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 86 %.
+ | 
+ | 
+ Aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor, a excepción de las bombas de calor de baja temperatura:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 100 %.
+ | 
+ | 
+ Bombas de calor de baja temperatura:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 115 %.
+ | 
+ | 
+b)
+ | 
+A partir del 26 de septiembre de 2017, la eficiencia energética estacional de calefacción de espacios de los aparatos de calefacción con caldera eléctrica, los calefactores combinados con caldera eléctrica, los aparatos de calefacción de cogeneración, los aparatos de calefacción con bomba de calor y los calefactores combinados con bomba de calor no podrá ser inferior a los siguientes valores:
+ | 
+ Aparatos de calefacción con caldera eléctrica y calefactores combinados con caldera eléctrica:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 36 %.
+ | 
+ | 
+ Aparatos de calefacción de cogeneración:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 100 %.
+ | 
+ | 
+ Aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor, a excepción de las bombas de calor de baja temperatura:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 110 %.
+ | 
+ | 
+ Bombas de calor de baja temperatura:
+La eficiencia energética estacional de calefacción de espacios no podrá ser inferior al 125 %.
+ | 
+ | 
+2.   REQUISITOS DE EFICIENCIA ENERGÉTICA DE CALDEO DE AGUA
+a)
+ | 
+ A partir del 26 de septiembre de 2015, la eficiencia energética de caldeo de agua de los calefactores combinados no podrá ser inferior a los siguientes valores:
+Perfil de carga declarado
+ | 
+ 3XS
+ | 
+ XXS
+ | 
+ XS
+ | 
+ S
+ | 
+ M
+ | 
+ L
+ | 
+ XL
+ | 
+ XXL
+ | 
+ 3XL
+ | 
+ 4XL
+ | 
+Eficiencia energética de caldeo de agua
+ | 
+22  %
+ | 
+23  %
+ | 
+26  %
+ | 
+26  %
+ | 
+30  %
+ | 
+30  %
+ | 
+30  %
+ | 
+32  %
+ | 
+32  %
+ | 
+32  %
+ | 
+ | 
+b)
+ | 
+ A partir del 26 de septiembre de 2017, la eficiencia energética de caldeo de agua de los calefactores combinados no podrá ser inferior a los siguientes valores:
+Perfil de carga declarado
+ | 
+ 3XS
+ | 
+ XXS
+ | 
+ XS
+ | 
+ S
+ | 
+ M
+ | 
+ L
+ | 
+ XL
+ | 
+ XXL
+ | 
+ 3XL
+ | 
+ 4XL
+ | 
+Eficiencia energética de caldeo de agua
+ | 
+32  %
+ | 
+32  %
+ | 
+32  %
+ | 
+32  %
+ | 
+36  %
+ | 
+37  %
+ | 
+38  %
+ | 
+60  %
+ | 
+64  %
+ | 
+64  %
+ | 
+ | 
+3.   REQUISITOS DE NIVEL DE POTENCIA ACÚSTICA
+A partir del 26 de septiembre de 2015, el nivel de potencia acústica de los aparatos de calefacción con bomba de calor y de los calefactores combinados con bomba de calor no podrá superar los siguientes valores:
+Potencia calorífica nominal ≤ 6 kW
+ | 
+Potencia calorífica nominal > 6 kW y ≤ 12 kW
+ | 
+Potencia calorífica nominal > 12 kW y ≤ 30 kW
+ | 
+Potencia calorífica nominal > 30 kW y ≤ 70 kW
+ | 
+Nivel de potencia acústica (LWA
+ ), interiores
+ | 
+Nivel de potencia acústica (L
+ WA
+ ), exteriores
+ | 
+Nivel de potencia acústica (LWA
+ ), interiores
+ | 
+Nivel de potencia acústica (LWA
+ ), exteriores
+ | 
+Nivel de potencia acústica (LWA
+ ), interiores
+ | 
+Nivel de potencia acústica (LWA
+ ), exteriores
+ | 
+Nivel de potencia acústica (LWA
+ ), interiores
+ | 
+Nivel de potencia acústica (LWA
+ ), exteriores
+ | 
+60  dB
+ | 
+65  dB
+ | 
+65  dB
+ | 
+70  dB
+ | 
+70  dB
+ | 
+78  dB
+ | 
+80  dB
+ | 
+88  dB
+ | 
+4.   REQUISITOS APLICABLES A LAS EMISIONES DE ÓXIDOS DE NITRÓGENO
+a)
+ | 
+ A partir del 26 de septiembre de 2018, las emisiones de óxidos de nitrógeno de los calefactores, expresadas en dióxido de nitrógeno, no superarán los siguientes valores:
+—
+ | 
+aparatos de calefacción con caldera de combustible y calefactores combinados con caldera de combustible que utilizan combustibles gaseosos: consumo de combustible de 56 mg/kWh en términos de GCV,
+ | 
+—
+ | 
+aparatos de calefacción con caldera de combustible y calefactores combinados con caldera de combustible que utilizan combustibles líquidos: consumo de combustible de 120 mg/kWh en términos de GCV,
+ | 
+—
+ | 
+aparatos de calefacción de cogeneración de combustión externa que utilizan combustibles gaseosos: consumo de combustible de 70 mg/kWh en términos de GCV,
+ | 
+—
+ | 
+aparatos de calefacción de cogeneración de combustión externa que utilizan combustibles líquidos: consumo de combustible de 120 mg/kWh en términos de GCV,
+ | 
+—
+ | 
+aparatos de calefacción de cogeneración equipados con un motor de combustión interna que utiliza combustibles gaseosos: consumo de combustible de 240 mg/kWh en términos de GCV,
+ | 
+—
+ | 
+aparatos de calefacción de cogeneración equipados con un motor de combustión interna que utiliza combustibles líquidos: consumo de combustible de 420 mg/kWh en términos de GCV,
+ | 
+—
+ | 
+aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor de combustión externa que utilizan combustibles gaseosos: consumo de combustible de 70 mg/kWh en términos de GCV,
+ | 
+—
+ | 
+aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor de combustión externa que utilizan combustibles líquidos: consumo de combustible de 120 mg/kWh en términos de GCV,
+ | 
+—
+ | 
+aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor equipados con un motor de combustión externa que utiliza combustibles gaseosos: consumo de combustible de 240 mg/kWh en términos de GCV,
+ | 
+—
+ | 
+aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor equipados con un motor de combustión interna que utiliza combustibles líquidos: consumo de combustible de 420 mg/kWh en términos de GCV.
+ | 
+ | 
+5.   REQUISITOS RELATIVOS A LA INFORMACIÓN SOBRE EL PRODUCTO
+A partir del 26 de septiembre de 2015 deberá suministrarse la siguiente información sobre los calefactores:
+a)
+ | 
+los manuales de instrucciones para instaladores y usuarios finales, así como los sitios web de libre acceso de los fabricantes, sus representantes autorizados e importadores, deberán contener los siguientes datos:
+—
+ | 
+para aparatos de calefacción con caldera, calefactores combinados con caldera y aparatos de calefacción de cogeneración, los parámetros técnicos estipulados en el cuadro 1, medidos y calculados de conformidad con el anexo III,
+ | 
+—
+ | 
+para aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor, los parámetros técnicos estipulados en el cuadro 2, medidos y calculados de conformidad con el anexo III,
+ | 
+—
+ | 
+cualquier medida de precaución específica que deba tenerse en cuenta durante el montaje, instalación o mantenimiento del calefactor,
+ | 
+—
+ | 
+para las calderas de tipo B1 y las calderas combinadas de tipo B1, sus características y el siguiente texto estándar: «Esta caldera de tiro natural debe conectarse exclusivamente a una salida de humos compartida entre varias viviendas en los edificios existentes que evacúe los gases de combustión al exterior de la estancia donde se encuentra la caldera. Toma el aire de combustión directamente de la estancia e incluye un cortatiro. Debe evitarse cualquier otro uso de esta caldera pues, por su menor eficiencia, ocasionaría mayores costes de consumo energético y de funcionamiento»,
+ | 
+—
+ | 
+para los generadores de calor concebidos para calefactores y cajas de calefactores que deban equiparse con dichos generadores, sus características, los requisitos de montaje para asegurar la conformidad con los requisitos de diseño ecológico para calefactores y, en su caso, la lista de las combinaciones recomendadas por el fabricante,
+ | 
+—
+ | 
+información pertinente para el desmontaje, reciclado o eliminación del producto al final de su vida útil;
+ | 
+ | 
+b)
+ | 
+a efectos de la evaluación de la conformidad con arreglo al artículo 4, la documentación técnica deberá contener los siguientes elementos:
+—
+ | 
+los elementos indicados en el punto a),
+ | 
+—
+ | 
+para los aparatos de calefacción con bomba de calor y los calefactores combinados con bomba de calor, cuando la información relativa a un modelo específico, que sea una combinación de unidades de interior y exterior, se haya obtenido mediante cálculos basados en el diseño o la extrapolación de otras combinaciones, detalles de esos cálculos o extrapolaciones, y de los ensayos realizados para comprobar la exactitud de los cálculos efectuados (incluidos los detalles del modelo matemático utilizado para calcular el rendimiento de esas combinaciones y de las mediciones realizadas para comprobar dicho modelo);
+ | 
+ | 
+c)
+ | 
+la siguiente información deberá figurar de forma indeleble en el calefactor:
+—
+ | 
+en su caso, «caldera de tipo B1» o «caldera combinada de tipo B1»,
+ | 
+—
+ | 
+para los aparatos de calefacción de cogeneración, la capacidad eléctrica.
+ | 
+ | 
+ Cuadro 1
+ Requisitos de información sobre aparatos de calefacción con caldera, calefactores combinados con caldera y aparatos de calefacción de cogeneración
+Modelos: [Datos que identifican el modelo o modelos a que se refiere la información]
+ | 
+Caldera de condensación: [sí/no]
+ | 
+Caldera de baja temperatura (*2): [sí/no]
+ | 
+Caldera B1: [sí/no]
+ | 
+Aparato de calefacción de cogeneración: [sí/no]
+ | 
+En caso afirmativo, equipado con un calefactor complementario: [sí/no]
+ | 
+Calefactor combinado: [sí/no]
+ | 
+ Elemento
+ | 
+ Símbolo
+ | 
+ Valor
+ | 
+ Unidad
+ | 
+ | 
+ Elemento
+ | 
+ Símbolo
+ | 
+ Valor
+ | 
+ Unidad
+ | 
+ Potencia calorífica nominal
+ | 
+ Prated
+ | 
+x
+ | 
+kW
+ | 
+ Eficiencia energética estacional de calefacción
+ | 
+ ηs
+ | 
+x
+ | 
+%
+ | 
+Para aparatos de calefacción con caldera y calefactores combinados con caldera: Potencia calorífica útil
+ | 
+Para aparatos de calefacción con caldera y calefactores combinados con caldera: Eficiencia útil
+ | 
+A potencia calorífica nominal y régimen de alta temperatura (*1)
+ | 
+ P4
+ | 
+x,x
+ | 
+kW
+ | 
+A potencia calorífica nominal y régimen de alta temperatura (*1)
+ | 
+ η4
+ | 
+x,x
+ | 
+%
+ | 
+A 30 % de potencia calorífica nominal y régimen de baja temperatura (*2)
+ | 
+ P1
+ | 
+x,x
+ | 
+kW
+ | 
+A 30 % de potencia calorífica nominal y régimen de baja temperatura (*2)
+ | 
+ η1
+ | 
+x,x
+ | 
+%
+ | 
+Para aparatos de calefacción de cogeneración: Potencia calorífica útil
+ | 
+Para aparatos de calefacción de cogeneración: Eficiencia útil
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario desactivado
+ | 
+ PCHP100 + Sup0
+ | 
+x,x
+ | 
+kW
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario desactivado
+ | 
+ ηCHP100 + Sup0
+ | 
+x,x
+ | 
+%
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario activado
+ | 
+ PCHP100 + Sup100
+ | 
+x,x
+ | 
+kW
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario activado
+ | 
+ ηCHP100 + Sup100
+ | 
+x,x
+ | 
+%
+ | 
+Para aparatos de calefacción de cogeneración: Eficiencia eléctrica
+ | 
+Calefactor complementario
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario desactivado
+ | 
+ ηel,CHP100 + Sup0
+ | 
+x,x
+ | 
+%
+ | 
+Potencia calorífica nominal
+ | 
+ Psup
+ | 
+x,x
+ | 
+kW
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario activado
+ | 
+ ηel,CHP100 + Sup100
+ | 
+x,x
+ | 
+%
+ | 
+Tipo de insumo de energía
+ | 
+ | 
+Consumo de electricidad auxiliar
+ | 
+Otros elementos
+ | 
+A plena carga
+ | 
+ elmax
+ | 
+x,xxx
+ | 
+kW
+ | 
+Pérdida de calor en modo de espera
+ | 
+ Pstby
+ | 
+x,xxx
+ | 
+kW
+ | 
+A carga parcial
+ | 
+ elmin
+ | 
+x,xxx
+ | 
+kW
+ | 
+Consumo de electricidad del quemador de encendido
+ | 
+ Pign
+ | 
+x,xxx
+ | 
+kW
+ | 
+En modo de espera
+ | 
+ PSB
+ | 
+x,xxx
+ | 
+kW
+ | 
+Emisiones de óxidos de nitrógeno
+ | 
+ NOx
+ | 
+x
+ | 
+mg/kWh
+ | 
+Para los calefactores combinados:
+ | 
+ Perfil de carga declarado
+ | 
+ | 
+ | 
+ Eficiencia energética de caldeo de agua
+ | 
+ ηwh
+ | 
+x
+ | 
+%
+ | 
+Consumo diario de electricidad
+ | 
+ Qelec
+ | 
+x,xxx
+ | 
+kWh
+ | 
+Consumo diario de combustible
+ | 
+ Qfuel
+ | 
+x,xxx
+ | 
+kWh
+ | 
+Datos de contacto
+ | 
+Nombre y dirección del fabricante o de su representante autorizado.
+ | 
+ Cuadro 2
+ Requisitos de información para los aparatos de calefacción con bomba de calor y los calefactores combinados con bomba de calor
+Modelos: [Datos que identifican el modelo o modelos a que se refiere la información]
+ | 
+Bomba de calor aire-agua: [sí/no]
+ | 
+Bomba de calor agua-agua: [sí/no]
+ | 
+Bomba de calor salmuera-agua: [sí/no]
+ | 
+Bomba de calor de baja temperatura: [sí/no]
+ | 
+Equipado con un calefactor complementario: [sí/no]
+ | 
+Calefactor combinado con bomba de calor: [sí/no]
+ | 
+Los parámetros se declararán para aplicaciones de media temperatura, excepto si se trata de bombas de calor de baja temperatura. En el caso de las bombas de calor de baja temperatura, los parámetros se declararán para aplicaciones de baja temperatura.
+ | 
+Los parámetros se indicarán para condiciones climáticas medias.
+ | 
+ Elemento
+ | 
+ Símbolo
+ | 
+ Valor
+ | 
+ Unidad
+ | 
+ | 
+ Elemento
+ | 
+ Símbolo
+ | 
+ Valor
+ | 
+ Unidad
+ | 
+ Potencia calorífica nominal
+  (*3)
+ | 
+ Prated
+ | 
+x
+ | 
+kW
+ | 
+ Eficiencia energética estacional de calefacción
+ | 
+ ηs
+ | 
+x
+ | 
+%
+ | 
+Capacidad de calefacción declarada para una carga parcial a una temperatura interior de 20 °C y una temperatura exterior Tj
+ | 
+Coeficiente de rendimiento declarado o factor energético primario para una carga parcial a una temperatura interior de 20 °C y una temperatura exterior Tj
+ | 
+ Tj
+  = – 7 °C
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+  = – 7 °C
+ | 
+ COPd or PERd
+ | 
+x,xx o x,x
+ | 
+– o %
+ | 
+ Tj
+  = + 2 °C
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+  = + 2 °C
+ | 
+ COPd or PERd
+ | 
+x,xx o x,x
+ | 
+– o %
+ | 
+ Tj
+  = + 7 °C
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+  = + 7 °C
+ | 
+ COPd or PERd
+ | 
+x,xx o x,x
+ | 
+– o %
+ | 
+ Tj
+  = + 12 °C
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+  = + 12 °C
+ | 
+ COPd or PERd
+ | 
+x,xx o x,x
+ | 
+– o %
+ | 
+ Tj
+  = temperatura bivalente
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+  = temperatura bivalente
+ | 
+ COPd or PERd
+ | 
+x,xx o x,x
+ | 
+– o %
+ | 
+ Tj
+  = temperatura límite de funcionamiento
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+  = temperatura límite de funcionamiento
+ | 
+ COPd or PERd
+ | 
+x,xx o x,x
+ | 
+– o %
+ | 
+Para bombas de calor aire-agua: Tj
+  = – 15 °C (si TOL < – 20 °C)
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+Para bombas de calor aire-agua: Tj
+  = – 15 °C (si TOL < – 20 °C)
+ | 
+ COPd or PERd
+ | 
+x,xx o x,x
+ | 
+– o %
+ | 
+Temperatura bivalente
+ | 
+ Tbiv
+ | 
+x
+ | 
+°C
+ | 
+Para bombas de calor aire-agua: Temperatura límite de funcionamiento
+ | 
+ TOL
+ | 
+x
+ | 
+°C
+ | 
+Eficiencia del intervalo cíclico para calefacción
+ | 
+ Pcych
+ | 
+x,x
+ | 
+kW
+ | 
+Eficiencia del intervalo cíclico
+ | 
+ COPcyc or PERcyc
+ | 
+x,xx o x,x
+ | 
+– o %
+ | 
+Coeficiente de degradación (*4)
+ | 
+ Cdh
+ | 
+x,x
+ | 
+—
+ | 
+Temperatura límite de calentamiento de agua
+ | 
+ WTOL
+ | 
+x
+ | 
+°C
+ | 
+Consumo de electricidad en modos distintos del activo
+ | 
+Calefactor complementario
+ | 
+Modo desactivado
+ | 
+ POFF
+ | 
+x,xxx
+ | 
+kW
+ | 
+Potencia calorífica nominal (*3)
+ | 
+ Psup
+ | 
+x,x
+ | 
+kW
+ | 
+Modo desactivado por termostato
+ | 
+ PTO
+ | 
+x,xxx
+ | 
+kW
+ | 
+ | 
+ | 
+Modo de espera
+ | 
+ PSB
+ | 
+x,xxx
+ | 
+kW
+ | 
+Tipo de insumo de energía
+ | 
+Modo de calentador del cárter
+ | 
+ PCK
+ | 
+x,xxx
+ | 
+kW
+ | 
+ | 
+Otros elementos
+ | 
+ | 
+Control de capacidad
+ | 
+fijo/variable
+ | 
+Para bombas de calor aire-agua: Caudal de aire nominal (exterior)
+ | 
+—
+ | 
+x
+ | 
+m3/h
+ | 
+Nivel de potencia acústica (interior/exterior)
+ | 
+ LWA
+ | 
+x/x
+ | 
+dB
+ | 
+Para bombas de calor agua/salmuera a agua: Caudal de salmuera o de agua nominal, intercambiador de calor de exterior
+ | 
+—
+ | 
+x
+ | 
+m3/h
+ | 
+Emisiones de óxidos de nitrógeno
+ | 
+ NOx
+ | 
+x
+ | 
+mg/kWh
+ | 
+Para calefactores combinados con bomba de calor:
+ | 
+ Perfil de carga declarado
+ | 
+x
+ | 
+ | 
+ Eficiencia energética de caldeo de agua
+ | 
+ ηwh
+ | 
+x
+ | 
+%
+ | 
+Consumo diario de electricidad
+ | 
+ Qelec
+ | 
+x,xxx
+ | 
+kWh
+ | 
+Consumo diario de combustible
+ | 
+ Qfuel
+ | 
+x,xxx
+ | 
+kWh
+ | 
+Datos de contacto
+ | 
+Nombre y dirección del fabricante o de su representante autorizado.
+ | 
+ (*1)  Régimen de alta temperatura significa una temperatura de retorno de 60 °C a la entrada del calefactor y una temperatura de alimentación de 80 °C a la salida del calefactor.
+ (*2)  Baja temperatura se refiere a una temperatura de retorno (en la entrada del calefactor) de 30 °C para las calderas de condensación, 37 °C para las calderas de baja temperatura y 50 °C para los demás calefactores.
+ (*3)  Para los aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor, la potencia calorífica nominal Prated es igual a la carga de calefacción de diseño Pdesignh, y la potencia calorífica nominal de un calefactor complementario Psup es igual a la capacidad complementaria de calefacción sup(Tj).
+ (*4)  Si no se determina Cdh por medición, el coeficiente de degradación predeterminado será Cdh = 0,9.
+ANEXO III
+ Mediciones y cálculos
+1.
+ | 
+Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, se harán mediciones y cálculos utilizando normas armonizadas cuyos números de referencia hayan sido publicados a este efecto en el Diario Oficial de la Unión Europea, u otro método fiable, exacto y reproducible, que tenga en cuenta los métodos más avanzados generalmente aceptados. Dichas mediciones y cálculos cumplirán las condiciones y los parámetros técnicos establecidos en los puntos 2 a 5.
+ | 
+2.
+ | 
+Condiciones generales aplicables a las mediciones y los cálculos
+a)
+ | 
+A efectos de las mediciones indicadas en los puntos 2 a 5, la temperatura ambiente interior se fijará en 20 °C ± 1 °C.
+ | 
+b)
+ | 
+A efectos de los cálculos indicados en los puntos 3 a 5, el consumo de electricidad se multiplicará por un coeficiente de conversión CC de 2,5.
+ | 
+c)
+ | 
+Las emisiones de óxidos de nitrógeno se medirán como la suma del monóxido de nitrógeno y el dióxido de nitrógeno, y se expresará en dióxido de nitrógeno.
+ | 
+d)
+ | 
+En lo que se refiere a los calefactores equipados con calefactores complementarios, la medición y el cálculo de la potencia calorífica nominal, la eficiencia energética estacional de la calefacción, la eficiencia energética del caldeo de agua, el nivel de potencia acústica y las emisiones de óxidos de nitrógeno tendrán en cuenta el calefactor complementario.
+ | 
+e)
+ | 
+Los valores declarados de potencia calorífica nominal, eficiencia energética estacional de calefacción de espacios, eficiencia energética de caldeo del agua, nivel de potencia acústica y emisiones de óxidos de nitrógeno se redondearán al siguiente número entero.
+ | 
+f)
+ | 
+Todos los generadores de calor concebidos para calefactores y las cajas de calefactor que deban alojar dichos generadores deberán comprobarse con una caja de calefactor o generador de calor apropiados, respectivamente.
+ | 
+ | 
+3.
+ | 
+Eficiencia energética estacional de calefacción de espacios de aparatos de calefacción con caldera, calefactores combinados con caldera y aparatos de calefacción de cogeneración
+La eficiencia energética estacional de calefacción de espacios ηs
+ se calculará como la eficiencia energética estacional de calefacción de espacios en modo activo ηson
+ , corregida con las aportaciones de los controles de temperatura, el consumo auxiliar de electricidad, la pérdida calorífica en modo de espera, el consumo energético del quemador de encendido (en su caso) y, en el caso de los aparatos de calefacción de cogeneración, corregida añadiendo la eficiencia eléctrica multiplicada por un coeficiente de conversión CC de 2,5.
+ | 
+4.
+ | 
+Eficiencia energética estacional de calefacción de espacios de aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor
+a)
+ | 
+Para determinar el coeficiente de rendimiento nominal COPrated
+ o el factor energético primario nominal PERrated
+ , el nivel de potencia acústica o las emisiones de óxidos de nitrógeno, las condiciones de funcionamiento serán las condiciones de regulación estándar recogidas en el cuadro 3 y se empleará la misma capacidad de calefacción declarada.
+ | 
+b)
+ | 
+El coeficiente de rendimiento en modo activo SCOPon
+ o la relación de energía primaria en modo activo SPERon
+ se calculará a partir de la carga parcial de calefacción Ph(Tj) la capacidad complementaria de calefacción sup(Tj) (en su caso), y el coeficiente de rendimiento de un período determinado de temperatura COPbin(Tj) o la relación de energía primaria de un período determinado de temperatura PERbin(Tj), ponderado por las horas del período en que se dan las condiciones definidas para ese período, en las condiciones siguientes:
+—
+ | 
+las condiciones de diseño de referencia recogidas en el cuadro 4,
+ | 
+—
+ | 
+la temporada de calefacción de referencia europea en las condiciones climáticas medias recogidas en el cuadro 5,
+ | 
+—
+ | 
+en su caso, los efectos de la degradación de la eficiencia energética causados por los ciclos, en función del tipo de control de la capacidad de calefacción.
+ | 
+ | 
+c)
+ | 
+La demanda anual de calor de referencia QH
+ será la carga de diseño para calefacción Pdesignh multiplicada por las horas anuales equivalentes en modo activo HHE
+ de 2 066.
+ | 
+d)
+ | 
+El consumo anual de energía QHE
+ se calculará como la suma de:
+—
+ | 
+la relación entre la demanda anual de calefacción de referencia QH
+ y el coeficiente de rendimiento en modo activo SCOPon
+ o la relación de energía primaria en modo activo SPERon
+ , y
+ | 
+—
+ | 
+el consumo de energía en los modos «desactivado», «desactivado por termostato», «de espera», y «dispositivo de calentamiento del cárter» durante la temporada de calefacción.
+ | 
+ | 
+e)
+ | 
+El coeficiente de rendimiento estacional SCOP o el factor energético primario estacional SPER se calcularán como la relación entre la demanda anual de calor de referencia QH
+ y el consumo anual de energía QHE
+ .
+ | 
+f)
+ | 
+La eficiencia energética estacional de calefacción ηs
+ se calculará dividiendo el coeficiente de rendimiento estacional SCOP por el coeficiente de conversión CC o la relación estacional de energía primaria SPER, corregida con las aportaciones de los controles de temperatura y, para los aparatos de calefacción con bomba de calor agua-agua y salmuera-agua y los calefactores combinados con bomba de calor, el consumo de electricidad de una o varias bombas geotérmicas.
+ | 
+ | 
+5.
+ | 
+Eficiencia energética de caldeo de agua de los calefactores combinados
+La eficiencia energética de caldeo de agua ηwh
+ de un calefactor combinado se calculará como la relación entre la energía de referencia Qref
+ del perfil de carga declarado y la energía necesaria para su generación, en las siguientes condiciones:
+a)
+ | 
+las mediciones se realizarán utilizando los perfiles de carga del cuadro 7;
+ | 
+b)
+ | 
+las mediciones se realizarán aplicando un ciclo de medición de 24 horas, del siguiente modo:
+—
+ | 
+entre las 00:00 y las 06:59: sin salida de agua,
+ | 
+—
+ | 
+a partir de las 07:00: salidas de agua de conformidad con el perfil de carga declarado,
+ | 
+—
+ | 
+desde el final de la última salida de agua hasta las 24:00: sin salida de agua;
+ | 
+ | 
+c)
+ | 
+el perfil de carga declarado será el perfil de carga máximo o el perfil de carga que esté un grado por debajo del perfil de carga máximo;
+ | 
+d)
+ | 
+en el caso de los calefactores combinados con bomba de calor, se aplicarán las siguientes condiciones adicionales:
+—
+ | 
+los calefactores combinados con bomba de calor se comprobarán en las condiciones recogidas en el cuadro 3;
+ | 
+—
+ | 
+los calefactores combinados con bomba de calor que utilicen el aire de escape de la ventilación como fuente de calor se comprobarán en las condiciones recogidas en el cuadro 6.
+ | 
+ | 
+ | 
+ Cuadro 3
+ Condiciones estándar para los aparatos de calefacción con bomba de calor y los calefactores combinados con bomba de calor
+Fuente de calor
+ | 
+Intercambiador de calor de exterior
+ | 
+Intercambiador de calor de interior
+ | 
+Temperatura de entrada de bulbo seco (bulbo húmedo)
+ | 
+Aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor, salvo bombas de calor de baja temperatura
+ | 
+Bombas de calor de baja temperatura
+ | 
+Temperatura de entrada
+ | 
+Temperatura de salida
+ | 
+Temperatura de entrada
+ | 
+Temperatura de salida
+ | 
+Aire exterior
+ | 
++ 7 °C (+ 6 °C)
+ | 
++ 47 °C
+ | 
++ 55 °C
+ | 
++ 30 °C
+ | 
++ 35 °C
+ | 
+Aire de escape
+ | 
++ 20 °C (+ 12 °C)
+ | 
+ | 
+Temperatura de entrada/salida
+ | 
+Agua
+ | 
++ 10 °C/+ 7 °C
+ | 
+Salmuera
+ | 
+0 °C/– 3 °C
+ | 
+ Cuadro 4
+ Condiciones de diseño de referencia para aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor, temperaturas indicadas en temperatura del aire de bulbo seco (entre paréntesis se indica la temperatura de bulbo húmedo)
+Temperatura de diseño de referencia
+ | 
+Temperatura bivalente
+ | 
+Temperatura límite de funcionamiento
+ | 
+ Tdesignh
+ | 
+ Tbiv
+ | 
+ TOL
+ | 
+– 10 (– 11) °C
+ | 
+máximo + 2 °C
+ | 
+máximo – 7 °C
+ | 
+ Cuadro 5
+ Temporada de calefacción de referencia europea en condiciones climáticas medias para aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor
+ binj
+ | 
+ Tj
+ [°C]
+ | 
+ Hj
+ [h/año]
+ | 
+1 a 20
+ | 
+– 30 a – 11
+ | 
+0 
+ | 
+21 
+ | 
+–10 
+ | 
+1 
+ | 
+22 
+ | 
+–9 
+ | 
+25 
+ | 
+23 
+ | 
+–8 
+ | 
+23 
+ | 
+24 
+ | 
+–7 
+ | 
+24 
+ | 
+25 
+ | 
+–6 
+ | 
+27 
+ | 
+26 
+ | 
+–5 
+ | 
+68 
+ | 
+27 
+ | 
+–4 
+ | 
+91 
+ | 
+28 
+ | 
+–3 
+ | 
+89 
+ | 
+29 
+ | 
+–2 
+ | 
+165 
+ | 
+30 
+ | 
+–1 
+ | 
+173 
+ | 
+31 
+ | 
+0 
+ | 
+240 
+ | 
+32 
+ | 
+1 
+ | 
+280 
+ | 
+33 
+ | 
+2 
+ | 
+320 
+ | 
+34 
+ | 
+3 
+ | 
+357 
+ | 
+35 
+ | 
+4 
+ | 
+356 
+ | 
+36 
+ | 
+5 
+ | 
+303 
+ | 
+37 
+ | 
+6 
+ | 
+330 
+ | 
+38 
+ | 
+7 
+ | 
+326 
+ | 
+39 
+ | 
+8 
+ | 
+348 
+ | 
+40 
+ | 
+9 
+ | 
+335 
+ | 
+41 
+ | 
+10 
+ | 
+315 
+ | 
+42 
+ | 
+11 
+ | 
+215 
+ | 
+43 
+ | 
+12 
+ | 
+169 
+ | 
+44 
+ | 
+13 
+ | 
+151 
+ | 
+45 
+ | 
+14 
+ | 
+105 
+ | 
+46 
+ | 
+15 
+ | 
+74 
+ | 
+Total horas:
+ | 
+4 910 
+ | 
+ Cuadro 6
+ Aire de escape de ventilación máximo disponible [m3/h], a una humedad de 5,5 g/m3
+ Perfil de carga declarado
+ | 
+ XXS
+ | 
+ XS
+ | 
+ S
+ | 
+ M
+ | 
+ L
+ | 
+ XL
+ | 
+ XXL
+ | 
+ 3XL
+ | 
+ 4XL
+ | 
+Aire de escape de la ventilación máximo disponible
+ | 
+109 
+ | 
+128 
+ | 
+128 
+ | 
+159 
+ | 
+190 
+ | 
+870 
+ | 
+1 021 
+ | 
+2 943 
+ | 
+8 830 
+ | 
+ Cuadro 7
+ Perfiles de carga de caldeo de agua de los calefactores combinados
+h
+ | 
+ 3XS
+ | 
+ XXS
+ | 
+ XS
+ | 
+ S
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+07:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+ 3 
+ | 
+ 25 
+ | 
+ | 
+07:05
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:15
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:26
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,525 
+ | 
+ 3 
+ | 
+ 35 
+ | 
+ 0,105 
+ | 
+ 3 
+ | 
+ 25 
+ | 
+ | 
+07:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:01
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:05
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:15
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:25
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:30
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+09:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+09:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+10:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+11:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+11:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:45
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+12:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:45
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,525 
+ | 
+3 
+ | 
+35 
+ | 
+ 0,315 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+14:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+15:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+15:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+16:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+16:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+17:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+18:00
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:15
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+18:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+19:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+19:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:00
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 1,05 
+ | 
+3 
+ | 
+35 
+ | 
+ 0,42 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+20:45
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:46
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:00
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:15
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,525 
+ | 
+5 
+ | 
+45 
+ | 
+ | 
+21:35
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:45
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Qref
+ | 
+ 0,345 
+ | 
+ | 
+ | 
+ 2,100 
+ | 
+ | 
+ | 
+ 2,100 
+ | 
+ | 
+ | 
+ 2,100 
+ | 
+ | 
+ | 
+ | 
+h
+ | 
+ M
+ | 
+ L
+ | 
+ XL
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ kWh
+ | 
+l/mn
+ | 
+°C
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+07:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:05
+ | 
+ 1,4 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ 1,4 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:15
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 1,82 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+07:26
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 4,42 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+08:01
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:05
+ | 
+ | 
+ | 
+ | 
+ | 
+ 3,605 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:25
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+11:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+12:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:45
+ | 
+ 0,315 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,315 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+14:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+17:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+18:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+19:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+19:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:30
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+20:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:46
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 4,42 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+21:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ 3,605 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+21:30
+ | 
+ 1,4 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 4,42 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+21:35
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Qref
+ | 
+ 5,845 
+ | 
+ | 
+ | 
+ | 
+ 11,655 
+ | 
+ | 
+ | 
+ | 
+ 19,07 
+ | 
+ | 
+ | 
+ | 
+h
+ | 
+ XXL
+ | 
+ 3XL
+ | 
+ 4XL
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+07:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 11,2 
+ | 
+48 
+ | 
+40 
+ | 
+ | 
+ 22,4 
+ | 
+96 
+ | 
+40 
+ | 
+ | 
+07:05
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:15
+ | 
+ 1,82 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:26
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:45
+ | 
+ 6,24 
+ | 
+16 
+ | 
+10 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:01
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 5,04 
+ | 
+24 
+ | 
+25 
+ | 
+ | 
+ 10,08 
+ | 
+48 
+ | 
+25 
+ | 
+ | 
+08:05
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:25
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+09:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 1,68 
+ | 
+24 
+ | 
+25 
+ | 
+ | 
+ 3,36 
+ | 
+48 
+ | 
+25 
+ | 
+ | 
+09:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+10:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+10:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+ 0,84 
+ | 
+24 
+ | 
+10 
+ | 
+40 
+ | 
+ 1,68 
+ | 
+48 
+ | 
+10 
+ | 
+40 
+ | 
+11:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+11:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+11:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 1,68 
+ | 
+24 
+ | 
+25 
+ | 
+ | 
+ 3,36 
+ | 
+48 
+ | 
+25 
+ | 
+ | 
+12:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:45
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 2,52 
+ | 
+32 
+ | 
+10 
+ | 
+55 
+ | 
+ 5,04 
+ | 
+64 
+ | 
+10 
+ | 
+55 
+ | 
+14:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+15:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+15:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 2,52 
+ | 
+24 
+ | 
+25 
+ | 
+ | 
+ 5,04 
+ | 
+48 
+ | 
+25 
+ | 
+ | 
+16:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+16:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+17:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+18:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+18:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+18:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 3,36 
+ | 
+24 
+ | 
+25 
+ | 
+ | 
+ 6,72 
+ | 
+48 
+ | 
+25 
+ | 
+ | 
+19:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+19:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:30
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 5,88 
+ | 
+32 
+ | 
+10 
+ | 
+55 
+ | 
+ 11,76 
+ | 
+64 
+ | 
+10 
+ | 
+55 
+ | 
+20:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:46
+ | 
+ 6,24 
+ | 
+16 
+ | 
+10 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:30
+ | 
+ 6,24 
+ | 
+16 
+ | 
+10 
+ | 
+40 
+ | 
+ 12,04 
+ | 
+48 
+ | 
+40 
+ | 
+ | 
+ 24,08 
+ | 
+96 
+ | 
+40 
+ | 
+ | 
+21:35
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Qref
+ | 
+ 24,53 
+ | 
+ | 
+ | 
+ | 
+ 46,76 
+ | 
+ | 
+ | 
+ | 
+ 93,52 
+ | 
+ | 
+ | 
+ | 
+ANEXO IV
+ Procedimiento de verificación a efectos de la vigilancia del mercado
+Cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE, las autoridades de los Estados miembros aplicarán el siguiente procedimiento de verificación en relación con los requisitos establecidos en el anexo II:
+1.
+ | 
+Las autoridades del Estado miembro someterán a ensayo una sola unidad por modelo.
+ | 
+2.
+ | 
+Se considerará que el modelo de calefactor cumple los requisitos aplicables del anexo II del presente Reglamento si:
+a)
+ | 
+los valores declarados cumplen los requisitos expuestos en el anexo II;
+ | 
+b)
+ | 
+la eficiencia energética estacional de calefacción de espacios ηs
+ no es más de un 8 % inferior al valor declarado a la potencia calorífica nominal de la unidad;
+ | 
+c)
+ | 
+la eficiencia energética de caldeo de agua ηwh
+ no es más de un 8 % inferior al valor declarado a la potencia calorífica nominal de la unidad;
+ | 
+d)
+ | 
+en lo que se refiere a los calefactores, el nivel de potencia acústica LWA
+ no es más de 2 dB superior al valor declarado de la unidad; y que
+ | 
+e)
+ | 
+las emisiones de óxidos de nitrógeno, expresadas como dióxido de nitrógeno, no superan en más de un 20 % el valor declarado de la unidad.
+ | 
+ | 
+3.
+ | 
+Si no se alcanza el resultado referido en el punto 2, letra a), se considerará que el modelo y todos los demás modelos equivalentes no son conformes al presente Reglamento. Si no se obtuviera el resultado referido en el punto 2, letras b) a e), las autoridades del Estado miembro seleccionarán aleatoriamente otras tres unidades del mismo modelo para realizar ensayos.
+ | 
+4.
+ | 
+Se considerará que el modelo de calefactor cumple los requisitos aplicables del anexo II del presente Reglamento si:
+a)
+ | 
+los valores declarados de cada una de las tres unidades cumplen los requisitos enumerados en el anexo II;
+ | 
+b)
+ | 
+el promedio de la eficiencia energética estacional de calefacción de espacios ηs
+ de las tres unidades no es más de un 8 % inferior al valor declarado a la potencia calorífica nominal de la unidad;
+ | 
+c)
+ | 
+el promedio de la eficiencia energética de caldeo de agua ηwh
+ de las tres unidades no es más de un 8 % inferior al valor declarado a la potencia calorífica nominal de la unidad;
+ | 
+d)
+ | 
+el promedio del nivel de potencia acústica LWA
+ de las tres unidades no es más de 2 dB superior al valor declarado de la unidad, y que
+ | 
+e)
+ | 
+el promedio de las emisiones de óxidos de nitrógeno de las tres unidades, expresadas como dióxido de nitrógeno, no superan en más de un 20 % el valor declarado de la unidad.
+ | 
+ | 
+5.
+ | 
+Si no se alcanzan los resultados referidos en el punto 4, se considerará que el modelo y todos los demás modelos equivalentes no son conformes al presente Reglamento. Las autoridades del Estado miembro facilitarán los resultados del ensayo y cualquier otra información pertinente a las autoridades de los demás Estados miembros y a la Comisión en el plazo de un mes desde la adopción de la decisión de no conformidad del modelo.
+ | 
+Las autoridades de los Estados miembros utilizarán los métodos de medición y cálculo establecidos en el anexo III.
+ANEXO V
+ Valores de referencia indicativos mencionados en el artículo 6
+En el momento de la entrada en vigor del presente Reglamento, la mejor tecnología disponible en el mercado para calefactores desde el punto de vista de su eficiencia energética estacional de calefacción de espacios, su eficiencia energética de caldeo de agua, su nivel de potencia acústica y sus emisiones de óxidos de nitrógeno, era la siguiente:
+1.
+ | 
+Valor de referencia de la eficiencia energética estacional de calefacción de espacios en aplicaciones a temperatura media: 145 %.
+ | 
+2.
+ | 
+Valor de referencia de la eficiencia energética de caldeo de agua de calefactores combinados:
+Perfil de carga declarado
+ | 
+ 3XS
+ | 
+ XXS
+ | 
+ XS
+ | 
+ S
+ | 
+ M
+ | 
+ L
+ | 
+ XL
+ | 
+ XXL
+ | 
+ 3XL
+ | 
+ 4XL
+ | 
+Eficiencia energética de caldeo de agua
+ | 
+35  %
+ | 
+35  %
+ | 
+38  %
+ | 
+38  %
+ | 
+75  %
+ | 
+110  %
+ | 
+115  %
+ | 
+120  %
+ | 
+130  %
+ | 
+130  %
+ | 
+ | 
+3.
+ | 
+Valores de referencia del nivel de potencia acústica (LWA
+ ), en el exterior, de los aparatos de calefacción con bomba de calor y de los calefactores combinados con bomba de calor con la potencia calorífica nominal:
+a)
+ | 
+≤ 6 kW: 39 dB;
+ | 
+b)
+ | 
+> 6 kW y ≤ 12 kW: 40 dB;
+ | 
+c)
+ | 
+> 12 kW y ≤ 30 kW: 41 dB;
+ | 
+d)
+ | 
+> 30 kW y ≤ 70 kW: 67 dB.
+ | 
+ | 
+4.
+ | 
+Valores de referencia de las emisiones de óxidos de nitrógeno, expresadas en dióxido de nitrógeno:
+a)
+ | 
+de los aparatos de calefacción con caldera y los calefactores combinados con caldera que utilizan combustibles gaseosos: consumo de combustible de 14 mg/kWh en términos de GCV;
+ | 
+b)
+ | 
+de los aparatos de calefacción con caldera y los calefactores combinados con caldera que utilizan combustibles líquidos: consumo de combustible de 50 mg/kWh en términos de GCV.
+ | 
+ | 
+Los valores de referencia especificados en los puntos 1 a 4 no implican necesariamente que pueda alcanzarse una combinación de estos valores para un único calefactor.

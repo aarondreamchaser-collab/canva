@@ -119,5 +119,21 @@
  "ventilador-o-aire-acondicionado": {
   "id": 265,
   "rankmath_status": 200
+ },
+ "boletin-electrico": {
+  "id": 283,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-aerotermia": {
+  "id": 284,
+  "rankmath_status": 200
+ },
+ "se-ha-ido-la-luz": {
+  "id": 285,
+  "rankmath_status": 200
+ },
+ "luz-en-aragon": {
+  "id": 286,
+  "rankmath_status": 200
  }
 }

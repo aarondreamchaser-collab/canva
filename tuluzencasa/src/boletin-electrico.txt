@@ -1,0 +1,104 @@
+title: Boletín eléctrico: qué es, cuándo te lo piden y quién lo hace
+title_seo: Boletín eléctrico: qué es y cuándo te lo piden
+excerpt: Boletín eléctrico: el certificado de tu instalación. Cuándo te lo piden al dar de alta la luz o subir potencia, cuándo no, y quién puede hacerlo.
+category: instalacion
+keyword: boletín eléctrico
+linea_fecha: no
+---
+¿Qué es el boletín eléctrico? Es el certificado de instalación eléctrica (CIE): el documento con el que una empresa instaladora declara que tu instalación cumple el Reglamento Electrotécnico para Baja Tensión, registrado ante tu comunidad autónoma. Te lo piden para dar de alta la luz en una vivienda nueva o después de una reforma, pero no para poner el contrato a tu nombre si no cambias nada.
+
+Lo de «boletín» viene de los antiguos impresos, y el nombre se ha quedado: la distribuidora, el instalador y la propia normativa siguen usándolo. Además de acreditar que la instalación es segura, el boletín fija la potencia máxima que admite tu casa, y ese dato decide hasta dónde puedes subir la potencia contratada.
+
+## Qué es el boletín eléctrico y qué pone {#que-es}
+
+El <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099" target="_blank" rel="noopener">Reglamento Electrotécnico para Baja Tensión</a> (REBT) establece el procedimiento: antes de usar una instalación nueva, la empresa instaladora la verifica, emite el certificado y lo deposita ante el órgano competente de la comunidad autónoma para registrarla. Desde ese momento, la distribuidora ya puede conectarla a la red.
+
+Según la instrucción técnica ITC-BT-04, el certificado recoge como mínimo:
+
+- <strong>Las características principales</strong> de la instalación.
+- <strong>La potencia prevista</strong>, que en las viviendas es la del interruptor general automático del cuadro.
+- <strong>Los datos de la empresa instaladora</strong> y del instalador que lo firma.
+- <strong>La declaración de que se ha hecho conforme al reglamento</strong> y a la memoria técnica o al proyecto.
+- <strong>La referencia de la inspección inicial</strong>, en las instalaciones que la necesitan.
+
+Con el certificado, la empresa instaladora te entrega unas instrucciones de uso y mantenimiento con el esquema de la instalación, sus protecciones y un croquis del trazado. Guárdalo todo junto: te lo pedirán si vendes la casa, si haces obra o si quieres subir mucho la potencia.
+
+{{CAJA:Dato clave}}
+El boletín no caduca. No hay que renovarlo cada cierto tiempo en una vivienda: solo se hace uno nuevo cuando la instalación cambia o cuando la distribuidora comprueba que ya no cumple el reglamento.
+{{/CAJA}}
+
+## Cuándo te piden el boletín eléctrico y cuándo no {#cuando}
+
+Es la duda más habitual, y la respuesta depende de lo que vayas a hacer. Con el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212" target="_blank" rel="noopener">Real Decreto 88/2026</a>, el nuevo reglamento de suministro que se aplica desde febrero de 2026, queda así:
+
+{{T:boletin_cuando}}
+
+La regla de los 20 años es la que más confusión crea. Para cambiar el titular, la distribuidora no puede pedirte un certificado nuevo ni revisar la instalación, aunque el contrato sea muy antiguo, siempre que no cambies la potencia ni el tipo de peaje. En cambio, si quieres subir la potencia de un contrato de más de 20 años, la distribuidora tiene que revisar la instalación y puede cobrarte los derechos de verificación. Si la revisión encuentra que no cumple, tendrás que adaptarla y presentar un boletín nuevo.
+
+El Gobierno de Aragón lo resume en su <a href="https://www.aragon.es/documents/20127/13486493/BT_Doc_Contratacion-suministro_v8.pdf/cbbab549-27b9-3a25-5664-475ab6029aa3?t=1568276543046" target="_blank" rel="noopener">guía de documentación para contratar la luz</a>: el boletín solo hace falta cuando hay una instalación nueva o un cambio físico en ella. Bajar o subir la potencia sin obra, dentro de lo que admite el boletín, no requiere presentar documentación técnica.
+
+## Hasta qué potencia puedes contratar con tu boletín {#potencia}
+
+La potencia que contrates no puede pasar de la que figura en tu boletín. En los certificados hechos con el reglamento actual, desde septiembre de 2003, en una vivienda esa potencia coincide con el interruptor general automático (IGA) del cuadro: se multiplica su intensidad por 230 voltios.
+
+{{T:boletin_iga}}
+
+Según la ITC-BT-10, una vivienda nueva tiene que prever al menos 5.750 W, y 9.200 W si tiene electrificación elevada: calefacción o aire acondicionado eléctricos, más de 160 m² o recarga del coche eléctrico en una unifamiliar. Mira la intensidad que pone en el interruptor general de tu cuadro y tendrás una idea rápida de tu límite. Te explicamos cómo reconocerlo en <a href="https://tuluzencasa.com/diferencia-magnetotermico-diferencial/">diferencia entre magnetotérmico y diferencial</a>.
+
+En los boletines antiguos, el límite se llamaba de otra forma: «potencia máxima admisible» en los emitidos hasta 2001 y «potencia instalada» hasta 2003. El dato está en el propio documento. Antes de pedir más potencia, compara con lo que necesitas de verdad en <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+
+## Quién hace el boletín y qué papeles lleva {#quien}
+
+Solo puede hacerlo una empresa instaladora habilitada en baja tensión: tú no puedes tramitarlo por tu cuenta, ni sirve el certificado de un técnico sin empresa instaladora. La empresa revisa la instalación, hace las verificaciones previas que exige la instrucción ITC-BT-05 y presenta la documentación.
+
+Lo que se presenta depende del tamaño de la instalación:
+
+{{T:boletin_documentacion}}
+
+En un piso o una casa normal basta con la memoria técnica de diseño, que firma la propia empresa instaladora. Desde 2020, si la documentación se presenta por vía electrónica, la administración devuelve el certificado sellado también por vía electrónica, y la empresa te entrega una copia para ti.
+
+<strong>Lo que puedes comprobar tú, sin riesgo</strong>: que el cuadro tiene interruptor general, diferencial y magnetotérmicos; que el botón de prueba del diferencial lo hace saltar; y qué intensidad pone en el IGA. <strong>Lo que tiene que hacer la empresa instaladora</strong>: abrir el cuadro, medir la instalación, cambiar protecciones o circuitos y certificar el resultado.
+
+## Cuánto cuesta y cuánto tarda {#precio}
+
+El precio no está regulado: lo pone cada empresa instaladora según la revisión que haga falta y las reparaciones que encuentre. Hay dos costes que conviene separar al pedir presupuesto:
+
+- <strong>La revisión y el certificado</strong>: mediciones, memoria técnica y tramitación.
+- <strong>Las reparaciones</strong>, si la instalación no cumple: un diferencial que no salta, falta de toma de tierra, circuitos insuficientes o cables de sección pequeña.
+
+A eso se suma la tasa de registro de la comunidad autónoma, que fija cada una. En Aragón, por ejemplo, el registro se hace con el <a href="https://www.aragon.es/tramitador/-/tramite/instalaciones-electricas-baja-tension-comunicacion-puesta-servicio-baja" target="_blank" rel="noopener">trámite n.º 26 del Gobierno de Aragón</a>, que presenta la empresa instaladora y lleva una tasa propia. Pide al menos dos presupuestos con el desglose y pregunta si la tasa está incluida.
+
+## Si te piden el boletín y no lo tienes {#sin-boletin}
+
+Pasa a menudo al comprar o alquilar una vivienda antigua y querer subir la potencia. Los pasos:
+
+- <strong>Busca el boletín anterior</strong>: el antiguo propietario, el administrador de la finca o la propia empresa que lo hizo pueden tener copia.
+- <strong>Comprueba qué te piden exactamente</strong>. Si solo vas a cambiar el titular, no hace falta ningún certificado.
+- <strong>Llama a una empresa instaladora</strong> para que revise la instalación y te diga qué hay que adaptar antes de certificar.
+- <strong>Tramita el cambio de potencia</strong> con tu comercializadora cuando tengas el boletín nuevo. Te pedirán el CUPS de tu vivienda, el código que viene en la factura y que explicamos en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿El boletín eléctrico caduca?
+
+No en una vivienda. Solo se hace otro si cambias la instalación o si, al subir la potencia de un contrato de más de 20 años, la distribuidora comprueba que la instalación ya no cumple.
+
+### ¿Necesito boletín para cambiar el titular de la luz?
+
+No, si no cambias la potencia ni el tipo de peaje. El Real Decreto 88/2026 lo deja claro también para los contratos de más de 20 años.
+
+### ¿Quién paga el boletín en un alquiler?
+
+La normativa eléctrica no lo dice: depende del contrato de alquiler y del motivo. Si el boletín hace falta para una reforma o para adaptar la instalación, acuérdalo por escrito con el propietario antes de encargarlo.
+
+### ¿Puedo subir la potencia sin boletín nuevo?
+
+Sí, mientras la nueva potencia no pase de la que admite tu boletín y el contrato no tenga más de 20 años. Con más de 20 años, la distribuidora revisa antes la instalación.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099" target="_blank" rel="noopener">Real Decreto 842/2002, Reglamento Electrotécnico para Baja Tensión</a>: artículo 18 e instrucciones ITC-BT-04, ITC-BT-05, ITC-BT-10 e ITC-BT-25.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212" target="_blank" rel="noopener">Real Decreto 88/2026, Reglamento general de suministro, comercialización y agregación de energía eléctrica</a>: artículos 38.7 y 39.6.
+- <a href="https://www.aragon.es/documents/20127/13486493/BT_Doc_Contratacion-suministro_v8.pdf/cbbab549-27b9-3a25-5664-475ab6029aa3?t=1568276543046" target="_blank" rel="noopener">Gobierno de Aragón, Documentación para la contratación de suministro eléctrico en baja tensión</a>.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: suma lo que gastan tus aparatos antes de pedir más potencia y comprueba si de verdad la necesitas.

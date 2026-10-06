@@ -1,0 +1,23 @@
+
+ Aerotermia e Hidrotermia | Idae
+ -->
+Aerotermia e Hidrotermia | Idae
+ Pasar al contenido principal
+Inicio
+ Tecnologías
+ Energías renovables
+ Uso térmico
+ Aerotermia e Hidrotermia
+ Idae 
+Aerotermia e Hidrotermia
+Energía renovable capturada por bombas de calor
+Back
+-->
+La Directiva 2009/28/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, relativa al fomento del uso de energía procedente de fuentes renovables y por la que se modifican y se derogan las Directivas 2001/77/CE y 2003/30/CE, reconoce como energía renovable, la energía capturada por las bombas de calor, bajo determinadas condiciones. En el artículo 2 de esta Directiva se establecen, entre otras, las siguientes definiciones según la naturaleza del medio con el que intercambian calor:
+Energía aerotérmica es la energía almacenada en forma de calor en el aire ambiente.
+Energía hidrotérmica es la energía almacenada en forma de calor en las aguas superficiales.
+La bomba de calor es una máquina térmica capaz de bombear calor desde un foco frío a uno caliente. En el caso de las bombas de calor aerotérmicas e hidrotérmicas, extraen calor del entorno natural (aire o agua) a través del evaporador y lo transfiere al interior de un edificio o a procesos industriales a través del condensador. Si son reversibles, se invierte el ciclo y se transfiere el calor del interior del edificio impulsándolo al entorno natural.
+Dentro de las bombas de calor, podemos distinguir entre las siguientes tipologías: las accionadas eléctricamente, como el modelo más extendido, en las que la energía necesaria para mover el compresor se obtiene a través de un motor eléctrico; las accionadas a gas, en las que el accionamiento del compresor lo realiza un motor endotérmico de combustión interna y las accionadas térmicamente, en las que el cambio de estado del refrigerante se realiza mediante un ciclo de absorción o compresión térmica.
+A efectos de la contabilización de la cuota de energía renovable establecida por la Directiva, la energía capturada por las bombas de calor se tendrá en cuenta siempre que la producción final de energía supere de forma significativa el insumo de energía primaria necesaria para impulsar la bomba de calor, es decir, sólo una parte podrá considerarse renovable.
+Información de interés
+Directiva 2009/28/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009

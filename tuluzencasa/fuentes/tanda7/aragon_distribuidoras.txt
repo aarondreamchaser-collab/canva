@@ -1,0 +1,52 @@
+
+ Baja tensión. Especificaciones de empresas distribuidoras. Gobierno de Aragón
+Seguridad industrial: instalaciones y equipos industriales
+Contenidos
+ Mostrar contenidos 
+ Mostrar contenidos 
+Especificaciones particulares y Proyectos tipo de las empresas distribuidoras
+Extracto del Reglamento Electrotécnico para Baja Tensión (REBT) sobre las empresas distribuidoras de Baja Tensión.
+Última actualización: 19/08/2025
+ Más
+Compartir 
+El Reglamento Electrotécnico para Baja Tensión (REBT)
+El Reglamento Electrotécnico para Baja Tensión (REBT) dispone:
+Artículo 14. Especificaciones particulares y Proyectos tipo de las empresas distribuidoras.
+Las empresas distribuidoras de energía eléctrica podrán proponer especificaciones particulares sobre la construcción y montaje de acometidas, líneas generales de alimentación, instalaciones de contadores y derivaciones individuales. Estas especificaciones serán únicas para todo el territorio de distribución de la empresa distribuidora y recogerán las condiciones técnicas de carácter concreto que sean precisas para conseguir una mayor homogeneidad en la seguridad y el funcionamiento de las redes de distribución y las instalaciones de los consumidores. En ningún caso estas especificaciones incluirán marcas o modelos de equipos o materiales concretos que aboquen al consumidor a un único proveedor, ni prescripciones de tipo administrativo o económico, que supongan para el titular de la instalación privada cargas adicionales a las previstas en este reglamento, o en otra normativa que pueda ser de aplicación. En todo caso, las especificaciones incluirán la posibilidad de que, ante situaciones debidamente justificadas, previa acreditación de seguridad equivalente, el titular de la instalación pueda dar soluciones alternativas a situaciones concretas en que sea imposible cumplir los requisitos de las especificaciones aprobadas por la Administración.
+Dichas especificaciones deberán ajustarse, en cualquier caso, a los preceptos del reglamento, y previo cumplimiento del procedimiento de información pública, deberán ser aprobadas y registradas por los órganos competentes de las Comunidades Autónomas, en caso de que se limiten a su ámbito territorial, o por el Ministerio de Industria, Comercio y Turismo, en caso de aplicarse en más de una comunidad autónoma.
+Una persona técnica competente de la empresa distribuidora de energía eléctrica certificará que las especificaciones particulares cumplen todas las exigencias técnicas y de seguridad reglamentariamente establecidas. Asimismo, dichas normas deberán contar con un informe técnico de un órgano cualificado e independiente que certificará que dichas especificaciones cumplen con todos los requisitos de la reglamentación de seguridad aplicable a productos e instalaciones de baja tensión, que no se incluyen prescripciones de tipo administrativo o económico que supongan una carga para el titular de la instalación privada y que tampoco se incluyen sobredimensionamientos técnicamente no justificados de la instalación, salvo aquellos derivados de la utilización de las series normalizadas de materiales.
+Las empresas distribuidoras que quieran proponer las especificaciones particulares, a las que hace referencia el apartado 1, y que no se limiten al ámbito territorial de una única Comunidad Autónoma, deberán remitir solicitud de aprobación al Ministerio de Industria, Comercio y Turismo, acompañada de la siguiente documentación: a) El texto de las especificaciones para las que se solicita la aprobación. b) Certificado por persona técnica competente referido en el punto 3. c) Informe técnico emitido por un organismo cualificado, referido en el punto 3. d) Listado de las Comunidades Autónomas donde la empresa distribuidora lleve a cabo su actividad. Presentada la solicitud por medios electrónicos, el Ministerio de Industria, Comercio y Turismo realizará el trámite de información pública de dicha especificación y solicitará informe a la Comisión Nacional de los Mercados y la Competencia, al órgano competente de las Comunidades Autónomas en las que la empresa distribuidora desarrolle su actividad y a la Secretaría de Estado de Energía del Ministerio para la Transición Ecológica y el Reto Demográfico. Recibidos los informes, o cumplido el plazo marcado en el artículo 80 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común para su emisión, procederá a su aprobación siempre que se garantice el cumplimiento reglamentario, la uniformidad de los requisitos en todas las zonas de implantación de la empresa de distribución y que no se adopten barreras técnicas que aboquen al consumidor a un único proveedor, publicándose la resolución correspondiente en el «Boletín Oficial del Estado». Una vez presentadas las especificaciones ante el Ministerio de Industria, Comercio y Turismo, junto con los documentos mencionados, el plazo para la aprobación será de tres meses, considerándose el silencio administrativo como aprobatorio.
+Las normas así aprobadas se publicarán en la página web del Ministerio de Industria, Comercio y Turismo, sin perjuicio de la publicidad que las empresas de distribución hagan de las mismas.
+En caso de modificación o ampliación de especificaciones ya aprobadas, la empresa de distribución de energía eléctrica solicitará aprobación de la ampliación o modificación de dichas especificaciones, siguiendo el mismo procedimiento indicado anteriormente.
+Igualmente las empresas distribuidoras, para aquellas instalaciones, o parte de las mismas, de carácter repetitivo, propiedad de las empresas distribución de energía eléctrica y que requieren proyecto de acuerdo a lo establecido en la ITC-BT 04, podrán proponer proyectos tipo para su aprobación por los órganos competentes de las Comunidades Autónomas, en caso de que se limiten a su ámbito territorial, o por el Ministerio de Industria, Comercio y Turismo, en caso de aplicarse en más de una comunidad autónoma. La aprobación de los proyectos tipo seguirán el procedimiento descrito en este artículo para las especificaciones particulares.
+ Estos proyectos tipo, incluirán las condiciones técnicas de carácter concreto que sean precisas para conseguir mayor homogeneidad en la seguridad y el funcionamiento de las instalaciones de baja tensión, respetando los requisitos impuestos a las especificaciones particulares en este artículo. En cualquier caso, los proyectos tipo deberán ser completados, inexcusablemente, con los datos específicos concernientes a cada caso particular
+En la Comunidad Autónoma de Aragón, la principal distribuidora es Edistribución Redes Digitales SLU.
+Las Especificaciones Particulares aprobadas y actualmente en vigor se pueden encontrar en el siguiente enlace: Especificaciones Particulares de las Empresas Suministradoras - Edistribución Redes Digitales SLU.
+Temas asociados:
+Seguridad industrial
+Organismos asociados:
+Servicio de Metrología, Seguridad y Calidad Industrial
+¿Te ha resultado útil esta página?
+Tu respuesta nos ayudará a mejorar la web
+ Sí 
+ No 
+Gracias por tu valoración
+Para cualquier consulta, escríbenos a portalpublico@aragon.es
+ ¿Por qué no te ha resultado útil? 
+more-detail-a-hint" class="block text-neutral-dark text-sm mb-0">Puedes dejar aquí tu comentario anónimo. 
+Comentario 
+ : 0 / 65000
+Identificador del layout 
+ : 0 / 280
+ Si/no 
+URL del layout 
+ : 0 / 280
+Descripcion 
+ : 0 / 280
+Enviar
+Servicio de información y registro
+Horario:  lunes a viernes de 9:00 a 14:00 h.
+ 976 714 000 
+ atencionalaciudadania@aragon.es 
+ Buscador de oficinas 
+Oculto

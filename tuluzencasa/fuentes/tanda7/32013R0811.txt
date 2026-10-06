@@ -1,0 +1,7477 @@
+
+ L_2013239ES.01000101.xml
+6.9.2013   
+ | 
+ES
+ | 
+Diario Oficial de la Unión Europea
+ | 
+L 239/1
+ | 
+ REGLAMENTO DELEGADO (UE) N
+ o 811/2013 DE LA COMISIÓN
+de 18 de febrero de 2013
+por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de aparatos de calefacción, calefactores combinados, equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar y equipos combinados de calefactor combinado, control de temperatura y dispositivo solar
+(Texto pertinente a efectos del EEE)
+LA COMISIÓN EUROPEA,
+Visto el Tratado de Funcionamiento de la Unión Europea,
+Vista la Directiva 2010/30/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la indicación del consumo de energía y otros recursos por parte de los productos relacionados con la energía, mediante el etiquetado y una información normalizada (1), y, en particular, su artículo 10,
+Considerando lo siguiente:
+(1)
+ | 
+La Directiva 2010/30/UE exige a la Comisión que adopte actos delegados en lo relativo al etiquetado de los productos relacionados con la energía que representen un gran potencial de ahorro energético y que presenten una amplia disparidad en los niveles de rendimiento con funcionalidad equivalente.
+ | 
+(2)
+ | 
+La energía que consumen los aparatos destinados a la calefacción de espacios y los calefactores combinados que caldean espacios y agua representa una parte importante de la demanda total de energía de la Unión. Los aparatos de calefacción y los calefactores combinados con funcionalidad equivalente difieren mucho con respecto a su eficiencia energética. El margen para reducir su consumo energético es considerable e incluye la posibilidad de combinarlos con controles de temperatura y dispositivos solares adecuados. Por consiguiente, los aparatos de calefacción, los calefactores combinados y los equipos de esos calefactores combinados con controles de temperatura y equipos solares deben someterse a requisitos de etiquetado energético.
+ | 
+(3)
+ | 
+Los aparatos de calefacción y los equipos combinados de calefactores diseñados para funcionar principalmente con combustibles gaseosos o líquidos (más del 50 %) producidos a partir de biomasa tienen características técnicas específicas que requieren análisis técnicos, económicos y medioambientales suplementarios. Según el resultado de dichos análisis, llegado el caso deberían fijarse requisitos de etiquetado energético en una fase posterior.
+ | 
+(4)
+ | 
+Es preciso fijar disposiciones armonizadas sobre un etiquetado y una información normalizada del producto en relación con la eficiencia energética de los aparatos de calefacción y calefactores combinados a fin de incentivar a los fabricantes para que mejoren la eficiencia energética de estos calefactores, alentar a los usuarios finales a comprar productos energéticamente eficientes y contribuir al funcionamiento del mercado interior.
+ | 
+(5)
+ | 
+El presente Reglamento debe introducir, con respecto al ahorro significativo de energía y de costes de cada tipo de calefactor, una nueva escala de etiquetado de A++ a G para la función de calefacción de los aparatos de calefacción con caldera, los aparatos de calefacción de cogeneración, los aparatos de calefacción con bomba de calor, los calefactores combinados con caldera y los calefactores combinados con bomba de calor. Mientras las clases A a G incluyen los distintos tipos de calderas convencionales no combinadas con tecnologías de cogeneración o de energías renovables, las clases A+ y A++ deben promover el uso de tecnologías de cogeneración y de fuentes de energía renovables.
+ | 
+(6)
+ | 
+Además, es preciso introducir una escala de etiquetado de A a G para la función de caldeo de agua de los calefactores combinados con caldera y los calefactores combinados con bomba de calor, de conformidad con lo dispuesto en el Reglamento Delegado (UE) no 812/2013 de la Comisión, de 18 de febrero de 2013, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de los calentadores de agua, los depósitos de agua caliente y los equipos combinados de calentadores de agua y dispositivos solares (2).
+ | 
+(7)
+ | 
+Al cabo de cuatro años deberán añadirse las clases A+++ y A+ a las clases estacionales de calefacción y caldeo de agua, respectivamente, salvo si la revisión del Reglamento probase lo contrario, a fin de acelerar la penetración en el mercado de aparatos de calefacción y calefactores combinados de alta eficiencia que utilicen fuentes de energía renovables;
+ | 
+(8)
+ | 
+El presente Reglamento debe garantizar que los consumidores obtengan información comparativa más precisa sobre el rendimiento de los calentadores con bomba de calor, basada en el cálculo de la eficiencia estacional y el método de medición correspondiente a tres zonas climáticas europeas. A fin de investigar si conviene desarrollar un método similar para otros calentadores, la Comisión ha dado un mandato en este sentido a los órganos europeos de normalización. Las temporadas normalizadas europeas de calefacción para calentadores con caldera, calentadores de cogeneración y calentadores solares podrían tenerse en cuenta a la hora de revisar el presente Reglamento.
+ | 
+(9)
+ | 
+El nivel de potencia acústica de un calefactor podría ser un criterio importante para los usuarios finales y por tanto debe incluirse en las etiquetas de los aparatos de calefacción y calefactores combinados la información sobre los niveles de potencia acústica.
+ | 
+(10)
+ | 
+Se espera que el efecto combinado del presente Reglamento y del Reglamento (UE) no 813/2013 de la Comisión, de 2 de agosto de 2013, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a los aparatos de calefacción y los calefactores combinados (3), comporte un ahorro energético anual de unos 1 900 PJ (en torno a 45 Mtep) para 2020, que corresponden a alrededor de 110 Mt de CO2, frente a lo que pasaría si no se tomaran medidas.
+ | 
+(11)
+ | 
+La información facilitada en la etiqueta debe obtenerse con métodos de medición y de cálculo fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica generalmente reconocido, incluidas las normas armonizadas que eventualmente hayan aprobado los organismos de normalización europeos por petición de la Comisión, de conformidad con los procedimientos establecidos en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de las normas y reglamentaciones técnicas y de las reglas relativas a los servicios de la sociedad de la información (4), a efectos de establecer requisitos de diseño ecológico.
+ | 
+(12)
+ | 
+El presente Reglamento debe especificar un diseño y contenido uniformes de las etiquetas del producto para los aparatos de calefacción y calefactores combinados.
+ | 
+(13)
+ | 
+Además, el presente Reglamento especificará los requisitos relativos a la ficha del producto y la documentación técnica para los aparatos de calefacción y calefactores combinados.
+ | 
+(14)
+ | 
+Asimismo, el presente Reglamento debe especificar los requisitos relativos a la información que debe facilitarse para todo tipo de venta a distancia de aparatos de calefacción y calefactores combinados, así como en la publicidad y el material técnico de promoción relativos a estos aparatos.
+ | 
+(15)
+ | 
+Aparte de las etiquetas y fichas del producto para los aparatos de calefacción independientes y calefactores combinados establecidas en el presente Reglamento, las etiquetas y fichas de equipos combinados, basadas en las fichas del producto de los proveedores, deben garantizar que el consumidor final pueda acceder con facilidad a la información sobre el rendimiento energético de calefactores combinados con dispositivos solares y/o controles de temperatura. Este tipo de sistemas puede alcanzar la clase más eficiente A+++.
+ | 
+(16)
+ | 
+Procede prever una revisión de las disposiciones del presente Reglamento para tener en cuenta el progreso tecnológico.
+ | 
+HA ADOPTADO EL PRESENTE REGLAMENTO:
+Artículo 1
+Objeto y ámbito de aplicación
+1.   El presente Reglamento establece los requisitos para el etiquetado energético de aparatos de calefacción y calefactores combinados de una potencia calorífica nominal igual o inferior a 70 kW, combinaciones de aparatos de calefacción de una potencia calorífica nominal igual o inferior a 70 kW, controles de temperatura y dispositivos solares, y combinaciones de calefactores de una potencia calorífica igual o inferior a 70 kW, controles de temperatura y dispositivos solares, así como para la divulgación de información complementaria sobre estos productos.
+2.   El presente Reglamento no se aplicará a:
+(a)
+ | 
+los calefactores diseñados específicamente para utilizar combustibles gaseosos o líquidos producidos predominantemente a partir de biomasa;
+ | 
+(b)
+ | 
+los calefactores que utilizan combustibles sólidos;
+ | 
+(c)
+ | 
+los calefactores incluidos en el ámbito de la Directiva 2010/75/UE del Parlamento Europeo y del Consejo (5);
+ | 
+(d)
+ | 
+los calentadores que generan calor exclusivamente para suministrar agua caliente potable o sanitaria;
+ | 
+(e)
+ | 
+los calentadores destinados a caldear y distribuir medios gaseosos portadores de calor, como vapor o aire;
+ | 
+(f)
+ | 
+los aparatos de calefacción de cogeneración con una capacidad eléctrica máxima de 50 kW o más.
+ | 
+Artículo 2
+Definiciones
+A los efectos del presente Reglamento, además de las definiciones contenidas en el artículo 2 de la Directiva 2010/30/CE, se aplicarán las siguientes:
+(1)   «calefactor»: un aparato de calefacción o un calefactor combinado;
+(2)   «aparato de calefacción»: un dispositivo que
+(a)
+ | 
+suministra calor a un sistema central de calefacción a base de agua a fin de alcanzar y mantener un nivel de temperatura determinado en el interior de un espacio cerrado, como un edificio, una vivienda o una estancia, y
+ | 
+(b)
+ | 
+está equipado con uno o varios generadores de calor;
+ | 
+(3)   «calefactor combinado»: un aparato de calefacción diseñado para suministrar igualmente calor destinado a proporcionar niveles, cantidades y caudales predeterminados de agua caliente potable o sanitaria durante determinados intervalos, y que está conectado a un suministro externo de agua potable o sanitaria;
+(4)   «sistema de calefacción central a base de agua»: un sistema que utiliza agua como medio de transferencia para distribuir calor generado de forma centralizada entre emisores de calor para el caldeo del interior de edificios o parte de estos;
+(5)   «generador de calor»: la parte de un calefactor que genera calor mediante uno o varios de los siguientes procesos:
+(a)
+ | 
+combustión de combustibles fósiles o combustibles de biomasa;
+ | 
+(b)
+ | 
+utilización del efecto Joule en los elementos calefactores de una resistencia eléctrica;
+ | 
+(c)
+ | 
+captura del calor ambiente a partir de una fuente atmosférica, acuática o geotérmica, o de calor residual;
+ | 
+(6)   «potencia calorífica nominal» (Prated): la potencia calorífica declarada de un calefactor cuando suministra calefacción para espacios y, en su caso, caldeo de agua en condiciones nominales estándar, expresada en kW; en el caso de los aparatos de calefacción con bomba de calor o los calefactores combinados con bomba de calor, las condiciones de regulación estándar para determinar la potencia calorífica nominal serán las condiciones de diseño de referencia, estipuladas en el cuadro 10 del anexo VII;
+(7)   «condiciones de regulación estándar»: las condiciones de funcionamiento de los calefactores en condiciones climáticas medias para determinar la potencia calorífica nominal, la eficiencia energética estacional de la calefacción, la eficiencia energética del caldeo de agua y el nivel de potencia acústica;
+(8)   «biomasa»: la fracción biodegradable de los productos, desechos y residuos de origen biológico procedentes de la agricultura (incluidas las sustancias de origen vegetal y animal), de la silvicultura y otras industrias relacionadas, como la pesca y la acuicultura, así como la fracción biodegradable de los residuos industriales y urbanos;
+(9)   «combustible de biomasa»: el combustible gaseoso o líquido producido a partir de la biomasa;
+(10)   «combustible fósil»: el combustible gaseoso o líquido de origen fósil;
+(11)   «aparato de calefacción de cogeneración»: un aparato de calefacción que genera simultáneamente calor y electricidad en un único proceso;
+(12)   «control de temperatura»: equipo de interfaz con el usuario final para determinar los valores y la duración de la temperatura interior deseada, y que comunica los datos correspondientes a una interfaz del calefactor, como una unidad central de procesamiento, con el fin de regular la(s) temperatura(s) interior(es);
+(13)   «dispositivo solar»: un sistema exclusivamente solar, un colector solar, un depósito de agua caliente solar o una bomba en el circuito del colector, comercializados de forma independiente;
+(14)   «sistema exclusivamente solar»: un dispositivo equipado con uno o más colectores solares y depósitos solares de agua caliente y, en su caso, bombas situadas en el bucle del colector y otras partes que se comercializa como una unidad y no está equipado con ningún generador de calor excepto posiblemente uno o varios calentadores de inmersión de reserva;
+(15)   «colector solar»: dispositivo concebido para absorber la irradiancia solar global y transferir la energía calorífica así producida a un fluido que pasa a través de él;
+(16)   «depósito de agua caliente»: recipiente para almacenar agua caliente sanitaria y para fines de calefacción, incluidos los eventuales aditivos, que no está equipado con un generador de calor, salvo posiblemente uno o varios calefactores de inmersión de reserva;
+(17)   «depósito de agua caliente solar»: depósito de agua caliente que almacena la energía producida por uno o varios colectores solares;
+(18)   «calefactor de inmersión de reserva»: calefactor de resistencia eléctrica de efecto Joule que forma parte de un depósito de agua caliente y genera calor solo cuando la fuente de calor externa se ha interrumpido (como durante los períodos de mantenimiento) o está averiada, o que forma parte de un depósito de agua caliente solar y proporciona calor cuando la fuente de calor solar no es suficiente para satisfacer los niveles de confort necesarios;
+(19)   «equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar»: conjunto ofrecido al usuario final que contiene uno o varios aparatos de calefacción, uno o varios controles de temperatura y uno o varios dispositivos solares;
+(20)   «equipo combinado de calefactor, control de temperatura y dispositivo solar»: conjunto ofrecido al usuario final que contiene uno o varios calefactores combinados junto con uno o varios controles de temperatura y/o uno o varios dispositivos solares;
+(21)   «eficiencia energética estacional de calefacción» (ηs): la relación entre la demanda de calefacción durante una temporada de calefacción determinada, suministrada por un aparato de calefacción, un calefactor combinado, un equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar, o un equipo combinado de calefactor, control de temperatura, dispositivo solar, y el consumo anual de energía necesario para satisfacer esta demanda, expresada en %;
+(22)   «eficiencia energética del caldeo de agua» (ηwh): relación entre la energía útil del agua potable o sanitaria aportada por un calefactor combinado o un equipo combinado de calefactor, control de temperatura, dispositivo solar y la energía necesaria para su generación, expresada en %;
+(23)   «nivel de potencia acústica» (LWA
+ ): nivel de potencia acústica ponderada A, interior o exterior, expresado en dB;
+En el anexo I figuran definiciones adicionales a los efectos de los anexos II a VIII.
+Artículo 3
+Responsabilidades de los proveedores y calendario
+1.   A partir del 26 de septiembre de 2015, los proveedores que comercialicen o pongan en servicio aparatos de calefacción, incluidos los integrados en combinaciones de calefactor, control de temperatura y dispositivo solar, se asegurarán de que:
+(a)
+ | 
+se suministre una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 1.1 del anexo III con cada aparato de calefacción conforme a las clases de eficiencia energética estacional de calefacción que figuran en el punto 1 del anexo II, teniendo en cuenta que: los aparatos de calefacción con bomba de calor irán provistos de una etiqueta impresa por lo menos en el embalaje del generador de calor; los aparatos de calefacción destinados a ser utilizados en equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar irán provistos de una segunda etiqueta acorde con el formato y el contenido de información que se establece en el punto 3 del anexo III para cada aparato de calefacción;
+ | 
+(b)
+ | 
+cada aparato de calefacción esté provisto de una ficha del producto conforme al punto 1 del anexo IV, teniendo en cuenta que: los aparatos de calefacción con bomba de calor irán provistos de una ficha del producto por lo menos para el generador de calor; los aparatos de calefacción destinados a equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar irán provistos de una segunda ficha, según establece el punto 5 del anexo IV;
+ | 
+(c)
+ | 
+la documentación técnica conforme al punto 1 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición;
+ | 
+(d)
+ | 
+toda publicidad relativa al modelo específico de aparato de calefacción que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para ese modelo;
+ | 
+(e)
+ | 
+todo material técnico de promoción relativo al modelo específico de aparato de calefacción que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para ese modelo:
+ | 
+A partir del 26 de septiembre de 2019, se suministrará una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 1.2 del anexo III con cada aparato de calefacción conforme a las clases de eficiencia energética estacional de calefacción que figuran en el punto 1 del anexo II, teniendo en cuenta que: los aparatos de calefacción con bomba de calor irán provistos de una etiqueta impresa por lo menos en el embalaje del generador de calor;
+2.   A partir del 26 de septiembre de 2015, los proveedores que comercialicen o pongan en servicio calefactores combinados, incluidos los integrados en combinaciones de calefactor combinado, control de temperatura y dispositivo solar, se asegurarán de que:
+(a)
+ | 
+se suministre una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 2.1 del anexo III con cada calefactor combinado conforme a las clases de eficiencia energética estacional de calefacción y de eficiencia energética de caldeo de agua que figuran en los puntos 1 y 2 del anexo II, teniendo en cuenta que: los calefactores combinados con bomba de calor irán provistos de una etiqueta impresa por lo menos en el embalaje del generador de calor; los calefactores combinados destinados a ser utilizados en equipos combinados de calefactor, control de temperatura y dispositivo solar irán provistos de una segunda etiqueta acorde con el formato y el contenido de información que se establece en el punto 4 del anexo III para cada calefactor combinado;
+ | 
+(b)
+ | 
+cada calefactor combinado esté provisto de una ficha del producto conforme al punto 2 del anexo IV, teniendo en cuenta que: los calefactores combinados con bomba de calor irán provistos de una ficha del producto por lo menos para el generador de calor; los calefactores combinados destinados a equipos combinados de calefactor, control de temperatura y dispositivo solar irán provistos de una segunda ficha, según establece el punto 6 del anexo IV;
+ | 
+(c)
+ | 
+la documentación técnica conforme al punto 2 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición;
+ | 
+(d)
+ | 
+toda publicidad relativa al modelo específico de calefactor combinado que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética estacional de calefacción y a la eficiencia energética de caldeo del agua en condiciones climáticas medias para ese modelo;
+ | 
+(e)
+ | 
+todo material técnico de promoción relativo al modelo específico de calefactor combinado que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética estacional de calefacción y de eficiencia energética de caldeo del agua en condiciones climáticas medias para ese modelo:
+ | 
+A partir del 26 de septiembre de 2019, se suministrará una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 2.2 del anexo III con cada calefactor combinado conforme a las clases de eficiencia energética estacional de calefacción y a las clases de eficiencia energética de caldeo de agua que figuran en el punto 1 del anexo II, teniendo en cuenta que: los calefactores combinados con bomba de calor irán provistos de una etiqueta impresa por lo menos en el embalaje del generador de calor;
+3.   A partir del 26 de septiembre de 2015, los proveedores que comercialicen o pongan en servicio controles de temperatura se asegurarán de que:
+(a)
+ | 
+se facilite una ficha del producto conforme con lo indicado en el punto 3 del anexo IV;
+ | 
+(b)
+ | 
+la documentación técnica especificada en el punto 3 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición.
+ | 
+4.   A partir del 26 de septiembre de 2015, los proveedores que comercialicen o pongan en servicio dispositivos solares se asegurarán de que:
+(a)
+ | 
+se facilite una ficha del producto conforme con lo indicado en el punto 4 del anexo IV;
+ | 
+(b)
+ | 
+la documentación técnica especificada en el punto 4 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición.
+ | 
+5.   A partir del 26 de septiembre de 2015, los proveedores que comercialicen o pongan en servicio equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar, se asegurarán de que:
+(a)
+ | 
+se suministre una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 3 del anexo III con cada equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar conforme a las clases de eficiencia energética estacional de calefacción que figuran en el punto 1 del anexo II;
+ | 
+(b)
+ | 
+cada equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar esté provisto de una ficha de producto conforme al punto 5 del anexo IV;
+ | 
+(c)
+ | 
+la documentación técnica conforme al punto 5 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición;
+ | 
+(d)
+ | 
+toda publicidad relativa a un modelo específico de equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para ese modelo;
+ | 
+(e)
+ | 
+todo material técnico de promoción relativo al modelo específico de equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para ese modelo.
+ | 
+6.   A partir del 26 septiembre 2015, los proveedores que comercialicen o pongan en servicio equipos combinados de calefactor, control de temperatura y dispositivo solar, se asegurarán de que:
+(a)
+ | 
+se suministre una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 4 del anexo III con cada equipo combinado de calefactor, control de temperatura y dispositivo solar conforme a las clases de eficiencia energética estacional de calefacción y de eficiencia energética de caldeo de agua que figuran en los puntos 1 y 2 del anexo II;
+ | 
+(b)
+ | 
+cada equipo combinado de calefactor, control de temperatura y dispositivo solar esté provisto de una ficha de producto conforme al punto 6 del anexo IV;
+ | 
+(c)
+ | 
+la documentación técnica conforme al punto 6 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición;
+ | 
+(d)
+ | 
+toda publicidad relativa a un modelo específico de equipo combinado de calefactor, control de temperatura y dispositivo solar que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética estacional de calefacción y a la clase de eficiencia energética de caldeo de agua en condiciones climáticas medias para ese modelo;
+ | 
+(e)
+ | 
+todo material técnico de promoción relativo al modelo específico de equipo combinado de calefactor, control de temperatura y dispositivo solar que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética estacional de calefacción y a la clase de eficiencia energética de caldeo de agua en condiciones climáticas medias para ese modelo.
+ | 
+Artículo 4
+Responsabilidades de los distribuidores
+1.   Los distribuidores de aparatos de calefacción se asegurarán de que:
+(a)
+ | 
+en el punto de venta, todos los aparatos de calefacción vayan provistos de la etiqueta suministrada por los proveedores de conformidad con el artículo 3, apartado 1, tal como se establece en el punto 1 del anexo III, en la parte exterior frontal del aparato, de forma que resulte claramente visible;
+ | 
+(b)
+ | 
+los aparatos de calefacción ofrecidos para la venta, alquiler o alquiler con opción de compra de manera que no quepa prever que el usuario final pueda examinarlos directamente, se comercialicen con la información que han de facilitar los proveedores de conformidad con el punto 1 del anexo VI;
+ | 
+(c)
+ | 
+toda publicidad relativa al modelo específico de aparato de calefacción que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para ese modelo;
+ | 
+(d)
+ | 
+todo material técnico de promoción relativo al modelo específico de aparato de calefacción que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para ese modelo.
+ | 
+2.   Los distribuidores de calefactores combinados se asegurarán de que:
+(a)
+ | 
+en el punto de venta, todos los calefactores combinados vayan provistos de la etiqueta suministrada por los proveedores de conformidad con el artículo 3, apartado 2, tal como se establece en el punto 2 del anexo III, en la parte exterior frontal del aparato, de forma que resulte claramente visible;
+ | 
+(b)
+ | 
+los calefactores combinados ofrecidos para la venta, alquiler o alquiler con opción de compra de manera que no quepa prever que el usuario final pueda examinarlos directamente, se comercialicen con la información que han de facilitar los proveedores de conformidad con el punto 2 del anexo VI;
+ | 
+(c)
+ | 
+toda publicidad relativa al modelo específico de calefactor combinado que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética estacional de calefacción y a la eficiencia energética de caldeo del agua en condiciones climáticas medias para ese modelo;
+ | 
+(d)
+ | 
+todo material técnico de promoción relativo al modelo específico de calefactor combinado que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética estacional de calefacción y de eficiencia energética de caldeo del agua en condiciones climáticas medias para ese modelo.
+ | 
+3.   Los distribuidores de equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar se asegurarán de que, sobre la base de la etiqueta y las fichas facilitadas por los proveedores de conformidad con el artículo 3, apartados 1, 3, 4 y 5:
+(a)
+ | 
+toda oferta de un equipo combinado específico incluya la eficiencia energética estacional de calefacción y la clase de eficiencia energética estacional de calefacción de dicho equipo en condiciones climáticas medias, más frías o más cálidas, según proceda, exhibiendo en el equipo combinado la etiqueta conforme al punto 3 del anexo III y facilitando la ficha prevista en el punto 5 del anexo IV, debidamente cumplimentada conforme a las características de de ese equipo;
+ | 
+(b)
+ | 
+los equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar ofrecidos para la venta, alquiler o alquiler con opción de compra de manera que no quepa prever que el usuario final pueda examinarlos directamente, se comercialicen con la información prevista en el punto 3 del anexo VI;
+ | 
+(c)
+ | 
+toda publicidad relativa a un modelo específico de equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para ese modelo;
+ | 
+(d)
+ | 
+todo material técnico de promoción relativo al modelo específico de equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para ese modelo.
+ | 
+4.   Los distribuidores de equipos combinados de calefactor, control de temperatura y dispositivo solar se asegurarán de que, sobre la base de la etiqueta y las fichas facilitadas por los proveedores de conformidad con el artículo 3, apartados 2, 3, 4 y 6:
+(a)
+ | 
+toda oferta de un equipo combinado específico de calefactor, control de temperatura y dispositivo solar incluya la eficiencia energética estacional de calefacción, la eficiencia energética de caldeo de agua, la clase de eficiencia energética estacional de calefacción y la clase de eficiencia energética de caldeo de agua de dicho equipo en condiciones climáticas medias, más frías o más cálidas, según proceda, exhibiendo en el equipo combinado la etiqueta conforme al punto 4 del anexo III y facilitando la ficha prevista en el punto 6 del anexo IV, debidamente cumplimentada conforme a las características de de ese equipo.
+ | 
+(b)
+ | 
+los equipos combinados de calefactor, control de temperatura y dispositivo solar ofrecidos para la venta, alquiler o alquiler con opción de compra de manera que no quepa prever que el usuario final pueda examinarlos directamente, se comercialicen con la información prevista en el punto 4 del anexo VI;
+ | 
+(c)
+ | 
+toda publicidad relativa a un modelo específico de equipo combinado de calefactor, control de temperatura y dispositivo solar que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética estacional de calefacción y a la clase de eficiencia energética de caldeo de agua en condiciones climáticas medias para ese modelo;
+ | 
+(d)
+ | 
+todo material técnico de promoción relativo al modelo específico de equipo combinado de calefactor, control de temperatura y dispositivo solar que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética estacional de calefacción y a la clase de eficiencia energética de caldeo de agua en condiciones climáticas medias para ese modelo.
+ | 
+Artículo 5
+Métodos de medición y cálculo
+La información que habrá de proporcionarse con arreglo a los artículos 3 y 4 se obtendrá con procedimientos de medición y cálculo fiables, exactos y reproducibles, que tengan en cuenta los métodos de cálculo y de medición más avanzados reconocidos, de acuerdo con lo dispuesto en el anexo VII.
+Artículo 6
+Procedimiento de verificación a efectos de la vigilancia del mercado
+Los Estados miembros aplicarán el procedimiento que se recoge en el anexo VIII para evaluar la conformidad de la clase de eficiencia energética estacional de calefacción, la clase de eficiencia energética de caldeo de agua, la eficiencia energética estacional de calefacción, la eficiencia energética de caldeo de agua y el nivel de potencia acústica declaradas de los calefactores.
+Artículo 7
+Revisión
+La Comisión revisará el presente Reglamento a la luz del progreso técnico en el plazo máximo de cinco años tras su entrada en vigor. En particular, esta revisión evaluará todos los cambios significativos de la cuota de mercado de los distintos tipos de calefactores enumerados en los puntos 1.2 y 2.2 del anexo III, la viabilidad y utilidad de indicar la eficiencia de los calefactores, aparte de la eficiencia de las bombas de calor basada en temporadas de calefacción normalizadas, y la adecuación de las fichas y etiquetas de los equipos combinados previstas en los puntos 3 y 4 del anexo III y los puntos 6 y 7 del anexo IV, y la idoneidad de la inclusión de los dispositivos pasivos de recuperación de calor en el ámbito del presente Reglamento.
+Artículo 8
+Entrada en vigor y aplicación
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea.
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.
+Hecho en Bruselas, el 18 de febrero de 2013.
+ Por la Comisión
+ El Presidente
+José Manuel BARROSO
+ (1)  
+ DO L 153 de 18.6.2010, p. 1.
+ (2)  Véase la página 83 del presente Diario Oficial.
+ (3)  Véase la página 136 del presente Diario Oficial.
+ (4)  
+ DO L 204 de 21.7.1998, p. 37.
+ (5)  
+ DO L 334 de 17.12.2010, p. 17.
+ANEXO I
+ Definiciones aplicables a los anexos II a VIII
+A los efectos de los anexos II a VIII, se aplicarán las siguientes definiciones:
+ | 
+ Definiciones relacionadas con los calefactores:
+(1)   por «aparato de calefacción con caldera», denominado «caldera» en las figuras 1 a 4 del anexo IV: aparato de calefacción que genera calor mediante la combustión de combustibles fósiles o de biomasa o mediante el efecto Joule en elementos de calefacción de resistencia eléctrica;
+(2)   por «calefactor combinado con caldera», denominado «caldera» en las figuras 1 a 4 del anexo IV: aparato de calefacción con caldera concebido para suministrar igualmente calor destinado a proporcionar niveles, cantidades y caudales predeterminados de agua caliente potable o sanitaria durante determinados intervalos, y que está conectado a un suministro externo de agua potable o sanitaria;
+(3)   «aparato de calefacción con bomba de calor», denominado «bomba de calor» en las figuras 1 y 3 del anexo IV: aparato de calefacción que utiliza el calor ambiente de fuente atmosférica, acuática o geotérmica o calor residual para generar calor; un aparato de calefacción con bomba de calor puede disponer de uno o varios calefactores complementarios que emplean el efecto Joule en elementos calefactores de resistencia eléctrica o la combustión de combustibles fósiles o de biomasa;
+(4)   «calefactor combinado con bomba de calor», denominado «bomba de calor» en las figuras 1 y 3 del anexo IV: aparato de calefacción con bomba de calor concebido para suministrar igualmente calor destinado a proporcionar niveles, cantidades y caudales predeterminados de agua caliente potable o sanitaria durante determinados intervalos, y que está conectado a un suministro externo de agua potable o sanitaria;
+(5)   «calefactor complementario»: calefactor no preferencial que genera calor en aquellos casos en que la demanda de calor es superior a la potencia calorífica nominal del calefactor preferencial;
+(6)   «potencia calorífica nominal de calefactor complementario» (Psup): potencia calorífica declarada de un calefactor complementario cuando calienta un espacio y, en su caso, cuando caldea agua en condiciones de regulación estándar, expresada en kW; si el calefactor complementario es un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor, la condición de regulación estándar para determinar la potencia calorífica nominal del calefactor complementario será una temperatura exterior Tj = + 7 °C;
+(7)   «temperatura exterior» (Tj
+ ): temperatura del aire exterior medida con un termómetro seco y expresada en grados Celsius; la humedad relativa podrá indicarse mediante la temperatura correspondiente medida con un termómetro húmedo;
+(8)   «consumo anual de energía» (QHE
+ ): consumo anual de energía que requiere un aparato de calefacción para satisfacer la demanda anual de calefacción de referencia para una temporada de calefacción determinada, expresado en kWh en términos de energía final o en GJ en términos de GCV;
+(9)   «modo de espera»: estado en que el calefactor se halla conectado a la red eléctrica, depende de la energía procedente de dicha red para funcionar según los fines previstos y ejecuta solamente las siguientes funciones, que se pueden prolongar por tiempo indefinido: función de reactivación, o función de reactivación y tan solo indicación de función de reactivación habilitada, y/o visualización de información o de estado;
+(10)   «consumo de electricidad en modo en espera» (PSB
+ ): consumo de electricidad de un calentador en modo de espera, expresado en kW;
+(11)   «coeficiente de conversión» (CC): un coeficiente que refleja la eficiencia el 40 % de eficiencia de generación media de la UE contemplada en la Directiva 2012/27/CE del Parlamento Europeo y del Consejo (1); el valor del coeficiente de conversión es CC = 2,5;
+(12)   «valor calorífico bruto» (GCV): cantidad total de calor liberado por una cantidad unitaria de combustible cuando es quemado por completo con oxígeno y cuando se devuelven los productos de la combustión a la temperatura ambiente; esta cantidad incluye el calor de condensación del vapor de agua contenido en el combustible y el vapor de agua formado por la combustión del hidrógeno contenido en el combustible; «control inteligente»:
+ | 
+ | 
+ Definiciones relacionadas con los aparatos de calefacción con caldera, los calefactores combinados con caldera y los aparatos de calefacción de cogeneración:
+(13)   «eficiencia energética estacional de calefacción en modo activo» (ηson
+ ): 
+—
+ | 
+en el caso de los aparatos de calefacción con caldera y los calefactores combinados con caldera que utilizan combustibles, una media ponderada de la eficiencia útil a la potencia calorífica nominal y la eficiencia útil a un 30 % de dicha potencia, expresada en porcentaje;
+ | 
+—
+ | 
+en el caso de los aparatos de calefacción y calefactores combinados con caldera eléctrica, la eficiencia útil a la potencia calorífica nominal, expresada en %;
+ | 
+—
+ | 
+en el caso de los aparatos de calefacción de cogeneración no provistos de calefactores complementarios, la eficiencia útil a la potencia calorífica nominal, expresada en %;
+ | 
+—
+ | 
+en el caso de los aparatos de calefacción provistos de calefactores complementarios, la media ponderada de la eficiencia útil a la potencia calorífica nominal con los calefactores complementarios desactivados, y la eficiencia útil a dicha potencia con los calefactores complementarios activados, expresada en %;
+ | 
+(14)   «eficiencia útil» (η): la relación entre la potencia calorífica útil y el insumo total de energía de un aparato de calefacción con caldera, un calefactor combinado con caldera o un aparato de calefacción de cogeneración, expresada en %; el insumo total de energía se expresará en términos de GCV o en términos de la energía final multiplicada por CC;
+(15)   «potencia calorífica útil» (P): la potencia calorífica de un aparato de calefacción con caldera, un calefactor combinado con caldera o un aparato de calefacción de cogeneración transmitida al portador de calor, expresada en kW;
+(16)   «eficiencia eléctrica» (ηel
+ ): la relación entre la potencia eléctrica y el insumo total de energía de un aparato de calefacción de cogeneración, expresada en %; el insumo total de energía se expresará en términos de GCV o en términos de la energía final multiplicada por CC;
+(17)   «consumo de electricidad del quemador de encendido» (Pign
+ ): el consumo de electricidad de un quemador destinado a encender el quemador principal, expresado en W en términos de GCV;
+(18)   «caldera de condensación»: aparato de calefacción o calefactor combinado con caldera en el que, en condiciones normales de funcionamiento y a una temperatura dada del agua, el vapor de agua presente en los productos de combustión se condensa parcialmente a fin de aprovechar el calor latente de este vapor con fines de calefacción;
+(19)   «consumo de electricidad auxiliar»: el consumo anual de electricidad necesario para el funcionamiento previsto de un aparato de calefacción con caldera, un calefactor combinado con caldera o un aparato de calefacción de cogeneración, calculado a partir del consumo de electricidad a plena carga (elmax), a carga parcial (elmin), en modo de espera y en las horas de funcionamiento predeterminadas en cada modo, expresado en kWh en términos de energía final;
+(20)   «pérdida de calor en modo de espera» (Pstby
+ ): la pérdida de calor de un aparato de calefacción con caldera, un calefactor combinado con caldera o un aparato de calefacción de cogeneración en modos de funcionamiento en que no hay demanda de calor, expresada en kW;
+ | 
+ | 
+ Definiciones relacionadas con los aparatos de calefacción y calefactores combinados con bomba de calor:
+(21)   «coeficiente nominal de rendimiento» (COPrated
+ ) o «relación nominal de energía primaria»(PERrated
+ ): la capacidad calorífica declarada, expresada en kW, dividida entre el insumo de energía, expresado en kW en términos de GCV o en kW en términos de energía final, y multiplicada por CC, para calefacción generada en condiciones de regulación estándar;
+(22)   «condiciones de diseño de referencia»: la combinación de la temperatura de diseño de referencia, la temperatura bivalente máxima y la temperatura límite de funcionamiento máxima, según se indica en el cuadro 10 del anexo VII;
+(23)   «temperatura de diseño de referencia» (Tdesignh): la temperatura exterior, expresada en grados Celsius, indicada en el cuadro 10 del anexo VII, en la que la relación de carga parcial es igual a 1;
+(24)   «relación de carga parcial» (pl(Tj)): la temperatura exterior menos 16 °C, dividida entre la temperatura de diseño de referencia menos 16 °C;
+(25)   «temporada de calefacción»: conjunto de condiciones de funcionamiento en condiciones climáticas media, más fría y más cálida, que describen, para cada período de temperatura, la combinación de temperaturas exteriores y el número de horas en que se registran estas temperaturas en cada temporada;
+(26)   «período de temperatura» (binj
+ ): combinación de temperatura exterior y horas por período, tal como se indica en el cuadro 12 del anexo VII;
+(27)   «horas por período de temperatura» (Hj
+ ): las horas por temporada de calefacción, expresadas en horas por año, en las que se registra una temperatura exterior para cada período de temperatura, tal como se indica en el cuadro 12 del anexo VII;
+(28)   «carga parcial para calefacción» (Ph(Tj)): la carga de calefacción a una temperatura exterior determinada, que se calcula multiplicando la carga de diseño por la relación de carga parcial, expresada en kW;
+(29)   «coeficiente estacional de rendimiento» (SCOP) o «relación estacional de energía primaria» (SPER): el coeficiente de rendimiento global de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza electricidad, o bien la relación total de energía primaria de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza combustible, representativa de la temporada de calefacción de que se trate, que se calcula dividiendo la demanda anual de calefacción de referencia entre el consumo anual de energía;
+(30)   «demanda anual de calefacción de referencia» (QH): la demanda de calefacción de referencia para una temporada de calefacción determinada, que se usa para el cálculo de SCOP o SPER, y se calcula multiplicando la carga de diseño para calefacción por las horas anuales en modo activo equivalente, expresada en kWh;
+(31)   «horas anuales en modo activo equivalente» (HHE
+ ): el número de horas anuales durante las que se supone que un aparato de calefacción con bomba de calor o un calefactor combinado de calor debe suministrar la carga de diseño para calefacción a fin de satisfacer la demanda anual de calefacción de referencia, expresadas en h;
+(32)   «coeficiente de rendimiento en modo activo» (SCOPon
+ ) o «relación de energía primaria en modo activo» (SPERon
+ ): el coeficiente medio de rendimiento de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor en modo activo o la relación media de energía primaria en modo activo de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza combustible para la temporada de calefacción de que se trate;
+(33)   «capacidad complementaria de calefacción» (sup(Tj)): la potencia calorífica nominal Psup de un calefactor complementario que complementa la capacidad declarada de calefacción para satisfacer la carga parcial de calefacción, si la capacidad de calefacción declarada es inferior a la carga parcial de calefacción, expresada en kW;
+(34)   «coeficiente de rendimiento de un período determinado de temperatura» (COPbin(Tj) o «relación de energía primaria de un período determinado de temperatura» (PERbin(Tj)): el coeficiente de rendimiento de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza electricidad, o la relación de energía primaria de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor que utiliza combustible correspondiente a todos los períodos de temperatura de una temporada, que se deriva de la carga parcial de calefacción, la capacidad de calefacción declarada y el coeficiente de rendimiento declarado para los períodos de temperatura de que se trate, y se calcula para otros períodos de temperatura mediante interpolación o extrapolación, corregida en caso necesario por el coeficiente de degradación;
+(35)   «capacidad declarada de calefacción» (Pdh(Tj)): la capacidad de calefacción que un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor puede suministrar a una temperatura exterior determinada, expresada en kW;
+(36)   «control de capacidad»: la posibilidad de que un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor cambie de capacidad mediante la modificación del caudal volumétrico de al menos uno de los fluidos para operar el ciclo de refrigeración, que deberá llevar la mención «fijo» si el caudal volumétrico no puede modificarse o «variable» si el caudal volumétrico puede modificarse o variarse en series de dos o más pasos;
+(37)   «carga de diseño para calefacción» (Pdesignh): la potencia calorífica nominal (Prated) de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor, en la que la carga de diseño de calefacción es igual a la carga parcial de calefacción con una temperatura exterior igual a la temperatura de diseño de referencia, expresada en kW;
+(38)   «coeficiente de rendimiento declarado» (COPd(Tj)) o «relación de energía primaria declarada» (PERd(Tj)): el coeficiente de rendimiento o relación de energía primaria de un número limitado de períodos de temperatura especificados;
+(39)   «temperatura bivalente» (Tbiv
+ ): la temperatura exterior para calefacción declarada por el proveedor, en la que la capacidad de calefacción declarada es igual a la carga parcial de calefacción y por debajo de la cual la capacidad de calefacción declarada requiere una capacidad complementaria para satisfacer la carga parcial de calefacción, expresada en grados Celsius;
+(40)   «temperatura límite de funcionamiento» (TOL): la temperatura exterior para calefacción declarada por el proveedor, por debajo de la cual un aparato de calefacción provisto de una bomba de calor aire-agua o un calefactor combinado provisto de una bomba de calor aire-agua no puede suministrar capacidad de calefacción y la capacidad de calefacción declarada es igual a cero, expresada en grados Celsius;
+(41)   «temperatura límite de calentamiento de agua» (WTOL): la temperatura de salida del agua declarada por el proveedor, por encima de la cual un aparato de calefacción con bomba de calor o un calefactor combinado provisto de bomba de calor no puede suministrar capacidad de calefacción alguna y la capacidad de calefacción declarada es igual a cero, expresada en grados Celsius;
+(42)   «capacidad de calefacción de intervalo cíclico» (Pcych): la capacidad de calefacción integrada durante el intervalo cíclico de ensayo para calefacción, expresada en kW;
+(43)   «eficiencia del intervalo cíclico» (COPcyc o PERcyc): el coeficiente medio de rendimiento o la relación media de energía primaria durante el intervalo cíclico de ensayo, que se calcula como la capacidad de calefacción integrada durante el intervalo, expresada en kWh, dividida entre el consumo de energía integrado durante el mismo intervalo, expresado en kWh en términos de GCV o en kWh en términos de energía final, multiplicado por el CC;
+(44)   «coeficiente de degradación» (Cdh): el factor de pérdida de eficiencia debido al ciclo de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor; si el Cdh no se determina por medición, el coeficiente de degradación por defecto es Cdh = 0,9;
+(45)   «modo activo»: estado correspondiente a las horas con carga de calefacción del espacio cerrado y en el cual la función de calefacción se encuentra activada; este estado puede incluir ciclos del aparato de calefacción con bomba de calor o del calefactor combinado con bomba de calor con el fin de alcanzar o mantener la temperatura atmosférica interior requerida;
+(46)   «modo desactivado»: estado en que el aparato de calefacción con bomba de calor o el calefactor combinado con bomba de calor está conectado a la toma de corriente y no ejecuta función alguna, incluidos los estados en que únicamente indica que se encuentra desactivado o en los que solamente ofrece funciones para garantizar la compatibilidad electromagnética con arreglo a la Directiva 2004/108/CE del Parlamento y del Consejo (2);
+(47)   «modo desactivado por termostato»: el estado correspondiente a las horas sin carga calorífica y con la función de calefacción activada, en el que esta última se encuentra activada, pero el aparato de calefacción con bomba de calor o el calefactor combinado con bomba de calor no está operativo; los ciclos en modo activo no se consideran un modo desactivado por termostato;
+(48)   «modo de calefactor del cárter»: estado en el que un dispositivo de calefacción está activado para evitar que el refrigerante se traslade al compresor a fin de limitar la concentración de refrigerante en el aceite cuando se pone en marcha el compresor;
+(49)   «consumo de electricidad en modo desactivado» (POFF
+ ): el consumo de electricidad de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor en modo desactivado, expresado en kW;
+(50)   «consumo de electricidad en modo desactivado por termostato» (PTO
+ ): el consumo de electricidad de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor cuando se encuentra desactivado por termostato, expresado en kW;
+(51)   «consumo de electricidad en modo de calefactor del cárter» (PCK
+ ): el consumo de electricidad de un aparato de calefacción con bomba de calor o un calefactor combinado con bomba de calor en modo de calefactor del cárter, expresado en kW;
+(52)   «bomba de calor de baja temperatura»: aparato de calefacción con bomba de calor diseñado específicamente para aplicaciones de baja temperatura y que no puede suministrar agua caliente a una temperatura de salida de 52 °C con una temperatura de entrada medida con termómetro seco de – 7 °C (– 8 °C) en condiciones de diseño de referencia para un clima medio;
+(53)   «aplicación de baja temperatura»: aplicación en la que el aparato de calefacción con bomba de calor suministra su capacidad de calefacción declarada a una temperatura de 35 °C en la salida de un intercambiador de calor de interior;
+(54)   «aplicación de temperatura media»: aplicación en la que el aparato de calefacción con bomba de calor o el calentador combinado con bomba de calor suministra su capacidad de calefacción declarada a una temperatura de 55 °C en la salida de un intercambiador de calor de interior;
+ | 
+ | 
+ Definiciones relacionadas con el caldeo de agua de los calefactores combinados:
+(55)   «perfil de carga»: una determinada secuencia de salidas de agua, conforme a lo especificado en el anexo VII, cuadro 15; cada calefactor combinado cumple al menos un perfil de carga;
+(56)   «salida de agua»: una determinada combinación de caudal de agua útil, temperatura del agua útil, contenido de energía útil y temperatura pico, conforme a lo especificado en el cuadro 15 del anexo VII;
+(57)   «caudal de agua útil» (f): el caudal mínimo, expresado en litros por minuto, en que el agua caliente contribuye a la energía de referencia, conforme a lo especificado en el cuadro 15 del anexo VII;
+(58)   «temperatura de agua útil» (Tm
+ ): la temperatura del agua, expresada en grados Celsius, a la cual el agua caliente empieza a contribuir a la energía de referencia, conforme a lo especificado en el cuadro 15 del anexo VII;
+(59)   «contenido de energía útil» (Qtap
+ ): el contenido energético del agua caliente, expresado en kWh, suministrado a una temperatura igual o superior a la temperatura del agua útil, y a caudales de agua iguales o superiores al caudal de agua útil, conforme a lo especificado en el cuadro 15 del anexo VII;
+(60)   «contenido energético del agua caliente»: producto de la capacidad térmica específica del agua, la diferencia de temperatura media entre el agua caliente saliente y el agua fría entrante y la masa total de agua caliente suministrada;
+(61)   «temperatura pico» (Tp
+ ): temperatura mínima del agua, expresada en grados Celsius, que ha de alcanzarse durante la salida de agua, conforme a lo especificado en el cuadro 15 del anexo VII;
+(62)   «energía de referencia» (Qref): suma del contenido de energía útil de las salidas de agua, expresada en kWh, en un determinado perfil de carga, conforme a lo especificado en el cuadro 15 del anexo VII;
+(63)   «perfil de carga máximo»: perfil de carga con la mayor energía de referencia que es capaz de suministrar un calefactor combinado cuando cumple las condiciones de temperatura y caudal de ese perfil de carga;
+(64)   «perfil de carga declarado»: perfil de carga aplicado cuando se determina la eficiencia energética de caldeo de agua;
+(65)   «consumo diario de electricidad» (Qelec
+ ): el consumo de electricidad para caldeo de agua durante 24 horas consecutivas con el perfil de carga declarado, expresado en kWh en términos de energía final;
+(66)   «consumo diario de combustible» (Qfuel
+ ): el consumo de combustibles para el caldeo de agua durante 24 horas con el perfil de carga declarado, expresado en kWh en términos de GCV y, a efectos de la letra f) de punto 5 del anexo VII, expresado en GJ en términos de GCV;
+(67)   «consumo anual de electricidad» (AEC): el consumo de electricidad anual de un calefactor combinado para caldeo de agua con el perfil de carga declarado y en determinadas condiciones climáticas, expresado en kWh de energía final;
+(68)   «consumo anual de combustible» (AFC): el consumo anual de combustible fósil o de biomasa de un calefactor combinado para caldeo de agua con el perfil de carga declarado y en determinadas condiciones climáticas, expresado en GJ en términos de GCV;
+ | 
+ | 
+ Definiciones relacionadas con los dispositivos solares:
+(69)   «contribución calorífica anual no solar» (Qnonsol
+ ): contribución anual de la electricidad (expresada en kWh de energía primaria) o combustibles (expresada en kWh en términos de GCV) a la potencia calorífica útil de un equipo combinado de calefactor combinado, control de temperatura y dispositivo solar, teniendo en cuenta la cantidad anual de calor capturado por el colector solar y las pérdidas de calor del depósito de agua caliente solar;
+(70)   «área de apertura del colector» (Asol
+ ): referida a los efectos de las figuras 1 a 4 del anexo IV como el área máxima proyectada a través de la cual la radiación solar no concentrada entra en el colector, expresada en m2;
+(71)   «eficiencia del colector» (ηcol
+ ): eficiencia del colector solar a una diferencia de temperatura entre el colector solar y el aire circundante de 40 K y con una irradiancia solar global de 1 000 W/m2, expresada en %;
+(72)   «pérdida estática» (S): la potencia calorífica disipada de un depósito de agua caliente con una determinada temperatura del agua y temperatura ambiente, expresada en W;
+(73)   «volumen de almacenamiento» (V), denominado «volumen del depósito» en las figuras 1 a 4 del anexo IV: el volumen nominal de un depósito de agua caliente solar, expresado en litros o m3;
+(74)   «consumo de electricidad auxiliar» (Qaux
+ ), denominado «electricidad auxiliar» a efectos de la figura 5 del anexo IV: consumo anual de electricidad de un sistema exclusivamente solar debido al consumo eléctrico de la bomba y al consumo eléctrico en modo de espera, expresado en kWh de energía final;
+(75)   «consumo eléctrico de la bomba» (solpump): consumo eléctrico nominal de la bomba en el circuito del colector de un sistema exclusivamente solar, expresado en W;
+(76)   «consumo eléctrico en modo de espera» (solstandby): consumo eléctrico nominal de un sistema exclusivamente solar cuando la bomba y el generador de calor están inactivos, expresado en W;
+ | 
+ | 
+ Otras definiciones:
+(77)   «condiciones climáticas medias», «condiciones climáticas más frías» y «condiciones climáticas más cálidas»: la temperatura y las condiciones de irradiancia solar global características de las ciudades de Estrasburgo, Helsinki y Atenas, respectivamente;
+(78)   «identificador de modelo»: código, normalmente alfanumérico, que distingue un modelo determinado de aparato de calefacción, calefactor combinado, control de temperatura, dispositivo solar, equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar, o equipo combinado de calefactor, control de temperatura y dispositivo solar de otros modelos de la misma marca, o de un proveedor del mismo nombre o distribuidor del mismo nombre.
+ | 
+ (1)  
+ DO L 315 de 14.11.2012, p. 1.
+ (2)  
+ DO L 390 de 31.12.2004, p. 24.
+ANEXO II
+ Clases de eficiencia energética
+1.   CLASES DE EFICIENCIA ENERGÉTICA ESTACIONAL DE CALEFACCIÓN
+Las clases de eficiencia energética estacional de calefacción de un calefactor se determinarán en función de su eficiencia energética estacional de calefacción que figura en el cuadro 1, excepto en el caso de las bombas de temperatura de baja temperatura y los aparatos de calefacción con bomba de calor para aplicaciones de baja temperatura.
+Las clases de eficiencia energética estacional de calefacción de una bomba de calor de baja temperatura y un aparato de calefacción con bomba de calor para aplicaciones de baja temperatura se determinarán en función de su eficiencia energética estacional de calefacción que figura en el cuadro 2.
+La eficiencia energética estacional de calefacción de un calefactor se calculará como se indica en los puntos 3 y 4 del anexo VII para aparatos de calefacción con bomba de calor, calefactores combinados con bomba de calor y bombas de calor de baja temperatura en condiciones climáticas medias.
+ Cuadro 1
+ Clases de energía energética estacional de calefacción de calefactores, excepto bombas de calor de baja temperatura y aparatos de calefacción con bomba de calor para aplicaciones de baja temperatura
+Clase de eficiencia energética estacional de calefacción
+ | 
+Eficiencia energética estacional de calefacción ηs
+ en %
+ | 
+A+++
+ | 
+ ηs
+ ≥ 150
+ | 
+A++
+ | 
+125 ≤ ηs
+ < 150
+ | 
+A+
+ | 
+98 ≤ ηs
+ < 125
+ | 
+A
+ | 
+90 ≤ ηs
+ < 98
+ | 
+B
+ | 
+82 ≤ ηs
+ < 90
+ | 
+C
+ | 
+75 ≤ ηs
+ < 82
+ | 
+D
+ | 
+36 ≤ ηs
+ < 75
+ | 
+E
+ | 
+34 ≤ ηs
+ < 36
+ | 
+F
+ | 
+30 ≤ ηs
+ < 34
+ | 
+G
+ | 
+ ηs
+ < 30
+ | 
+ Cuadro 2
+ Clases de eficiencia energética estacional de calefacción de bombas de calor de baja temperatura y aparatos de calefacción con bomba de calor para aplicaciones de baja temperatura
+Clase de eficiencia energética estacional de calefacción
+ | 
+Eficiencia energética estacional de calefacción ηs
+ en %
+ | 
+A+++
+ | 
+ ηs
+ ≥ 175
+ | 
+A++
+ | 
+150 ≤ ηs
+ < 175
+ | 
+A+
+ | 
+123 ≤ ηs
+ < 150
+ | 
+A
+ | 
+115 ≤ ηs
+ < 123
+ | 
+B
+ | 
+107 ≤ ηs
+ < 115
+ | 
+C
+ | 
+100 ≤ ηs
+ < 107
+ | 
+D
+ | 
+61 ≤ ηs
+ < 100
+ | 
+E
+ | 
+59 ≤ ηs
+ < 61
+ | 
+F
+ | 
+55 ≤ ηs
+ < 59
+ | 
+G
+ | 
+ ηs
+ < 55
+ | 
+2.   CLASES DE EFICIENCIA ENERGÉTICA DE CALDEO DE AGUA
+La clase de eficiencia energética de caldeo de agua de un calefactor combinado se determinará sobre la base de su eficiencia energética de caldeo de agua según se indica en el cuadro 3.
+La eficiencia energética de caldeo de agua de un calefactor combinado se calculará tal como se indica en el punto 5 del anexo VII.
+ Cuadro 3
+ Clases de eficiencia energética de caldeo de agua de un calefactor combinado en función de los perfiles de carga declarados, ηwh
+ en %
+ | 
+3XS
+ | 
+XXS
+ | 
+XS
+ | 
+S
+ | 
+M
+ | 
+L
+ | 
+XL
+ | 
+XXL
+ | 
+A+++
+ | 
+ ηwh
+ ≥ 62
+ | 
+ ηwh
+ ≥ 62
+ | 
+ ηwh
+ ≥ 69
+ | 
+ ηwh
+ ≥ 90
+ | 
+ ηwh
+ ≥ 163
+ | 
+ ηwh
+ ≥ 188
+ | 
+ ηwh
+ ≥ 200
+ | 
+ ηwh
+ ≥ 213
+ | 
+A++
+ | 
+53 ≤ ηwh
+ < 62
+ | 
+53 ≤ ηwh
+ < 62
+ | 
+61 ≤ ηwh
+ < 69
+ | 
+72 ≤ ηwh
+ < 90
+ | 
+130 ≤ ηwh
+ < 163
+ | 
+150 ≤ ηwh
+ < 188
+ | 
+160 ≤ ηwh
+ < 200
+ | 
+170 ≤ ηwh
+ < 213
+ | 
+A+
+ | 
+44 ≤ ηwh
+ < 53
+ | 
+44 ≤ ηwh
+ < 53
+ | 
+53 ≤ ηwh
+ < 61
+ | 
+55 ≤ ηwh
+ < 72
+ | 
+100 ≤ ηwh
+ < 130
+ | 
+115 ≤ ηwh
+ < 150
+ | 
+123 ≤ ηwh
+ < 160
+ | 
+131 ≤ ηwh
+ < 170
+ | 
+A
+ | 
+35 ≤ ηwh
+ < 44
+ | 
+35 ≤ ηwh
+ < 44
+ | 
+38 ≤ ηwh
+ < 53
+ | 
+38 ≤ ηwh
+ < 55
+ | 
+65 ≤ ηwh
+ < 100
+ | 
+75 ≤ ηwh
+ < 115
+ | 
+80 ≤ ηwh
+ < 123
+ | 
+85 ≤ ηwh
+ < 131
+ | 
+B
+ | 
+32 ≤ ηwh
+ < 35
+ | 
+32 ≤ ηwh
+ < 35
+ | 
+35 ≤ ηwh
+ < 38
+ | 
+35 ≤ ηwh
+ < 38
+ | 
+39 ≤ ηwh
+ < 65
+ | 
+50 ≤ ηwh
+ < 75
+ | 
+55 ≤ ηwh
+ < 80
+ | 
+60 ≤ ηwh
+ < 85
+ | 
+C
+ | 
+29 ≤ ηwh
+ < 32
+ | 
+29 ≤ ηwh
+ < 32
+ | 
+32 ≤ ηwh
+ < 35
+ | 
+32 ≤ ηwh
+ < 35
+ | 
+36 ≤ ηwh
+ < 39
+ | 
+37 ≤ ηwh
+ < 50
+ | 
+38 ≤ ηwh
+ < 55
+ | 
+40 ≤ ηwh
+ < 60
+ | 
+D
+ | 
+26 ≤ ηwh
+ < 29
+ | 
+26 ≤ ηwh
+ < 29
+ | 
+29 ≤ ηwh
+ < 32
+ | 
+29 ≤ ηwh
+ < 32
+ | 
+33 ≤ ηwh
+ < 36
+ | 
+34 ≤ ηwh
+ < 37
+ | 
+35 ≤ ηwh
+ < 38
+ | 
+36 ≤ ηwh
+ < 40
+ | 
+E
+ | 
+22 ≤ ηwh
+ < 26
+ | 
+23 ≤ ηwh
+ < 26
+ | 
+26 ≤ ηwh
+ < 29
+ | 
+26 ≤ ηwh
+ < 29
+ | 
+30 ≤ ηwh
+ < 33
+ | 
+30 ≤ ηwh
+ < 34
+ | 
+30 ≤ ηwh
+ < 35
+ | 
+32 ≤ ηwh
+ < 36
+ | 
+F
+ | 
+19 ≤ ηwh
+ < 22
+ | 
+20 ≤ ηwh
+ < 23
+ | 
+23 ≤ ηwh
+ < 26
+ | 
+23 ≤ ηwh
+ < 26
+ | 
+27 ≤ ηwh
+ < 30
+ | 
+27 ≤ ηwh
+ < 30
+ | 
+27 ≤ ηwh
+ < 30
+ | 
+28 ≤ ηwh
+ < 32
+ | 
+G
+ | 
+ ηwh
+ < 19
+ | 
+ ηwh
+ < 20
+ | 
+ ηwh
+ < 23
+ | 
+ ηwh
+ < 23
+ | 
+ ηwh
+ < 27
+ | 
+ ηwh
+ < 27
+ | 
+ ηwh
+ < 27
+ | 
+ ηwh
+ < 28
+ | 
+3.   CLASES DE EFICIENCIA ENERGÉTICA DE UN DEPÓSITO DE AGUA CALIENTE SOLAR QUE SEA (O FORMEN PARTE DE) UN DISPOSITIVO SOLAR
+La clase de eficiencia energética de un depósito de agua caliente solar que sea (o forme parte de) un dispositivo solar se determinará en función de su pérdida estática de calor según se indica en el cuadro 4.
+ Cuadro 4
+ Clases de eficiencia energética de depósitos de agua caliente solar que sean (o formen parte de) un dispositivo solar
+Clase de eficiencia energética
+ | 
+Pérdida estática S en vatios, con capacidad V en litros
+ | 
+A+
+ | 
+ | 
+A
+ | 
+ | 
+B
+ | 
+ | 
+C
+ | 
+ | 
+D
+ | 
+ | 
+E
+ | 
+ | 
+F
+ | 
+ | 
+G
+ | 
+ | 
+ANEXO III
+ Etiquetas
+1.   APARATOS DE CALEFACCIÓN
+1.1.   Etiqueta 1
+1.1.1.   Aparatos de calefacción con caldera de las clases de eficiencia energética estacional de calefacción A++ a G
+(a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III.
+ | 
+función de calefacción;
+ | 
+IV.
+ | 
+la clase de eficiencia energética estacional determinada de conformidad con el punto 1 del anexo II; la punta de la flecha que contiene la clase de eficiencia energética estacional de calefacción del aparato de calefacción con caldera se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente.
+ | 
+V.
+ | 
+potencia calorífica nominal en kW, redondeada al número entero más próximo;
+ | 
+VI.
+ | 
+el nivel de potencia acústica LWA en el interior, en dB, redondeado al número entero más próximo.
+ | 
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para aparatos de calefacción con caldera se ajustarán a lo indicado en el punto 5 del presente anexo.
+ | 
+1.1.2.   Aparatos de calefacción de cogeneración de las clases de eficiencia energética estacional de calefacción A++ a G
+(a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III
+ | 
+función de calefacción;
+ | 
+IV
+ | 
+la clase de eficiencia energética estacional determinada de conformidad con el punto 1 del anexo II; la punta de la flecha que contiene la clase de eficiencia energética estacional de calefacción del aparato de calefacción de cogeneración se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente.
+ | 
+V.
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, redondeada al siguiente número entero;
+ | 
+VI.
+ | 
+el nivel de potencia acústica LWA
+ en el interior, en dB, redondeado al número entero más próximo.
+ | 
+VII.
+ | 
+la función adicional de generación de electricidad.
+ | 
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para aparatos de calefacción de cogeneración se ajustarán a lo indicado en el punto 6 del presente anexo.
+ | 
+1.1.3.   Aparatos de calefacción con bomba de calor, excepto bombas de calor de baja temperatura, de las clases de eficiencia energética estacional de calefacción A++ a G
+(a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III.
+ | 
+la función de calefacción para aplicaciones de media y baja temperatura, respectivamente;
+ | 
+IV.
+ | 
+la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para aplicaciones de media y baja temperatura, respectivamente, determinada de conformidad con el punto 1 del anexo II; la punta de la flecha que contiene la clase de eficiencia energética estacional de calefacción del aparato de calefacción con bomba de calor para aplicaciones de media y baja temperatura, respectivamente, se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente.
+ | 
+V.
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, en condiciones medias, más frías y más cálidas para aplicaciones de media y baja temperatura, respectivamente, redondeada al número entero más próximo;
+ | 
+VI.
+ | 
+mapa de temperaturas de Europa que muestra tres zonas de temperatura indicativas;
+ | 
+VII.
+ | 
+el nivel de potencia acústica LWA
+ , en el interior (si procede) y el exterior, en dB, redondeado al número entero más próximo.
+ | 
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los aparatos de calefacción con bomba de calor se ajustarán a lo indicado en el punto 7 del presente anexo. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE», de conformidad con el Reglamento (CE) no 66/2010 del Parlamento Europeo y del Consejo (1), podrá añadirse una copia de dicha etiqueta ecológica.
+ | 
+1.1.4.   Bombas de calor de baja temperatura de las clases de eficiencia energética estacional de calefacción A++ a G
+(a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III.
+ | 
+la función de calefacción para aplicaciones de baja temperatura;
+ | 
+IV.
+ | 
+la clase de eficiencia energética estacional en condiciones climáticas medias, determinada de conformidad con el punto 1 del anexo II; la punta de la flecha que contiene la clase de eficiencia energética estacional de calefacción de la bomba de calor de baja temperatura se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente;
+ | 
+V.
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, en condiciones climáticas medias, más frías y más cálidas, redondeada al siguiente número entero;
+ | 
+VI.
+ | 
+mapa de temperaturas de Europa que muestra tres zonas de temperatura indicativas;
+ | 
+VII
+ | 
+el nivel de potencia acústica LWA
+ , en el interior (si procede) y el exterior, en dB, redondeado al número entero más próximo.
+ | 
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para bombas de calor de baja temperatura se ajustarán a lo indicado en el punto 8 del presente anexo. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» de conformidad con el Reglamento (CE) no 66/2010 del Parlamento Europeo y del Consejo, podrá añadirse una copia de dicha etiqueta ecológica.
+ | 
+1.2.   Etiqueta 2
+1.2.1.   Aparatos de calefacción con caldera de las clases de eficiencia energética estacional de calefacción A+++ a D
+(a)
+ | 
+En la etiqueta figurará la información relacionada en el punto 1.1.1, letra a) del presente anexo.
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para aparatos de calefacción con caldera se ajustarán a lo indicado en el punto 5 del presente anexo.
+ | 
+1.2.2.   Aparatos de calefacción de cogeneración de las clases de eficiencia energética estacional de calefacción A+++ a D
+(c)
+ | 
+En la etiqueta figurará la información relacionada en el punto 1.1.2, letra a) del presente anexo.
+ | 
+(d)
+ | 
+Los aspectos de diseño de la etiqueta para aparatos de calefacción de cogeneración se ajustarán a lo indicado en el punto 6 del presente anexo.
+ | 
+1.2.3.   Aparatos de calefacción con bomba de calor, excepto bombas de calor de baja temperatura, de las clases de eficiencia energética estacional de calefacción A+++ a D
+(a)
+ | 
+En la etiqueta figurará la información relacionada en el punto 1.1.3, letra a) del presente anexo.
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los aparatos de calefacción con bomba de calor se ajustarán a lo indicado en el punto 7 del presente anexo.
+ | 
+1.2.4.   Bombas de calor de baja temperatura de las clases de eficiencia energética estacional de calefacción A+++ a D
+(a)
+ | 
+En la etiqueta figurará la información relacionada en el punto 1.1.4, letra a) del presente anexo.
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para bombas de calor de baja temperatura se ajustarán a lo indicado en el punto 8 del presente anexo.
+ | 
+2.   CALEFACTORES COMBINADOS
+2.1.   Etiqueta 1
+2.1.1   Calefactores combinados con caldera de las clases de eficiencia energética estacional de calefacción de las clases A++ a G y de las clases de eficiencia energética de caldeo de agua A a G
+(a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III.
+ | 
+la función de calefacción de espacios y la función de caldeo de agua, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 15 del anexo VII;
+ | 
+IV.
+ | 
+la clase de eficiencia energética estacional de calefacción y de eficiencia energética del caldeo de agua, determinada de conformidad con los puntos 1 y 2 del anexo II; las puntas de las flechas que contienen la clase de eficiencia energética estacional y la eficiencia energética de caldeo de agua del calefactor combinado con caldera se colocarán a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente;
+ | 
+V.
+ | 
+potencia calorífica nominal en kW, redondeada al número entero más próximo;
+ | 
+VI.
+ | 
+el nivel de potencia acústica LWA
+ , en el interior, en dB, redondeado al número entero más próximo.
+ | 
+VII.
+ | 
+para calefactores combinados con caldera que puedan funcionar solamente durante las horas de baja demanda, puede añadirse el pictograma indicado en el punto 9, d), 11) del presente anexo.
+ | 
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para calefactores combinados con caldera se ajustarán a lo indicado en el punto 9 del presente anexo.
+ | 
+2.1.2.   Calefactores combinados con bomba de calor de las clases de eficiencia energética estacional de calefacción de las clases A++ a G y de las clases de eficiencia energética de caldeo de agua A a G
+(a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III.
+ | 
+la función de calefacción de espacios para una aplicación de temperatura mediana y la función de caldeo de agua, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 15 del anexo VII;
+ | 
+IV.
+ | 
+la clase de eficiencia energética estacional de calefacción en condiciones climáticas medias para aplicaciones de media temperatura y la clase de eficiencia energética del caldeo de agua en condiciones climáticas medias, determinadas de conformidad con los puntos 1 y 2 del anexo II; las puntas de las flechas que contienen la clase de eficiencia energética estacional y la clase de eficiencia energética de caldeo de agua del calefactor combinado con bomba de calor se colocarán a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente;
+ | 
+V.
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, en condiciones climáticas medias, más frías y más cálidas, redondeada al siguiente número entero;
+ | 
+VI.
+ | 
+mapa de temperaturas de Europa que muestra tres zonas de temperatura indicativas;
+ | 
+VII.
+ | 
+el nivel de potencia acústica LWA
+ , en el interior (si procede) y el exterior, en dB, redondeado al número entero más próximo;
+ | 
+VIII.
+ | 
+para calefactores combinados con bomba de calor que puedan funcionar solamente durante las horas de baja demanda, puede añadirse el pictograma indicado en el punto 10, d), 12), del presente anexo.
+ | 
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los calefactores combinados con bomba de calor se ajustarán a lo indicado en el punto 10 del presente anexo.
+ | 
+2.2.   Etiqueta 2
+2.2.1.   Calefactores combinados con caldera de las clases de eficiencia energética estacional de calefacción de las clases A+++ a D y de las clases de eficiencia energética de caldeo de agua A+ a F
+(a)
+ | 
+En la etiqueta figurará la información relacionada en el punto 2.1.1, letra a) del presente anexo.
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para calefactores combinados con caldera se ajustarán a lo indicado en el punto 9 del presente anexo.
+ | 
+2.2.2.   Calefactores combinados con bomba de calor de las clases de eficiencia energética estacional de calefacción de las clases A+++ a D y de las clases de eficiencia energética de caldeo de agua A+ a F
+(a)
+ | 
+En la etiqueta figurará la información relacionada en el punto 2.1.2, letra a) del presente anexo.
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los calefactores combinados con bomba de calor se ajustarán a lo indicado en el punto 10 del presente anexo.
+ | 
+3.   EQUIPOS COMBINADOS DE APARATO DE CALEFACCIÓN, CONTROL DE TEMPERATURA Y DISPOSITIVO SOLAR
+ Etiqueta para los equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar de las clases de eficiencia energética de calefacción A+++ a G
+a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del distribuidor y/o proveedor;
+ | 
+II.
+ | 
+identificador del modelo o modelos del distribuidor y/o proveedor;
+ | 
+III.
+ | 
+función de calefacción;
+ | 
+IV.
+ | 
+la clase de eficiencia energética estacional de calefacción del aparato de calefacción, determinada de conformidad con el punto 1 del anexo II;
+ | 
+V.
+ | 
+indicación sobre la posibilidad de incluir en el equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar un colector solar, depósito de agua caliente, control de temperatura y/o un segundo aparato de calefacción;
+ | 
+VI.
+ | 
+la clase de eficiencia energética estacional de calefacción del equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar determinada de conformidad con el punto 5 del anexo IV; la punta de la flecha que contiene la clase de eficiencia energética estacional de calefacción del equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente.
+ | 
+ | 
+b)
+ | 
+Los aspectos de diseño de la etiqueta para los equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar se ajustarán a lo indicado en el punto 11 del presente anexo. Para los equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar de las clases de eficiencia energética de calefacción A+++ a D, pueden omitirse las últimas clases E a G de la escala A+++ a G.
+ | 
+4.   EQUIPOS COMBINADOS DE CALEFACTOR, CONTROL DE TEMPERATURA Y DISPOSITIVO SOLAR
+ Etiqueta para los equipos combinados de calefactor, control de temperatura y dispositivo solar de las clases de eficiencia energética de calefacción A+++ a G
+a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del distribuidor y/o proveedor;
+ | 
+II.
+ | 
+identificador del modelo o modelos del distribuidor y/o proveedor;
+ | 
+III.
+ | 
+la función de calefacción de espacios y la función de caldeo de agua, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 15 del anexo VII;
+ | 
+IV.
+ | 
+las clases de eficiencia energética de calefacción y de eficiencia energética de caldeo de agua del calefactor combinado, determinadas de conformidad con los puntos 1 y 2 del anexo II;
+ | 
+V.
+ | 
+indicación sobre la posibilidad de incluir en el equipo combinado de calefactor, control de temperatura y dispositivo solar un colector solar, depósito de agua caliente, control de temperatura y/o un segundo calefactor;
+ | 
+VI.
+ | 
+la clase de eficiencia energética estacional de calefacción del equipo combinado de calefactor, control de temperatura y dispositivo solar determinada de conformidad con el punto 6 del anexo IV; la punta de la flecha que contiene la clase de eficiencia energética estacional de calefacción del equipo combinado de calefactor, control de temperatura y dispositivo solar se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente;
+ | 
+VII.
+ | 
+la clase de eficiencia energética estacional de caldeo de agua del equipo combinado de calefactor, control de temperatura y dispositivo solar determinada de conformidad con el punto 6 del anexo IV; la punta de la flecha que contiene la clase de eficiencia energética estacional de caldeo de agua del equipo combinado de calefactor, control de temperatura y dispositivo solar se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente;
+ | 
+ | 
+b)
+ | 
+Los aspectos de diseño de la etiqueta para los equipos combinados de calefactor, control de temperatura y dispositivo solar se ajustarán a lo indicado en el punto 12 del presente anexo. Para los equipos combinados de calefactor, control de temperatura y dispositivo solar de las clases de eficiencia energética estacional de calefacción y/o eficiencia energética de caldeo de agua A+++ a D, pueden omitirse las últimas clases E a G de la escala A+++ a G.
+ | 
+5.   El diseño de la etiqueta de los aparatos de calefacción con caldera atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+b)
+ | 
+El fondo será blanco.
+ | 
+c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ Logotipo UE: colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-00-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm.
+ | 
+ | 
+ Trazo bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm.
+ | 
+ | 
+ Función de calefacción:
+—
+ | 
+Pictograma como el representado.
+ | 
+ | 
+ | 
+ Escalas A++-G y A+++-D, respectivamente:
+—
+ | 
+ Flecha: altura: 5 mm, espacio: 1,3 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Séptima clase: 00-X-X-00,
+ | 
+—
+ | 
+Octava clase: 00-X-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 14 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea;
+ | 
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Clase de eficiencia energética estacional de calefacción:
+—
+ | 
+ Flecha: anchura: 22 mm, altura: 12 mm, negro 100 %.
+ | 
+—
+ | 
+ Texto: Calibri negrita 13 214,40 cm3, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Nivel de potencia acústica en interiores:
+—
+ | 
+ Pictograma como el representado.
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 20 pt, negro 100 %.
+ | 
+—
+ | 
+ Texto «dB»: Calibri normal 15 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Potencia calorífica nominal:
+—
+ | 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm.
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 45 pt, negro 100 %.
+ | 
+—
+ | 
+ Texto «kW»: Calibri normal 30 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o la marca comercial del proveedor y el identificador del modelo cabrán en un espacio de 86 mm x 12 mm.
+ | 
+ | 
+6.   El diseño de la etiqueta de los aparatos de calefacción de cogeneración atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+b)
+ | 
+El fondo será blanco.
+ | 
+c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ Logotipo UE: colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-00-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm.
+ | 
+ | 
+ Trazo bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm.
+ | 
+ | 
+ Función de calefacción:
+—
+ | 
+ Pictograma como el representado.
+ | 
+ | 
+ | 
+ Escalas A++-G y A+++-D, respectivamente:
+—
+ | 
+ Flecha: altura: 5 mm, espacio: 1,3 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Séptima clase: 00-X-X-00,
+ | 
+—
+ | 
+Octava clase: 00-X-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 14 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea;
+ | 
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Clase de eficiencia energética estacional de calefacción:
+—
+ | 
+ Flecha: anchura: 22 mm, altura: 12 mm, negro 100 %.
+ | 
+—
+ | 
+ Texto: Calibri negrita 24 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Nivel de potencia acústica en interiores:
+—
+ | 
+ Pictograma como el representado.
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 20 pt, negro 100 %.
+ | 
+—
+ | 
+ Texto «dB»: Calibri normal 15 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Potencia calorífica nominal:
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 45 pt, negro 100 %.
+ | 
+—
+ | 
+ Texto «kW»: Calibri normal 30 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Función de electricidad:
+—
+ | 
+ Pictograma como el representado.
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o la marca comercial del proveedor y el identificador del modelo deberán poder inserirse en un espacio de 86 mm x 12 mm.
+ | 
+ | 
+7.   El diseño de la etiqueta de los aparatos de calefacción con bomba de calor atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+b)
+ | 
+El fondo será blanco.
+ | 
+c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ Logotipo UE: colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-00-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm.
+ | 
+ | 
+ Trazo bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm.
+ | 
+ | 
+ Función de calefacción:
+—
+ | 
+ Pictograma como el representado.
+ | 
+ | 
+ | 
+ Función de calefacción para aplicaciones de temperatura media y baja:
+—
+ | 
+ Texto «55° C» y «35° C»: Calibri normal 14 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Escalas A++-G y A+++-D, respectivamente:
+—
+ | 
+ Flecha: altura: 5 mm, espacio: 1,3 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Séptima clase: 00-X-X-00,
+ | 
+—
+ | 
+Octava clase: 00-X-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 14 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea;
+ | 
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Clase de eficiencia energética estacional de calefacción:
+—
+ | 
+ Flecha: anchura: 19 mm, altura: 12 mm, negro 100 %.
+ | 
+—
+ | 
+ Texto: Calibri negrita 24 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Nivel de potencia acústica en interiores (cuando proceda) y en exteriores:
+—
+ | 
+ Pictograma como el representado.
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 20 pt, negro 100 %.
+ | 
+—
+ | 
+ Texto «dB»: Calibri normal 15 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Potencia calorífica nominal:
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+—
+ | 
+ Valores «YZ»: Calibri negrita mínimo 15 pt, negro 100 %;
+ | 
+—
+ | 
+ Texto «kW»: Calibri normal 15 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Mapa de temperaturas de Europa y cuadrados en color:
+—
+ | 
+ Pictograma como el representado.
+ | 
+—
+ | 
+Colores:
+—
+ | 
+Azul oscuro: 86-51-00-00,
+ | 
+—
+ | 
+Azul medio: 53-08-00-00,
+ | 
+—
+ | 
+Azul claro: 25-00-02-00.
+ | 
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o la marca comercial del proveedor y el identificador del modelo deberán poder inserirse en un espacio de 86 mm × 12 mm.
+ | 
+ | 
+8.   El diseño de la etiqueta de las bombas de calor de baja temperatura atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-X-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm
+ | 
+ | 
+ Trazo bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm
+ | 
+ | 
+ Función de calefacción:
+—
+ | 
+ Pictograma como el representado.
+ | 
+ | 
+ | 
+ Aplicación de baja temperatura:
+ Texto «35 °C»: Calibri normal 14 pt, negro 100 %.
+ | 
+ | 
+ Escalas A++-G y A+++-D, respectivamente:
+—
+ | 
+ Flecha: altura: 5 mm, espacio: 1,3 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Séptima clase: 00-X-X-00,
+ | 
+—
+ | 
+Octava clase: 00-X-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 14 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea;
+ | 
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm – colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Clase de eficiencia energética estacional de calefacción:
+—
+ | 
+ Flecha: anchura: 22 mm, altura: 12 mm, negro 100 %,
+ | 
+—
+ | 
+ Texto: Calibri negrita 24 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Nivel de potencia acústica en interiores (cuando proceda) y exteriores:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 20 pt, negro 100 %,
+ | 
+—
+ | 
+ Texto «dB»: Calibri normal 15 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Potencia calorífica nominal:
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valores «YZ»: Calibri negrita 18 pt, negro 100 %;
+ | 
+—
+ | 
+ Texto «kW»: Calibri normal 13,5 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Mapa de temperaturas de Europa y cuadrados en color:
+—
+ | 
+ Pictograma como el representado,
+Colores:
+—
+ | 
+azul oscuro: 86-51-00-00,
+ | 
+—
+ | 
+azul medio: 53-08-00-00,
+ | 
+—
+ | 
+azul claro: 25-00-02-00.
+ | 
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o marca comercial del proveedor y la identificación del modelo deberán poder inserirse en un espacio de 86 × 12 mm.
+ | 
+ | 
+9.   El diseño de la etiqueta de los calefactores combinados con caldera atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-X-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm
+ | 
+ | 
+ Trazo bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm
+ | 
+ | 
+ Función de calefacción:
+—
+ | 
+ Pictograma como el representado.
+ | 
+ | 
+ | 
+ Función de caldeo de agua:
+—
+ | 
+ Pictograma como el representado, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 15 del anexo VII; Calibri negrita 16 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Escalas A++-G y A-G, A+++-D o A+-F, respectivamente:
+—
+ | 
+ Flecha: altura: 5 mm, espacio: 1,3 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Séptima clase: 00-X-X-00,
+ | 
+—
+ | 
+Octava clase: 00-X-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 14 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea;
+ | 
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Clases de eficiencia energética estacional de calefacción y de caldeo de agua:
+—
+ | 
+ Flecha: anchura: 14 mm, altura: 9 mm, negro 100 %,
+ | 
+—
+ | 
+ Texto: Calibri negrita 18 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Potencia calorífica nominal:
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 37,5 pt, negro 100 %,
+ | 
+—
+ | 
+ Texto «kW»: Calibri normal 18 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Nivel de potencia acústica en interiores:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 20 pt, negro 100 %,
+ | 
+—
+ | 
+ Texto «dB»: Calibri normal 15 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Cuando proceda, idoneidad para el uso en horas de baja demanda:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o marca comercial del proveedor y la identificación del modelo deberán poder inserirse en un espacio de 86 × 12 mm.
+ | 
+ | 
+10.   El diseño de la etiqueta de los calefactores combinados con bomba de calor atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-X-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm
+ | 
+ | 
+ Trazo bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm
+ | 
+ | 
+ Función de calefacción:
+—
+ | 
+ Pictograma como el representado.
+ | 
+ | 
+ | 
+ Función de caldeo de agua:
+—
+ | 
+ Pictograma como el representado, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 15 del anexo VII; Calibri negrita 16 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Escalas A++-G y A-G, A+++-D o A+-F, respectivamente:
+—
+ | 
+ Flecha: altura: 5 mm, espacio: 1,3 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Séptima clase: 00-X-X-00,
+ | 
+—
+ | 
+Octava clase: 00-X-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 14 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea;
+ | 
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Clases de eficiencia energética estacional de calefacción y de caldeo de agua:
+—
+ | 
+ Flecha: anchura: 14 mm, altura: 9 mm, negro 100 %,
+ | 
+—
+ | 
+ Texto: Calibri negrita 18 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Potencia calorífica nominal:
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valores «YZ»: Calibri negrita 12 pt, negro 100 %;
+ | 
+—
+ | 
+ Texto «kW»: Calibri normal 10 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Mapa de temperaturas de Europa y cuadrados en color:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+Colores:
+—
+ | 
+azul oscuro: 86-51-00-00,
+ | 
+—
+ | 
+azul medio: 53-08-00-00,
+ | 
+—
+ | 
+azul claro: 25-00-02-00.
+ | 
+ | 
+ | 
+ | 
+ Nivel de potencia acústica en interiores (cuando proceda) y exteriores:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 15 pt, negro 100 %,
+ | 
+—
+ | 
+ Texto «dB»: Calibri normal 10 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Cuando proceda, idoneidad para el uso en horas de baja demanda:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o marca comercial del proveedor y la identificación del modelo deberán poder inserirse en un espacio de 86 × 12 mm.
+ | 
+ | 
+11.   El diseño de la etiqueta para los equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 210 mm de ancho y 297 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 6 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-X-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 191 mm, altura: 37 mm
+ | 
+ | 
+ Trazo bajo los logotipos: 2 pt, color: cian 100 %, longitud: 191 mm
+ | 
+ | 
+ Función de calefacción:
+—
+ | 
+ Pictograma como el representado.
+ | 
+ | 
+ | 
+ Aparato de calefacción:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+Clase de eficiencia energética estacional de calefacción del aparato de calefacción:
+—
+ | 
+ Flecha: anchura: 24 mm, altura: 14 mm, negro 100 %.
+ | 
+—
+ | 
+ Texto: Calibri negrita 28 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea,
+ | 
+ | 
+—
+ | 
+ Reborde: 3 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ | 
+ Equipo combinado de colector solar, depósito de agua caliente, control de temperatura y/o calefactor complementario:
+—
+ | 
+ Pictogramas como los representados,
+ | 
+—
+ | 
+ símbolo «+»: Calibri negrita 50 pt, cian 100 %,
+ | 
+—
+ | 
+ Cajas: anchura: 12 mm, altura: 12 mm, reborde: 4 pt, cian 100 %,
+ | 
+—
+ | 
+ Reborde: 3 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ | 
+ Escala de A+++ a G con reborde:
+—
+ | 
+ Flecha: altura: 15 mm, espacio: 3 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Séptima clase: 00-X-X-00,
+ | 
+—
+ | 
+Si procede, últimas clases: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 30 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea,
+ | 
+—
+ | 
+ Reborde: 3 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ | 
+ Clase de eficiencia energética estacional de calefacción del equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar:
+—
+ | 
+ Flecha: anchura: 33 mm, altura: 19 mm, negro 100 %,
+ | 
+—
+ | 
+ Texto: Calibri negrita 40 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 12 pt.
+ | 
+ | 
+ | 
+ Marca comercial del distribuidor y/o proveedor.
+ | 
+ | 
+ Identificador del modelo del distribuidor y/o proveedor:
+El nombre o marca comercial del distribuidor y/o proveedor y la identificación del modelo deberán poder inserirse en un espacio de 191 × 19 mm.
+ | 
+ | 
+12.   El diseño de la etiqueta para los equipos combinados de calefactor, control de temperatura y dispositivo solar atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 210 mm de ancho y 297 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 6 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ Logotipo UE: colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-00-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 191 mm, altura: 37 mm.
+ | 
+ | 
+ Trazo bajo los logotipos: 2 pt, color: cian 100 %, longitud: 191 mm.
+ | 
+ | 
+ Calefactor combinado:
+—
+ | 
+ Pictogramas como los representados; para la función de caldeo de agua, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 15 del anexo VII; Calibri negrita 16 pt, negro 100 %.
+ | 
+—
+ | 
+Clase de eficiencia energética estacional de calefacción y de caldeo de agua del calefactor combinado:
+—
+ | 
+ Flecha: anchura: 19 mm, altura: 11 mm, 100 % negro,
+ | 
+—
+ | 
+ Texto: Calibri negrita 23 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea,
+ | 
+ | 
+—
+ | 
+ Reborde: 3 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ | 
+ Equipo combinado de colector solar, depósito de agua caliente, control de temperatura y/o calefactor complementario:
+—
+ | 
+ Pictogramas como los representados,
+ | 
+—
+ | 
+ símbolo «+»: Calibri negrita, 50 pt, cian 100 %,
+ | 
+—
+ | 
+ Cajas: anchura: 12 mm, altura: 12 mm, reborde: 4 pt, cian 100 %,
+ | 
+—
+ | 
+ Reborde: 3 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ | 
+ Función de calefacción:
+—
+ | 
+ Pictograma como el representado.
+ | 
+ | 
+ | 
+ Escala de A+++ a G con reborde:
+—
+ | 
+ Flecha: altura: 6,5 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Séptima clase. 00-X-X-00.
+ | 
+—
+ | 
+Si procede, últimas clases: 00-X-X-00.
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea,
+ | 
+—
+ | 
+ Reborde: 3 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ | 
+ Clase de eficiencia energética estacional de calefacción y de caldeo de agua, respectivamente, de un equipo combinado de calefactor, control de temperatura y dispositivo solar:
+—
+ | 
+ Flecha: anchura: 24 mm, altura: 14 mm, 100 % negro,
+ | 
+—
+ | 
+ Texto: Calibri negrita 28 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Función de caldeo de agua:
+—
+ | 
+ Pictograma como el representado, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 15 del anexo VII; Calibri negrita 22 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 12 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del distribuidor y/o proveedor.
+ | 
+ | 
+ Identificador del modelo del distribuidor y/o proveedor:
+El nombre o la marca comercial del distribuidor y/o proveedor y el identificador del modelo deberán poder inserirse en un espacio de 191 mm × 19 mm.
+ | 
+ | 
+ (1)  
+ DO L 27 de 30.1.2010, p. 1.
+ANEXO IV
+ Ficha del producto
+1.   APARATOS DE CALEFACCIÓN
+1.1.
+ | 
+ La información contenida en la ficha del producto de los aparatos de calefacción figurará en el orden siguiente, y se incluirá en el folleto del producto u otro material escrito facilitado junto con el mismo:
+(a)
+ | 
+nombre o marca comercial del proveedor;
+ | 
+(b)
+ | 
+identificador del modelo del proveedor;
+ | 
+(c)
+ | 
+la clase de eficiencia energética estacional de calefacción del modelo, determinada de conformidad con el punto 1 del anexo II;
+ | 
+(d)
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, redondeada al número entero más próximo (para los aparatos de calefacción con bomba de calor, en condiciones climáticas medias);
+ | 
+(e)
+ | 
+la eficiencia energética estacional de calefacción en porcentaje, redondeada al número entero más próximo y calculada de conformidad con los puntos 3 y 4 del anexo VII (para los aparatos de calefacción con bomba de calor, en condiciones climáticas medias);
+ | 
+(f)
+ | 
+el consumo anual de energía en kWh en términos de la energía final y/o en GJ en términos de GCV, redondeado al número entero más próximo y calculado de conformidad con los puntos 3 y 4 del anexo VII (para los aparatos de calefacción con bomba de calor, en condiciones climáticas medias);
+ | 
+(g)
+ | 
+el nivel de potencia acústica LWA
+ en interiores, en dB, redondeado al número entero más próximo (llegado el caso, para los aparatos de calefacción con bomba de calor);
+ | 
+(h)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del aparato de calefacción;
+ | 
+además, en lo que respecta a los aparatos de calefacción de cogeneración:
+(i)
+ | 
+la eficiencia eléctrica en porcentaje, redondeada al número entero más próximo;
+ | 
+además, en lo que respecta a los aparatos de calefacción con bomba de calor:
+(j)
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo;
+ | 
+(k)
+ | 
+la eficiencia energética estacional de calefacción en porcentaje, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo y calculada de conformidad con el punto 4 del anexo VII;
+ | 
+(l)
+ | 
+el consumo anual de energía en kWh en términos de la energía final y/o en GJ en términos de GCV, en condiciones climáticas más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VII;
+ | 
+(m)
+ | 
+el nivel de potencia acústica LWA
+ , en exteriores, en dB, redondeado al número entero más próximo.
+ | 
+ | 
+1.2.
+ | 
+ Se podrá utilizar una única ficha para varios modelos de aparato de calefacción suministrados por el mismo proveedor.
+ | 
+1.3.
+ | 
+ La información recogida en la ficha podrá consistir en una reproducción de la etiqueta, ya sea en color o en blanco y negro. Si tal fuera el caso, también se facilitaría la información enumerada en el punto 1,1 que no figure todavía en la etiqueta.
+ | 
+2.   CALEFACTORES COMBINADOS
+2.1.
+ | 
+ La información contenida en la ficha del producto de los calefactores combinados figurará en el orden siguiente, y se incluirá en el folleto del producto u otro material escrito facilitado junto con el mismo:
+(a)
+ | 
+nombre o marca comercial del proveedor;
+ | 
+(b)
+ | 
+identificador del modelo del proveedor;
+ | 
+(c)
+ | 
+para calentar espacios, la aplicación de media temperatura (y para los calefactores combinados con bomba de calor, la aplicación de baja temperatura, si procede); para calentar agua, el perfil de carga declarado, expresado como la letra y el uso típico adecuados con arreglo al cuadro 15 del anexo VII;
+ | 
+(d)
+ | 
+la clase de eficiencia energética estacional de calefacción y de eficiencia energética del caldeo de agua del modelo, determinada de conformidad con los puntos 1 y 2 del anexo II;
+ | 
+(e)
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, redondeada al número entero más próximo (para los calefactores combinados con bomba de calor, en condiciones climáticas medias);
+ | 
+(f)
+ | 
+para calentar espacios, el consumo anual de energía en kWh en términos de la energía final y/o en GJ en términos de GCV, redondeado al número entero más próximo y calculado de conformidad con los puntos 3 y 4 del anexo VII (para los calefactores combinados con bomba de calor en condiciones climáticas medias); para calentar agua, el consumo anual de electricidad en kWh en términos de la energía final y/o el consumo anual de combustible en GJ en términos de GCV, redondeado al número entero más próximo y calculado de conformidad con el punto 5 del anexo VII (para los calefactores combinados con bomba de calor en condiciones climáticas medias);
+ | 
+(g)
+ | 
+la eficiencia energética estacional de calefacción en porcentaje, redondeada al número entero más próximo y calculada de conformidad con los puntos 3 y 4 del anexo VII (para los calefactores combinados con bomba de calor en condiciones climáticas medias); la eficiencia energética del caldeo de agua en porcentaje, redondeada al número entero más próximo y calculada de conformidad con el punto 5 del anexo VII (para los calefactores combinados con bomba de calor en condiciones climáticas medias);
+ | 
+(h)
+ | 
+el nivel de potencia acústica LWA
+ en interiores, en dB, redondeado al número entero más próximo (llegado el caso, para los calefactores combinados con bomba de calor);
+ | 
+(i)
+ | 
+llegado el caso, una indicación de que el calefactor combinado puede funcionar solamente durante las horas de baja demanda;
+ | 
+(j)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del calefactor combinado;
+ | 
+además, en lo que respecta a los calefactores combinados con bomba de calor:
+(k)
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo;
+ | 
+(l)
+ | 
+para calentar espacios, el consumo anual de energía en kWh en términos de la energía final y/o en GJ en términos de GCV, en condiciones climáticas más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VII; para calentar agua, el consumo anual de electricidad en kWh en términos de la energía final y/o el consumo anual de combustible en GJ en términos de GCV, en condiciones climáticas más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 5 del anexo VII;
+ | 
+(m)
+ | 
+la eficiencia energética estacional de calefacción en porcentaje, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo y calculada de conformidad con el punto 4 del anexo VII; la eficiencia energética de caldeo de agua en porcentaje, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo y calculada de conformidad con el punto 5 del anexo VII;
+ | 
+(n)
+ | 
+el nivel de potencia acústica LWA
+ , en exteriores, en dB, redondeado al número entero más próximo.
+ | 
+ | 
+2.2.
+ | 
+ Se podrá utilizar una única ficha para varios modelos de calefactor combinado suministrados por el mismo proveedor.
+ | 
+2.3.
+ | 
+ La información recogida en la ficha podrá consistir en una reproducción de la etiqueta, ya sea en color o en blanco y negro. Si tal fuera el caso, también se facilitaría la información enumerada en el punto 2.1 que no figure todavía en la etiqueta.
+ | 
+3.   CONTROLES DE TEMPERATURA
+3.1.
+ | 
+ La información contenida en la ficha del producto del control de temperatura figurará en el orden siguiente, y se incluirá en el folleto del producto u otro material escrito facilitado junto con el mismo:
+(a)
+ | 
+nombre o marca comercial del proveedor;
+ | 
+(b)
+ | 
+identificador del modelo del proveedor;
+ | 
+(c)
+ | 
+la clase del control de temperatura;
+ | 
+(d)
+ | 
+la contribución del control de temperatura a la eficiencia energética estacional de calefacción en porcentaje, redondeada a la primera cifra decimal.
+ | 
+ | 
+3.2.
+ | 
+ Se podrá utilizar una única ficha para varios modelos de control de temperatura suministrados por el mismo proveedor.
+ | 
+4.   DISPOSITIVOS SOLARES
+4.1.
+ | 
+ La información contenida en la ficha del producto de los dispositivos solares figurará en el orden siguiente, y se incluirá en el folleto del producto u otro material escrito facilitado junto con el mismo (para las bombas del circuito del colector, si procede):
+(a)
+ | 
+nombre o marca comercial del proveedor;
+ | 
+(b)
+ | 
+identificador del modelo del proveedor;
+ | 
+(c)
+ | 
+el área de apertura del colector en m2, redondeada al segundo decimal;
+ | 
+(d)
+ | 
+la eficiencia del colector en porcentaje, redondeada al número entero más próximo;
+ | 
+(e)
+ | 
+la clase de eficiencia energética del depósito de agua caliente solar, determinada con arreglo al punto 3 del anexo II;
+ | 
+(f)
+ | 
+la pérdida estática del depósito de agua caliente solar en W, redondeada al número entero más próximo;
+ | 
+(g)
+ | 
+el volumen de almacenamiento del depósito de agua caliente solar, en litros y m3;
+ | 
+(h)
+ | 
+la contribución calorífica anual no solar Qnonsol
+ en kWh en términos de energía primaria para electricidad y/o en kWh en términos del GCV para combustibles, para los perfiles de carga M, L, XL y XXL en condiciones climáticas medias, redondeada al número entero más próximo;
+ | 
+(i)
+ | 
+el consumo de electricidad de la bomba en W, redondeado al número entero más próximo;
+ | 
+(j)
+ | 
+el consumo eléctrico en modo de espera, en W, redondeado al segundo decimal;
+ | 
+(k)
+ | 
+el consumo anual de electricidad auxiliar Qaux
+ en kWh en términos de la energía final, redondeado al número entero más próximo.
+ | 
+ | 
+4.2.
+ | 
+ Se podrá utilizar una única ficha para varios modelos de dispositivo solar suministrados por el mismo proveedor.
+ | 
+5.   EQUIPOS COMBINADOS DE APARATO DE CALEFACCIÓN, CONTROL DE TEMPERATURA Y DISPOSITIVO SOLAR
+La ficha para los equipos combinados de aparato de calefacción, control de temperaturas y dispositivo solar contendrá los elementos ilustrados en las figuras 1, 2, 3 y 4, respectivamente, para evaluar la eficiencia energética estacional de calefacción de un equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar, incluida la información siguiente:
+—
+ | 
+I. el valor de la eficiencia energética estacional de calefacción del aparato de calefacción preferente, expresado en porcentaje;
+ | 
+—
+ | 
+II. el factor de ponderación de la potencia calorífica de los calefactores preferente y complementario de un equipo combinado, tal como establecen los cuadros 5 y 6 del presente anexo, respectivamente;
+ | 
+—
+ | 
+III: el valor de la expresión matemática: 
+ , donde la Prated está relacionada con el aparato de calefacción preferente;
+ | 
+—
+ | 
+IV. el valor de la expresión matemática 
+ , donde la Prated está relacionada con el aparato de calefacción preferente;
+ | 
+además, en lo que respecta a los aparatos de calefacción preferentes con bomba de calor:
+—
+ | 
+V. el valor de la diferencia entre las eficiencias energéticas estacionales de calefacción en condiciones climáticas medias y más frías, expresado en porcentaje;
+ | 
+—
+ | 
+VI. el valor de la diferencia entre las eficiencias energéticas estacionales de calefacción en condiciones climáticas más cálidas y medias, expresado en porcentaje.
+ | 
+6.   EQUIPOS COMBINADOS DE CALEFACTOR, CONTROL DE TEMPERATURA Y DISPOSITIVO SOLAR
+La ficha para equipos combinados de calefactor, control de temperatura y dispositivo solar contendrán los elementos establecidos en las letras a) y b):
+(a)
+ | 
+los elementos establecidos en la figura 1 y en la figura 3, respectivamente, para evaluar la eficiencia energética estacional de calefacción de un equipo combinado de calefactor, control de temperatura y dispositivo solar, incluida la información siguiente:
+—
+ | 
+I. el valor de la eficiencia energética estacional de calefacción del calefactor combinado preferente, expresado en porcentaje;
+ | 
+—
+ | 
+II. el factor de ponderación de la potencia calorífica de los calefactores preferente y complementario de un equipo combinado, tal como establecen los cuadros 5 y 6 del presente anexo, respectivamente;
+ | 
+—
+ | 
+III: el valor de la expresión matemática: 
+ , donde la Prated está relacionada con el calefactor combinado preferente;
+ | 
+—
+ | 
+IV. el valor de la expresión matemática 
+ , donde la Prated está relacionada con el calefactor combinado preferente;
+ | 
+además, en lo que respecta a los calefactores combinados con bomba de calor preferentes:
+—
+ | 
+V. el valor de la diferencia entre las eficiencias energéticas estacionales de calefacción en condiciones climáticas medias y más frías, expresado en porcentaje;
+ | 
+—
+ | 
+VI. el valor de la diferencia entre las eficiencias energéticas estacionales de calefacción en condiciones climáticas más cálidas y medias, expresado en porcentaje;
+ | 
+ | 
+(b)
+ | 
+los elementos establecidos en la figura 5 para evaluar la eficiencia energética de caldeo de agua de un equipo combinado de calefactor combinado, control de temperatura y dispositivo solar, donde se incluirá la información siguiente:
+—
+ | 
+I. el valor de la eficiencia energética del caldeo de agua del calefactor combinado, expresado en porcentaje;
+ | 
+—
+ | 
+II. el valor de la expresión matemática 
+ , donde Qref
+ se toma del cuadro 15 del anexo VII Qnonsol
+ de la ficha del producto del dispositivo solar para el perfil de carga declarado M, L, XL o XXL del calefactor combinado;
+ | 
+—
+ | 
+III: el valor de la expresión matemática 
+ , expresada en porcentaje, donde Qaux
+ se toma de la ficha del producto del dispositivo solar y Qref
+ del cuadro 16 del anexo VII para el perfil de carga declarado M, L, XL o XXL.
+ | 
+ | 
+ Cuadro 5:
+ A efectos de la figura 1 del presente anexo, ponderación del aparato de calefacción con caldera o calefactor combinado con caldera preferentes y del calefactor complementario
+  (*1)
+  (*2)
+ | 
+II, equipo combinado sin depósito de agua caliente
+ | 
+II, equipo combinado con depósito de agua caliente
+ | 
+0 
+ | 
+0 
+ | 
+0 
+ | 
+0,1 
+ | 
+0,30 
+ | 
+0,37 
+ | 
+0,2 
+ | 
+0,55 
+ | 
+0,70 
+ | 
+0,3 
+ | 
+0,75 
+ | 
+0,85 
+ | 
+0,4 
+ | 
+0,85 
+ | 
+0,94 
+ | 
+0,5 
+ | 
+0,95 
+ | 
+0,98 
+ | 
+0,6 
+ | 
+0,98 
+ | 
+1,00 
+ | 
+≥ 0,7
+ | 
+1,00 
+ | 
+1,00 
+ | 
+ Cuadro 6:
+ A efectos de las figuras 2 a 4 del presente anexo, ponderación del aparato de calefacción de cogeneración, aparato de calefacción con bomba de calor, calefactor combinado con bomba de calor o bomba de calor de baja temperatura preferentes y del calefactor complementario
+  (*3)
+  (*4)
+ | 
+II, equipo combinado sin depósito de agua caliente
+ | 
+II, equipo combinado con depósito de agua caliente
+ | 
+0 
+ | 
+1,00 
+ | 
+1,00 
+ | 
+0,1 
+ | 
+0,70 
+ | 
+0,63 
+ | 
+0,2 
+ | 
+0,45 
+ | 
+0,30 
+ | 
+0,3 
+ | 
+0,25 
+ | 
+0,15 
+ | 
+0,4 
+ | 
+0,15 
+ | 
+0,06 
+ | 
+0,5 
+ | 
+0,05 
+ | 
+0,02 
+ | 
+0,6 
+ | 
+0,02 
+ | 
+0 
+ | 
+≥ 0,7
+ | 
+0 
+ | 
+0 
+ | 
+ Figura 1
+ Para los aparatos de calefacción con caldera preferentes y los calefactores combinados con caldera preferentes, elemento de la ficha para un equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar y un equipo combinado de calefactor combinado, control de temperatura y dispositivo solar, respectivamente, que indica la eficiencia energética estacional de calefacción del equipo combinado ofrecido
+Eficiencia energética estacional de calefacción de caldera
+Control de temperatura
+De la ficha de control de temperatura
+Clase I = 1 %, Clase II = 2 %, Clase III = 1,5 %, Clase IV = 2 %, Clase V = 3 %, Clase VI = 4 %, Clase VII = 3,5 %, Clase VIII = 5 %
+Caldera complementaria
+De la ficha de la caldera complementaria
+Eficiencia energética estacional de calefacción (en %)
+Contribución solar
+De la ficha del dispositivo solar
+Tamaño del colector (en m2)
+Volumen del depósito (en m3)
+Eficiencia del colector (en %)
+Clasificación del depósito
+A* = 0,95, A = 0,91, B = 0,86, C = 0,83, D-G = 0,81
+Bomba de calor complementaria
+De la ficha de la bomba de calor
+Eficiencia energética estacional de calefacción (en %)
+Contribución solar Y bomba de calor complementaria
+Seleccionar el valor inferior
+Eficiencia energética estacional de la calefacción del equipo combinado
+Clase de eficiencia energética estacional de calefacción del equipo combinado
+Caldera y bomba de calor complementaria instaladas con emisores de calor de baja temperatura a 35 °C?
+De la ficha de la bomba de calor
+La eficiencia energética del equipo combinado de productos que figura en esta ficha puede no corresponder a su eficiencia energética real una vez instalado en un edificio, ya que en esta eficiencia influyen otros factores tales como la pérdida de calor en el sistema de distribución y el dimensionamiento de los productos en relación con el tamaño y las características del edificio.
+ Figura 2
+ Para los aparatos de calefacción de cogeneración preferentes, elemento de la ficha para un equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar que indica la eficiencia energética estacional de calefacción del equipo combinado ofrecido
+Eficiencia energética estacional de calefacción del aparato de calefacción de cogeneración
+Control de temperatura
+De la ficha de control de temperatura
+Clase I = 1 %, Clase II = 2 %, Clase III = 1,5 %, Clase IV = 2 %, Clase V = 3 %, Clase VI = 4 %, Clase VII = 3,5 %, Clase VIII = 5 %
+Caldera complementaria
+De la ficha de la caldera
+Eficiencia energética estacional de calefacción (en %)
+Contribución solar
+De la ficha del dispositivo solar
+Tamaño del colector (en m2)
+Volumen del depósito (en m3)
+Eficiencia del colector (en %)
+Clasificación del depósito
+A* = 0,95, A = 0,91, B = 0,86, C = 0,83, D-G = 0,81
+Eficiencia energética estacional de calefacción del equipo combinado
+Clase de eficiencia energética estacional de calefacción del equipo combinado
+La eficiencia energética del equipo combinado de productos que figura en esta ficha puede no corresponder a su eficiencia energética real una vez instalado en un edificio, ya que en esta eficiencia influyen otros factores tales como la pérdida de calor en el sistema de distribución y el dimensionamiento de los productos en relación con el tamaño y las características del edificio.
+ Figure 3
+ Para los aparatos de calefacción con bomba de calor preferentes y los calefactores combinados con bomba de calor preferentes, elemento de la ficha para un equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar y un equipo combinado de calefactor combinado, control de temperatura y dispositivo solar, respectivamente, que indica la eficiencia energética estacional de calefacción del equipo combinado ofrecido
+Eficiencia energética estacional de calefacción de bomba de calor
+Control de temperatura
+De la ficha de control de temperatura
+Más frías:
+Más cálidas:
+Clase I = 1 %, Clase II = 2 %, Clase III = 1,5 %, Clase IV = 2 %, Clase V = 3 %, Clase VI = 4 %, Clase VII = 3,5 %, Clase VIII = 5 %
+Caldera complementaria
+De la ficha de la caldera
+Eficiencia energética estacional de calefacción (en %)
+Contribución solar
+De la ficha del dispositivo solar
+Tamaño del colector (en m2)
+Volumen del depósito (en m3)
+Eficiencia del colector (en %)
+Clasificación del depósito
+A* = 0,95, A = 0,91, B = 0,86, C = 0,83, D-G = 0,81
+Eficiencia energética estacional de calefacción del equipo combinado en condiciones climáticas medias
+Clase de eficiencia energética estacional de calefacción del equipo combinado en condiciones climáticas medias
+Clase de eficiencia energética estacional de calefacción del equipo combinado en condiciones climáticas más frías y más cálidas
+La eficiencia energética del equipo combinado de productos que figura en esta ficha puede no corresponder a su eficiencia energética real una vez instalado en un edificio, ya que en esta eficiencia influyen otros factores tales como la pérdida de calor en el sistema de distribución y el dimensionamiento de los productos en relación con el tamaño y las características del edificio.
+ Figura 4
+ Para las bombas de calor de baja temperatura preferentes, elemento de la ficha para un equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar que indica la eficiencia energética estacional de calefacción del equipo combinado ofrecido
+Eficiencia energética estacional de calefacción de bomba de calor de baja temperatura
+Control de temperatura
+De la ficha de control de temperatura
+Más frías:
+Más cálidas:
+Clase I = 1 %, Clase II = 2 %, Clase III = 1,5 %, Clase IV = 2 %, Clase V = 3 %, Clase VI = 4 %, Clase VII = 3,5 %, Clase VIII = 5 %
+Caldera complementaria
+De la ficha de la caldera
+Eficiencia energética estacional de calefacción (en %)
+Contribución solar
+De la ficha del dispositivo solar
+Tamaño del colector (en m2)
+Volumen del depósito (en m3)
+Eficiencia del colector (en %)
+Clasificación del depósito
+A* = 0,95, A = 0,91, B = 0,86, C = 0,83, D-G = 0,81
+Eficiencia energética estacional de calefacción del equipo combinado en condiciones climáticas medias
+Clase de eficiencia energética estacional de calefacción del equipo combinado en condiciones climáticas medias
+Eficiencia energética estacional de calefacción en condiciones climáticas más frías y más cálidas
+La eficiencia energética del equipo combinado de productos que figura en esta ficha puede no corresponder a su eficiencia energética real una vez instalado en un edificio, ya que en esta eficiencia influyen otros factores tales como la pérdida de calor en el sistema de distribución y el dimensionamiento de los productos en relación con el tamaño y las características del edificio.
+ Figura 5
+ Para los calefactores combinados con caldera preferentes y los calefactores combinados con bomba de calor preferentes, elemento de la ficha para un equipo combinado de calefactor combinado, control de temperatura y dispositivo solar que indica la eficiencia energética de caldeo de agua del equipo combinado ofrecido
+Eficiencia energética de caldeo de agua de calefactor combinado
+Perfil de carga declarado:
+Contribución solar
+De la ficha del dispositivo solar
+Electricidad auxiliar
+Eficiencia energética de caldeo de agua del equipo combinado en condiciones climáticas medias
+Clase de eficiencia energética de caldeo de agua del equipo combinado en condiciones climáticas medias
+Eficiencia energética de caldeo de agua en condiciones climáticas más frías y más cálidas
+La eficiencia energética del equipo combinado de productos que figura en esta ficha puede no corresponder a su eficiencia energética real una vez instalado en un edificio, ya que en esta eficiencia influyen otros factores tales como la pérdida de calor en el sistema de distribución y el dimensionamiento de los productos en relación con el tamaño y las características del edificio.
+Más frías:
+Más cálidas:
+ (*1)  Los valores intermedios se calculan por interpolación lineal entre los dos valores adyacentes.
+ (*2)  
+ Prated está relacionada con el aparato de calefacción o calefactor combinado preferentes.
+ (*3)  Los valores intermedios se calculan por interpolación lineal entre los dos valores adyacentes.
+ (*4)  
+ Prated está relacionada con el aparato de calefacción o calefactor combinado preferentes.
+ANEXO V
+ Documentación técnica
+1.   APARATOS DE CALEFACCIÓN
+Para los aparatos de calefacción, la documentación técnica mencionada en el artículo 3, apartado 1, letra c), comprenderá:
+(a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+(b)
+ | 
+una descripción del modelo de aparato de calefacción suficiente para su identificación inequívoca;
+ | 
+(c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+(d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+(e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+(f)
+ | 
+parámetros técnicos:
+—
+ | 
+para los aparatos de calefacción con caldera y los aparatos de calefacción de cogeneración, los parámetros técnicos establecidos en el cuadro 7, medidos y calculados con arreglo al anexo VII;
+ | 
+—
+ | 
+para los aparatos de calefacción con bomba de calor, los parámetros técnicos establecidos en el cuadro 8, medidos y calculados con arreglo al anexo VII;
+ | 
+—
+ | 
+para los aparatos de calefacción con bomba de calor, cuando la información relativa a un modelo específico que sea una combinación de unidades de interior y exterior se haya obtenido mediante cálculos basados en el diseño y/o la extrapolación de otras combinaciones, los detalles de esos cálculos y/o extrapolaciones, y de los eventuales ensayos realizados para comprobar la exactitud de los cálculos efectuados, incluidos los detalles del modelo matemático utilizado para calcular el rendimiento de esas combinaciones, y de las medidas adoptadas para comprobar dicho modelo;
+ | 
+ | 
+(g)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del aparato de calefacción.
+ | 
+2.   CALEFACTORES COMBINADOS
+Para los calefactores combinados, la documentación técnica mencionada en el artículo 3, apartado 2, letra c), comprenderá:
+(a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+(b)
+ | 
+una descripción del modelo de calefactor combinado suficiente para su identificación inequívoca;
+ | 
+(c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+(d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+(e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+(f)
+ | 
+parámetros técnicos:
+—
+ | 
+para los calefactores combinados con caldera, los parámetros técnicos establecidos en el cuadro 7, medidos y calculados con arreglo al anexo VII;
+ | 
+—
+ | 
+para los calefactores combinados con bomba de calor, los parámetros técnicos establecidos en el cuadro 8, medidos y calculados con arreglo al anexo VII;
+ | 
+—
+ | 
+para los calefactores combinados con bomba de calor, cuando la información relativa a un modelo específico que sea una combinación de unidades de interior y exterior, se haya obtenido mediante cálculos basados en el diseño y/o la extrapolación de otras combinaciones, los detalles de esos cálculos y/o extrapolaciones, y de los eventuales ensayos realizados para comprobar la exactitud de los cálculos efectuados, incluidos los detalles del modelo matemático utilizado para calcular el rendimiento de esas combinaciones, y de las medidas adoptadas para comprobar dicho modelo;
+ | 
+ | 
+(g)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del calefactor combinado.
+ | 
+ Cuadro 7
+ Parámetros técnicos para aparatos de calefacción con caldera, calefactores combinados con caldera y aparatos de calefacción de cogeneración
+Modelos: [Datos que identifican el modelo o modelos a que se refiere la información]
+ | 
+Caldera de condensación: [sí/no]
+ | 
+Caldera de baja temperatura (*2): [sí/no]
+ | 
+Caldera B11: [sí/no]
+ | 
+Aparato de calefacción de cogeneración: [sí/no]
+ | 
+En caso afirmativo, equipado con un calefactor complementario: [sí/no]
+ | 
+Calefactor combinado: [sí/no]
+ | 
+ Elemento
+ | 
+ Símbolo
+ | 
+ Valor
+ | 
+ Unidad
+ | 
+ | 
+ Elemento
+ | 
+ Símbolo
+ | 
+ Valor
+ | 
+ Unidad
+ | 
+ Potencia calorífica nominal
+ | 
+ Prated
+ | 
+x
+ | 
+kW
+ | 
+ Eficiencia energética estacional de calefacción
+ | 
+ ηs
+ | 
+x
+ | 
+%
+ | 
+Para aparatos de calefacción con caldera y calefactores combinados con caldera: Potencia calorífica útil
+ | 
+Para aparatos de calefacción con caldera y calefactores combinados con caldera: Eficiencia útil
+ | 
+A potencia calorífica nominal y régimen de alta temperatura (*1)
+ | 
+ P4
+ | 
+x,x
+ | 
+kW
+ | 
+A potencia calorífica nominal y régimen de alta temperatura (*1)
+ | 
+ η4
+ | 
+x,x
+ | 
+%
+ | 
+A 30 % de potencia calorífica nominal y régimen de baja temperatura (*2)
+ | 
+ P1
+ | 
+x,x
+ | 
+kW
+ | 
+A 30 % de potencia calorífica nominal y régimen de baja temperatura (*2)
+ | 
+ η1
+ | 
+x,x
+ | 
+%
+ | 
+Para aparatos de calefacción de cogeneración: Potencia calorífica útil
+ | 
+Para aparatos de calefacción de cogeneración: Eficiencia útil
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario desactivado
+ | 
+ PCHP100+Sup0
+ | 
+x,x
+ | 
+kW
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario desactivado
+ | 
+ ηCHP100+Sup0
+ | 
+x,x
+ | 
+%
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario activado
+ | 
+ PCHP100+Sup100
+ | 
+x,x
+ | 
+kW
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario activado
+ | 
+ ηCHP100+Sup100
+ | 
+x,x
+ | 
+%
+ | 
+Para aparatos de calefacción de cogeneración: Eficiencia eléctrica
+ | 
+Calefactor complementario
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario desactivado
+ | 
+ ηel,CHP100+Sup0
+ | 
+x,x
+ | 
+%
+ | 
+Potencia calorífica nominal
+ | 
+ Psup
+ | 
+x,x
+ | 
+kW
+ | 
+A potencia calorífica nominal del aparato de calefacción de cogeneración con calefactor complementario activado
+ | 
+ ηel,CHP100+Sup100
+ | 
+x,x
+ | 
+%
+ | 
+Tipo de insumo de energía
+ | 
+ | 
+Consumo de electricidad auxiliar
+ | 
+Otros elementos
+ | 
+A plena carga
+ | 
+ elmax
+ | 
+x,x
+ | 
+kW
+ | 
+Pérdida de calor en modo de espera
+ | 
+ Pstby
+ | 
+x,x
+ | 
+kW
+ | 
+A carga parcial
+ | 
+ elmin
+ | 
+x,x
+ | 
+kW
+ | 
+Consumo de electricidad del quemador de encendido
+ | 
+ Pign
+ | 
+x,x
+ | 
+kW
+ | 
+En modo de espera
+ | 
+ PSB
+ | 
+x,xxx
+ | 
+kW
+ | 
+Consumo de energía anual
+ | 
+ QHE
+ | 
+x
+ | 
+kWh or GJ
+ | 
+Nivel de potencia acústica en interiores
+ | 
+ LWA
+ | 
+x
+ | 
+dB
+ | 
+Para los calefactores combinados:
+ | 
+ Perfil de carga declarado
+ | 
+ | 
+ | 
+ Eficiencia energética de caldeo de agua
+ | 
+ ηwh
+ | 
+x
+ | 
+%
+ | 
+Consumo diario de electricidad
+ | 
+ Qelec
+ | 
+x,xxx
+ | 
+kWh
+ | 
+Consumo diario de combustible
+ | 
+ Qfuel
+ | 
+x,xxx
+ | 
+kWh
+ | 
+Consumo anual de electricidad
+ | 
+ AEC
+ | 
+x
+ | 
+kWh
+ | 
+Consumo anual de combustible
+ | 
+ AFC
+ | 
+x
+ | 
+GJ
+ | 
+Datos de contacto
+ | 
+Nombre y dirección del proveedor
+ | 
+ Cuadro 8
+ Parámetros técnicos para los aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor:
+Modelos: [Datos que identifican el modelo o modelos a que se refiere la información]
+ | 
+Bomba de calor aire-agua: [sí/no]
+ | 
+Bomba de calor agua-agua: [sí/no]
+ | 
+Bomba de calor salmuera-agua: [sí/no]
+ | 
+Bomba de calor de baja temperatura: [sí/no]
+ | 
+Equipado con un calefactor complementario: [sí/no]
+ | 
+Calefactor combinado con bomba de calor: [sí/no]
+ | 
+Los parámetros se declararán para aplicaciones de media temperatura, excepto si se trata de bombas de calor de baja temperatura. En el caso de las bombas de calor de baja temperatura, los parámetros se declararán para aplicaciones de baja temperatura.
+ | 
+Los parámetros se declararán para condiciones climáticas medias, más frías y más cálidas.
+ | 
+ Elemento
+ | 
+ Símbolo
+ | 
+ Valor
+ | 
+ Unidad
+ | 
+ | 
+ Elemento
+ | 
+ Símbolo
+ | 
+ Valor
+ | 
+ Unidad
+ | 
+ Potencia calorífica nominal
+  (*3)
+ | 
+ Prated
+ | 
+x
+ | 
+kW
+ | 
+ Eficiencia energética estacional de calefacción
+ | 
+ ηs
+ | 
+x
+ | 
+%
+ | 
+Capacidad declarada de calefacción para carga parcial a temperatura interior de 20 °C y temperatura exterior Tj
+ | 
+Coeficiente de rendimiento declarado o relación de energía primaria para carga parcial a temperatura interior de 20 °C y temperatura exterior Tj
+ | 
+ Tj
+ = – 7 °C
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+ = – 7 °C
+ | 
+ COPd or PERd
+ | 
+x,xx or x,x
+ | 
+– or %
+ | 
+ Tj
+ = + 2 °C
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+ = + 2 °C
+ | 
+ COPd or PERd
+ | 
+x,xx or x,x
+ | 
+– or %
+ | 
+ Tj
+ = + 7 °C
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+ = + 7 °C
+ | 
+ COPd or PERd
+ | 
+x,xx or x,x
+ | 
+– or %
+ | 
+ Tj
+ = + 12 °C
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+ = + 12 °C
+ | 
+ COPd or PERd
+ | 
+x,xx or x,x
+ | 
+– or %
+ | 
+ Tj
+ = temperatura bivalente
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+ = temperatura bivalente
+ | 
+ COPd or PERd
+ | 
+x,xx or x,x
+ | 
+– or %
+ | 
+ Tj
+ = límite de funcionamiento
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+ Tj
+ = límite de funcionamiento
+ | 
+ COPd or PERd
+ | 
+x,xx or x,x
+ | 
+– or %
+ | 
+Para bombas de calor aire-agua: Tj
+ = – 15 °C (si TOL < – 20 °C)
+ | 
+ Pdh
+ | 
+x,x
+ | 
+kW
+ | 
+Para bombas de calor aire-agua: Tj
+ = – 15 °C (si TOL < – 20 °C)
+ | 
+ COPd or PERd
+ | 
+x,xx or x,x
+ | 
+– or %
+ | 
+Temperatura bivalente
+ | 
+ Tbiv
+ | 
+x
+ | 
+°C
+ | 
+Para bombas de calor aire-agua: Temperatura límite de funcionamiento
+ | 
+ TOL
+ | 
+x
+ | 
+°C
+ | 
+Eficiencia del intervalo cíclico para calefacción
+ | 
+ Pcych
+ | 
+x,x
+ | 
+kW
+ | 
+Eficiencia del intervalo cíclico
+ | 
+ COPcyc or PERcyc
+ | 
+x,xx or x,x
+ | 
+– or %
+ | 
+Coeficiente de degradación (*4)
+ | 
+ Cdh
+ | 
+x,x
+ | 
+—
+ | 
+Temperatura límite de calentamiento de agua
+ | 
+ WTOL
+ | 
+x
+ | 
+°C
+ | 
+Consumo de electricidad en modos distintos del activo
+ | 
+Calefactor complementario
+ | 
+Modo desactivado
+ | 
+ POFF
+ | 
+x,xxx
+ | 
+kW
+ | 
+Potencia calorífica nominal (*4)
+ | 
+ Psup
+ | 
+x,x
+ | 
+kW
+ | 
+Modo desactivado por termostato
+ | 
+ PTO
+ | 
+x,xxx
+ | 
+kW
+ | 
+ | 
+ | 
+Modo de espera
+ | 
+ PSB
+ | 
+x,xxx
+ | 
+kW
+ | 
+Tipo de insumo de energía
+ | 
+Modo de calentador del cárter
+ | 
+ PCK
+ | 
+x,xxx
+ | 
+kW
+ | 
+ | 
+Otros elementos
+ | 
+ | 
+Control de capacidad
+ | 
+fijo/variable
+ | 
+Para bombas de calor aire-agua: Caudal de aire nominal (exterior)
+ | 
+—
+ | 
+x
+ | 
+m3/h
+ | 
+Nivel de potencia acústica (interiores/exteriores)
+ | 
+ LWA
+ | 
+x / x
+ | 
+dB
+ | 
+Para bombas de calor agua-agua o salmuera-agua: Caudal de salmuera o de agua nominal, intercambiador de calor de exterior
+ | 
+—
+ | 
+x
+ | 
+m3/h
+ | 
+Consumo de energía anual
+ | 
+ QHE
+ | 
+x
+ | 
+kWh or GJ
+ | 
+Para calefactores combinados con bomba de calor:
+ | 
+ Perfil de carga declarado
+ | 
+x
+ | 
+ | 
+ Eficiencia energética de caldeo de agua
+ | 
+ ηwh
+ | 
+x
+ | 
+%
+ | 
+Consumo diario de electricidad
+ | 
+ Qelec
+ | 
+x,xxx
+ | 
+kWh
+ | 
+Consumo diario de combustible
+ | 
+ Qfuel
+ | 
+x,xxx
+ | 
+kWh
+ | 
+Consumo anual de electricidad
+ | 
+ AEC
+ | 
+x
+ | 
+kWh
+ | 
+Consumo anual de combustible
+ | 
+ AFC
+ | 
+x
+ | 
+GJ
+ | 
+Datos de contacto
+ | 
+Nombre y dirección del proveedor
+ | 
+3.   CONTROLES DE TEMPERATURA
+Para los controles de temperatura, la documentación técnica mencionada en el artículo 3, apartado 3, letra b), comprenderá:
+(a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+(b)
+ | 
+una descripción del modelo de control de temperatura suficiente para su identificación inequívoca;
+ | 
+(c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+(d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+(e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+(f)
+ | 
+parámetros técnicos:
+—
+ | 
+la clase del control de temperatura;
+ | 
+—
+ | 
+la contribución del control de temperatura a la eficiencia energética estacional de calefacción en porcentaje, redondeada al primer decimal;
+ | 
+ | 
+(g)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del control de temperatura.
+ | 
+4.   DISPOSITIVOS SOLARES
+Para los dispositivos solares, la documentación técnica mencionada en el artículo 3, apartado 4, letra b), comprenderá:
+(a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+(b)
+ | 
+una descripción del modelo de dispositivo solar suficiente para su identificación inequívoca;
+ | 
+(c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+(d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+(e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+(f)
+ | 
+parámetros técnicos (para las bombas del circuito del colector, si procede):
+—
+ | 
+el área de apertura del colector Asol
+ en m2, redondeada al segundo decimal;
+ | 
+—
+ | 
+la eficiencia del colector ηcol
+ en porcentaje, redondeada al número entero más próximo;
+ | 
+—
+ | 
+la clase de eficiencia energética del depósito de agua caliente solar, determinada con arreglo al punto 3 del anexo II;
+ | 
+—
+ | 
+la pérdida estática S de calor del depósito de agua caliente solar en W, redondeada al número entero más próximo;
+ | 
+—
+ | 
+el volumen de almacenamiento V del depósito de agua caliente solar, en litros y m3;
+ | 
+—
+ | 
+la contribución calorífica anual no solar Qnonsol
+ en kWh en términos de energía primaria para electricidad y/o en kWh en términos del GCV para combustibles, para los perfiles de carga M, L, XL y XXL en condiciones climáticas medias, redondeada al número entero más próximo;
+ | 
+—
+ | 
+el consumo de electricidad de la bomba solpump en W, redondeado al número entero más próximo;
+ | 
+—
+ | 
+el consumo eléctrico en modo espera solstandby, en W, redondeado al segundo decimal;
+ | 
+—
+ | 
+el consumo anual de electricidad auxiliar Qaux
+ en kWh en términos de la energía final, redondeado al número entero más próximo;
+ | 
+ | 
+(g)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del dispositivo solar.
+ | 
+5.   EQUIPOS COMBINADOS DE APARATO DE CALEFACCIÓN, CONTROL DE TEMPERATURA Y DISPOSITIVO SOLAR
+Para los equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar, la documentación técnica mencionada en el artículo 3, apartado 5, letra c), comprenderá:
+(a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+(b)
+ | 
+una descripción del modelo de equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar suficiente para su identificación inequívoca;
+ | 
+(c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+(d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+(e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+(f)
+ | 
+parámetros técnicos:
+—
+ | 
+la eficiencia energética estacional de calefacción en %, redondeada al número entero más próximo;
+ | 
+—
+ | 
+los parámetros técnicos establecidos en los puntos 1, 3 y 4 del presente anexo;
+ | 
+ | 
+(g)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del equipo combinado de aparato de calefacción, control de temperatura y dispositivo solar.
+ | 
+6.   EQUIPOS COMBINADOS DE CALEFACTOR, CONTROL DE TEMPERATURA Y DISPOSITIVO SOLAR
+Para los equipos combinados de calefactor, control de temperatura y dispositivo solar, la documentación técnica mencionada en el artículo 3, apartado 6, letra c), comprenderá:
+(a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+(b)
+ | 
+una descripción del modelo de equipo combinado de calefactor, control de temperatura y dispositivo solar suficiente para su identificación inequívoca;
+ | 
+(c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+(d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+(e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+(f)
+ | 
+parámetros técnicos:
+—
+ | 
+la eficiencia energética estacional de calefacción y la eficiencia energética de caldeo de agua en %, redondeada al número entero más próximo;
+ | 
+—
+ | 
+los parámetros técnicos establecidos en los puntos 2, 3 y 4 del presente anexo;
+ | 
+ | 
+(g)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del equipo combinado de calefactor, control de temperatura y dispositivo solar.
+ | 
+ (*1)  Régimen de alta temperatura significa una temperatura de retorno de 60 °C a la entrada del calefactor y una temperatura de alimentación de 80 °C a la salida del calefactor.
+ (*2)  Baja temperatura significa una temperatura de retorno (a la entrada del calefactor) de 30 °C para las calderas de condensación, 37 °C para las calderas de baja temperatura, y 50 °C para los demás aparatos de calefacción.
+ (*3)  Para los aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor, la potencia calorífica nominal Prated es igual a la carga de calefacción de diseño Pdesignh, y la potencia calorífica nominal de un calefactor complementario Psup es igual a la capacidad complementaria de calefacción sup(Tj).
+ (*4)  Si el Cdh no se determina por medición, el coeficiente de degradación por defecto es Cdh = 0,9.
+ANEXO VI
+ Información que debe facilitarse en los casos en que el usuario final no tenga la posibilidad de ver el producto expuesto
+1.   APARATOS DE CALEFACCIÓN
+1.1.
+ | 
+ La información contemplada en el artículo 4, apartado 1, letra b), se facilitará en el siguiente orden:
+(a)
+ | 
+la clase de eficiencia energética estacional de calefacción del modelo, determinada de conformidad con el punto 1 del anexo II;
+ | 
+(b)
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, redondeada al número entero más próximo (para los aparatos de calefacción con bomba de calor, en condiciones climáticas medias);
+ | 
+(c)
+ | 
+la eficiencia energética estacional de calefacción en porcentaje, redondeada al número entero más próximo y calculada de conformidad con los puntos 3 y 4 del anexo VII (para los aparatos de calefacción con bomba de calor, en condiciones climáticas medias);
+ | 
+(d)
+ | 
+el consumo anual de energía en kWh en términos de la energía final y/o en GJ en términos de GCV, redondeado al número entero más próximo y calculado de conformidad con los puntos 3 y 4 del anexo VII (para los aparatos de calefacción con bomba de calor, en condiciones climáticas medias);
+ | 
+(e)
+ | 
+el nivel de potencia acústica LWA
+ en interiores, en dB, redondeado al número entero más próximo (llegado el caso, para los aparatos de calefacción con bomba de calor);
+ | 
+además, en lo que respecta a los aparatos de calefacción de cogeneración:
+(f)
+ | 
+la eficiencia eléctrica en porcentaje, redondeada al número entero más próximo;
+ | 
+además, en lo que respecta a los aparatos de calefacción con bomba de calor:
+(g)
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo;
+ | 
+(h)
+ | 
+la eficiencia energética estacional de calefacción en porcentaje, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo y calculada de conformidad con el punto 4 del anexo VII;
+ | 
+(i)
+ | 
+el consumo anual de energía en kWh en términos de la energía final y/o en GJ en términos de GCV, en condiciones climáticas más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VII;
+ | 
+(j)
+ | 
+el nivel de potencia acústica LWA
+ en exteriores, en dB, redondeado al número entero más próximo;
+ | 
+además, en lo que respecta a los aparatos de calefacción con bomba de calor de baja temperatura:
+(k)
+ | 
+una indicación de que la bomba de calor de baja temperatura solo es adecuada para aplicaciones de baja temperatura;
+ | 
+ | 
+1.2.
+ | 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en el punto 1.1 deberán ser legibles.
+ | 
+2.   CALEFACTORES COMBINADOS
+2.1.
+ | 
+ La información contemplada en el artículo 4, apartado 2, letra b), se facilitará en el siguiente orden:
+(a)
+ | 
+para calentar espacios, la aplicación de temperatura media; para calentar agua, el perfil de carga declarado, expresado como la letra y el uso típico adecuados con arreglo al cuadro 15 del anexo VII;
+ | 
+(b)
+ | 
+la clase de eficiencia energética estacional de calefacción y de eficiencia energética de caldeo de agua del modelo, determinada de conformidad con los puntos 1 y 2 del anexo II;
+ | 
+(c)
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, redondeada al número entero más próximo (para los calefactores combinados con bomba de calor, en condiciones climáticas medias);
+ | 
+(d)
+ | 
+para calentar espacios, el consumo anual de energía en kWh en términos de la energía final y/o en GJ en términos de GCV, redondeado al número entero más próximo y calculado de conformidad con los puntos 3 y 4 del anexo VII (para los calefactores combinados con bomba de calor, en condiciones climáticas medias); para calentar agua, el consumo anual de electricidad en kWh en términos de la energía final y/o el consumo anual de combustible en GJ en términos de GCV, redondeado al número entero más próximo y calculado de conformidad con el punto 5 del anexo VII (para los calefactores combinados con bomba de calor, en condiciones climáticas medias);
+ | 
+(e)
+ | 
+la eficiencia energética estacional de calefacción en porcentaje, redondeada al número entero más próximo y calculada de conformidad con los puntos 3 y 4 del anexo VII (para los calefactores combinados con bomba de calor, en condiciones climáticas medias); la eficiencia energética del caldeo de agua en porcentaje, redondeada al número entero más próximo y calculada de conformidad con el punto 5 del anexo VII (para los calefactores combinados con bomba de calor, en condiciones climáticas medias);
+ | 
+(f)
+ | 
+el nivel de potencia acústica LWA
+ en interiores, en dB, redondeado al número entero más próximo (llegado el caso, para los calefactores combinados con bomba de calor);
+ | 
+(g)
+ | 
+llegado el caso, una indicación de que el calefactor combinado puede funcionar solamente durante las horas de baja demanda;
+ | 
+además, en lo que respecta a los calefactores combinados con bomba de calor:
+(h)
+ | 
+la potencia calorífica nominal, incluida, en su caso, la potencia calorífica nominal de los calefactores complementarios, expresada en kW, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo;
+ | 
+(i)
+ | 
+para calentar espacios, el consumo anual de energía en kWh en términos de la energía final y/o en GJ en términos de GCV, en condiciones climáticas más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VII; para calentar agua, el consumo anual de electricidad en kWh en términos de la energía final y/o el consumo anual de combustible en GJ en términos de GCV, en condiciones climáticas más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 5 del anexo VII;
+ | 
+(j)
+ | 
+la eficiencia energética estacional de calefacción en porcentaje, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo y calculada de conformidad con el punto 4 del anexo VII; la eficiencia energética de caldeo de agua en porcentaje, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo y calculada de conformidad con el punto 5 del anexo VII;
+ | 
+(k)
+ | 
+el nivel de potencia acústica LWA
+ , en exteriores, en dB, redondeado al número entero más próximo.
+ | 
+ | 
+2.2.
+ | 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en el punto 2,1 deberán ser legibles.
+ | 
+3.   EQUIPOS COMBINADOS DE APARATO DE CALEFACCIÓN, CONTROL DE TEMPERATURA Y DISPOSITIVO SOLAR
+3.1.
+ | 
+ La información contemplada en el artículo 4, apartado 3, letra b), se facilitará en el siguiente orden:
+(a)
+ | 
+la clase de eficiencia energética estacional de calefacción del modelo, determinada de conformidad con el punto 1 del anexo II;
+ | 
+(b)
+ | 
+la eficiencia energética estacional de calefacción en %, redondeada al número entero más próximo;
+ | 
+(c)
+ | 
+los elementos indicados en las figuras 1, 2, 3 y 4, respectivamente, del anexo IV.
+ | 
+ | 
+3.2.
+ | 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en el punto 3.1 deberán ser legibles.
+ | 
+4.   EQUIPOS COMBINADOS DE CALEFACTOR, CONTROL DE TEMPERATURA Y DISPOSITIVO SOLAR
+4.1.
+ | 
+ La información contemplada en el artículo 4, apartado 4, letra b), se facilitará en el siguiente orden:
+(a)
+ | 
+la clase de eficiencia energética estacional de calefacción y de eficiencia energética de caldeo de agua del modelo, determinada de conformidad con los puntos 1 y 2 del anexo II;
+ | 
+(b)
+ | 
+la eficiencia energética estacional de calefacción y la eficiencia energética de caldeo de agua en %, redondeada al número entero más próximo;
+ | 
+(c)
+ | 
+los elementos indicados en las figuras 1 y 3, respectivamente, del anexo IV;
+ | 
+(d)
+ | 
+los elementos indicados en la figura 5 del anexo IV.
+ | 
+ | 
+4.2.
+ | 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en el punto 4.1 deberán ser legibles.
+ | 
+ANEXO VII
+ Mediciones y cálculos
+1.   Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, se harán mediciones y cálculos utilizando normas armonizadas cuyos números de referencia hayan sido publicados a este efecto en el Diario Oficial de la Unión Europea, u otro método fiable, exacto y reproducible, que tenga en cuenta los métodos más avanzados generalmente aceptados. Dichas mediciones y cálculos cumplirán las condiciones y los parámetros técnicos establecidos en los puntos 2 a 6.
+2.   Condiciones generales aplicables a las mediciones y los cálculos
+(a)
+ | 
+ A efectos de las mediciones establecidas en los puntos 3 a 7, la temperatura ambiente en interiores se fijará en 20 °C.
+ | 
+(b)
+ | 
+ A efectos de los cálculos establecidos en los puntos 3 a 7, el consumo de electricidad se multiplicará por un coeficiente de conversión CC de 2,5, salvo si el consumo anual de electricidad se expresa en energía final para el usuario final, tal como establecen los puntos 3 b), 4 g), 5 e) y 6.
+ | 
+(c)
+ | 
+ En lo que se refiere a los calefactores equipados con calefactores complementarios, la medición y el cálculo de la potencia calorífica nominal, la eficiencia energética estacional de la calefacción, la eficiencia energética del caldeo de agua, el nivel de potencia acústica y las emisiones de óxidos de nitrógeno tendrán en cuenta el calefactor complementario.
+ | 
+(d)
+ | 
+ Los valores declarados de potencia calorífica nominal, eficiencia energética estacional de calefacción, eficiencia energética del caldeo de agua, consumo anual de energía y nivel de potencia acústica se redondearán al número entero más próximo.
+ | 
+3.   Eficiencia energética estacional de calefacción y consumo de aparatos de calefacción con caldera, calefactores combinados con caldera y aparatos de calefacción de cogeneración
+(a)
+ | 
+ La eficiencia energética estacional de calefacción de espacios ηs
+ se calculará como la eficiencia energética estacional de calefacción de espacios en modo activo ηson
+ , corregida con las aportaciones de los controles de temperatura, el consumo auxiliar de electricidad, la pérdida calorífica en modo de espera, el consumo energético del quemador de encendido (en su caso) y, en el caso de los aparatos de calefacción de cogeneración, la eficiencia eléctrica multiplicada por un coeficiente de conversión CC de 2,5.
+ | 
+(b)
+ | 
+ El consumo anual de energía QHE
+ en kWh en términos de energía final y/o en GJ en términos de GCV se calculará como la relación entre la demanda anual de calefacción de referencia y la eficiencia energética estacional de calefacción.
+ | 
+4.   Eficiencia energética estacional de calefacción y consumo de los aparatos de calefacción con bomba de calor y de los calefactores combinados con bomba de calor
+(a)
+ | 
+ Para establecer el coeficiente de rendimiento nominal COPrated
+ o la relación nominal de energía primaria PERrated
+ , o el nivel de potencia acústica, las condiciones de funcionamiento serán las condiciones estándar que figuran en el cuadro 9 y se utilizará la misma capacidad de calefacción declarada.
+ | 
+(b)
+ | 
+ El coeficiente de rendimiento en modo activo SCOPon
+ para condiciones climáticas medias, más frías y más cálidas se calculará a partir de la carga parcial de calefacción Ph(Tj), la capacidad complementaria de calefacción sup(Tj) (en su caso), y el coeficiente de rendimiento de un período determinado de temperatura COPbin(Tj) o la relación de energía primaria de un período determinado de temperatura PERbin(Tj), ponderado por las horas del periodo en que se dan las condiciones definidas para ese periodo, en las condiciones siguientes:
+—
+ | 
+las condiciones de diseño de referencia que figuran en el cuadro 10;
+ | 
+—
+ | 
+la temporada de calefacción de referencia europea en las condiciones medias, más frías y más cálidas que figuran en el cuadro 12;
+ | 
+—
+ | 
+cuando proceda, los efectos de la degradación de la eficiencia energética causados por el ciclo dependiendo del tipo de control de la potencia de calefacción.
+ | 
+ | 
+(c)
+ | 
+ La demanda anual de calefacción de referencia QH
+ será la carga de calefacción de diseño Pdesignh para condiciones climáticas medias, más frías y más cálidas, multiplicada por las horas anuales en modo activo equivalente HHE
+ de 2 066, 2 465 y 1 336 para condiciones medias, más frías y más cálidas, respectivamente.
+ | 
+(d)
+ | 
+ El consumo anual de energía QHE
+ se calculará como la suma de:
+—
+ | 
+la relación entre la demanda anual de calefacción de referencia QH
+ y el coeficiente de rendimiento en modo activo SCOPon
+ o la relación de energía primaria en modo activo SPERon
+ y
+ | 
+—
+ | 
+el consumo de energía en los modos «desactivado», «desactivado por termostato», «de espera», y «dispositivo de calentamiento del cárter» durante la temporada de calefacción.
+ | 
+ | 
+(e)
+ | 
+ El coeficiente de rendimiento estacional en modo activo SCOP o relación estacional de energía primaria SPER se calculará dividiendo la demanda anual de calefacción de referencia QH
+ por el consumo anual de energía QHE
+ .
+ | 
+(f)
+ | 
+ La eficiencia energética estacional de calefacción de espacios ηs
+ se calculará como el coeficiente de rendimiento estacional SCOP dividido entre el coeficiente de conversión CC o el factor energético primario estacional SPER, corregida con las aportaciones de los controles de temperatura y, en el caso de los aparatos de calefacción con bomba de calor agua/salmuera a agua y los calefactores combinados con bomba de calor, el consumo eléctrico de una o más bombas de agua subterránea.
+ | 
+(g)
+ | 
+ El consumo anual de energía QHE
+ en kWh en términos de energía final y/o en GJ en términos de GCV se calculará como la relación entre la demanda anual de calefacción de referencia QH
+ y la eficiencia energética estacional de calefacción ηs
+ .
+ | 
+5.   Eficiencia energética del caldeo de agua de los calefactores combinados
+La eficiencia energética de caldeo de agua ηwh
+ de un calefactor combinado se calculará como la relación entre la energía de referencia Qref
+ y la energía necesaria para su generación, en las siguientes condiciones:
+(a)
+ | 
+las mediciones se realizarán utilizando los perfiles de carga del cuadro 15;
+ | 
+(b)
+ | 
+las mediciones se realizarán utilizando un ciclo de medición de 24 horas, de la forma siguiente:
+—
+ | 
+00:00 to 06:59: ninguna salida de agua;
+ | 
+—
+ | 
+a partir las 07:00 horas: salidas de agua conforme al perfil de carga declarado;
+ | 
+—
+ | 
+a partir del final de la última salida de agua hasta las 24:00 horas: ninguna salida de agua;
+ | 
+ | 
+(c)
+ | 
+el perfil de carga declarado será el perfil de carga máximo o el perfil de carga que esté un grado por debajo del perfil de carga máximo;
+ | 
+(d)
+ | 
+en el caso de los calefactores combinados con bomba de calor, se aplicarán las siguientes condiciones adicionales:
+—
+ | 
+los calefactores combinados con bomba de calor se comprobarán en las condiciones recogidas en el cuadro 9;
+ | 
+—
+ | 
+los calefactores combinados con bomba de calor que utilicen el aire de escape de la ventilación como fuente de calor se comprobarán en las condiciones recogidas en el cuadro 11;
+ | 
+ | 
+(e)
+ | 
+el consumo anual de electricidad AEC en kWh en términos de energía final se calculará como el consumo diario de electricidad Qelec
+ en kWh en términos de la energía final multiplicada por 220;
+ | 
+(f)
+ | 
+el consumo anual de combustible AFC en GJ en términos de GCV se calculará como el consumo diario de combustible Qfuel
+ multiplicado por 220.
+ | 
+6.   Condiciones aplicables a las mediciones y a los cálculos de dispositivos solares
+El colector solar, el depósito de agua caliente solar y la bomba en el circuito del colector (si es el caso) se someterán a ensayo por separado. Cuando el colector solar y el depósito de agua caliente solar no puedan someterse a ensayo por separado, lo harán en combinación.
+Los resultados se utilizarán para determinar la pérdida estática S y los cálculos de la eficiencia del colector ηcol
+ , la contribución calorífica anual no solar Qnonsol
+ para los perfiles de carga M, L, XL y XXL en las condiciones climáticas medias indicadas en los cuadros 13 y 14, y el consumo anual de electricidad auxiliar Qaux
+ en kWh en términos de energía final.
+ Cuadro 9
+ Condiciones estándar para los aparatos de calefacción con bomba de calor y los calefactores combinados con bomba de calor
+Fuente de calor
+ | 
+Intercambiador de calor de exterior
+ | 
+Intercambiador de calor de interior
+ | 
+Condiciones climáticas
+ | 
+Temperatura de entrada de bulbo seco (bulbo húmedo)
+ | 
+Aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor, salvo bombas de calor de baja temperatura
+ | 
+Bombas de calor de baja temperatura
+ | 
+Temperatura de entrada
+ | 
+Temperatura de salida
+ | 
+Temperatura de entrada
+ | 
+Temperatura de salida
+ | 
+Aire exterior
+ | 
+Medias
+ | 
++ 7 °C
+(+ 6 °C)
+ | 
++47  °C
+ | 
++55  °C
+ | 
++30  °C
+ | 
++35  °C
+ | 
+ | 
+Más frías
+ | 
++ 2 °C
+(+ 1 °C)
+ | 
+ | 
+Más cálidas
+ | 
++ 14 °C
+(+ 13 °C)
+ | 
+Aire de extracción
+ | 
+Todas
+ | 
++ 20 °C
+(+ 12 °C)
+ | 
+ | 
+ | 
+Temperatura de entrada/salida
+ | 
+Agua
+ | 
+Todas
+ | 
++ 10 °C /
++ 7 °C
+ | 
+Salmuera
+ | 
+Todas
+ | 
+0 °C/– 3 °C
+ | 
+ Cuadro 10
+ Condiciones de diseño de referencia para aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor, temperaturas indicadas en temperatura del aire de bulbo seco (entre paréntesis se indica la temperatura de bulbo húmedo)
+Condiciones climáticas
+ | 
+Temperatura de diseño de referencia
+ | 
+Temperatura bivalente
+ | 
+Temperatura límite de funcionamiento
+ | 
+ Tdesignh
+ | 
+ Tbiv
+ | 
+ TOL
+ | 
+Medias
+ | 
+– 10 (– 11) °C
+ | 
+máximo + 2 °C
+ | 
+máximo – 7 °C
+ | 
+Más frías
+ | 
+– 22 (– 23) °C
+ | 
+máximo – 7 °C
+ | 
+máximo – 15 °C
+ | 
+Más cálidas
+ | 
++ 2 (+ 1) °C
+ | 
+máximo + 7 °C
+ | 
+máximo + 2 °C
+ | 
+ Cuadro 11
+ Aire de escape de la ventilación máximo disponible [m3/h], con 5,5 g/m3 de humedad
+Perfil de carga declarado
+ | 
+XXS
+ | 
+XS
+ | 
+S
+ | 
+M
+ | 
+L
+ | 
+XL
+ | 
+XXL
+ | 
+Máxima disponibilidad de aire de extracción de ventilación
+ | 
+109 
+ | 
+128 
+ | 
+128 
+ | 
+159 
+ | 
+190 
+ | 
+870 
+ | 
+1 021 
+ | 
+ Cuadro 12
+ Temporada de calefacción europea de referencia en condiciones climáticas medias, más frías y más cálidas para aparatos de calefacción con bomba de calor y calefactores combinados con bomba de calor
+ binj
+ | 
+ Tj
+ [°C]
+ | 
+Condiciones climáticas medias
+ | 
+Condiciones climáticas más frías
+ | 
+Condiciones climáticas más cálidas
+ | 
+ Hj
+ [h/año]
+ | 
+ Hj
+ [h/año]
+ | 
+ Hj
+ [h/año]
+ | 
+1 a 8
+ | 
+– 30 a – 23
+ | 
+0 
+ | 
+0 
+ | 
+0 
+ | 
+9 
+ | 
+–22 
+ | 
+0 
+ | 
+1 
+ | 
+0 
+ | 
+10 
+ | 
+–21 
+ | 
+0 
+ | 
+6 
+ | 
+0 
+ | 
+11 
+ | 
+–20 
+ | 
+0 
+ | 
+13 
+ | 
+0 
+ | 
+12 
+ | 
+–19 
+ | 
+0 
+ | 
+17 
+ | 
+0 
+ | 
+13 
+ | 
+–18 
+ | 
+0 
+ | 
+19 
+ | 
+0 
+ | 
+14 
+ | 
+–17 
+ | 
+0 
+ | 
+26 
+ | 
+0 
+ | 
+15 
+ | 
+–16 
+ | 
+0 
+ | 
+39 
+ | 
+0 
+ | 
+16 
+ | 
+–15 
+ | 
+0 
+ | 
+41 
+ | 
+0 
+ | 
+17 
+ | 
+–14 
+ | 
+0 
+ | 
+35 
+ | 
+0 
+ | 
+18 
+ | 
+–13 
+ | 
+0 
+ | 
+52 
+ | 
+0 
+ | 
+19 
+ | 
+–12 
+ | 
+0 
+ | 
+37 
+ | 
+0 
+ | 
+20 
+ | 
+–11 
+ | 
+0 
+ | 
+41 
+ | 
+0 
+ | 
+21 
+ | 
+–10 
+ | 
+1 
+ | 
+43 
+ | 
+0 
+ | 
+22 
+ | 
+–9 
+ | 
+25 
+ | 
+54 
+ | 
+0 
+ | 
+23 
+ | 
+–8 
+ | 
+23 
+ | 
+90 
+ | 
+0 
+ | 
+24 
+ | 
+–7 
+ | 
+24 
+ | 
+125 
+ | 
+0 
+ | 
+25 
+ | 
+–6 
+ | 
+27 
+ | 
+169 
+ | 
+0 
+ | 
+26 
+ | 
+–5 
+ | 
+68 
+ | 
+195 
+ | 
+0 
+ | 
+27 
+ | 
+–4 
+ | 
+91 
+ | 
+278 
+ | 
+0 
+ | 
+28 
+ | 
+–3 
+ | 
+89 
+ | 
+306 
+ | 
+0 
+ | 
+29 
+ | 
+–2 
+ | 
+165 
+ | 
+454 
+ | 
+0 
+ | 
+30 
+ | 
+–1 
+ | 
+173 
+ | 
+385 
+ | 
+0 
+ | 
+31 
+ | 
+0 
+ | 
+240 
+ | 
+490 
+ | 
+0 
+ | 
+32 
+ | 
+1 
+ | 
+280 
+ | 
+533 
+ | 
+0 
+ | 
+33 
+ | 
+2 
+ | 
+320 
+ | 
+380 
+ | 
+3 
+ | 
+34 
+ | 
+3 
+ | 
+357 
+ | 
+228 
+ | 
+22 
+ | 
+35 
+ | 
+4 
+ | 
+356 
+ | 
+261 
+ | 
+63 
+ | 
+36 
+ | 
+5 
+ | 
+303 
+ | 
+279 
+ | 
+63 
+ | 
+37 
+ | 
+6 
+ | 
+330 
+ | 
+229 
+ | 
+175 
+ | 
+38 
+ | 
+7 
+ | 
+326 
+ | 
+269 
+ | 
+162 
+ | 
+39 
+ | 
+8 
+ | 
+348 
+ | 
+233 
+ | 
+259 
+ | 
+40 
+ | 
+9 
+ | 
+335 
+ | 
+230 
+ | 
+360 
+ | 
+41 
+ | 
+10 
+ | 
+315 
+ | 
+243 
+ | 
+428 
+ | 
+42 
+ | 
+11 
+ | 
+215 
+ | 
+191 
+ | 
+430 
+ | 
+43 
+ | 
+12 
+ | 
+169 
+ | 
+146 
+ | 
+503 
+ | 
+44 
+ | 
+13 
+ | 
+151 
+ | 
+150 
+ | 
+444 
+ | 
+45 
+ | 
+14 
+ | 
+105 
+ | 
+97 
+ | 
+384 
+ | 
+46 
+ | 
+15 
+ | 
+74 
+ | 
+61 
+ | 
+294 
+ | 
+Total hours:
+ | 
+4 910 
+ | 
+6 446 
+ | 
+3 590 
+ | 
+ Cuadro 13
+ Temperatura diurna media [°C]
+ | 
+Enero
+ | 
+Febrero
+ | 
+Marzo
+ | 
+Abril
+ | 
+Mayo
+ | 
+Junio
+ | 
+Julio
+ | 
+Agosto
+ | 
+Septiembre
+ | 
+Octubre
+ | 
+Noviembre
+ | 
+Diciembre
+ | 
+Condiciones climáticas medias
+ | 
++2,8 
+ | 
++2,6 
+ | 
++7,4 
+ | 
++12,2 
+ | 
++16,3 
+ | 
++19,8 
+ | 
++21,0 
+ | 
++22,0 
+ | 
++17,0 
+ | 
++11,9 
+ | 
++5,6 
+ | 
++3,2 
+ | 
+ Cuadro 14
+ Irradiancia solar global media [W/m2]
+ | 
+Enero
+ | 
+Febrero
+ | 
+Marzo
+ | 
+Abril
+ | 
+Mayo
+ | 
+Junio
+ | 
+Julio
+ | 
+Agosto
+ | 
+Septiembre
+ | 
+Octubre
+ | 
+Noviembre
+ | 
+Diciembre
+ | 
+Condiciones climáticas medias
+ | 
+70 
+ | 
+104 
+ | 
+149 
+ | 
+192 
+ | 
+221 
+ | 
+222 
+ | 
+232 
+ | 
+217 
+ | 
+176 
+ | 
+129 
+ | 
+80 
+ | 
+56 
+ | 
+ Cuadro 15
+ Perfiles de carga de caldeo de agua de los calefactores combinados
+h
+ | 
+ 3XS
+ | 
+ XXS
+ | 
+ XS
+ | 
+ S
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+07:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:05
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:15
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:26
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,525 
+ | 
+3 
+ | 
+35 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:01
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:05
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:15
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:25
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:30
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+09:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+09:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+10:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+11:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+11:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:45
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+12:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:45
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,525 
+ | 
+3 
+ | 
+35 
+ | 
+ 0,315 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+14:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+15:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+15:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+16:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+16:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+17:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+18:00
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:15
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+18:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+19:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+19:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:00
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 1,05 
+ | 
+3 
+ | 
+35 
+ | 
+ 0,42 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+20:45
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:46
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:00
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:15
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,525 
+ | 
+5 
+ | 
+45 
+ | 
+ | 
+21:35
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:45
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Qref
+ | 
+0,345 
+ | 
+2,100 
+ | 
+2,100 
+ | 
+2,100 
+ | 
+ Cuadro 15 (continuación)
+ Perfiles de carga de caldeo de agua de los calefactores combinados
+h
+ | 
+ M
+ | 
+ L
+ | 
+ XL
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ kWh
+ | 
+l/mn
+ | 
+°C
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+07:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:05
+ | 
+ 1,4 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ 1,4 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:15
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 1,82 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+07:26
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 4,42 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+08:01
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:05
+ | 
+ | 
+ | 
+ | 
+ | 
+ 3,605 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:25
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+11:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+12:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:45
+ | 
+ 0,315 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,315 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+14:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+17:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+18:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+19:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+19:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:30
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+20:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:46
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 4,42 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+21:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ 3,605 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+21:30
+ | 
+ 1,4 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 4,42 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+21:35
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Qref
+ | 
+5,845 
+ | 
+11,655 
+ | 
+19,07 
+ | 
+ Cuadro 15 (continuación)
+ Perfiles de carga de caldeo de agua de los calefactores combinados
+h
+ | 
+ XXL
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+07:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:05
+ | 
+ | 
+ | 
+ | 
+ | 
+07:15
+ | 
+ 1,82 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+07:26
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:30
+ | 
+ | 
+ | 
+ | 
+ | 
+07:45
+ | 
+ 6,24 
+ | 
+16 
+ | 
+10 
+ | 
+40 
+ | 
+08:01
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:05
+ | 
+ | 
+ | 
+ | 
+ | 
+08:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:25
+ | 
+ | 
+ | 
+ | 
+ | 
+08:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+11:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+12:00
+ | 
+ | 
+ | 
+ | 
+ | 
+12:30
+ | 
+ | 
+ | 
+ | 
+ | 
+12:45
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+14:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+17:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+18:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+19:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+19:30
+ | 
+ | 
+ | 
+ | 
+ | 
+20:00
+ | 
+ | 
+ | 
+ | 
+ | 
+20:30
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+20:45
+ | 
+ | 
+ | 
+ | 
+ | 
+20:46
+ | 
+ 6,24 
+ | 
+16 
+ | 
+10 
+ | 
+40 
+ | 
+21:00
+ | 
+ | 
+ | 
+ | 
+ | 
+21:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+21:30
+ | 
+ 6,24 
+ | 
+16 
+ | 
+10 
+ | 
+40 
+ | 
+21:35
+ | 
+ | 
+ | 
+ | 
+ | 
+21:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ Qref
+ | 
+24,53 
+ | 
+ANEXO VIII
+ Procedimiento de verificación a efectos de la vigilancia del mercado
+A efectos de la evaluación de la conformidad con los requisitos establecidos en los artículos 3 y 4, las autoridades de los Estados miembros aplicarán el siguiente procedimiento de verificación:
+1.
+ | 
+Las autoridades del Estado miembro someterán a ensayo una sola unidad por modelo de calefactor, control de temperatura y dispositivo solar y de equipo combinado de calefactor, control de temperatura y dispositivo solar y proporcionarán la información sobre los resultados de los ensayos a las autoridades de los demás Estados miembros.
+ | 
+2.
+ | 
+Se considerará que el modelo cumple los requisitos pertinentes si:
+(a)
+ | 
+en lo que se refiere a los calefactores, los equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar y los equipos combinados de calefactor, control de temperatura y dispositivo solar, la eficiencia energética estacional de calefacción ηs
+ no es más de un 8 % inferior al valor declarado, a la potencia calorífica nominal de la unidad;
+ | 
+(b)
+ | 
+en lo que se refiere a los calefactores combinados y a los equipos combinados de calefactor, control de temperatura y dispositivo solar, la eficiencia energética de caldeo de agua ηwh
+ no es más de un 8 % inferior al valor declarado, a la potencia calorífica nominal de la unidad;
+ | 
+(c)
+ | 
+en lo que se refiere a los calefactores, el nivel de potencia acústica LWA
+ no es más de 2 dB superior al valor declarado de la unidad;
+ | 
+(d)
+ | 
+en lo que se refiere a los controles de temperatura, la clase del control de temperatura es conforme a la clase declarada de la unidad;
+ | 
+(e)
+ | 
+en lo que se refiere a los dispositivos solares, la eficiencia del colector ηcol
+ no es más de un 5 % inferior al valor declarado de la unidad;
+ | 
+(f)
+ | 
+en lo que se refiere a los dispositivos solares, la pérdida estática S del depósito de agua caliente solar no es más de un 5 % superior al valor declarado de la unidad; y que
+ | 
+(g)
+ | 
+en lo que se refiere a los dispositivos solares, el consumo eléctrico auxiliar Qaux
+ no es más de un 5 % superior al valor declarado de la unidad.
+ | 
+ | 
+3.
+ | 
+Si no se alcanzan los resultados indicados en el punto 2, las autoridades del Estado miembro seleccionarán aleatoriamente tres unidades adicionales del mismo modelo para ensayo e informarán de los resultados de los ensayos a las autoridades de los demás Estados miembros y a la Comisión en el plazo de un mes desde la realización de los ensayos.
+ | 
+4.
+ | 
+Se considerará que el modelo cumple los requisitos pertinentes si:
+(a)
+ | 
+en lo que se refiere a los calefactores, los equipos combinados de aparato de calefacción, control de temperatura y dispositivo solar y los equipos combinados de calefactor, control de temperatura y dispositivo solar, el promedio de la eficiencia energética estacional de calefacción de espacios ηs
+ de las tres unidades no es más de un 8 % inferior al valor declarado a la potencia calorífica nominal de la unidad;
+ | 
+(b)
+ | 
+en lo que se refiere a los calefactores combinados y a los equipos combinados de calefactor, control de temperatura y dispositivo solar, el promedio de la eficiencia energética de caldeo de agua ηwh
+ de las tres unidades no es más de un 8 % inferior al valor declarado, a la potencia calorífica nominal de la unidad;
+ | 
+(c)
+ | 
+en lo que se refiere a los calefactores, el nivel de potencia acústica LWA
+ medio de las tres unidades no es más de 2 dB superior al valor declarado de la unidad;
+ | 
+(d)
+ | 
+en lo que se refiere a los controles de temperatura, la clase del control de temperatura de las tres unidades es conforme a la clase declarada de la unidad;
+ | 
+(e)
+ | 
+en lo que se refiere a los dispositivos solares, la eficiencia del colector ηcol
+ media de las tres unidades no es más de un 5 % inferior al valor declarado de la unidad;
+ | 
+(f)
+ | 
+en lo que se refiere a los dispositivos solares, el promedio de la pérdida estática S del depósito de agua caliente solar de las tres unidades no es más de un 5 % superior al valor declarado de la unidad; and
+ | 
+(g)
+ | 
+en lo que se refiere a los dispositivos solares, el promedio del consumo eléctrico auxiliar Qaux
+ de las tres unidades no es más de un 5 % superior al valor declarado de la unidad;
+ | 
+ | 
+5.
+ | 
+Si no se alcanzan los resultados contemplados en el punto 4, se considerará que el modelo no es conforme al presente Reglamento.
+ | 
+Las autoridades de los Estados miembros utilizarán los métodos de medición y cálculo establecidos en el anexo VII.

@@ -1,0 +1,147 @@
+BT_Doc_Contratacion-suministro_v8.doc 
+Página 1 de 3 
+Documentación para la  contratación de suministro eléctrico en Baja Tensión  en la 
+Comunidad Autónoma de Aragón. 
+(Desde el punto de vista de la Seguridad Industrial de las instalaciones eléctricas) 
+ 
+Consideraciones iniciales:  
+1. En el actual Reglamento Electro técnico para Baja Tensión no se marca ninguna obligación para 
+con la administración cuando se de un cambio de titularidad en una instalación eléctrica, y en 
+consecuencia no se prevé que se deba emitir ninguna certificación relativa a la Seguridad 
+Industrial de la instalación por esta circunstancia. Tan s ólo está  prevista la emisión del 
+correspondiente certificado de instalación cuando la empresa instaladora habilitada ha intervenido 
+realizando una nueva instalación, o cuando ha realizado una ampliación o mo dificación, sea o no 
+de importancia, de una instalación existente. 
+2. En la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, en su artículo 39 punto 3 dice  “Todas 
+las instalaciones destinadas a más de un consumidor tendrán la consideración de red de 
+distribución y deberán ser cedidas a la empresa distribuidora de la zona, la cual responderá de la 
+seguridad y calidad del suministro…”.  
+ El Real Decreto 1955/2000, de 1 de diciembre , por el que se regulan las actividades de 
+transporte, distribución, comerc ialización, suministro y procedimientos de autorización de 
+instalaciones de energía eléctrica , en su artículo 45 punto 6 dice  “… todas las instalaciones 
+destinadas a más de un consumidor tendrán la consideración de red de distribución, debiendo ser 
+cedidas a la empresa distribuidora de la zona… ”  “las empresas distribuidoras a quienes hayan 
+sido cedidas instalaciones destinadas a más de un consumidor deberán informar a la Dirección 
+General de Política Energética y Minas, con carácter anual y durante el pr imer trimestre de cada 
+año, de las instalaciones de distribución que han sido objeto de cesión y de las condiciones de la 
+misma. “ A su vez en el artículo 111 punto 6 dice “ Quedan excluidas del régimen de autorización 
+las instalaciones de tensión inferior a 1 kV.” 
+ Por tanto las redes de distribución de baja tensión, dado que no son objeto de autorización, 
+destinadas a más de un consumidor  deberán ser cedidas a la empresa distribuidora de la zona y 
+esta informar de las instalaciones de distribución que le han sido cedidas. 
+3. En el artículo 5 de la ORDEN EIE/1731/2017, de 5 de octubre, de regulación de determinados 
+procedimientos administrativos en materia de seguridad industrial de las instalaciones eléctricas 
+de baja tensión, establece que: “Se considera titular de la instalación a la persona física o jurídica 
+que figura como responsable ante la Administración, de las obligaciones impuestas en la 
+normativa y reglamentación vigente. Podrá ser el propietario, arrendatario, administrador, gestor, 
+usuario o cualquier otra cuyo título le confiera esa responsabilidad”. 
+BT_Doc_Contratacion-suministro_v8.doc 
+Página 2 de 3 
+4. Desde el punto de vista de la Seguridad Industrial, el único documento, que cuando corresponda 
+reglamentariamente, se debe aportar a la compañía eléctrica (artí culo 18.3 del R . E. B. T. y 
+apartado 5.5 ITC BT 04) , es el Certificado de Instalación . Por otra parte, y en aplicación del 
+artículo 43.2 del Real Decreto 1955/2000, de 1 de diciembre, las empresas distribuidoras  también 
+podrán exigir de los usuarios que sus instalaciones y receptores reúnan las condiciones técnicas y 
+de seguridad reglamentarias, circunstancia por la cual a las instalaciones que deban ser objeto de 
+inspecciones periódicas, podr ían requerirles que aporten los correspondientes certificados que 
+garanticen su cumplimiento. 
+5. En cuanto al  traspaso y subrogación de los contratos de suministro a tarifa y de acceso a las 
+redes el Real Decreto 1955/2000 en su artículo 83.2 dice: “ Para la subrogación en derechos y 
+obligaciones de un contrato de suministro a tarifa o de acceso a las redes bastará la comunicación 
+que permita tener constancia a la empresa distribuidora a efectos del cambio de titularidad del 
+contrato”. Y en su artículo 83.3 “ En los casos en que el usuario efectivo de la energía o del uso 
+efectivo de las redes, con justo título, sea persona distinta al titular que figura en el contrato podrá 
+exigir, siempre que se encuentre al corriente dé pago, el cambio a su nombre del contrato 
+existente, sin más trámites”.   
+6. Independiente de lo anterior y según el Real Decreto Real Decreto 1048/2013, de 27 de diciembre, las 
+distribuidoras tienen la potestad de verificar las instalaciones, y cuando corresponda obtener 
+percepciones económicas por las mismas. Según el artículo 83.5 del Real Decreto 1955/2000, de 1 de 
+diciembre, “… para los incrementos de potencia de los contratos en baja tensión cuya antigüedad sea 
+superior a veinte años, las empresas distribuidoras deberán proceder a la verificación de las 
+instalaciones, autorizándose a cobrar, en este caso, los derechos de verificación vigentes, no s iendo 
+exigible en otro tipo de modificaciones. Si efectuada dicha verificación se comprobase que las 
+instalaciones no cumplen las condiciones técnicas y de seguridad reglamentarias, la empresa 
+distribuidora deberá exigir la adaptación de las instalaciones y la presentación del correspondiente 
+boletín del instalador”. 
+Bajo estas premisas y siempre desde el punto de vista de la Seguridad Industrial de la instalación, en 
+relación con la contratación del suministro eléctrico, la única documentación que cuando c orresponda 
+reglamentariamente por Seguridad Industrial , se podrá exigir al usuario de la in stalación será el 
+Certificado de Instalación, y si la empresa distribuidora lo considera oportuno, cuando corresponda , 
+podrá requerir el Certificado de la última inspección periódica de la instalación.  
+De esta forma , la documentación reglamentaria, que en materia de Seguridad Industrial  se debe 
+requerir para contratar suministro eléctrico en Baja Tensión  en Aragón  es la que se expone a 
+continuación. 
+ 
+BT_Doc_Contratacion-suministro_v8.doc 
+Página 3 de 3 
+Documentación reglamentaria “por Seguridad Industrial” 
+para contratar suministro eléctrico en Baja Tensión en Aragón 
+ 
+1.- Edificios de viviendas y viviendas unifamiliares. 
+DOCUMENTACIÓN REQUERIDA PARA EL SUMINISTRO 
+Potencia a contratar Pc (1) 
+Reglamentaria por 
+Seguridad Industrial 
+para contratar 
+Primera ocupación (por nueva instalación) Alta de contrato por “Nueva instalación”  BS 
+Cambio de tensión Actualización de contrato por 
+“Modificación de importancia” o 
+“Modificación” o  
+“Ampliación” 
+BS (2) 
+Unificación 
+Cambio de uso  
+Reducción de potencia 
+Ampliación de potencia 
+Alta en segunda ocupación Actualización de contrato por 
+“Cambio de titular” No se requiere 
+2.- Otros suministros en B.T. 
+DOCUMENTACIÓN REQUERIDA PARA EL SUMINISTRO 
+Potencia a contratar Pc (1) 
+Reglamentaria por 
+Seguridad Industrial 
+para contratar 
+Primera ocupación (por nueva instalación) Alta de contrato por “Nueva instalación”  BS 
+Cambio de tensión 
+Actualización de contrato por 
+“Modificación de importancia” o 
+“Modificación” o 
+“Ampliación” 
+BS (2) 
+Unificación (2 tensiones) 
+Unificación (2 suministros) 
+Cambio de uso (a otro más restrictivo) 
+Reducción de potencia 
+Ampliación de potencia 
+Alta en segunda ocupación Actualización de contrato por 
+“Cambio de titular” R (3) 
+ 
+(1) En cualquier caso, la potencia a contratar “Pc”, siempre deberá ser inferior a cualquiera de los siguientes valores: 
+- Potencia máxima admisible (en el caso de los Boletines azules emitidos hasta 2001) 
+- Potencia instalada  (en el caso de Boletines emitidos entre 2001 y 2003,  y los últimos Boletines que queden 
+pendientes de aplicación del Reglamento de 1973 durante el transitorio de dos años hasta el 18 de septiembre de 
+2005) 
+- Potencia prevista (en el caso de Certificados de instalación emitidos desde 18 -09-2003 acorde al Reglamento de 
+2002). En viviendas, la potencia prevista coincidirá con la instalada y deberá coincidir con la definida por el IGA 
+instalado e indicado en el Certificado de Instalación. 
+ 
+(2) Solo se requiere “BS” cuando realmente existe una modificación o ampliación física de la instalación. 
+Por otra parte, si el usuario sólo desea reducir o amplia r la  potencia contratada, no es necesario  comunicar al 
+Gobierno de Aragón documentación técnica alguna y en consecuencia no se requiere  “BS”, siempre que el valor 
+de la potencia a contratar “Pc” sea inferior a cualquiera de los valores (1), indicados en el último “BS” aportado a la 
+empresa distribuidora y que este no tenga una antigüedad superior a 20 años (4). 
+ 
+(3) Tan solo a las instalaciones, que por la tipificación de su uso , deban ser objeto de inspecciones periódicas , para el 
+alta en segunda ocupación o en cualquier otra circunstancia, la empresa suministradora siempre podría requerirles 
+el certificado de la última inspección periódica “R” realizada en plazo por un Organismo de Control.  
+Las que no sean objeto de inspecciones periódicas estarán  a lo dispuesto en la nota (4). 
+ 
+(4) En instalaciones cuyo “BS” tenga una antigüedad superior a 20 años  y el usuario sólo desea ampliar la potencia 
+contratada, las empresas distribuidoras  deberán proceder a la verificación de las instalaciones antes de la 
+actualización del contrato. 
+ 
+BS Certificado de Instalación Eléctrica o Boletín sellado por el Gobierno de Aragón o Entidad tramitadora 
+R  Certificado de Inspección Periódica de Organismo de Control. 
+Para la formalización de un contrato de suministro a una instalación no es preciso que la titularidad del contrato coincida con la 
+titularidad del Certificado de Instalación Eléctrica “BS” o del Certificado de Inspección Periódica de instalación “R” 
+ 

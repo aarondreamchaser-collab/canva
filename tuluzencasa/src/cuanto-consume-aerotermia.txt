@@ -1,0 +1,102 @@
+title: Cuánto consume la aerotermia: calefacción y agua caliente, con cifras
+title_seo: Cuánto consume la aerotermia al mes en calefacción y agua
+excerpt: Cuánto consume la aerotermia: con SCOP 3, 1.000 kWh de calor al mes salen por 55 € de luz, frente a 165 € con radiadores eléctricos.
+category: climatizacion
+keyword: cuánto consume la aerotermia
+---
+¿Cuánto consume la aerotermia? Depende del calor que necesite tu casa y del rendimiento del equipo: con un SCOP de 3, cada kWh de luz da 3 kWh de calor, así que una casa que necesita 1.000 kWh de calor al mes gasta unos 333 kWh de electricidad, unos 55,00 € al mes. Con radiadores eléctricos, ese mismo calor costaría 165,00 €.
+
+Para pasar los kWh a euros usamos <strong>0,165 €/kWh con impuestos</strong>. Con otro precio, la aerotermia y los radiadores cambian en la misma proporción, así que la ventaja de la aerotermia se mantiene.
+
+## Qué es la aerotermia {#que-es}
+
+Aerotermia es una bomba de calor que toma el calor del aire de la calle y lo pasa al agua de la casa. Ese agua caliente va a los radiadores, al suelo radiante o a unos fancoils, y también puede calentar el agua del grifo y la ducha. Según el <a href="https://www.idae.es/tecnologias/energias-renovables/uso-termico/aerotermia-e-hidrotermia" target="_blank" rel="noopener">IDAE</a>, la normativa europea reconoce como energía renovable la energía que capturan estas bombas de calor, siempre que la producción supere de forma significativa la energía que necesitan para funcionar.
+
+La diferencia con el split de aire acondicionado que muchos usan como calefacción está en lo que calientan: el split calienta el aire de la habitación, mientras que la aerotermia calienta agua y sustituye a una caldera. La comparación del split con los radiadores la tienes en <a href="https://tuluzencasa.com/bomba-calor-radiadores-electricos/">bomba de calor o radiadores eléctricos</a>.
+
+## Cuánto consume la aerotermia en calefacción {#calefaccion}
+
+El calor que necesita una casa depende de su tamaño, del aislamiento y del clima, así que lo mostramos con tres ejemplos. La columna de los radiadores eléctricos sirve para comparar, porque una resistencia da un kWh de calor por cada kWh de luz:
+
+{{T:aero_calefaccion}}
+
+Con 1.000 kWh de calor al mes, la aerotermia de SCOP 3 ahorra unos 440,00 € por invierno frente a los radiadores eléctricos. Con SCOP 4, el mes baja a 41,25 €.
+
+{{CAJA:Cómo estimar el calor que necesitas}}
+Si ahora calientas la casa con gas, mira los kWh de gas de tus facturas de invierno: el calor que te da la caldera es algo menos, porque una parte se pierde. Si usas radiadores eléctricos, los kWh de luz de más que gastas en invierno son, casi uno a uno, el calor que necesitas.
+{{/CAJA}}
+
+## Aerotermia para el agua caliente {#agua-caliente}
+
+La aerotermia también calienta el agua sanitaria, normalmente con un depósito acumulador. Si partimos del termo eléctrico de nuestra calculadora de consumo, de 80 litros y unas 3 horas de resistencia al día, el cambio queda así:
+
+{{T:aero_acs}}
+
+Con un COP de 3, el agua caliente baja de 15,80 € a 5,27 € al mes, unos 126,40 € menos al año. Los COP de 2,5 y 3 son ejemplos para comparar: el rendimiento real en agua caliente aparece en la ficha del equipo y puede ser menor que en calefacción, porque el agua del grifo se calienta a más temperatura que la de los radiadores. El termo y sus trucos para gastar menos están en <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">cuánto consume un termo eléctrico</a>.
+
+## Radiadores o suelo radiante: por qué importa la temperatura del agua {#temperatura}
+
+Una bomba de calor rinde más cuanto menos tiene que calentar el agua. Por eso la etiqueta energética de estos equipos, que fija el <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0811" target="_blank" rel="noopener">Reglamento Delegado (UE) 811/2013</a>, da dos resultados: uno con el agua saliendo a 55 °C, lo habitual con radiadores, y otro a 35 °C, la temperatura del suelo radiante o de los fancoils. La clase se calcula con la eficiencia estacional, en porcentaje:
+
+{{T:aero_clases}}
+
+El mismo equipo puede tener una clase mejor a 35 °C que a 55 °C. Si tu casa tiene radiadores, fíjate en el dato de 55 °C, que es el que vas a usar. Desde el 26 de septiembre de 2017, el <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0813" target="_blank" rel="noopener">Reglamento (UE) 813/2013</a> no deja vender bombas de calor con menos de un 110 % de eficiencia estacional, ni bombas de calor de baja temperatura por debajo del 125 %.
+
+## Qué es el SCOP y cómo leer la etiqueta {#scop}
+
+El SCOP es el rendimiento estacional: los kWh de calor que da el equipo por cada kWh de luz a lo largo de todo el invierno, no en un momento concreto. Es la cifra que sirve para calcular tu factura, y está en la ficha del producto.
+
+La eficiencia en porcentaje de la etiqueta sale de dividir el SCOP entre 2,5, un coeficiente que el reglamento usa para comparar la electricidad con otros combustibles, y aplicar unas pequeñas correcciones. Para hacerte una idea: un 175 % equivale a un SCOP de algo más de 4,4, y el mínimo del 110 % a un SCOP en torno a 2,8.
+
+Dos datos más de la ficha te ayudan a saber cómo se portará en invierno:
+
+- <strong>La temperatura bivalente</strong>: por debajo de ella, la bomba de calor ya no llega sola y necesita un apoyo, a menudo una resistencia eléctrica que gasta un kWh por cada kWh de calor.
+- <strong>La temperatura límite de funcionamiento</strong>: por debajo de ella, la bomba de calor deja de dar calor.
+
+En zonas frías, esas horas con la resistencia de apoyo encendida suben el consumo y la potencia que necesitas. Antes de instalar, suma la potencia del equipo y de la resistencia con la de tus otros aparatos, como explicamos en <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+
+## Instalación y mantenimiento {#instalacion}
+
+La aerotermia es una instalación térmica y sigue el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-15820" target="_blank" rel="noopener">Reglamento de Instalaciones Térmicas en los Edificios</a> (RITE):
+
+- <strong>Entre 5 y 70 kW</strong> de potencia térmica, lo normal en una vivienda, hace falta una memoria técnica. Por encima de 70 kW, un proyecto.
+- <strong>Por debajo de 5 kW</strong>, no es obligatorio presentar esa documentación ante la comunidad autónoma.
+- <strong>El mantenimiento</strong> de las instalaciones de 5 a 70 kW lo hace una empresa mantenedora habilitada, siguiendo el manual de uso y mantenimiento.
+
+La parte eléctrica también cuenta: si el equipo necesita su propia línea desde el cuadro o protecciones nuevas, el trabajo es de una empresa instaladora eléctrica, que emite su certificado. Tú puedes revisar sin riesgo la ficha del equipo, el termostato y que la unidad exterior tenga el aire libre alrededor.
+
+## Trucos para gastar menos con aerotermia {#trucos}
+
+- <strong>Baja un grado el termostato</strong>: según el IDAE, cada grado de diferencia supone alrededor de un 7 % de consumo en climatización.
+- <strong>Pon válvulas termostáticas</strong> en los radiadores o un termostato programable: el IDAE calcula un ahorro de entre un 8 y un 13 %.
+- <strong>Ajusta la temperatura del agua</strong> a lo que necesites de verdad: cuanto más baja, mejor rinde el equipo.
+- <strong>Calienta el agua sanitaria en valle</strong> si tu tarifa cambia de precio según la hora: el depósito guarda el calor. Las horas de cada periodo están en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>.
+- <strong>Ventila en pocos minutos</strong>: el IDAE recuerda que en invierno basta con abrir las ventanas un rato para renovar el aire.
+- <strong>No tapes la unidad exterior</strong> y quita las hojas o la nieve que se acumulen a su alrededor.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿La aerotermia gasta mucha luz?
+
+Gasta menos que cualquier calefacción eléctrica con resistencia: con SCOP 3, una tercera parte. Pero como sustituye a la caldera, tu factura de luz sube aunque desaparezca la del gas.
+
+### ¿Funciona la aerotermia con radiadores normales?
+
+Sí, si el equipo da el agua a la temperatura que necesitan, pero rinde menos que con suelo radiante. Compara la clase de la etiqueta a 55 °C, no la de 35 °C.
+
+### ¿Qué SCOP es bueno?
+
+Cuanto más alto, mejor. El mínimo legal equivale a un SCOP de unos 2,8; un equipo de clase A+++ a 35 °C supera 4,4.
+
+### ¿Necesito más potencia contratada?
+
+Puede que sí, sobre todo si el equipo lleva resistencia de apoyo. Suma la potencia de la ficha con la de los aparatos que usas a la vez.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0811" target="_blank" rel="noopener">Reglamento Delegado (UE) 811/2013 de la Comisión</a> (DO L 239, de 6 de septiembre de 2013), etiquetado energético de aparatos de calefacción: anexo II, clases a 55 °C y a 35 °C.
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0813" target="_blank" rel="noopener">Reglamento (UE) 813/2013 de la Comisión</a>, diseño ecológico de aparatos de calefacción: eficiencias mínimas desde el 26 de septiembre de 2017, coeficiente de conversión y temperaturas bivalente y límite.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-15820" target="_blank" rel="noopener">Real Decreto 1027/2007, Reglamento de Instalaciones Térmicas en los Edificios</a>: artículos 15 y 26.
+- <a href="https://www.idae.es/tecnologias/energias-renovables/uso-termico/aerotermia-e-hidrotermia" target="_blank" rel="noopener">IDAE, Aerotermia e hidrotermia</a> y <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">recomendaciones para el ahorro energético en hogares</a>.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: añade la bomba de calor y el agua caliente con las horas de uso, y mira cuánto pesan en tu factura.

@@ -1,0 +1,4948 @@
+
+ L_2013239ES.01008301.xml
+6.9.2013   
+ | 
+ES
+ | 
+Diario Oficial de la Unión Europea
+ | 
+L 239/83
+ | 
+ REGLAMENTO DELEGADO (UE) N
+ o 812/2013 DE LA COMISIÓN
+de 18 de febrero de 2013
+por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo que respecta al etiquetado energético de los calentadores de agua, los depósitos de agua caliente y los equipos combinados de calentador de agua y dispositivo solar
+(Texto pertinente a efectos del EEE)
+LA COMISIÓN EUROPEA,
+Visto el Tratado de Funcionamiento de la Unión Europea,
+Vista la Directiva 2010/30/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la indicación del consumo de energía y otros recursos por parte de los productos relacionados con la energía, mediante el etiquetado y una información normalizada (1), y, en particular, su artículo 10,
+Considerando lo siguiente:
+(1)
+ | 
+La Directiva 2010/30/UE exige a la Comisión que adopte actos delegados en lo relativo al etiquetado de los productos relacionados con la energía que representen un gran potencial de ahorro energético y que presenten una amplia disparidad en los niveles de rendimiento con funcionalidad equivalente.
+ | 
+(2)
+ | 
+La energía consumida por los calentadores de agua y depósitos de agua caliente representa una parte importante de la demanda energética total de la Unión, y los calentadores de agua y depósitos de agua caliente con una funcionalidad equivalente evidencian una amplia disparidad desde el punto de vista de la eficiencia energética del caldeo de agua y de las pérdidas estáticas. El margen para reducir su consumo energético es considerable e incluye la posibilidad de combinar calentadores de agua con dispositivos solares adecuados. Por ello los calentadores de agua, los depósitos de agua caliente y los equipos combinados de calentador de agua y dispositivo solar deberían estar sujetos a los requisitos de etiquetado energético.
+ | 
+(3)
+ | 
+Los calentadores de agua diseñados para utilizar combustibles gaseosos o líquidos producidos predominantemente (en más del 50 %) a partir de la biomasa tienen unas características técnicas específicas que requieren más análisis técnicos, económicos y ambientales. En función del resultado de los análisis, en una fase posterior deben establecerse requisitos de etiquetado energético para tales calentadores de agua, cuando corresponda.
+ | 
+(4)
+ | 
+Es preciso fijar disposiciones armonizadas sobre el etiquetado y la información normalizada del producto respecto a la indicación de la eficiencia energética de los calentadores de agua y depósitos de agua caliente, a fin de incentivar a los fabricantes para que mejoren la eficiencia energética de dichos productos, alentar a los usuarios finales a comprar productos energéticamente eficientes y contribuir al funcionamiento del mercado interior.
+ | 
+(5)
+ | 
+En lo que respecta al ahorro de energía y de costes de cada tipo de calentador de agua y de los depósitos de agua caliente, el presente Reglamento debe introducir una nueva escala de etiquetado único de A a G para los calentadores de agua convencionales, los calentadores de agua solares y los calentadores con bomba de calor, y los depósitos de agua caliente. Después de dos años se añadirá a la clasificación una clase dinámica A+ con objeto de acelerar la penetración en el mercado de los calentadores de agua y depósitos de agua caliente más eficientes.
+ | 
+(6)
+ | 
+El presente Reglamento debe garantizar que los consumidores obtengan una información comparativa más exacta acerca del rendimiento de los calentadores de agua solares y calentadores de agua con bomba de calor en tres zonas climáticas europeas.
+ | 
+(7)
+ | 
+El nivel de potencia acústica de un calentador de agua podría ser un criterio importante para los usuarios finales. La información sobre niveles de potencia acústica debe incluirse en las etiquetas de los calentadores de agua.
+ | 
+(8)
+ | 
+Se espera que el efecto combinado del presente Reglamento y del Reglamento (UE) no 814/2013 de la Comisión, de 2 de agosto de 2013, por el que se aplica la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico para los calentadores de agua y para los depósitos de agua caliente (2), comporte para 2020 un ahorro energético anual estimado de unos 450 PJ (11 Mtep), que corresponden a alrededor de 26 Mt de emisiones de CO2, respecto a lo que pasaría si no se tomaran medidas.
+ | 
+(9)
+ | 
+La información facilitada en las etiquetas debe obtenerse con métodos de medición y de cálculo fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica generalmente reconocido, incluidas las normas armonizadas que eventualmente hayan aprobado los organismos de normalización europeos a petición de la Comisión, de conformidad con los procedimientos establecidos en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de las normas y reglamentaciones técnicas y de las reglas relativas a los servicios de la sociedad de la información (3), a efectos de establecer requisitos de diseño ecológico.
+ | 
+(10)
+ | 
+El presente Reglamento debe especificar un diseño y contenido uniformes de las etiquetas de productos para los calentadores de agua y los depósitos de agua caliente.
+ | 
+(11)
+ | 
+Además, el presente Reglamento debe especificar los requisitos relativos a la ficha de producto y la documentación técnica para los calentadores de agua y los depósitos de agua caliente.
+ | 
+(12)
+ | 
+Asimismo, el presente Reglamento debe especificar los requisitos relativos a la información que debe facilitarse en todo tipo de venta a distancia de calentadores de agua y depósitos de agua caliente, así como en la publicidad y el material técnico de promoción relativos a estos productos.
+ | 
+(13)
+ | 
+Además de las etiquetas y fichas de producto para los calentadores de agua y depósitos de agua caliente establecidas en el presente Reglamento, una etiqueta y una ficha para equipos combinados basadas en las fichas de producto de los proveedores deben garantizar que el usuario final tenga fácil acceso a la información sobre eficiencia energética de los calentadores de agua en combinación con dispositivos solares. Este tipo de sistemas puede alcanzar la clase más eficiente A+++.
+ | 
+(14)
+ | 
+Procede prever una revisión de las disposiciones del presente Reglamento para tener en cuenta el progreso tecnológico.
+ | 
+HA ADOPTADO EL PRESENTE REGLAMENTO:
+Artículo 1
+Objeto y ámbito de aplicación
+1.   El presente Reglamento establece los requisitos aplicables al etiquetado energético y al suministro de información complementaria sobre los calentadores de agua con una potencia calorífica nominal ≤ 70 kW, los depósitos de agua caliente con una capacidad ≤ 500 litros y los equipos combinados de calentador de agua de ≤ 70 kW y dispositivo solar.
+2.   El presente Reglamento no se aplicará a:
+a)
+ | 
+los calentadores de agua especialmente diseñados para el uso de combustibles gaseosos o líquidos producidos predominantemente a partir de biomasa;
+ | 
+b)
+ | 
+los calentadores de agua que utilizan combustibles sólidos;
+ | 
+c)
+ | 
+los calentadores de agua que entran en el ámbito de aplicación de la Directiva 2010/75/UE del Parlamento Europeo y del Consejo (4);
+ | 
+d)
+ | 
+los calefactores combinados según la definición del artículo 2 del Reglamento Delegado (UE) no 811/2013 de la Comisión (5);
+ | 
+e)
+ | 
+los calentadores de agua que no cumplan al menos el perfil de carga con la menor energía de referencia, conforme a lo especificado en el anexo VII, cuadro 3;
+ | 
+f)
+ | 
+los calentadores de agua destinados exclusivamente a preparar bebidas o alimentos calientes.
+ | 
+Artículo 2
+Definiciones
+Además de las definiciones que figuran en el artículo 2 de la Directiva 2010/30/UE, a los efectos del presente Reglamento se entenderá por:
+1)   «calentador de agua»: el aparato que
+a)
+ | 
+está conectado a un suministro externo de agua potable o sanitaria;
+ | 
+b)
+ | 
+genera y transfiere calor para suministrar agua caliente potable o sanitaria a determinados niveles de temperatura, cantidades y caudales durante determinados intervalos de tiempo, y
+ | 
+c)
+ | 
+está equipado con uno o varios generadores de calor;
+ | 
+2)   «generador de calor»: la parte del calentador de agua que genera calor mediante uno o varios de los siguientes procesos:
+a)
+ | 
+combustión de combustibles fósiles o combustibles de biomasa;
+ | 
+b)
+ | 
+utilización del efecto Joule en los elementos calefactores de una resistencia eléctrica;
+ | 
+c)
+ | 
+captura del calor ambiente a partir de una fuente atmosférica, acuática o geotérmica, o de calor residual;
+ | 
+3)   «potencia calorífica nominal»: la potencia calorífica declarada del calentador de agua cuando calienta agua en condiciones estándar, expresada en kW;
+4)   «capacidad» (V)
+ : el volumen nominal de un depósito de agua caliente, expresado en litros;
+5)   «condiciones estándar»: las condiciones de funcionamiento de los calentadores de agua para determinar la potencia calorífica nominal, la eficiencia energética de caldeo del agua y el nivel de potencia acústica, y de los depósitos de agua caliente para establecer las pérdidas estáticas;
+6)   «biomasa»: la fracción biodegradable de los productos, desechos y residuos de origen biológico procedentes de la agricultura (incluidas las sustancias de origen vegetal y animal), de la silvicultura y otras industrias relacionadas, como la pesca y la acuicultura, así como la fracción biodegradable de los residuos industriales y urbanos;
+7)   «combustible de biomasa»: el combustible gaseoso o líquido producido a partir de la biomasa;
+8)   «combustible fósil»: el combustible gaseoso o líquido de origen fósil;
+9)   «depósito de agua caliente»: el recipiente para almacenar agua caliente con fines de caldeo de agua o de calefacción, incluidos los eventuales aditivos, que no está equipado con un generador de calor, salvo posiblemente uno o varios calentadores de inmersión de reserva;
+10)   «calentador de inmersión de reserva»: el calentador de resistencia eléctrica de efecto Joule que forma parte de un depósito de agua caliente y genera calor solamente cuando la fuente de calor externa se ha interrumpido (como durante los períodos de mantenimiento) o está averiada, o que forma parte de un depósito de agua caliente solar y proporciona calor cuando la fuente de calor solar no es suficiente para satisfacer los niveles de confort necesarios;
+11)   «dispositivo solar»: un sistema exclusivamente solar, un colector solar, un depósito de agua caliente solar o una bomba en el circuito del colector, que se comercializan por separado;
+12)   «sistema exclusivamente solar»: el dispositivo equipado con uno o varios colectores solares y depósitos de agua caliente solares y posiblemente bombas en el circuito del colector y otros componentes, que se comercializa como una unidad y no está equipado con ningún generador de calor excepto posiblemente uno o varios calentadores de inmersión de reserva;
+13)   «equipo combinado de calentador de agua y dispositivo solar»: el conjunto ofrecido al usuario final que contiene uno o varios calentadores de agua y uno o varios dispositivos solares;
+14)   «eficiencia energética del caldeo de agua» (ηwh
+ ): la relación entre la energía útil aportada por un calentador de agua o un equipo combinado de calentador de agua y dispositivo solar y la energía necesaria para su generación, expresada en %;
+15)   «nivel de potencia acústica» (LWA
+ ): el nivel de potencia acústica ponderada A, interior o exterior, expresado en dB;
+16)   «pérdidas estáticas» (S): la potencia calorífica disipada de un depósito de agua caliente con una determinada temperatura del agua y temperatura ambiente, expresada en W;
+17)   «calentador de agua con bomba de calor»: el calentador de agua que utiliza calor ambiental de una fuente atmosférica, acuática o geotérmica, o calor residual para generar calor.
+En el anexo I figuran otras definiciones a efectos de los anexos II a IX.
+Artículo 3
+Responsabilidades de los proveedores y calendario
+1.   A partir del 26 de septiembre de 2015, los proveedores que comercialicen o pongan en servicio calentadores de agua, incluidos los integrados en equipos combinados de calentador de agua y dispositivo solar, velarán por que:
+a)
+ | 
+se suministre una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 1.1 del anexo III con cada calentador de agua conforme a las clases de eficiencia energética del caldeo de agua que figuran en el punto 1 del anexo II, teniendo en cuenta que: los calentadores de agua con bomba de calor irán provistos de una etiqueta impresa por lo menos en el embalaje del generador de calor; los calentadores de agua para uso en equipos combinados de calentador de agua y dispositivo solar irán provistos de una segunda etiqueta acorde con el formato y el contenido de la información que se establece en el punto 3 del anexo III para cada calentador de agua;
+ | 
+b)
+ | 
+cada calentador de agua esté provisto de una ficha de producto conforme al punto 1 del anexo IV, teniendo en cuenta que: los calentadores de agua con bomba de calor irán provistos de una ficha de producto por lo menos respecto al generador de calor; los calentadores de agua destinados a equipos combinados de calentador de agua y dispositivo solar irán provistos de una segunda ficha, según se establece en el punto 4 del anexo IV;
+ | 
+c)
+ | 
+la documentación técnica conforme al punto 1 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición;
+ | 
+d)
+ | 
+toda publicidad relativa a un modelo específico de calentador de agua y que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética del caldeo de agua en condiciones climáticas medias para ese modelo;
+ | 
+e)
+ | 
+todo material técnico de promoción relativo a un modelo específico de calentador de agua y que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética del caldeo del agua en condiciones climáticas medias para ese modelo.
+ | 
+A partir del 26 de septiembre de 2017, se suministrará una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 1.2 del anexo III con cada calentador de agua conforme a las clases de eficiencia energética de caldeo del agua que figuran en el punto 1 del anexo II, teniendo en cuenta que: los calentadores de agua con bomba de calor irán provistos de una etiqueta impresa por lo menos en el embalaje del generador de calor.
+2.   A partir del 26 de septiembre de 2015, los proveedores que comercialicen o pongan en servicio depósitos de agua caliente se asegurarán de que:
+a)
+ | 
+se suministre una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 2.1 del anexo III con cada depósito de agua caliente conforme a las clases de eficiencia energética que figuran en el punto 2 del anexo II;
+ | 
+b)
+ | 
+se facilite una ficha de producto conforme con lo indicado en el punto 2 del anexo IV;
+ | 
+c)
+ | 
+la documentación técnica conforme al punto 2 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición;
+ | 
+d)
+ | 
+toda publicidad relativa a un modelo específico de depósito de agua caliente y que contenga información relacionada con la energía o con el precio incluya una referencia a la clase de eficiencia energética para ese modelo;
+ | 
+e)
+ | 
+todo material técnico de promoción relativo a un modelo específico de depósito de agua caliente y que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética del modelo en cuestión.
+ | 
+A partir del 26 de septiembre de 2017 se suministrará una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 2.2 del anexo III con cada depósito de agua caliente conforme a las clases de eficiencia energética que figuran en el punto 2 del anexo II.
+3.   A partir del 26 de septiembre de 2015, los proveedores que comercialicen o pongan en servicio dispositivos solares se asegurarán de que:
+a)
+ | 
+se facilite una ficha de producto conforme con lo indicado en el punto 3 del anexo IV;
+ | 
+b)
+ | 
+la documentación técnica especificada en el punto 3 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición.
+ | 
+4.   A partir del 26 de septiembre de 2015, los proveedores que comercialicen o pongan en servicio equipos combinados de calentador de agua y dispositivo solar velarán por que:
+a)
+ | 
+se suministre una etiqueta impresa acorde con el formato y el contenido de la información establecidos en el punto 3 del anexo III con cada equipo combinado de calentador de agua y dispositivo solar conforme a las clases de eficiencia energética del caldeo de agua que figuran en el punto 1 del anexo II;
+ | 
+b)
+ | 
+cada equipo combinado de calentador de agua y dispositivo solar esté provisto de una ficha de producto conforme al punto 4 del anexo IV;
+ | 
+c)
+ | 
+la documentación técnica conforme al punto 4 del anexo V se facilite a las autoridades de los Estados miembros y a la Comisión, previa petición;
+ | 
+d)
+ | 
+toda publicidad relativa a un modelo específico de equipo combinado de calentador de agua y dispositivo solar y que contenga información relacionada con la energía o con el precio incluya una referencia a la clase de eficiencia energética del caldeo de agua en condiciones climáticas medias correspondiente a ese modelo;
+ | 
+e)
+ | 
+todo material técnico de promoción relativo a un modelo específico de equipo combinado de calentador de agua y dispositivo solar y que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética del caldeo del agua en condiciones climáticas medias correspondiente a ese modelo.
+ | 
+Artículo 4
+Responsabilidades de los distribuidores
+1.   Los distribuidores de calentadores de agua se asegurarán de que:
+a)
+ | 
+en el punto de venta, todos los calentadores de agua vayan provistos de la etiqueta suministrada por los proveedores de conformidad con el artículo 3, apartado 1, tal como se establece en el punto 1 del anexo III, en la parte exterior frontal del aparato, de forma que resulte claramente visible;
+ | 
+b)
+ | 
+los calentadores de agua ofrecidos para la venta, alquiler o alquiler con opción de compra de manera que no quepa prever que el usuario final pueda examinarlos directamente, se comercialicen con la información que han de facilitar los proveedores de conformidad con el punto 1 del anexo VI;
+ | 
+c)
+ | 
+toda publicidad relativa a un modelo específico de calentador de agua y que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética del caldeo de agua en condiciones climáticas medias correspondiente a ese modelo;
+ | 
+d)
+ | 
+todo material técnico de promoción relativo a un modelo específico de calentador de agua y que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética del caldeo del agua en condiciones climáticas medias correspondiente a ese modelo.
+ | 
+2.   Los distribuidores de depósitos de agua caliente se asegurarán de que:
+a)
+ | 
+en el punto de venta, todos los depósitos de agua caliente vayan provistos de la etiqueta suministrada por los proveedores de conformidad con el artículo 3, apartado 2, tal como se establece en el punto 2 del anexo III, en la parte exterior frontal del aparato, de forma que resulte claramente visible;
+ | 
+b)
+ | 
+los depósitos de agua caliente ofrecidos para la venta, alquiler o alquiler con opción de compra de manera que no quepa prever que el usuario final pueda examinarlos directamente, se comercialicen con la información que han de facilitar los proveedores de conformidad con el punto 2 del anexo VI;
+ | 
+c)
+ | 
+toda publicidad relativa a un modelo específico de depósito de agua caliente y que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética de ese modelo;
+ | 
+d)
+ | 
+todo material técnico de promoción relativo a un modelo específico de depósito de agua caliente y que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética del modelo en cuestión.
+ | 
+3.   Los distribuidores de equipos combinados de calentador de agua y dispositivo solar velarán por que, sobre la base de la etiqueta y de las fichas facilitadas por los proveedores de conformidad con el artículo 3, apartados 1, 3 y 4:
+a)
+ | 
+toda oferta de un equipo combinado específico incluya la eficiencia energética del caldeo de agua y la clase de eficiencia energética del caldeo de agua de dicho equipo en condiciones climáticas medias, más frías o más cálidas, según proceda, exhibiendo en el equipo combinado la etiqueta conforme al punto 3 del anexo III y facilitando la ficha prevista en el punto 4 del anexo IV, debidamente cumplimentada conforme a las características de ese equipo combinado;
+ | 
+b)
+ | 
+los equipos combinados de calentador de agua y dispositivo solar ofrecidos para la venta, alquiler o alquiler con opción de compra, de manera que no quepa prever que el usuario final pueda verlos expuestos, se comercialicen con la información facilitada de conformidad con el punto 3 del anexo VI;
+ | 
+c)
+ | 
+toda publicidad relativa a un modelo específico de equipo combinado de calentador de agua y dispositivo solar y que contenga información relacionada con la energía o el precio incluya una referencia a la clase de eficiencia energética del caldeo de agua en condiciones climáticas medias correspondiente a ese modelo;
+ | 
+d)
+ | 
+todo material técnico de promoción relativo a un modelo específico de equipo combinado de calentador de agua y dispositivo solar y que describa sus parámetros técnicos específicos incluya una referencia a la clase de eficiencia energética del caldeo del agua en condiciones climáticas medias correspondiente a ese modelo.
+ | 
+Artículo 5
+Métodos de medición y cálculo
+La información que habrá de proporcionarse con arreglo a los artículos 3 y 4 se obtendrá con procedimientos de medición y cálculo fiables, exactos y reproducibles, que tengan en cuenta los métodos de cálculo y de medición más avanzados reconocidos, de acuerdo con lo dispuesto en los anexos VII y VIII.
+Artículo 6
+Procedimiento de verificación a efectos de la vigilancia del mercado
+Los Estados miembros aplicarán el procedimiento establecido en el anexo IX al evaluar la conformidad de la clase de eficiencia energética declarada del caldeo de agua, la eficiencia energética del caldeo de agua, el consumo de energía anual y el nivel de potencia acústica de los calentadores de agua, y la clase de eficiencia energética declarada y las pérdidas estáticas de los depósitos de agua caliente.
+Artículo 7
+Revisión
+La Comisión revisará el presente Reglamento a la luz del progreso técnico en el plazo máximo de cinco años tras su entrada en vigor. La revisión deberá evaluar en particular las variaciones de las cuotas de mercado de los diversos tipos de aparatos y la adecuación de la ficha y la etiqueta de los equipos combinados conforme a lo indicado en el punto 3 del anexo III y en el punto 4 del anexo IV.
+Artículo 8
+Entrada en vigor y aplicación
+El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea.
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.
+Hecho en Bruselas, el 18 de febrero de 2013.
+ Por la Comisión
+ El Presidente
+José Manuel BARROSO
+ (1)  
+ DO L 153 de 18.6.2010, p. 1.
+ (2)  Véase la página 162 del presente Diario Oficial.
+ (3)  
+ DO L 204 de 21.7.1998, p. 37.
+ (4)  
+ DO L 334 de 17.12.2010, p. 17.
+ (5)  Véase la página 1 del presente Diario Oficial.
+ANEXO I
+ Definiciones aplicables a los anexos II a IX
+A efectos de los anexos II a IX, se aplicarán las siguientes definiciones:
+1)   «calentador de agua convencional»: calentador de agua que genera calor mediante la combustión de combustibles fósiles o de biomasa o mediante el efecto Joule en elementos calefactores de resistencia eléctrica;
+2)   «calentador de agua solar»: calentador de agua equipado con uno o varios colectores solares, depósitos de agua caliente solares, generadores de calor y eventualmente bombas en el circuito del colector y otros componentes; un calentador de agua solar se comercializa como una unidad;
+3)   «perfil de carga»: una determinada secuencia de salidas de agua, conforme a lo especificado en el anexo VII, cuadro 3; cada calentador de agua se ajusta al menos a un perfil de carga;
+4)   «salida de agua»: una determinada combinación de caudal de agua útil, temperatura del agua útil, contenido de energía útil y temperatura pico, conforme a lo especificado en el anexo VII, cuadro 3;
+5)   «caudal de agua útil» (f): caudal mínimo, expresado en litros por minuto, en que el agua caliente contribuye a la energía de referencia, conforme a lo especificado en el anexo VII, cuadro 3;
+6)   «temperatura del agua útil» (Tm
+ ): temperatura del agua, expresada en grados Celsius, a la cual el agua caliente empieza a contribuir a la energía de referencia, conforme a lo especificado en el anexo VII, cuadro 3;
+7)   «contenido de energía útil» (Q
+ tap
+ ): contenido energético del agua caliente, expresado en kWh, suministrado a una temperatura igual o superior a la temperatura del agua útil, y a caudales de agua iguales o superiores al caudal de agua útil, conforme a lo especificado en el anexo VII, cuadro 3;
+8)   «contenido energético del agua caliente»: producto de la capacidad térmica específica del agua, la diferencia de temperatura media entre el agua caliente saliente y el agua fría entrante, y la masa total de agua caliente suministrada;
+9)   «temperatura pico» (Tp
+ ): temperatura mínima del agua, expresada en grados Celsio, que ha de alcanzarse durante la salida de agua, conforme a lo especificado en el anexo VII, cuadro 3;
+10)   «energía de referencia» (Qref
+ ): suma del contenido de energía útil de las salidas de agua, expresada en kWh, en un determinado perfil de carga, conforme a lo especificado en el anexo VII, cuadro 3;
+11)   «perfil de carga máximo»: perfil de carga con la mayor energía de referencia que es capaz de suministrar un calentador de agua cuando cumple las condiciones de temperatura y caudal de ese perfil de carga;
+12)   «perfil de carga declarado»: perfil de carga aplicado cuando se determina la eficiencia energética del caldeo de agua;
+13)   «coeficiente de conversión» (CC): coeficiente que refleja la eficiencia estimada de la generación media de la UE del 40 % contemplado en la Directiva 2012/27/UE del Parlamento Europeo y del Consejo (1); el valor del coeficiente de conversión es CC = 2,5;
+14)   «consumo diario de electricidad» (Qelec
+ ): consumo de electricidad a lo largo de 24 horas consecutivas con el perfil de carga declarado y en determinadas condiciones climáticas, expresado en kWh de energía final;
+15)   «consumo diario de combustible» (Qfuel
+ ): consumo de combustible a lo largo de 24 horas consecutivas con el perfil de carga declarado y en determinadas condiciones climáticas, expresado en kWh en términos de GCV, y, a efectos del punto 4 del anexo VIII, expresado en GJ en términos de GCV;
+16)   «poder calorífico superior» (GCV): cantidad total de calor liberado por una cantidad unitaria de combustible cuando se quema por completo con oxígeno y se devuelven los productos de la combustión a la temperatura ambiente; esta cantidad incluye el calor de condensación del vapor de agua contenido en el combustible y el vapor de agua formado por la combustión del hidrógeno contenido en el combustible;
+17)   «control inteligente»: dispositivo que adapta automáticamente el proceso de caldeo del agua a las condiciones de uso específicas con objeto de reducir el consumo energético;
+18)   «conformidad con el control inteligente» (smart): medida de si un calentador de agua equipado con controles inteligentes cumple el criterio establecido en el punto 5 del anexo VIII;
+19)   «factor de control inteligente» (SCF): aumento de la eficiencia del caldeo de agua gracias al control inteligente en las condiciones indicadas en el punto 3 del anexo VII;
+20)   «consumo semanal de electricidad con controles inteligentes» (Qelec,week,smart
+ ): consumo semanal de electricidad de un calentador de agua con la función de control inteligente activada, expresado en kWh de energía final;
+21)   «consumo semanal de combustible con controles inteligentes» (Qfuel,week,smart
+ ): consumo semanal de combustible de un calentador de agua con la función de control inteligente activada, expresado en kWh en términos de GCV;
+22)   «consumo semanal de electricidad sin controles inteligentes» (Qelec,week
+ ): consumo semanal de electricidad de un calentador de agua con la función de control inteligente desactivada, expresado en kWh de energía final;
+23)   «consumo semanal de combustible sin controles inteligentes» (Qfuel,week
+ ): consumo semanal de combustible de un calentador de agua con la función de control inteligente desactivada, expresado en kWh en términos de GCV;
+24)   «consumo anual de electricidad» (AEC): consumo de electricidad anual de un calentador de agua con el perfil de carga declarado y en determinadas condiciones climáticas, expresado en kWh de energía final;
+25)   «consumo anual de combustible» (AFC): consumo anual de combustible fósil o de biomasa de un calentador de agua con el perfil de carga declarado y en determinadas condiciones climáticas, expresado en GJ en términos de GCV;
+26)   «factor de corrección ambiente» (Qcor
+ ): factor que tiene en cuenta el hecho de que el lugar donde se instala el calentador de agua no es un lugar isotérmico, expresado en kWh;
+27)   «pérdida de calor en modo de espera» (Pstby
+ ): pérdida de calor de un calentador de agua con bomba de calor en estado de funcionamiento sin demanda de calor, expresada en kW;
+28)   «condiciones climáticas medias», «condiciones climáticas más frías» y «condiciones climáticas más cálidas»: temperaturas y condiciones de irradiancia solar global características de las ciudades de Estrasburgo, Helsinki y Atenas, respectivamente;
+29)   «consumo anual de energía» (Qtota
+ ): consumo anual de energía de un calentador de agua solar, expresado en kWh de energía primaria o kWh en términos de GCV;
+30)   «contribución calorífica anual no solar» (Qnonsol
+ ): contribución anual de la electricidad (expresada en kWh de energía primaria) o de los combustibles (expresada en kWh en términos de GCV) a la potencia calorífica útil de un calentador de agua solar o un equipo de calentador de agua y dispositivo solar, teniendo en cuenta la cantidad anual de calor capturado por el colector solar y las pérdidas de calor del depósito de agua caliente solar;
+31)   «colector solar»: dispositivo concebido para absorber la irradiancia solar global y transferir la energía calorífica así producida a un fluido que pasa a través de él; se caracteriza por el área de apertura del colector, la eficiencia de pérdida cero, el coeficiente de primer orden, el coeficiente de segundo orden y el modificador de ángulo de incidencia;
+32)   «irradiancia solar global»: índice de energía solar total entrante, tanto directa como difusa, en un plano de colector con una inclinación de 45 grados y orientación sur en la superficie terrestre, expresada en W/m2;
+33)   «área de apertura del colector» (Asol
+ ): área máxima proyectada a través de la cual entra en el colector la radiación solar no concentrada, expresada en m2;
+34)   «eficiencia de pérdida cero» (η0
+ ): eficiencia del colector solar cuando la temperatura media del líquido del colector es igual a la temperatura ambiente;
+35)   «coeficiente de primer orden» (a1
+ ): coeficiente de pérdida de calor de un colector solar, expresado en W/(m2 K);
+36)   «coeficiente de segundo orden» (a2
+ ): coeficiente que mide la dependencia del coeficiente de primer orden respecto a la temperatura, expresado en W/(m2 K2);
+37)   «modificador del ángulo de incidencia» (MAI): relación de la potencia calorífica útil del colector solar con un determinado ángulo de incidencia y su potencia calorífica útil con un ángulo de incidencia de 0 grados;
+38)   «ángulo de incidencia»: ángulo entre la dirección al sol y la perpendicular a la superficie de apertura del colector solar;
+39)   «depósito de agua caliente solar»: depósito de agua caliente que almacena la energía calorífica producida por uno o varios colectores solares;
+40)   «eficiencia energética de caldeo de agua del generador de calor» (ηwh,nonsol
+ ): eficiencia energética de caldeo de agua de un generador de calor que forma parte de un calentador de agua solar, expresada en %, establecida en condiciones climáticas medias y sin utilizar aporte de calor solar;
+41)   «consumo de electricidad auxiliar» (Qaux
+ ), denominado «electricidad auxiliar» a efectos de la figura 1 del anexo IV: consumo anual de electricidad de un calentador de agua solar o un sistema exclusivamente solar debido al consumo eléctrico de la bomba y al consumo eléctrico en modo de espera, expresado en kWh de energía final;
+42)   «consumo eléctrico de la bomba» (solpump): consumo eléctrico nominal de la bomba del circuito del colector de un calentador de agua solar o un sistema exclusivamente solar, expresado en W;
+43)   «consumo eléctrico en modo de espera» (solstandby)
+ : consumo eléctrico nominal de un calentador de agua solar o un sistema exclusivamente solar cuando la bomba y el generador de calor están inactivos, expresado en W;
+44)   «identificador de modelo»: código, normalmente alfanumérico, que distingue un determinado modelo de calentador de agua, depósito de agua caliente, dispositivo solar, o equipo combinado de calentador de agua y dispositivo solar, frente a otros modelos con la misma marca o con el mismo nombre de proveedor o de distribuidor.
+ (1)  
+ DO L 315 de 14.11.2012, p. 1.
+ANEXO II
+ Clases de eficiencia energética
+1.   CLASES DE EFICIENCIA ENERGÉTICA DEL CALDEO DE AGUA DE LOS CALENTADORES DE AGUA
+La clase de eficiencia energética del caldeo de agua de un calentador de agua puede determinarse sobre la base de su eficiencia energética del caldeo de agua según se indica en el cuadro 1.
+La eficiencia energética del caldeo de agua de un calentador de agua puede calcularse conforme al punto 3 del anexo VIII para los calentadores de agua solares y los calentadores de agua con bomba de calor en condiciones climáticas medias.
+ Cuadro 1
+ Clases de eficiencia energética de caldeo del agua de los calentadores de agua en función de los perfiles de carga declarados, ηwh en %
+ | 
+3XS
+ | 
+XXS
+ | 
+XS
+ | 
+S
+ | 
+M
+ | 
+L
+ | 
+XL
+ | 
+XXL
+ | 
+A+++
+ | 
+ ηwh
+ ≥ 62
+ | 
+ ηwh
+ ≥ 62
+ | 
+ ηwh
+ ≥ 69
+ | 
+ ηwh
+ ≥ 90
+ | 
+ ηwh
+ ≥ 163
+ | 
+ ηwh
+ ≥ 188
+ | 
+ ηwh
+ ≥ 200
+ | 
+ ηwh
+ ≥ 213
+ | 
+A++
+ | 
+53 ≤ ηwh
+ < 62
+ | 
+53 ≤ ηwh
+ < 62
+ | 
+61 ≤ ηwh
+ < 69
+ | 
+72 ≤ ηwh
+ < 90
+ | 
+130 ≤ ηwh
+ < 163
+ | 
+150 ≤ ηwh
+ < 188
+ | 
+160 ≤ ηwh
+ < 200
+ | 
+170 ≤ ηwh
+ < 213
+ | 
+A+
+ | 
+44 ≤ ηwh
+ < 53
+ | 
+44 ≤ ηwh
+ < 53
+ | 
+53 ≤ ηwh
+ < 61
+ | 
+55 ≤ ηwh
+ < 72
+ | 
+100 ≤ ηwh
+ < 130
+ | 
+115 ≤ ηwh
+ < 150
+ | 
+123 ≤ ηwh
+ < 160
+ | 
+131 ≤ ηwh
+ < 170
+ | 
+A
+ | 
+35 ≤ ηwh
+ < 44
+ | 
+35 ≤ ηwh
+ < 44
+ | 
+38 ≤ ηwh
+ < 53
+ | 
+38 ≤ ηwh
+ < 55
+ | 
+65 ≤ ηwh
+ < 100
+ | 
+75 ≤ ηwh
+ < 115
+ | 
+80 ≤ ηwh
+ < 123
+ | 
+85 ≤ ηwh
+ < 131
+ | 
+B
+ | 
+32 ≤ ηwh
+ < 35
+ | 
+32 ≤ ηwh
+ < 35
+ | 
+35 ≤ ηwh
+ < 38
+ | 
+35 ≤ ηwh
+ < 38
+ | 
+45 ≤ ηwh
+ < 65
+ | 
+50 ≤ ηwh
+ < 75
+ | 
+55 ≤ ηwh
+ < 80
+ | 
+60 ≤ ηwh
+ < 85
+ | 
+C
+ | 
+29 ≤ ηwh
+ < 32
+ | 
+29 ≤ ηwh
+ < 32
+ | 
+32 ≤ ηwh
+ < 35
+ | 
+32 ≤ ηwh
+ < 35
+ | 
+36 ≤ ηwh
+ < 45
+ | 
+37 ≤ ηwh
+ < 50
+ | 
+38 ≤ ηwh
+ < 55
+ | 
+40 ≤ ηwh
+ < 60
+ | 
+D
+ | 
+26 ≤ ηwh
+ < 29
+ | 
+26 ≤ ηwh
+ < 29
+ | 
+29 ≤ ηwh
+ < 32
+ | 
+29 ≤ ηwh
+ < 32
+ | 
+33 ≤ ηwh
+ < 36
+ | 
+34 ≤ ηwh
+ < 37
+ | 
+35 ≤ ηwh
+ < 38
+ | 
+36 ≤ ηwh
+ < 40
+ | 
+E
+ | 
+22 ≤ ηwh
+ < 26
+ | 
+23 ≤ ηwh
+ < 26
+ | 
+26 ≤ ηwh
+ < 29
+ | 
+26 ≤ ηwh
+ < 29
+ | 
+30 ≤ ηwh
+ < 33
+ | 
+30 ≤ ηwh
+ < 34
+ | 
+30 ≤ ηwh
+ < 35
+ | 
+32 ≤ ηwh
+ < 36
+ | 
+F
+ | 
+19 ≤ ηwh
+ < 22
+ | 
+20 ≤ ηwh
+ < 23
+ | 
+23 ≤ ηwh
+ < 26
+ | 
+23 ≤ ηwh
+ < 26
+ | 
+27 ≤ ηwh
+ < 30
+ | 
+27 ≤ ηwh
+ < 30
+ | 
+27 ≤ ηwh
+ < 30
+ | 
+28 ≤ ηwh
+ < 32
+ | 
+G
+ | 
+ ηwh
+ < 19
+ | 
+ ηwh
+ < 20
+ | 
+ ηwh
+ < 23
+ | 
+ ηwh
+ < 23
+ | 
+ ηwh
+ < 27
+ | 
+ ηwh
+ < 27
+ | 
+ ηwh
+ < 27
+ | 
+ ηwh
+ < 28
+ | 
+2.   CLASES DE EFICIENCIA ENERGÉTICA DE LOS DEPÓSITOS DE AGUA CALIENTE
+La eficiencia energética de un depósito de agua caliente puede determinarse sobre la base de sus pérdidas estáticas según se indica en el cuadro 2.
+ Cuadro 2
+ Clases de eficiencia energética de los depósitos de agua caliente
+Clase de eficiencia energética
+ | 
+Pérdidas estáticas S en vatios, con capacidad V en litros
+ | 
+A+
+ | 
+ | 
+A
+ | 
+ | 
+B
+ | 
+ | 
+C
+ | 
+ | 
+D
+ | 
+ | 
+E
+ | 
+ | 
+F
+ | 
+ | 
+G
+ | 
+ | 
+ANEXO III
+ Etiquetas
+1.   CALENTADORES DE AGUA
+1.1.   Etiqueta 1
+1.1.1.   Calentadores de agua convencionales de las clases de eficiencia energética del caldeo de agua A a G
+a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III.
+ | 
+función de caldeo de agua, con inclusión del perfil de carga declarado, expresado con la letra adecuada de conformidad con el cuadro 3 del anexo VII;
+ | 
+IV.
+ | 
+la clase de eficiencia energética del caldeo de agua, determinada de conformidad con el punto 1 del anexo II; la punta de la flecha que contiene la clase de eficiencia energética del caldeo de agua del calentador se colocará a la misma altura que la punta de la clase de eficiencia energética correspondiente;
+ | 
+V.
+ | 
+el consumo anual de electricidad en kWh en términos de energía final o el consumo anual de combustible en GJ en términos del GCV, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VIII;
+ | 
+VI.
+ | 
+el nivel de potencia acústica LWA
+ en el interior, en dB, redondeado al número entero más próximo;
+ | 
+VII.
+ | 
+para los calentadores de agua convencionales capaces de trabajar solo durante las horas valle, se puede añadir el pictograma mencionado en el punto 4, letra d), número 10, del presente anexo.
+ | 
+ | 
+b)
+ | 
+Los aspectos de diseño de la etiqueta para los calentadores de agua convencionales se ajustarán a lo indicado en el punto 4 del presente anexo.
+ | 
+1.1.2.   Calentadores de agua solares de las clases de eficiencia energética del caldeo de agua A a G
+a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III.
+ | 
+función de caldeo del agua, con inclusión del perfil de carga declarado, expresado con la letra adecuada de conformidad con el cuadro 3 del anexo VII;
+ | 
+IV.
+ | 
+la clase de eficiencia energética del caldeo de agua en condiciones climáticas medias, determinada de conformidad con el punto 1 del anexo II; la punta de la flecha que contiene la clase de eficiencia energética de caldeo del agua del calentador se colocará a la misma altura que la punta de la clase de eficiencia energética correspondiente;
+ | 
+V.
+ | 
+el consumo anual de electricidad en kWh en términos de energía final o el consumo anual de combustible en GJ en términos del GCV, en condiciones climáticas medias, más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VIII;
+ | 
+VI.
+ | 
+mapa solar de Europa que muestra tres zonas de irradiancia solar global indicativas;
+ | 
+VII.
+ | 
+el nivel de potencia acústica LWA
+ en el interior, en dB, redondeado al número entero más próximo.
+ | 
+ | 
+b)
+ | 
+Los aspectos de diseño de la etiqueta para los calentadores de agua solares se ajustarán a lo indicado en el punto 5 del presente anexo.
+ | 
+1.1.3.   Calentadores de agua con bomba de calor de las clases de eficiencia energética del caldeo de agua A a G
+a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III.
+ | 
+función de caldeo del agua, con inclusión del perfil de carga declarado, expresado con la letra adecuada de conformidad con el cuadro 3 del anexo VII;
+ | 
+IV.
+ | 
+la clase de eficiencia energética del caldeo de agua en condiciones climáticas medias, determinada de conformidad con el punto 1 del anexo II; la punta de la flecha que contiene la clase de eficiencia energética del caldeo de agua del calentador se colocará a la misma altura que la punta de la clase de eficiencia energética correspondiente;
+ | 
+V.
+ | 
+el consumo anual de electricidad en kWh en términos de energía final o el consumo anual de combustible en GJ en términos del GCV, en condiciones climáticas medias, más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VIII;
+ | 
+VI.
+ | 
+mapa de temperaturas de Europa que muestra tres zonas de temperatura indicativas;
+ | 
+VII.
+ | 
+el nivel de potencia acústica LWA
+ , en el interior (si procede) y el exterior, en dB, redondeado al número entero más próximo;
+ | 
+VIII.
+ | 
+para los calentadores de agua con bomba de calor capaces de trabajar solo durante las horas valle, se puede añadir el pictograma mencionado en el punto 6, letra d), número 11, del presente anexo.
+ | 
+ | 
+b)
+ | 
+Los aspectos de diseño de la etiqueta para los calentadores de agua con bomba de calor se ajustarán a lo indicado en el punto 6 del presente anexo. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» de conformidad con el Reglamento (CE) no 66/2010 del Parlamento Europeo y del Consejo (1), podrá añadirse una copia de dicha etiqueta ecológica.
+ | 
+1.2.   Etiqueta 2
+1.2.1.   Calentadores de agua convencionales de las clases de eficiencia energética de caldeo de agua de A+ a F
+(a)
+ | 
+En la etiqueta figurará la información enumerada en el punto 1.1.1, letra a), del presente anexo.
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los calentadores de agua convencionales se ajustarán a lo indicado en el punto 4 del presente anexo.
+ | 
+1.2.2.   Calentadores de agua solares de las clases de eficiencia energética de caldeo de agua de A+ a F
+(a)
+ | 
+En la etiqueta figurará la información enumerada en el punto 1.1.2, letra a), del presente anexo.
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los calentadores de agua solares se ajustarán a lo indicado en el punto 5 del presente anexo.
+ | 
+1.2.3.   Calentadores de agua con bomba de calor de las clases de eficiencia energética de caldeo de agua de A+ a F
+(a)
+ | 
+En la etiqueta figurará la información enumerada en el punto 1.1.3, letra a), del presente anexo.
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los calentadores de agua con bomba de calor se ajustarán a lo indicado en el punto 6 del presente anexo.
+ | 
+2.   DEPÓSITOS DE AGUA CALIENTE
+2.1.   Etiqueta 1 para los depósitos de agua caliente de las clases de eficiencia energética de A a G
+(a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del proveedor;
+ | 
+II.
+ | 
+identificador del modelo del proveedor;
+ | 
+III.
+ | 
+función de almacenamiento de agua;
+ | 
+IV.
+ | 
+clase de eficiencia energética, determinada de conformidad con el punto 2 del anexo II; la punta de la flecha que contiene la clase de eficiencia energética del depósito de agua caliente se colocará a la misma altura que la punta de la clase de eficiencia energética correspondiente;
+ | 
+V.
+ | 
+la potencia de mantenimiento en W, redondeada al número entero más próximo;
+ | 
+VI.
+ | 
+el volumen del depósito de agua caliente en litros, redondeado al entero más próximo.
+ | 
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los depósitos de agua caliente se ajustarán a lo indicado en el punto 7 del presente anexo.
+ | 
+2.2.   Etiqueta 2 para los depósitos de agua caliente de las clases de eficiencia energética A+ a F
+(a)
+ | 
+En la etiqueta figurará la información enumerada en el punto 2.1, letra a), del presente anexo.
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los depósitos de agua caliente se ajustarán a lo indicado en el punto 7 del presente anexo.
+ | 
+3.   EQUIPOS COMBINADOS DE CALENTADOR DE AGUA Y DISPOSITIVO SOLAR
+Etiqueta para los equipos combinados de calentador de agua y dispositivo solar de las clases de eficiencia energética de caldeo de agua A+++ a G
+(a)
+ | 
+En la etiqueta figurará la siguiente información:
+I.
+ | 
+nombre o marca comercial del distribuidor o proveedor;
+ | 
+II.
+ | 
+identificador del modelo o modelos del distribuidor o proveedor;
+ | 
+III.
+ | 
+función de caldeo de agua, que incluya el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 3 del anexo VII;
+ | 
+IV.
+ | 
+la clase de eficiencia energética de caldeo de agua del calentador de agua, determinada de conformidad con el punto 1 del anexo II;
+ | 
+V.
+ | 
+indicación de si un colector solar y un depósito de agua caliente pueden formar parte del equipo combinado de calentador de agua y dispositivo solar;
+ | 
+VI.
+ | 
+la clase de eficiencia energética de caldeo de agua del equipo combinado de calentador de agua y dispositivo solar, determinada de conformidad con el punto 4 del anexo IV; la punta de la flecha que contiene la clase de eficiencia energética de caldeo de agua del equipo combinado de calentador de agua y dispositivo solar se colocará a la misma altura que la punta de la clase de eficiencia energética correspondiente;
+ | 
+ | 
+(b)
+ | 
+Los aspectos de diseño de la etiqueta para los equipos combinados de calentador de agua y dispositivo solar se ajustarán a lo indicado en el punto 8 del presente anexo. Para los equipos combinados de calentador de agua y dispositivo solar de las clases de eficiencia energética del caldeo de agua A+++ a D, pueden omitirse las últimas clases E a G de la escala A+++ a G.
+ | 
+4.   El diseño de la etiqueta de los calentadores de agua convencionales atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ Logotipo UE: colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-00-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm.
+ | 
+ | 
+ Trazo bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm.
+ | 
+ | 
+ Función de caldeo de agua:
+—
+ | 
+ Pictograma como el representado, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 3 del anexo VII: Calibri negrita 16 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Escala A-G o A+-F:
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00.
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas, blanco, símbolo «+»: superíndice.
+ | 
+ | 
+ | 
+ Clases de eficiencia energética de caldeo de agua:
+—
+ | 
+ Flecha: anchura: 22 mm, altura: 12 mm, negro 100 %.
+ | 
+—
+ | 
+ Texto: Calibri negrita 24 pt, mayúsculas, blanco, símbolo «+»: superíndice.
+ | 
+ | 
+ | 
+ Nivel de potencia acústica en interiores:
+—
+ | 
+ Pictograma como el representado
+ | 
+—
+ | 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 15 pt, negro 100 %;
+ | 
+—
+ | 
+ Texto «dB»: Calibri normal 10 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Consumo anual de energía en kWh/año o GJ/año:
+—
+ | 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm
+ | 
+—
+ | 
+ Valor «WXYZ» o «YZ»: Calibri negrita de mínimo 20 pt, negro 100 %
+ | 
+—
+ | 
+ Texto «kWh/año» o «GJ/año»: Calibri normal de mínimo 15 pt, negro 100 %
+ | 
+ | 
+ | 
+ Cuando proceda, idoneidad para el uso en horas de baja demanda:
+—
+ | 
+ Pictograma como el representado
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o marca comercial del proveedor y el identificador del modelo deberán caber en un espacio de 86 × 12 mm.
+ | 
+ | 
+5.   El diseño de la etiqueta de los calentadores de agua solares atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm.
+ | 
+ | 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-00-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm.
+ | 
+ | 
+ Trazo bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm.
+ | 
+ | 
+ Función de caldeo de agua:
+—
+ | 
+ Pictograma como el representado, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 3 del anexo VII: Calibri negrita 16 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Escala A-G o A+-F:
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00.
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas, blanco, símbolo «+»: superíndice.
+ | 
+ | 
+ | 
+ Clases de eficiencia energética de caldeo de agua:
+—
+ | 
+ Flecha: anchura: 22 mm, altura: 12 mm, negro 100 %.
+ | 
+—
+ | 
+ Texto: Calibri negrita 24 pt, mayúsculas, blanco, símbolo «+»: superíndice.
+ | 
+ | 
+ | 
+ Nivel de potencia acústica en interiores:
+—
+ | 
+ Pictograma como el representado
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 15 pt, negro 100 %;
+ | 
+—
+ | 
+ Texto «dB»: Calibri normal 10 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Consumo anual de energía en kWh/año o GJ/año:
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+—
+ | 
+ Valores «WXYZ» o «YZ»: Calibri de mínimo 13 pt, negro 100 %
+ | 
+—
+ | 
+ Texto «kWh/año» o «GJ/año»: Calibri normal de mínimo 11 pt, negro 100 %
+ | 
+ | 
+ | 
+ Mapa solar de Europa y cuadrados en color:
+—
+ | 
+ Pictograma como el representado
+ | 
+—
+ | 
+ Colores: azul oscuro: 86-51-00-00,
+azul medio: 53-08-00-00,
+azul claro: 25-00-02-00.
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o marca comercial del proveedor y el identificador del modelo deberán poder inserirse en un espacio de 86 × 12 mm.
+ | 
+ | 
+6.   El diseño de la etiqueta de los calentadores de agua con bomba de calor atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ Logotipo UE: colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-X-00. Pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm
+ | 
+ | 
+ Trazo bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm
+ | 
+ | 
+ Función de caldeo de agua:
+—
+ | 
+ Pictograma como el representado, incluido el perfil de carga declarado, expresado mediante la letra correspondiente de conformidad con el cuadro 3 del anexo VII; Calibri negrita 16 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Escala A-G o A+-F:
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas y blanco, símbolo «+»: superíndice.
+ | 
+ | 
+ | 
+ Clase de eficiencia energética de caldeo de agua
+—
+ | 
+ Flecha: anchura: 22 mm, altura: 12 mm, negro 100 %,
+ | 
+—
+ | 
+ Texto: Calibri negrita 24 pt, mayúsculas y blanco, símbolo «+»: superíndice.
+ | 
+ | 
+ | 
+ Nivel de potencia acústica, interior (cuando proceda) y exterior:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 15 pt, negro 100 %,
+ | 
+—
+ | 
+ Texto «dB»: Calibri normal 10 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Consumo anual de energía en kWh/año o GJ/año:
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valores «WXYZ» o «YZ»: Calibri negrita 13 pt, negro 100 %;
+ | 
+—
+ | 
+ Texto «kWh/año» o «GJ/año»: Calibri negrita mínimo 11 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Mapa de temperaturas de Europa y cuadrados en color:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+ Colores: azul oscuro: 86-51-00-00,
+azul medio: 53-08-00-00,
+azul claro: 25-00-02-00.
+ | 
+ | 
+ | 
+ Cuando proceda, idoneidad para el uso en horas de baja demanda:
+—
+ | 
+ Pictograma como el representado,
+ | 
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o marca comercial del proveedor y la identificación del modelo deberán poder inserirse en un espacio de 86 × 12 mm.
+ | 
+ | 
+7.   El diseño de la etiqueta de los depósitos de agua caliente con bomba de calor atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 105 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 4 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ Logotipo UE: colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-X-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 86 mm, altura: 17 mm
+ | 
+ | 
+ Reborde bajo los logotipos: 1 pt, color: cian 100 %, longitud: 86 mm
+ | 
+ | 
+ Función de acumulación:
+—
+ | 
+ Pictograma como el representado.
+ | 
+ | 
+ | 
+ Escala A-G o A+-F:
+—
+ | 
+ Flecha: altura: 7 mm, espacio: 1 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Última clase: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 16 pt, mayúsculas y blanco, símbolo «+»: superíndice.
+ | 
+ | 
+ | 
+ Clase de eficiencia energética:
+—
+ | 
+ Flecha: anchura: 22 mm, altura: 12 mm, negro 100 %,
+ | 
+—
+ | 
+ Texto: Calibri negrita 24 pt, mayúsculas y blanco, símbolo «+»: superíndice.
+ | 
+ | 
+ | 
+ Pérdida constante:
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valor «YZ»: Calibri negrita 45 pt, negro 100 %,
+ | 
+—
+ | 
+ Texto «W»: Calibri normal 30 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Capacidad:
+—
+ | 
+ Reborde: 2 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm,
+ | 
+—
+ | 
+ Valor «XYZ»: Calibri negrita 45 pt, negro 100 %,
+ | 
+—
+ | 
+ Texto «L»: Calibri normal 30 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 10 pt.
+ | 
+ | 
+ | 
+ Nombre o marca comercial del proveedor.
+ | 
+ | 
+ Identificador del modelo del proveedor:
+El nombre o marca comercial del proveedor y la identificación del modelo deberán poder inserirse en un espacio de 86 × 12 mm.
+ | 
+ | 
+8.   El diseño de la etiqueta de los equipos combinados de calentador de agua y dispositivo solar atenderá al siguiente modelo:
+Se tendrán en cuenta las siguientes precisiones:
+(a)
+ | 
+La etiqueta medirá al menos 210 mm de ancho y 297 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las especificaciones que figuran más arriba.
+ | 
+(b)
+ | 
+El fondo será blanco.
+ | 
+(c)
+ | 
+Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %.
+ | 
+(d)
+ | 
+La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior):
+ | 
+ Trazo del reborde de la etiqueta UE: 6 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00.
+ | 
+ | 
+ Etiqueta energética: Color: X-00-X-00. Pictograma como el representado: Logotipo UE + etiqueta de energía: anchura: 191 mm, altura: 37 mm
+ | 
+ | 
+ Trazo bajo los logotipos: 2 pt, color: cian 100 %, longitud: 191 mm
+ | 
+ | 
+ Función de caldeo de agua:
+—
+ | 
+ Pictograma como el representado, incluido el perfil de carga declarado expresado mediante la letra correspondiente de conformidad con el cuadro 3 del anexo VII; Calibri negrita 22 pt, negro 100 %.
+ | 
+ | 
+ | 
+ Calentador de agua:
+—
+ | 
+ Pictograma como el representado.
+ | 
+—
+ | 
+ Clase de eficiencia energética de caldeo de agua del calentador de agua:
+—
+ | 
+ Flecha: anchura: 24 mm, altura: 14 mm, negro 100 %,
+ | 
+—
+ | 
+ Texto: Calibri negrita 28 pt, mayúsculas, blanco,
+ | 
+ | 
+—
+ | 
+ Reborde: 3 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ | 
+ Equipo combinado con colector solar y/o depósito de agua caliente:
+—
+ | 
+ Pictogramas como los representados,
+ | 
+—
+ | 
+ símbolo «+»: Calibri negrita 50 pt, cian 100 %,
+ | 
+—
+ | 
+ Cajas: anchura: 12 mm, altura: 12 mm, reborde: 4 pt, cian 100 %,
+ | 
+—
+ | 
+ Reborde: 3 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ | 
+ Escala de A+++ a G con reborde:
+—
+ | 
+ Flecha: altura: 15 mm, espacio: 3 mm, colores:
+—
+ | 
+Clase superior: X-00-X-00,
+ | 
+—
+ | 
+Segunda clase: 70-00-X-00,
+ | 
+—
+ | 
+Tercera clase: 30-00-X-00,
+ | 
+—
+ | 
+Cuarta clase: 00-00-X-00,
+ | 
+—
+ | 
+Quinta clase: 00-30-X-00,
+ | 
+—
+ | 
+Sexta clase: 00-70-X-00,
+ | 
+—
+ | 
+Séptima clase: 00-X-X-00,
+ | 
+—
+ | 
+Si procede, últimas clases: 00-X-X-00,
+ | 
+ | 
+—
+ | 
+ Texto: Calibri negrita 30 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea,
+ | 
+—
+ | 
+ Reborde: 3 pt, color: cian 100 %, esquinas redondeadas: 3,5 mm
+ | 
+ | 
+ | 
+ Clase de eficiencia energética de caldeo de agua del equipo combinado de calentador de agua y dispositivo solar:
+—
+ | 
+ Flecha: anchura: 33 mm, altura: 19 mm, negro 100 %,
+ | 
+—
+ | 
+ Texto: Calibri negrita 40 pt, mayúsculas, blanco, símbolos «+»: superíndice, alineado en una sola línea.
+ | 
+ | 
+ | 
+ Año de introducción de la etiqueta y número del Reglamento:
+—
+ | 
+ Texto: Calibri negrita 12 pt.
+ | 
+ | 
+ | 
+ Marca comercial del distribuidor y/o proveedor.
+ | 
+ | 
+ Identificador del modelo del distribuidor y/o proveedor:
+El nombre o marca comercial del distribuidor y/o proveedor y la identificación del modelo deberán poder inserirse en un espacio de 191 × 19 mm.
+ | 
+ | 
+ (1)  
+ DO L 27 de 30.1.2010, p. 1.
+ANEXO IV
+ Ficha del producto
+1.   CALENTADORES DE AGUA
+1.1.
+ | 
+ La información de la ficha del producto relativa al calentador de agua se facilitará en el siguiente orden y debe figurar en el folleto del producto u otra documentación que se adjunte al producto:
+(a)
+ | 
+nombre o marca comercial del proveedor;
+ | 
+(b)
+ | 
+identificador del modelo del proveedor;
+ | 
+(c)
+ | 
+el perfil de carga declarado, expresado mediante la letra correspondiente y el uso típico de conformidad con el cuadro 3 del anexo VII;
+ | 
+(d)
+ | 
+la clase de eficiencia energética de caldeo de agua del modelo, determinada de conformidad con el punto 1 del anexo II; para los calentadores de agua solares y los calentadores de agua con bomba de calor, se aplican condiciones climáticas medias;
+ | 
+(e)
+ | 
+la eficiencia energética de caldeo de agua en %, redondeada al número entero más próximo y calculada de conformidad con el punto 3 del anexo VIII; para los calentadores de agua solares y los calentadores de agua con bomba de calor, se aplican condiciones climáticas medias;
+ | 
+(f)
+ | 
+el consumo anual de electricidad en kWh en términos de la energía final y/o el consumo anual de combustible en GJ en términos de GCV, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VIII; para los calentadores de agua solares y los calentadores de agua con bomba de calor, se aplican condiciones climáticas medias;
+ | 
+(g)
+ | 
+cuando proceda, otros perfiles de carga para los que sea adecuado el uso del calentador de agua, y la eficiencia energética de caldeo de agua y el consumo anual de electricidad correspondientes, tal como se establece en las letras e) y f);
+ | 
+(h)
+ | 
+los ajustes de temperatura del termostato del calentador de agua en el momento de su comercialización por el proveedor;
+ | 
+(i)
+ | 
+el nivel de potencia acústica LWA
+ en interiores, en dB, redondeado al número entero más próximo (cuando proceda para los calentadores de agua con bomba de calor);
+ | 
+(j)
+ | 
+cuando proceda, una indicación de que el calentador de agua puede funcionar solamente durante las horas de baja demanda;
+ | 
+(k)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del calentador de agua;
+ | 
+(l)
+ | 
+cuando se declare que el valor de smart es «1», una indicación de que la información sobre la eficiencia energética de caldeo de agua y el consumo anual de electricidad y combustible, según proceda, se refieren exclusivamente a los ajustes de control inteligente activado;
+ | 
+además, en lo que respecta a los calentadores de agua solares y a los calentadores de agua con bomba de calor:
+(m)
+ | 
+la eficiencia energética de caldeo de agua en porcentaje, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo y calculada de conformidad con el punto 3 del anexo VIII;
+ | 
+(n)
+ | 
+el consumo anual de electricidad en kWh en términos de energía final o el consumo anual de combustible en GJ en términos del GCV, en condiciones climáticas más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VIII;
+ | 
+además, en el caso de los calentadores de agua solares:
+(o)
+ | 
+el área de apertura del colector en m2, redondeada al segundo decimal;
+ | 
+(p)
+ | 
+la eficiencia de pérdida cero, redondeada al tercer decimal;
+ | 
+(q)
+ | 
+el coeficiente de primer orden en W/(m2 K), redondeado al segundo decimal;
+ | 
+(r)
+ | 
+el coeficiente de segundo orden en W/(m2 K2), redondeado al tercer decimal;
+ | 
+(s)
+ | 
+el modificador del ángulo de incidencia, redondeado al segundo decimal;
+ | 
+(t)
+ | 
+la capacidad en litros, redondeada al número entero más próximo;
+ | 
+(u)
+ | 
+el consumo de electricidad de la bomba en W, redondeado al número entero más próximo;
+ | 
+(v)
+ | 
+el consumo eléctrico en modo espera, en W, redondeado al segundo decimal;
+ | 
+además, en el caso de los calentadores de agua con bomba de calor:
+(w)
+ | 
+el nivel de potencia acústica LWA
+ en exteriores, en dB, redondeado al número entero más próximo.
+ | 
+ | 
+1.2.
+ | 
+ Se podrá utilizar una única ficha para varios modelos de calentador de agua suministrados por el mismo proveedor.
+ | 
+1.3.
+ | 
+ La información recogida en la ficha podrá consistir en una reproducción de la etiqueta, ya sea en color o en blanco y negro. Si tal fuera el caso, también se facilitaría la información enumerada en el punto 1.1 que no figure todavía en la etiqueta.
+ | 
+2.   DEPÓSITOS DE AGUA CALIENTE
+2.1.
+ | 
+ La información contenida en la ficha de producto del depósito de agua caliente figurará en el orden siguiente, y se incluirá en el folleto del producto u otro material escrito facilitado junto con el mismo:
+(a)
+ | 
+nombre o marca comercial del proveedor;
+ | 
+(b)
+ | 
+identificador del modelo del proveedor;
+ | 
+(c)
+ | 
+la clase de eficiencia energética del modelo, determinada de conformidad con el punto 2 del anexo II;
+ | 
+(d)
+ | 
+la pérdida estática en W, redondeada al número entero más próximo;
+ | 
+(e)
+ | 
+la capacidad en litros, redondeada al número entero más próximo.
+ | 
+ | 
+2.2.
+ | 
+ Se podrá utilizar una única ficha para varios modelos de depósito de agua caliente suministrados por el mismo proveedor.
+ | 
+2.3.
+ | 
+ La información recogida en la ficha podrá consistir en una reproducción de la etiqueta, ya sea en color o en blanco y negro. Si tal fuera el caso, también se facilitaría la información enumerada en el punto 2.1 que no figure todavía en la etiqueta.
+ | 
+3.   DISPOSITIVOS SOLARES
+3.1.
+ | 
+ La información contenida en la ficha del producto del dispositivo solar figurará en el orden siguiente, y se incluirá en el folleto del producto u otro material escrito facilitado junto con el mismo (para las bombas del circuito del colector, si procede):
+(a)
+ | 
+nombre o marca comercial del proveedor;
+ | 
+(b)
+ | 
+identificador del modelo del proveedor;
+ | 
+(c)
+ | 
+el área de apertura del colector en m2, redondeada al segundo decimal;
+ | 
+(d)
+ | 
+la eficiencia de pérdida cero, redondeada al tercer decimal;
+ | 
+(e)
+ | 
+el coeficiente de primer orden en W/(m2 K), redondeado al segundo decimal;
+ | 
+(f)
+ | 
+el coeficiente de segundo orden en W/(m2 K2), redondeado al tercer decimal;
+ | 
+(g)
+ | 
+el modificador del ángulo de incidencia, redondeado al segundo decimal;
+ | 
+(h)
+ | 
+la capacidad en litros, redondeada al número entero más próximo;
+ | 
+(i)
+ | 
+la contribución calorífica anual no solar Qnonsol en kWh en términos de energía primaria para electricidad y/o en kWh en términos de GCV para combustibles, para los perfiles de carga M, L, XL, y XXL en condiciones climáticas medias, redondeada al número entero más próximo;
+ | 
+(j)
+ | 
+el consumo de electricidad de la bomba en W, redondeado al número entero más próximo;
+ | 
+(k)
+ | 
+el consumo eléctrico en modo espera, en W, redondeado al segundo decimal;
+ | 
+(l)
+ | 
+el consumo anual de electricidad auxiliar Qaux
+ en kWh en términos de la energía final, redondeado al número entero más próximo.
+ | 
+ | 
+3.2.
+ | 
+ Se podrá utilizar una única ficha para varios modelos de dispositivo solar suministrados por el mismo proveedor.
+ | 
+4.   EQUIPOS COMBINADOS DE CALENTADOR DE AGUA Y DISPOSITIVO SOLAR
+La ficha para equipos combinados de calentador de agua y dispositivo solar contendrá los elementos indicados en la figura 1 para evaluar la eficiencia energética del caldeo de agua de un equipo combinado de calentador de agua y dispositivo solar, y en ellos figurará la información siguiente:
+—
+ | 
+I: el valor de la eficiencia energética de caldeo de agua del calentador de agua, expresado en porcentaje,
+ | 
+—
+ | 
+II: el valor de la expresión matemática 
+ , donde Qref
+ se toma del cuadro 3 del anexo VII y Qnonsol
+ de la ficha de producto del dispositivo solar para el perfil de carga declarado M, L, XL o XXL del calentador de agua,
+ | 
+—
+ | 
+III: el valor de la expresión matemática 
+ , expresada en porcentaje, donde Qaux
+ se toma de la ficha del producto del dispositivo solar y Qref del cuadro 16 del anexo VII para el perfil de carga declarado M, L, XL o XXL.
+ | 
+ Figura 1
+ Ficha para un equipo combinado de calentador de agua y dispositivo solar que indica la eficiencia energética del caldeo de agua del equipo combinado ofrecido
+Eficiencia energética de caldeo del agua de calentador de agua
+Perfil de carga declarado:
+Contribución solar:
+De la ficha del dispositivo solar
+Electricidad auxiliar
+Eficiencia energética de caldeo de agua del equipo combinado en condiciones climáticas medias
+Más frías:
+Más cálidas:
+Clase de eficiencia energética de caldeo de agua del equipo combinado en condiciones climáticas medias
+Eficiencia energética de caldeo de agua en condiciones climáticas más frías y más cálidas
+La eficiencia energética del equipo combinado de productos que figura en esta ficha puede no corresponder a su eficiencia energética real una vez instalado en un edificio, ya que en esta eficiencia influyen otros factores tales como la pérdida de calor en el sistema de distribución y el dimensionamiento de los productos en relación con el tamaño y las características del edificio.
+ANEXO V
+ Documentación técnica
+1.   CALENTADORES DE AGUA
+Para los calentadores de agua, la documentación técnica mencionada en el artículo 3, apartado 1, letra c), comprenderá:
+a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+b)
+ | 
+una descripción del modelo de calentador de agua suficiente para su identificación inequívoca;
+ | 
+c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+f)
+ | 
+los resultados de las mediciones de los parámetros técnicos especificados en el punto 7 del anexo VII;
+ | 
+g)
+ | 
+los resultados de los cálculos de los parámetros técnicos especificados en el punto 2 del anexo VIII;
+ | 
+h)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del calentador de agua.
+ | 
+2.   DEPÓSITOS DE AGUA CALIENTE
+Para los depósitos de agua caliente, la documentación técnica mencionada en el artículo 3, apartado 2, letra c), comprenderá:
+a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+b)
+ | 
+una descripción del modelo de depósito de agua caliente suficiente para su identificación inequívoca;
+ | 
+c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+f)
+ | 
+los resultados de las mediciones de los parámetros técnicos especificados en el punto 8 del anexo VII;
+ | 
+g)
+ | 
+cualesquiera precauciones específicas que deban adoptarse durante el montaje, instalación o mantenimiento del depósito de agua caliente.
+ | 
+3.   DISPOSITIVOS SOLARES
+La documentación técnica de los dispositivos solares mencionada en el artículo 3, apartado 3, letra b), comprenderá:
+a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+b)
+ | 
+una descripción del modelo de dispositivo solar suficiente para su identificación inequívoca;
+ | 
+c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+f)
+ | 
+los resultados de las mediciones de los parámetros técnicos especificados en el punto 9 del anexo VII;
+ | 
+g)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del dispositivo solar.
+ | 
+4.   EQUIPOS COMBINADOS DE CALENTADOR DE AGUA Y DISPOSITIVO SOLAR
+Para los equipos combinados de calentador de agua y dispositivo solar, la documentación técnica mencionada en el artículo 3, apartado 4, letra c), comprenderá:
+a)
+ | 
+el nombre y la dirección del proveedor;
+ | 
+b)
+ | 
+una descripción del modelo de equipo combinado de calentador de agua y dispositivo solar suficiente para su identificación inequívoca;
+ | 
+c)
+ | 
+si procede, las referencias de las normas armonizadas aplicadas;
+ | 
+d)
+ | 
+si procede, las demás especificaciones y normas técnicas aplicadas;
+ | 
+e)
+ | 
+la identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor;
+ | 
+f)
+ | 
+parámetros técnicos:
+—
+ | 
+la eficiencia energética de caldeo de agua en %, redondeada al número entero más próximo,
+ | 
+—
+ | 
+los parámetros técnicos establecidos en los puntos 1, 2 y 3 del presente anexo;
+ | 
+ | 
+g)
+ | 
+cualesquiera precauciones específicas que hayan de tomarse durante el montaje, instalación o mantenimiento del equipo combinado de calentador de agua y dispositivo solar.
+ | 
+ANEXO VI
+ Información que debe facilitarse en los casos en que el usuario final no tenga la posibilidad de ver el producto expuesto
+1.   CALENTADORES DE AGUA
+1.1.
+ | 
+ La información contemplada en el artículo 4, apartado 1, letra b), se facilitará en el siguiente orden:
+a)
+ | 
+el perfil de carga declarado, expresado mediante la letra correspondiente y el uso típico de conformidad con el cuadro 3 del anexo VII;
+ | 
+b)
+ | 
+la clase de eficiencia energética del caldeo de agua en condiciones climáticas medias, determinada de conformidad con el punto 1 del anexo II;
+ | 
+c)
+ | 
+la eficiencia energética del caldeo de agua en porcentaje, en condiciones climáticas medias, redondeada al número entero más próximo y calculada de conformidad con el punto 3 del anexo VIII;
+ | 
+d)
+ | 
+el consumo anual de electricidad en kWh de energía final y/o el consumo anual de combustible en GJ en términos del GCV, en condiciones climáticas medias, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VIII;
+ | 
+e)
+ | 
+el nivel de potencia acústica en interiores, en dB, redondeado al número entero más próximo (cuando proceda para los calentadores de agua con bomba de calor);
+ | 
+además, en lo que respecta a los calentadores de agua solares y a los calentadores de agua con bomba de calor:
+f)
+ | 
+la eficiencia energética de caldeo de agua en porcentaje, en condiciones climáticas más frías y más cálidas, redondeada al número entero más próximo y calculada de conformidad con el punto 3 del anexo VIII;
+ | 
+g)
+ | 
+el consumo anual de electricidad en kWh en términos de energía final o el consumo anual de combustible en GJ en términos del GCV, en condiciones climáticas más frías y más cálidas, redondeado al número entero más próximo y calculado de conformidad con el punto 4 del anexo VIII;
+ | 
+además, en el caso de los calentadores de agua solares:
+h)
+ | 
+el área de apertura del colector en m2, redondeada al segundo decimal;
+ | 
+i)
+ | 
+la capacidad en litros, redondeada al número entero más próximo;
+ | 
+además, en el caso de los calentadores de agua con bomba de calor:
+j)
+ | 
+el nivel de potencia acústica en exteriores, en dB, redondeado al número entero más próximo.
+ | 
+ | 
+1.2.
+ | 
+ En caso de que se facilite también información de otro tipo en la ficha del producto, deberá hacerse en la forma y orden que se especifican en el punto 1 del anexo IV.
+ | 
+1.3.
+ | 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en los puntos 1.1 y 1.2 deberán ser legibles.
+ | 
+2.   DEPÓSITOS DE AGUA CALIENTE
+2.1.
+ | 
+ La información contemplada en el artículo 4, apartado 2, letra b), se facilitará en el siguiente orden:
+a)
+ | 
+la clase de eficiencia energética del modelo, determinada de conformidad con el punto 2 del anexo II;
+ | 
+b)
+ | 
+la pérdida estática en W, redondeada al número entero más próximo;
+ | 
+c)
+ | 
+la capacidad en litros, redondeada al número entero más próximo;
+ | 
+ | 
+2.2.
+ | 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en el punto 2.1 deberán ser legibles.
+ | 
+3.   EQUIPOS COMBINADOS DE CALENTADOR DE AGUA Y DISPOSITIVO SOLAR
+3.1.
+ | 
+ La información contemplada en el artículo 4, apartado 3, letra b), se facilitará en el siguiente orden:
+a)
+ | 
+la clase de eficiencia energética del caldeo de agua del modelo, determinada de conformidad con el punto 1 del anexo II;
+ | 
+b)
+ | 
+la eficiencia energética de caldeo de agua en %, redondeada al número entero máx próximo;
+ | 
+c)
+ | 
+los elementos establecidos en la figura 1 del anexo IV.
+ | 
+ | 
+3.2.
+ | 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en el punto 3,1 deberán ser legibles.
+ | 
+ANEXO VII
+ Mediciones
+1.   Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, se realizarán mediciones aplicando normas armonizadas cuyos números de referencia hayan sido publicados con este fin en el Diario Oficial de la Unión Europea, u otros métodos de medición fiables, exactos y reproducibles, que tengan en cuenta los métodos más avanzados generalmente aceptados. Dichas mediciones y cálculos cumplirán las condiciones y los parámetros técnicos establecidos en los puntos 2 a 9.
+2.   Condiciones generales para probar calentadores de agua:
+a)
+ | 
+las mediciones se realizarán utilizando los perfiles de carga del cuadro 3;
+ | 
+b)
+ | 
+las mediciones se realizarán aplicando un ciclo de medición de 24 horas, del siguiente modo:
+—
+ | 
+desde las 00:00 hasta las 06:59: sin salida de agua,
+ | 
+—
+ | 
+a partir de las 07:00: salidas de agua de conformidad con el perfil de carga declarado,
+ | 
+—
+ | 
+desde el final de la última salida de agua hasta las 24:00: sin salida de agua;
+ | 
+ | 
+c)
+ | 
+el perfil de carga declarado será el perfil de carga máxima o el perfil de carga que esté un grado por debajo del perfil de carga máxima.
+ | 
+ Cuadro 3
+ Perfiles de carga de los calentadores de agua
+h
+ | 
+3XS
+ | 
+XXS
+ | 
+XS
+ | 
+S
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+kWh
+ | 
+l/min
+ | 
+°C
+ | 
+kWh
+ | 
+l/min
+ | 
+°C
+ | 
+kWh
+ | 
+l/min
+ | 
+°C
+ | 
+kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+07:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:05
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:15
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:26
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,525 
+ | 
+3 
+ | 
+35 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:01
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:05
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:15
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:25
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:30
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+09:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+09:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+10:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+11:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+11:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:45
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+12:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:45
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,525 
+ | 
+3 
+ | 
+35 
+ | 
+ 0,315 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+14:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+15:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+15:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+16:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+16:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+17:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+18:00
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:15
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+18:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+19:00
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+19:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:00
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 1,05 
+ | 
+3 
+ | 
+35 
+ | 
+ 0,42 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+20:45
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:46
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:00
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:15
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:30
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,525 
+ | 
+5 
+ | 
+45 
+ | 
+ | 
+21:35
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:45
+ | 
+ 0,015 
+ | 
+2 
+ | 
+25 
+ | 
+ 0,105 
+ | 
+2 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Qref
+ | 
+0,345 
+ | 
+2,100 
+ | 
+2,100 
+ | 
+2,100 
+ | 
+ Cuadro 3 (continuación)
+ Perfiles de carga de los calentadores de agua
+h
+ | 
+M
+ | 
+L
+ | 
+XL
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+kWh
+ | 
+l/mn
+ | 
+°C
+ | 
+°C
+ | 
+kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+07:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:05
+ | 
+ 1,4 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ 1,4 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:15
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 1,82 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+07:26
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+07:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 4,42 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+08:01
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:05
+ | 
+ | 
+ | 
+ | 
+ | 
+ 3,605 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:25
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+08:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+11:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+12:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+12:45
+ | 
+ 0,315 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,315 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+14:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+17:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+18:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+19:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+19:30
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:30
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+20:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+20:46
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 4,42 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+21:00
+ | 
+ | 
+ | 
+ | 
+ | 
+ 3,605 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+21:30
+ | 
+ 1,4 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+ 4,42 
+ | 
+10 
+ | 
+10 
+ | 
+40 
+ | 
+21:35
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+21:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ Qref
+ | 
+5,845 
+ | 
+11,655 
+ | 
+19,07 
+ | 
+ Cuadro 3 (continuación)
+ Perfiles de carga de los calentadores de agua
+h
+ | 
+XXL
+ | 
+ Qtap
+ | 
+ f
+ | 
+ Tm
+ | 
+ Tp
+ | 
+kWh
+ | 
+l/min
+ | 
+°C
+ | 
+°C
+ | 
+07:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:05
+ | 
+ | 
+ | 
+ | 
+ | 
+07:15
+ | 
+ 1,82 
+ | 
+6 
+ | 
+40 
+ | 
+ | 
+07:26
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+07:30
+ | 
+ | 
+ | 
+ | 
+ | 
+07:45
+ | 
+ 6,24 
+ | 
+16 
+ | 
+10 
+ | 
+40 
+ | 
+08:01
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:05
+ | 
+ | 
+ | 
+ | 
+ | 
+08:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:25
+ | 
+ | 
+ | 
+ | 
+ | 
+08:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+08:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+09:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+10:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+10 
+ | 
+40 
+ | 
+11:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+11:45
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+12:00
+ | 
+ | 
+ | 
+ | 
+ | 
+12:30
+ | 
+ | 
+ | 
+ | 
+ | 
+12:45
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+14:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+15:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+16:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+17:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+18:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+18:30
+ | 
+ 0,105 
+ | 
+3 
+ | 
+40 
+ | 
+ | 
+19:00
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+19:30
+ | 
+ | 
+ | 
+ | 
+ | 
+20:00
+ | 
+ | 
+ | 
+ | 
+ | 
+20:30
+ | 
+ 0,735 
+ | 
+4 
+ | 
+10 
+ | 
+55 
+ | 
+20:45
+ | 
+ | 
+ | 
+ | 
+ | 
+20:46
+ | 
+ 6,24 
+ | 
+16 
+ | 
+10 
+ | 
+40 
+ | 
+21:00
+ | 
+ | 
+ | 
+ | 
+ | 
+21:15
+ | 
+ 0,105 
+ | 
+3 
+ | 
+25 
+ | 
+ | 
+21:30
+ | 
+ 6,24 
+ | 
+16 
+ | 
+10 
+ | 
+40 
+ | 
+21:35
+ | 
+ | 
+ | 
+ | 
+ | 
+21:45
+ | 
+ | 
+ | 
+ | 
+ | 
+ Qref
+ | 
+24,53 
+ | 
+3.   Condiciones para probar el cumplimiento del control inteligente (smart) de los calentadores de agua
+Cuando el proveedor considere apropiado declarar que el valor de smart es «1», se medirá el consumo semanal de electricidad y/o el consumo semanal de combustible con controles inteligentes y el consumo semanal de electricidad y/o el consumo semanal de combustible sin controles inteligentes, aplicando un ciclo de medición de dos semanas, de la forma siguiente:
+—
+ | 
+días 1 a 5: secuencia aleatoria de perfiles de carga escogidos entre el perfil de carga declarado y el perfil de carga inmediatamente anterior al perfil de carga declarado, con el control inteligente desactivado,
+ | 
+—
+ | 
+días 6 y 7: ninguna salida de agua, y control inteligente desactivado,
+ | 
+—
+ | 
+días 8 a 12: repetición de la misma secuencia aplicada durante los días 1 a 5, con el control inteligente activado,
+ | 
+—
+ | 
+días 13 y 14: ninguna salida de agua y control inteligente activado,
+ | 
+—
+ | 
+la diferencia entre el contenido de energía útil medido durante los días 1 a 7 y el contenido de energía útil medido durante los días 8 a 14 no superará el 2 % de Qref
+ del perfil de carga declarado.
+ | 
+4.   Condiciones para probar calentadores de agua solares
+El colector solar, el depósito de agua caliente solar, la bomba del circuito colector (si procede) y el generador de calor se probarán por separado. Cuando el colector solar y el depósito de agua caliente solar no puedan someterse a ensayo por separado, lo harán en combinación. El generador de calor se probará en las condiciones establecidas en el punto 2 del presente anexo.
+Los resultados se utilizarán en los cálculos establecidos en el punto 3, letra b), del anexo VIII en las condiciones señaladas en los cuadros 4 y 5. Para determinar Qtota
+ se presupondrá que la eficiencia del generador de calor que utiliza el efecto Joule en elementos calefactores por resistencia eléctrica es de 100/CC, expresada en porcentaje.
+5.   Condiciones para probar calentadores de agua con bomba de calor
+—
+ | 
+Los calentadores de agua con bomba de calor se probarán en las condiciones establecidas en el cuadro 6.
+ | 
+—
+ | 
+Los calentadores de agua con bomba de calor que utilicen aire extraído de un sistema de ventilación como fuente de calor se probarán en las condiciones establecidas en el cuadro 7.
+ | 
+6.   Condiciones para probar dispositivos solares
+El colector solar, el depósito de agua caliente solar y la bomba en el bucle del colector (si es el caso) se someterán a ensayo por separado. Cuando el colector solar y el depósito de agua caliente solar no puedan someterse a ensayo por separado, lo harán en combinación.
+Los resultados se utilizarán para calcular Qnonsol
+ para los perfiles de carga M, L, XL y XXL en las condiciones climáticas medias indicadas en los cuadros 4 y 5 y Qaux
+ .
+ Cuadro 4
+ Temperatura diurna media [°C]
+ | 
+Enero
+ | 
+Febrero
+ | 
+Marzo
+ | 
+Abril
+ | 
+Mayo
+ | 
+Junio
+ | 
+Julio
+ | 
+Agosto
+ | 
+Septiembre
+ | 
+Octubre
+ | 
+Noviembre
+ | 
+Diciembre
+ | 
+Condiciones climáticas medias
+ | 
++2,8 
+ | 
++2,6 
+ | 
++7,4 
+ | 
++12,2 
+ | 
++16,3 
+ | 
++19,8 
+ | 
++21,0 
+ | 
++22,0 
+ | 
++17,0 
+ | 
++11,9 
+ | 
++5,6 
+ | 
++3,2 
+ | 
+Condiciones climáticas más frías
+ | 
+–3,8 
+ | 
+–4,1 
+ | 
+–0,6 
+ | 
++5,2 
+ | 
++11,0 
+ | 
++16,5 
+ | 
++19,3 
+ | 
++18,4 
+ | 
++12,8 
+ | 
++6,7 
+ | 
++1,2 
+ | 
+–3,5 
+ | 
+Condiciones climáticas más cálidas
+ | 
++9,5 
+ | 
++10,1 
+ | 
++11,6 
+ | 
++15,3 
+ | 
++21,4 
+ | 
++26,5 
+ | 
++28,8 
+ | 
++27,9 
+ | 
++23,6 
+ | 
++19,0 
+ | 
++14,5 
+ | 
++10,4 
+ | 
+ Cuadro 5
+ Irradiación solar global media [W/m2]
+ | 
+Enero
+ | 
+Febrero
+ | 
+Marzo
+ | 
+Abril
+ | 
+Mayo
+ | 
+Junio
+ | 
+Julio
+ | 
+Agosto
+ | 
+Septiembre
+ | 
+Octubre
+ | 
+Noviembre
+ | 
+Diciembre
+ | 
+Condiciones climáticas medias
+ | 
+70 
+ | 
+104 
+ | 
+149 
+ | 
+192 
+ | 
+221 
+ | 
+222 
+ | 
+232 
+ | 
+217 
+ | 
+176 
+ | 
+129 
+ | 
+80 
+ | 
+56 
+ | 
+Condiciones climáticas más frías
+ | 
+22 
+ | 
+75 
+ | 
+124 
+ | 
+192 
+ | 
+234 
+ | 
+237 
+ | 
+238 
+ | 
+181 
+ | 
+120 
+ | 
+64 
+ | 
+23 
+ | 
+13 
+ | 
+Condiciones climáticas más cálidas
+ | 
+128 
+ | 
+137 
+ | 
+182 
+ | 
+227 
+ | 
+248 
+ | 
+268 
+ | 
+268 
+ | 
+263 
+ | 
+243 
+ | 
+175 
+ | 
+126 
+ | 
+109 
+ | 
+ Cuadro 6
+ Condiciones estándar para los calentadores de agua con bomba de calor, temperaturas expresadas en temperatura del aire de bulbo seco (la temperatura del aire de bulbo húmedo se indica entre paréntesis)
+Fuente de calor
+ | 
+Aire exterior
+ | 
+Aire interior
+ | 
+Aire de extracción
+ | 
+Salmuera
+ | 
+Agua
+ | 
+Condiciones climáticas
+ | 
+Condiciones climáticas medias
+ | 
+Condiciones climáticas más frías
+ | 
+Condiciones climáticas más cálidas
+ | 
+No procede
+ | 
+Todas las condiciones climáticas
+ | 
+Temperatura
+ | 
++ 7 °C (+ 6 °C)
+ | 
++ 2 °C (+ 1 °C)
+ | 
++ 14 °C (+ 13 °C)
+ | 
++ 20 °C (máxima + 15 °C)
+ | 
++ 20 °C (+ 12 °C)
+ | 
+0 °C (entrada) /– 3 °C (salida)
+ | 
++ 10 °C (entrada) /+ 7 °C (salida)
+ | 
+ Cuadro 7
+ Máxima disponibilidad de aire de extracción de ventilación [m3/h], a una temperatura de 20 °C y con una humedad de 5,5 g/m3
+ Perfil de carga declarado
+ | 
+ XXS
+ | 
+ XS
+ | 
+ S
+ | 
+ M
+ | 
+ L
+ | 
+ XL
+ | 
+ XXL
+ | 
+Máxima disponibilidad de aire de extracción de ventilación
+ | 
+109 
+ | 
+128 
+ | 
+128 
+ | 
+159 
+ | 
+190 
+ | 
+870 
+ | 
+1 021 
+ | 
+7.   Parámetros técnicos de los calentadores de agua
+Se establecerán los siguientes parámetros para los calentadores de agua:
+a)
+ | 
+el consumo eléctrico diario Qelec
+ en kWh, redondeado al tercer decimal;
+ | 
+b)
+ | 
+el perfil de carga declarado, expresado con la letra adecuada con arreglo al cuadro 3 del presente anexo;
+ | 
+c)
+ | 
+el nivel de potencia acústica en interiores, en dB, redondeado al número entero más próximo (cuando proceda para los calentadores de agua con bomba de calor);
+ | 
+además, en el caso de los calentadores de agua que consumen combustibles fósiles o de biomasa:
+d)
+ | 
+el consumo de combustible diario Qfuel
+ en kWh en términos de GCV, redondeado al tercer decimal;
+ | 
+además, en el caso de los calentadores de agua cuyo valor smart declarado sea «1»:
+e)
+ | 
+el consumo semanal de combustible con controles inteligentes Qfuel,week,smart
+ en kWh en términos de GCV, redondeado al tercer decimal;
+ | 
+f)
+ | 
+el consumo semanal de electricidad con controles inteligentes Qelec,week,smart
+ en kWh, redondeado al tercer decimal;
+ | 
+g)
+ | 
+el consumo semanal de combustible sin controles inteligentes Qfuel,week
+ en kWh en términos de GCV, redondeado al tercer decimal;
+ | 
+h)
+ | 
+el consumo semanal de electricidad sin controles inteligentes Qelec,week
+ en kWh, redondeado al tercer decimal;
+ | 
+además, en el caso de los calentadores de agua solares:
+i)
+ | 
+el área de apertura del colector Asol
+ en m2, redondeada al segundo decimal;
+ | 
+j)
+ | 
+la eficiencia de carga cero η0
+ , redondeada al tercer decimal;
+ | 
+k)
+ | 
+el coeficiente de primer orden a1
+ en W/(m2 K), redondeada al segundo decimal;
+ | 
+l)
+ | 
+el coeficiente de segundo orden a2
+ en W/(m2 K2), redondeada al tercer decimal;
+ | 
+m)
+ | 
+el modificador del ángulo de incidencia IAM, redondeado al segundo decimal;
+ | 
+n)
+ | 
+el consumo de electricidad de la bomba solpump en W, redondeado al segundo decimal;
+ | 
+o)
+ | 
+el consumo de electricidad en régimen de espera solstandby en W, redondeado al segundo decimal;
+ | 
+además, en el caso de los calentadores de agua con bomba de calor:
+p)
+ | 
+el nivel de potencia acústica LWA
+ , en dB, en exteriores, redondeado al entero más próximo.
+ | 
+8.   Parámetros técnicos de los depósitos de agua caliente
+Se establecerán los siguientes parámetros para los depósitos de agua caliente:
+a)
+ | 
+la capacidad V en litros, redondeada al primer decimal;
+ | 
+b)
+ | 
+la pérdida estática S en W, redondeada a una cifra decimal.
+ | 
+9.   Parámetros técnicos de los dispositivos solares
+Se establecerán los siguientes parámetros para los dispositivos solares:
+a)
+ | 
+el área de apertura del colector Asol
+ en m2, redondeada al segundo decimal;
+ | 
+b)
+ | 
+la eficiencia de carga cero η0
+ , redondeada al tercer decimal;
+ | 
+c)
+ | 
+el coeficiente de primer orden a1
+ en W/(m2 K), redondeada al segundo decimal;
+ | 
+d)
+ | 
+el coeficiente de segundo orden a2
+ en W/(m2 K2), redondeada al tercer decimal;
+ | 
+e)
+ | 
+el modificador del ángulo de incidencia IAM, redondeado al segundo decimal;
+ | 
+f)
+ | 
+el consumo de electricidad de la bomba solpump en W, redondeado al segundo decimal;
+ | 
+g)
+ | 
+el consumo de electricidad en régimen de espera solstandby en W, redondeado al segundo decimal.
+ | 
+ANEXO VIII
+ Método para calcular la eficiencia energética de caldeo de agua de los calentadores de agua
+1.   Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, se realizarán cálculos aplicando normas armonizadas cuyos números de referencia hayan sido publicados para este fin en el Diario Oficial de la Unión Europea, u otros métodos de cálculo apropiados que tengan en cuenta los métodos más avanzados generalmente aceptados. Cumplirán los parámetros técnicos y los cálculos establecidos en los puntos 2 a 6.
+Los parámetros técnicos utilizados en los cálculos se medirán de acuerdo con el anexo VII.
+2.   Parámetros técnicos de los calentadores de agua
+Se calcularán los siguientes parámetros para los calentadores de agua en condiciones climáticas medias:
+a)
+ | 
+la eficiencia energética del caldeo de agua ηwh
+ en %, redondeada al primer decimal;
+ | 
+b)
+ | 
+el consumo anual de electricidad AEC en kWh en términos de la energía final, redondeado al número entero más próximo;
+ | 
+además, en el caso de los calentadores de agua que consumen combustibles en condiciones climáticas medias:
+c)
+ | 
+el consumo anual de combustible AFC en kWh en términos de GCV, redondeado al número entero más próximo;
+ | 
+además, en el caso de los calentadores de agua solares en condiciones climáticas medias:
+d)
+ | 
+la eficiencia energética de caldeo de agua del generador de calor ηwh,nonsol
+ en %, redondeada al primer decimal;
+ | 
+e)
+ | 
+el consumo anual de electricidad auxiliar Qaux
+ en kWh en términos de la energía final, redondeado al primer decimal.
+ | 
+además, en lo que respecta a los calentadores de agua solares y a los calentadores de agua con bomba de calor en condiciones climáticas más frías y más cálidas:
+f)
+ | 
+los parámetros establecidos en los puntos a) a c);
+ | 
+además, en el caso de los calentadores de agua solares en condiciones climáticas medias, más frías y más cálidas:
+g)
+ | 
+la contribución térmica anual no solar Qnonsol
+ en kWh en términos de energía primaria en el caso de la electricidad y/o en kWh en términos de GCV en el caso de los combustibles, redondeada al primer decimal;
+ | 
+3.   Cálculo de la eficiencia energética del caldeo de agua ηwh
+a)
+ | 
+ Calentadores de agua convencionales y calentadores de agua con bomba de calor:
+La eficiencia energética de caldeo de agua se calcula de la siguiente manera:
+En el caso de los calentadores de agua con bomba de calor agua-agua o salmuera-agua, se tendrá en cuenta el consumo eléctrico de una o más bombas de agua subterránea.
+ | 
+b)
+ | 
+ Calentadores de agua solares:
+La eficiencia energética de caldeo de agua se calcula de la siguiente manera:
+Donde:
+ | 
+4.   Cálculo del consumo anual de electricidad AEC y del consumo anual de combustible AFC
+a)
+ | 
+ Calentadores de agua convencionales y calentadores de agua con bomba de calor:
+El consumo anual de electricidad AEC en kWh en términos de la energía final se calcula de la siguiente manera:
+El consumo anual de combustible AFC en GJ en términos de GCV se calcula de la siguiente manera:
+ | 
+b)
+ | 
+ Calentadores de agua solares:
+El consumo anual de electricidad AEC en kWh en términos de la energía final se calcula de la siguiente manera:
+El consumo anual de combustible AFC en GJ en términos de GCV se calcula de la siguiente manera:
+ | 
+5.   Determinación del factor de control inteligente SCF y del cumplimiento del control inteligente smart
+a)
+ | 
+ El factor de control inteligente se calcula de la siguiente manera:
+ | 
+b)
+ | 
+ Si SCF ≥ 0,07, el valor de smart será 1. En todos los demás casos, el valor de smart será 0.
+ | 
+6.   Determinación del término de corrección ambiente Qcor
+El término de corrección ambiente se calcula de la siguiente manera:
+a)
+ | 
+en el caso de los calentadores de agua convencionales que consumen electricidad:
+ | 
+b)
+ | 
+en el caso de los calentadores de agua convencionales que consumen combustibles:
+ | 
+c)
+ | 
+en el caso de los calentadores de agua con bomba de calor:
+ | 
+Donde:
+los valores k de cada perfil de carga se indican en el cuadro 8.
+ Cuadro 8
+ Valores k
+ | 
+3XS
+ | 
+XXS
+ | 
+XS
+ | 
+S
+ | 
+M
+ | 
+L
+ | 
+XL
+ | 
+XXL
+ | 
+k
+ | 
+0,23 
+ | 
+0,23 
+ | 
+0,23 
+ | 
+0,23 
+ | 
+0,23 
+ | 
+0,23 
+ | 
+0,23 
+ | 
+0,0 
+ | 
+ANEXO IX
+ Procedimiento de verificación a los efectos de la vigilancia del mercado
+Para verificar el cumplimiento de los requisitos establecidos en los artículos 3 y 4, las autoridades de los Estados miembros someterán a ensayo un único calentador de agua, depósito de agua caliente, dispositivo solar o equipo combinado de calentador de agua y dispositivo solar y facilitarán la información relativa a los resultados del ensayo a las autoridades de los demás Estados miembros. Si los parámetros medidos no cumplen los valores declarados por el proveedor dentro de los márgenes definidos en el cuadro 9, se realizará la medición en otros tres calentadores de agua, depósitos de agua caliente, dispositivos solares o equipos combinados de calentador de agua y dispositivo solar y la información relativa a los resultados de los ensayos se facilitará a las autoridades de los demás Estados miembros y a la Comisión en el plazo de un mes desde la realización del ensayo. La media aritmética de los valores medidos en estos tres calentadores de agua, depósitos de agua caliente, dispositivos solares o equipos combinados de calentador de agua y dispositivo solar deberá corresponder a los valores declarados por el proveedor dentro de los márgenes definidos en el cuadro 9.
+De lo contrario, se considerará que el modelo y todos los demás modelos equivalentes de calentador de agua, depósito de agua caliente, dispositivo solar o equipo combinado de calentador de agua y dispositivo solar no son conformes.
+Las autoridades de los Estados miembros aplicarán los procedimientos establecidos en los anexos VII y VIII.
+ Cuadro 9
+ Tolerancias de verificación
+Parámetro medido
+ | 
+Tolerancia de verificación
+ | 
+Consumo diario de electricidad Qelec
+ | 
+El valor medido no será más de un 5 % mayor que el valor nominal (*1).
+ | 
+Nivel de potencia acústica LWA
+ , en el interior y/o exterior
+ | 
+El valor medido no superará el valor nominal en más de 2 dB.
+ | 
+Consumo diario de combustible Qfuel
+ | 
+El valor medido no será más de un 5 % mayor que el valor nominal.
+ | 
+Consumo semanal de combustible con controles inteligentes Qfuel,week,smart
+ | 
+El valor medido no será más de un 5 % mayor que el valor nominal.
+ | 
+Consumo semanal de combustible sin controles inteligentes Qfuel,week
+ | 
+El valor medido no será más de un 5 % mayor que el valor nominal.
+ | 
+Consumo semanal de electricidad con controles inteligentes Qelec,week,smart
+ | 
+El valor medido no será más de un 5 % mayor que el valor nominal.
+ | 
+Consumo semanal de electricidad sin controles inteligentes Qelec,week
+ | 
+El valor medido no será más de un 5 % mayor que el valor nominal.
+ | 
+Área de apertura del colector Asol
+ | 
+El valor medido no será más de un 2 % menor que el valor nominal.
+ | 
+Consumo de electricidad de la bomba solpump
+ | 
+El valor medido no será más de un 3 % mayor que el valor nominal.
+ | 
+Consumo de electricidad en régimen de espera solstandby
+ | 
+El valor medido no será más de un 5 % mayor que el valor nominal.
+ | 
+Capacidad V
+ | 
+El valor medido no será más de un 2 % menor que el valor nominal.
+ | 
+Pérdida estática S
+ | 
+El valor medido no será más de un 5 % mayor que el valor nominal.
+ | 
+ (*1)  
+ «Valor nominal» es el valor declarado por el proveedor.
