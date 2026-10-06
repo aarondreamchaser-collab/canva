@@ -1,0 +1,97 @@
+title: Ventilador o aire acondicionado: cuánto gasta cada uno y cuándo compensa
+title_seo: Ventilador o aire acondicionado: cuál gasta menos
+excerpt: Ventilador o aire acondicionado: un ventilador de 50 W cuesta unos 2 € al mes con 8 horas diarias y un aire de 3.000 frigorías, unos 24 €.
+category: climatizacion
+keyword: ventilador o aire acondicionado
+---
+¿Ventilador o aire acondicionado? Si lo que miras es la factura, el ventilador gana de lejos: uno de 50 W encendido 8 horas al día cuesta unos 2,01 € al mes, mientras que un aire acondicionado de 3.000 frigorías con el mismo horario sale por unos 24,08 €. Por cada hora de uso, el aire gasta unas 12 veces más.
+
+En estas cuentas, cada kWh se paga a <strong>0,165 €/kWh con impuestos</strong>. Si tu precio es distinto, los dos aparatos suben o bajan a la vez y la comparación entre ellos no cambia.
+
+## Ventilador o aire acondicionado: lo que cuesta cada uno {#coste}
+
+Para el aire acondicionado usamos el mismo equipo que en nuestra calculadora de consumo: 3.000 frigorías, unos 1.000 W de potencia eléctrica y un factor de uso real de 0,6, porque el compresor se para cuando la habitación llega a la temperatura. El ventilador funciona a la potencia que marca todo el tiempo.
+
+{{T:vent_ac}}
+
+Un verano entero de ventilador, a 8 horas diarias durante tres meses, cuesta unos 6 €. El mismo verano con aire acondicionado, unos 72 €. Tienes el detalle del aire por potencias y horas en <a href="https://tuluzencasa.com/cuanto-consume-aire-acondicionado/">cuánto consume un aire acondicionado</a>.
+
+## Por qué gastan tan distinto {#diferencia}
+
+- <strong>El ventilador no enfría el aire</strong>: lo mueve. Al pasar el aire por la piel, el sudor se evapora antes y notas más fresco. Su motor gasta muy poco.
+- <strong>El aire acondicionado sí baja la temperatura</strong> de la habitación: saca el calor fuera con un compresor, y además quita humedad del aire. Mover calor de dentro a fuera necesita mucha más energía.
+
+Según las <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">recomendaciones del IDAE para el ahorro en los hogares</a>, un ventilador, mejor si es de techo, puede ser suficiente para estar a gusto: el movimiento del aire produce una sensación de descenso de la temperatura de entre 3 y 5 ºC y su consumo de electricidad es muy bajo.
+
+{{CAJA:Dato clave}}
+El ventilador te refresca a ti, no a la habitación. Si no hay nadie, no sirve de nada dejarlo encendido: apágalo al salir.
+{{/CAJA}}
+
+## Cuánto gasta un ventilador según su potencia {#ventiladores}
+
+Los ventiladores domésticos suelen tener potencias pequeñas. El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0206" target="_blank" rel="noopener">Reglamento (UE) 206/2012</a> se aplica a los de hasta 125 W. Así salen las potencias más habituales con 8 horas al día:
+
+{{T:vent_potencias}}
+
+Incluso el de 100 W se queda en unos 12 € por verano. La potencia real depende de la velocidad: a la mínima gasta menos que la potencia máxima que figura en la placa.
+
+## Qué dice la ficha de un ventilador {#ficha}
+
+Los ventiladores no tienen etiqueta energética con clases. Lo que sí exige el Reglamento (UE) 206/2012 desde 2013 es que el fabricante publique, en el manual y en su web:
+
+- <strong>El caudal máximo de aire</strong>, en metros cúbicos por minuto.
+- <strong>La potencia</strong> que gasta a ese caudal, en vatios.
+- <strong>El valor de servicio</strong>: los metros cúbicos por minuto que mueve por cada vatio. Cuanto más alto, más eficiente es.
+- <strong>El consumo en espera</strong>, el ruido y la velocidad máxima del aire.
+
+Para comparar dos ventiladores, mira el valor de servicio y el ruido, no solo los vatios.
+
+## Lo que dice la etiqueta del aire acondicionado {#etiqueta-aire}
+
+Los aires acondicionados sí tienen etiqueta energética, regulada por el <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R0626" target="_blank" rel="noopener">Reglamento Delegado (UE) 626/2011</a>. Además de la clase, indica un consumo anual en kWh. Ojo: ese consumo se calcula suponiendo 350 horas al año equivalentes a plena carga, así que si lo usas más o menos, tu gasto será otro. Dividiendo entre 350 sabes lo que gasta por hora:
+
+{{T:ac_etiqueta}}
+
+## Combinar los dos {#combinar}
+
+No hace falta elegir uno para todo el verano. Muchas casas usan el ventilador la mayor parte del día y el aire solo en las horas de más calor. Así cambia el coste:
+
+{{T:vent_combinar}}
+
+Si en lugar de 8 horas de aire pones 2 y el resto ventilador, el mes baja de 24,08 € a 7,52 €. Y cuando enciendas el aire, el IDAE recomienda no bajar el termostato más de lo normal: la casa no se enfría antes y gastas más.
+
+Si tienes tarifa por horas, la tarde de 14 a 18 h es llano, pero de 18 a 22 h es punta. Las franjas de cada día están en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>.
+
+## Trucos para pasar el verano gastando menos {#trucos}
+
+- <strong>Ventila de noche</strong> o a primera hora, cuando el aire de fuera está más fresco, y cierra por la mañana.
+- <strong>Baja toldos y persianas</strong> en las horas de sol, como recomienda el IDAE.
+- <strong>Pon el ventilador de techo</strong> si puedes: reparte el aire por toda la habitación.
+- <strong>Limpia el filtro del aire acondicionado</strong> con la frecuencia que indique el manual.
+- <strong>Si vas a cambiar el aire</strong>, elige uno con bomba de calor: te sirve también como calefacción en invierno, y es de las formas más baratas de calentar con electricidad. Mira la comparación en <a href="https://tuluzencasa.com/calefaccion-electrica-mas-barata/">calefacción eléctrica más barata</a>.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto gasta un ventilador toda la noche?
+
+Uno de 50 W durante 8 horas gasta 0,4 kWh: unos 0,07 € por noche, 2,01 € al mes.
+
+### ¿Cuántas veces más gasta el aire acondicionado que un ventilador?
+
+Con los equipos de la tabla, unas 12 veces más por hora: 0,60 kWh frente a 0,05 kWh.
+
+### ¿Un ventilador de techo gasta más que uno de pie?
+
+Depende de su potencia, no del tipo. Mira los vatios y el valor de servicio en la ficha de cada uno.
+
+### ¿Se puede dormir con el aire acondicionado puesto?
+
+Se puede, pero es mucho más caro que el ventilador. Si lo usas, programa el apagado y no lo pongas más frío de lo necesario.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0206" target="_blank" rel="noopener">Reglamento (UE) 206/2012 de la Comisión</a> (DO L 72, de 10 de marzo de 2012), diseño ecológico de acondicionadores de aire y ventiladores: anexo I, información que debe dar el fabricante de un ventilador.
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R0626" target="_blank" rel="noopener">Reglamento Delegado (UE) 626/2011 de la Comisión</a>, etiquetado energético de los acondicionadores de aire: consumo anual con 350 horas equivalentes de refrigeración.
+- <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">IDAE, Recomendaciones para el ahorro energético en hogares</a>: refrigeración.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu ventilador y tu aire con las horas de cada uno y verás cuánto te cuesta el verano.

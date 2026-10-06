@@ -1,0 +1,936 @@
+ 
+ L_2019315ES.01000101.xml 
+ 5.12.2019    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 315/1 
+ REGLAMENTO DELEGADO (UE) 2019/2013 DE LA COMISIÓN
+ de 11 de marzo de 2019
+ por el que se completa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las pantallas electrónicas y se deroga el Reglamento Delegado (UE) n. o 1062/2010 de la Comisión 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Visto el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo, de 28 de julio de 2017, por el que se establece un marco para el etiquetado energético y se deroga la Directiva 2010/30/UE  ( 1 ) , y en particular su artículo 11, apartado 5, y su artículo 16, 
+ Considerando lo siguiente: 
+ (1) 
+ El Reglamento (UE) 2017/1369 faculta a la Comisión a adoptar actos delegados en lo relativo al etiquetado o al reescalado del etiquetado de grupos de productos que representen un potencial significativo de ahorro de energía y, en su caso, de otros recursos. 
+ (2) 
+ El Reglamento Delegado (UE) n. o 1062/2010 de la Comisión  ( 2 ) estableció disposiciones sobre el etiquetado energético de las televisiones. 
+ (3) 
+ La Comunicación de la Comisión COM(2016) 773 final  ( 3 ) (plan de trabajo sobre diseño ecológico) adoptada por la Comisión en aplicación del artículo 16, apartado 1, de la Directiva 2009/125/CE del Parlamento Europeo y del Consejo  ( 4 ) fija las prioridades de trabajo en el marco del diseño ecológico y el etiquetado energético para el período 2016-2019. El plan de trabajo sobre diseño ecológico define los grupos de productos relacionados con la energía que deben considerarse prioritarios para la realización de estudios preparatorios y la posible adopción de una medida de ejecución, así como para la revisión del Reglamento (CE) n. o 642/2009 de la Comisión  ( 5 ) y del Reglamento Delegado (UE) n. o 1062/2010. 
+ (4) 
+ Se estima que las medidas del plan de trabajo sobre diseño ecológico pueden dar lugar a un ahorro total de energía final anual de más de 260 TWh en 2030, lo que equivale a reducir las emisiones de gases de efecto invernadero en unos 100 millones de toneladas anuales en ese año. Uno de los grupos de productos que figuran en el plan de trabajo son las pantallas electrónicas. 
+ (5) 
+ Las televisiones figuran entre los grupos de productos mencionados en el artículo 11, apartado 5, letra b), del Reglamento (UE) 2017/1369 respecto de los que la Comisión debe adoptar un acto delegado que introduzca una etiqueta reescalada de A a G. 
+ (6) 
+ El Reglamento Delegado (UE) n. o 1062/2010 requería que la Comisión lo revisara a la luz del progreso técnico. 
+ (7) 
+ La Comisión ha revisado el Reglamento (UE) n. o 1062/2010 tal como establece el artículo 7 de este y ha analizado los aspectos técnicos, medioambientales y económicos de las televisiones y otras pantallas electrónicas, incluidos los monitores y las pantallas de señalización, así como la comprensión de los distintos elementos del etiquetado por parte del usuario y el comportamiento de este en la vida real a este respecto. La revisión se realizó en estrecha cooperación con las partes interesadas de la Unión y de terceros países. Los resultados de la revisión se publicaron y se presentaron al foro consultivo establecido por el artículo 14 del Reglamento (UE) 2017/1369. 
+ (8) 
+ De la revisión se desprende que también deben aplicarse a los monitores los mismos requisitos que a las televisiones, debido al creciente solapamiento de funcionalidades entre pantallas y televisiones. Además, las pantallas digitales de señalización están específicamente enumeradas en el plan de trabajo sobre diseño ecológico 2016-2019 de la Comisión, que debe tenerse en cuenta en la revisión de los reglamentos existentes relativos a las televisiones. Por lo tanto, el ámbito del presente Reglamento debe abarcar las pantallas electrónicas, incluidas las televisiones, los monitores y las pantallas digitales de señalización. 
+ (9) 
+ El consumo de energía anual de las televisiones en la Unión representó más del 3 % del consumo de electricidad en la Unión en 2016. Según las previsiones, en una hipótesis de mantenimiento del statu quo , el consumo de energía de las televisiones, los monitores y las pantallas digitales de señalización en 2030 se situará cerca de 100 TWh/año. Se estima que el presente Reglamento, junto con el Reglamento sobre el diseño ecológico que lo acompaña, reducirá el consumo anual final de energía en hasta 39 TWh/año de aquí a 2030. 
+ (10) 
+ La función de codificación del alto rango dinámico (HDR) puede conducir a un uso distinto de la energía, lo que sugiere una indicación distinta de la eficiencia energética para dicha función. 
+ (11) 
+ La información proporcionada en la etiqueta de las pantallas electrónicas que entran dentro del ámbito del presente Reglamento debe obtenerse con procedimientos de medición fiables, exactos y reproducibles que tengan en cuenta los métodos de medición más avanzados generalmente aceptados e incluyan, cuando estén disponibles, las normas armonizadas adoptadas por las organizaciones europeas de normalización enumeradas en el anexo I del Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo  ( 6 ) . 
+ (12) 
+ Reconociendo el crecimiento de las ventas de productos relacionados con la energía a través de plataformas de alojamiento en internet, en lugar de directamente a partir de los sitios web de los proveedores o distribuidores, conviene aclarar que las plataformas de venta en internet deben ser responsables de hacer posible que se exponga la etiqueta facilitada por el proveedor cerca del precio. Asimismo, deben informar de esta obligación al distribuidor, aunque no deben ser responsables de la exactitud ni del contenido de la etiqueta y la ficha de información del producto proporcionadas. No obstante, de conformidad con el artículo 14, apartado 1, letra b), de la Directiva 2000/31/CE del Parlamento Europeo y del Consejo  ( 7 ) , relativa al comercio electrónico, dichas plataformas de alojamiento de datos han de actuar con prontitud para retirar la información del producto en cuestión o imposibilitar el acceso a ella cuando les conste un incumplimiento (como falta o contenido incompleto o incorrecto de la etiqueta o la ficha informativa del producto), por ejemplo, en caso de que se lo notifique la autoridad de vigilancia del mercado. Los proveedores que vendan directamente a los usuarios finales a través de su propio sitio web están sujetos a las obligaciones de venta a distancia establecidas para los distribuidores en el artículo 5 del Reglamento (UE) 2017/1369. 
+ (13) 
+ Las pantallas electrónicas que se exhiban en ferias comerciales deben llevar la etiqueta energética si se ha introducido ya en el mercado la primera unidad del modelo o se introduce en el mercado en la feria. 
+ (14) 
+ Para reforzar la eficacia del presente Reglamento, deben prohibirse los productos cuyo rendimiento en condiciones de ensayo se altera automáticamente para mejorar los parámetros declarados. 
+ (15) 
+ Las medidas previstas en el presente Reglamento han sido debatidas en el foro consultivo y por los expertos de los Estados miembros, de conformidad con el artículo 14 del Reglamento (UE) 2017/1369. 
+ (16) 
+ Por consiguiente, debe derogarse el Reglamento Delegado (UE) n. o 1062/2010. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece requisitos para el etiquetado y el suministro de información complementaria relativos a las pantallas electrónicas, incluidas las televisiones, los monitores y las pantallas digitales de señalización. 
+ 2.   El presente Reglamento no se aplicará a: 
+ a) 
+ las pantallas electrónicas con una superficie de visualización igual o inferior a 100 centímetros cuadrados; 
+ b) 
+ los proyectores; 
+ c) 
+ los sistemas de videoconferencia «todo en uno»; 
+ d) 
+ las pantallas para uso médico; 
+ e) 
+ los cascos de realidad virtual; 
+ f) 
+ las pantallas integradas o destinadas a ser integradas en los productos enumerados en el artículo 2, apartado 3, letra a), y en el artículo 2, apartado 4, de la Directiva 2012/19/UE  ( 8 ) ; 
+ g) 
+ las pantallas electrónicas que sean componentes o subconjuntos de productos sujetos a medidas de ejecución adoptadas sobre la base de la Directiva 2009/125/CE; 
+ h) 
+ las pantallas para producciones audiovisuales; 
+ i) 
+ las pantallas para aplicaciones de seguridad; 
+ j) 
+ las pizarras digitales interactivas; 
+ k) 
+ los marcos digitales para fotografías; 
+ l) 
+ las pantallas digitales de señalización que reúnan alguna de las siguientes características: 
+ 1) 
+ estar diseñadas y construidas como módulos de visualización destinados a ser integrados como una zona de imagen parcial de una superficie más amplia de una superficie de visualización y no para ser utilizadas como dispositivos de visualización autónomos; 
+ 2) 
+ distribuidas de manera autónoma en una carcasa para su uso permanente en el exterior; 
+ 3) 
+ distribuidas de manera autónoma en una carcasa con una superficie de visualización inferior a 30 dm 2 o superior a 130 dm 2 ; 
+ 4) 
+ tener una densidad de píxel inferior a los 230 píxeles/cm 2 o superior a los 3 025 píxeles/cm 2 ; 
+ 5) 
+ tener una luminancia blanca pico en el modo de funcionamiento del rango dinámico normal (SDR) superior o igual a 1 000 cd/m 2 ; 
+ 6) 
+ sin interfaz de entrada de señal de vídeo y con un elemento de visualización que permita la presentación correcta de una secuencia de ensayo de vídeo dinámica normalizada a los efectos de medición de la alimentación; 
+ m) 
+ las pantallas de visualización del estado; 
+ n) 
+ los paneles de control. 
+ Artículo 2 
+ Definiciones 
+ A efectos del presente Reglamento se aplicarán las siguientes definiciones: 
+ 1) 
+ «pantalla electrónica»: pantalla de visualización y los componentes electrónicos asociados cuya función principal es mostrar información visual procedente de fuentes a las que está conectada con o sin cable; 
+ 2) 
+ «televisión»: pantalla electrónica diseñada principalmente para la visualización y recepción de señales audiovisuales y que consiste en una pantalla electrónica y uno o más sintonizadores/receptores; 
+ 3) 
+ «sintonizador/receptor»: circuito electrónico que detecta una señal de difusión de televisión, como una señal digital terrestre o por satélite, pero no la unidifusión por internet, y facilita la selección de un canal de televisión de entre un grupo de canales de difusión; 
+ 4) 
+ «monitor», «monitor de ordenador» o «pantalla de ordenador»: pantalla electrónica destinada a su visualización a corta distancia por una sola persona, por ejemplo ante una mesa; 
+ 5) 
+ «marco digital para fotografías»: pantalla electrónica que muestra exclusivamente información visual en instantáneas; 
+ 6) 
+ «proyector»: dispositivo óptico para el tratamiento de la información de imágenes de vídeo analógicas o digitales en cualquier formato, a fin de modular una fuente luminosa y proyectar la imagen resultante en una superficie externa; 
+ 7) 
+ «pantalla de visualización del estado»: pantalla electrónica utilizada para mostrar información sencilla pero dinámica, como el canal seleccionado, la hora o el consumo eléctrico; un simple indicador luminoso no se considera una pantalla de visualización del estado; 
+ 8) 
+ «panel de control»: pantalla electrónica cuya función principal es visualizar imágenes asociadas con el estado de funcionamiento de un producto; puede permitir la interacción del usuario mediante el tacto u otros medios para controlar el funcionamiento del producto; puede estar integrado en un producto o ser diseñado y comercializado específicamente para su utilización exclusiva con el producto; 
+ 9) 
+ «sistema de videoconferencia «todo en uno»»: sistema específico diseñado para videoconferencias y actividades de colaboración por vídeo, integrado en una única carcasa, cuyas especificaciones incluyen todas las características siguientes: 
+ a) 
+ soporte del protocolo específico de videoconferencia H.323 de la UIT-T o del protocolo SIP del IETF suministrado por el fabricante; 
+ b) 
+ cámara o cámaras, pantallas y capacidad de procesamiento de vídeo bidireccional en tiempo real, incluida la resiliencia a la pérdida de paquetes; 
+ c) 
+ altavoces y capacidad de procesamiento de audio bidireccional de manos libres en tiempo real, incluida la supresión del eco; 
+ d) 
+ una función de cifrado; 
+ e) 
+ HiNA; 
+ 10) 
+ «HiNA»: alta disponibilidad a la red (HiNA), según la definición que figura en el artículo 1 del Reglamento (CE) n. o 1275/2008 de la Comisión  ( 9 ) ; 
+ 11) 
+ «pantalla para producciones audiovisuales»: pantalla electrónica diseñada y comercializada para su uso profesional por las entidades de radiodifusión y las productoras de vídeo para la creación de contenidos de vídeo, cuyas especificaciones incluyen todas las características siguientes: 
+ a) 
+ función de calibrado del color; 
+ b) 
+ función de análisis de la señal de entrada para seguimiento de la señal de entrada y detección de errores, en particular monitor de forma de onda/vectorescopio, ajuste de corte de RGB, mecanismo de comprobación del estado de la señal de vídeo y resolución real en píxeles, modo entrelazado y marcador de pantalla; 
+ c) 
+ SDI (interfaz digital en serie) o VoIP (vídeo sobre protocolo de internet) integrados en el producto; 
+ d) 
+ no está destinada a ser utilizada en espacios públicos; 
+ 12) 
+ «pizarra digital interactiva»: pantalla electrónica que permite una interacción directa del usuario con la imagen proyectada; la pizarra digital interactiva está diseñada principalmente para realizar presentaciones, impartir clase o colaborar a distancia, e incluye la transmisión de señales de audio y de vídeo; sus especificaciones incluyen todas las características siguientes: 
+ a) 
+ está diseñada principalmente para su instalación suspendida, montada en un soporte de pie, colocada sobre un estante o una mesa, o fijada a una estructura física para su visualización por muchas personas; 
+ b) 
+ se utiliza necesariamente con software dotado de funcionalidades específicas para gestionar los contenidos y la interacción; 
+ c) 
+ está integrada en un ordenador para ejecutar el software a que se refiere la letra b), o diseñada para ser utilizada específicamente con un ordenador a tal fin; 
+ d) 
+ tiene una superficie de visualización superior a 40 dm 2 ; 
+ e) 
+ permite la interacción del usuario mediante el tacto con el dedo o con un bolígrafo u otros medios como gestos de las manos o de los brazos, o la voz; 
+ 13) 
+ «pantalla para aplicaciones de seguridad»: pantalla electrónica cuyas especificaciones incluyen todas las características siguientes: 
+ a) 
+ función de autocontrol capaz de comunicar al menos la siguiente información a un servidor remoto: 
+ — 
+ estado de alimentación eléctrica, 
+ — 
+ temperatura interna indicada por un sensor térmico de protección de sobrecarga, 
+ — 
+ fuente de vídeo, 
+ — 
+ entrada de audio y estado del audio (volumen/silenciado), 
+ — 
+ modelo y versión del firmware ; 
+ b) 
+ factor de forma especial especificado por el usuario para facilitar la instalación de la pantalla en consolas o carcasas profesionales. 
+ 14) 
+ «pantalla digital de señalización»: pantalla electrónica diseñada principalmente para ser vista por muchas personas en entornos que no son de mesa y en entornos no domésticos, cuyas especificaciones incluyen todas las características siguientes: 
+ a) 
+ identificador único, para poder dirigirse a una pantalla de visualización específica; 
+ b) 
+ función de inhabilitación del acceso no autorizado a la configuración de la pantalla y a las imágenes visualizadas; 
+ c) 
+ conexión a la red (incluyendo una interfaz cableada y/o inalámbrica) para controlar, supervisar o recibir la información que se deba visualizar desde fuentes remotas de unidifusión o multidifusión, pero excluida la difusión general; 
+ d) 
+ está diseñada para su instalación suspendida, montada o fijada a una estructura física para su visualización por muchas personas, y no se introduce en el mercado con un soporte de pie; 
+ e) 
+ no integra un sintonizador para mostrar señales difundidas; 
+ 15) 
+ «integrada»: con referencia a una pantalla que forma parte de otro producto como componente funcional, pantalla electrónica que no puede funcionar independientemente del producto, del que depende para desempeñar sus funciones, incluida la electricidad; 
+ 16) 
+ «pantalla para uso médico»: pantalla electrónica comprendida en el ámbito de aplicación de: 
+ a) 
+ la Directiva 93/42/CEE del Consejo  ( 10 ) , relativa a los productos sanitarios; 
+ b) 
+ el Reglamento (UE) 2017/745 del Parlamento Europeo y del Consejo  ( 11 ) , sobre los productos sanitarios; 
+ c) 
+ la Directiva 90/385/CEE del Consejo  ( 12 ) relativa a la aproximación de las legislaciones de los Estados miembros sobre los productos sanitarios implantables activos; 
+ d) 
+ la Directiva 98/79/CE del Parlamento Europeo y del Consejo  ( 13 ) , sobre productos sanitarios para diagnóstico in vitro , o 
+ e) 
+ el Reglamento (UE) 2017/746 del Parlamento Europeo y del Consejo  ( 14 ) , sobre los productos sanitarios para diagnóstico in vitro ; 
+ 17) 
+ «monitor de grado 1»: monitor para la evaluación de alta calidad técnica de imágenes en puntos clave de un flujo de producción o difusión, como la captura, posproducción, transmisión y almacenamiento de imágenes; 
+ 18) 
+ «superficie de visualización»: superficie visualizable de la pantalla electrónica, que se calcula multiplicando la anchura máxima de la imagen visualizable por la altura máxima de la imagen visualizable a lo largo de la superficie del panel (tanto plano como curvo); 
+ 19) 
+ «casco de realidad virtual»: dispositivo que se puede llevar en la cabeza y ofrece a su portador realidad virtual inmersiva mostrando imágenes estereoscópicas dirigidas a los dos ojos con funciones de seguimiento del movimiento de la cabeza; 
+ 20) 
+ «punto de venta»: lugar físico donde las pantallas se exponen o se ofrecen al cliente para su venta, alquiler o alquiler con derecho a compra. 
+ Artículo 3 
+ Obligaciones de los proveedores 
+ 1.   Los proveedores velarán por que: 
+ a) 
+ toda pantalla electrónica se suministre con una etiqueta impresa que se ajuste al formato y contenga la información que se prescribe en el anexo III; 
+ b) 
+ los parámetros de la ficha de información del producto, tal como se establecen en el anexo V, se introduzcan en la base de datos del producto; 
+ c) 
+ si lo solicita específicamente el distribuidor, la ficha de información del producto esté disponible en forma impresa; 
+ d) 
+ el contenido de la documentación técnica, tal como se establece en el anexo VI, se introduzca en la base de datos del producto; 
+ e) 
+ toda publicidad visual de un modelo específico de pantalla electrónica, incluso a través de internet, contenga la clase de eficiencia energética y la gama de clases de eficiencia disponible en la etiqueta, de conformidad con el anexo VII y con el anexo VIII; 
+ f) 
+ todo material técnico de promoción relativo a un modelo específico de pantalla electrónica, incluso a través de internet, que describa sus parámetros técnicos específicos, incluya la clase de eficiencia energética de dicho modelo y la gama de clases de eficiencia disponibles en la etiqueta, de conformidad con el anexo VII; 
+ g) 
+ se facilite a los distribuidores una etiqueta electrónica con el formato y la información establecidos en el anexo III para cada modelo de pantalla electrónica; 
+ h) 
+ se facilite a los distribuidores, para cada modelo de pantalla electrónica, una ficha electrónica de información del producto como la que figura en el anexo V; 
+ i) 
+ además de lo establecido en la letra a), se imprima o se adhiera la etiqueta en el embalaje. 
+ 2.   La clase de eficiencia energética se basará en el índice de eficiencia energética calculado de conformidad con el anexo II. 
+ Artículo 4 
+ Obligaciones de los distribuidores 
+ Los distribuidores velarán por que: 
+ a) 
+ en el punto de venta, incluidas las ferias comerciales, cada pantalla electrónica exhiba en su parte frontal, o bien colgada en ella o colocada de manera claramente visible y asociada inequívocamente al modelo específico, la etiqueta facilitada por los proveedores prevista en el artículo 3, apartado 1, letra a); si la pantalla electrónica se mantiene en modo encendido cuando sea visible para los clientes de cara a su venta, la etiqueta electrónica prevista en el artículo 3, apartado 1, letra g), exhibida en la pantalla podrá sustituir a la etiqueta impresa; 
+ b) 
+ cuando un modelo de pantalla electrónica se exhiba en un punto de venta sin que se muestre ninguna unidad fuera de su embalaje, estará visible la etiqueta impresa o adherida en el embalaje; 
+ c) 
+ en caso de venta a distancia o de venta telefónica, la etiqueta y la ficha de información del producto se suministren de conformidad con los anexos VII y VIII; 
+ d) 
+ toda publicidad visual de un modelo específico de pantalla electrónica, incluso a través de internet, contenga la clase de eficiencia energética y la gama de clases de eficiencia disponible en la etiqueta, de conformidad con el anexo VII; 
+ e) 
+ todo material técnico de promoción relativo a un modelo específico de pantalla electrónica, incluido el material técnico de promoción a través de internet, que describa sus parámetros técnicos específicos, incluya la clase de eficiencia energética de dicho modelo y la gama de clases de eficiencia disponibles en la etiqueta, de conformidad con el anexo VII. 
+ Artículo 5 
+ Obligaciones del proveedor de servicios en plataformas de alojamiento de datos en internet 
+ Cuando un proveedor de servicios de alojamiento de datos, tal como se contempla en el artículo 14 de la Directiva 2000/31/CE, permita la venta de pantallas electrónicas en su sitio web en internet, dicho proveedor de servicios deberá activar la exhibición, en el mecanismo de visualización, de la etiqueta electrónica y de la ficha electrónica de información del producto facilitadas por el distribuidor, de conformidad con las disposiciones del anexo VIII, e informará al distribuidor de la obligación de exhibirlas. 
+ Artículo 6 
+ Métodos de medición 
+ La información que debe suministrarse en aplicación de los artículos 3 y 4 se obtendrá mediante métodos de medición y cálculo fiables, exactos y reproducibles que tengan en cuenta los métodos de medición y cálculo más avanzados generalmente aceptados establecidos en el anexo IV. 
+ Artículo 7 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Los Estados miembros aplicarán el procedimiento de verificación establecido en el anexo IX al desempeñar las tareas de vigilancia del mercado contempladas en el artículo 8, apartado 3, del Reglamento (UE) 2017/1369. 
+ Artículo 8 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso tecnológico y presentará al foro consultivo los resultados de esa revisión, incluido, en su caso, un proyecto de propuesta de revisión, a más tardar el 25 de diciembre de 2022. 
+ En la revisión se evaluará, en particular, lo siguiente: 
+ a) 
+ si es o sigue siendo adecuado distinguir categorías separadas de energía en relación con SDR y HDR; 
+ b) 
+ las tolerancias de verificación establecidas en el anexo IX; 
+ c) 
+ si deben incluirse otras pantallas electrónicas en el ámbito de aplicación; 
+ d) 
+ la idoneidad del equilibrio entre los productos más grandes y los más pequeños en cuanto al rigor de los requisitos; 
+ e) 
+ si es viable desarrollar métodos adecuados de notificación en relación con el consumo de energía; 
+ f) 
+ la posibilidad de abordar los aspectos de la economía circular. 
+ Además, cuando se reúnan los requisitos del artículo 11 del Reglamento (UE) 2017/1369, la Comisión revisará la etiqueta para reescalarla. 
+ Artículo 9 
+ Derogación 
+ Queda derogado el Reglamento (UE) n. o 1062/2010 con efectos a partir del 1 de marzo de 2021. 
+ Artículo 10 
+ Medidas transitorias 
+ Desde el 25 de diciembre de 2019 hasta el 28 de febrero de 2021, la ficha del producto exigida en virtud del artículo 3, apartado 1, letra b), del Reglamento (UE) n. o 1062/2010 podrá facilitarse a través de la base de datos de los productos, en vez de en forma impresa con el producto. En tal caso, el proveedor velará por que, si lo solicita específicamente el distribuidor, la ficha del producto esté disponible en forma impresa. 
+ Artículo 11 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea . 
+ Será aplicable a partir del 1 de marzo de 2021. No obstante, el artículo 3, apartado 1, letra a), será aplicable a partir del 1 de noviembre de 2020. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 11 de marzo de 2019. 
+ Por la Comisión 
+ El Presidente 
+ Jean-Claude JUNCKER
+ ( 1 )   
+ DO L 98 de 28.7.2017, p. 1 . 
+ ( 2 )   Reglamento Delegado (UE) n. o 1062/2010 de la Comisión, de 28 de septiembre de 2010, por el que se desarrolla la Directiva 2010/30/UE del Parlamento Europeo y del Consejo respecto del etiquetado energético de las televisiones ( DO L 314 de 30.11.2010, p. 64 ). 
+ ( 3 )   Comunicación de la Comisión: Plan de trabajo sobre diseño ecológico 2016-2019, COM(2016) 773 final, de 30 de noviembre de 2016. 
+ ( 4 )   Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía ( DO L 285 de 31.10.2009, p. 10 ). 
+ ( 5 )   Reglamento (CE) n. o 642/2009 de la Comisión, de 22 de julio de 2009, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo respecto de los requisitos de diseño ecológico aplicables a las televisiones ( DO L 191 de 23.7.2009, p. 42 ). 
+ ( 6 )   Reglamento (UE) n. o 1025/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre la normalización europea, por el que se modifican las Directivas 89/686/CEE y 93/15/CEE del Consejo y las Directivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE y 2009/105/CE del Parlamento Europeo y del Consejo y por el que se deroga la Decisión 87/95/CEE del Consejo y la Decisión n. o 1673/2006/CE del Parlamento Europeo y del Consejo ( DO L 316 de 14.11.2012, p. 12 ). 
+ ( 7 )   Directiva 2000/31/CE del Parlamento Europeo y del Consejo, de 8 de junio de 2000, relativa a determinados aspectos jurídicos de los servicios de la sociedad de la información, en particular el comercio electrónico en el mercado interior ( DO L 178 de 17.7.2000, p. 1 ). 
+ ( 8 )   Directiva 2012/19/UE del Parlamento Europeo y del Consejo, de 4 de julio de 2012, sobre residuos de aparatos eléctricos y electrónicos (RAEE) ( DO L 197 de 24.7.2012, p. 38 ). 
+ ( 9 )   Reglamento (CE) n. o 1275/2008 de la Comisión, de 17 de diciembre de 2008, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo en lo concerniente a los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos preparado y desactivado, así como en el modo preparado en red, de los equipos eléctricos y electrónicos domésticos y de oficina ( DO L 339 de 18.12.2008, p. 45 ). 
+ ( 10 )   Directiva 93/42/CEE del Consejo, de 14 de junio de 1993, relativa a los productos sanitarios ( DO L 169 de 12.7.1993, p. 1 ). 
+ ( 11 )   Reglamento (UE) 2017/745 del Parlamento Europeo y del Consejo, de 5 de abril de 2017, sobre los productos sanitarios, por el que se modifican la Directiva 2001/83/CE, el Reglamento (CE) n. o 178/2002 y el Reglamento (CE) n. o 1223/2009 y por el que se derogan las Directivas 90/385/CEE y 93/42/CEE del Consejo ( DO L 117 de 5.5.2017, p. 1 ). 
+ ( 12 )   Directiva 90/385/CEE del Consejo, de 20 de junio de 1990, relativa a la aproximación de las legislaciones de los Estados miembros sobre los productos sanitarios implantables activos ( DO L 189 de 20.7.1990, p. 17 ). 
+ ( 13 )   Directiva 98/79/UE del Parlamento Europeo y del Consejo, de 27 de octubre de 1998, sobre productos sanitarios para diagnóstico in vitro ( DO L 331 de 7.12.1998, p. 1 ). 
+ ( 14 )   Reglamento (UE) 2017/746 del Parlamento Europeo y del Consejo, de 5 de abril de 2017, sobre los productos sanitarios para diagnóstico in vitro y por el que se derogan la Directiva 98/79/CE y la Decisión 2010/227/UE de la Comisión ( DO L 117 de 5.5.2017, p. 176 ). 
+ ANEXO I 
+ Definiciones a efectos de los anexos 
+ Se aplicarán las siguientes definiciones: 
+ 1) 
+ «índice de eficiencia energética (IEE)»: un índice numérico de la eficiencia energética relativa de una pantalla electrónica, tal como se establece en el anexo II, letra B; 
+ 2) 
+ «alto rango dinámico (HDR)»: un método para aumentar la razón de contraste de la imagen de una pantalla electrónica utilizando metadatos generados en la creación del material de vídeo y que el circuito de gestión de la visualización interpreta para producir una razón de contraste y una renderización del color percibida por el ojo humano más realista que la percibida por pantallas no compatibles con el HDR; 
+ 3) 
+ «razón de contraste»: diferencia entre el brillo pico y el nivel de negro en una imagen; 
+ 4) 
+ «luminancia»: medida fotométrica de la intensidad luminosa por unidad de superficie de la luz que se desplaza en una dirección dada, expresada en unidades de candelas por metro cuadrado (cd/m 2 ); a menudo se utiliza el término «brillo» para calificar «subjetivamente» la luminancia de una pantalla electrónica; 
+ 5) 
+ «control automático de brillo («ABC»)»: mecanismo automático que, cuando está activado, controla el brillo de una pantalla electrónica en función del nivel de luz ambiente que ilumina la parte frontal de la pantalla; 
+ 6) 
+ «por defecto»: con referencia a una característica o configuración específica, valor de una característica específica definido en la fábrica y disponible cuando el cliente utiliza el producto por vez primera y tras ejecutar la acción «restablecer la configuración de fábrica», si el producto lo permite; 
+ 7) 
+ «píxel (elemento de imagen)»: superficie del elemento más pequeño de una imagen que se puede distinguir de sus elementos vecinos; 
+ 8) 
+ «modo encendido» o «modo activo»: condición en que la pantalla electrónica está conectada a una fuente de alimentación, ha sido activada y ofrece una o más de sus funciones de visualización; 
+ 9) 
+ «menú obligatorio»: menú específico que aparece cuando se utiliza la pantalla por vez primera o tras restablecer la configuración de fábrica y que ofrece un conjunto de configuraciones de visualización alternativas predefinidas por el fabricante; 
+ 10) 
+ «configuración normal»: configuración de pantalla recomendada al usuario final por el proveedor desde el menú de configuración inicial, o configuración de fábrica de la pantalla electrónica para el uso previsto del producto; debe ofrecer la calidad óptima al usuario final en el entorno previsto y para el uso previsto; la configuración normal es la condición en la que se miden los valores de los modos desactivado, preparado, preparado en red y encendido; 
+ 11) 
+ «configuración más brillante en modo encendido»: configuración de la pantalla electrónica, predefinida por el proveedor, que proporciona una imagen aceptable con la luminancia máxima medida; 
+ 12) 
+ «configuración de tienda»: configuración de la pantalla electrónica para uso específico en el contexto de la demostración de la pantalla electrónica, por ejemplo, en condiciones de elevado nivel de iluminación (en un establecimiento minorista), sin apagado automático si no se detecta ninguna actividad o presencia del usuario; 
+ 13) 
+ «sensor de presencia», «sensor de detección de gestos» o «sensor de movimiento»: sensor que, en el espacio alrededor del producto, detecta los movimientos y reacciona ante ellos, y cuya señal puede activar el paso al modo encendido; la ausencia de detección de movimiento durante un período de tiempo predeterminado puede servir para pasar al modo preparado o al modo preparado en red; 
+ 14) 
+ «modo desactivado»: condición en que la pantalla electrónica está conectada a la fuente de alimentación, pero no ofrece función alguna; las condiciones siguientes se considerarán también «modo desactivado»: 
+ 1) 
+ las condiciones que solo proporcionan una indicación del «modo desactivado»; 
+ 2) 
+ las condiciones que solo ofrecen funcionalidades destinadas a garantizar la compatibilidad electromagnética con arreglo a la Directiva 2014/30/UE del Parlamento Europeo y del Consejo  ( 1 ) ; 
+ 15) 
+ «modo preparado»: condición en que la pantalla electrónica está conectada a una fuente de alimentación principal o de corriente continua, depende de la aportación de energía procedente de dicha fuente para funcionar como está previsto y ofrece solo las siguientes funciones, que pueden persistir por tiempo indefinido: 
+ — 
+ función de reactivación, o bien función de reactivación y tan solo una indicación de función de reactivación activada, y/o 
+ — 
+ visualización de información o estado; 
+ 16) 
+ «función de reactivación»: función que permite, mediante un interruptor remoto, una unidad de control remoto, un sensor interno o un temporizador o, en el caso de las pantallas de red en modo preparado en red, la red, pasar del modo preparado o del modo preparado en red a un modo, distinto del modo desactivado, que ofrece funciones adicionales; 
+ 17) 
+ «mecanismo de visualización»: toda pantalla, incluidas las pantallas táctiles, u otra tecnología visual utilizadas para que los usuarios visualicen contenidos de internet; 
+ 18) 
+ «visualización anidada»: interfaz visual gracias a la cual puede accederse a una imagen o conjunto de datos a partir de un clic o un barrido del ratón o con la expansión de otra imagen o conjunto de datos en una pantalla táctil; 
+ 19) 
+ «pantalla táctil»: pantalla que responde al tacto, como la de las tabletas digitales, los ordenadores pizarra o los teléfonos inteligentes; 
+ 20) 
+ «texto alternativo»: texto facilitado como alternativa a un gráfico que permite presentar información de forma no gráfica cuando los dispositivos de visualización no puedan presentar el gráfico o como ayuda a la accesibilidad, por ejemplo en aplicaciones de síntesis de voz; 
+ 21) 
+ «fuente de alimentación externa»: dispositivo definido en el Reglamento (UE) 2019/1782 de la Comisión  ( 2 ) ; 
+ 22) 
+ «fuente de alimentación externa normalizada»: fuente de alimentación externa diseñada para proporcionar energía a varios dispositivos y que es acorde con una norma adoptada por una organización internacional de normalización; 
+ 23) 
+ «código de respuesta rápida (QR)»: código de barras en matriz incluido en la etiqueta energética de un modelo de producto que enlaza con la información de dicho modelo en la parte pública de la base de datos de los productos; 
+ 24) 
+ «red»: infraestructura de comunicación con una topología de enlaces y una arquitectura que incluye los componentes físicos, los principios de organización y los procedimientos y formatos de comunicación (protocolos); 
+ 25) 
+ «interfaz de red» (o «puerto de red»): interfaz física alámbrica o inalámbrica, que proporciona conexión a la red, a través de la cual se pueden activar a distancia funciones de la pantalla electrónica y recibir o enviar datos; las interfaces a los datos de entrada, como las señales de audio y vídeo, pero no originadas en una fuente de red y que utilizan una dirección de red, no se consideran interfaces de red; 
+ 26) 
+ «disponibilidad a la red»: capacidad de una pantalla electrónica para activar sus funciones cuando una interfaz de red haya detectado una activación iniciada a distancia; 
+ 27) 
+ «pantalla de red»: pantalla electrónica que puede conectarse a una red utilizando una o más interfaces de red, si están activadas; 
+ 28) 
+ «modo preparado en red»: condición en que una pantalla electrónica es capaz de reanudar una función mediante una activación iniciada a distancia desde una interfaz de red. 
+ ( 1 )   Directiva 2014/30/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los Estados miembros en materia de compatibilidad electromagnética ( DO L 96 de 29.3.2014, p. 79 ). 
+ ( 2 )   Reglamento (UE) 2019/1782 de la Comisión, de 1 de octubre de 2019, por el que se establecen requisitos de diseño ecológico para las fuentes de alimentación externas de conformidad con la Directiva 2009/125/CE del Parlamento Europeo y del Consejo y se deroga el Reglamento (CE) n. o 278/2009 de la Comisión ( DO L 272 de 25.10.2019, p. 95 ). 
+ ANEXO II 
+ A.    Clases de eficiencia energética 
+ La clase de eficiencia energética de una pantalla electrónica se determinará con arreglo al índice de eficiencia energética para el etiquetado (IEE 
+ label 
+ ) tal como se establece en el cuadro 1. El IEE 
+ label 
+ de una pantalla electrónica se determinará de acuerdo con la parte B del presente anexo. 
+ Cuadro 1 
+ Clases de eficiencia energética de las pantallas electrónicas 
+ Clase de eficiencia energética 
+ Índice de eficiencia energética ( IEE label 
+ ) 
+ A 
+ IEE label 
+ < 0,30 
+ B 
+ 0,30 ≤ IEE label 
+ < 0,40 
+ C 
+ 0,40 ≤ IEE label 
+ < 0,50 
+ D 
+ 0,50 ≤ IEE label 
+ < 0,60 
+ E 
+ 0,60 ≤ IEE label 
+ < 0,75 
+ F 
+ 0,75 ≤ IEE label 
+ < 0,90 
+ G 
+ 0,90 ≤ IEE label 
+ B.    Índice de eficiencia energética (IEE 
+ label 
+ ) 
+ El índice de eficiencia energética (IEE 
+ label 
+ ) de la pantalla electrónica se calculará utilizando la ecuación siguiente: 
+ Donde: 
+ A representa la superficie de visualización en dm 2 ; 
+ P measured 
+ es la potencia medida en modo encendido, en vatios, en la configuración normal, y establecida tal como se indica en el cuadro 2; 
+ corr l 
+ es un factor de corrección tal como se indica en el cuadro 3. 
+ Cuadro 2 
+ Medición de P measured 
+ Nivel de rango dinámico 
+ P measured 
+ Rango dinámico normal (SDR) Pmeasured SDR 
+ Demanda de potencia en vatios (W) en modo encendido, medida al visualizar secuencias de ensayo normalizadas de imágenes en movimiento a partir de contenido radiodifundido dinámico. Cuando sean aplicables tolerancias de conformidad con la parte C del presente anexo, estas deberán deducirse de P measured 
+ . 
+ Alto rango dinámico (HDR) 
+ Pmeasured HDR 
+ Demanda de potencia en vatios (W) en modo encendido, medida de igual manera que para Pmeasured SDR 
+ , pero con la funcionalidad HDR activada por metadatos en las secuencias de ensayo HDR normalizadas. Cuando sean aplicables tolerancias de conformidad con la parte C del presente anexo, estas deberán deducirse de P measured 
+ . 
+ Cuadro 3 
+ Valor corr l 
+ Tipo de pantalla electrónica 
+ valor corr l 
+ Televisión 
+ 0,0 
+ Monitor 
+ 0,0 
+ Señalización digital 
+ 0,00062 *(lum-500)*A 
+ donde «lum» es la luminancia blanca pico, en cd/m 2 , de la configuración en modo encendido más brillante de la pantalla electrónica y A es la superficie de visualización en dm 2 
+ C.    Tolerancias y ajustes a efectos del cálculo del IEE 
+ label 
+ Las pantallas electrónicas con control automático de brillo (ABC) podrán optar a una reducción de la P measured 
+ del 10 % si cumplen todos los requisitos siguientes: 
+ a) 
+ El ABC está activado en la configuración normal de la pantalla electrónica y persiste en cualquier otra configuración del rango dinámico normal disponible para el usuario final. 
+ b) 
+ El valor de P measured 
+ , en la configuración normal se mide con el ABC desactivado o, si el ABC no puede desactivarse, en una condición de luz ambiente de 100 lux medida en el sensor ABC. 
+ c) 
+ De aplicarse, el valor de P measured 
+ con el ABC desactivado será igual o superior a la potencia en modo encendido medida con el ABC activado en una condición de luz ambiente de 100 lux medida en el sensor ABC. 
+ d) 
+ Con el ABC activado, el valor medido de la potencia en modo encendido debe disminuir al menos en un 20 % cuando la condición de luz ambiente, medida en el sensor ABC, se reduce de 100 lux a 12 lux. 
+ e) 
+ El control ABC de la luminancia de la pantalla de visualización reúne todas las características siguientes cuando cambia la condición de luz ambiente medida en el sensor ABC: 
+ — 
+ la luminancia medida de la pantalla a 60 lux se sitúa entre el 65 % y el 95 % de la luminancia de la pantalla medida a 100 lux, 
+ — 
+ la luminancia medida de la pantalla a 35 lux se sitúa entre el 50 % y el 80 % de la luminancia de la pantalla medida a 100 lux, 
+ — 
+ la luminancia medida de la pantalla a 12 lux se sitúa entre el 35 % y el 70 % de la luminancia de la pantalla medida a 100 lux. 
+ ANEXO III 
+ Etiqueta de las pantallas electrónicas 
+ 1.   ETIQUETA 
+ La etiqueta de las pantallas electrónicas deberá contener la siguiente información: 
+ I. 
+ el código QR; 
+ II. 
+ el nombre o la marca del proveedor; 
+ III. 
+ el identificador del modelo del proveedor; 
+ IV. 
+ la escala de clases de eficiencia energética de A a G; 
+ V. 
+ la clase de eficiencia energética determinada de conformidad con el anexo II, letra B, cuando se utiliza Pmeasured SDR 
+ ; 
+ VI. 
+ el consumo de energía en modo encendido, en kWh por 1 000 h, cuando se reproduce contenido SDR, redondeado al número entero más próximo; 
+ VII. 
+ la clase de eficiencia energética determinada de conformidad con el anexo II, letra B, cuando se utiliza Pmeasured HDR 
+ ; 
+ VIII. 
+ el consumo de energía en modo encendido, en kWh por 1 000 h, cuando se reproduce contenido con HDR, redondeado al número entero más próximo; 
+ IX. 
+ la diagonal visible de la pantalla, en centímetros y en pulgadas y la resolución horizontal y vertical en píxeles; 
+ X. 
+ el número del presente Reglamento, «2019/2013». 
+ 2.   DISEÑO DE LA ETIQUETA 
+ Características: 
+ a) 
+ La etiqueta tendrá como mínimo 96 mm de anchura y 192 mm de altura. Aunque se imprima en un formato mayor, su contenido deberá guardar la proporción con las especificaciones citadas. En el caso de las pantallas electrónicas cuya diagonal de superficie visible sea inferior a 127 cm (50 pulgadas), la etiqueta podrá imprimirse reducida, pero no será inferior al 60 % de su tamaño normal; no obstante, su contenido será proporcional a las especificaciones arriba indicadas y el código QR deberá ser legible por un lector de QR disponible habitualmente, como los integrados en un teléfono inteligente. 
+ b) 
+ El fondo de la etiqueta será 100 % blanco. 
+ c) 
+ Los tipos de letra serán Verdana y Calibri. 
+ d) 
+ Las dimensiones y las especificaciones de los elementos que constituyan la etiqueta serán las indicadas en el diseño de etiqueta. 
+ e) 
+ Los colores serán CMAN (cian, magenta, amarillo y negro), según el siguiente ejemplo: 0,70,100,0: 0 % cian, 70 % magenta, 100 % amarillo, 0 % negro. 
+ f) 
+ La etiqueta deberá cumplir íntegramente los siguientes requisitos (los números remiten a los de la figura precedente): 
+ los colores del logotipo de la UE serán: 
+ — 
+ fondo: 100,80,0,0; 
+ — 
+ estrellas: 0,0,100,0; 
+ el color del logotipo de energía será: 100,80,0,0; 
+ el código QR será de color 100 % negro; 
+ el nombre del proveedor irá en color 100 % negro, con fuente Verdana negrita, de 9 pt; 
+ el identificador del modelo irá en color 100 % negro, con fuente Verdana normal, de 9 pt; 
+ la escala de A a G será como sigue: 
+ — 
+ las letras de la escala de eficiencia energética irán en color 100 % blanco y con fuente Calibri negrita, de 19 pt; las letras estarán centradas en un eje de 4,5 mm a partir del lado izquierdo de las flechas; 
+ — 
+ los colores de las flechas de la escala A a G serán como sigue: 
+ — 
+ Clase A: 100,0,100,0; 
+ — 
+ Clase B: 70,0,100,0; 
+ — 
+ Clase C: 30,0,100,0; 
+ — 
+ Clase D: 0,0,100,0; 
+ — 
+ Clase E: 0,30,100,0; 
+ — 
+ Clase F: 0,70,100,0; 
+ — 
+ Clase G: 0,100,100,0; 
+ los filetes interiores de separación tendrán un grosor de 0,5 pt e irán en color 100 % negro; 
+ la letra de la clase de eficiencia energética irá en color 100 % blanco y con fuente Calibri negrita, de 33 pt; la flecha de la clase de eficiencia energética y la correspondiente flecha en la escala A a G se colocarán de forma que sus puntas estén alineadas; la letra de la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, que irá en color 100 % negro; 
+ el valor del consumo de potencia en SDR irá con fuente Verdana de 28 pt; «kWh/1 000h» irá con fuente Verdana normal de 16 pt; el texto estará centrado e irá en color 100 % negro; 
+ los pictogramas de HDR y de la pantalla irán en color 100 % negro y se mostrarán tal como se indica en el diseño de la etiqueta; los textos (números y unidades) irán en color 100 % negro y como sigue: 
+ — 
+ encima del pictograma de HDR, las letras de las clases de eficiencia energética (A a G) estarán centradas, con la letra de la clase de eficiencia energética aplicable en Verdana negrita de 16 pt y las demás letras en Verdana normal de 10 pt; debajo del pictograma de HDR, el valor del consumo de energía en HDR irá centrado, con fuente Verdana negrita de 16 pt, con «kWh/1 000h» en Verdana normal de 10 pt, 
+ — 
+ los textos del pictograma de la pantalla irán con fuente Verdana normal de 9 pt y colocados como en el dibujo de la etiqueta; 
+ el número del Reglamento irá en color 100 % negro y con fuente Verdana normal, de 6 pt. 
+ ANEXO IV 
+ Métodos de medición y cálculos 
+ A efectos del cumplimiento y verificación del cumplimiento de los requisitos del presente Reglamento, se efectuarán mediciones y cálculos utilizando las normas armonizadas cuyos números de referencia hayan sido publicados en el Diario Oficial de la Unión Europea u otros métodos fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica más avanzado generalmente aceptado. Estos estarán en consonancia con las disposiciones establecidas en el presente anexo. 
+ Las mediciones y cálculos se ajustarán a las definiciones, condiciones, ecuaciones y parámetros técnicos establecidos en el presente anexo. Las pantallas electrónicas que pueden funcionar en los modos 2D y 3D se someterán a ensayo en modo 2D. 
+ Las pantallas electrónicas que se dividan en dos o más unidades separadas físicamente, pero se introduzcan en el mercado en un único embalaje, se considerarán una única pantalla electrónica a efectos de la verificación de la conformidad con los requisitos del presente anexo. Cuando varias pantallas electrónicas que pueden introducirse en el mercado separadamente se combinen en un sistema único, cada una de esas pantallas electrónicas se considerará una única pantalla electrónica. 
+ 1.    MEDICIONES DE LA DEMANDA DE POTENCIA EN MODO ENCENDIDO 
+ Las mediciones de la demanda de potencia en modo encendido cumplirán íntegramente las siguientes condiciones generales: 
+ a) 
+ las mediciones de las pantallas electrónicas se efectuarán en la configuración normal; 
+ b) 
+ las mediciones se efectuarán a una temperatura ambiente de 23 ± 5 °C; 
+ c) 
+ Las mediciones se efectuarán utilizando bucles de ensayo de señal de vídeo dinámica radiodifundida que sean representativos de un contenido típico de radiodifusión para pantallas electrónicas en el rango dinámico normal (SDR). En el caso de la medición HDR, la pantalla electrónica debe responder de manera automática y correcta a los metadatos HDR en el bucle de ensayo. Se medirá la potencia media consumida en 10 minutos consecutivos. 
+ d) 
+ Las mediciones se realizarán después de que la pantalla electrónica haya estado en modo desactivado o, si el modo desactivado no está disponible, en modo preparado durante un período mínimo de una hora, seguido inmediatamente de otro período mínimo de una hora en modo encendido, y deberán haberse completado antes de que transcurra un máximo de tres horas en modo encendido. La señal de vídeo pertinente se visualizará durante la totalidad del período en que el aparato se encuentre en modo encendido. Por lo que respecta a las pantallas electrónicas de las cuales se sabe que se estabilizan en el plazo de una hora, los citados períodos podrán reducirse si se puede demostrar que la medición resultante se mantiene dentro de un margen del 2 % respecto de los resultados que se obtendrían utilizando los períodos aquí descritos. 
+ e) 
+ Las mediciones se realizarán con la función ABC desactivada, si tal función está disponible. Si no se puede desactivar, las mediciones se realizarán en una condición de luz ambiente de 100 lux medida en el sensor ABC. 
+ 2.    MEDICIONES DE LA LUMINANCIA BLANCA PICO 
+ Las mediciones de la luminancia blanca pico se efectuarán: 
+ a) 
+ con un medidor de luminancia orientado a la parte de la pantalla que muestre una imagen totalmente blanca (100 %), dentro de una imagen patrón de «ensayo a pantalla completa» que no exceda el punto del nivel medio de imagen (APL) en el cual se produce una limitación de potencia u otra irregularidad; 
+ b) 
+ sin que resulte perturbado el punto de detección del medidor de luminancia en la pantalla electrónica cuando se alterne entre la configuración normal y la configuración en modo encendido más brillante. 
+ ANEXO V 
+ Ficha de información del producto 
+ En aplicación del artículo 3, apartado 1, letra b), el proveedor introducirá en la base de datos del producto la información tal como se establece en el cuadro 4. 
+ El manual del producto u otra documentación que acompañe al producto indicarán claramente el enlace al modelo en la base de datos de los productos ya sea como una dirección URL legible por personas, o como un código QR, o bien facilitarán el número de registro del producto. 
+ Cuadro 4 
+ Información, orden y formato de la ficha de información del producto 
+ Información 
+ Valor y precisión 
+ Unidad 
+ Notas 
+ 1. 
+ Nombre o marca del proveedor 
+ TEXTO 
+ 2. 
+ Identificador del modelo del proveedor 
+ TEXTO 
+ 3. 
+ Clase de eficiencia energética para el rango dinámico normal (SDR) 
+ [A/B/C/D/E/F/G] 
+ Si la base de datos de los productos genera automáticamente el contenido definitivo de esta casilla, el proveedor no introducirá estos datos. 
+ 4. 
+ Demanda de potencia en modo encendido para el rango dinámico normal (SDR) 
+ X,X 
+ W 
+ Redondeado al primer decimal para los valores de potencia inferiores a 100 W y redondeado al primer entero para los valores de potencia a partir de 100 W. 
+ 5. 
+ Clase de eficiencia energética (HDR) 
+ [A/B/C/D/E/F/G] o no aplicable. 
+ Si la base de datos de los productos genera automáticamente el contenido definitivo de esta casilla, el proveedor no introducirá estos datos. El valor se definirá como «n. a.» (no aplicable) si no se aplica el HDR. 
+ 6. 
+ Demanda de potencia en modo encendido para el alto rango dinámico (HDR) 
+ X,X 
+ W 
+ Redondeado al primer decimal para los valores de potencia inferiores a 100 W y redondeado al primer entero para los valores de potencia a partir de 100 W [el valor se establecerá en 0 (cero) si es «no aplicable»] 
+ 7. 
+ Demanda de potencia en modo desactivado 
+ X,X 
+ W 
+ 8. 
+ Demanda de potencia en modo preparado 
+ X,X 
+ W 
+ 9. 
+ Demanda de potencia en modo preparado en red 
+ X,X 
+ W 
+ 10. 
+ Categoría de pantalla electrónica 
+ [televisión/monitor/señalización/otra] 
+ Selecciónese una. 
+ 11. 
+ Ratio de tamaño 
+ X 
+ : 
+ Y 
+ entero 
+ P. ej.: 16:9, 21:9, etc. 
+ 12. 
+ Resolución de la pantalla (en píxeles) 
+ X 
+ x 
+ Y 
+ píxeles 
+ Píxeles horizontales y verticales 
+ 13. 
+ Diagonal de la pantalla 
+ X,X 
+ cm 
+ En cm, según el sistema internacional de unidades (SI), redondeado al decimal más próximo. 
+ 14. 
+ Diagonal de la pantalla 
+ X 
+ pulgadas 
+ Facultativo, en pulgadas, redondeado al número entero más próximo. 
+ 15. 
+ Superficie visible de la pantalla 
+ X,X 
+ cm 2 
+ Redondeado a un decimal 
+ 16. 
+ Tecnología usada en el panel 
+ TEXTO 
+ P. ej. LCD/LED LCD/QLED LCD/OLED/MicroLED/QDLED/SED/FED/EPD, etc. 
+ 17. 
+ Control automático de brillo (ABC) disponible 
+ [SÍ/NO] 
+ Debe estar activado por defecto (en caso afirmativo). 
+ 18. 
+ Sensor de reconocimiento vocal disponible 
+ [SÍ/NO] 
+ 19. 
+ Sensor de presencia disponible 
+ [SÍ/NO] 
+ Debe estar activado por defecto (en caso afirmativo). 
+ 20. 
+ Frecuencia de refresco de la imagen 
+ X 
+ Hz 
+ 21. 
+ Disponibilidad mínima garantizada de actualizaciones de software y de firmware (hasta): 
+ DD MM AAAA 
+ fecha 
+ Tal como se indica en el anexo II, letra E, punto 1, del Reglamento (UE) 2019/2021 de la Comisión  ( 1 ) . 
+ 22. 
+ Disponibilidad mínima garantizada de piezas de recambio (hasta): 
+ DD MM AAAA 
+ fecha 
+ Tal como se indica en el anexo II, letra D, punto 5, del Reglamento (UE) 2019/2021. 
+ 23. 
+ Disponibilidad mínima garantizada de asistencia para el producto (hasta): 
+ DD MM AAAA 
+ fecha 
+ 24. 
+ Tipo de fuente de alimentación: 
+ Interna/externa/externa normalizada 
+ Selecciónese una. 
+ i 
+ Fuente de alimentación externa normalizada (incluida en la caja del producto) 
+ Nombre de la norma 
+ TEXTO 
+ Tensión de entrada 
+ X 
+ V 
+ Tensión de salida 
+ X 
+ V 
+ ii 
+ Fuente de alimentación externa normalizada adecuada (si no está incluida en la caja del producto) 
+ Nombre de la norma 
+ TEXTO 
+ Solamente es obligatorio si la fuente de alimentación externa no está incluida en la caja; de lo contrario, no es obligatorio. 
+ Tensión de salida requerida 
+ X,X 
+ V 
+ Solamente es obligatorio si la fuente de alimentación externa no está incluida en la caja; de lo contrario, no es obligatorio. 
+ Intensidad de corriente requerida 
+ X,X 
+ A 
+ Solamente es obligatorio si la fuente de alimentación externa no está incluida en la caja; de lo contrario, no es obligatorio. 
+ Frecuencia de corriente requerida 
+ X 
+ Hz 
+ Solamente es obligatorio si la fuente de alimentación externa no está incluida en la caja; de lo contrario, no es obligatorio. 
+ ( 1 )   Reglamento (UE) 2019/2021 de la Comisión, de 1 de octubre de 2019, por el que se establecen requisitos de diseño ecológico aplicables a las pantallas electrónicas con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, se modifica el Reglamento (CE) n. o 1275/2008 de la Comisión y se deroga el Reglamento (CE) n. o 642/2009 de la Comisión (véase la página 241 del presente Diario Oficial). 
+ ANEXO VI 
+ Documentación técnica 
+ La documentación técnica a la que se refiere el artículo 3, apartado 1, letra d), deberá incluir: 
+ 1) 
+ los datos de identificación (descripción general del modelo): 
+ a) 
+ la marca comercial y el identificador del modelo; 
+ b) 
+ el nombre, la dirección y el nombre comercial registrado del proveedor; 
+ 2) 
+ referencias a las normas armonizadas aplicadas, otras normas de medición y especificaciones utilizadas para medir los parámetros técnicos y cálculos realizados; 
+ 3) 
+ las precauciones específicas que deberán tomarse durante el montaje, la instalación o el ensayo del modelo; 
+ 4) 
+ una lista de todos los modelos equivalentes, incluidos los identificadores de los modelos; 
+ 5) 
+ los parámetros técnicos medidos del modelo y cálculos realizados con los parámetros medidos enumerados en el cuadro 5; 
+ Cuadro 5 
+ Parámetros técnicos medidos 
+ Valor y precisión 
+ Unidad 
+ Notas 
+ General 
+ 1. 
+ Temperatura ambiente 
+ XX,XX 
+ °C 
+ 2. 
+ Tensión de ensayo 
+ X 
+ V 
+ 3. 
+ Frecuencia 
+ X,X 
+ Hz 
+ 4. 
+ Distorsión armónica total del sistema de alimentación eléctrica 
+ X 
+ % 
+ Para el modo encendido 
+ 5. 
+ Luminancia blanca pico de la configuración más brillante en modo encendido 
+ X 
+ cd/m 2 
+ 6. 
+ Luminancia blanca pico de la configuración normal 
+ X 
+ cd/m 2 
+ 7. 
+ Razón de luminancia blanca pico (calculada) 
+ X,X 
+ % 
+ Valor de la fila línea 6 dividido por el valor de la fila 5 de este cuadro multiplicado por 100 
+ Para el apagado automático (APD) 
+ 8. 
+ Duración de la condición del modo encendido antes de que la pantalla electrónica alcance automáticamente el modo preparado, el modo desactivado u otra condición que no rebase los requisitos de consumo de potencia aplicables para los modos desactivado y/o preparado. 
+ mm:ss 
+ Para televisiones: el valor medido del tiempo que transcurre antes de que la televisión alcance automáticamente el modo preparado o el modo desactivado, o bien otra condición que no rebase los requisitos de consumo de potencia aplicables al modo desactivado y/o al modo preparado, tras la última interacción del usuario. 
+ mm:ss 
+ Para televisiones equipadas con un sensor de presencia: el valor medido del tiempo que transcurre antes de que la televisión alcance automáticamente el modo preparado o el modo desactivado, o bien otra condición que no rebase los requisitos de consumo de potencia aplicables al modo desactivado y/o al modo preparado cuando no se detecta presencia. 
+ mm:ss 
+ Otras pantallas electrónicas distintas de las televisiones y las pantallas para producciones audiovisuales: el valor medido del tiempo que transcurre antes de que la pantalla electrónica alcance automáticamente el modo preparado o el modo desactivado, o bien otra condición que no rebase los requisitos de consumo de potencia aplicables al modo desactivado y/o al modo preparado cuando no se detecta una señal de entrada. 
+ mm:ss 
+ Para ABC 
+ Si está disponible y activado por defecto (como se indica en el anexo V, cuadro 4) 
+ 9. 
+ Demanda media de potencia en modo encendido de la pantalla electrónica con una intensidad de luz ambiente, medida en el sensor ABC de la pantalla electrónica, de 100 lux y 12 lux. 
+ X,X 
+ W 
+ 10 
+ Porcentaje de reducción de potencia debido a la acción ABC entre las condiciones de luz ambiente de 100 lux y 12 lux 
+ X,X 
+ % 
+ 11 
+ Luminancia blanca pico de la pantalla en cada una de las siguientes intensidades de luz ambiente medidas en el sensor ABC de la pantalla electrónica: 100 lux, 60 lux, 35 lux, 12 lux. 
+ x 
+ cd/m 2 
+ Potencia medida en modo encendido a 100 lux de luz ambiente en el sensor ABC 
+ X,X 
+ W 
+ Potencia medida en modo encendido a 12 lux de luz ambiente en el sensor ABC 
+ X,X 
+ W 
+ Luminancia medida de la pantalla a 60 lux de luz ambiente en el sensor ABC 
+ X 
+ cd/m 2 
+ Luminancia medida de la pantalla a 35 lux de luz ambiente en el sensor ABC 
+ X 
+ cd/m 2 
+ Luminancia medida de la pantalla a 12 lux de luz ambiente en el sensor ABC 
+ X 
+ cd/m 2 
+ 6) 
+ Requisitos de información adicionales: 
+ a) 
+ Terminal de entrada para las señales de ensayo de audio y vídeo utilizados para los ensayos. 
+ b) 
+ Información y documentación sobre la instrumentación, la configuración y los circuitos utilizados para los ensayos eléctricos. 
+ c) 
+ Toda otra condición de ensayo no descrita o determinada en la letra b). 
+ d) 
+ Para el modo encendido: 
+ i) 
+ las características de la señal de vídeo dinámica de contenido radiodifundido que sea representativo de un contenido típico de radiodifusión televisiva; en el caso de la señal de vídeo dinámica de contenido radiodifundido HDR, la pantalla electrónica debe pasar automáticamente a modo HDR mediante los metadatos HDR de dicha señal; 
+ ii) 
+ la secuencia de pasos para alcanzar una condición estable respecto del nivel de demanda de potencia; y 
+ iii) 
+ las configuraciones de imagen utilizadas para la medición de la luminancia blanca pico más brillante y la imagen patrón de la señal de vídeo utilizada para la medición. 
+ e) 
+ Para el modo preparado y el modo desactivado: 
+ i) 
+ el método de medición empleado; 
+ ii) 
+ la descripción de la forma de seleccionar o programar el modo, incluida cualquier función de reactivación mejorada; y 
+ iii) 
+ la secuencia de eventos hasta llegar a la condición en que la pantalla electrónica cambia automáticamente de modo. 
+ f) 
+ Para las pantallas electrónicas con una interfaz de señal de ordenador designada: 
+ i) 
+ la confirmación de que la pantalla electrónica da prioridad a los protocolos de gestión del consumo de las pantallas de ordenador establecidos en el anexo II, punto 6.2.3, del Reglamento (UE) n. o 617/2013  ( 1 ) ; deberá comunicarse toda desviación de los protocolos. 
+ g) 
+ Para las pantallas electrónicas de red solamente: 
+ i) 
+ el número y el tipo de interfaces de red y, excepto en lo relativo a las interfaces de redes inalámbricas, su posición en la pantalla electrónica; 
+ ii) 
+ si la pantalla electrónica es una pantalla con funcionalidad HiNA; si no se facilita información, se considerará que la pantalla electrónica no es una pantalla HiNA o no tiene la funcionalidad HiNA; y 
+ iii) 
+ información sobre si una pantalla electrónica de red ofrece una funcionalidad que permite que la función de gestión del consumo y/o el usuario final puedan hacer pasar la pantalla electrónica del modo preparado en red al modo preparado, al modo desactivado o a otra condición que no rebase los requisitos de demanda de potencia aplicables al modo desactivado y/o al modo preparado, incluida la tolerancia de energía para la función de reactivación mejorada, en su caso. 
+ h) 
+ Para cada tipo de puerto de red: 
+ i) 
+ el tiempo predeterminado (mm:ss) transcurrido el cual la función de gestión del consumo hace pasar la pantalla a una condición que ofrece el modo preparado en red; y 
+ ii) 
+ el factor de activación que ha de utilizarse para reactivar la pantalla electrónica; 
+ 7) 
+ cuando la información incluida en la documentación técnica de un modelo concreto de pantalla electrónica se haya obtenido: 
+ a) 
+ a partir de un modelo con las mismas características técnicas pertinentes a efectos de la información técnica que debe facilitarse, pero producido por otro fabricante, o 
+ b) 
+ mediante cálculo efectuado en función del diseño o por extrapolación a partir de otro modelo del mismo proveedor o de un proveedor distinto, o por ambos procedimientos; 
+ la documentación técnica deberá contener, según proceda, los pormenores de dicho cálculo, la evaluación efectuada por los proveedores para verificar la exactitud del cálculo y, en su caso, la declaración de identidad entre los modelos de diferentes proveedores; y 
+ 8) 
+ los datos de contacto de la persona facultada para actuar en nombre del proveedor, si no están incluidos en la información técnica cargada en la base de datos, se pondrán a disposición de las autoridades de vigilancia del mercado o de la Comisión, previa petición, para llevar a cabo sus cometidos en virtud del presente Reglamento. 
+ ( 1 )   Reglamento (UE) n. o 617/2013 de la Comisión, de 26 de junio de 2013, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a los ordenadores y servidores informáticos ( DO L 175 de 27.6.2013, p. 13 ). 
+ ANEXO VII 
+ Información que debe facilitarse en los anuncios visuales, en el material técnico promocional y en la venta a distancia y venta telefónica, excepto la venta a distancia por internet 
+ 1.    
+ En los anuncios visuales, para garantizar la conformidad con los requisitos establecidos en el artículo 3, apartado 1, letra e), y en el artículo 4, letra d), la clase de eficiencia energética y la gama de clases de eficiencia disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo. 
+ 2.    
+ En el material técnico promocional, para garantizar la conformidad con los requisitos establecidos en el artículo 3, apartado 1, letra f), y en el artículo 4, letra e), la clase energética y la gama de clases de eficiencia disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo. 
+ 3.    
+ En toda venta a distancia por medio impreso deben mostrarse, como se indica en el punto 4 del presente anexo, la clase energética y la gama de clases de eficiencia disponibles en la etiqueta. 
+ 4.    
+ La clase de eficiencia energética y la gama de clases de eficiencia energética deberán mostrarse, como se indica en la figura 1, con: 
+ a) 
+ una flecha, que contiene la letra de la clase de eficiencia energética, en color 100 % blanco, con fuente Calibri negrita y con un tamaño de fuente al menos equivalente al del precio, si este aparece indicado; 
+ b) 
+ el color de la flecha igual que el de la clase de eficiencia energética; 
+ c) 
+ la gama de clases de eficiencia energética disponibles, en color 100 % negro; y 
+ d) 
+ un tamaño que haga que la flecha sea claramente visible y legible; la letra contenida en la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, con un borde de 0,5 pt en color 100 % negro en torno a la flecha y la letra de la clase de eficiencia energética. 
+ Como excepción, si el anuncio visual, el material técnico promocional o la venta a distancia por medio impreso se imprimen en monocromo, el color de la flecha podrá estar en monocromo en dicho anuncio visual, material técnico promocional o venta a distancia por medio impreso. 
+ Figura 1 
+ Flecha coloreada/monocroma izquierda/derecha, con indicación de la gama de clases de eficiencia energética 
+ 5.    
+ En la venta telefónica a distancia debe informarse específicamente al cliente de la clase de eficiencia energética del producto y de la gama de clases de eficiencia energética disponibles en la etiqueta, así como de la posibilidad de que el cliente acceda a la etiqueta y a la ficha de información del producto a través del sitio web de la base de datos del producto o solicitando una copia impresa. 
+ 6.    
+ En todas las situaciones mencionadas en los puntos 1 a 3 y 5, el cliente debe poder obtener, previa petición, una copia impresa de la etiqueta y de la ficha de información del producto. 
+ ANEXO VIII 
+ Información que debe facilitarse en caso de venta a distancia por internet 
+ 1.    
+ La correspondiente etiqueta facilitada por los proveedores conforme al artículo 3, apartado 1, letra g), deberá mostrarse en el mecanismo de visualización cerca del precio del producto. Deberá tener un tamaño que la haga claramente visible y legible y que sea proporcional al tamaño especificado en el anexo III, punto 2, letra a). La etiqueta podrá mostrarse mediante una visualización anidada, en cuyo caso la imagen utilizada para acceder a ella deberá cumplir las especificaciones establecidas en el punto 3 del presente anexo. Si se utiliza la visualización anidada, la etiqueta deberá aparecer con el primer clic o barrido del ratón sobre la imagen o la primera expansión de esta en pantalla táctil. 
+ 2.    
+ En caso de visualización anidada, la imagen que se use para acceder a la etiqueta, tal como se indica en la figura 2, deberá: 
+ a) 
+ consistir en una flecha del color correspondiente a la clase de eficiencia energética del producto que figure en su etiqueta; 
+ b) 
+ indicar en la flecha la clase de eficiencia energética del producto, en Calibri negrita, color 100 % blanco y con un tamaño de fuente equivalente al del precio; 
+ c) 
+ tener la gama de clases de eficiencia energética disponibles en color 100 % negro; y 
+ d) 
+ tener uno de los dos formatos siguientes, y su tamaño permitirá que la flecha sea claramente visible y legible; la letra contenida en la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, con un borde visible en color 100 % negro en torno a la flecha y la letra de la clase de eficiencia energética. 
+ Figura 2 
+ Flecha coloreada izquierda/derecha, con indicación de la gama de clases de eficiencia energética 
+ 3.    
+ En caso de visualización anidada, la visualización de la etiqueta deberá seguir la siguiente secuencia: 
+ a) 
+ la imagen a la que se refiere el punto 2 del presente anexo se presentará en el mecanismo de visualización cerca del precio del producto; 
+ b) 
+ la imagen servirá de enlace a la etiqueta establecida en el anexo III; 
+ c) 
+ la etiqueta se visualizará con un clic o barrido del ratón sobre la imagen o una expansión de esta en pantalla táctil; 
+ d) 
+ la etiqueta se visualizará en una ventana emergente, en otra pestaña, en otra página o en una pantalla en recuadro; 
+ e) 
+ para aumentar el tamaño de la etiqueta en las pantallas táctiles, se aplicarán las convenciones sobre ampliación táctil de estos dispositivos; 
+ f) 
+ la etiqueta dejará de visualizarse utilizando la opción «cerrar» u otro mecanismo habitual de cierre; y 
+ g) 
+ el texto alternativo al gráfico, que aparecerá si no se visualiza la etiqueta, consistirá en la clase de eficiencia energética del producto en un tamaño de fuente equivalente al del precio. 
+ 4.    
+ La correspondiente ficha de información del producto facilitada por los proveedores conforme al artículo 3, apartado 1, letra h), se mostrará en el mecanismo de visualización cerca del precio del producto. La ficha de información del producto deberá tener un tamaño que la haga claramente visible y legible. La ficha de información del producto podrá mostrarse mediante visualización anidada o por referencia a la base de datos de los productos, en cuyo caso el enlace utilizado para acceder a la ficha de información del producto deberá indicar de manera clara y legible el texto «Ficha de información del producto». Si se utiliza la visualización anidada, la ficha de información del producto aparecerá con el primer clic o barrido del ratón sobre el enlace o la primera expansión de este en pantalla táctil. 
+ ANEXO IX 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Las tolerancias de verificación establecidas en el presente anexo solo se refieren a la verificación de los parámetros medidos por las autoridades del Estado miembro y no serán utilizadas por el proveedor como tolerancia admisible para establecer los valores que figuren en la documentación técnica. Los valores y las clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores presentados en la documentación técnica. 
+ En caso de que un modelo haya sido diseñado para que pueda detectar que está siendo objeto de ensayo (por ejemplo, reconociendo las condiciones de ensayo o el ciclo de ensayo) y reaccionar específicamente con una alteración automática de su rendimiento durante el ensayo con el objetivo de alcanzar un nivel más favorable para cualquiera de los parámetros especificados en el presente Reglamento o incluidos en la documentación técnica o en cualquiera de los documentos facilitados, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes. 
+ Al verificar la conformidad de un modelo de producto con los requisitos establecidos en el presente Reglamento, las autoridades de los Estados miembros aplicarán el siguiente procedimiento: 
+ 1) 
+ Las autoridades del Estado miembro someterán a verificación una sola unidad del modelo. 
+ 2) 
+ Se considerará que el modelo cumple los requisitos aplicables si se reúnen las condiciones siguientes: 
+ a) 
+ los valores indicados en la documentación técnica con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 (valores declarados), así como, en su caso, los valores utilizados para calcular dichos valores, no son más favorables para el proveedor que los correspondientes valores indicados en las actas de ensayo; 
+ b) 
+ los valores publicados en la etiqueta y en la ficha de información del producto no son más favorables para el proveedor que los valores declarados, y la clase de eficiencia energética indicada no es más favorable para el proveedor que la clase determinada por los valores declarados; y 
+ c) 
+ cuando las autoridades del Estado miembro someten a ensayo la unidad del modelo, los valores determinados (los valores de los parámetros pertinentes medidos en ensayos y los valores calculados a partir de esas mediciones) se ajustan a las tolerancias de verificación respectivas indicadas en el cuadro 6. 
+ 3) 
+ Si no se alcanzan los resultados a que se refiere el punto 2, letras a) o b), se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento. 
+ 4) 
+ Si no se alcanza el resultado a que se refiere el punto 2, letra c), las autoridades del Estado miembro someterán a ensayo tres unidades más del mismo modelo. Como alternativa, las tres unidades adicionales seleccionadas pueden ser uno o más modelos equivalentes. 
+ 5) 
+ Se considerará que el modelo cumple los requisitos aplicables si, en el caso de esas tres unidades, la media aritmética de los valores determinados se ajusta a las tolerancias respectivas indicadas en el cuadro 6. 
+ 6) 
+ Si no se alcanza el resultado a que se refiere el punto 5, se considerará que ni el modelo ni ninguno de los modelos equivalentes son conformes con el presente Reglamento. 
+ 7) 
+ Sin demora tras la adopción de la decisión de no conformidad del modelo con arreglo a los puntos 3 y 6, las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión. 
+ Las autoridades del Estado miembro utilizarán los métodos de medición y cálculo que figuran en el anexo IV. 
+ Las autoridades del Estado miembro aplicarán únicamente las tolerancias de verificación indicadas en el cuadro 6 y solo utilizarán el procedimiento descrito en los puntos 1 a 7 en lo que concierne a los requisitos contemplados en el presente anexo. No se aplicarán otras tolerancias, tales como las establecidas en las normas armonizadas o en cualquier otro método de medición. 
+ Cuadro 6 
+ Tolerancias de verificación 
+ Parámetro 
+ Tolerancias de verificación 
+ Demanda de potencia en modo encendido ( P measured 
+ , vatios) 
+ El valor determinado  ( *1 ) no superará el valor declarado en más del 7 %. 
+ Demanda de potencia en modo desactivado, en modo preparado y en modo preparado en red (en vatios), según proceda. 
+ El valor determinado  ( *1 ) no superará el valor declarado en más de 0,10 vatios si el valor declarado es igual o inferior a 1,00 vatio, ni en más del 10 % si el valor declarado es superior a 1,00 vatio. 
+ Diagonal visible de la pantalla, en centímetros (y, si se declara, en pulgadas). 
+ El valor determinado  ( *1 ) no será inferior al valor declarado en más de 1 cm o 0,4 pulgadas. 
+ Superficie visible de la pantalla, en dm 2 
+ El valor determinado  ( *1 ) no será inferior al valor declarado en más de 0,1 dm 2 . 
+ La resolución de la pantalla en píxeles horizontales y verticales 
+ El valor determinado  ( *1 ) no se desviará del valor declarado. 
+ ( *1 )   En caso de que se sometan a ensayo tres unidades adicionales tal como se prescribe en el punto 4, el valor determinado significa la media aritmética de los valores determinados para dichas tres unidades adicionales. 
+ 

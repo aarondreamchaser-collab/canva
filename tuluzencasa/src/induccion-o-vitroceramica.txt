@@ -1,0 +1,98 @@
+title: Inducción o vitrocerámica: cuál gasta menos y cuánto ahorras al año
+title_seo: Inducción o vitrocerámica: cuál gasta menos luz
+excerpt: Inducción o vitrocerámica: la inducción gasta menos para cocinar lo mismo. Con una hora de fuego al día, ahorras unos 20 € al año a 0,165 €/kWh.
+category: consumo
+keyword: inducción o vitrocerámica
+---
+¿Inducción o vitrocerámica? Si lo que te preocupa es la factura, la inducción: para cocinar lo mismo necesita menos electricidad. Con una hora de fuego al día, una vitrocerámica cuesta unos 81 € al año y una placa de inducción, unos 61 €, así que el ahorro ronda los 20 € anuales.
+
+Los euros salen de multiplicar la energía por <strong>0,165 €/kWh con impuestos</strong>. Con el precio de tu factura, las dos placas suben o bajan a la vez y la diferencia entre ellas se mantiene en la misma proporción.
+
+## Inducción o vitrocerámica: por qué una gasta menos {#por-que}
+
+Las dos placas son eléctricas, pero calientan de forma distinta:
+
+- <strong>La vitrocerámica</strong> tiene una resistencia debajo del cristal. La resistencia calienta el cristal y el cristal calienta la olla. Por el camino se pierde calor hacia el aire y la placa sigue caliente un buen rato después de apagarla.
+- <strong>La inducción</strong> crea un campo magnético que calienta directamente el fondo del recipiente. El cristal apenas se calienta, salvo por el contacto con la olla, y el agua llega antes a hervir.
+
+El <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">IDAE, en sus recomendaciones para el ahorro en los hogares</a>, lo resume así: las placas de inducción consumen menos electricidad que las vitrocerámicas.
+
+{{CAJA:Dato clave}}
+Para cocinar lo mismo, nuestra calculadora de consumo supone que la inducción necesita un 25 % menos de energía que la vitrocerámica. Es una estimación para comparar: el ahorro real depende del recipiente, del tamaño del fuego y de cómo cocines.
+{{/CAJA}}
+
+## Cuánto cuesta una hora de fuego encendido {#coste}
+
+Mientras cocinas, ninguna de las dos placas está siempre a plena potencia: el mando regula y la resistencia o el inductor se encienden y se apagan. Por eso la calculadora aplica un factor de uso real de 0,75 a la vitrocerámica y de 0,7 a la inducción. Así sale una hora de un solo fuego:
+
+{{T:placa_potencias}}
+
+Esta tabla compara una hora con el fuego encendido. Pero con inducción cocinas en menos tiempo, porque calienta antes, y ahí está la mayor parte del ahorro. Por eso, para comparar lo que gasta cada placa haciendo la misma comida, usamos la tabla siguiente.
+
+## Cuánto ahorras al año con inducción {#ahorro}
+
+Con un fuego de 1.800 W y suponiendo que la inducción gasta un 25 % menos para cocinar lo mismo:
+
+{{T:placa_ahorro}}
+
+Una casa que cocina una hora al día ahorra unos 20 € al año; si se cocina el doble, unos 40 €. Es un ahorro real, pero no muy grande. Si tu vitrocerámica funciona bien, cambiarla solo por la factura tarda muchos años en compensar: tiene más sentido cuando tengas que cambiarla de todas formas.
+
+## No hay etiqueta energética: lo que sí debe indicar el fabricante {#etiqueta}
+
+A diferencia del horno, que tiene una etiqueta con clases (lo explicamos en <a href="https://tuluzencasa.com/cuanto-consume-horno-electrico/">cuánto consume un horno eléctrico</a>), las placas de cocina no llevan etiqueta energética. Lo que hay son requisitos de diseño ecológico del <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32014R0066" target="_blank" rel="noopener">Reglamento (UE) 66/2014</a>:
+
+- Desde el 20 de febrero de 2019, las placas eléctricas que se venden no pueden pasar de <strong>195 Wh por kilo</strong> de agua calentada en el ensayo normalizado.
+- El fabricante tiene que publicar en el manual y en su web el tipo de placa, la tecnología de cada zona (inducción, radiante o placa maciza) y <strong>el consumo de cada zona y de la placa entera, en Wh por kilo</strong>.
+
+Ese dato en Wh/kg es la forma de comparar dos placas antes de comprar: cuanto más bajo, menos gasta para calentar lo mismo.
+
+## Qué cambia en la cocina diaria {#uso}
+
+- <strong>Recipientes</strong>. La inducción solo funciona con ollas y sartenes de fondo magnético. Una forma sencilla de comprobarlo es acercar un imán al fondo: si se queda pegado, sirve. Con la vitrocerámica vale casi cualquier recipiente de fondo plano.
+- <strong>Rapidez</strong>. La inducción calienta antes y responde al momento cuando bajas el fuego. La vitrocerámica tarda más en calentar y en enfriar.
+- <strong>Calor residual</strong>. La vitrocerámica sigue calentando al apagarla. El IDAE recomienda aprovecharlo: apágala entre 5 y 10 minutos antes de retirar la olla y la comida se acabará de hacer con ese calor.
+- <strong>Limpieza</strong>. Como el cristal de la inducción se calienta menos, lo que se derrama se pega menos.
+
+## Antes de cambiar de placa {#cambiar}
+
+- <strong>Mira la potencia total</strong> en la placa de características y en el manual. Una placa con varios fuegos a la vez, más el horno, puede superar tu potencia contratada; lo explicamos en <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+- <strong>El circuito de la cocina</strong>. El reglamento de baja tensión reserva en las viviendas un circuito para la cocina y el horno, con un magnetotérmico de 25 A. Te contamos qué hace cada protección en <a href="https://tuluzencasa.com/diferencia-magnetotermico-diferencial/">diferencia entre magnetotérmico y diferencial</a>.
+- <strong>La instalación, mejor con un profesional</strong>. Conectar la placa nueva a la caja de la cocina debe hacerse sin tensión y siguiendo el manual. Si hace falta un circuito nuevo o cambiar protecciones del cuadro, tiene que hacerlo un instalador autorizado.
+
+## Trucos para gastar menos con cualquier placa {#trucos}
+
+- <strong>Usa el fuego del tamaño de la olla</strong>. Un recipiente pequeño en una zona grande desperdicia calor, sobre todo en la vitrocerámica.
+- <strong>Tapa las ollas</strong> y cocina con la menor cantidad de agua posible, como recomienda el IDAE.
+- <strong>Baja el fuego cuando hierva</strong>. Mantener un hervor suave gasta mucho menos que tenerlo al máximo.
+- <strong>Usa la olla a presión</strong> para legumbres y guisos largos.
+- <strong>Con tarifa por horas, cocina en llano o valle cuando puedas</strong>. Un guiso del fin de semana cae entero en valle:
+
+{{T:placa_tramos}}
+
+Cuándo empieza cada tramo lo explicamos en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Qué gasta más, la inducción o la vitrocerámica?
+
+La vitrocerámica. Para cocinar lo mismo, la inducción necesita menos electricidad porque calienta directamente el recipiente. Con nuestra estimación, un 25 % menos.
+
+### ¿Cuánto cuesta una hora de vitrocerámica?
+
+Un fuego de 1.800 W cuesta unos 0,22 € por hora encendido, con el factor de uso de 0,75. Con todos los fuegos a la vez, súmalos.
+
+### ¿Merece la pena cambiar la vitrocerámica por inducción?
+
+Por ahorro, solo si cocinas mucho: con una hora al día ahorras unos 20 € al año. Si tu placa funciona bien, espera a que tengas que cambiarla.
+
+### ¿Sirven mis ollas para la inducción?
+
+Si un imán se pega al fondo, sí. Si no, necesitarás recipientes aptos para inducción; suelen llevar el símbolo en la base o en la caja.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32014R0066" target="_blank" rel="noopener">Reglamento (UE) 66/2014 de la Comisión</a> (DO L 29, de 31 de enero de 2014), diseño ecológico de placas de cocina: anexo I, cuadro 2 (límite de 195 Wh/kg) y punto 2.2 (información del producto).
+- <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">IDAE, Recomendaciones para el ahorro energético en hogares</a>: placas de inducción y vitrocerámicas.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099" target="_blank" rel="noopener">Real Decreto 842/2002, Reglamento Electrotécnico para Baja Tensión</a>, ITC-BT-25: circuito de cocina y horno.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: elige tu placa, las horas que cocinas y la franja, y te dirá cuánto ahorrarías pasando a inducción.

@@ -1,0 +1,1933 @@
+ 
+ L_2011178ES.01000101.xml 
+ 6.7.2011    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 178/1 
+ REGLAMENTO DELEGADO (UE) N
+ o 626/2011 DE LA COMISIÓN
+ de 4 de mayo de 2011
+ por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo que respecta al etiquetado energético de los acondicionadores de aire 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Vista la Directiva 2010/30/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la indicación del consumo de energía y otros recursos por parte de los productos relacionados con la energía, mediante el etiquetado y una información normalizada  ( 1 ) , y, en particular, su artículo 10, 
+ Considerando lo siguiente: 
+ (1) 
+ La Directiva 2010/30/UE exige a la Comisión que adopte actos delegados en lo relativo al etiquetado de los productos relacionados con la energía que representen un importante potencial de ahorro energético y difieran ampliamente en cuanto a los niveles de rendimiento de funciones equivalentes. 
+ (2) 
+ La Directiva 2002/31/CE de la Comisión, de 22 de marzo de 2002, por la que se establecen disposiciones de aplicación de la Directiva 92/75/CEE del Consejo en lo que respecta al etiquetado energético de los acondicionadores de aire de uso doméstico  ( 2 ) , establece disposiciones relativas al etiquetado energético de estos productos. En la Directiva de aplicación se establecen varias escalas de etiquetado de los acondicionadores de aire en función de las diversas tecnologías utilizadas, y la determinación de la eficiencia energética se basa solo en su funcionamiento a carga completa. 
+ (3) 
+ La electricidad que consumen los acondicionadores de aire constituye una parte significativa de la demanda total de electricidad residencial y comercial de la Unión. Aparte de las mejoras ya logradas en materia de eficiencia energética, el campo de acción para seguir reduciendo el consumo energético de los acondicionadores de aire es considerable. 
+ (4) 
+ La Directiva 2002/31/CE debe ser derogada y el presente Reglamento debe establecer nuevas disposiciones con el fin de garantizar que la etiqueta energética ofrezca incentivos dinámicos a los fabricantes para que sigan mejorando la eficiencia energética de los acondicionadores de aire y aceleren la transformación del mercado en favor de tecnologías eficientes desde el punto de vista energético. 
+ (5) 
+ Las disposiciones del presente Reglamento deben aplicarse a los acondicionadores aire-aire con una potencia de salida a efectos de refrigeración (o potencia de salida a efectos de calefacción, si solo disponen de función de calefacción) de 12 kW como máximo. 
+ (6) 
+ En los últimos años se ha registrado una rápida evolución tecnológica en la mejora de la eficiencia energética de los acondicionadores de aire, lo que ha permitido a varios terceros países establecer requisitos estrictos en materia de eficiencia energética mínima y ha inducido un proceso de introducción de nuevos sistemas de etiquetado energético basados en el rendimiento estacional. Exceptuando los de conducto único y los de conducto doble, los aparatos de hoy que alcanzan los mayores niveles de eficiencia han rebasado con creces los niveles de la clase A establecidos por la Directiva 2002/31/CE. 
+ (7) 
+ El presente Reglamento introduce dos escalas de eficiencia energética basadas en la función primaria y en aspectos específicos importantes para el consumidor. Habida cuenta de que los acondicionadores de aire se utilizan fundamentalmente en condiciones de carga parcial, los ensayos de eficiencia deben pasar a hacerse con un método de medición del rendimiento estacional, excepto en el caso de los acondicionadores de aire de conducto único y de conducto doble. El método de medición del rendimiento estacional toma mejor en consideración los beneficios de la tecnología inverter y las condiciones en las que se utilizan estos aparatos. El nuevo método de cálculo de la eficiencia energética, con una medida de ejecución de diseño ecológico que fije unos requisitos mínimos en materia de eficiencia energética más estrictos que los correspondientes a la clase A actual, llevará a una nueva clasificación de estos aparatos. Así pues, los acondicionadores de aire split, de ventana y de pared deben contar con una nueva escala de clases de eficiencia energética de A a G, con un signo «+» añadido en el extremo superior de la escala cada dos años hasta que se alcance la clase A+++. 
+ (8) 
+ En lo que respecta a los acondicionadores de aire de conducto único y de conducto doble, deben seguir aplicándose los indicadores de eficiencia energética permanente, ya que en el momento actual no existen en el mercado unidades con tecnología inverter. Habida cuenta de que no resulta adecuado volver a clasificar estos aparatos, los acondicionadores de aire de conducto único y de conducto doble deben contar con una escala de A+++ a D. Estos aparatos, que por definición son menos eficientes que los aparatos split, solo pueden alcanzar la clase de eficiencia energética A+ en una escala de A+++ a D, mientras que los aparatos split más eficientes pueden alcanzar la clase de eficiencia energética A+++. 
+ (9) 
+ El presente Reglamento debe garantizar que los consumidores obtengan una información comparativa más exacta sobre el rendimiento de los acondicionadores de aire. 
+ (10) 
+ Según las previsiones, el efecto combinado del etiquetado energético contemplado en el presente Reglamento y en el Reglamento de la Comisión por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo respecto de los requisitos de diseño ecológico aplicables a los acondicionadores de aire  ( 3 ) generará un ahorro de electricidad de 11 TWh anuales de aquí a 2020, en comparación con la situación que se produciría en caso de no tomarse medidas. 
+ (11) 
+ El nivel de ruido de un acondicionador de aire puede ser un aspecto importante para los usuarios finales. Con objeto de que estos puedan tomar su decisión con conocimiento de causa, la información sobre las emisiones de ruido de los acondicionadores de aire debe figurar en la etiqueta de esos aparatos. 
+ (12) 
+ La información facilitada en la etiqueta debe obtenerse con procedimientos de medición fiables, exactos y reproducibles que tengan en cuenta los métodos de medición más avanzados reconocidos, incluyendo, en su caso, las normas armonizadas adoptadas por los organismos europeos de normalización enumerados en el anexo I de la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de las normas y reglamentaciones técnicas  ( 4 ) . 
+ (13) 
+ El presente Reglamento debe especificar un diseño y unos requisitos uniformes en relación con el contenido de las etiquetas de los acondicionadores de aire. 
+ (14) 
+ Además, debe especificar los requisitos aplicables a la documentación técnica y la ficha de información de los acondicionadores de aire. 
+ (15) 
+ Asimismo, el presente Reglamento debe especificar los requisitos relativos a la información que ha de facilitarse sobre los acondicionadores de aire en cualquier forma de venta a distancia, anuncios publicitarios y material técnico de promoción. 
+ (16) 
+ Procede prever una revisión de las disposiciones del presente Reglamento que tenga en cuenta el progreso tecnológico. 
+ (17) 
+ Al objeto de facilitar la transición desde la Directiva 2002/31/CE al presente Reglamento, se considerará que los acondicionadores de aire etiquetados de conformidad con el presente Reglamento son conformes a la Directiva 2002/31/CE. 
+ (18) 
+ Es necesario que los proveedores que deseen introducir en el mercado acondicionadores de aire que puedan cumplir los requisitos de las clases superiores de eficiencia energética tengan la posibilidad de utilizar etiquetas en las que figuren dichas clases antes de la fecha en la que su presencia en las etiquetas sea obligatoria. 
+ (19) 
+ Por consiguiente, debe derogarse la Directiva 2002/31/CE. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece los requisitos para el etiquetado y el suministro de información adicional sobre los productos en lo relativo a los acondicionadores de aire conectados a la red eléctrica con una potencia nominal de refrigeración, o de calefacción si el producto no dispone de una función de refrigeración, de 12 kW como máximo. 
+ 2.   El presente Reglamento no se aplicará: 
+ a) 
+ a los aparatos que utilicen fuentes de energía no eléctricas; 
+ b) 
+ a los acondicionadores de aire en los que el condensador o el evaporador, o ambos, no utilicen aire como medio para la transferencia de calor. 
+ Artículo 2 
+ Definiciones 
+ Además de las definiciones enunciadas en el artículo 2 de la Directiva 2010/30/UE del Parlamento Europeo y del Consejo  ( 5 ) , serán de aplicación las siguientes definiciones: 
+ (1)    «acondicionador de aire» : aparato capaz de refrigerar o de calentar, o ambas cosas, aire en espacios interiores, utilizando un ciclo de compresión de vapor accionado por un compresor eléctrico, incluidos los acondicionadores de aire que ejerzan además otras funciones, como las de deshumidificación, purificación del aire, ventilación o calentamiento complementario del aire mediante resistencia eléctrica, así como los aparatos que puedan utilizar agua (bien el agua condensada que se forma en el evaporador, bien agua añadida desde el exterior) para evaporación en el condensador, siempre que el aparato pueda funcionar también sin utilizar agua adicional, sino tan solo con aire; 
+ (2)    «acondicionador de aire de conducto doble» : acondicionador de aire en el que, durante la refrigeración o la calefacción, el aire se introduce en el condensador (o el evaporador) desde el exterior a la unidad a través de un conducto y se expulsa al exterior a través de un segundo conducto, y que está colocado íntegramente dentro del espacio que se va a acondicionar, junto a una pared; 
+ (3)    «acondicionador de aire de conducto único» : acondicionador de aire en el que, durante la refrigeración o la calefacción, el aire se introduce en el condensador (o en el evaporador) desde el espacio que contiene la unidad y se descarga en él; 
+ (4)    «potencia nominal (P rated )» : la capacidad de refrigeración o de calefacción del ciclo de compresión de vapor de la unidad en condiciones estándar; 
+ (5)    «usuario final» : el consumidor que compra o que se prevé que compre un acondicionador de aire; 
+ (6)    «punto de venta» : lugar donde se exponen o se ofertan acondicionadores de aire para su venta, alquiler o alquiler con derecho a compra. 
+ En el anexo I figuran otras definiciones a efectos de los anexos II a VIII. 
+ Artículo 3 
+ Responsabilidades de los proveedores 
+ 1.   Los proveedores adoptarán las medidas que se describen en las letras a) a g): 
+ a) 
+ Cada acondicionador de aire que se ajuste a las clases de eficiencia energética que figuran en el anexo II irá provisto de una etiqueta impresa. La etiqueta será acorde con el formato y el contenido de la información que establece el anexo III. Los acondicionadores de aire, a excepción de los de conducto único y los de conducto doble, irán provistos de una etiqueta impresa, por lo menos en el embalaje de la unidad exterior, como mínimo en relación con una combinación de unidades de interior y de exterior con un factor de potencia 1. Respecto a otras combinaciones, cabe también la posibilidad de facilitar la información en una página web sin restricciones de acceso. 
+ b) 
+ Se facilitará una ficha del producto conforme a lo establecido en el anexo IV. Los acondicionadores de aire, a excepción de los de conducto único y los de conducto doble, irán provistos de una ficha del producto, por lo menos en el embalaje de la unidad exterior, como mínimo en relación con una combinación de unidades de interior y de exterior con un factor de potencia 1. Respecto a otras combinaciones, cabe también la posibilidad de facilitar la información en una página web sin restricciones de acceso. 
+ c) 
+ La documentación técnica especificada en el anexo V se pondrá a disposición, por medios electrónicos, de las autoridades de los Estados miembros y de la Comisión a solicitud de cualquiera de ellas. 
+ d) 
+ Toda publicidad de un modelo específico de acondicionador de aire indicará la clase de eficiencia energética si la publicidad revela información relacionada con la energía o sobre su precio. Cuando haya más de una clase de eficiencia energética posible, el proveedor o el fabricante, según proceda, declarará, por lo menos, la clase de eficiencia energética para la calefacción en la temporada de calefacción «media». Cuando el usuario final no tenga la posibilidad de ver el producto expuesto, la información deberá facilitarse según lo indicado en el anexo VI. 
+ e) 
+ Todo material técnico de promoción relativo a un modelo específico de acondicionador de aire que describa sus parámetros técnicos específicos incluirá la clase de eficiencia energética de dicho modelo con arreglo a lo indicado en el anexo II. 
+ f) 
+ Se pondrán a disposición las instrucciones de uso. 
+ g) 
+ Los acondicionadores de aire de conducto único se denominarán «acondicionadores de aire locales» en su embalaje, en la documentación sobre el producto y en todo material publicitario al respecto, ya sea en formato electrónico o en papel. 
+ 2.   La clase de eficiencia energética se determinará conforme a lo dispuesto en el anexo VII. 
+ 3.   El formato de la etiqueta de los acondicionadores de aire, excepto de los de conducto único y los de conducto doble, se ajustará a lo dispuesto en el anexo III. 
+ 4.   El formato de la etiqueta de los acondicionadores de aire, excepto de los de conducto único y los de conducto doble, especificado en el anexo III se aplicará según el calendario siguiente: 
+ a) 
+ en el caso de los acondicionadores de aire, excepto los de conducto único y los de conducto doble, puestos en el mercado a partir del 1 de enero de 2013, las etiquetas, correspondientes a las clases de eficiencia energética A, B, C, D, E, F y G, se ajustarán al anexo III, punto 1.1, cuando se trate de acondicionadores de aire reversibles, al anexo III, punto 2.1, cuando se trate de acondicionadores de aire que solo refrigeren, y al anexo III, punto 3.1, cuando se trate de acondicionadores de aire que solo calienten; 
+ b) 
+ en el caso de los acondicionadores de aire, excepto los de conducto único y los de conducto doble, puestos en el mercado a partir del 1 de enero de 2015, las etiquetas, correspondientes a las clases de eficiencia energética A+, A, B, C, D, E y F, se ajustarán al anexo III, punto 1.2, cuando se trate de acondicionadores de aire reversibles, al anexo III, punto 2.2, cuando se trate de acondicionadores de aire que solo refrigeren, y al anexo III, punto 3.2, cuando se trate de acondicionadores de aire que solo calienten; 
+ c) 
+ en el caso de los acondicionadores de aire, excepto los de conducto único y los de conducto doble, puestos en el mercado a partir del 1 de enero de 2017, las etiquetas, correspondientes a las clases de eficiencia energética A++, A+, A, B, C, D y E, se ajustarán al anexo III, punto 1.3, cuando se trate de acondicionadores de aire reversibles, al anexo III, punto 2.3, cuando se trate de acondicionadores de aire que solo refrigeren, y al anexo III, punto 3.3, cuando se trate de acondicionadores de aire que solo calienten; 
+ d) 
+ en el caso de los acondicionadores de aire, excepto los de conducto único y los de conducto doble, puestos en el mercado a partir del 1 de enero de 2019, las etiquetas, correspondientes a las clases de eficiencia energética A+++, A++, A+, A, B, C y D, se ajustarán al anexo III, punto 1.4, cuando se trate de acondicionadores de aire reversibles, al anexo III, punto 2.4, cuando se trate de acondicionadores de aire que solo refrigeren, y al anexo III, punto 3.4, cuando se trate de acondicionadores de aire que solo calienten. 
+ 5.   En el caso de los acondicionadores de aire de conducto doble puestos en el mercado a partir del 1 de enero de 2013, el formato de las etiquetas, correspondientes a las clases de eficiencia energética A+++, A++, A+, A, B, C y D, se ajustará al anexo III, punto 4.1, cuando se trate de acondicionadores de aire de conducto doble reversibles, al anexo III, punto 4.3, cuando se trate de acondicionadores de aire de conducto doble que solo refrigeren, y al anexo III, punto 4.5, cuando se trate de acondicionadores de aire de conducto doble que solo calienten. 
+ 6.   En el caso de los acondicionadores de aire de conducto único puestos en el mercado a partir del 1 de enero de 2013, el formato de las etiquetas, correspondientes a las clases de eficiencia energética A+++, A++, A+, A, B, C y D, se ajustará al anexo III, punto 5.1, cuando se trate de acondicionadores de aire de conducto único reversibles, al anexo III, punto 5.3, cuando se trate de acondicionadores de aire de conducto único que solo refrigeren, y al anexo III, punto 5.5, cuando se trate de acondicionadores de aire de conducto único que solo calienten. 
+ Artículo 4 
+ Responsabilidades de los distribuidores 
+ Los distribuidores garantizarán que: 
+ a) 
+ en el punto de venta, los acondicionadores de aire vayan provistos de la etiqueta facilitada por los proveedores de conformidad con el artículo 3, apartado 1, en la parte exterior frontal o superior del aparato, de forma que resulte claramente visible; 
+ b) 
+ los acondicionadores de aire ofertados para su venta, alquiler o alquiler con derecho a compra en lugares donde el usuario final no tenga la posibilidad de ver el aparato expuesto se comercialicen con la información facilitada por los proveedores de conformidad con los anexos V y VI; 
+ c) 
+ toda publicidad de un modelo específico de acondicionador de aire contenga una referencia a la clase de eficiencia energética, si la publicidad revela información relacionada con la energía o sobre su precio; cuando haya más de una clase de eficiencia energética posible, el proveedor/fabricante declarará, por lo menos, la clase de eficiencia energética en la zona de la temporada «media»; 
+ d) 
+ todo material técnico de promoción relativo a un modelo específico de acondicionador de aire que describa sus parámetros técnicos incluya una referencia a la(s) clase(s) de eficiencia energética de dicho modelo y a las instrucciones de uso facilitadas por el proveedor; cuando haya más de una clase de eficiencia energética posible, el proveedor/fabricante declarará, por lo menos, la clase de eficiencia energética en la zona de la temporada «media»; 
+ e) 
+ los acondicionadores de aire de conducto único se denominen «acondicionadores de aire locales» en su embalaje, en la documentación sobre el producto y en todo material publicitario al respecto, ya sea en formato electrónico o en papel. 
+ Artículo 5 
+ Métodos de medición 
+ La información que habrá de proporcionarse con arreglo al artículo 3 se obtendrá con procedimientos de medición fiables, exactos y reproducibles, que tengan en cuenta los métodos de cálculo y de medición más avanzados reconocidos, de acuerdo con lo dispuesto en el anexo VII. 
+ Artículo 6 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Los Estados miembros aplicarán el procedimiento contemplado en el anexo VIII cuando evalúen la conformidad de la clase de eficiencia energética declarada, el consumo anual u horario de energía, según proceda, y las emisiones de ruido. 
+ Artículo 7 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso técnico en el plazo máximo de cinco años tras su entrada en vigor. En particular, se prestará atención a todo cambio notable en relación con las cuotas de mercado de los distintos tipos de aparatos. 
+ Artículo 8 
+ Derogación 
+ Queda derogada la Directiva 2002/31/CE con efectos a partir del 1 de enero de 2013. 
+ Artículo 9 
+ Disposición transitoria 
+ 1.   Los acondicionadores de aire puestos en el mercado antes del 1 de enero de 2013 deberán cumplir las disposiciones contempladas en la Directiva 2002/31/CE. 
+ Artículo 10 
+ Entrada en vigor y aplicación 
+ 1.   El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea . 
+ 2.   Será aplicable a partir del 1 de enero de 2013. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 4 de mayo de 2011. 
+ Por la Comisión 
+ El Presidente 
+ José Manuel BARROSO
+ ( 1 )   
+ DO L 153 de 18.6.2010, p. 1 . 
+ ( 2 )   
+ DO L 86 de 3.4.2002, p. 26 . 
+ ( 3 )   Pendiente de adopción. 
+ ( 4 )   
+ DO L 204 de 21.7.1998, p. 37 . 
+ ( 5 )   
+ DO L 153 de 18.6.2010, p. 1 . 
+ ANEXO I 
+ Definiciones aplicables a los efectos de los anexos II a VII 
+ A los efectos de los anexos II a VII, se aplicarán las siguientes definiciones: 
+ (1)    «Acondicionador de aire reversible» : acondicionador de aire capaz de refrigerar y de calentar. 
+ (2)    «Condiciones estándar» : la combinación de temperaturas en el interior (Tin) y en el exterior (Tj) que determina las condiciones de funcionamiento al mismo tiempo que establece el nivel de potencia acústica, la potencia nominal, el caudal de aire nominal, el factor de eficiencia energética nominal (EER rated ) y/o el coeficiente de rendimiento nominal (COP rated ), de acuerdo con lo expuesto en el anexo VII, cuadro 2. 
+ (3)    «Temperatura interior (Tin)» : temperatura del aire interior con el termómetro seco [°C] (indicándose la humedad relativa mediante la temperatura correspondiente con el termómetro húmedo). 
+ (4)    «Temperatura exterior (Tj)» : temperatura del aire exterior con el termómetro seco [°C] (indicándose la humedad relativa mediante la temperatura correspondiente con el termómetro húmedo). 
+ (5)    «Factor de eficiencia energética nominal (EER rated )» : la potencia declarada para refrigerar [kW] dividida por la potencia nominal utilizada para refrigeración [kW] de una unidad cuando refrigera en condiciones estándar. 
+ (6)    «Coeficiente de rendimiento nominal (COP rated )» : la potencia declarada para calefacción [kW] dividida por la potencia nominal utilizada para calefacción [kW] de una unidad cuando proporciona calefacción en condiciones estándar. 
+ (7)    «Potencial de calentamiento global (GWP)» : lo que se calcula que 1 kg del líquido refrigerante utilizado en el ciclo de compresión de vapor contribuye al calentamiento global, expresado en kg equivalentes de CO 2 en un horizonte temporal de 100 años. 
+ Los valores del GWP considerados serán los que figuran en el anexo I del Reglamento (CE) n o 842/2006 del Parlamento Europeo y del Consejo  ( 1 ) . 
+ Para los refrigerantes fluorados, los valores de GWP serán los publicados en el tercer informe de evaluación (TAR) adoptado por el Grupo Intergubernamental sobre el Cambio Climático  ( 2 ) (valores de GWP a lo largo de 100 años del IPCC de 2001). 
+ Para los gases no fluorados, los valores de GWP serán los publicados en la primera evaluación  ( 3 ) del IPCC a lo largo de 100 años. 
+ Los valores del GWP total de mezclas de refrigerantes se basarán en la fórmula indicada en el anexo I del Reglamento (CE) n o 842/2006. 
+ Para los refrigerantes no incluidos en las referencias anteriores, se utilizará como referencia el informe de 2010 del IPCC/PNUMA sobre refrigeración, acondicionamiento de aire y bombas de calor, con fecha de febrero de 2011, u otra más reciente. 
+ (8)    «Modo desactivado» : aquel en que el acondicionador de aire o el ventilador se halla conectado a la red eléctrica, pero no está ejerciendo ninguna función. Se consideran también modo desactivado los estados que proporcionan solo una indicación del estado desactivado, así como los estados que proporcionan solo las funciones previstas para garantizar la compatibilidad electromagnética de conformidad con la Directiva 2004/108/CE del Parlamento Europeo y del Consejo  ( 4 ) . 
+ (9)    «Modo de espera» : aquel en que el equipo está conectado a la red eléctrica, depende de la aportación de energía procedente de dicha red para funcionar como está previsto y ofrece solamente las siguientes funciones, que pueden persistir por tiempo indefinido: función de reactivación, o función de reactivación y tan solo indicación de función de reactivación habilitada, y/o visualización de información o de estado. 
+ (10)    «Función de reactivación» : aquella que permite la activación de otros modos, incluido el modo activo, mediante un conmutador a distancia (que puede ser un control remoto), un sensor interno o un temporizador, para pasar a un estado que proporcione funciones adicionales, incluida la función principal. 
+ (11)    «Visualización de información o de estado» : función continua que proporciona información o indica el estado del equipo en un visualizador, incluidos relojes. 
+ (12)    «Nivel de potencia acústica» : nivel de potencia acústica ponderado A [dB(A)] en el interior o en el exterior medido en condiciones estándar para la refrigeración (o calefacción, si el producto no tiene función de refrigeración). 
+ (13)    «Condiciones de diseño de referencia» : combinación de los requisitos relativos a la temperatura de diseño de referencia, la temperatura bivalente máxima y la temperatura límite de funcionamiento máxima, según lo expuesto en el anexo VII, cuadro 3. 
+ (14)    «Temperatura de diseño de referencia» : la temperatura exterior [°C] para la refrigeración (Tdesignc) o la calefacción (Tdesignh), según lo descrito en el anexo VII, cuadro 3, a la cual el factor de carga parcial sea igual a 1, y que varía en función de la temporada designada de calefacción o refrigeración. 
+ (15)    «Factor de carga parcial [pl(Tj)]» : la temperatura exterior menos 16 °C, dividida por la temperatura de diseño de referencia menos 16 °C, para refrigeración o para calefacción. 
+ (16)    «Temporada» : uno de los cuatro conjuntos de condiciones de funcionamiento (para cuatro temporadas: una temporada de refrigeración, tres temporadas de calefacción: media / más fría / más cálida) que describen, para cada periodo de temperatura, la combinación de temperaturas en el exterior y el número de horas en que se registran estas temperaturas por cada temporada en que la unidad se declara apta para funcionar. 
+ (17)    «Periodo de temperatura» (con el índice j) : combinación de una temperatura exterior (Tj) y el número de horas en que se registra (hj), según figura en el anexo VII, cuadro 1. 
+ (18)    «Horas del periodo» : horas por temporada (hj) en que se registra la temperatura exterior correspondiente a determinado periodo, según lo expuesto en el anexo VII, cuadro 1. 
+ (19)    «Factor de eficiencia energética estacional (SEER)» : factor de eficiencia energética global de la unidad, representativo de toda la temporada de refrigeración, calculado como demanda anual de refrigeración de referencia dividida por el consumo anual de electricidad para refrigeración. 
+ (20)    «Demanda anual de refrigeración de referencia» (Q C ) : demanda de refrigeración [kWh/a] utilizada como referencia para calcular el SEER y obtenida mediante el producto de la carga de refrigeración del diseño (Pdesignc) y las horas equivalentes de modo activo para refrigeración (H CE ). 
+ (21)    «Horas equivalentes de modo activo para refrigeración (H CE )» : número de horas al año [h/a] durante las que se supone que la unidad debe proporcionar la carga de refrigeración del diseño (Pdesignc) a fin de satisfacer la demanda anual de refrigeración de referencia, según lo establecido en el anexo VII, cuadro 4. 
+ (22)    «Consumo anual de electricidad para refrigeración (Q CE )» : consumo de electricidad [kWh/a] necesario para satisfacer la demanda anual de refrigeración de referencia, calculado como la división de la demanda anual de refrigeración de referencia por el factor de eficiencia energética estacional en modo activo (SEERon) y el consumo de electricidad de la unidad en los modos 
+ «desactivado por termostato», «de espera», «desactivado» y «dispositivo de calentamiento del cárter»
+ durante la temporada de refrigeración. 
+ (23)    «Factor de eficiencia energética estacional en modo activo (SEERon)» : factor medio de eficiencia energética de la unidad en modo activo correspondiente a la función de refrigeración, construido sobre la base de la carga parcial y el factor de eficiencia energética específico para cada periodo de temperatura [EERbin(Tj)] y ponderado por las horas del periodo en que se dan las condiciones definidas para ese periodo. 
+ (24)    «Carga parcial» : la carga de refrigeración [Pc(Tj)] o la carga de calefacción [Ph(Tj)] [kW] a una temperatura exterior específica Tj, calculada como la carga de diseño multiplicada por el factor de carga parcial. 
+ (25)    «Factor de eficiencia energética específico de un periodo de temperatura [EERbin(Tj)]» : factor de eficiencia energética específico de cada periodo j con una temperatura exterior Tj en una temporada, derivado de la carga parcial, la potencia declarada y el factor de eficiencia energética declarado [EERd(Tj)] para periodos (j) específicos de temperatura y calculado para otros periodos mediante inter/extrapolación, en caso necesario corregido mediante el coeficiente de degradación. 
+ (26)    «Coeficiente de rendimiento estacional (SCOP)» : coeficiente global de rendimiento de la unidad, representativo de toda la temporada de calefacción designada (el valor del SCOP corresponde a una temporada de calefacción determinada), calculado dividiendo la demanda anual de calefacción de referencia por el consumo anual de electricidad para calefacción. 
+ (27)    «Demanda anual de calefacción de referencia (Q H )» : demanda de calefacción de referencia [kWh/a], correspondiente a una temporada de calefacción designada, utilizada como base para calcular el SCOP y obtenida como producto de la carga de calefacción del diseño (Pdesignh) y las horas equivalentes de modo activo para calefacción en la temporada (H HE ). 
+ (28)    «Horas equivalentes de modo activo para calefacción ( H HE 
+ ) » : número de horas al año [h/a] durante las que se supone que la unidad debe proporcionar la carga de calefacción del diseño (Pdesignh) a fin de satisfacer la demanda anual de calefacción de referencia, según lo establecido en el anexo VII, cuadro 4. 
+ (29)    «Consumo anual de electricidad para calefacción (Q HE )» : consumo de electricidad [kWh/a] necesario para satisfacer la demanda anual de calefacción de referencia indicada, correspondiente a una temporada de calefacción designada, y calculado como la división de la demanda anual de calefacción de referencia por el coeficiente de rendimiento estacional en modo activo (SCOPon) y el consumo de electricidad de la unidad en los modos 
+ «desactivado por termostato», «de espera», «desactivado» y «dispositivo de calentamiento del cárter»
+ durante la temporada de calefacción. 
+ (30)    «Coeficiente de rendimiento estacional en modo activo (SCOPon)» : coeficiente medio de rendimiento de la unidad en modo activo para la temporada de calefacción designada, construido a partir de la carga parcial, la potencia de calefacción eléctrica de reserva (cuando sea necesario) y los coeficientes de rendimiento específicos de los periodos de temperatura [COPbin(Tj] y ponderado por las horas por periodo en que se den las condiciones definidas para ese periodo. 
+ (31)    «Potencia de calefacción eléctrica de reserva [elbu(Tj)]» : potencia de calefacción [kW] de un calefactor eléctrico de reserva real o hipotético con un COP de 1 que complemente la potencia de calefacción declarada [Pdh(Tj)] a fin de alcanzar la carga parcial de calefacción [Ph(Tj)] en caso de que Pdh(Tj) sea inferior a Ph(Tj), para una temperatura exterior (Tj). 
+ (32)    «Coeficiente de rendimiento específico de un periodo de temperatura [COPbin(Tj)]» : coeficiente de rendimiento específico de cada periodo j con una temperatura exterior Tj en una temporada, derivado de la carga parcial, la potencia declarada y el coeficiente de rendimiento declarado [COPd(Tj)] para periodos (j) específicos de temperatura y calculado para otros periodos mediante inter/extrapolación, en caso necesario corregido con el coeficiente de degradación. 
+ (33)    «Potencia declarada [kW]» : potencia del ciclo de compresión de vapor de la unidad para refrigerar [Pdc(Tj)] o calentar [Pdh(Tj)], correspondiente a una temperatura exterior Tj y a una temperatura interior (Tin), declarada por el fabricante. 
+ (34)    «Función» : indicación de la capacidad de la unidad para refrigerar el aire interior, calentarlo o ambas cosas. 
+ (35)    «Carga de diseño» : carga de refrigeración declarada (Pdesignc) y/o carga de calefacción declarada (Pdesignh) [kW] a la temperatura de diseño de referencia, donde 
+ a) 
+ para el modo de refrigeración, Pdesignc es igual a la potencia declarada para refrigerar cuando Tj es igual a Tdesignc; 
+ b) 
+ para el modo de calefacción, Pdesignh es igual a la carga parcial cuando Tj es igual a Tdesignh; 
+ (36)    «Factor de eficiencia energética declarado [EERd(Tj)]» : factor de eficiencia energética en un número limitado de periodos de temperatura especificados (j) con temperatura exterior (Tj), declarado por el fabricante. 
+ (37)    «Coeficiente de rendimiento declarado [COPd(Tj)]» : coeficiente de rendimiento en un número limitado de periodos de temperatura especificados (j) con temperatura exterior (Tj), declarado por el fabricante. 
+ (38)    «Temperatura bivalente (Tbiv)» : temperatura exterior (Tj) [°C] declarada por el fabricante para calentar, a la cual la potencia declarada iguala la carga parcial y por debajo de la cual la potencia declarada debe complementarse con potencia de calefacción eléctrica de reserva a fin de alcanzar la carga parcial para calefacción. 
+ (39)    «Temperatura límite de funcionamiento» (Tol) : temperatura exterior [°C] declarada por el fabricante para calefacción, por debajo de la cual el acondicionador de aire no tendrá ninguna capacidad de calentar. Por debajo de esta temperatura, la potencia declarada es igual a cero. 
+ (40)    «Modo activo» : modo correspondiente a las horas con carga de refrigeración o calefacción del edificio y en el cual la función de refrigeración o de calefacción de la unidad se encuentra activada. Este estado puede incluir ciclos de encendido y apagado de la unidad con el fin de alcanzar o mantener la temperatura del aire interior establecida. 
+ (41)    «Modo desactivado por termostato» : modo correspondiente a las horas sin carga de refrigeración o de calefacción en las cuales la función de refrigeración o de calefacción de la unidad está encendida, pero la unidad no está en funcionamiento puesto que no hay carga de refrigeración o de calefacción. Por lo tanto, este estado está relacionado con las temperaturas exteriores y no con las cargas interiores. Los ciclos de encendido y apagado en modo activo no se consideran «desactivado por termostato». 
+ (42)    «Modo de calentador del cárter activado» : estado en el que la unidad ha activado un dispositivo de calefacción para evitar la migración del refrigerante hacia el compresor con el fin de limitar la concentración de refrigerante en el aceite cuando se enciende el compresor. 
+ (43)    «Horas de funcionamiento del modo desactivado por termostato (H TO )» : número de horas al año [h/a] durante las cuales se considera que la unidad está en modo desactivado por termostato, cuyo valor depende de la temporada y de la función designadas. 
+ (44)    «Horas de funcionamiento del modo de espera (H SB )» : número de horas al año [h/a] durante las cuales se considera que la unidad está en modo de espera, cuyo valor depende de la temporada y de la función designadas. 
+ (45)    «Horas de funcionamiento del modo desactivado (H OFF )» : número de horas al año [h/a] durante las cuales se considera que la unidad está en modo desactivado, cuyo valor depende de la temporada y la función designadas. 
+ (46)    «Horas de funcionamiento del modo de calentador del cárter (H CK )» : número de horas al año [h/a] durante las cuales se considera que la unidad está en modo de calentador del cárter activado, cuyo valor depende de la temporada y de la función designadas. 
+ (47)    «Consumo de electricidad de los aparatos de conducto único y doble (Q SD y Q DD , respectivamente)» : consumo de electricidad de los acondicionadores de aire de conducto único o de conducto doble para los modos de refrigeración y/o calefacción (el que sea aplicable) [conducto único en kWh/h, conducto doble en kWh/a]. 
+ (48)    «Factor de potencia» : relación entre la potencia total declarada de refrigeración o calefacción de todas las unidades de interior activas y la potencia declarada de refrigeración o calefacción de la unidad exterior en condiciones estándar. 
+ ( 1 )   
+ DO L 161 de 14.6.2006, p. 1 . 
+ ( 2 )   
+ IPCC Third Assessment Climate Change 2001 . Informe del Grupo Intergubernamental sobre el Cambio Climático: http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml 
+ ( 3 )   
+ Climate Change, The IPCC Scientific Assessment , J.T Houghton, G.J.Jenkins, J.J. Ephraums (ed.) Cambridge University Press, Cambridge (Reino Unido) 1990. 
+ ( 4 )   
+ DO L 390 de 31.12.2004, p. 24 . 
+ ANEXO II 
+ Clases de eficiencia energética 
+ 1. 
+ La eficiencia energética de los acondicionadores de aire se determinará sobre la base de las mediciones y los cálculos expuestos en el anexo VII. 
+ Para el SEER y el SCOP se tomarán en consideración las condiciones de diseño de referencia y las horas de funcionamiento por modo de funcionamiento pertinente; el SCOP se referirá a la temporada de calefacción «media», de acuerdo con lo establecido en el anexo VII. El factor de eficiencia energética nominal (EER rated ) y el coeficiente de rendimiento nominal (COP rated ) se referirán a las condiciones estándar, de acuerdo con lo establecido en el anexo VII. 
+ Cuadro 1 
+ Clases de eficiencia energética relativas a los acondicionadores de aire, a excepción de los de conducto doble y los de conducto único 
+ Clase de eficiencia energética 
+ SEER 
+ SCOP 
+ A+++ 
+ SEER ≥ 8,50 
+ SCOP ≥ 5,10 
+ A++ 
+ 6,10 ≤ SEER < 8,50 
+ 4,60 ≤ SCOP < 5,10 
+ A+ 
+ 5,60 ≤ SEER < 6,10 
+ 4,00 ≤ SCOP < 4,60 
+ A 
+ 5,10 ≤ SEER < 5,60 
+ 3,40 ≤ SCOP < 4,00 
+ B 
+ 4,60 ≤ SEER < 5,10 
+ 3,10 ≤ SCOP < 3,40 
+ C 
+ 4,10 ≤ SEER < 4,60 
+ 2,80 ≤ SCOP < 3,10 
+ D 
+ 3,60 ≤ SEER < 4,10 
+ 2,50 ≤ SCOP < 2,80 
+ E 
+ 3,10 ≤ SEER < 3,60 
+ 2,20 ≤ SCOP < 2,50 
+ F 
+ 2,60 ≤ SEER < 3,10 
+ 1,90 ≤ SCOP < 2,20 
+ G 
+ SEER < 2,60 
+ SCOP < 1,90 
+ Cuadro 2 
+ Clases de eficiencia energética relativas a los acondicionadores de aire de conducto único y los de conducto doble 
+ Clase de eficiencia energética 
+ Acondicionadores de aire de conducto doble 
+ Acondicionadores de aire de conducto único 
+ EER rated 
+ COP rated 
+ EER rated 
+ COP rated 
+ A+++ 
+ ≥ 4,10 
+ ≥ 4,60 
+ ≥ 4,10 
+ ≥ 3,60 
+ A++ 
+ 3,60 ≤ EER < 4,10 
+ 4,10 ≤ COP < 4,60 
+ 3,60 ≤ EER < 4,10 
+ 3,10 ≤ COP < 3,60 
+ A+ 
+ 3,10 ≤ EER < 3,60 
+ 3,60 ≤ COP < 4,10 
+ 3,10 ≤ EER < 3,60 
+ 2,60 ≤ COP < 3,10 
+ A 
+ 2,60 ≤ EER < 3,10 
+ 3,10 ≤ COP < 3,60 
+ 2,60 ≤ EER < 3,10 
+ 2,30 ≤ COP < 2,60 
+ B 
+ 2,40 ≤ EER < 2,60 
+ 2,60 ≤ COP < 3,10 
+ 2,40 ≤ EER < 2,60 
+ 2,00 ≤ COP < 2,30 
+ C 
+ 2,10 ≤ EER < 2,40 
+ 2,40 ≤ COP < 2,60 
+ 2,10 ≤ EER < 2,40 
+ 1,80 ≤ COP < 2,00 
+ D 
+ 1,80 ≤ EER < 2,10 
+ 2,00 ≤ COP < 2,40 
+ 1,80 ≤ EER < 2,10 
+ 1,60 ≤ COP < 1,80 
+ E 
+ 1,60 ≤ EER < 1,80 
+ 1,80 ≤ COP < 2,00 
+ 1,60 ≤ EER < 1,80 
+ 1,40 ≤ COP < 1,60 
+ F 
+ 1,40 ≤ EER < 1,60 
+ 1,60 ≤ COP < 1,80 
+ 1,40 ≤ EER < 1,60 
+ 1,20 ≤ COP < 1,40 
+ G 
+ < 1,40 
+ < 1,60 
+ < 1,40 
+ < 1,20 
+ ANEXO III 
+ Etiqueta 
+ 1.   ETIQUETA DE LOS ACONDICIONADORES DE AIRE, EXCEPTO LOS DE CONDUCTO ÚNICO Y LOS DE CONDUCTO DOBLE 
+ 1.1.    Acondicionadores de aire reversibles clasificados en las clases de eficiencia energética A a G 
+ a) 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ nombre o marca comercial del proveedor; 
+ II. 
+ identificador del modelo del proveedor; 
+ III. 
+ texto «SEER» para la refrigeración, con el símbolo de un ventilador y un flujo de aire, en azul; texto «SCOP» para la calefacción, con el símbolo de un ventilador y un flujo de aire, en rojo; 
+ IV. 
+ eficiencia energética; la punta de la flecha que contiene la clase de eficiencia energética del aparato se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente; debe indicarse la eficiencia energética de la refrigeración y de la calefacción; respecto a la calefacción, es obligatorio indicar la eficiencia energética en la temporada de calefacción media; la indicación de la eficiencia en las temporadas más cálida y más fría es opcional; 
+ V. 
+ respecto al modo de refrigeración: carga de diseño, en kW, redondeada al primer decimal; 
+ VI. 
+ respecto al modo de calefacción: carga de diseño, en kW, de las respectivas (hasta tres) temporadas de calefacción, redondeada al primer decimal; los valores de las temporadas de calefacción respecto a las cuales no se indique la carga de diseño se señalarán con una «X»; 
+ VII. 
+ respecto al modo de refrigeración: factor de eficiencia energética estacional (valor SEER), redondeado al primer decimal; 
+ VIII. 
+ respecto al modo de calefacción: coeficiente de rendimiento estacional (valor SCOP) de las respectivas (hasta tres) temporadas de calefacción, redondeado al primer decimal; los valores de las temporadas de calefacción respecto a las cuales no se indique el valor SCOP se señalarán con una «X»; 
+ IX. 
+ consumo anual de energía, en kWh al año, de la refrigeración y de la calefacción, redondeado al número entero más próximo; los valores de las temporadas de calefacción respecto a las cuales no se indique el consumo anual de energía se señalarán con una «X»; 
+ X. 
+ niveles de potencia acústica de las unidades de interior y de exterior, expresada en dB(A) re1 pW, redondeada al número entero más próximo; 
+ XI. 
+ mapa de Europa que muestra tres temporadas de calefacción indicativas y sus respectivos cuadrados de color. 
+ Todos los valores requeridos se determinarán de conformidad con el anexo VII. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 1.5. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010 del Parlamento Europeo y del Consejo  ( 1 ) , podrá añadirse una reproducción de la misma. 
+ 1.2.    Acondicionadores de aire reversibles clasificados en las clases de eficiencia energética A+ a F 
+ a) 
+ En la etiqueta figurará la información enumerada en el punto 1.1. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 1.5. 
+ 1.3.    Acondicionadores de aire reversibles clasificados en las clases de eficiencia energética A++ a E 
+ a) 
+ En la etiqueta figurará la información enumerada en el punto 1.1. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 1.5. 
+ 1.4.    Acondicionadores de aire reversibles clasificados en las clases de eficiencia energética A+++ a D 
+ a) 
+ En la etiqueta figurará la información enumerada en el punto 1.1. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 1.5. 
+ 1.5.    Diseño de la etiqueta 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 120 mm de ancho y 210 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior): 
+ Reborde de la etiqueta UE: Trazo: 5 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00. 
+ Etiqueta de energía: Color: X-00-00-00. 
+ Pictograma como el presentado: Logotipo UE + etiqueta de energía: 
+ anchura: 102 mm, altura: 20 mm. 
+ Reborde bajo los logotipos: 1 pt – color: cian 100 % – longitud: 103,6 mm. 
+ Indicación de SEER y SCOP: 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Texto: Calibri normal 10 pt, mayúsculas y negro 100 %. 
+ Escala de A a G: 
+ — 
+ Flecha: Altura: 7 mm, espacio: 1 mm – colores: 
+ — 
+ Clase superior: X-00-X-00 
+ — 
+ Segunda clase: 70-00-X-00, 
+ — 
+ Tercera clase: 30-00-X-00, 
+ — 
+ Cuarta clase: 00-00-X-00, 
+ — 
+ Quinta clase: 00-30-X-00, 
+ — 
+ Sexta clase: 00-70-X-00, 
+ — 
+ Última(s) clase(s): 00-X-X-00. 
+ — 
+ Texto: Calibri negrita 16 pt, mayúsculas y blanco. 
+ Clase(s) de eficiencia energética: 
+ — 
+ Flecha: Anchura: 11 mm, altura: 10 mm, negro 100 %. 
+ — 
+ Texto: Calibri negrita 18 pt, mayúsculas y blanco. 
+ Energía: 
+ — 
+ Texto: Calibri normal 9 pt, mayúsculas y negro 100 %. 
+ Potencia nominal de refrigeración y de calefacción, en kW: 
+ — 
+ Texto «kW»: Calibri normal 10 pt, negro 100 %. 
+ — 
+ Valor «XY,Z»: Calibri negrita 11 pt, negro 100 %. 
+ Valores SCOP y SEER, redondeados al primer decimal: 
+ — 
+ Texto «SEER»/«SCOP»: Calibri normal 10 pt, mayúsculas y negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 11 pt, negro 100 %. 
+ Consumo anual de energía en kWh/año: 
+ — 
+ Texto «kWh/annum»: Calibri normal 10 pt, negro 100 %. 
+ — 
+ Valor «XY»: Calibri negrita 11 pt, negro 100 %. 
+ Emisiones de ruido: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Valor: 
+ Calibri negrita 15 pt, negro 100 %; 
+ Calibri normal 12 pt, negro 100 %. 
+ Mapa de Europa y cuadrados en color: 
+ — 
+ Colores: 
+ — 
+ Naranja: 00-46-46-00. 
+ — 
+ Verde: 59-00-47-00. 
+ — 
+ Azul: 54-08-00-00. 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor: 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben caber en un espacio de 102 × 13 mm. 
+ Periodo de referencia: 
+ — 
+ Texto: Calibri negrita 10 pt. 
+ 2.   ETIQUETA DE LOS ACONDICIONADORES DE AIRE, EXCEPTO LOS DE CONDUCTO ÚNICO Y LOS DE CONDUCTO DOBLE 
+ 2.1.    Acondicionadores de aire exclusivamente con función de refrigeración clasificados en las clases de eficiencia energética A a G 
+ a) 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ nombre o marca comercial del proveedor; 
+ II. 
+ identificador del modelo del proveedor; 
+ III. 
+ texto «SEER», con el símbolo de un ventilador y un flujo de aire, en azul; 
+ IV. 
+ eficiencia energética; la punta de la flecha que contiene la clase de eficiencia energética del aparato se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente. 
+ V. 
+ carga de refrigeración del diseño, en kW, redondeada al primer decimal; 
+ VI. 
+ factor de eficiencia energética estacional (valor SEER), redondeado al primer decimal; 
+ VII. 
+ consumo anual de energía, en kWh al año, redondeado al número entero más próximo; 
+ VIII. 
+ niveles de potencia acústica de las unidades de interior y de exterior, expresada en dB(A) re1 pW, redondeada al número entero más próximo. 
+ Todos los valores requeridos se determinarán de conformidad con el anexo VII. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 2.5. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010, podrá añadirse una reproducción de la misma. 
+ 2.2.    Acondicionadores de aire exclusivamente con función de refrigeración clasificados en las clases de eficiencia energética A+ a F 
+ a) 
+ En la etiqueta figurará la información enumerada en el punto 2.1. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 2.5. 
+ 2.3.    Acondicionadores de aire exclusivamente con función de refrigeración clasificados en las clases de eficiencia energética A++ a E 
+ a) 
+ En la etiqueta figurará la información enumerada en el punto 2.1. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 2.5. 
+ 2.4.    Acondicionadores de aire exclusivamente con función de refrigeración clasificados en las clases de eficiencia energética A+++ a D 
+ a) 
+ En la etiqueta figurará la información enumerada en el punto 2.1. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 2.5. 
+ 2.5.    Diseño de la etiqueta 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 100 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior): 
+ Reborde de la etiqueta UE: Trazo : 5 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00. 
+ Etiqueta de energía: 
+ Color: X-00-00-00. 
+ Pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 93 mm, 
+ altura: 18 mm. 
+ Reborde bajo los logotipos: 1 pt – color: cian 100 % – longitud: 93,7 mm. 
+ Indicación de SEER: 
+ Texto: Calibri normal 10 pt, mayúsculas y negro 100 %. 
+ Escala de A a G: 
+ — 
+ Flecha: Altura: 7 mm, espacio: 1,3 mm – colores: 
+ — 
+ Clase superior: X-00-X-00, 
+ — 
+ Segunda clase: 70-00-X-00, 
+ — 
+ Tercera clase: 30-00-X-00, 
+ — 
+ Cuarta clase: 00-00-X-00, 
+ — 
+ Quinta clase: 00-30-X-00, 
+ — 
+ Sexta clase: 00-70-X-00, 
+ — 
+ Última(s) clase(s): 00-X-X-00. 
+ — 
+ Texto: Calibri negrita 18 pt, mayúsculas y blanco. 
+ Clase de eficiencia energética: 
+ — 
+ Flecha: Anchura: 23 mm, altura: 15 mm, negro 100 %. 
+ — 
+ Texto: Calibri negrita 29 pt, mayúsculas y blanco. 
+ Energía: 
+ — 
+ Texto: Calibri normal 8 pt, mayúsculas y negro 100 %. 
+ Potencia nominal en kW: 
+ Texto «kW»: Calibri normal 14 pt, negro 100 %. 
+ Valor «XY,Z»: Calibri negrita 22 pt, negro 100 %. 
+ Valor SEER, redondeado al primer decimal: 
+ — 
+ Reborde: 3 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Texto «SEER»: Calibri normal 14 pt, mayúsculas y negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Consumo anual de energía en kWh/año: 
+ — 
+ Texto «kWh/annum»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY»: Calibri negrita 22 pt, negro 100 %. 
+ Emisiones de ruido: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Valor: Calibri negrita 22 pt, negro 100 %. 
+ — 
+ Texto: Calibri normal 14 pt, negro 100 %. 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor: 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben caber en un espacio de 90 × 15 mm. 
+ Periodo de referencia: 
+ — 
+ Texto: Calibri negrita 10 pt. 
+ 3.   ETIQUETA DE LOS ACONDICIONADORES DE AIRE, EXCEPTO LOS DE CONDUCTO ÚNICO Y LOS DE CONDUCTO DOBLE 
+ 3.1.    Acondicionadores de aire exclusivamente con función de calefacción clasificados en las clases de eficiencia energética A a G 
+ a) 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ nombre o marca comercial del proveedor; 
+ II. 
+ identificador del modelo del proveedor; 
+ III. 
+ texto «SCOP», con el símbolo de un ventilador y un flujo de aire, en rojo; 
+ IV. 
+ eficiencia energética; la punta de la flecha que contiene la clase de eficiencia energética del aparato se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente; es obligatorio indicar la eficiencia energética en la temporada de calefacción media; la indicación de la eficiencia en las temporadas más cálida y más fría es opcional; 
+ V. 
+ carga de calefacción del diseño, en kW, de las respectivas (hasta tres) temporadas de calefacción, redondeada al primer decimal; los valores de las temporadas de calefacción respecto a las cuales no se indique la carga de diseño se señalarán con una «X»; 
+ VI. 
+ coeficiente de rendimiento estacional (SCOP) de las respectivas (hasta tres) temporadas de calefacción, redondeado al primer decimal; los valores de las temporadas de calefacción respecto a las cuales no se indique el valor SCOP se señalarán con una «X»; 
+ VII. 
+ consumo anual de energía, en kWh al año, redondeado al número entero más próximo; los valores de las temporadas de calefacción respecto a las cuales no se indique el consumo anual de energía se señalarán con una «X»; 
+ VIII. 
+ niveles de potencia acústica de las unidades de interior y de exterior, expresada en dB(A) re1 pW, redondeada al número entero más próximo; 
+ IX. 
+ mapa de Europa que muestra tres temporadas de calefacción indicativas y sus respectivos cuadrados de color. 
+ Todos los valores requeridos se determinarán de conformidad con el anexo VII. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 3.5. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010, podrá añadirse una reproducción de la misma. 
+ 3.2.    Acondicionadores de aire exclusivamente con función de calefacción clasificados en las clases de eficiencia energética A+ a F 
+ a) 
+ En la etiqueta figurará la información enumerada en el punto 3.1. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 3.5. 
+ 3.3.    Acondicionadores de aire exclusivamente con función de calefacción clasificados en las clases de eficiencia energética A++ a E 
+ a) 
+ En la etiqueta figurará la información enumerada en el punto 3.1. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 3.5. 
+ 3.4.    Acondicionadores de aire exclusivamente con función de calefacción clasificados en las clases de eficiencia energética A+++ a D 
+ a) 
+ En la etiqueta figurará la información enumerada en el punto 3.1. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 3.5. 
+ 3.5.    Diseño de la etiqueta 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 100 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior): 
+ Reborde de la etiqueta UE: Trazo: 5 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00. 
+ Etiqueta de energía: Color: X-00-00-00. 
+ Pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 93 mm, altura: 18 mm. 
+ Reborde bajo los logotipos: 1 pt – color: cian 100 % – longitud: 93,7 mm. 
+ Indicación de SCOP: 
+ Texto: Calibri normal 10 pt, mayúsculas y negro 100 %. 
+ Escala de A a G: 
+ — 
+ Flecha: Altura: 7 mm, espacio: 1,3 mm – colores: 
+ — 
+ Clase superior: X-00-X-00, 
+ — 
+ Segunda clase: 70-00-X-00, 
+ — 
+ Tercera clase: 30-00-X-00, 
+ — 
+ Cuarta clase: 00-00-X-00, 
+ — 
+ Quinta clase: 00-30-X-00, 
+ — 
+ Sexta clase: 00-70-X-00, 
+ — 
+ Última(s) clase(s): 00-X-X-00. 
+ — 
+ Texto: Calibri negrita 18 pt, mayúsculas y blanco. 
+ Clase(s) de eficiencia energética: 
+ — 
+ Flecha: Anchura: 11 mm, altura: 10 mm, negro 100 %. 
+ — 
+ Texto: Calibri negrita 18 pt, mayúsculas y blanco. 
+ Potencia nominal en kW: 
+ — 
+ Texto 
+ «kW»: Calibri normal 10 pt, negro 100 %. 
+ — 
+ Valor 
+ «XY,Z»: Calibri negrita 11 pt, negro 100 %. 
+ Valores SCOP, redondeados al primer decimal: 
+ — 
+ Texto «SCOP»: Calibri normal 10 pt, mayúsculas y negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 11 pt, negro 100 %. 
+ Consumo anual de energía en kWh/año: 
+ — 
+ Texto «kWh/annum»: Calibri normal 10 pt, negro 100 %. 
+ — 
+ Valor «XY»: Calibri negrita 11 pt, negro 100 %. 
+ Emisiones de ruido: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Valor: Calibri negrita 15 pt, negro 100 %. 
+ — 
+ Texto: Calibri normal 12 pt, negro 100 %. 
+ Mapa de Europa y cuadrados en color: 
+ Colores: 
+ Naranja: 00-46-46-00. 
+ Verde: 59-00-47-00. 
+ Azul: 54-08-00-00. 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor: 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben caber en un espacio de 90 × 15 mm. 
+ Energía: 
+ — 
+ Texto: Calibri normal 8 pt, mayúsculas y negro 100 %. 
+ Periodo de referencia: 
+ — 
+ Texto: Calibri negrita 10 pt. 
+ 4.   ETIQUETA DE LOS ACONDICIONADORES DE AIRE DE CONDUCTO DOBLE 
+ 4.1.    Acondicionadores de aire de conducto doble reversibles clasificados en las clases de eficiencia energética A+++ a D 
+ a) 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ nombre o marca comercial del proveedor; 
+ II. 
+ identificador del modelo del proveedor; 
+ III. 
+ texto «EER» para la refrigeración, con el símbolo de un ventilador y un flujo de aire, en azul; texto «COP» para la calefacción, con el símbolo de un ventilador y un flujo de aire, en rojo; 
+ IV. 
+ eficiencia energética; la punta de la flecha que contiene la clase de eficiencia energética del aparato se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente; debe indicarse la eficiencia energética de la refrigeración y de la calefacción; 
+ V. 
+ potencia nominal de los modos de refrigeración y de calefacción, en kW, redondeada al primer decimal; 
+ VI. 
+ EER rated y COP rated , redondeados al primer decimal; 
+ VII. 
+ consumo horario de energía, en kWh por periodo de 60 minutos, de los modos de refrigeración y de calefacción, redondeado al número entero más próximo; 
+ VIII. 
+ nivel de potencia acústica de la unidad interior, expresada en dB(A) re1 pW, redondeada al número entero más próximo. 
+ Todos los valores requeridos se determinarán de conformidad con el anexo VII. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 4.2. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010, podrá añadirse una reproducción de la misma. 
+ 4.2.    Diseño de la etiqueta 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 100 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior): 
+ Reborde de la etiqueta UE: Trazo 5 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00. 
+ Etiqueta de energía: Color: X-00-00-00. 
+ Pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 82 mm, altura: 16 mm. 
+ Reborde bajo los logotipos: 1 pt – color: cian 100 % – longitud: 92,5 mm. 
+ Indicación de EER y COP: 
+ Texto: Calibri normal 10 pt, negro 100 % 
+ Escala de A a G: 
+ — 
+ Flecha: Altura: 7 mm, espacio: 1,3 mm –colores: 
+ — 
+ Clase superior: X-00-X-00, 
+ — 
+ Segunda clase: 70-00-X-00, 
+ — 
+ Tercera clase: 30-00-X-00, 
+ — 
+ Cuarta clase: 00-00-X-00, 
+ — 
+ Quinta clase: 00-30-X-00, 
+ — 
+ Sexta clase: 00-70-X-00, 
+ — 
+ Última(s) clase(s): 00-X-X-00. 
+ — 
+ Texto: 
+ Calibri negrita 18 pt, mayúsculas y blanco; 
+ Calibri negrita 7 pt, blanco. 
+ Clases de eficiencia energética: 
+ — 
+ Flecha: Anchura: 11 mm, altura: 10 mm, negro 100 %. 
+ — 
+ Texto: 
+ Calibri negrita 18 pt, mayúsculas y blanco; 
+ Calibri negrita 7 pt, blanco. 
+ Energía: 
+ — 
+ Texto: Calibri normal 8 pt, mayúsculas y negro 100 %. 
+ Traducción de «minutos»: 
+ — 
+ Texto: Calibri normal 7 pt, negro 100 %. 
+ Potencia nominal de los modos de refrigeración y de calefacción, en kW: 
+ — 
+ Texto «kW»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY,Z»: Calibri negrita 22 pt, negro 100 %. 
+ Valores COP y EER, redondeados al primer decimal: 
+ — 
+ Texto «EER»/«COP»: Calibri normal 14 pt, mayúsculas y negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Consumo horario de energía en kWh / 60 min: 
+ — 
+ Texto «kWh/60 min*»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY»: Calibri negrita 22 pt, negro 100 %. 
+ Emisiones de ruido: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Valor: Calibri negrita 22 pt, negro 100 %. 
+ — 
+ Texto: Calibri normal 14 pt, negro 100 %. 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor: 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben caber en un espacio de 82 × 10,5 mm. 
+ Periodo de referencia: 
+ — 
+ Texto: Calibri negrita 10 pt. 
+ 4.3.    Acondicionadores de aire de conducto doble exclusivamente con función de refrigeración clasificados en las clases de eficiencia energética A+++ a D 
+ a) 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ nombre o marca comercial del proveedor; 
+ II. 
+ identificador del modelo del proveedor; 
+ III. 
+ texto «EER», con el símbolo de un ventilador y un flujo de aire, en azul; 
+ IV. 
+ eficiencia energética; la punta de la flecha que contiene la clase de eficiencia energética del aparato se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente. 
+ V. 
+ potencia nominal de refrigeración, en kW, redondeada al primer decimal; 
+ VI. 
+ EER rated , redondeado al primer decimal; 
+ VII. 
+ consumo horario de energía, en kWh por periodo de 60 minutos, redondeado al número entero más próximo; 
+ VIII. 
+ nivel de potencia acústica de la unidad interior, expresada en dB(A) re1 pW, redondeada al número entero más próximo. 
+ Todos los valores requeridos se determinarán de conformidad con el anexo VII. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 4.4. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010, podrá añadirse una reproducción de la misma. 
+ 4.4.    Diseño de la etiqueta 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 100 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior): 
+ Reborde de la etiqueta UE: Trazo 5 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00. 
+ Etiqueta de energía: Color: X-00-00-00. 
+ Pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 82 mm, altura: 16 mm. 
+ Reborde bajo los logotipos: 1 pt – color: cian 100 % – longitud: 92,5 mm. 
+ Indicación de EER: 
+ Texto: Calibri normal, 10 pt, mayúsculas y negro 100 % 
+ Escala de A a G: 
+ — 
+ Flecha: Altura: 7 mm, espacio: 1,3 mm – colores: 
+ — 
+ Clase superior: X-00-X-00, 
+ — 
+ Segunda clase: 70-00-X-00, 
+ — 
+ Tercera clase: 30-00-X-00, 
+ — 
+ Cuarta clase: 00-00-X-00, 
+ — 
+ Quinta clase: 00-30-X-00, 
+ — 
+ Sexta clase: 00-70-X-00, 
+ — 
+ Última(s) clase(s): 00-X-X-00. 
+ — 
+ Texto: 
+ Calibri negrita 18 pt, mayúsculas y blanco; 
+ Calibri negrita 7 pt, blanco. 
+ Clase de eficiencia energética: 
+ — 
+ Flecha: Anchura: 20 mm, altura: 15 mm, negro 100 %. 
+ — 
+ Texto: 
+ Calibri negrita 30 pt, mayúsculas y blanco; 
+ Calibri negrita 14 pt, blanco. 
+ Energía: 
+ — 
+ Texto: Calibri normal 8 pt, mayúsculas y negro 100 %. 
+ Traducción de «minutos»: 
+ — 
+ Texto: Calibri normal 7 pt, negro 100 %. 
+ Potencia nominal en kW: 
+ — 
+ Texto «kW»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY,Z»: Calibri negrita 22 pt, negro 100 %. 
+ Valor EER, redondeado al primer decimal: 
+ — 
+ Texto «EER»: Calibri normal 14 pt, mayúsculas y negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Consumo horario de energía en kWh/60 min: 
+ — 
+ Texto «kW/60 min*»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY»: Calibri negrita 22 pt, negro 100 %. 
+ Emisiones de ruido: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Valor: Calibri negrita 22 pt, negro 100 %. 
+ — 
+ Texto: Calibri normal 14 pt, negro 100 %. 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor: 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben caber en un espacio de 82 × 10,5 mm. 
+ Periodo de referencia: 
+ — 
+ Texto: Calibri negrita 10 pt. 
+ 4.5.    Acondicionadores de aire de conducto doble exclusivamente con función de calefacción clasificados en las clases de eficiencia energética A+++ a D 
+ a) 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ nombre o marca comercial del proveedor; 
+ II. 
+ identificador del modelo del proveedor; 
+ III. 
+ texto «COP», con el símbolo de un ventilador y un flujo de aire, en rojo; 
+ IV. 
+ eficiencia energética; la punta de la flecha que contiene la clase de eficiencia energética del aparato se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente; 
+ V. 
+ potencia nominal de calefacción, en kW, redondeada al primer decimal; 
+ VI. 
+ COP rated , redondeado al primer decimal; 
+ VII. 
+ consumo horario de energía, en kWh por periodo de 60 minutos, redondeado al número entero más próximo; 
+ VIII. 
+ nivel de potencia acústica de la unidad interior, expresada en dB(A) re1 pW, redondeada al número entero más próximo. 
+ Todos los valores requeridos se determinarán de conformidad con el anexo VII. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 4.6. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010, podrá añadirse una reproducción de la misma. 
+ 4.6.    Diseño de la etiqueta 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 100 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de estas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior): 
+ Reborde de la etiqueta UE: Trazo: 5 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00. 
+ Etiqueta de energía: Color: X-00-00-00. 
+ Pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 82 mm, altura: 16 mm. 
+ Reborde bajo los logotipos: 1 pt – color: cian 100 % - longitud: 92,5 mm. 
+ Indicación de COP: 
+ Texto: Calibri normal, 10 pt, mayúsculas y negro 100 % 
+ Escala de A a G: 
+ — 
+ Flecha: Altura: 7 mm, espacio: 1,3 mm – colores: 
+ — 
+ Clase superior: X-00-X-00, 
+ — 
+ Segunda clase: 70-00-X-00, 
+ — 
+ Tercera clase: 30-00-X-00, 
+ — 
+ Cuarta clase: 00-00-X-00, 
+ — 
+ Quinta clase: 00-30-X-00, 
+ — 
+ Sexta clase: 00-70-X-00, 
+ — 
+ Última(s) clase(s): 00-X-X-00. 
+ — 
+ Texto: 
+ Calibri negrita 18 pt, mayúsculas y blanco; 
+ Calibri negrita 7 pt, blanco. 
+ Clase de eficiencia energética: 
+ — 
+ Flecha: Anchura: 20 mm, altura: 15 mm, negro 100 %. 
+ — 
+ Texto: 
+ Calibri negrita 30 pt, mayúsculas y blanco; 
+ Calibri negrita 14 pt, blanco. 
+ Energía: 
+ — 
+ Texto: Calibri normal 8 pt, mayúsculas y negro 100 %. 
+ Traducción de «minutos»: 
+ — 
+ Texto: Calibri normal 7 pt, negro 100 %. 
+ Potencia nominal en kW: 
+ — 
+ Texto «kW»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY,Z»: Calibri negrita 22 pt, negro 100 %. 
+ Valor COP, redondeado al primer decimal: 
+ — 
+ Texto «COP»: Calibri normal 14 pt, mayúsculas y negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Consumo horario de energía en kWh/60 min: 
+ — 
+ Texto «kW/60 min*»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY»: Calibri negrita 22 pt, negro 100 %. 
+ Emisiones de ruido: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Valor: Calibri negrita 22 pt, negro 100 %. 
+ — 
+ Texto: Calibri normal 14 pt, negro 100 %. 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor: 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben caber en un espacio de 82 × 10,5 mm. 
+ Periodo de referencia: 
+ — 
+ Texto: Calibri negrita 10 pt. 
+ 5.   ETIQUETA DE LOS ACONDICIONADORES DE AIRE DE CONDUCTO ÚNICO 
+ 5.1.    Acondicionadores de aire de conducto único reversibles clasificados en las clases de eficiencia energética A+++ a D 
+ a) 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ nombre o marca comercial del proveedor; 
+ II. 
+ identificador del modelo del proveedor; 
+ III. 
+ texto «EER» para la refrigeración, con el símbolo de un ventilador y un flujo de aire, en azul; texto «COP» para la calefacción, con el símbolo de un ventilador y un flujo de aire, en rojo; 
+ IV. 
+ eficiencia energética; la punta de la flecha que contiene la clase de eficiencia energética del aparato se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente; debe indicarse la eficiencia energética de la refrigeración y de la calefacción; 
+ V. 
+ potencia nominal de los modos de refrigeración y de calefacción, en kW, redondeada al primer decimal; 
+ VI. 
+ EER rated y COP rated , redondeados al primer decimal; 
+ VII. 
+ consumo horario de energía, en kWh por periodo de 60 minutos, de la refrigeración y de la calefacción, redondeado al primer decimal; 
+ VIII. 
+ nivel de potencia acústica de la unidad interior, expresada en dB(A) re1 pW, redondeada al número entero más próximo. 
+ Todos los valores requeridos se determinarán de conformidad con el anexo VII. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 5.2. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010, podrá añadirse una reproducción de la misma. 
+ 5.2.    Diseño de la etiqueta 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 100 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior): 
+ Reborde de la etiqueta UE: Trazo 5 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00. 
+ Etiqueta de energía: Color: X-00-00-00. 
+ Pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 82 mm, altura: 16 mm. 
+ Reborde bajo los logotipos: 1 pt – color: cian 100 % – longitud: 92,5 mm. 
+ Indicación de EER y COP: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Texto: Calibri normal 10 pt, mayúsculas y negro 100 %. 
+ Escala de A a G: 
+ — 
+ Flecha: Altura: 7 mm, espacio: 1,3 mm – colores: 
+ — 
+ Clase superior: X-00-X-00, 
+ — 
+ Segunda clase: 70-00-X-00, 
+ — 
+ Tercera clase: 30-00-X-00, 
+ — 
+ Cuarta clase: 00-00-X-00, 
+ — 
+ Quinta clase: 00-30-X-00, 
+ — 
+ Sexta clase: 00-70-X-00, 
+ — 
+ Última(s) clase(s): 00-X-X-00. 
+ — 
+ Texto: 
+ Calibri negrita 18 pt, mayúsculas y blanco; 
+ Calibri negrita 7 pt, blanco. 
+ Clases de eficiencia energética: 
+ — 
+ Flecha: Anchura: 11 mm, altura: 10 mm, negro 100 %. 
+ — 
+ Texto: Calibri negrita 18 pt, mayúsculas y blanco. 
+ Energía: 
+ — 
+ Texto: Calibri normal 8 pt, mayúsculas y negro 100 %. 
+ Traducción de «minutos»: 
+ — 
+ Texto: Calibri normal 7 pt, negro 100 %. 
+ Potencia nominal de refrigeración y de calefacción, en kW: 
+ — 
+ Texto «kW»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY,Z»: Calibri negrita 22 pt, negro 100 %. 
+ Valores EER y COP, redondeados al primer decimal: 
+ — 
+ Texto: Calibri normal 14 pt, mayúsculas y negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Consumo horario de energía en kWh/60 min: 
+ — 
+ Texto «kWh/60 min*»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Emisiones de ruido: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Valor: Calibri negrita 22 pt, negro 100 %. 
+ — 
+ Texto: Calibri normal 14 pt, negro 100 %. 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor: 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben caber en un espacio de 82 × 10,5 mm. 
+ Periodo de referencia: 
+ — 
+ Texto: Calibri negrita 10 pt. 
+ 5.3.    Acondicionadores de aire de conducto único exclusivamente con función de refrigeración clasificados en las clases de eficiencia energética A+++ a D 
+ a) 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ nombre o marca comercial del proveedor; 
+ II. 
+ identificador del modelo del proveedor; 
+ III. 
+ texto «EER», con el símbolo de un ventilador y un flujo de aire, en azul; 
+ IV. 
+ eficiencia energética; la punta de la flecha que contiene la clase de eficiencia energética del aparato se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente; 
+ V. 
+ potencia nominal de refrigeración, en kW, redondeada al primer decimal; 
+ VI. 
+ EER rated , redondeado al primer decimal; 
+ VII. 
+ consumo horario de energía, en kWh por periodo de 60 minutos, redondeado al primer decimal; 
+ VIII. 
+ nivel de potencia acústica de la unidad interior, expresada en dB(A) re1 pW, redondeada al número entero más próximo. 
+ Todos los valores requeridos se determinarán de conformidad con el anexo VII. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 5.4. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010, podrá añadirse una reproducción de la misma. 
+ 5.4.    Diseño de la etiqueta 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 100 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior): 
+ Reborde de la etiqueta UE: Trazo 5 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00. 
+ Etiqueta de energía: Color: X-00-00-00. 
+ Pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 82 mm, altura: 16 mm. 
+ Reborde bajo los logotipos: 1 pt – color: cian 100 % – longitud: 92,5 mm. 
+ Indicación de EER: 
+ Texto: Calibri normal 10 pt, mayúsculas y negro 100 %. 
+ Escala de A a G: 
+ — 
+ Flecha: Altura: 7 mm, espacio: 1,3 mm – colores: 
+ — 
+ Clase superior: X-00-X-00, 
+ — 
+ Segunda clase: 70-00-X-00, 
+ — 
+ Tercera clase: 30-00-X-00, 
+ — 
+ Cuarta clase: 00-00-X-00, 
+ — 
+ Quinta clase: 00-30-X-00, 
+ — 
+ Sexta clase: 00-70-X-00, 
+ — 
+ Última(s) clase(s): 00-X-X-00. 
+ — 
+ Texto: 
+ Calibri negrita 18 pt, mayúsculas y blanco; 
+ Calibri negrita 7 pt, blanco. 
+ Clase de eficiencia energética: 
+ — 
+ Flecha: Anchura: 20 mm, altura: 15 mm, negro 100 %. 
+ — 
+ Texto: 
+ Calibri negrita 30 pt, mayúsculas y blanco; 
+ Calibri negrita 14 pt, mayúsculas y blanco. 
+ Energía: 
+ — 
+ Texto: Calibri normal 8 pt, mayúsculas y negro 100 %. 
+ Traducción de «minutos»: 
+ — 
+ Texto: Calibri normal 7 pt, negro 100 %. 
+ Potencia nominal en kW: 
+ — 
+ Texto «kW»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY,Z»: Calibri negrita 22 pt, negro 100 %. 
+ Valor EER, redondeado al primer decimal: 
+ — 
+ Texto «EER»: Calibri normal 14 pt, mayúsculas y negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Consumo horario de energía en kWh/60 min: 
+ — 
+ Texto «kWh/60 min*»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Emisiones de ruido: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Valor: Calibri negrita 22 pt, negro 100 %. 
+ — 
+ Texto: Calibri normal 14 pt, negro 100 %. 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor: 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben caber en un espacio de 82 × 10,5 mm. 
+ Periodo de referencia: 
+ — 
+ Texto: Calibri negrita 10 pt. 
+ 5.5.    Acondicionadores de aire de conducto único exclusivamente con función de calefacción clasificados en las clases de eficiencia energética A+++ a D 
+ a) 
+ En la etiqueta figurará la siguiente información: 
+ I. 
+ nombre o marca comercial del proveedor; 
+ II. 
+ identificador del modelo del proveedor; 
+ III. 
+ texto «COP», con el símbolo de un ventilador y un flujo de aire, en rojo; 
+ IV. 
+ eficiencia energética; la punta de la flecha que contiene la clase de eficiencia energética del aparato se colocará a la misma altura que la punta de la flecha de la clase de eficiencia energética correspondiente; 
+ V. 
+ potencia nominal de calefacción, en kW, redondeada al primer decimal; 
+ VI. 
+ COP rated , redondeado al primer decimal; 
+ VII. 
+ consumo horario de energía, en kWh por periodo de 60 minutos, redondeado al número entero más próximo; 
+ VIII. 
+ nivel de potencia acústica de la unidad interior, expresada en dB(A) re1 pW, redondeada al número entero más próximo. 
+ Todos los valores requeridos se determinarán de conformidad con el anexo VII. 
+ b) 
+ El diseño de la etiqueta se ajustará a lo indicado en el punto 5.6. No obstante, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010, podrá añadirse una reproducción de la misma. 
+ 5.6.    Diseño de la etiqueta 
+ Se tendrán en cuenta las siguientes precisiones: 
+ i) 
+ La etiqueta medirá al menos 100 mm de ancho y 200 mm de alto. Cuando se imprima en un formato mayor, su contenido deberá mantener las proporciones de las citadas especificaciones. 
+ ii) 
+ El fondo será blanco. 
+ iii) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 00-70-X-00: cian 0 %, magenta 70 %, amarillo 100 %, negro 0 %. 
+ iv) 
+ La etiqueta cumplirá todos los requisitos siguientes (los números se refieren a la figura anterior): 
+ Reborde de la etiqueta UE: Trazo 5 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ Logotipo UE: Colores: X-80-00-00 y 00-00-X-00. 
+ Etiqueta de energía: Color: X-00-00-00. 
+ Pictograma como el presentado: Logotipo UE + etiqueta de energía: anchura: 82 mm, altura: 16 mm. 
+ Reborde bajo los logotipos: 1 pt – color: cian 100 % – longitud: 92,5 mm. 
+ Indicación de COP: 
+ Texto: Calibri normal, 10 pt, mayúsculas y negro 100 % 
+ Escala de A a G: 
+ — 
+ Flecha: Altura: 7 mm, espacio: 1,3 mm – colores: 
+ — 
+ Clase superior: X-00-X-00, 
+ — 
+ Segunda clase: 70-00-X-00, 
+ — 
+ Tercera clase: 30-00-X-00, 
+ — 
+ Cuarta clase: 00-00-X-00, 
+ — 
+ Quinta clase: 00-30-X-00, 
+ — 
+ Sexta clase: 00-70-X-00, 
+ — 
+ Última(s) clase(s): 00-X-X-00. 
+ — 
+ Texto: 
+ Calibri negrita 18 pt, mayúsculas y blanco; 
+ Calibri negrita 7 pt, blanco. 
+ Clase de eficiencia energética: 
+ — 
+ Flecha: Anchura: 20 mm, altura: 15 mm, negro 100 %. 
+ — 
+ Texto: 
+ Calibri negrita 30 pt, mayúsculas y blanco; 
+ Calibri negrita 14 pt, mayúsculas y blanco. 
+ Energía: 
+ — 
+ Texto: Calibri normal 8 pt, mayúsculas y negro 100 %. 
+ Traducción de «minutos»: 
+ — 
+ Texto: Calibri normal 7 pt, mayúsculas y negro 100 %. 
+ Potencia nominal en kW: 
+ — 
+ Texto «kW»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «XY,Z»: Calibri negrita 22 pt, negro 100 %. 
+ Valor COP, redondeado al primer decimal: 
+ — 
+ Texto «COP»: Calibri normal 14 pt, mayúsculas y negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Consumo horario de energía en kWh/60 min: 
+ — 
+ Texto «kWh/60 min*»: Calibri normal 14 pt, negro 100 %. 
+ — 
+ Valor «X,Y»: Calibri negrita 22 pt, negro 100 %. 
+ Emisiones de ruido: 
+ — 
+ Reborde: 2 pt – color: cian 100 % – esquinas redondeadas: 3,5 mm. 
+ — 
+ Valor: Calibri negrita 22 pt, negro 100 %. 
+ — 
+ Texto: Calibri normal 14 pt, negro 100 %. 
+ Nombre o marca comercial del proveedor: 
+ Identificador del modelo del proveedor: 
+ El nombre o marca comercial del proveedor y el identificador del modelo deben caber en un espacio de 82 × 10,5 mm. 
+ Periodo de referencia: 
+ — 
+ Texto: Calibri negrita 10 pt. 
+ ( 1 )   
+ DO L 27 de 30.1.2010, p. 1 . 
+ ANEXO IV 
+ Ficha del producto 
+ 1. 
+ La información de la ficha del producto se facilitará en el siguiente orden: 
+ a) 
+ Nombre o marca comercial del proveedor. 
+ b) 
+ Identificador del modelo del acondicionador de aire interior o de los elementos del acondicionador de aire situados en el interior y en el exterior. 
+ c) 
+ Sin perjuicio de los requisitos establecidos en el sistema de la etiqueta ecológica de la Unión, en el caso de que un modelo haya obtenido una «etiqueta ecológica de la UE» en virtud del Reglamento (CE) n o 66/2010, podrá añadirse una reproducción de la misma. 
+ d) 
+ Nivel de potencia acústica interior y exterior en condiciones estándar, en los modos de refrigeración y/o de calefacción. 
+ e) 
+ Nombre y GWP del refrigerante utilizado, así como el siguiente texto estándar: 
+ «Las fugas de refrigerante contribuyen al cambio climático. Cuanto mayor sea el potencial de calentamiento global (GWP) de un refrigerante, más contribuirá a dicho calentamiento su vertido a la atmósfera. Este aparato contiene un líquido refrigerante con un GWP igual a [ xxx ]. Esto significa que, si pasara a la atmósfera 1 kg de este líquido refrigerante, el impacto en el calentamiento global sería, a lo largo de un periodo de 100 años, [ xxx ] veces mayor que si se vertiera 1 kg de CO 2 . Nunca intente intervenir en el circuito del refrigerante ni desmontar el aparato usted mismo; consulte siempre a un profesional.». 
+ 2. 
+ Además, en la ficha del acondicionador de aire se incluirá la siguiente información sobre el modo de refrigeración , cuando se declare la eficiencia sobre la base del factor de eficiencia energética estacional (SEER): 
+ a) 
+ El SEER y la clase de eficiencia energética del modelo (modelo de una unidad o de una combinación de unidades) en el modo de refrigeración, determinados de conformidad con las definiciones y los procedimientos de ensayo que figuran en los anexos I y VII, así como con los límites de las clases definidos en el anexo II. 
+ b) 
+ El consumo anual de electricidad indicativo (Q CE ) en la temporada de refrigeración, en kWh/a, determinado de conformidad con las definiciones y los procedimientos de ensayo que figuran en los anexos I y VII, respectivamente, y que se describirá como sigue: «Consumo de energía “XYZ” kWh/año, según los resultados obtenidos en ensayos estándar. El consumo de energía real depende de las condiciones de uso del aparato y del lugar en el que esté instalado.». 
+ c) 
+ La carga de diseño (Pdesignc) del aparato en el modo de refrigeración, en kW, determinada de conformidad con las definiciones y procedimientos de ensayo que figuran en los anexos I y VII, respectivamente. 
+ 3. 
+ Además, las notas que figuran a continuación definen la información que deberá incluirse en la ficha del producto sobre el modo de calefacción , cuando se declare la eficiencia sobre la base del coeficiente de rendimiento estacional (SCOP): 
+ a) 
+ El SCOP y la clase de eficiencia energética del modelo de una unidad o de una combinación de unidades en el modo de calefacción, determinados de conformidad con las definiciones y los procedimientos de ensayo que figuran en los anexos I y VII, respectivamente, así como con los límites de las clases definidos en el anexo II. 
+ b) 
+ El consumo anual de electricidad indicativo en una temporada media de calefacción (Q HE ) , en kWh/a, determinado de conformidad con las definiciones y los procedimientos de ensayo que figuran en los anexos I y VII, respectivamente, y que se describirá como sigue: «Consumo de energía “XYZ” kWh/año, según los resultados obtenidos en ensayos estándar. El consumo de energía real depende de las condiciones de uso del aparato y del lugar en el que esté instalado.». 
+ c) 
+ Otras temporadas de calefacción designadas en las cuales la unidad se declara apta para funcionar, con las opciones de temporada más cálida (opcional) o más fría (opcional), según las definiciones del anexo I. 
+ d) 
+ La carga de diseño (Pdesignh) del aparato en el modo de calefacción, en kW, determinada de conformidad con las definiciones y procedimientos de ensayo que figuran en los anexos I y VII. 
+ e) 
+ La potencia declarada y una indicación de la potencia de calefacción de reserva asumida para el cálculo del SCOP en condiciones de diseño de referencia. 
+ 4. 
+ Además, las notas que figuran a continuación definen la información que deberá incluirse en la ficha de los acondicionadores de aire cuando se declare la eficiencia sobre la base del factor de eficiencia energética (EER rated ) o del coeficiente de rendimiento (COP rated ): 
+ a) 
+ La clase de eficiencia energética del modelo, determinada de conformidad con las definiciones y los procedimientos de ensayo que figuran en los anexos I y VII, así como los límites de las clases definidos en el anexo II. 
+ b) 
+ En el caso de los acondicionadores de aire de conducto doble, el consumo horario de electricidad indicativo (Q DD ) , en kWh/60 minutos, determinado de conformidad con las definiciones y los procedimientos de ensayo que figuran en los anexos I y VII, y que se describirá como sigue: «Consumo de energía “X,Y” kWh/60 minutos, según los resultados obtenidos en ensayos estándar. El consumo de energía real depende de las condiciones de uso del aparato y del lugar en el que esté instalado.». 
+ c) 
+ En el caso de los acondicionadores de aire de conducto único, el consumo horario de electricidad indicativo (Q SD ) , en kWh/60 minutos, determinado de conformidad con las definiciones y los procedimientos de ensayo que figuran en los anexos I y VII, y que se describirá como sigue: «Consumo de energía “X,Y” kWh/60 minutos, según los resultados obtenidos en ensayos estándar. El consumo de energía real depende de las condiciones de uso del aparato y del lugar en el que esté instalado.». 
+ d) 
+ La potencia de refrigeración ( P rated 
+ ) del aparato, en kW, determinada de conformidad con las definiciones y los procedimientos de ensayo que figuran en los anexos I y VII. 
+ e) 
+ La potencia de calefacción ( P rated 
+ ) del aparato, en kW, determinada de conformidad con las definiciones y los procedimientos de ensayo que figuran en los anexos I y VII. 
+ 5. 
+ Se podrá utilizar una única ficha para varios modelos suministrados por el mismo proveedor. 
+ 6. 
+ La información recogida en la ficha podrá consistir en una reproducción de la etiqueta, ya sea en color o en blanco y negro. Si tal fuera el caso, también se facilitará la información enumerada en los puntos 1 a 4 que no figure ya en la etiqueta. 
+ ANEXO V 
+ Documentación técnica 
+ La documentación técnica a que se refiere el artículo 3, apartado 1, letra c), deberá incluir, como mínimo, lo siguiente: 
+ a) 
+ el nombre y la dirección del proveedor; 
+ b) 
+ una descripción general del modelo del aparato, que permita identificarlo fácil e inequívocamente; los acondicionadores de aire de conducto único se denominarán «acondicionadores de aire locales»; 
+ c) 
+ si procede, las referencias de las normas armonizadas aplicadas; 
+ d) 
+ si procede, los demás métodos de cálculo y demás especificaciones y normas técnicas utilizados; 
+ e) 
+ identificación y firma de la persona habilitada para firmar la declaración en nombre del proveedor; 
+ f) 
+ en su caso, los parámetros técnicos para las mediciones, establecidos de conformidad con el anexo VII: 
+ i) 
+ dimensiones totales; 
+ ii) 
+ especificación del tipo de acondicionador de aire; 
+ iii) 
+ especificación de si el aparato se ha diseñado solo para refrigeración, solo para calefacción o para ambas funciones; 
+ iv) 
+ clase de eficiencia energética del modelo según lo dispuesto en el anexo II; 
+ v) 
+ factor de eficiencia energética (EER rated ) y coeficiente de rendimiento (COP rated ), en el caso de los acondicionadores de aire de conducto único y de conducto doble, o factor de eficiencia energética estacional (SEER) y coeficiente de rendimiento estacional (SCOP), en el caso de los demás acondicionadores de aire; 
+ vi) 
+ temporada de calefacción en la que el aparato se declara apto para funcionar; 
+ vii) 
+ niveles de potencia acústica, expresada en dB(A) re1 pW, redondeada al número entero más próximo; 
+ viii) 
+ nombre y GWP del refrigerante utilizado; 
+ g) 
+ resultados de los cálculos realizados de conformidad con el anexo VII. 
+ Los proveedores podrán incluir información adicional al final de esta lista. 
+ Cuando la información contenida en el registro de documentación técnica para un determinado modelo de acondicionador de aire se haya obtenido mediante un cálculo basado en el diseño, o por extrapolación de otros aparatos equivalentes, o ambas cosas, la documentación incluirá los pormenores de dichos cálculos o extrapolaciones, o de ambos, y de los ensayos realizados por los proveedores para verificar la exactitud de los mismos. La información también incluirá una lista de todos los demás modelos de aparatos equivalentes respecto a los que la información se haya obtenido sobre la misma base. 
+ ANEXO VI 
+ Informaciónque debe facilitarse en los casos en que no pueda preverse que el usuario final vaya a tener la posibilidad de ver el producto expuesto 
+ 1. 
+ La información contemplada en el artículo 4, letra b), se facilitará en el siguiente orden: 
+ a) 
+ clase de eficiencia energética del modelo según lo dispuesto en el anexo II; 
+ b) 
+ respecto a los acondicionadores de aire distintos de los de conducto único o los de conducto doble: 
+ i) 
+ factor de eficiencia energética estacional (SEER) y/o coeficiente de rendimiento estacional (SCOP); 
+ ii) 
+ carga de diseño (en kW); 
+ iii) 
+ consumo anual de electricidad; 
+ iv) 
+ temporada de refrigeración y/o temporadas de calefacción («media», «más fría», «más cálida») en las que el aparato se declara apto para funcionar; 
+ c) 
+ respecto a los acondicionadores de aire de conducto único y los de conducto doble: 
+ i) 
+ factor de eficiencia energética (EER) y/o coeficiente de rendimiento (COP); 
+ ii) 
+ potencia nominal (en kW); 
+ iii) 
+ respecto a los acondicionadores de aire de conducto doble, consumo horario de electricidad relativo a la refrigeración y/o la calefacción; 
+ iv) 
+ respecto a los acondicionadores de aire de conducto único, consumo horario de electricidad relativo a la refrigeración y/o la calefacción; 
+ d) 
+ niveles de potencia acústica, expresada en dB(A) re1 pW, redondeada al número entero más próximo; 
+ e) 
+ nombre y GWP del refrigerante utilizado. 
+ 2. 
+ Cuando se facilite además otra información contenida en la ficha del producto, esta se dispondrá en la forma y orden especificados en el anexo IV. 
+ 3. 
+ El tamaño y tipo de caracteres utilizados para imprimir o exponer toda la información contemplada en el presente anexo deberán ser legibles. 
+ ANEXO VII 
+ Mediciones y cálculos 
+ 1. 
+ Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, se harán mediciones y cálculos utilizando normas armonizadas cuyos números de referencia hayan sido publicados en el Diario Oficial de la Unión Europea , u otro método fiable, exacto y reproducible, que tenga en cuenta los métodos más avanzados generalmente aceptados, y cuyos resultados se consideren poco inciertos. 
+ 2. 
+ Al determinar el consumo estacional de energía, así como el factor de eficiencia energética estacional (SEER) y el coeficiente de rendimiento estacional (SCOP), se tendrán en cuenta: 
+ a) 
+ las condiciones estacionales europeas, según lo definido en el cuadro 1 del presente anexo; 
+ b) 
+ las condiciones de diseño de referencia, según lo definido en el cuadro 3 del presente anexo; 
+ c) 
+ el consumo de energía eléctrica para todos los modos de funcionamiento pertinentes, utilizando los periodos temporales definidos en el cuadro 4 del presente anexo; 
+ d) 
+ los efectos de la degradación de la eficiencia energética causados por el ciclo de encendido y apagado (cuando proceda) dependiendo del tipo de control de la potencia de refrigeración y/o de calefacción; 
+ e) 
+ las correcciones de los coeficientes de rendimiento estacionales en condiciones en que la carga de calefacción no pueda alcanzarse con la potencia de calefacción disponible; 
+ f) 
+ la aportación de un calentador de reserva (en su caso) al cálculo de la eficiencia estacional de una unidad en modo de calefacción. 
+ 3. 
+ Cuando la información relativa a un modelo específico, que sea una combinación de unidades de interior y exterior, se haya obtenido mediante cálculos basados en el diseño y/o la extrapolación de otras combinaciones, la documentación deberá incluir detalles de esos cálculos y/o extrapolaciones, y de los ensayos realizados para comprobar la exactitud de los cálculos efectuados (incluidos los detalles del modelo matemático utilizado para calcular el rendimiento de esas combinaciones, y de las medidas adoptadas para comprobar dicho modelo). 
+ 4. 
+ El factor de eficiencia energética (EER rated ) y, cuando proceda, el coeficiente de rendimiento (COP rated ) de los acondicionadores de aire de conducto único y de conducto doble se establecerán en las condiciones estándar definidas en el cuadro 2 del presente anexo. 
+ 5. 
+ El cálculo del consumo de electricidad relativo a la refrigeración y/o calefacción deberá tener en cuenta el consumo de energía eléctrica de todos los modos de funcionamiento pertinentes, cuando proceda, utilizando los períodos de tiempo definidos en el cuadro 4 del presente anexo. 
+ Cuadro 1 
+ Índice del periodo (j), temperatura exterior (Tj) en °C y número de horas por periodo de temperatura (hj) en la temporada de refrigeración y en las temporadas de calefacción «media», «más cálida» y «más fría»; «db» = temperatura con el termómetro seco 
+ TEMPORADA DE REFRIGERACIÓN 
+ TEMPORADA DE CALEFACCIÓN 
+ Media 
+ Más cálida 
+ Más fría 
+ j 
+ # 
+ Tj 
+ °C 
+ hj 
+ h 
+ j 
+ # 
+ Tj 
+ °C 
+ hjA 
+ h 
+ hj W 
+ h 
+ hjC 
+ h 
+ db 
+ db 
+ 1 
+ 17 
+ 205 
+ 1 a 8 
+ – 30 a – 23 
+ 0 
+ 0 
+ 0 
+ 2 
+ 18 
+ 227 
+ 9 
+ –22 
+ 0 
+ 0 
+ 1 
+ 3 
+ 19 
+ 225 
+ 10 
+ –21 
+ 0 
+ 0 
+ 6 
+ 4 
+ 20 
+ 225 
+ 11 
+ –20 
+ 0 
+ 0 
+ 13 
+ 5 
+ 21 
+ 216 
+ 12 
+ –19 
+ 0 
+ 0 
+ 17 
+ 6 
+ 22 
+ 215 
+ 13 
+ –18 
+ 0 
+ 0 
+ 19 
+ 7 
+ 23 
+ 218 
+ 14 
+ –17 
+ 0 
+ 0 
+ 26 
+ 8 
+ 24 
+ 197 
+ 15 
+ –16 
+ 0 
+ 0 
+ 39 
+ 9 
+ 25 
+ 178 
+ 16 
+ –15 
+ 0 
+ 0 
+ 41 
+ 10 
+ 26 
+ 158 
+ 17 
+ –14 
+ 0 
+ 0 
+ 35 
+ 11 
+ 27 
+ 137 
+ 18 
+ –13 
+ 0 
+ 0 
+ 52 
+ 12 
+ 28 
+ 109 
+ 19 
+ –12 
+ 0 
+ 0 
+ 37 
+ 13 
+ 29 
+ 88 
+ 20 
+ –11 
+ 0 
+ 0 
+ 41 
+ 14 
+ 30 
+ 63 
+ 21 
+ –10 
+ 1 
+ 0 
+ 43 
+ 15 
+ 31 
+ 39 
+ 22 
+ –9 
+ 25 
+ 0 
+ 54 
+ 16 
+ 32 
+ 31 
+ 23 
+ –8 
+ 23 
+ 0 
+ 90 
+ 17 
+ 33 
+ 24 
+ 24 
+ –7 
+ 24 
+ 0 
+ 125 
+ 18 
+ 34 
+ 17 
+ 25 
+ –6 
+ 27 
+ 0 
+ 169 
+ 19 
+ 35 
+ 13 
+ 26 
+ –5 
+ 68 
+ 0 
+ 195 
+ 20 
+ 36 
+ 9 
+ 27 
+ –4 
+ 91 
+ 0 
+ 278 
+ 21 
+ 37 
+ 4 
+ 28 
+ –3 
+ 89 
+ 0 
+ 306 
+ 22 
+ 38 
+ 3 
+ 29 
+ –2 
+ 165 
+ 0 
+ 454 
+ 23 
+ 39 
+ 1 
+ 30 
+ –1 
+ 173 
+ 0 
+ 385 
+ 24 
+ 40 
+ 0 
+ 31 
+ 0 
+ 240 
+ 0 
+ 490 
+ 32 
+ 1 
+ 280 
+ 0 
+ 533 
+ 33 
+ 2 
+ 320 
+ 3 
+ 380 
+ 34 
+ 3 
+ 357 
+ 22 
+ 228 
+ 35 
+ 4 
+ 356 
+ 63 
+ 261 
+ 36 
+ 5 
+ 303 
+ 63 
+ 279 
+ 37 
+ 6 
+ 330 
+ 175 
+ 229 
+ 38 
+ 7 
+ 326 
+ 162 
+ 269 
+ 39 
+ 8 
+ 348 
+ 259 
+ 233 
+ 40 
+ 9 
+ 335 
+ 360 
+ 230 
+ 41 
+ 10 
+ 315 
+ 428 
+ 243 
+ 42 
+ 11 
+ 215 
+ 430 
+ 191 
+ 43 
+ 12 
+ 169 
+ 503 
+ 146 
+ 44 
+ 13 
+ 151 
+ 444 
+ 150 
+ 45 
+ 14 
+ 105 
+ 384 
+ 97 
+ 46 
+ 15 
+ 74 
+ 294 
+ 61 
+ TOTAL 
+ 2 602 
+ 4 910 
+ 3 590 
+ 6 446 
+ Cuadro 2 
+ Condiciones estándar, temperaturas del aire con el «termómetro seco» (entre paréntesis se indican con el «termómetro húmedo») 
+ Aparato 
+ Función 
+ Temperatura del aire interior 
+ (°C) 
+ Temperatura del aire exterior 
+ (°C) 
+ Acondicionadores de aire, excluidos los de conducto único 
+ Refrigeración 
+ 27 (19) 
+ 35 (24) 
+ Calefacción 
+ 20 (máx. 15) 
+ 7(6) 
+ Acondicionadores de aire de conducto único 
+ Refrigeración 
+ 35 (24) 
+ 35 (24)  ( *1 ) 
+ Calefacción 
+ 20 (12) 
+ 20 (12)  ( *1 ) 
+ Cuadro 3 
+ Condiciones de diseño de referencia, temperaturas del aire con el «termómetro seco» (entre paréntesis se indican con el «termómetro húmedo») 
+ Función / temporada 
+ Temperatura del aire interior 
+ (°C) 
+ Temperatura del aire exterior 
+ (°C) 
+ Temperatura bivalente 
+ (°C) 
+ Temperatura límite de funcionamiento 
+ (°C) 
+ Tin 
+ Tdesignc/Tdesignh 
+ Tbiv 
+ Tol 
+ Refrigeración 
+ 27 (19) 
+ Tdesignc = 35 (24) 
+ no disponible 
+ no disponible 
+ Calefacción / media 
+ 20 (15) 
+ Tdesignh = – 10 (– 11) 
+ máx. 2 
+ máx. – 7 
+ Calefacción / más cálida 
+ Tdesignh = 2 (1) 
+ máx. 7 
+ máx. 2 
+ Calefacción / más fría 
+ Tdesignh = – 22 (– 23) 
+ máx. – 7 
+ máx. – 15 
+ Cuadro 4 
+ Horas de funcionamiento por tipo de aparato y por modo funcional que han de utilizarse para calcular el consumo de electricidad 
+ Tipo de aparato / funcionalidad (cuando proceda) 
+ Unidad 
+ Temporada de calefacción 
+ Modo encendido 
+ Modo desactivado por termostato 
+ Modo de espera 
+ Modo desactivado 
+ Modo de calentador del cárter 
+ Refrigera-ción: H CE 
+ Calefac-ción: H HE 
+ H TO 
+ H SB 
+ H OFF 
+ H CK 
+ Acondicionadores de aire, excepto los de conducto doble y los de conducto único 
+ Modo de refrigeración, si el aparato ofrece solo refrigeración 
+ h/año 
+ 350 
+ 221 
+ 2 142 
+ 5 088 
+ 7 760 
+ Modos de refrigeración y calefacción, si el aparato ofrece ambos 
+ Modo de refrigeración 
+ h/año 
+ 350 
+ 221 
+ 2 142 
+ 0 
+ 2 672 
+ Modo de calefacción 
+ h/año 
+ Media 
+ 1 400 
+ 179 
+ 0 
+ 0 
+ 179 
+ Más cálida 
+ 1 400 
+ 755 
+ 0 
+ 0 
+ 755 
+ Más fría 
+ 2 100 
+ 131 
+ 0 
+ 0 
+ 131 
+ Modo de calefacción, si el aparato ofrece solo calefacción 
+ h/año 
+ Media 
+ 1 400 
+ 179 
+ 0 
+ 3 672 
+ 3 851 
+ Más cálida 
+ 1 400 
+ 755 
+ 0 
+ 4 345 
+ 4 476 
+ Más fría 
+ 2 100 
+ 131 
+ 0 
+ 2 189 
+ 2 944 
+ Acondicionadores de aire de conducto doble 
+ Refrigeración: H CE 
+ Calefacción: H HE 
+ H TO 
+ H SB 
+ H OFF 
+ H CK 
+ Modo de refrigeración, si el aparato ofrece solo refrigeración 
+ h/60 min 
+ 1 
+ n.d. 
+ n.d. 
+ n.d. 
+ n.d. 
+ Modos de refrigeración y calefacción, si el aparato ofrece ambos 
+ Modo de refrigeración 
+ h/60 min 
+ 1 
+ n.d. 
+ n.d. 
+ n.d. 
+ n.d. 
+ Modo de calefacción 
+ h/60 min 
+ 1 
+ n.d. 
+ n.d. 
+ n.d. 
+ n.d. 
+ Modo de calefacción, si el aparato ofrece solo calefacción 
+ h/60 min 
+ 1 
+ n.d. 
+ n.d. 
+ n.d. 
+ n.d. 
+ Acondicionadores de aire de conducto único 
+ Refrigeración: H CE 
+ Calefacción: H HE 
+ Modo de refrigeración 
+ h/60 min 
+ 1 
+ n.d. 
+ n.d. 
+ n.d. 
+ n.d. 
+ Modo de calefacción 
+ h/60 min 
+ 1 
+ n.d. 
+ n.d. 
+ n.d. 
+ n.d. 
+ ( *1 )   En el caso de los acondicionadores de aire de conducto único, el condensador (evaporador), cuando refrigera (calienta), no se abastece de aire exterior, sino de aire interior. 
+ ANEXO VIII 
+ Procedimiento de verificación a los efectos de la vigilancia del mercado 
+ Cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE, las autoridades de los Estados miembros aplicarán el siguiente procedimiento de verificación en relación con los requisitos establecidos en el anexo II. 
+ 1. 
+ Las autoridades de los Estados miembros someterán a ensayo una sola unidad. 
+ 2. 
+ Se considerará que el modelo de acondicionador de aire, excepto en el caso de los acondicionadores de aire de conducto único y de conducto doble, cumple las disposiciones del anexo I, según proceda, del presente Reglamento, si su factor de eficiencia energética estacional (SEER) o, cuando proceda, su coeficiente de rendimiento estacional (SCOP) no son inferiores al valor declarado menos el 8 %. Los valores de SEER y SCOP se establecerán de conformidad con el anexo II. 
+ Se considerará que el modelo de acondicionador de aire de conducto único y el de conducto doble cumplen las disposiciones del anexo I, según proceda, del presente Reglamento, si los resultados correspondientes a los estados de modo desactivado y modo de espera no exceden de los valores límite en más de un 10 %, y si el factor de eficiencia energética (EER rated ) o, cuando proceda, el coeficiente de rendimiento (COP rated ) no son inferiores al valor declarado menos el 10 %. Los valores de EER y COP se establecerán de conformidad con el anexo II. 
+ Se considerará que el modelo de acondicionador de aire cumple las disposiciones del presente Reglamento, según proceda, si el nivel máximo de potencia acústica no excede en más de 2 dB(A) del valor declarado. 
+ 3. 
+ Si no se obtuviera el resultado contemplado en el punto 2, la autoridad encargada de la vigilancia del mercado seleccionará aleatoriamente otras tres unidades del mismo modelo para realizar ensayos. 
+ 4. 
+ Se considerará que el modelo de acondicionador de aire, excepto en el caso de los acondicionadores de aire de conducto único y de conducto doble, cumple las disposiciones del anexo I, según proceda, del presente Reglamento, si el promedio del factor de eficiencia energética estacional (SEER) o, cuando proceda, del coeficiente de rendimiento estacional (SCOP) de las tres unidades no es inferior al valor declarado menos el 8 %. Los valores de SEER y de SCOP se establecerán de conformidad con el anexo II. 
+ Se onsiderará que el modelo de acondicionador de aire de conducto único y el de conducto doble cumple las disposiciones del anexo I, según proceda, del presente Reglamento, si el promedio de los resultados correspondientes a los estados de modo desactivado y modo de espera de las tres unidades no excede de los valores límite en más de un 10 %, y si el promedio del factor de eficiencia energética (EER rated ) o del coeficiente de rendimiento (COP rated ) no es inferior al valor declarado menos el 10 %. Los valores de EER y COP se establecerán de conformidad con el anexo II. 
+ Se considerará que el modelo de acondicionador de aire cumple las disposiciones del presente Reglamento, según proceda, si el promedio de los resultados del nivel de potencia acústica de las tres unidades no excede en más de 2 dB(A) del valor declarado. 
+ 5. 
+ Si no se alcanzan los resultados contemplados en el punto 4, se considerará que el modelo no es conforme al presente Reglamento. 
+ Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, los Estados miembros aplicarán los procedimientos contemplados en el anexo II y normas armonizadas cuyos números de referencia hayan sido publicados en el Diario Oficial de la Unión Europea , u otros métodos de cálculo y medición fiables, exactos y reproducibles, que tengan en cuenta los métodos más avanzados generalmente aceptados. 
+ 

@@ -1,0 +1,93 @@
+title: Cuánto consume un ordenador: portátil, sobremesa y para juegos
+title_seo: Cuánto consume un ordenador al mes y al año
+excerpt: Cuánto consume un ordenador: un portátil de 60 W cuesta unos 0,01 € la hora y uno para juegos de 400 W, 0,05 €. Tablas por horas y límites legales.
+category: consumo
+keyword: cuánto consume un ordenador
+---
+¿Cuánto consume un ordenador? Depende mucho del tipo: un portátil de 60 W gasta unos 0,042 kWh por hora, poco más de un céntimo, mientras que un ordenador para juegos de 400 W gasta unos 0,28 kWh, 0,05 € cada hora. Con un uso normal, el portátil cuesta unos 11 € al año y el de juegos, unos 67 €.
+
+Hemos pasado la energía a euros con un precio de <strong>0,165 €/kWh con impuestos</strong>. Si tu factura dice otra cifra, el coste del ordenador se mueve en la misma proporción.
+
+## Cuánto consume un ordenador según el tipo {#tipos}
+
+La potencia que pone en el cargador o en la fuente de alimentación es la máxima que puede dar, no lo que gasta siempre. Un ordenador navegando o escribiendo usa bastante menos que jugando o editando vídeo. Para tenerlo en cuenta, nuestra calculadora de consumo aplica un factor de uso real de 0,7, y estos son los resultados:
+
+{{T:ordenador_tipos}}
+
+Si lo usas todos los días, así cambia el gasto al mes según las horas:
+
+{{T:ordenador_horas}}
+
+Un portátil encendido ocho horas al día para teletrabajar cuesta menos de 2 € al mes. Un equipo de juegos con el mismo horario pasa de 11 €. La diferencia no está en la marca, sino en el procesador, la tarjeta gráfica y lo que les pidas.
+
+{{CAJA:Dato clave}}
+El monitor se suma aparte. Un ordenador de sobremesa no funciona sin pantalla, así que a su consumo hay que añadir el del monitor, que viene en su etiqueta. En el portátil, la pantalla ya está incluida en lo que gasta.
+{{/CAJA}}
+
+## Lo que la ley permite gastar a un ordenador {#limites}
+
+El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0617" target="_blank" rel="noopener">Reglamento (UE) 617/2013 de diseño ecológico</a> fija un consumo anual máximo para los ordenadores que se venden. Ese consumo se calcula a partir de lo que gasta el equipo apagado, en suspensión y encendido sin hacer nada, con un reparto de horas fijo. Desde el 1 de enero de 2016, los más sencillos, los de categoría A, no pueden pasar de:
+
+{{T:ordenador_limites}}
+
+Los equipos con más prestaciones, por ejemplo con tarjeta gráfica independiente o más núcleos, entran en otras categorías con límites más altos. Y ojo: esta cifra no incluye las horas en las que el ordenador trabaja de verdad. Sirve para saber que un equipo nuevo no gasta casi nada mientras espera, pero no para calcular tu factura si juegas o editas vídeo.
+
+## Cuánto gasta el monitor {#monitor}
+
+Los monitores tienen su propia etiqueta energética, la misma que las televisiones, del <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2013" target="_blank" rel="noopener">Reglamento Delegado (UE) 2019/2013</a>. Se aplica desde el 1 de marzo de 2021, tiene clases de la A a la G y muestra el consumo en kWh por cada 1.000 horas de uso. Pasarlo a euros es fácil:
+
+{{T:monitor_etiqueta}}
+
+Un monitor de 30 kWh/1.000 h usado seis horas al día cuesta unos 11 € al año. El brillo influye mucho: bajarlo a lo que de verdad necesitas reduce el consumo de la pantalla.
+
+## Apagar, suspender o dejarlo encendido {#apagar}
+
+- <strong>Encendido sin usarlo</strong>, el ordenador sigue gastando: el procesador, la pantalla y los ventiladores continúan funcionando aunque no hagas nada.
+- <strong>En suspensión</strong>, gasta muy poco y vuelve en segundos. Es la mejor opción para pausas de más de unos minutos.
+- <strong>Apagado pero enchufado</strong>, sigue gastando algo: la fuente de alimentación, el cargador o las luces de los periféricos. Es el consumo en espera que explicamos en <a href="https://tuluzencasa.com/consumo-fantasma/">consumo fantasma</a>.
+
+Si el ordenador, el monitor, los altavoces y la impresora están en la misma regleta con interruptor, al apagarla cortas el consumo de todos a la vez.
+
+## Cómo saber cuánto gasta tu ordenador {#medir}
+
+Lo más fiable es medirlo con un enchufe medidor de consumo:
+
+- Conecta la regleta del ordenador, con el monitor y todo lo que uses con él, al medidor.
+- Trabaja o juega como siempre durante unos días.
+- Divide los kWh acumulados entre los días: tendrás tu consumo diario, que puedes multiplicar por el precio de tu factura.
+
+Si tienes contador digital, también puedes ver tu consumo por horas en el área de clientes de tu distribuidora. Te contamos dónde mirar en <a href="https://tuluzencasa.com/como-leer-factura-luz/">cómo leer la factura de la luz</a>.
+
+## Trucos para que el ordenador gaste menos {#trucos}
+
+- <strong>Activa la suspensión automática</strong> tras unos minutos sin uso y apaga la pantalla antes.
+- <strong>Usa el modo de ahorro de energía</strong> del sistema cuando no necesites toda la potencia.
+- <strong>Baja el brillo</strong> del monitor.
+- <strong>Apaga la regleta</strong> por la noche para que no se quede nada en espera.
+- <strong>Para tareas sencillas, usa el portátil</strong> en lugar del equipo de juegos: gasta varias veces menos.
+- <strong>Si tienes tarifa por horas</strong>, deja las descargas largas, las copias de seguridad o las actualizaciones para la noche o el fin de semana. Tienes las franjas en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Y si dejo el ordenador encendido las 24 horas?
+
+Depende del equipo. Con el factor de uso de 0,7, un portátil de 60 W gasta unos 1,01 kWh en 24 horas, unos 0,17 €, y uno de juegos de 400 W, unos 6,72 kWh, 1,11 €. Si no lo estás usando, la suspensión baja mucho ese gasto.
+
+### ¿Gasta más un portátil o un ordenador de sobremesa?
+
+Normalmente el sobremesa, porque tiene componentes más potentes y necesita monitor aparte. Los límites legales lo reflejan: 94 kWh al año para un sobremesa básico frente a 27 para un portátil básico.
+
+### ¿Es malo dejar el portátil siempre enchufado?
+
+En consumo apenas se nota: con la batería llena, el cargador gasta muy poco. Lo que sí suma es dejar el cargador enchufado a la pared sin el portátil.
+
+### ¿La potencia del cargador es lo que gasta el portátil?
+
+No. Es la potencia máxima que puede dar. El portátil solo la usa cuando está cargando la batería y trabajando a fondo a la vez.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0617" target="_blank" rel="noopener">Reglamento (UE) 617/2013 de la Comisión</a> (DO L 175, de 27 de junio de 2013), diseño ecológico de ordenadores: anexo II, consumo anual máximo por categoría desde el 1 de enero de 2016.
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2013" target="_blank" rel="noopener">Reglamento Delegado (UE) 2019/2013 de la Comisión</a>, etiquetado energético de pantallas electrónicas: consumo en kWh/1.000 h y aplicación desde el 1 de marzo de 2021.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: añade tu portátil u ordenador de juegos, la televisión y el resto de aparatos, y mira qué parte de la factura se llevan.

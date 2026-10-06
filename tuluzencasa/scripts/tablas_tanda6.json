@@ -1,0 +1,475 @@
+{
+ "placa_potencias": {
+  "headers": [
+   "Fuego encendido 1 hora al día",
+   "Energía por hora",
+   "Coste por hora",
+   "Coste al mes",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Vitrocerámica, fuego de 1.200 W",
+    "0,90 kWh",
+    "0,15 €",
+    "4,51 €",
+    "54,17 €"
+   ],
+   [
+    "Inducción, fuego de 1.200 W",
+    "0,84 kWh",
+    "0,14 €",
+    "4,21 €",
+    "50,56 €"
+   ],
+   [
+    "Vitrocerámica, fuego de 1.800 W",
+    "1,35 kWh",
+    "0,22 €",
+    "6,77 €",
+    "81,26 €"
+   ],
+   [
+    "Inducción, fuego de 1.800 W",
+    "1,26 kWh",
+    "0,21 €",
+    "6,32 €",
+    "75,84 €"
+   ],
+   [
+    "Vitrocerámica, fuego de 2.300 W",
+    "1,73 kWh",
+    "0,28 €",
+    "8,65 €",
+    "103,83 €"
+   ],
+   [
+    "Inducción, fuego de 2.300 W",
+    "1,61 kWh",
+    "0,27 €",
+    "8,08 €",
+    "96,91 €"
+   ]
+  ]
+ },
+ "placa_ahorro": {
+  "headers": [
+   "Uso de la placa (fuego de 1.800 W)",
+   "Vitrocerámica al año",
+   "Inducción al año (25 % menos)",
+   "Ahorro al año"
+  ],
+  "rows": [
+   [
+    "0,5 h al día",
+    "40,63 €",
+    "30,47 €",
+    "10,16 €"
+   ],
+   [
+    "1,0 h al día",
+    "81,26 €",
+    "60,94 €",
+    "20,31 €"
+   ],
+   [
+    "1,5 h al día",
+    "121,89 €",
+    "91,42 €",
+    "30,47 €"
+   ],
+   [
+    "2,0 h al día",
+    "162,52 €",
+    "121,89 €",
+    "40,63 €"
+   ]
+  ]
+ },
+ "placa_tramos": {
+  "headers": [
+   "Cocinar",
+   "En punta",
+   "En llano",
+   "En valle (fin de semana)"
+  ],
+  "rows": [
+   [
+    "Vitrocerámica: 1 hora de fuego de 1.800 W",
+    "0,33 €",
+    "0,21 €",
+    "0,14 €"
+   ],
+   [
+    "Inducción: lo mismo cocinado, con un 25 % menos de energía",
+    "0,24 €",
+    "0,15 €",
+    "0,10 €"
+   ]
+  ]
+ },
+ "ordenador_tipos": {
+  "headers": [
+   "Equipo",
+   "Energía por hora",
+   "Coste por hora",
+   "Coste al mes",
+   "Coste al año",
+   "Uso supuesto"
+  ],
+  "rows": [
+   [
+    "Portátil de 60 W",
+    "0,042 kWh",
+    "0,01 €",
+    "0,90 €",
+    "10,84 €",
+    "6 h al día, 5 días a la semana"
+   ],
+   [
+    "Ordenador para juegos de 400 W",
+    "0,28 kWh",
+    "0,05 €",
+    "5,62 €",
+    "67,45 €",
+    "4 h al día, todos los días"
+   ]
+  ]
+ },
+ "ordenador_horas": {
+  "headers": [
+   "Uso todos los días",
+   "Portátil de 60 W al mes",
+   "Ordenador para juegos de 400 W al mes"
+  ],
+  "rows": [
+   [
+    "2 h al día",
+    "0,42 €",
+    "2,81 €"
+   ],
+   [
+    "4 h al día",
+    "0,84 €",
+    "5,62 €"
+   ],
+   [
+    "8 h al día",
+    "1,69 €",
+    "11,24 €"
+   ]
+  ]
+ },
+ "ordenador_limites": {
+  "headers": [
+   "Ordenador básico (categoría A)",
+   "Máximo al año desde 2016",
+   "Coste al año en ese máximo"
+  ],
+  "rows": [
+   [
+    "Sobremesa",
+    "94 kWh",
+    "15,51 €"
+   ],
+   [
+    "Portátil",
+    "27 kWh",
+    "4,46 €"
+   ]
+  ]
+ },
+ "monitor_etiqueta": {
+  "headers": [
+   "Lo que pone la etiqueta del monitor",
+   "Coste de 1.000 horas",
+   "Coste al año (6 h al día)"
+  ],
+  "rows": [
+   [
+    "20 kWh/1 000 h",
+    "3,30 €",
+    "7,22 €"
+   ],
+   [
+    "30 kWh/1 000 h",
+    "4,95 €",
+    "10,83 €"
+   ],
+   [
+    "50 kWh/1 000 h",
+    "8,25 €",
+    "18,06 €"
+   ],
+   [
+    "80 kWh/1 000 h",
+    "13,20 €",
+    "28,89 €"
+   ]
+  ]
+ },
+ "led_bombilla": {
+  "headers": [
+   "Bombilla",
+   "Uso",
+   "Energía al año",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Bombilla LED de 9 W",
+    "1 h al día",
+    "3,3 kWh",
+    "0,54 €"
+   ],
+   [
+    "Bombilla LED de 9 W",
+    "3 h al día",
+    "9,8 kWh",
+    "1,63 €"
+   ],
+   [
+    "Bombilla LED de 9 W",
+    "5 h al día",
+    "16,4 kWh",
+    "2,71 €"
+   ],
+   [
+    "Bombilla halógena de 50 W",
+    "1 h al día",
+    "18,2 kWh",
+    "3,01 €"
+   ],
+   [
+    "Bombilla halógena de 50 W",
+    "3 h al día",
+    "54,7 kWh",
+    "9,03 €"
+   ],
+   [
+    "Bombilla halógena de 50 W",
+    "5 h al día",
+    "91,2 kWh",
+    "15,05 €"
+   ]
+  ]
+ },
+ "led_casa": {
+  "headers": [
+   "Casa con 10 puntos de luz, 5 h al día",
+   "Energía al día",
+   "Coste al mes",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "10 bombillas LED (90 W)",
+    "0,45 kWh",
+    "2,26 €",
+    "27,09 €"
+   ],
+   [
+    "10 bombillas halógenas (500 W)",
+    "2,50 kWh",
+    "12,54 €",
+    "150,48 €"
+   ],
+   [
+    "Diferencia",
+    "2,05 kWh",
+    "10,28 €",
+    "123,39 €"
+   ]
+  ]
+ },
+ "led_clases": {
+  "headers": [
+   "Clase",
+   "Eficacia (lúmenes por vatio)"
+  ],
+  "rows": [
+   [
+    "A",
+    "210 o más"
+   ],
+   [
+    "B",
+    "De 185 a menos de 210"
+   ],
+   [
+    "C",
+    "De 160 a menos de 185"
+   ],
+   [
+    "D",
+    "De 135 a menos de 160"
+   ],
+   [
+    "E",
+    "De 110 a menos de 135"
+   ],
+   [
+    "F",
+    "De 85 a menos de 110"
+   ],
+   [
+    "G",
+    "Menos de 85"
+   ]
+  ]
+ },
+ "led_etiqueta": {
+  "headers": [
+   "Lo que pone la etiqueta",
+   "Coste de 1.000 horas",
+   "Coste al año (3 h al día)"
+  ],
+  "rows": [
+   [
+    "5 kWh/1 000 h",
+    "0,83 €",
+    "0,90 €"
+   ],
+   [
+    "9 kWh/1 000 h",
+    "1,49 €",
+    "1,63 €"
+   ],
+   [
+    "12 kWh/1 000 h",
+    "1,98 €",
+    "2,17 €"
+   ],
+   [
+    "50 kWh/1 000 h",
+    "8,25 €",
+    "9,03 €"
+   ]
+  ]
+ },
+ "vent_ac": {
+  "headers": [
+   "Aparato",
+   "Energía por hora",
+   "Por hora",
+   "Por día (8 h)",
+   "Por mes",
+   "Verano (3 meses)"
+  ],
+  "rows": [
+   [
+    "Ventilador de 50 W",
+    "0,05 kWh",
+    "0,01 €",
+    "0,07 €",
+    "2,01 €",
+    "6,02 €"
+   ],
+   [
+    "Aire acondicionado de 3.000 frigorías (1.000 W)",
+    "0,60 kWh",
+    "0,10 €",
+    "0,79 €",
+    "24,08 €",
+    "72,23 €"
+   ]
+  ]
+ },
+ "vent_potencias": {
+  "headers": [
+   "Ventilador",
+   "Por día (8 h)",
+   "Por mes",
+   "Verano (3 meses)"
+  ],
+  "rows": [
+   [
+    "30 W",
+    "0,04 €",
+    "1,20 €",
+    "3,61 €"
+   ],
+   [
+    "50 W",
+    "0,07 €",
+    "2,01 €",
+    "6,02 €"
+   ],
+   [
+    "75 W",
+    "0,10 €",
+    "3,01 €",
+    "9,03 €"
+   ],
+   [
+    "100 W",
+    "0,13 €",
+    "4,01 €",
+    "12,04 €"
+   ]
+  ]
+ },
+ "vent_combinar": {
+  "headers": [
+   "Cada día de verano",
+   "Coste al mes",
+   "Coste del verano"
+  ],
+  "rows": [
+   [
+    "8 h de ventilador y 0 h de aire",
+    "2,01 €",
+    "6,02 €"
+   ],
+   [
+    "6 h de ventilador y 2 h de aire",
+    "7,52 €",
+    "22,57 €"
+   ],
+   [
+    "4 h de ventilador y 4 h de aire",
+    "13,04 €",
+    "39,12 €"
+   ],
+   [
+    "0 h de ventilador y 8 h de aire",
+    "24,08 €",
+    "72,23 €"
+   ]
+  ]
+ },
+ "ac_etiqueta": {
+  "headers": [
+   "Lo que pone la etiqueta del aire",
+   "Energía por hora de uso equivalente",
+   "Coste por hora",
+   "Coste de las 350 horas de la etiqueta"
+  ],
+  "rows": [
+   [
+    "150 kWh/año",
+    "0,43 kWh",
+    "0,07 €",
+    "24,75 €"
+   ],
+   [
+    "200 kWh/año",
+    "0,57 kWh",
+    "0,09 €",
+    "33,00 €"
+   ],
+   [
+    "300 kWh/año",
+    "0,86 kWh",
+    "0,14 €",
+    "49,50 €"
+   ],
+   [
+    "400 kWh/año",
+    "1,14 kWh",
+    "0,19 €",
+    "66,00 €"
+   ]
+  ]
+ }
+}

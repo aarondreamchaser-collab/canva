@@ -1,0 +1,1340 @@
+ 
+ L_2012072ES.01000701.xml 
+ 10.3.2012    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 72/7 
+ REGLAMENTO (UE) N
+ o 206/2012 DE LA COMISIÓN
+ de 6 de marzo de 2012
+ por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo respecto de los requisitos de diseño ecológico aplicables a los acondicionadores de aire y a los ventiladores 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Vista la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía  ( 1 ) , y, en particular, su artículo 15, apartado 1, 
+ Previa consulta con el Foro consultivo sobre diseño ecológico, 
+ Considerando lo siguiente: 
+ (1) 
+ De conformidad con la Directiva 2009/125/CE, la Comisión debe establecer requisitos de diseño ecológico para los productos relacionados con la energía que representan un volumen significativo de ventas y comercio, que tienen un importante impacto medioambiental y que presentan posibilidades significativas de mejora por lo que se refiere al impacto medioambiental sin que ello suponga costes excesivos. 
+ (2) 
+ En el artículo 16, apartado 2, letra a), de la Directiva 2009/125/CE se establece que, de conformidad con el procedimiento del artículo 19, apartado 3, según los criterios establecidos en el artículo 15, apartado 2, y previa consulta al Foro consultivo sobre diseño ecológico, la Comisión debe introducir medidas de ejecución que ofrezcan un elevado potencial de reducción rentable de emisiones de gases de efecto invernadero, como las relacionadas con los productos de los sistemas de calefacción, ventilación y aire acondicionado, según proceda. 
+ (3) 
+ La Comisión ha llevado a cabo un estudio preparatorio para analizar los aspectos técnicos, medioambientales y económicos de los acondicionadores de aire y los ventiladores que suelen utilizarse en los hogares y en los pequeños establecimientos comerciales. El estudio, cuyos resultados son de dominio público, se ha realizado conjuntamente con las partes afectadas e interesadas de la UE y terceros países. 
+ (4) 
+ Los principales aspectos medioambientales de los productos contemplados que se consideran significativos a los efectos del presente Reglamento son el consumo de energía en la fase de uso y el nivel de potencia acústica. En el estudio preparatorio se señalaron también las posibles fugas de refrigerante como un aspecto medioambiental significativo en forma de emisiones directas de gases de efecto invernadero, que representaban en promedio entre el 10 % y el 20 % del total de las emisiones directas e indirectas de gases de efecto invernadero. 
+ (5) 
+ Como se observó en el estudio preparatorio y se confirmó durante la evaluación de impacto, no hay suficiente información sobre la eficiencia de los ventiladores. No obstante, para proporcionar información importante a las autoridades de vigilancia de los mercados y hacer posible un seguimiento eficiente de los mercados con el fin de establecer unas condiciones mínimas de eficiencia energética en el futuro, los requisitos de información sobre el producto aplicables a los ventiladores han de asegurar que los datos sobre la eficiencia del aparato y el método de medición utilizado estén bien visibles en el producto. Además, se establecen requisitos relativos a los modos de espera y desactivado para los ventiladores. 
+ (6) 
+ Se calculó que el consumo anual de electricidad de los productos sujetos al presente Reglamento había sido de 30 TWh en la UE en 2005. De no adoptarse medidas específicas, se prevé que el consumo anual de electricidad sea de 74 TWh para 2020. El estudio preparatorio ha mostrado que el consumo de electricidad de los productos a los que se aplica el presente Reglamento puede reducirse significativamente. 
+ (7) 
+ Asimismo, el estudio preparatorio muestra que los requisitos relativos a otros parámetros de diseño ecológico mencionados en el anexo I, parte 1, de la Directiva 2009/125/CE no son necesarios, ya que el consumo de electricidad y el nivel de potencia acústica de los acondicionadores de aire en la fase de uso son los aspectos medioambientales más significativos. 
+ (8) 
+ Puesto que los refrigerantes están sujetos a lo dispuesto en el Reglamento (CE) n o 842/2006/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, sobre determinados gases fluorados de efecto invernadero  ( 2 ) , en el presente Reglamento no se establecen requisitos específicos al respecto. Sin embargo, como parte de los requisitos de diseño ecológico, se propone una bonificación para orientar el mercado hacia la utilización de refrigerantes con un impacto ambiental perjudicial reducido. La bonificación tiene el objetivo de rebajar los requisitos mínimos de eficiencia energética para los aparatos que utilicen refrigerantes con un potencial de calentamiento global (GWP) reducido. 
+ (9) 
+ Los acondicionadores de aire pueden formar parte de sistemas instalados en los edificios. La legislación nacional basada, entre otras disposiciones, en la Directiva 2010/31/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la eficiencia energética de los edificios  ( 3 ) puede establecer nuevos requisitos, más estrictos, para esos sistemas de aire acondicionado, utilizando los métodos de cálculo y medición definidos en el presente Reglamento por lo que respecta a la eficiencia del acondicionador de aire. 
+ (10) 
+ Una parte importante del consumo energético total de estos aparatos puede deberse a las funciones de modo de espera (o preparado) y modo desactivado. En el caso de los acondicionadores de aire, excepto los de conducto doble y los de conducto único, el consumo de energía de estas funciones está incluido en los requisitos mínimos de eficiencia energética y en el método de medición de la eficiencia estacional. Los requisitos relativos al modo de espera y al modo desactivado para los acondicionadores de aire de conducto doble y de conducto único están basados en los requisitos de diseño ecológico del Reglamento (CE) n o 1275/2008 de la Comisión  ( 4 ) . 
+ (11) 
+ Según las previsiones, el efecto combinado de los requisitos de diseño ecológico expuestos en el presente Reglamento y en el Reglamento Delegado (UE) n o 626/2010 de la Comisión, de 4 de mayo de 2011, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo que respecta al etiquetado energético de los acondicionadores de aire  ( 5 ) , generará un ahorro anual de electricidad de 11 TWh para 2020, en comparación con la situación que se produciría en caso de no tomarse medidas. 
+ (12) 
+ Los productos sujetos al presente Reglamento deben hacerse más eficientes desde el punto de vista energético mediante la aplicación de las soluciones tecnológicas rentables y de dominio público existentes, que pueden recortar los costes combinados de su adquisición y funcionamiento. 
+ (13) 
+ Los requisitos de diseño ecológico no deben afectar a la funcionalidad desde la perspectiva del usuario final ni perjudicar a la salud, la seguridad o el medio ambiente. En particular, los beneficios obtenidos al reducir el consumo eléctrico durante la fase de uso deberían compensar con creces el posible impacto ambiental adicional durante la fase de producción. 
+ (14) 
+ Los requisitos de diseño ecológico deben introducirse gradualmente a fin de que los fabricantes dispongan de tiempo suficiente para volver a diseñar los productos contemplados en el presente Reglamento. El calendario debe fijarse de manera que se eviten efectos negativos en las funcionalidades de los equipos que están en el mercado y se tomen en consideración las repercusiones en términos de costes para los usuarios finales y los fabricantes, en particular las pequeñas y medianas empresas, todo ello sin perjuicio de la consecución de los objetivos del presente Reglamento en los plazos previstos. 
+ (15) 
+ Las mediciones de los parámetros pertinentes de los productos deben llevarse a cabo mediante métodos de medición fiables, exactos y reproducibles, que tengan en cuenta los métodos de medición más avanzados reconocidos, incluyendo, en su caso, las normas armonizadas adoptadas por los organismos europeos de normalización enumerados en el anexo I de la Directiva 98/48/CE del Parlamento Europeo y del Consejo, de 20 de julio de 1998, que modifica la Directiva 98/34/CE por la que se establece un procedimiento de información en materia de las normas y reglamentaciones técnicas  ( 6 ) . 
+ (16) 
+ De conformidad con el artículo 8 de la Directiva 2009/125/CE, en el presente Reglamento se especifican los procedimientos de evaluación de la conformidad aplicables. 
+ (17) 
+ A fin de facilitar el control de la conformidad, los fabricantes deben aportar información en la documentación técnica a que se refieren los anexos IV y V de la Directiva 2009/125/CE, en la medida en que dicha información guarde relación con los requisitos establecidos en el presente Reglamento. 
+ (18) 
+ Además de los requisitos jurídicamente vinculantes establecidos en el presente Reglamento, deben señalarse parámetros de referencia indicativos de las mejores tecnologías disponibles para garantizar una amplia disponibilidad de la información sobre el comportamiento medioambiental durante el ciclo de vida de los productos regulados por el presente Reglamento y un fácil acceso a ella. 
+ (19) 
+ Las medidas establecidas en el presente Reglamento se ajustan al dictamen del Comité creado en virtud del artículo 19, apartado 1, de la Directiva 2009/125/CE. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   En el presente Reglamento se establecen los requisitos de diseño ecológico aplicables a la introducción en el mercado de acondicionadores de aire conectados a la red eléctrica con una potencia nominal ≤ 12 kW para refrigeración, o calefacción si el producto no tiene función de refrigeración, y los ventiladores que utilicen una potencia eléctrica ≤ 125 W. 
+ 2.   El presente Reglamento no se aplicará: 
+ a) 
+ a los aparatos que utilicen fuentes de energía no eléctricas; 
+ b) 
+ a los acondicionadores de aire en los que el condensador o el evaporador, o ambos, no utilicen aire como medio para la transferencia de calor. 
+ Artículo 2 
+ Definiciones 
+ A los efectos del presente Reglamento, se aplicarán las definiciones que figuran en el artículo 2 de la Directiva 2009/125/CE. 
+ Asimismo, se entenderá por: 
+ 1)    «acondicionador de aire» : aparato capaz de refrigerar o de calentar, o ambas cosas, aire en espacios interiores, utilizando un ciclo de compresión de vapor accionado por un compresor eléctrico, incluidos los acondicionadores de aire que ejerzan además otras funciones, como las de deshumidificación, purificación del aire, ventilación o calentamiento complementario del aire mediante resistencia eléctrica, así como los aparatos que puedan utilizar agua (bien el agua condensada que se forma en el evaporador, bien agua añadida desde el exterior) para evaporación en el condensador, siempre que el aparato pueda funcionar también sin utilizar agua adicional, sino tan solo con aire; 
+ 2)    «acondicionador de aire de conducto doble» : acondicionador de aire en el que, durante la refrigeración o la calefacción, el aire se introduce en el condensador (o el evaporador) desde el exterior a la unidad a través de un conducto y se expulsa al exterior a través de un segundo conducto, y que está colocado íntegramente dentro del espacio que se va a acondicionar, junto a una pared; 
+ 3)    «acondicionador de aire de conducto único» : acondicionador de aire en el que, durante la refrigeración o la calefacción, el aire se introduce en el condensador (o en el evaporador) desde el espacio que contiene la unidad y se descarga en él; 
+ 4)    «potencia nominal» (P rated ) : la capacidad de refrigeración o de calefacción del ciclo de compresión de vapor de la unidad en condiciones estándar; 
+ 5)    «ventilador» : aparato diseñado principalmente para crear movimiento de aire alrededor de un cuerpo humano o una parte de él, a fin de proporcionarle refrigeración personal, incluidos los ventiladores que pueden llevar a cabo funciones adicionales, como la de iluminar; 
+ 6)    «potencia utilizada por el ventilador» (P F ) : potencia eléctrica de entrada en vatios de un ventilador en funcionamiento al nivel de caudal máximo del ventilador declarado, medido con el mecanismo oscilante activo (cuando proceda). 
+ Por lo que respecta a los anexos, en el anexo I figuran definiciones adicionales. 
+ Artículo 3 
+ Requisitos de diseño ecológico y calendario 
+ 1.   Los requisitos de diseño ecológico para acondicionadores de aire y ventiladores figuran en el anexo I. 
+ 2.   Cada requisito de diseño ecológico se aplicará de conformidad con el siguiente calendario: 
+ A partir del 1 de enero de 2013: 
+ los acondicionadores de aire de conducto único y de conducto doble se ajustarán a los requisitos indicados en el anexo I, punto 2a. 
+ A partir del 1 de enero de 2013: 
+ a) 
+ los acondicionadores de aire, excepto los de conducto único y los de conducto doble, se ajustarán a los requisitos indicados en el anexo I, punto 2b y puntos 3a, 3b y 3c; 
+ b) 
+ los de conducto único y los de conducto doble se ajustarán a los requisitos indicados en el anexo I, puntos 3a, 3b y 3d; 
+ c) 
+ los ventiladores se ajustarán a los requisitos indicados en el anexo I, puntos 3a, 3b y 3e. 
+ A partir del 1 de enero de 2014: 
+ a) 
+ los acondicionadores de aire se ajustarán a los requisitos de diseño ecológico indicados en el anexo I, punto 2c; 
+ b) 
+ los acondicionadores de aire de conducto único y los de conducto doble se ajustarán a los requisitos indicados en el anexo I, punto 2d. 
+ 3.   El cumplimiento de los requisitos de diseño ecológico se medirá y calculará de conformidad con los requisitos expuestos en el anexo II. 
+ Artículo 4 
+ Evaluación de la conformidad 
+ 1.   El procedimiento de evaluación de la conformidad mencionado en el artículo 8 de la Directiva 2009/125/CE será el sistema de control interno del diseño que figura en el anexo IV de la citada Directiva o el sistema de gestión descrito en su anexo V. 
+ 2.   A efectos de la evaluación de la conformidad, según lo dispuesto en el artículo 8 de la Directiva 2009/125/CE, el registro de la documentación técnica deberá contener una copia de los resultados del cálculo establecido en el anexo II del presente Reglamento. 
+ Artículo 5 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Los Estados miembros aplicarán el procedimiento de verificación que se describe en el anexo III del presente Reglamento cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE a fin de supervisar el cumplimiento de los requisitos expuestos en el anexo I del presente Reglamento. 
+ Artículo 6 
+ Parámetros de referencia 
+ Los parámetros de referencia indicativos para los acondicionadores de aire de mejores prestaciones disponibles en el mercado en el momento de adoptar el presente Reglamento figuran en el anexo IV. 
+ Artículo 7 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso técnico y presentará el resultado de dicha revisión al Foro consultivo sobre diseño ecológico, como muy tarde cinco años después de la entrada en vigor del Reglamento. En concreto, en la revisión se evaluarán los requisitos de eficiencia y de nivel de potencia acústica, el planteamiento para promover la utilización de refrigerantes con un potencial de calentamiento global (GWP) reducido y el ámbito de aplicación del Reglamento en relación con los acondicionadores de aire y los posibles cambios en la cuota de mercado de los diferentes tipos de aparatos, incluidos los acondicionadores de aire de más de 12 kW de potencia nominal de salida. En la revisión se evaluará también si los requisitos relativos al modo de espera y el modo desactivado y el método de cálculo y medición estacional son apropiados, incluidas las consideraciones sobre el desarrollo de un posible método de cálculo y medición estacional para todos los acondicionadores de aire que puedan funcionar en las temporadas de refrigeración y de calefacción. 
+ Artículo 8 
+ Entrada en vigor y aplicación 
+ 1.   El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea . 
+ 2.   Será aplicable a partir del 1 de enero de 2013. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 6 de marzo de 2012. 
+ Por la Comisión 
+ El Presidente 
+ José Manuel BARROSO
+ ( 1 )   
+ DO L 285 de 31.10.2009, p. 10 . 
+ ( 2 )   
+ DO L 161 de 14.6.2006, p. 1 . 
+ ( 3 )   
+ DO L 153 de 18.6.2010, p. 1 . 
+ ( 4 )   
+ DO L 339 de 18.12.2008, p. 45 . 
+ ( 5 )   
+ DO L 178 de 6.7.2011, p. 1 . 
+ ( 6 )   
+ DO L 217 de 5.8.1998, p. 18 . 
+ ANEXO I 
+ Requisitos de diseño ecológico 
+ 1.   DEFINICIONES APLICABLES A EFECTOS DE LOS ANEXOS 
+ 1.    «Acondicionador de aire reversible» : acondicionador de aire capaz tanto de refrigerar como de calentar. 
+ 2.    «Condiciones estándar» : la combinación de temperaturas en el interior (Tin) y en el exterior (Tj) que determina las condiciones de funcionamiento al mismo tiempo que establece el nivel de potencia acústica, la potencia nominal, el caudal de aire nominal, el factor de eficiencia energética nominal (EER rated ) y/o el coeficiente de rendimiento nominal (COP rated ), de acuerdo con lo expuesto en el anexo II, cuadro 2. 
+ 3.    «Temperatura interior» (Tin) : temperatura del aire interior con el termómetro seco [°C] (indicándose la humedad relativa mediante la temperatura correspondiente con el termómetro húmedo). 
+ 4.    «Temperatura exterior» (Tj) : temperatura del aire exterior con el termómetro seco [°C] (indicándose la humedad relativa mediante la temperatura correspondiente con el termómetro húmedo). 
+ 5.    «Factor de eficiencia energética nominal» (EER 
+ rated 
+ ) : la potencia declarada para refrigeración [kW] dividida por la potencia nominal utilizada para refrigeración [kW] de una unidad cuando refrigera en condiciones estándar. 
+ 6.    «Coeficiente de rendimiento nominal» (COP 
+ rated 
+ ) : la potencia declarada para calefacción [kW] dividida por la potencia nominal utilizada para calefacción [kW] de una unidad cuando proporciona calefacción en condiciones estándar. 
+ 7.    «Potencial de calentamiento global» (GWP) : lo que se calcula que 1 kg del líquido refrigerante utilizado en el ciclo de compresión de vapor contribuye al calentamiento global, expresado en kg equivalentes de CO 2 en un horizonte temporal de 100 años; 
+ los valores de GWP considerados serán los que figuran en el anexo I del Reglamento (CE) n o 842/2006; 
+ para los refrigerantes fluorados, los valores de GWP serán los publicados en el tercer informe de evaluación (TAR) adoptado por el Grupo Intergubernamental sobre el Cambio Climático  ( 1 ) (valores de GWP a lo largo de 100 años del IPCC de 2001); 
+ para los gases no fluorados, los valores de GWP serán los publicados en la primera evaluación  ( 2 ) del IPCC a lo largo de 100 años; 
+ los valores de GWP de mezclas de refrigerantes se basarán en la fórmula indicada en el anexo I del Reglamento (CE) n o 842/2006; 
+ para los refrigerantes no incluidos en las referencias anteriores, se utilizará como referencia el informe de 2010 del IPCC/PNUMA sobre refrigeración, acondicionamiento de aire y bombas de calor, con fecha de febrero de 2011, u otra más reciente. 
+ 8.    «Modo desactivado» : aquel en que el acondicionador de aire o el ventilador se halla conectado a la red eléctrica, pero no está ejerciendo ninguna función; se consideran también modo desactivado los estados que proporcionan solo una indicación del estado desactivado, así como los estados que proporcionan solo las funciones previstas para garantizar la compatibilidad electromagnética de conformidad con la Directiva 2004/108/CE del Parlamento Europeo y del Consejo  ( 3 ) . 
+ 9.    «Modo de espera» : aquel en que el equipo (acondicionador de aire o ventilador) está conectado a la red eléctrica, depende de la aportación de energía procedente de dicha red para funcionar como está previsto y ofrece solamente las siguientes funciones, que pueden persistir por tiempo indefinido: función de reactivación, o función de reactivación y tan solo indicación de función de reactivación habilitada, y/o visualización de información o de estado. 
+ 10.    «Función de reactivación» : aquella que permite la activación de otros modos, incluido el modo activo, mediante un conmutador a distancia (que puede ser un control remoto), un sensor interno o un temporizador, para pasar a un estado que proporcione funciones adicionales, incluida la función principal. 
+ 11.    «Visualización de información o de estado» : función continua que proporciona información o indica el estado del equipo en un visualizador, incluidos los relojes. 
+ 12.    «Nivel de potencia acústica» : nivel de potencia acústica ponderado A [dB(A)] en el interior o en el exterior medido en condiciones estándar para la refrigeración (o calefacción, si el producto no tiene función de refrigeración). 
+ 13.    «Condiciones de diseño de referencia» : combinación de los requisitos relativos a la temperatura de diseño de referencia, la temperatura bivalente máxima y la temperatura límite de funcionamiento máxima, según lo expuesto en el anexo II, cuadro 3. 
+ 14.    «Temperatura de diseño de referencia» : la temperatura exterior [°C] para la refrigeración (Tdesignc) o la calefacción (Tdesignh), según lo descrito en el anexo II, cuadro 3, a la cual el factor de carga parcial sea igual a 1, y que varía en función de la temporada designada de calefacción o refrigeración. 
+ 15.    «Factor de carga parcial» [pl(Tj)] : la temperatura exterior menos 16 °C, dividida por la temperatura de diseño de referencia menos 16 °C, para refrigeración o para calefacción. 
+ 16.    «Temporada» : uno de los cuatro conjuntos de condiciones de funcionamiento (para cuatro temporadas: una temporada de refrigeración, tres temporadas de calefacción: media / más fría / más cálida) que describen, para cada período de temperatura, la combinación de las temperaturas en el exterior y el número de horas en que se registran estas temperaturas por cada temporada en que la unidad se declara apta para funcionar. 
+ 17.    «Período de temperatura» (con el índice j) : combinación de una temperatura exterior (Tj) y el número de horas en que se registra (hj), según figura en el anexo II, cuadro 1. 
+ 18.    «Horas del período» : horas por temporada (hj) en que se registra la temperatura exterior correspondiente a determinado período, según lo expuesto en el anexo II, cuadro 1. 
+ 19.    «Factor de eficiencia energética estacional» (SEER) : factor de eficiencia energética global de la unidad, representativo de toda la temporada de refrigeración, calculado como demanda anual de refrigeración de referencia dividida por el consumo anual de electricidad para refrigeración. 
+ 20.    «Demanda anual de refrigeración de referencia» (Q C ) : demanda de refrigeración [kWh/a] utilizada como referencia para calcular el SEER y obtenida mediante el producto de la carga de refrigeración del diseño (Pdesignc) y las horas equivalentes de modo activo para refrigeración (H CE ). 
+ 21.    «Horas equivalentes de modo activo para refrigeración» (H 
+ CE 
+ ) : número de horas al año [h/a] durante las que se supone que la unidad debe proporcionar la carga de refrigeración del diseño (Pdesignc) a fin de satisfacer la demanda anual de refrigeración de referencia, según lo establecido en el anexo II, cuadro 4. 
+ 22.    «Consumo anual de electricidad para refrigeración» (Q CE ) : consumo de electricidad [kWh/a] necesario para satisfacer la demanda anual de refrigeración de referencia, calculado como la división de la demanda anual de refrigeración de referencia por el factor de eficiencia energética estacional en modo activo (SEERon) y el consumo de electricidad de la unidad en los modos desactivado por termostato, de espera, desactivado y dispositivo de calentamiento del cárter durante la temporada de refrigeración. 
+ 23.    «Factor de eficiencia energética estacional en modo activo» (SEERon) : factor medio de eficiencia energética de la unidad en modo activo correspondiente a la función de refrigeración, construido sobre la base de la carga parcial y el factor de eficiencia energética específico para cada período de temperatura (EERbin(Tj)) y ponderado por las horas del período en que se dan las condiciones definidas para ese período. 
+ 24.    «Carga parcial» : la carga de refrigeración (Pc(Tj)) o la carga de calefacción (Ph(Tj)) [kW] a una temperatura exterior específica Tj, calculada como la carga de diseño multiplicada por el factor de carga parcial. 
+ 25.    «Factor de eficiencia energética específico de un período de temperatura» (EERbin(Tj)) : factor de eficiencia energética específico de cada período j con una temperatura exterior Tj en una temporada, derivado de la carga parcial, la potencia declarada y el factor de eficiencia energética declarado (EERd(Tj)) para períodos (j) específicos de temperatura y calculado para otros períodos mediante inter/extrapolación, en caso necesario corregido mediante el coeficiente de degradación. 
+ 26.    «Coeficiente de rendimiento estacional» (SCOP) : coeficiente global de rendimiento de la unidad, representativo de toda la temporada de calefacción designada (el valor del SCOP corresponde a una temporada de calefacción determinada), calculado dividiendo la demanda anual de calefacción de referencia por el consumo anual de electricidad para calefacción. 
+ 27.    «Demanda anual de calefacción de referencia» (Q H ) : demanda de calefacción de referencia [kWh/a], correspondiente a una temporada de calefacción designada, utilizada como base para calcular el SCOP y obtenida como producto de la carga de calefacción del diseño (Pdesignh) y las horas equivalentes de modo activo para calefacción en la temporada (H HE ). 
+ 28.    «Horas equivalentes de modo activo para calefacción» (H HE ) : número de horas al año [h/a] durante las que se supone que la unidad debe proporcionar la carga de calefacción de diseño (Pdesignh) a fin de satisfacer la demanda anual de calefacción de referencia, según lo establecido en el anexo II, cuadro 4. 
+ 29.    «Consumo anual de electricidad para calefacción» (Q HE ) : consumo de electricidad [kWh/a] necesario para satisfacer la demanda anual de calefacción de referencia indicada, correspondiente a una temporada de calefacción designada; y calculado como la división de la demanda anual de calefacción de referencia por el coeficiente estacional de rendimiento en modo activo (SCOPon) y el consumo de electricidad de la unidad en los modos «desactivado por termostato», «de espera», «desactivado» y «dispositivo de calentamiento del cárter» durante la temporada de calefacción. 
+ 30.    «Coeficiente estacional de rendimiento en modo activo» (SCOPon) : coeficiente medio de rendimiento de la unidad en modo activo para la temporada de calefacción designada, construido a partir de la carga parcial, la potencia de calefacción eléctrica de reserva (cuando sea necesario) y los coeficientes de rendimiento específicos de los períodos de temperatura (COPbin(Tj) y ponderado por las horas del período en que se den las condiciones definidas para ese período. 
+ 31.    «Potencia de calefacción eléctrica de reserva» (elbu(Tj)) : potencia de calefacción [kW] de un calefactor eléctrico de reserva real o hipotético con un COP de 1 que complemente la potencia de calefacción declarada (Pdh(Tj)) a fin de alcanzar la carga parcial de calefacción (Ph(Tj)) en caso de que Pdh(Tj) sea inferior a Ph(Tj), para una temperatura exterior (Tj). 
+ 32.    «Coeficiente de rendimiento específico de un período de temperatura» (COPbin(Tj)) : coeficiente de rendimiento específico de cada período j con una temperatura exterior Tj en una temporada, derivado de la carga parcial, la potencia declarada y el coeficiente de rendimiento declarado (COPd(Tj)) para períodos (j) específicos de temperatura y calculado para otros períodos mediante inter/extrapolación, en caso necesario corregido con el coeficiente de degradación. 
+ 33.    «Potencia declarada» [kW] : potencia del ciclo de compresión de vapor de la unidad para refrigerar (Pdc(Tj)) o calentar (Pdh(Tj)), correspondiente a una temperatura exterior Tj y a una temperatura interior (Tin), declarada por el fabricante. 
+ 34.    «Valor de servicio» (SV) [(m 3 /min)/W] : para los ventiladores, la relación entre el nivel de caudal máximo del ventilador [m 3 /min] y la potencia utilizada por el ventilador [W]. 
+ 35.    «Control de la potencia» : capacidad de la unidad para modificar su potencia modificando el caudal volumétrico; las unidades deberán llevar la indicación «fijo» si no puedan modificar su caudal volumétrico, «gradual» si el caudal volumétrico se modifica como máximo en dos etapas, o «variable» si se modifica en tres o más etapas. 
+ 36.    «Función» : indicación de la capacidad de la unidad para refrigerar el aire interior, calentarlo o ambas cosas. 
+ 37.    «Carga de diseño» : carga de refrigeración declarada (Pdesignc) y/o carga de calefacción declarada (Pdesignh) [kW] a la temperatura de diseño de referencia, donde 
+ para el modo de refrigeración, Pdesignc es igual a la potencia declarada para refrigerar cuando Tj es igual a Tdesignc; 
+ para el modo de calefacción, Pdesignh es igual a la carga parcial cuando Tj es igual a Tdesignh; 
+ 38.    «Factor de eficiencia energética declarado» (EERd(Tj)) : factor de eficiencia energética en un número limitado de períodos de temperatura especificados (j) con temperatura exterior (Tj), declarado por el fabricante. 
+ 39.    «Coeficiente de rendimiento declarado» (COPd(Tj)) : coeficiente de rendimiento en un número limitado de períodos de temperatura especificados (j) con temperatura exterior (Tj), declarado por el fabricante. 
+ 40.    «Temperatura bivalente» (Tbiv) : temperatura exterior (Tj) [°C] declarada por el fabricante para calentar, a la cual la potencia declarada iguala la carga parcial y por debajo de la cual la potencia declarada debe complementarse con potencia de calefacción eléctrica de reserva a fin de alcanzar la carga parcial para calefacción. 
+ 41.    «Temperatura límite de funcionamiento» (Tol) : temperatura exterior [°C] declarada por el fabricante para calefacción, por debajo de la cual el acondicionador de aire no tendrá ninguna capacidad de calentar; por debajo de esta temperatura, la potencia declarada es igual a cero. 
+ 42.    «Potencia del intervalo cíclico» [kW] : el promedio (ponderado por el tiempo) de la potencia declarada durante el intervalo de ensayo cíclico para refrigeración (Pcycc) o calefacción (Pcych). 
+ 43.    «Eficiencia del intervalo cíclico para refrigeración» (EERcyc) : factor medio de eficiencia energética durante el intervalo de ensayo cíclico (encendido y apagado del compresor), calculado como la potencia de refrigeración integrada durante el intervalo [kWh] dividida por la potencia eléctrica integrada utilizada durante ese mismo intervalo [kWh]. 
+ 44.    «Eficiencia del intervalo cíclico para calefacción» (COPcyc) : coeficiente medio de rendimiento durante el intervalo de ensayo cíclico (encendido y apagado del compresor), calculado como la potencia de calefacción integrada durante el intervalo [kWh] dividida por la potencia eléctrica integrada utilizada durante ese mismo intervalo [kWh]. 
+ 45.    «Coeficiente de degradación» : medida de la pérdida de eficiencia debida a los ciclos (encendido y apagado del compresor en modo activo) establecida para la refrigeración (Cdc), la calefacción (Cdh) o fijada en 0,25 como valor por defecto. 
+ 46.    «Modo activo» : modo correspondiente a las horas con carga de refrigeración o calefacción del edificio y en el cual la función de refrigeración o de calefacción de la unidad se encuentra activada; este estado puede incluir ciclos de encendido y apagado de la unidad con el fin de alcanzar o mantener la temperatura del aire interior establecida. 
+ 47.    «Modo desactivado por termostato» : modo correspondiente a las horas sin carga de refrigeración o de calefacción en las cuales la función de refrigeración o de calefacción de la unidad está encendida, pero la unidad no está en funcionamiento puesto que no hay carga de refrigeración o de calefacción; por lo tanto, este estado está relacionado con las temperaturas exteriores y no con las cargas interiores; los ciclos de encendido y apagado en modo activo no se consideran «desactivado por termostato». 
+ 48.    «Modo de calentador del cárter activado» : estado en el que la unidad ha activado un dispositivo de calefacción para evitar la migración del refrigerante hacia el compresor con el fin de limitar la concentración de refrigerante en el aceite cuando se enciende el compresor. 
+ 49.    «Consumo de energía en modo desactivado por termostato» (P TO ) : consumo de energía de la unidad [kW] durante el modo desactivado por termostato. 
+ 50.    «Consumo de energía en modo de espera» (P SB ) : consumo de energía de la unidad [kW] durante el modo de espera. 
+ 51.    «Consumo de energía en modo desactivado» (P OFF ) : consumo de energía de la unidad [kW] mientras está en modo desactivado. 
+ 52.    «Consumo de energía en modo de calentador del cárter activado» (P CK ) : consumo de energía de la unidad [kW] durante el modo de calentador del cárter activado. 
+ 53.    «Horas de funcionamiento del modo desactivado por termostato» (H TO ) : número de horas al año [h/a] durante las cuales se considera que la unidad está en modo desactivado por termostato, cuyo valor depende de la temporada y de la función designadas. 
+ 54.    «Horas de funcionamiento del modo de espera» (H SB ) : número de horas al año [h/a] durante las cuales se considera que la unidad está en modo de espera, cuyo valor depende de la temporada y de la función designadas. 
+ 55.    «Horas de funcionamiento del modo desactivado» (H OFF ) : número de horas al año [h/a] durante las cuales se considera que la unidad está en modo desactivado, cuyo valor depende de la temporada y la función designadas. 
+ 56.    «Horas de funcionamiento del modo de calentador del cárter» (H CK ) : número de horas al año [h/a] durante las cuales se considera que la unidad está en modo de calentador del cárter activado, cuyo valor depende de la temporada y de la función designadas. 
+ 57.    «Caudal de aire nominal» : caudal de aire [m 3 /h] medido en la salida del aire de las unidades de interior y/o de exterior (cuando proceda) de los acondicionadores de aire en condiciones estándar para refrigeración (o calefacción, si el producto no tiene función de refrigeración). 
+ 58.    «Potencia nominal utilizada para refrigeración» (P EER ) : la potencia eléctrica [kW] que utiliza una unidad cuando proporciona refrigeración en condiciones estándar. 
+ 59.    «Potencia nominal utilizada para calefacción» (P COP ) : la potencia eléctrica [kW] que utiliza una unidad cuando proporciona calefacción en condiciones nominales estándar. 
+ 60.    «Consumo de electricidad de los aparatos de conducto único y doble» (Q SD y Q DD respectivamente) : consumo de electricidad de los acondicionadores de aire de conducto único o de conducto doble para los modos de refrigeración y/o calefacción (el que sea aplicable) [conducto único en kWh/h, conducto doble en kWh/a]. 
+ 61.    «Factor de potencia» : relación entre la potencia total declarada de refrigeración o calefacción de todas las unidades de interior activas y la potencia declarada de refrigeración o calefacción de la unidad exterior en condiciones estándar. 
+ 62.    «Caudal máximo del ventilador» (F) : caudal de aire del ventilador en su configuración máxima [m 3 /min], medido en la salida del ventilador con el mecanismo oscilante (cuando proceda) apagado. 
+ 63.    «Mecanismo oscilante» : capacidad del ventilador, cuando está en funcionamiento, para variar automáticamente la dirección del caudal de aire. 
+ 64.    «Nivel de potencia acústica del ventilador» : nivel de potencia acústica ponderado A del ventilador cuando proporciona el caudal máximo de ventilación, medido en la salida. 
+ 65.    «Horas de modo activo de ventilación» (H CE ) : número de horas [h/a] que se supone que el ventilador proporciona el caudal máximo del ventilador, según lo descrito en el anexo II, cuadro 4. 
+ 2.   REQUISITOS DE EFICIENCIA ENERGÉTICA MÍNIMA, CONSUMO MÁXIMO DE ENERGÍA EN MODO DESACTIVADO Y MODO DE ESPERA Y NIVEL DE POTENCIA ACÚSTICA MÁXIMO 
+ a) 
+ A partir del 1 de enero de 2013, los acondicionadores de aire de conducto único y de conducto doble se ajustarán a los requisitos indicados en los cuadros 1, 2 y 3 que figuran a continuación, calculados de conformidad con el anexo II. Los acondicionadores de aire de conducto único y de conducto doble y los ventiladores cumplirán los requisitos relativos al modo de espera y el modo desactivado que se indican en el cuadro 2. Los requisitos de eficiencia energética mínima y potencia acústica máxima se referirán a las condiciones estándar especificadas en el anexo II, cuadro 2. 
+ Cuadro 1 
+ Requisitos de eficiencia energética mínima 
+ Acondicionadores de aire de conducto doble 
+ Acondicionadores de aire de conducto único 
+ EER rated 
+ COP rated 
+ EER rated 
+ COP rated 
+ Si el GWP del refrigerante > 150 
+ 2,40 
+ 2,36 
+ 2,40 
+ 1,80 
+ Si el GWP del refrigerante < 150 
+ 2,16 
+ 2,12 
+ 2,16 
+ 1,62 
+ Cuadro 2 
+ Requisitos de consumo máximo de energía en modo desactivado y modo de espera para acondicionadores de aire de conducto único y de conducto doble y ventiladores 
+ Modo desactivado 
+ El consumo eléctrico del equipo en cualquier estado de modo desactivado no rebasará el límite de 1,00 W. 
+ Modo de espera 
+ El consumo de energía del equipo en cualquier estado que proporcione solo una función de reactivación, o solo una función de reactivación y una mera indicación de activación de esta función, no rebasará el límite de 1,00 W. 
+ El consumo de energía del equipo en cualquier estado que proporcione solo visualización de información o de estado, o solo una combinación de función de reactivación y visualización de información o de estado, no rebasará el límite de 2,00 W. 
+ Disponibilidad de modo de espera y/o desactivado 
+ Salvo cuando resulte inadecuado para el uso previsto, el equipo dispondrá de los modos desactivado y/o de espera, o cualquier otro estado que no rebase los límites de consumo eléctrico aplicables a los modos desactivado o en espera mientras el equipo en cuestión se halle conectado a la red de alimentación eléctrica. 
+ Cuadro 3 
+ Requisitos de potencia acústica máxima 
+ Nivel de potencia acústica en el interior en dB(A) 
+ 65 
+ b) 
+ A partir del 1 de enero de 2013, los acondicionadores de aire, excepto los acondicionadores de aire de conducto único y de conducto doble, se ajustarán a los requisitos de eficiencia energética mínima y nivel máximo de potencia acústica indicados en los cuadros 4 y 5 que figuran a continuación, calculados de conformidad con el anexo II. Los requisitos de eficiencia energética tendrán en cuenta las condiciones de diseño de referencia especificadas en el anexo II, cuadro 3, utilizando la temporada de calefacción «media» cuando proceda. Los requisitos relativos a la potencia acústica se referirán a las condiciones estándar especificadas en el anexo II, cuadro 2. 
+ Cuadro 4 
+ Requisitos de eficiencia energética mínima 
+ SEER 
+ SCOP 
+ (Temporada de calefacción media) 
+ Si el GWP del refrigerante > 150 
+ 3,60 
+ 3,40 
+ Si el GWP del refrigerante < 150 
+ 3,24 
+ 3,06 
+ Cuadro 5 
+ Requisitos de potencia acústica máxima 
+ Potencia nominal ≤ 6 kW 
+ 6 < Potencia nominal ≤ 12 kW 
+ Nivel de potencia acústica en el interior en dB(A) 
+ Nivel de potencia acústica en el exterior en dB(A) 
+ Nivel de potencia acústica en el interior en dB(A) 
+ Nivel de potencia acústica en el exterior en dB(A) 
+ 60 
+ 65 
+ 65 
+ 70 
+ c) 
+ A partir del 1 de enero de 2014, los acondicionadores de aire se ajustarán a los requisitos indicados en el cuadro que figura a continuación, calculados de conformidad con el anexo II. Los requisitos de eficiencia energética para los acondicionadores de aire, excepto los acondicionadores de aire de un solo conducto y de conducto doble, tendrán en cuenta las condiciones de diseño de referencia especificadas en el anexo II, cuadro 3, utilizando la temporada de calefacción «media» cuando proceda. Los requisitos de eficiencia energética para los acondicionadores de aire de conducto único y de conducto doble se referirán a las condiciones estándar especificadas en el anexo II, cuadro 2. 
+ Cuadro 6 
+ Requisitos de eficiencia energética mínima 
+ Acondicionadores de aire, excepto los de conducto único y los de conducto doble 
+ Acondicionadores de aire de conducto doble 
+ Acondicionadores de aire de conducto único 
+ SEER 
+ SCOP 
+ (Temporada de calefacción: «media») 
+ EER rated 
+ COP rated 
+ EER rated 
+ COP rated 
+ Si el GWP del refrigerante > 150 para < 6 kW 
+ 4,60 
+ 3,80 
+ 2,60 
+ 2,60 
+ 2,60 
+ 2,04 
+ Si el GWP del refrigerante < 150 para < 6 kW 
+ 4,14 
+ 3,42 
+ 2,34 
+ 2,34 
+ 2,34 
+ 1,84 
+ Si el GWP del refrigerante > 150 para 6 – 12 kW 
+ 4,30 
+ 3,80 
+ 2,60 
+ 2,60 
+ 2,60 
+ 2,04 
+ Si el GWP del refrigerante < 150 para 6 – 12 kW 
+ 3,87 
+ 3,42 
+ 2,34 
+ 2,34 
+ 2,34 
+ 1,84 
+ d) 
+ A partir del 1 de enero de 2014, los acondicionadores de aire de conducto único y los de conducto doble, así como los ventiladores, se ajustarán a los requisitos indicados en el siguiente cuadro 7, calculados de conformidad con el anexo II. 
+ Cuadro 7 
+ Requisitos de consumo máximo de energía en modo desactivado y modo de espera 
+ Modo desactivado 
+ El consumo eléctrico del equipo en cualquier estado de modo desactivado no rebasará el límite de 0,50 W. 
+ Modo de espera 
+ El consumo energético del equipo en cualquier estado que proporcione solo una función de reactivación, o solo una función de reactivación y una mera indicación de la activación de esta función, no rebasará el límite de 0,50 W. 
+ El consumo eléctrico del equipo en cualquier estado que proporcione solo visualización de información o del estado, o solo una combinación de función de reactivación y visualización de información o del estado, no rebasará el límite de 1,00 W. 
+ Disponibilidad de modo de espera y/o desactivado 
+ Salvo cuando resulte inadecuado para el uso previsto, el equipo dispondrá de los modos desactivado y/o de espera, o cualquier otro estado que no rebase los límites de consumo eléctrico aplicables a los modos desactivado o en espera mientras el equipo en cuestión se halle conectado a la red de alimentación eléctrica. 
+ Gestión del consumo eléctrico 
+ Cuando el equipo no esté ejecutando su función principal, o cuando no dependan de sus funciones otros productos que consumen energía, el equipo en cuestión ofrecerá una función de gestión del consumo eléctrico, salvo que resulte inadecuado para el uso previsto, o bien una función análoga para conmutar automáticamente el equipo, tras el lapso de tiempo más breve posible que resulte adecuado para el uso previsto: 
+ — 
+ a modo de espera, o 
+ — 
+ a modo desactivado, o bien, 
+ — 
+ a otro estado que no sobrepase los límites de consumo eléctrico aplicables a los modos desactivado y/o en espera, siempre que el dispositivo en cuestión se halle conectado a la red de alimentación eléctrica. La función de gestión del consumo eléctrico se activará antes de la entrega del equipo. 
+ 3.   REQUISITOS DE INFORMACIÓN SOBRE EL PRODUCTO 
+ a) 
+ A partir del 1 de enero de 2013, por lo que respecta a los acondicionadores de aire y los ventiladores, se proporcionará la información indicada en los puntos siguientes, calculada de conformidad con el anexo II: 
+ i) 
+ la documentación técnica del producto, 
+ ii) 
+ las páginas web sin restricciones de acceso de los fabricantes de los acondicionadores de aire y los ventiladores. 
+ b) 
+ Los fabricantes de los acondicionadores de aire y los ventiladores proporcionarán a los laboratorios que realicen controles de vigilancia del mercado, cuando lo soliciten, la información necesaria para la instalación de la unidad, tal como se haya aplicado para el establecimiento de los valores de las potencias declaradas, SEER/EER , SCOP/COP y los valores de servicio, así como los datos de las personas de contacto para obtener esa información. 
+ c) 
+ Requisitos de información aplicables a los acondicionadores de aire, excepto los de conducto doble y los de conducto único. 
+ Cuadro 1 
+ Requisitos de información 
+  ( 4 ) 
+ (el número de decimales que figura en el recuadro indica la precisión de la información que se debe facilitar) 
+ Datos que permitan identificar el modelo o modelos a que se refiere la información: 
+ Función (indicar si el aparato dispone de ella) 
+ Si la función incluye calefacción: indicar la temporada de calefacción a la que se refiere la información. Los valores indicados deben referirse a una temporada de calefacción en concreto. Incluir al menos la temporada de calefacción «media». 
+ refrigeración 
+ S/N 
+ Media 
+ (obligatorio) 
+ S/N 
+ calefacción 
+ S/N 
+ Más cálida 
+ (si la hay) 
+ S/N 
+ Más fría 
+ (si la hay) 
+ S/N 
+ Elemento 
+ símbolo 
+ valor 
+ unidad 
+ Elemento 
+ símbolo 
+ valor 
+ unidad 
+ Carga de diseño 
+ Eficiencia estacional 
+ refrigeración 
+ Pdesignc 
+ x,x 
+ kW 
+ refrigeración 
+ SEER 
+ x,x 
+ — 
+ calefacción / media 
+ Pdesignh 
+ x,x 
+ kW 
+ calefacción / media 
+ SCOP/A 
+ x,x 
+ — 
+ calefacción / más cálida 
+ Pdesignh 
+ x,x 
+ kW 
+ calefacción / más cálida 
+ SCOP/W 
+ x,x 
+ — 
+ calefacción / más fría 
+ Pdesignh 
+ x,x 
+ kW 
+ calefacción / más fría 
+ SCOP/C 
+ x,x 
+ — 
+ Potencia declarad a  ( *1 ) de refrigeración, a una temperatura interior de 27(19) °C y una temperatura exterior Tj 
+ Factor de eficiencia energética declarada  ( *1 ) , a una temperatura interior de 27(19)°C y una temperatura exterior Tj 
+ Tj = 35 °C 
+ Pdc 
+ x,x 
+ kW 
+ Tj = 35 °C 
+ EERd 
+ x,x 
+ — 
+ Tj = 30 °C 
+ Pdc 
+ x,x 
+ kW 
+ Tj = 30 °C 
+ EERd 
+ x,x 
+ — 
+ Tj = 25 °C 
+ Pdc 
+ x,x 
+ kW 
+ Tj = 25 °C 
+ EERd 
+ x,x 
+ — 
+ Tj = 20 °C 
+ Pdc 
+ x,x 
+ kW 
+ Tj = 20 °C 
+ EERd 
+ x,x 
+ — 
+ Potencia  ( *1 ) declarada de calefacción / Temporada media, con una temperatura interior de 20 °C y una temperatura exterior Tj 
+ Coeficiente de rendimiento  ( *1 ) declarado / Temporada media, con una temperatura interior de 20 °C y una temperatura exterior Tj 
+ Tj = – 7 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = – 7 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = 2 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = 2 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = 7 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = 7 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = 12 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = 12 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = temperatura bivalente 
+ Pdh 
+ x,x 
+ kW 
+ Tj = temperatura bivalente 
+ COPd 
+ x,x 
+ — 
+ Tj = límite de funcionamiento 
+ Pdh 
+ x,x 
+ kW 
+ Tj = límite de funcionamiento 
+ COPd 
+ x,x 
+ — 
+ Potencia  ( *1 ) declarada de calefacción / Temporada más cálida, con una temperatura interior de 20 °C y una temperatura exterior Tj 
+ Coeficiente de rendimiento  ( *1 ) declarado / Temporada más cálida, con una temperatura interior de 20 °C y una temperatura exterior Tj 
+ Tj = 2 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = 2 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = 7 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = 7 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = 12 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = 12 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = temperatura bivalente 
+ Pdh 
+ x,x 
+ kW 
+ Tj = temperatura bivalente 
+ COPd 
+ x,x 
+ — 
+ Tj = límite de funcionamiento 
+ Pdh 
+ x,x 
+ kW 
+ Tj = límite de funcionamiento 
+ COPd 
+ x,x 
+ — 
+ Potencia  ( *1 ) declarada de calefacción / Temporada más fría, con una temperatura interior de 20 °C y una temperatura exterior Tj 
+ Coeficiente de rendimiento  ( *1 ) declarado / Temporada más fría, con una temperatura interior de 20 °C y una temperatura exterior Tj 
+ Tj = – 7 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = – 7 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = 2 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = 2 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = 7 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = 7 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = 12 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = 12 °C 
+ COPd 
+ x,x 
+ — 
+ Tj = temperatura bivalente 
+ Pdh 
+ x,x 
+ kW 
+ Tj = temperatura bivalente 
+ COPd 
+ x,x 
+ — 
+ Tj = límite de funcionamiento 
+ Pdh 
+ x,x 
+ kW 
+ Tj = límite de funcionamiento 
+ COPd 
+ x,x 
+ — 
+ Tj = – 15 °C 
+ Pdh 
+ x,x 
+ kW 
+ Tj = – 15 °C 
+ COPd 
+ x,x 
+ — 
+ Temperatura bivalente 
+ Temperatura límite de funcionamiento 
+ calefacción / media 
+ Tbiv 
+ x 
+ °C 
+ calefacción / media 
+ Tol 
+ x 
+ °C 
+ calefacción / más cálida 
+ Tbiv 
+ x 
+ °C 
+ calefacción / más cálida 
+ Tol 
+ x 
+ °C 
+ calefacción / más fría 
+ Tbiv 
+ x 
+ °C 
+ calefacción / más fría 
+ Tol 
+ x 
+ °C 
+ Potencia del intervalo cíclico 
+ Eficiencia del intervalo cíclico 
+ para refrigeración 
+ Pcycc 
+ x,x 
+ kW 
+ para refrigeración 
+ EERcyc 
+ x,x 
+ — 
+ para calefacción 
+ Pcych 
+ x,x 
+ kW 
+ para calefacción 
+ COPcyc 
+ x,x 
+ — 
+ Coeficiente de degradación para la refrigeración  ( *2 ) 
+ Cdc 
+ x,x 
+ — 
+ Coeficiente de degradación para la calefacción  ( *2 ) 
+ Cdh 
+ x,x 
+ — 
+ Potencia eléctrica utilizada en modos que no sean el modo «activo» 
+ Consumo anual de electricidad 
+ modo desactivado 
+ P OFF 
+ x,x 
+ kW 
+ refrigeración 
+ Q CE 
+ x 
+ kWh/a 
+ modo de espera 
+ P SB 
+ x,x 
+ kW 
+ calefacción / media 
+ Q HE 
+ x 
+ kWh/a 
+ modo desactivado por termostato 
+ P TO 
+ x,x 
+ kW 
+ calefacción / más cálida 
+ Q HE 
+ x 
+ kWh/a 
+ modo de calentador del cárter 
+ P CK 
+ x,x 
+ kW 
+ calefacción / más fría 
+ Q HE 
+ x 
+ kWh/a 
+ Control de la potencia (indicar una de las tres opciones) 
+ Otros elementos 
+ fijo 
+ S/N 
+ Nivel de potencia acústica (interior/exterior) 
+ L WA 
+ x,x / x,x 
+ dB(A) 
+ gradual 
+ S/N 
+ Potencial de calentamiento global 
+ GWP 
+ x 
+ kgCO 2 eq. 
+ variable 
+ S/N 
+ Caudal de aire nominal (interior/exterior) 
+ — 
+ x / x 
+ m 3 /h 
+ Datos de las personas de contacto para obtener más información 
+ Nombre y dirección del fabricante o de su representante autorizado. 
+ En la medida en que guarde relación con la funcionalidad del equipo, el fabricante proporcionará la información solicitada en el anterior cuadro 1 junto con la documentación técnica del producto. Para las unidades de las que se indique que su control de la potencia es «gradual», se declararán los dos valores máximo y mínimo, señalando «hi/lo» y separándolos por una barra, en cada recuadro de «Potencia declarada». 
+ d) 
+ Requisitos de información para los acondicionadores de aire de conducto único y de conducto doble. 
+ Los acondicionadores de aire de conducto único serán denominados «acondicionadores de aire locales» en su embalaje, en la documentación sobre el producto y en todo material publicitario al respecto, ya sea en formato electrónico o en papel. 
+ El fabricante proporcionará la información que se detalla en el siguiente cuadro. 
+ Cuadro 2 
+ Requisitos de información 
+ Datos que permitan identificar el modelo o modelos a que se refiere la información: 
+ [rellenar lo que proceda] 
+ Descripción 
+ Símbolo 
+ Valor 
+ Unidad 
+ Potencia nominal de refrigeración 
+ P rated para refrigeración 
+ [x,x] 
+ kW 
+ Potencia nominal de calefacción 
+ P rated para calefacción 
+ [x,x] 
+ kW 
+ Potencia nominal utilizada para refrigeración 
+ P EER 
+ [x,x] 
+ kW 
+ Potencia nominal utilizada para calefacción 
+ P COP 
+ [x,x] 
+ kW 
+ Factor de eficiencia energética nominal 
+ EERd 
+ [x,x] 
+ — 
+ Coeficiente de rendimiento nominal 
+ COPd 
+ [x,x] 
+ — 
+ Consumo de energía en modo desactivado por termostato 
+ P TO 
+ [x,x] 
+ W 
+ Consumo de energía en modo de espera 
+ P SB 
+ [x,x] 
+ W 
+ Consumo de electricidad de los aparatos de conducto único/conducto doble 
+ (indicar por separado para refrigeración y calefacción) 
+ DD: Q DD 
+ DD: [x] 
+ DD: kWh/a 
+ SD: Q SD 
+ SD: [x,x] 
+ SD: kWh/h 
+ Nivel de potencia acústica 
+ L WA 
+ [x] 
+ dB(A) 
+ Potencial de calentamiento global 
+ GWP 
+ [x] 
+ kgCO 2 eq. 
+ Datos de las personas de contacto para obtener más información 
+ Nombre y dirección del fabricante o de su representante autorizado. 
+ e) 
+ Requisitos de información para los ventiladores. 
+ El fabricante proporcionará la información que se detalla en el siguiente cuadro. 
+ Cuadro 3 
+ Requisitos de información 
+ Datos que permitan identificar el modelo o modelos a que se refiere la información: 
+ [rellenar lo que proceda] 
+ Descripción 
+ Símbolo 
+ Valor 
+ Unidad 
+ Caudal máximo del ventilador 
+ F 
+ [x,x] 
+ m 3 /min 
+ Potencia utilizada por el ventilador 
+ P 
+ [x,x] 
+ W 
+ Valor de servicio 
+ SV 
+ [x,x] 
+ (m 3 /min)/W 
+ Consumo de energía en modo de espera 
+ P SB 
+ [x,x] 
+ W 
+ Nivel de potencia acústica del ventilador 
+ L WA 
+ [x] 
+ dB(A) 
+ Velocidad máxima del aire 
+ c 
+ [x,x] 
+ m/seg 
+ Norma de medición del valor de servicio 
+ [indicar aquí la norma de medición utilizada] 
+ Datos de las personas de contacto para obtener más información 
+ Nombre y dirección del fabricante o de su representante autorizado. 
+ ( 1 )   
+ IPCC Third Assessment Climate Change 2001 . Informe del Grupo Intergubernamental sobre el Cambio Climático: http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml 
+ ( 2 )   
+ Climate Change, The IPCC Scientific Assessment , J.T Houghton, G.J.Jenkins, J.J. Ephraums (ed.) Cambridge University Press, Cambridge (Reino Unido) 1990. 
+ ( 3 )   
+ DO L 390 de 31.12.2004, p. 24 . 
+ ( 4 )   Para los aparatos multisplit , se proporcionarán los datos relativos al factor de potencia igual a 1. 
+ ( *1 )   Para las unidades de potencia gradual, deben declararse dos valores separados por una barra ( / ) en cada recuadro en la sección «Potencia declarada de la unidad» y «EER/COP declarado» de la unidad. 
+ ( *2 )   Si se elige el Cd = 0,25 por defecto, no son obligatorios los (resultados de los) ensayos cíclicos. De lo contrario, debe indicarse el valor del ensayo cíclico correspondiente a la calefacción o la refrigeración. 
+ ANEXO II 
+ Mediciones y cálculos 
+ 1. 
+ Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, se harán mediciones y cálculos utilizando normas armonizadas cuyos números de referencia hayan sido publicados en el Diario Oficial de la Unión Europea , u otro método fiable, exacto y reproducible, que tenga en cuenta los métodos más avanzados generalmente aceptados, y cuyos resultados se consideren poco inciertos. Deberán cumplir todos los parámetros técnicos siguientes. 
+ 2. 
+ Al determinar el consumo y la eficiencia energética estacionales para el factor de eficiencia energética estacional (SEER) y el coeficiente de rendimiento estacional (SCOP), se tendrán en cuenta: 
+ a) 
+ las temporadas europeas de refrigeración y calefacción, según lo definido en el cuadro 1 del presente anexo; 
+ b) 
+ las condiciones de diseño de referencia, según lo definido en el cuadro 3 del presente anexo; 
+ c) 
+ el consumo de energía eléctrica para todos los modos de funcionamiento pertinentes, utilizando los períodos temporales definidos en el cuadro 4 del presente anexo; 
+ d) 
+ los efectos de la degradación de la eficiencia energética causados por el ciclo de encendido y apagado (cuando proceda) dependiendo del tipo de control de la potencia de refrigeración y/o de calefacción; 
+ e) 
+ las correcciones de los coeficientes de rendimiento estacionales en condiciones en que la carga de calefacción no pueda alcanzarse con la potencia de calefacción disponible; 
+ f) 
+ la aportación de un calentador de reserva (en su caso) al cálculo de la eficiencia estacional de una unidad en modo de calefacción. 
+ 3. 
+ Cuando la información relativa a un modelo específico, que sea una combinación de unidades de interior y exterior, se haya obtenido mediante cálculos basados en el diseño y/o la extrapolación de otras combinaciones, la documentación deberá incluir detalles de esos cálculos y/o extrapolaciones, y de los ensayos realizados para comprobar la exactitud de los cálculos efectuados (incluidos los detalles del modelo matemático utilizado para calcular el rendimiento de esas combinaciones, y de las medidas adoptadas para comprobar dicho modelo). 
+ 4. 
+ El factor de eficiencia energética nominal (EER rated ) y, cuando proceda, el coeficiente de rendimiento nominal (COP rated ) para acondicionadores de aire de conducto único y de conducto doble se establecerá en las condiciones estándar definidas en el siguiente cuadro 2. 
+ 5. 
+ El cálculo del consumo de electricidad estacional para refrigeración (y/o calefacción) deberá tener en cuenta el consumo de energía eléctrica de todos los modos de funcionamiento pertinentes, según lo definido en el siguiente cuadro 3, utilizando las horas de funcionamiento, según lo definido en el siguiente cuadro 4. 
+ 6. 
+ La eficiencia del ventilador se determinará con arreglo al caudal de aire nominal de la unidad dividido por su utilización nominal de energía eléctrica. 
+ Cuadro 1 
+ Períodos de temperatura estacionales de refrigeración y calefacción (j = índice del período, Tj = temperatura exterior, hj = horas al año del período de temperatura), donde db = temperatura con el termómetro seco 
+ TEMPORADA DE REFRIGERACIÓN 
+ j 
+ # 
+ Tj 
+ °C 
+ db 
+ hj 
+ h/año 
+ 1 
+ 17 
+ 205 
+ 2 
+ 18 
+ 227 
+ 3 
+ 19 
+ 225 
+ 4 
+ 20 
+ 225 
+ 5 
+ 21 
+ 216 
+ 6 
+ 22 
+ 215 
+ 7 
+ 23 
+ 218 
+ 8 
+ 24 
+ 197 
+ 9 
+ 25 
+ 178 
+ 10 
+ 26 
+ 158 
+ 11 
+ 27 
+ 137 
+ 12 
+ 28 
+ 109 
+ 13 
+ 29 
+ 88 
+ 14 
+ 30 
+ 63 
+ 15 
+ 31 
+ 39 
+ 16 
+ 32 
+ 31 
+ 17 
+ 33 
+ 24 
+ 18 
+ 34 
+ 17 
+ 19 
+ 35 
+ 13 
+ 20 
+ 36 
+ 9 
+ 21 
+ 37 
+ 4 
+ 22 
+ 38 
+ 3 
+ 23 
+ 39 
+ 1 
+ 24 
+ 40 
+ 0 
+ Total h. 
+ 2 602 
+ TEMPORADA DE CALEFACCIÓN 
+ j 
+ # 
+ T j 
+ °C 
+ Db 
+ hj 
+ h/año 
+ Media 
+ Más cálida 
+ Más fría 
+ 1 to 8 
+ – 30 to – 23 
+ 0 
+ 0 
+ 0 
+ 9 
+ –22 
+ 0 
+ 0 
+ 1 
+ 10 
+ –21 
+ 0 
+ 0 
+ 6 
+ 11 
+ –20 
+ 0 
+ 0 
+ 13 
+ 12 
+ –19 
+ 0 
+ 0 
+ 17 
+ 13 
+ –18 
+ 0 
+ 0 
+ 19 
+ 14 
+ –17 
+ 0 
+ 0 
+ 26 
+ 15 
+ –16 
+ 0 
+ 0 
+ 39 
+ 16 
+ –15 
+ 0 
+ 0 
+ 41 
+ 17 
+ –14 
+ 0 
+ 0 
+ 35 
+ 18 
+ –13 
+ 0 
+ 0 
+ 52 
+ 19 
+ –12 
+ 0 
+ 0 
+ 37 
+ 20 
+ –11 
+ 0 
+ 0 
+ 41 
+ 21 
+ –10 
+ 1 
+ 0 
+ 43 
+ 22 
+ –9 
+ 25 
+ 0 
+ 54 
+ 23 
+ –8 
+ 23 
+ 0 
+ 90 
+ 24 
+ –7 
+ 24 
+ 0 
+ 125 
+ 25 
+ –6 
+ 27 
+ 0 
+ 169 
+ 26 
+ –5 
+ 68 
+ 0 
+ 195 
+ 27 
+ –4 
+ 91 
+ 0 
+ 278 
+ 28 
+ –3 
+ 89 
+ 0 
+ 306 
+ 29 
+ –2 
+ 165 
+ 0 
+ 454 
+ 30 
+ –1 
+ 173 
+ 0 
+ 385 
+ 31 
+ 0 
+ 240 
+ 0 
+ 490 
+ 32 
+ 1 
+ 280 
+ 0 
+ 533 
+ 33 
+ 2 
+ 320 
+ 3 
+ 380 
+ 34 
+ 3 
+ 357 
+ 22 
+ 228 
+ 35 
+ 4 
+ 356 
+ 63 
+ 261 
+ 36 
+ 5 
+ 303 
+ 63 
+ 279 
+ 37 
+ 6 
+ 330 
+ 175 
+ 229 
+ 38 
+ 7 
+ 326 
+ 162 
+ 269 
+ 39 
+ 8 
+ 348 
+ 259 
+ 233 
+ 40 
+ 9 
+ 335 
+ 360 
+ 230 
+ 41 
+ 10 
+ 315 
+ 428 
+ 243 
+ 42 
+ 11 
+ 215 
+ 430 
+ 191 
+ 43 
+ 12 
+ 169 
+ 503 
+ 146 
+ 44 
+ 13 
+ 151 
+ 444 
+ 150 
+ 45 
+ 14 
+ 105 
+ 384 
+ 97 
+ 46 
+ 15 
+ 74 
+ 294 
+ 61 
+ Total h. 
+ 4 910 
+ 3 590 
+ 6 446 
+ Cuadro 2 
+ Condiciones estándar, temperaturas del aire con el «termómetro seco» 
+ (entre paréntesis se indica con el «termómetro húmedo») 
+ Aparato 
+ Función 
+ Temperatura del aire interior 
+ (°C) 
+ Temperatura del aire exterior 
+ (°C) 
+ acondicionadores de aire, excluidos los de conducto único 
+ refrigeración 
+ 27 (19) 
+ 35 (24) 
+ calefacción 
+ 20 (máx. 15) 
+ 7(6) 
+ acondicionadores de aire de conducto único 
+ refrigeración 
+ 35 (24) 
+ 35 (24)  ( *1 ) 
+ calefacción 
+ 20 (12) 
+ 20 (12)  ( *1 ) 
+ Cuadro 3 
+ Condiciones de diseño de referencia, temperaturas del aire con el «termómetro seco» 
+ (entre paréntesis se indica con el «termómetro húmedo») 
+ Función / temporada 
+ Temperatura del aire interior 
+ (°C) 
+ Temperatura del aire exterior 
+ (°C) 
+ Temperatura bivalente 
+ (°C) 
+ Temperatura límite de funcionamiento 
+ (°C) 
+ Tin 
+ Tdesignc/Tdesignh 
+ Tbiv 
+ Tol 
+ refrigeración 
+ 27 (19) 
+ Tdesignc = 35 (24) 
+ no disponible 
+ no disponible 
+ calefacción / media 
+ 20 (15) 
+ Tdesignh = – 10 (– 11) 
+ máx. 2 
+ máx. – 7 
+ calefacción / más cálida 
+ Tdesignh = 2 (1) 
+ máx. 7 
+ máx. 2 
+ calefacción / más fría 
+ Tdesignh = – 22 (– 23) 
+ máx. – 7 
+ máx. – 15 
+ Cuadro 4 
+ Horas de funcionamiento por tipo de aparato y por modo funcional que se van a utilizar para calcular el consumo de electricidad 
+ Tipo de aparato / funcionalidad 
+ (cuando proceda) 
+ Unidad 
+ Temporada de calefacción 
+ Modo encendido 
+ Modo desactivado por termostato 
+ Modo de espera 
+ Modo desactivado 
+ Modo de calentador del cárter 
+ refrigeración: H CE 
+ calefacción: H HE 
+ H TO 
+ H SB 
+ H OFF 
+ H CK 
+ Acondicionadores de aire, excepto los de conducto único y los de conducto doble 
+ Modo de refrigeración, si el aparato ofrece solo refrigeración 
+ h/año 
+ 350 
+ 221 
+ 2 142 
+ 5 088 
+ 7 760 
+ Modos de refrigeración y calefacción, si el aparato ofrece ambos 
+ Modo de refrigeración 
+ h/año 
+ 350 
+ 221 
+ 2 142 
+ 0 
+ 2 672 
+ Modo de calefacción 
+ h/año 
+ Media 
+ 1 400 
+ 179 
+ 0 
+ 0 
+ 179 
+ Más cálida 
+ 1 400 
+ 755 
+ 0 
+ 0 
+ 755 
+ Más fría 
+ 2 100 
+ 131 
+ 0 
+ 0 
+ 131 
+ Modo de calefacción, si el aparato ofrece solo calefacción 
+ h/año 
+ Media 
+ 1 400 
+ 179 
+ 0 
+ 3 672 
+ 3 851 
+ Más cálida 
+ 1 400 
+ 755 
+ 0 
+ 4 345 
+ 4 476 
+ Más fría 
+ 2 100 
+ 131 
+ 0 
+ 2 189 
+ 2 944 
+ Acondicionadores de aire de conducto doble 
+ Modo de refrigeración, si el aparato ofrece solo refrigeración 
+ h/60 min 
+ 1 
+ n. d. 
+ n. d. 
+ n. d. 
+ n. d. 
+ Modos de refrigeración y calefacción, si el aparato ofrece ambos 
+ Modo de refrigeración 
+ h/60 min 
+ 1 
+ n. d. 
+ n. d. 
+ n. d. 
+ n. d. 
+ Modo de calefacción 
+ h/60 min 
+ 1 
+ n. d. 
+ n. d. 
+ n. d. 
+ n. d. 
+ Modo de calefacción, si el aparato ofrece solo calefacción 
+ h/60 min 
+ 1 
+ n. d. 
+ n. d. 
+ n. d. 
+ n. d. 
+ Acondicionadores de aire de conducto único 
+ Modo de refrigeración 
+ h/60 min 
+ 1 
+ n. d. 
+ n. d. 
+ n. d. 
+ n. d. 
+ Modo de calefacción 
+ h/60 min 
+ 1 
+ n. d. 
+ n. d. 
+ n. d. 
+ n. d. 
+ ( *1 )   En el caso de los acondicionadores de aire de conducto único, el condensador (evaporador), cuando refrigera (calienta), no se abastece de aire exterior, sino de aire interior. 
+ ANEXO III 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE, las autoridades de los Estados miembros aplicarán el siguiente procedimiento de verificación en relación con los requisitos establecidos en el anexo I. 
+ 1. 
+ Las autoridades de los Estados miembros someterán a ensayo una sola unidad. 
+ 2. 
+ Se considerará que el modelo de acondicionador de aire, excepto en el caso de los acondicionadores de aire de conducto único y de conducto doble, cumple los requisitos expuestos en el anexo I, según proceda, del presente Reglamento, si su factor de eficiencia energética estacional (SEER), o su coeficiente de rendimiento estacional (SCOP), cuando proceda, no es inferior al valor declarado menos el 8 % a la potencia declarada de la unidad. Los valores SEER y SCOP se establecerán de conformidad con el anexo II. 
+ Se considerará que el modelo de acondicionador de aire de conducto único y de conducto doble cumple los requisitos expuestos en el anexo I, según proceda, del presente Reglamento, si los resultados correspondientes a los estados de modo desactivado y modo de espera no exceden de los valores límite en más de un 10 %, y si el factor de eficiencia energética (EER rated ), o el coeficiente de rendimiento (COP rated ), cuando proceda, no es inferior al valor declarado menos el 10 %. Los valores EER y COP se establecerán de conformidad con el anexo II. 
+ Se considerará que el modelo de acondicionador de aire cumple los requisitos expuestos en el presente Reglamento, según proceda, si el nivel máximo de potencia acústica no excede en más de 2 dB(A) del valor declarado. 
+ 3. 
+ Si no se obtuviera el resultado contemplado en el punto 2, la autoridad encargada de la vigilancia del mercado seleccionará aleatoriamente otras tres unidades del mismo modelo para realizar ensayos. 
+ 4. 
+ Se considerará que el modelo de acondicionador de aire, excepto en el caso de los acondicionadores de aire de conducto único y de conducto doble, cumple los requisitos expuestos en el anexo I, según proceda, del presente Reglamento, si la media de las tres unidades correspondiente al factor de eficiencia energética estacional (SEER), o al coeficiente de rendimiento estacional (SCOP), cuando proceda, no es inferior al valor declarado menos el 8 % a la potencia declarada de la unidad. Los valores SEER y SCOP se establecerán de conformidad con el anexo II. 
+ Se considerará que el modelo de acondicionador de aire de conducto único y de conducto doble cumple los requisitos expuestos en el anexo I, según proceda, del presente Reglamento, si la media de los resultados de las tres unidades correspondiente a los estados de modo desactivado y modo de espera no excede de los valores límite en más de un 10 %, y si la media del factor de eficiencia energética (EER rated ), o el coeficiente de rendimiento (COP rated ), cuando proceda, no es inferior al valor declarado menos el 10 %. Los valores EER y COP se establecerán de conformidad con el anexo II. 
+ Se considerará que el modelo de acondicionador de aire cumple los requisitos expuestos en el presente Reglamento, según proceda, si la media del nivel máximo de potencia acústica no excede en más de 2 dB(A) del valor declarado. 
+ 5. 
+ Si no se alcanzan los resultados contemplados en el punto 4, se considerará que el modelo no es conforme al presente Reglamento. 
+ A fin de verificar la conformidad con los requisitos del presente Reglamento, los Estados miembros aplicarán los procedimientos a los que se hace referencia en el anexo II, así como normas armonizadas cuyos números de referencia hayan sido publicados en el Diario Oficial de la Unión Europea , u otros métodos de cálculo y medición fiables, exactos y reproducibles, que tengan en cuenta los métodos más avanzados generalmente aceptados. 
+ ANEXO IV 
+ Parámetros de referencia 
+ En el momento de la entrada en vigor del presente Reglamento, se determinó que la mejor tecnología disponible en el mercado para los acondicionadores de aire, desde el punto de vista de su eficiencia energética, era la siguiente: 
+ Parámetros de referencia para los acondicionadores de aire 
+ Acondicionadores de aire, excepto los de conducto doble y los de conducto único 
+ Acondicionadores de aire de conducto doble 
+ Acondicionadores de aire de conducto único 
+ SEER 
+ SCOP 
+ EER 
+ COP 
+ EER 
+ COP 
+ 8,50 
+ 5,10 
+ 3,00  ( *1 ) 
+ 3,15 
+ 3,15  ( *1 ) 
+ 2,60 
+ El parámetro de referencia para el nivel de GWP del refrigerante utilizado en el acondicionador de aire es GWP ≤ 20. 
+ ( *1 )   Basado en la eficiencia de los acondicionadores de aire de conducto único enfriados mediante evaporación. 
+ 

@@ -1,0 +1,1083 @@
+ 
+ L_2019315ES.01006801.xml 
+ 5.12.2019    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 315/68 
+ REGLAMENTO DELEGADO (UE) 2019/2015 DE LA COMISIÓN
+ de 11 de marzo de 2019
+ por el que se complementa el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las fuentes luminosas y se deroga el Reglamento Delegado (UE) n. o 874/2012 de la Comisión 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Visto el Reglamento (UE) 2017/1369 del Parlamento Europeo y del Consejo, de 4 de julio de 2017, por el que se establece un marco para el etiquetado energético y se deroga la Directiva 2010/30/UE  ( 1 ) , y en particular su artículo 11, apartado 5, y su artículo 16, apartado 1, 
+ Considerando lo siguiente: 
+ (1) 
+ El Reglamento (UE) 2017/1369 faculta a la Comisión para adoptar actos delegados en lo relativo al etiquetado o al reescalado del etiquetado de los grupos de productos que representen un importante potencial de ahorro de energía y, si procede, de otros recursos. 
+ (2) 
+ El plan de trabajo sobre diseño ecológico 2016-2019  ( 2 ) adoptado por la Comisión en aplicación del artículo 16, apartado 1, de la Directiva 2009/125/CE del Parlamento Europeo y del Consejo  ( 3 ) establece las prioridades de acción dentro del marco sobre diseño ecológico y etiquetado energético para el período 2016-2019. En él se señalan los grupos de productos relacionados con la energía que se consideran prioritarios para la realización de estudios preparatorios y la posible adopción de medidas de ejecución, y se planifica la revisión de la normativa actual. 
+ (3) 
+ Según las estimaciones, las medidas del plan de trabajo sobre diseño ecológico tienen potencial para lograr en total más de 260 TWh anuales de ahorro de energía final en 2030, lo que equivale a reducir las emisiones de gases de efecto invernadero en alrededor de 100 millones de toneladas anuales en 2030. Los productos de iluminación constituyen uno de los grupos de productos que figuran en el plan de trabajo sobre diseño ecológico, con un total de ahorro de energía final en 2030 estimado en 41,9 TWh anuales. 
+ (4) 
+ El Reglamento Delegado (UE) n. o 874/2012 de la Comisión  ( 4 ) adoptó disposiciones sobre el etiquetado energético de los productos de iluminación, concretamente las lámparas eléctricas y las luminarias. 
+ (5) 
+ Los productos de iluminación se encuentran entre los grupos de productos prioritarios mencionados en el artículo 11, apartado 5, letra b), del Reglamento (UE) 2017/1369 para los que la Comisión debe adoptar un acto delegado a fin de introducir etiquetas reescaladas de A a G. 
+ (6) 
+ El Reglamento Delegado (UE) n. o 874/2012 contiene una cláusula de revisión en el artículo 7 que obliga a la Comisión a revisar el Reglamento a la luz del progreso técnico. 
+ (7) 
+ La Comisión ha revisado el Reglamento Delegado (UE) n. o 874/2012 y ha analizado los aspectos técnicos, medioambientales y económicos de los productos de iluminación, así como el comportamiento de los usuarios en la vida real. Esta revisión se llevó a cabo en estrecha cooperación con los interlocutores y las partes interesadas de la Unión y terceros países. Los resultados de la revisión han sido hechos públicos y presentados al foro consultivo establecido en el artículo 14 del Reglamento (UE) 2017/1369. 
+ (8) 
+ La revisión llegó a la conclusión de que era necesario introducir requisitos de etiquetado energético revisados para los productos de iluminación, concretamente las fuentes luminosas. 
+ (9) 
+ El aspecto medioambiental de las fuentes luminosas que se ha considerado significativo a efectos del presente Reglamento es el consumo de energía en la fase de utilización. 
+ (10) 
+ La revisión ha mostrado que el consumo de electricidad de los productos sujetos al presente Reglamento puede reducirse aún más aplicando medidas de etiquetado energético. 
+ (11) 
+ Dado que el presente Reglamento elimina la etiqueta energética específica para las luminarias establecida en el Reglamento Delegado (UE) n. o 874/2012, los proveedores de luminarias deben quedar exentos de las obligaciones relacionadas con la base de datos de los productos establecidas en el Reglamento (UE) 2017/1369. 
+ (12) 
+ Reconociendo el crecimiento de las ventas de productos relacionados con la energía a través de plataformas de alojamiento en internet, en lugar de directamente a partir de los sitios web de los proveedores y distribuidores, conviene aclarar que las plataformas de venta en internet deben ser responsables de hacer posible que se exponga la etiqueta facilitada por el proveedor cerca del precio. Deben informar de esta obligación al distribuidor, aunque no deben ser responsables de la exactitud ni del contenido de la etiqueta o la ficha de información del producto proporcionadas. No obstante, en aplicación del artículo 14, apartado 1, letra b), de la Directiva 2000/31/CE del Parlamento Europeo y del Consejo  ( 5 ) , relativa al comercio electrónico, tales plataformas de alojamiento de datos deben actuar con prontitud para retirar o impedir el acceso a la información sobre el producto de que se trate si tienen conocimiento del incumplimiento (por ejemplo, una etiqueta o una ficha de información del producto incompletas o incorrectas, o la ausencia de estas), por ejemplo si reciben información al respecto de la autoridad de vigilancia del mercado. Los proveedores que vendan directamente a los usuarios finales a través de su propio sitio web están sujetos a las obligaciones de venta a distancia establecidas para los distribuidores en el artículo 5 del Reglamento (UE) 2017/1369. 
+ (13) 
+ El presente Reglamento debe especificar valores de tolerancia para los parámetros de iluminación teniendo en cuenta el planteamiento para la declaración informativa establecido en el Reglamento (UE) 2017/254 de la Comisión  ( 6 ) . 
+ (14) 
+ Las medidas previstas en el presente Reglamento han sido debatidas por el foro consultivo y los expertos de los Estados miembros, de conformidad con el artículo 14 del Reglamento (UE) 2017/1369. 
+ (15) 
+ Conviene, por tanto, derogar el Reglamento Delegado (UE) n. o 874/2012. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece requisitos para el etiquetado de las fuentes luminosas con o sin mecanismo de control integrado y el suministro de información adicional sobre estas fuentes luminosas. Los requisitos también se aplican a las fuentes luminosas introducidas en el mercado dentro de un producto continente. 
+ 2.   El presente Reglamento no se aplicará a las fuentes luminosas que se especifican en los puntos 1 y 2 del anexo IV. 
+ 3.   Las fuentes luminosas que se especifican en el punto 3 del anexo IV deberán cumplir únicamente los requisitos del punto 4 del anexo V. 
+ Artículo 2 
+ Definiciones 
+ A efectos del presente Reglamento, se aplicarán las siguientes definiciones: 
+ 1) 
+ «Fuente luminosa»: producto accionado eléctricamente destinado a emitir luz o, en el caso de una fuente luminosa no incandescente, a ser posiblemente ajustado para emitir luz, o ambas cosas, con todas las siguientes características ópticas: 
+ a) 
+ coordenadas de cromaticidad x e y en el intervalo: 
+ 0,270 < x < 0,530
+ – 2,3172 x 2 + 2,3653 x – 0,2199 < y < – 2,3172 x 2 + 2,3653 x – 0,1595; 
+ b) 
+ un flujo luminoso < 500 lúmenes por mm 2 de área superficial proyectada emisora de luz, según la definición del anexo I; 
+ c) 
+ un flujo luminoso de entre 60 y 82 000 lúmenes; 
+ d) 
+ un índice de rendimiento de color (CRI) > 0; 
+ utilizando como tecnología de iluminación la incandescencia, la fluorescencia, la descarga de alta intensidad, los diodos emisores de luz inorgánicos (LED) o los diodos emisores de luz orgánicos (OLED), o sus combinaciones, y que puede ser verificado como fuente luminosa con arreglo al procedimiento del anexo IX. 
+ Las fuentes luminosas de sodio a alta presión (HPS) que no cumplen la condición de la letra a) se consideran fuentes luminosas a efectos del presente Reglamento. 
+ Las fuentes luminosas no incluyen: 
+ a) 
+ los chips de LED; 
+ b) 
+ los paquetes de LED; 
+ c) 
+ los productos que contienen fuentes luminosas de los que estas fuentes pueden retirarse para su verificación; 
+ d) 
+ las piezas emisoras de luz contenidas en una fuente luminosa que no pueden retirarse de esta para su verificación como fuente luminosa. 
+ 2) 
+ «Mecanismo de control»: uno o varios dispositivos, que pueden estar o no integrados físicamente en una fuente luminosa, destinados a preparar la red para el formato eléctrico exigido por una o varias fuentes luminosas específicas dentro de las condiciones límite determinadas por la seguridad eléctrica y la compatibilidad electromagnética. Puede incluir transformar la tensión de alimentación y de cebado, limitar la corriente operativa y de precalentamiento, prevenir el arranque en frío, corregir el factor de potencia o reducir las interferencias radioeléctricas. 
+ El término «mecanismo de control» no incluye las fuentes de alimentación comprendidas en el ámbito de aplicación del Reglamento (CE) n. o 278/2009 de la Comisión  ( 7 ) . El término tampoco incluye las piezas de control de la iluminación ni las piezas ajenas a la iluminación (como se definen en el anexo I), si bien estas piezas pueden estar integradas físicamente en un mecanismo de control o comercializarse con él como un único producto. 
+ Un interruptor de Power over Ethernet (PoE) no es un mecanismo de control en el sentido del presente Reglamento. El término «interruptor de Power over Ethernet 
+ » o «interruptor de PoE» designa un equipo para la alimentación de energía y el manejo de datos que se instala entre la red eléctrica y un equipo de oficina o fuentes luminosas para la transmisión de datos y la alimentación de energía. 
+ 3) 
+ «Producto continente»: producto que contiene una o varias fuentes luminosas o mecanismos de control independientes, o ambas cosas. Son ejemplos de productos continentes las luminarias que pueden desmontarse para permitir la verificación independiente de las fuentes luminosas que contienen, los aparatos domésticos que contienen fuentes luminosas o los muebles (mostradores, espejos, vitrinas) con fuentes luminosas. Si un producto continente no puede desmontarse para la verificación de la fuente luminosa y del mecanismo de control independiente, todo el producto continente debe considerarse una fuente luminosa. 
+ 4) 
+ «Luz»: radiación electromagnética con una longitud de onda de entre 380 nm y 780 nm. 
+ 5) 
+ «Red eléctrica» o «tensión de red»: el suministro de electricidad de 230 (± 10 %) voltios de corriente alterna a 50 Hz. 
+ 6) 
+ «Chip de LED»: bloque pequeño de material semiconductor emisor de luz sobre el que está fabricado un circuito led funcional. 
+ 7) 
+ «Paquete de LED»: pieza eléctrica simple que consta principalmente de al menos un chip de LED. No incluye un mecanismo de control ni piezas de tal mecanismo, ni casquillo ni componentes electrónicos activos, y no está conectado directamente a la tensión de red. Puede incluir uno o varios de los componentes siguientes: elementos ópticos, convertidores de luz (fósforos), interfaces térmicas, mecánicas y eléctricas, o piezas para responder a descargas electrostáticas. Todo dispositivo similar emisor de luz que esté destinado a ser usado directamente en una luminaria de LED se considera fuente luminosa. 
+ 8) 
+ «Cromaticidad»: propiedad de un estímulo de color definida por sus coordenadas de cromaticidad (x e y). 
+ 9) 
+ «Flujo luminoso» o «flujo» (Φ): magnitud, expresada en lúmenes (lm), derivada del flujo radiante (potencia de radiación) al evaluar la radiación electromagnética conforme a la sensibilidad espectral del ojo humano. Se refiere al flujo total emitido por una fuente luminosa en un ángulo sólido de 4π estereorradianes en condiciones (por ejemplo, de corriente, tensión o temperatura) especificadas en las normas aplicables. Se refiere al flujo inicial de la fuente luminosa no atenuada tras un breve período de funcionamiento, a menos que esté claramente especificado que se hace referencia al flujo atenuado o al flujo tras un determinado período de funcionamiento. En relación con las fuentes luminosas que pueden regularse para emitir diferentes espectros de luz o diferentes intensidades luminosas máximas, se refiere al flujo con los «ajustes de control de referencia» definidos en el anexo I. 
+ 10) 
+ «Índice de rendimiento de color» (CRI, colour rendering index ): unidad de medida que cuantifica el efecto de un iluminante en la apariencia cromática de los objetos comparado consciente o inconscientemente con su apariencia cromática bajo el iluminante de referencia; es el Ra medio del rendimiento de color correspondiente a los primeros ocho colores de ensayo (R1-R8) definidos en las normas. 
+ 11) 
+ «Incandescencia»: fenómeno en virtud del cual se genera luz a partir del calor, producido por lo general en las fuentes luminosas mediante un conductor filiforme («filamento») que se calienta por el paso de una corriente eléctrica. 
+ 12) 
+ «Fuente luminosa halógena»: fuente luminosa incandescente con un conductor filiforme de volframio rodeado de un gas que contiene halógenos o compuestos halogenados. 
+ 13) 
+ «Fluorescencia» o «fuente luminosa fluorescente»: fenómeno o fuente luminosa que utiliza una descarga de gas eléctrica, del tipo de mercurio a baja presión, en la que la mayor parte de la luz es emitida por una o varias capas de fósforos activadas por la radiación ultravioleta de la descarga. Las fuentes luminosas fluorescentes pueden ser de casquillo único o de casquillo doble según tengan una o dos conexiones (casquillos) a su suministro de electricidad. A efectos del presente Reglamento, las fuentes luminosas de inducción magnética también se consideran fuentes luminosas fluorescentes. 
+ 14) 
+ «Descarga de alta intensidad» (HID, high intensity discharge ): descarga de gas eléctrica en la que el arco que produce la luz es estabilizado por la temperatura de la pared y la cámara del arco tiene una carga de la pared de la ampolla superior a 3 vatios por centímetro cuadrado. Las fuentes luminosas de descarga de alta intensidad se limitan a las de halogenuros metálicos, sodio de alta presión y vapor de mercurio definidas en el anexo I. 
+ 15) 
+ «Descarga de gas»: fenómeno en virtud del cual se produce luz, directa o indirectamente, por una descarga eléctrica a través de gas, plasma, vapor metálico o una mezcla de gases y vapores. 
+ 16) 
+ «Diodo emisor de luz inorgánico» (LED, light-emitting diode): tecnología con la cual se produce luz a partir de un dispositivo en estado sólido que incorpora una unión p-n de material inorgánico. Esta unión emite radiación óptica cuando es activada por una corriente eléctrica. 
+ 17) 
+ «Diodo emisor de luz orgánico» (OLED, organic light-emitting diode): tecnología con la cual se produce luz a partir de un dispositivo en estado sólido que incorpora una unión p-n de material orgánico. Esta unión emite radiación óptica cuando es activada por una corriente eléctrica. 
+ 18) 
+ «Fuente luminosa de sodio a alta presión» (HPS, high-pressure sodium): fuente luminosa de descarga de alta intensidad en la que la luz se produce principalmente por la radiación del vapor de sodio a una presión parcial de funcionamiento del orden de 10 kilopascales. Las fuentes luminosas de sodio a alta presión pueden ser de terminal único o de terminal doble según tengan uno o dos conectores al suministro de electricidad. 
+ 19) 
+ «Punto de venta»: lugar físico donde el producto se expone o se ofrece al cliente para su venta, alquiler o alquiler con derecho a compra. 
+ A efectos de los anexos, en el anexo I figuran definiciones adicionales. 
+ Artículo 3 
+ Obligaciones de los proveedores 
+ 1.   Los proveedores de fuentes luminosas deberán velar por que: 
+ a) 
+ cada fuente luminosa que se introduzca en el mercado como producto independiente (es decir, no en un producto continente) y en un embalaje se suministre con una etiqueta, impresa en el embalaje, que se ajuste al formato establecido en el anexo III; 
+ b) 
+ los parámetros de la ficha de información del producto, como se indica en el anexo V, se consignen en la base de datos de los productos; 
+ c) 
+ si así lo solicita específicamente el distribuidor, la ficha de información del producto esté disponible en formato impreso; 
+ d) 
+ el contenido de la documentación técnica, según figura en el anexo VI, se consigne en la base de datos de los productos; 
+ e) 
+ toda publicidad visual de un modelo específico de fuente luminosa contenga la clase de eficiencia energética del modelo y el intervalo de clases de eficiencia energética disponibles en la etiqueta, de conformidad con los anexos VII y VIII; 
+ f) 
+ todo material técnico de promoción relativo a un modelo específico de fuente luminosa, incluido el material técnico de promoción en internet, que describa sus parámetros técnicos específicos incluya la clase de eficiencia energética de dicho modelo y el intervalo de clases de eficiencia energética disponibles en la etiqueta, de conformidad con el anexo VII; 
+ g) 
+ se facilite a los distribuidores una etiqueta electrónica con el formato y la información que figuran en el anexo III para cada modelo de fuente luminosa; 
+ h) 
+ se facilite a los distribuidores una ficha de información del producto electrónica, según figura en el anexo V, para cada modelo de fuente luminosa; 
+ i) 
+ a solicitud de los distribuidores y de conformidad con el artículo 4, letra e), se faciliten etiquetas impresas autoadhesivas, del mismo tamaño de las etiquetas existentes, para el reescalado de los productos. 
+ 2.   Los proveedores de los productos continentes deberán: 
+ a) 
+ proporcionar información sobre las fuentes luminosas contenidas, con arreglo a lo especificado en el punto 2 del anexo V; 
+ b) 
+ a petición de las autoridades de vigilancia del mercado, proporcionar información sobre la manera de retirar las fuentes luminosas para su verificación sin ocasionarles daños permanentes. 
+ 3.   La clase de eficiencia energética se calculará de conformidad con el anexo II. 
+ Artículo 4 
+ Obligaciones de los distribuidores 
+ Los distribuidores deberán velar por que: 
+ a) 
+ en el punto de venta, cada fuente luminosa que no esté en un producto continente lleve la etiqueta facilitada por los proveedores de conformidad con el artículo 3, apartado 1, letra a), con la etiqueta o la clase energética expuestas de manera que sean claramente visibles, de acuerdo con el anexo III; 
+ b) 
+ en caso de venta a distancia, se proporcionen la etiqueta y la ficha de información del producto, de conformidad con lo dispuesto en los anexos VII y VIII; 
+ c) 
+ toda publicidad visual de un modelo específico de fuente luminosa, incluida la presentada en internet, contenga la clase de eficiencia energética del modelo y el intervalo de clases de eficiencia disponibles en la etiqueta, de conformidad con el anexo VII; 
+ d) 
+ todo material técnico de promoción relativo a un modelo específico de fuente luminosa, incluido el material técnico de promoción en internet, que describa sus parámetros técnicos específicos incluya la clase de eficiencia energética de dicho modelo y el intervalo de clases de eficiencia energética disponibles en la etiqueta, de conformidad con el anexo VII; 
+ e) 
+ las etiquetas existentes en las fuentes luminosas en los puntos de venta se sustituyan por etiquetas reescaladas de forma que queden cubiertas, incluso en caso de estar impresas o unidas al embalaje, en el plazo de dieciocho meses después de la aplicación del presente Reglamento. 
+ Artículo 5 
+ Obligaciones de las plataformas de alojamiento en internet 
+ Cuando un prestador de servicios de alojamiento de datos contemplado en el artículo 14 de la Directiva 2000/31/CE permita la venta de fuentes luminosas a través de su sitio internet, deberá hacer posible que se muestre la etiqueta electrónica y la ficha de información del producto electrónica proporcionadas por el distribuidor en el mecanismo de visualización, de conformidad con las disposiciones del anexo VIII, e informará al distribuidor de la obligación de exponer esta información. 
+ Artículo 6 
+ Métodos de medida 
+ La información que deba proporcionarse con arreglo a los artículos 3 y 4 se obtendrá con métodos de medida y de cálculo fiables, exactos y reproducibles, que tengan en cuenta el método de medida y de cálculo más avanzado reconocido que figura en el anexo II. 
+ Artículo 7 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Los Estados miembros aplicarán el procedimiento de verificación establecido en el anexo IX cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 8, apartado 3, del Reglamento (UE) 2017/1369. 
+ Artículo 8 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso tecnológico y presentará al foro consultivo los resultados de esa revisión, incluido, en su caso, un proyecto de propuesta de revisión, a más tardar el 25 de diciembre de 2024. La revisión deberá, entre otras cosas, evaluar las clases de eficiencia energética, los métodos para abordar la eficiencia energética de las fuentes luminosas en los productos continentes y la posibilidad de abordar aspectos de la economía circular. 
+ Artículo 9 
+ Derogación 
+ Queda derogado, con efecto a partir del 1 de septiembre de 2021, el Reglamento Delegado (UE) n. o 874/2012, con excepción de su artículo 3, apartado 2, y su artículo 4, apartado 2, que quedan derogados con efecto a partir del 25 de diciembre de 2019. 
+ Artículo 10 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea . 
+ Será aplicable a partir del 1 de septiembre de 2021. No obstante, el artículo 3, apartado 1, letra b), será aplicable a partir del 1 de mayo de 2021. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 11 de marzo de 2019. 
+ Por la Comisión 
+ El Presidente 
+ Jean-Claude JUNCKER
+ ( 1 )   
+ DO L 198 de 28.7.2017, p. 1 . 
+ ( 2 )   Comunicación de la Comisión. Plan de trabajo sobre diseño ecológico 2016-2019, COM(2016) 773 final, de 30 de noviembre de 2016. 
+ ( 3 )   Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía ( DO L 285 de 31.10.2009, p. 10 ). 
+ ( 4 )   Reglamento Delegado (UE) n. o 874/2012 de la Comisión, de 12 de julio de 2012, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en lo relativo al etiquetado energético de las lámparas eléctricas y las luminarias ( DO L 258 de 26.9.2012, p. 1 ). 
+ ( 5 )   Directiva 2000/31/CE del Parlamento Europeo y del Consejo, de 8 de junio de 2000, relativa a determinados aspectos jurídicos de los servicios de la sociedad de la información, en particular el comercio electrónico en el mercado interior (Directiva sobre comercio electrónico) ( DO L 178 de 17.7.2000, p. 1 ). 
+ ( 6 )   Reglamento Delegado (UE) 2017/254 de la Comisión, de 30 de noviembre de 2016, por el que se modifican los Reglamentos Delegados (UE) n. o 1059/2010, (UE) n. o 1060/2010, (UE) n. o 1061/2010, (UE) n. o 1062/2010, (UE) n. o 626/2011, (UE) n. o 392/2012, (UE) n. o 874/2012, (UE) n. o 665/2013, (UE) n. o 811/2013, (UE) n. o 812/2013, (UE) n. o 65/2014, (UE) n. o 1254/2014, (UE) 2015/1094, (UE) 2015/1186 y (UE) 2015/1187 en lo relativo al uso de las tolerancias en los procedimientos de verificación ( DO L 38 de 15.2.2017, p. 1 ). 
+ ( 7 )   Reglamento (CE) n. o 278/2009 de la Comisión, de 6 de abril de 2009, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo en lo concerniente a los requisitos de diseño ecológico aplicables a la eficiencia media en activo de las fuentes de alimentación externas y a su consumo de energía eléctrica durante el funcionamiento en vacío ( DO L 93 de 7.4.2009, p. 3 ). 
+ ANEXO I 
+ Definiciones aplicables a los anexos 
+ Se aplicarán las siguientes definiciones: 
+ 1) 
+ «Fuente luminosa de red» (MLS, mains light source ): fuente luminosa que puede funcionar directamente con el suministro eléctrico de la red. Las fuentes luminosas que funcionen directamente con la red eléctrica y que también puedan hacerlo indirectamente utilizando un mecanismo de control independiente se considerarán fuentes luminosas de red. 
+ 2) 
+ «Fuente luminosa no de red» (NMLS, non-mains light source ): fuente luminosa que necesita un mecanismo de control independiente para funcionar con la red eléctrica. 
+ 3) 
+ «Mecanismo de control independiente»: mecanismo de control que no está integrado físicamente en una fuente luminosa y se introduce en el mercado como producto separado o como pieza de un producto continente. 
+ 4) 
+ «Fuente luminosa direccional» (DLS, directional light source ): fuente luminosa con al menos el 80 % del flujo luminoso total dentro de un ángulo sólido de π sr (correspondiente a un cono con un ángulo de 120°). 
+ 5) 
+ «Fuente luminosa no direccional» (NDLS, non-directional light source ): fuente luminosa que no es una fuente luminosa direccional. 
+ 6) 
+ «Fuente luminosa conectada» (CLS, connected light source ): fuente luminosa que incluye piezas de conexión de datos que son física o funcionalmente inseparables de las piezas emisoras luz, a fin de mantener los «ajustes de control de referencia». La fuente luminosa puede tener piezas de conexión de datos integradas físicamente en una única carcasa inseparable, o estar combinada con piezas de conexión de datos físicamente separadas que se introducen en el mercado junto con la fuente luminosa como un único producto. 
+ 7) 
+ «Piezas de conexión de datos»: piezas que realizan cualquiera de las siguientes funciones: 
+ a) 
+ recepción o transmisión de señales de datos alámbricas o inalámbricas y su procesamiento (para el control de la función emisora de luz y, posiblemente, para otros fines); 
+ b) 
+ detección y procesamiento de las señales detectadas (para el control de la función emisora de luz y, posiblemente, para otros fines); 
+ c) 
+ una combinación de las anteriores. 
+ 8) 
+ «Fuente luminosa de color variable» (CTLS, colour-tuneable light source ): fuente luminosa que puede ajustarse para que emita luz con una gran variedad de colores fuera del intervalo definido en el artículo 2, pero también para emitir luz blanca dentro de dicho intervalo, por lo que la fuente luminosa entra en el ámbito de aplicación del presente Reglamento. 
+ No se consideran CTLS las fuentes luminosas de luz blanca variable que solo pueden ajustarse para emitir luz, con diferentes temperaturas de color correlacionadas, dentro del intervalo definido en el artículo 2, ni las fuentes luminosas de intensidad regulable que, cuando se atenúan, cambian la luz blanca que emiten a una temperatura de color correlacionada inferior, simulando el comportamiento de las fuentes luminosas incandescentes. 
+ 9) 
+ «Pureza de excitación»: porcentaje calculado para una CTLS ajustada para emitir luz de un color determinado, mediante un procedimiento definido con más detalle en las normas, trazando una línea recta en un gráfico de espacio de color (x e y) a partir de un punto con las coordenadas de color x = 0,333 e y = 0,333 (estímulo acromático; punto 1), atravesando el punto que representa las coordenadas de color (x e y) de la fuente luminosa (punto 2) y terminando en el límite exterior del espacio de color (locus, punto 3). La pureza de excitación se calcula como la distancia entre los puntos 1 y 2 dividida por la distancia entre los puntos 1 y 3. La longitud total de la línea representa una pureza colorimétrica del 100 % (punto sobre el locus). El punto de estímulo acromático representa una pureza colorimétrica del 0 % (luz blanca). 
+ 10) 
+ «Fuente luminosa de alta luminancia» (HLLS, high-luminance light source): fuente luminosa de LED con una luminancia media superior a 30 cd/mm 2 en la dirección de la intensidad máxima. 
+ 11) 
+ «Luminancia» (en una dirección dada y en un punto dado de una superficie real o imaginaria): flujo luminoso transmitido por un haz elemental que atraviesa el punto dado y se propaga en el ángulo sólido que contiene la dirección dada, dividido por el área de una sección de dicho haz que contiene el punto dado (cd/m 2 ). 
+ 12) 
+ «Luminancia media» (luminancia HLLS): en el caso de una fuente luminosa de LED, luminancia media en un área emisora de luz en la que la luminancia es superior al 50 % de la luminancia máxima (cd/mm 2 ). 
+ 13) 
+ «Piezas de control de la iluminación»: piezas que están integradas en una fuente luminosa, o que están físicamente separadas pero se comercializan junto con una fuente luminosa como un único producto, que no son estrictamente necesarias para que la fuente luminosa emita luz a plena carga, pero que hacen posible el control manual o automático, directo o a distancia, de la intensidad luminosa, la cromaticidad, la temperatura de color correlacionada, el espectro de luz o el ángulo del haz. Los atenuadores se considerarán también piezas de control de la iluminación. 
+ El término incluye asimismo las piezas de conexión de datos, pero no los dispositivos que entran en el ámbito de aplicación del Reglamento (CE) n. o 1275/2008 de la Comisión  ( 1 ) . 
+ 14) 
+ «Piezas ajenas a la iluminación»: piezas integradas en una fuente luminosa, o que están físicamente separadas pero se comercializan junto con una fuente luminosa como un único producto, que no son necesarias para que la fuente luminosa emita luz a plena carga y que no son «piezas de control de la iluminación». Cabe citar como ejemplos los siguientes: altavoces (audio), cámaras, repetidores de las señales de comunicación para ampliar el alcance (por ejemplo de la WiFi), piezas que ayudan a equilibrar la red (cambiando a las propias baterías internas cuando es necesario), la carga de las baterías, las notificaciones visuales (llegada de correo, timbre de la puerta, alertas), o la utilización de Light Fidelity (Li-Fi, una tecnología de comunicación inalámbrica bidireccional, de alta velocidad y totalmente en red). 
+ El término incluye asimismo las piezas de conexión de datos con otras funciones que la de controlar la función emisora de luz. 
+ 15) 
+ «Flujo luminoso útil» (Φ use ): parte del flujo luminoso de una fuente luminosa que se tiene en cuenta al determinar su eficiencia energética: 
+ — 
+ en el caso de las fuentes luminosas no direccionales, es el flujo total emitido en un ángulo sólido de 4π sr (correspondiente a una esfera de 360°); 
+ — 
+ en el caso de fuentes luminosas direccionales con un ángulo del haz ≥ 90°, es el flujo emitido en un ángulo sólido de π sr (correspondiente a un cono con un ángulo de 120°); 
+ — 
+ en el caso de fuentes luminosas direccionales con un ángulo del haz < 90°, es el flujo emitido en un ángulo sólido de 0,586π sr (correspondiente a un cono con un ángulo de 90°). 
+ 16) 
+ «Ángulo del haz»: referido a una fuente luminosa direccional, ángulo entre dos líneas imaginarias en un plano que corta el eje del haz óptico, de forma que esas líneas pasan por el centro del frente de la fuente luminosa y por una serie de puntos en los que la intensidad luminosa equivale al 50 % de la intensidad del haz central, considerada esta como el valor de la intensidad luminosa medida en el eje del haz óptico. 
+ En el caso de fuentes luminosas que tienen diferentes ángulos del haz en diferentes planos, se tendrá en cuenta el ángulo del haz que sea mayor. 
+ En el caso de fuentes luminosas cuyo ángulo del haz puede ser controlado por el usuario, se tendrá en cuenta el ángulo del haz que corresponda a los «ajustes de control de referencia». 
+ 17) 
+ «Plena carga»: condición de una fuente luminosa, dentro de las condiciones de funcionamiento declaradas, en la que emite el flujo luminoso máximo (sin atenuar). 
+ 18) 
+ «Modo de espera»: condición de una fuente luminosa en la que esta está conectada a la red de alimentación, pero, de forma intencionada, no emite luz y está a la espera de una señal de control para volver a un estado con emisión de luz. Las piezas de control de la iluminación que hacen posible la función de espera deberán estar en su modo de control. Las piezas ajenas a la iluminación deberán estar desconectadas o apagadas, o su consumo de energía deberá minimizarse siguiendo las instrucciones del fabricante. 
+ 19) 
+ «Modo de espera en red»: condición de una CLS en la que esta está conectada a la red de alimentación, pero, de forma intencionada, no emite luz y está a la espera de una activación iniciada a distancia para volver a un estado con emisión de luz. Las piezas de control de la iluminación deberán estar en su modo de control. Las piezas ajenas a la iluminación deberán estar desconectadas o apagadas, o su consumo de energía deberá minimizarse siguiendo las instrucciones del fabricante. 
+ 20) 
+ «Modo de control»: condición de las piezas de control de la iluminación en la que estas están conectadas a la fuente luminosa y ejercen sus funciones de manera que puede generarse internamente una señal de control o puede recibirse, por vía alámbrica o inalámbrica, una activación iniciada a distancia que se procesa para producir un cambio en la emisión de luz de la fuente luminosa. 
+ 21) 
+ «Activación iniciada a distancia»: señal que llega de fuera de la fuente luminosa a través de una red. 
+ 22) 
+ «Señal de control»: señal analógica o digital que se transmite a la fuente luminosa por vía alámbrica o inalámbrica o bien mediante modulación de la tensión en cables de control aparte o bien mediante una señal modulada en la tensión de red. La transmisión de la señal no se produce a través de una red, sino, por ejemplo, desde una fuente interna o un mando a distancia entregado con el producto. 
+ 23) 
+ «Red»: infraestructura de comunicación compuesta por una topología de enlaces, una arquitectura, incluidos los componentes físicos, unos principios de organización y unos procedimientos y formatos de comunicación (protocolos). 
+ 24) 
+ «Potencia en modo encendido» (P on ): consumo de energía eléctrica, expresado en vatios, de una fuente luminosa a plena carga con todas las piezas de control de la iluminación y las piezas ajenas a la iluminación desconectadas. Si estas piezas no pueden desconectarse, deberán estar apagadas, o su consumo de energía deberá minimizarse siguiendo las instrucciones del fabricante. En el caso de una NMLS que necesite un mecanismo de control independiente para funcionar, P on podrá medirse directamente en la entrada de la fuente luminosa, o bien se determinará utilizando un mecanismo de control de eficiencia conocida, cuyo consumo de energía eléctrica se restará después del valor de entrada de la potencia de red medido. 
+ 25) 
+ «Potencia en espera» (P sb ): consumo de energía eléctrica, expresado en vatios, de una fuente luminosa en modo de espera. 
+ 26) 
+ «Potencia en espera en red» (P net ): consumo de energía eléctrica, expresado en vatios, de una CLS en modo de espera en red. 
+ 27) 
+ «Ajustes de control de referencia»: ajuste de control o combinación de ajustes de control que se utilizan para verificar si una fuente luminosa cumple lo dispuesto en el presente Reglamento. Estos ajustes son pertinentes para las fuentes luminosas que permiten al usuario final controlar, manual o automáticamente, directamente o a distancia, la intensidad luminosa, el color, la temperatura de color correlacionada, el espectro o el ángulo del haz de la luz emitida. 
+ En principio, los ajustes de control de referencia serán los predefinidos por el fabricante como valores de fábrica por defecto, que son los que el usuario encontrará cuando instale por primera vez el producto. Si el procedimiento de instalación ofrece una actualización de software automática durante la primera instalación, o si el usuario tiene la opción de llevar a cabo tal actualización, se tendrá en cuenta el (posible) cambio de los ajustes resultante. 
+ Si el valor de fábrica se fija deliberadamente de manera distinta al ajuste de control de referencia (por ejemplo, en baja potencia con fines de seguridad), el fabricante deberá indicar en la documentación técnica cómo volver a los ajustes de control de referencia para la verificación de la conformidad, y ofrecer una justificación técnica de por qué el valor de fábrica se fija de manera distinta al ajuste de control de referencia. 
+ El fabricante de la fuente luminosa deberá definir los ajustes de control de referencia de manera que: 
+ — 
+ la fuente luminosa esté dentro del ámbito de aplicación del presente Reglamento con arreglo al artículo 1 y no sea aplicable ninguna de las condiciones de exención; 
+ — 
+ las piezas de control de la iluminación y las piezas ajenas a la iluminación estén desconectadas o apagadas, o, si esto no es posible, su consumo de energía sea mínimo; 
+ — 
+ se obtenga la condición de plena carga; 
+ — 
+ cuando el usuario final decida volver a los valores de fábrica por defecto, obtenga los ajustes de control de referencia. 
+ En el caso de fuentes luminosas que permitan al fabricante de un producto continente elegir opciones de aplicación que influyan en las características de la fuente luminosa (por ejemplo, definición de las corrientes de funcionamiento o diseño térmico) y que no puedan ser controladas por el usuario final, no será necesario definir los ajustes de control de referencia. En tal caso, serán de aplicación las condiciones de ensayo nominales definidas por el fabricante de la fuente luminosa. 
+ 28) 
+ «Fuente luminosa de mercurio a alta presión»: fuente luminosa de descarga de alta intensidad en la que la mayor parte de la luz se produce, directa o indirectamente, por la radiación de mercurio predominantemente vaporizado a una presión parcial superior a 100 kilopascales. 
+ 29) 
+ «Fuente luminosa de halogenuros metálicos» (MH): fuente luminosa de descarga de alta intensidad en la que la luz se produce por la radiación de una mezcla de vapor metálico, halogenuros metálicos y productos de la disociación de halogenuros metálicos. Las fuentes luminosas MH pueden ser de terminal único o de terminal doble según tengan uno o dos conectores al suministro de electricidad. El material del tubo de descarga de las fuentes luminosas MH puede ser de cuarzo (QMH) o de cerámica (CMH). 
+ 30) 
+ «Fuente luminosa fluorescente compacta» (CFL): fuente luminosa fluorescente de casquillo único con construcción de tubo curvo, diseñada para encajar en espacios reducidos. Las CFL pueden tener principalmente forma espiralada (es decir, formas rizadas) o principalmente forma de tubos paralelos múltiples conectados, con o sin una segunda envolvente de tipo ampolla. Las CFL están disponibles con (CFLi) o sin (CFLni) mecanismo de control físicamente integrado. 
+ 31) 
+ «T2», «T5», «T8», «T9» y «T12»: fuente luminosa tubular con un diámetro aproximado de 7, 16, 26, 29 y 38 mm, respectivamente, tal como se define en las normas. El tubo puede ser recto (lineal) o curvo (por ejemplo, en forma de U o circular). 
+ 32) 
+ «LFL T5-HE»: fuente luminosa lineal fluorescente T5 de alta eficiencia con una corriente de funcionamiento inferior a 0,2 A. 
+ 33) 
+ «LFL T5-HO»: fuente luminosa lineal fluorescente T5 de alta potencia de salida con una corriente de funcionamiento superior o igual a 0,2 A. 
+ 34) 
+ «HL R7s»: fuente luminosa halógena lineal de tensión de red y de casquillo doble de 7 mm de diámetro. 
+ 35) 
+ «De batería»: se refiere a un producto que solo funciona con la corriente continua suministrada por una fuente contenida en el propio producto, sin conexión directa ni indirecta a la red de alimentación eléctrica. 
+ 36) 
+ «Segunda envolvente»: segunda envolvente exterior de una fuente luminosa de descarga de alta intensidad que no es necesaria para la producción de luz, por ejemplo, una camisa externa para evitar la liberación de mercurio y vidrio en el medio ambiente en caso de rotura de la lámpara. Al determinar la presencia de una segunda envolvente, los tubos de descarga de alta intensidad no se considerarán envolvente. 
+ 37) 
+ «Envolvente opaca»: en el caso de una fuente luminosa de descarga de alta intensidad, envolvente exterior o tubo exterior no transparentes en los que no es visible el tubo de descarga que produce la luz. 
+ 38) 
+ «Protección antideslumbramiento»: deflector opaco de tipo mecánico u óptico, reflectante o no, diseñado para bloquear la radiación visible directa emitida por el emisor de luz de una fuente luminosa direccional, a fin de evitar el deslumbramiento parcial temporal (deslumbramiento incapacitador) de un observador que la mire directamente. El término no incluye el revestimiento superficial del emisor de luz de la fuente luminosa direccional. 
+ 39) 
+ «Parpadeo»: percepción de inestabilidad visual inducida por un estímulo luminoso, cuya luminancia o distribución espectral fluctúan con el tiempo, respecto de un observador estático en un entorno estático. Las fluctuaciones pueden ser periódicas y no periódicas, y estar inducidas por la propia fuente luminosa, la fuente de energía u otros factores influyentes. 
+ La unidad de medida del parpadeo utilizada en el presente Reglamento es el parámetro «Pst LM», donde «st» significa breve y «LM» es el método del flickermetro de luz, según se define en las normas. Un valor Pst LM = 1 significa que el observador medio tiene un 50 % de probabilidades de detectar el parpadeo, 
+ 40) 
+ «Efecto estroboscópico»: cambio en la percepción del movimiento inducido por un estímulo luminoso, cuya luminancia o distribución espectral fluctúan con el tiempo, respecto de un observador estático en un entorno no estático. Las fluctuaciones pueden ser periódicas y no periódicas, y estar inducidas por la propia fuente luminosa, la fuente de energía u otros factores influyentes. 
+ La unidad de medida del efecto estroboscópico utilizada en el presente Reglamento es la medida de la visibilidad estroboscópica («SVM», stroboscopic visibility measure ), según se define en las normas. El valor SVM = 1 representa el umbral de visibilidad correspondiente a un observador medio. 
+ 41) 
+ «R9»: índice de rendimiento de color de un objeto coloreado de rojo según se define en las normas. 
+ 42) 
+ «Valor declarado»: referido a un parámetro, valor indicado por el fabricante o el importador en la documentación técnica con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369. 
+ 43) 
+ «Intensidad luminosa» (candelas o cd): cociente que se obtiene al dividir el flujo luminoso que sale de la fuente y se propaga en el elemento de ángulo sólido que contiene la dirección dada, por ese elemento de ángulo sólido. 
+ 44) 
+ «Temperatura de color correlacionada» (CCT [K]): temperatura de un radiador planckiano (cuerpo negro) cuyo color percibido es el que más se aproxima al de un estímulo determinado con el mismo brillo y en condiciones de observación específicas. 
+ 45) 
+ «Consistencia cromática»: desviación máxima de las coordenadas de cromaticidad iniciales (tras un breve período de tiempo) promediadas en el espacio (x e y) de una única fuente luminosa respecto del punto central de cromaticidad (cx y cy), declarada por el fabricante o el importador y expresada como el tamaño (en pasos) de la elipse de MacAdam formada en torno al punto central de cromaticidad (cx y cy). 
+ 46) 
+ «Factor de desplazamiento» (cos φ1): coseno del ángulo de fase φ1 entre el armónico fundamental de la tensión de red y el armónico fundamental de la corriente de red. Se emplea para las fuentes luminosas de red que utilizan tecnología LED u OLED. El factor de desplazamiento se mide a plena carga, con respecto a los ajustes de control de referencia, si son aplicables, con las piezas de control de la iluminación en modo de control y las piezas ajenas a la iluminación desconectadas, apagadas o ajustadas en su consumo mínimo siguiendo las instrucciones del fabricante. 
+ 47) 
+ «Factor de mantenimiento del flujo luminoso» (X LMF ): relación entre el flujo luminoso emitido por una fuente luminosa en un momento dado de su vida útil y el flujo luminoso inicial. 
+ 48) 
+ «Factor de supervivencia» (SF, survival factor): fracción determinada del número total de fuentes luminosas que siguen funcionando en un momento dado en condiciones y con una frecuencia de conmutación definidas. 
+ 49) 
+ «Vida útil»: en el caso de las fuentes luminosas de LED y OLED, el tiempo en horas entre el comienzo de su uso y el momento en que, en el 50 % de una población de fuentes luminosas, la producción de luz se ha degradado progresivamente hasta un valor inferior al 70 % del flujo luminoso inicial. Se denomina también vida útil L 70 B 50 . 
+ 50) 
+ «Mecanismo de visualización»: cualquier pantalla, incluidas las pantallas táctiles, u otra tecnología visual utilizadas para presentar contenidos de internet a los usuarios. 
+ 51) 
+ «Pantalla táctil»: pantalla que responde al tacto, como la de las tabletas digitales, los ordenadores pizarra o los teléfonos inteligentes. 
+ 52) 
+ «Visualización anidada»: interfaz visual en la que se accede a una imagen o a un conjunto de datos con un clic o un barrido del ratón o con la expansión de otra imagen o conjunto de datos en una pantalla táctil. 
+ 53) 
+ «Texto alternativo»: texto facilitado como alternativa a un gráfico que permite presentar información de forma no gráfica cuando los dispositivos de visualización no pueden presentar el gráfico o como ayuda a la accesibilidad, por ejemplo acompañando a las aplicaciones con síntesis de voz. 
+ 54) 
+ «Área superficial proyectada emisora de luz» (A): área superficial en mm 2 (milímetros cuadrados) de la vista en una proyección ortográfica de la superficie emisora de luz desde la dirección con la mayor intensidad luminosa, siendo el área superficial emisora de luz el área superficial de la fuente luminosa que emite luz con las características ópticas declaradas, como es la superficie aproximadamente esférica de un arco (a), la superficie cilíndrica de un filamento en espiral (b) o una lámpara de descarga de gas (c, d), o la envolvente plana o semiesférica de un diodo emisor de luz (e). 
+ En el caso de fuentes luminosas con una envolvente opaca o una protección antideslumbramiento, el área superficial emisora de luz es toda el área a través de la cual sale la luz de la fuente luminosa. 
+ En el caso de fuentes luminosas que contengan más de un emisor de luz, se tomará como superficie emisora de luz la proyección del menor volumen bruto que envuelva todos los emisores. 
+ En el caso de fuentes luminosas de descarga de alta intensidad se aplica la definición (a), a menos que se apliquen las dimensiones definidas en (d) con L > D, donde L es la distancia entre las puntas de los electrodos y D el diámetro interior del tubo de descarga. 
+ 55) 
+ «Código de respuesta rápida» (código QR): código de barras matricial incluido en la etiqueta energética de un modelo de producto, que enlaza con la información relativa a ese modelo contenida en la parte pública de la base de datos de los productos. 
+ ( 1 )   Reglamento (CE) n. o 1275/2008 de la Comisión, de 17 de diciembre de 2008, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo en lo concerniente a los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos preparado y desactivado de los equipos eléctricos y electrónicos domésticos y de oficina ( DO L 339 de 18.12.2008, p. 45 ). 
+ ANEXO II 
+ Clases de eficiencia energética y método de cálculo 
+ La clase de eficiencia energética de las fuentes luminosas se determinará como se indica en el cuadro 1 sobre la base de la eficacia total de la red eléctrica η TM , que se calcula dividiendo el flujo luminoso útil declarado Φ use (expresado en lm ) por el consumo de potencia en modo encendido P on declarado (expresado en W ) y multiplicando por el factor aplicable F TM del cuadro 2, como sigue: 
+ η TM = (Φ use /P on ) × F TM ( lm/W ). 
+ Cuadro 1 
+ Clases de eficiencia energética de las fuentes luminosas 
+ Clase de eficiencia energética 
+ Eficacia total de la red eléctrica ηΤ M (lm/W) 
+ A 
+ 210 ≤ ηΤ M 
+ B 
+ 185 ≤ ηΤ M < 210 
+ C 
+ 160 ≤ ηΤ M < 185 
+ D 
+ 135 ≤ ηΤ M < 160 
+ E 
+ 110 ≤ ηΤ M < 135 
+ F 
+ 85 ≤ ηΤ M < 110 
+ G 
+ ηΤ M < 85 
+ Cuadro 2 
+ Factores F TM por tipo de fuente luminosa 
+ Tipo de fuente luminosa 
+ Factor F TM 
+ Fuentes no direccionales (NDLS) que funcionan con la red eléctrica (MLS) 
+ 1,000 
+ Fuentes no direccionales (NDLS) que no funcionan con la red eléctrica (NMLS) 
+ 0,926 
+ Fuentes direccionales (DLS) que funcionan con la red eléctrica (MLS) 
+ 1,176 
+ Fuentes direccionales (DLS) que no funcionan con la red eléctrica (NMLS) 
+ 1,089 
+ ANEXO III 
+ Etiqueta para fuentes luminosas 
+ 1.   ETIQUETA 
+ Si la fuente luminosa va a ser comercializada a través de un punto de venta, en su embalaje individual deberá imprimirse una etiqueta cuyo formato y contenido informativo se ajusten a lo establecido en el presente anexo. 
+ Los proveedores deberán elegir el formato de etiqueta del punto 1.1 o del punto 1.2 del presente anexo. 
+ La etiqueta tendrá: 
+ — 
+ si es de tamaño normal, como mínimo 36 mm de anchura y 75 mm de altura; 
+ — 
+ si es de tamaño pequeño (de anchura inferior a 36 mm), como mínimo 20 mm de anchura y 54 mm de altura. 
+ El embalaje no deberá tener una anchura inferior a 20 mm y una altura inferior a 54 mm. 
+ Aunque se imprima en un formato mayor, su contenido deberá guardar la proporción con las especificaciones citadas. La etiqueta de tamaño pequeño no se utilizará en embalajes con una anchura igual o superior a 36 mm. 
+ La etiqueta y la flecha indicativa de la clase de eficiencia energética podrán imprimirse en monocromo, como se especifica en los puntos 1.1 y 1.2, únicamente si el resto de la información que figura en el embalaje, incluidos los gráficos, está impresa en monocromo. 
+ Si la etiqueta no va impresa en la parte del embalaje concebida para estar a la vista del posible cliente, se mostrará cómo sigue una flecha que contenga la letra de la clase de eficiencia energética, en un color que corresponda al de la letra y la clase energética. Su tamaño deberá hacerla claramente visible y legible. la letra de la flecha de la clase de eficiencia energética será Calibri negrita y se colocará en el centro de la parte rectangular de la flecha, con un borde de 0,5 pt en color 100 % negro en torno a la flecha y la letra de la clase de eficiencia. 
+ Figura 1 
+ Flecha coloreada/monocroma izquierda/derecha destinada a la parte del embalaje que está a la vista del posible cliente 
+ En el caso al que se refiere la letra e) del artículo 4, la etiqueta reescalada deberá tener un formato y un tamaño que le permitan cubrir la antigua etiqueta y adherirse a ella. 
+ 1.1.   Etiqueta de tamaño normal: 
+ La etiqueta será: 
+ 1.2.   Etiqueta de tamaño pequeño: 
+ La etiqueta será: 
+ 1.3.   La etiqueta de las fuentes luminosas deberá contener la siguiente información: 
+ I. 
+ el nombre o la marca del proveedor; 
+ II. 
+ el identificador del modelo del proveedor; 
+ III. 
+ la escala de clases de eficiencia energética, de la A a la G; 
+ IV. 
+ el consumo de energía, expresado en kWh de consumo de electricidad por 1 000 horas, de la fuente luminosa en modo encendido; 
+ V. 
+ el código QR; 
+ VI. 
+ la clase de eficiencia energética de conformidad con el anexo II; 
+ VII. 
+ el número del presente Reglamento, es decir, «2019/2015». 
+ 2.   DISEÑOS DE LA ETIQUETA 
+ 2.1.   Etiqueta de tamaño normal: 
+ 2.2.   Etiqueta de tamaño pequeño: 
+ 2.3.   Características: 
+ a) 
+ Las dimensiones y las especificaciones de los elementos que componen las etiquetas serán las indicadas en el punto 1 del anexo III y en los diseños de las etiquetas de tamaño normal y de tamaño pequeño destinadas a las fuentes luminosas. 
+ b) 
+ El fondo de la etiqueta será de color 100 % blanco. 
+ c) 
+ Los tipos de letra serán Verdana y Calibri. 
+ d) 
+ Los colores serán CMYK (cian, magenta, amarillo y negro) con arreglo al ejemplo siguiente: 0-70-100-0: cian 0 %, magenta 70 %, amarillo 100 % y negro 0 %. 
+ e) 
+ Las etiquetas deberán cumplir íntegramente los siguientes requisitos (los números remiten a las figuras anteriores): 
+ los colores del logotipo de la UE serán: 
+ — 
+ fondo: 100,80,0,0; 
+ — 
+ estrellas: 0,0,100,0; 
+ el color del logotipo de energía será: 100,80,0,0; 
+ el nombre del proveedor será de color 100 % negro e irá en Verdana negrita, de 8 pt o 5 pt (etiqueta de tamaño normal o de tamaño pequeño); 
+ el identificador del modelo será de color 100 % negro e irá en Verdana normal, de 8 pt o 5 pt (etiqueta de tamaño normal o de tamaño pequeño); 
+ la escala de A a G será como sigue: 
+ — 
+ las letras de la escala de eficiencia energética serán de color 100 % blanco e irán en Calibri negrita, de 10,5 pt o 7 pt (etiqueta de tamaño normal o de tamaño pequeño); deberán estar centradas en un eje a 2 mm-1,5 mm (etiqueta de tamaño normal o de tamaño pequeño) del lado izquierdo de las flechas; 
+ — 
+ los colores de la escala de A a G serán como sigue: 
+ — 
+ Clase A: 100,0,100,0; 
+ — 
+ Clase B: 70,0,100,0; 
+ — 
+ Clase C: 30,0,100,0; 
+ — 
+ Clase D: 0,0,100,0; 
+ — 
+ Clase E: 0,30,100,0; 
+ — 
+ Clase F: 0,70,100,0; 
+ — 
+ Clase G: 0,100,100,0; 
+ las líneas divisorias interiores tendrán un grosor de 0,5 pt y serán de color 100 % negro; 
+ la letra de la clase de eficiencia energética será de color 100 % blanco e irá en Calibri negrita, de 16 pt o 10 pt (etiqueta de tamaño normal o de tamaño pequeño); la flecha de la clase de eficiencia energética y la flecha correspondiente de la escala de A a G se colocarán de forma que sus puntas estén alineadas; la letra de la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, que será de color 100 % negro; 
+ el valor del consumo de energía irá en Verdana negrita, de 12 pt; el texto «kWh/1 000h» irá en Verdana normal, de 8 pt o 5 pt (etiqueta de tamaño normal o de tamaño pequeño), y será de color 100 % negro; 
+ el código QR será de color 100 % negro; 
+ el número del Reglamento será de color 100 % negro e irá en Verdana normal de 5 pt. 
+ ANEXO IV 
+ Excepciones 
+ 1.    
+ El presente Reglamento no se aplicará a las fuentes luminosas ensayadas y homologadas específicamente para funcionar: 
+ a) 
+ en instalaciones radiológicas y de medicina nuclear, a tenor del artículo 3 de la Directiva 2009/71/Euratom  ( 1 ) del Consejo; 
+ b) 
+ en caso de emergencia; 
+ c) 
+ en el interior o el exterior de establecimientos, equipos, vehículos terrestres, equipos marinos o aeronaves militares o de defensa civil, según se establece en las normativas de los Estados miembros o en los documentos emitidos por la Agencia Europea de Defensa; 
+ d) 
+ en el interior o el exterior de vehículos de motor, sus remolques y sistemas, equipos intercambiables remolcados, componentes y unidades técnicas independientes conforme a los Reglamentos (CE) n. o 661/2009  ( 2 ) , (UE) n. o 167/2013  ( 3 ) y (UE) n. o 168/2013  ( 4 ) del Parlamento Europeo y del Consejo; 
+ e) 
+ en el interior o el exterior de las máquinas móviles no de carretera conforme al Reglamento (UE) 2016/1628 del Parlamento Europeo y del Consejo  ( 5 ) , y en el interior o el exterior de sus remolques; 
+ f) 
+ en el interior o el exterior de equipos intercambiables conforme a la Directiva 2006/42/CE del Parlamento Europeo y del Consejo  ( 6 ) destinados a ser remolcados por vehículos o a ser montados y levantados por completo del suelo, o que no pueden articularse en torno a un eje vertical cuando el vehículo al que se unen circula por carretera, conforme al Reglamento (UE) n. o 167/2013; 
+ g) 
+ en el interior o el exterior de aeronaves civiles conforme al Reglamento (UE) n. o 748/2012 de la Comisión  ( 7 ) ; 
+ h) 
+ en el alumbrado de vehículos ferroviarios conforme a la Directiva 2008/57/CE del Parlamento Europeo y del Consejo  ( 8 ) ; 
+ i) 
+ en equipos marinos conforme a la Directiva 2014/90/UE del Parlamento Europeo y del Consejo  ( 9 ) ; 
+ j) 
+ en productos sanitarios conforme a la Directiva 93/42/CEE del Consejo  ( 10 ) o al Reglamento (UE) 2017/745 del Parlamento Europeo y del Consejo  ( 11 ) y en productos sanitarios para diagnóstico in vitro conforme a la Directiva 98/79/CE del Parlamento Europeo y del Consejo  ( 12 ) . 
+ A efectos del presente punto, por «ensayada y homologada específicamente» se entenderá que la fuente luminosa: 
+ — 
+ ha sido ensayada específicamente respecto de la condición de funcionamiento o la aplicación mencionadas, con arreglo a la legislación europea citada, a las medidas de ejecución correspondientes o a las normas europeas o internacionales pertinentes, o, en su defecto, con arreglo a la legislación de los Estados miembros aplicable; y 
+ — 
+ van acompañados de pruebas, que han de incluirse en la documentación técnica, en forma de certificado, marca de homologación de tipo o acta de ensayo, que acreditan que el producto ha sido homologado específicamente para la condición de funcionamiento o la aplicación mencionadas; y 
+ — 
+ se introducen en el mercado específicamente para la condición de funcionamiento o la aplicación mencionadas, como demuestran, como mínimo, la documentación técnica y, excepto con respecto a la letra d), la información que figura en el embalaje y todo material publicitario o de marketing. 
+ 2.    
+ El presente Reglamento tampoco se aplicará a: 
+ a) 
+ las pantallas de visualización electrónicas (por ejemplo, televisores, monitores de ordenador, ordenadores portátiles, tabletas, teléfonos móviles, lectores de libros electrónicos o consolas de juegos), entre otras las incluidas en el ámbito de aplicación del Reglamento (UE) 2019/2021 de la Comisión  ( 13 ) y del Reglamento (UE) n. o 617/2013 de la Comisión  ( 14 ) ; 
+ b) 
+ las fuentes luminosas de campanas extractoras en el ámbito de aplicación del Reglamento Delegado (UE) n. o 65/2014 de la Comisión  ( 15 ) ; 
+ c) 
+ las fuentes luminosas de productos de batería, por ejemplo, linternas, teléfonos móviles con linterna integrada, juguetes con fuentes luminosas, lámparas de mesa que solo funcionan con baterías, brazaletes luminosos para ciclistas o lámparas de jardín de energía solar; 
+ d) 
+ las fuentes luminosas de bicicletas y otros vehículos sin motor; 
+ e) 
+ fuentes luminosas para espectroscopia y aplicaciones fotométricas, como, por ejemplo, espectroscopia UV VIS, espectroscopia molecular, espectroscopia de absorción atómica, infrarrojo no dispersivo (NDIR), infrarrojo por transformada de Fourier (FTIR), análisis médico, elipsometría, medición del espesor de la capa, monitorización de procesos o monitorización medioambiental; 
+ 3.    
+ Toda fuente luminosa incluida en el ámbito de aplicación del presente Reglamento Delegado estará eximida de los requisitos en él establecidos, salvo los requisitos del punto 4 del anexo V, si se diseña y comercializa específicamente para su uso previsto en al menos una de las siguientes aplicaciones: 
+ a) 
+ señalización (entre otras, señalización del tráfico rodado, ferroviario, marítimo o aéreo, control del tráfico o lámparas de aeródromo); 
+ b) 
+ captación y proyección de imágenes (entre otras, fotocopiado, impresión [directamente o en tratamiento previo], litografía, proyección de películas y vídeos, u holografía); 
+ c) 
+ fuentes luminosas con potencia ultravioleta efectiva específica > 2 mW/klm, para aplicaciones que requieren un nivel elevado de UV; 
+ d) 
+ fuentes luminosas con una radiación máxima de alrededor de 253,7 nm, para uso germicida (destrucción de ADN); 
+ e) 
+ fuentes luminosas que emiten un 5 % o más de la potencia de radiación total del intervalo de 250-800 nm en el intervalo de 250-315 nm o el 20 % o más de la potencia de radiación total del intervalo de 250-800 nm en el intervalo de 315-400 nm, para desinfección o para captura de moscas; 
+ f) 
+ fuentes luminosas cuya finalidad principal es emitir una radiación de alrededor de 185,1 nm, para la generación de ozono; 
+ g) 
+ fuentes luminosas que emiten un 40 % o más de la potencia de radiación total del intervalo de 250-800 nm en el intervalo de 400-480 nm, para simbiosis entre zooxantelas y corales; 
+ h) 
+ fuentes luminosas FL que emiten un 80 % o más de la potencia de radiación total del intervalo de 250-800 nm en el intervalo de 250-400 nm, para bronceado; 
+ i) 
+ fuentes luminosas HID que emiten un 40 % o más de la potencia de radiación total del intervalo de 250-800 nm en el intervalo de 250-400 nm, para bronceado; 
+ j) 
+ fuentes luminosas con una eficacia fotosintética > 1,2 μmol/J o que emiten un 25 % o más de la potencia de radiación total del intervalo de 250-800 nm en el intervalo de 700-800 nm, para horticultura; 
+ k) 
+ fuentes luminosas de LED u OLED que se ajustan a la definición de «obras de arte originales» a tenor de la Directiva 2001/84/CE del Parlamento Europeo y del Consejo  ( 16 ) , hechas por el propio artista en un número limitado inferior a diez unidades; 
+ ( 1 )   Directiva 2009/71/Euratom del Consejo, de 25 de junio de 2009, por la que se establece un marco comunitario para la seguridad nuclear de las instalaciones nucleares ( DO L 172 de 2.7.2009, p. 18 ). 
+ ( 2 )   Reglamento (CE) n. o 661/2009 del Parlamento Europeo y del Consejo, de 13 de julio de 2009, relativo a los requisitos de homologación de tipo referentes a la seguridad general de los vehículos de motor, sus remolques y sistemas, componentes y unidades técnicas independientes a ellos destinados ( DO L 200 de 31.7.2009, p. 1 ). 
+ ( 3 )   Reglamento (UE) n. o 167/2013 del Parlamento Europeo y del Consejo, de 5 de febrero de 2013, relativo a la homologación de los vehículos agrícolas o forestales, y a la vigilancia del mercado de dichos vehículos ( DO L 60 de 2.3.2013, p. 1 ). 
+ ( 4 )   Reglamento (UE) n. o 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013, relativo a la homologación de los vehículos de dos o tres ruedas y los cuatriciclos, y a la vigilancia del mercado de dichos vehículos ( DO L 60 de 2.3.2013, p. 52 ). 
+ ( 5 )   Reglamento (UE) 2016/1628 del Parlamento Europeo y del Consejo, de 14 de septiembre de 2016, sobre los requisitos relativos a los límites de emisiones de gases y partículas contaminantes y a la homologación de tipo para los motores de combustión interna que se instalen en las máquinas móviles no de carretera, por el que se modifican los Reglamentos (UE) n. o 1024/2012 y (UE) n. o 167/2013, y por el que se modifica y deroga la Directiva 97/68/CE ( DO L 252 de 16.9.2016, p. 53 ). 
+ ( 6 )   Directiva 2006/42/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, relativa a las máquinas y por la que se modifica la Directiva 95/16/CE (refundición) ( DO L 157 de 9.6.2006, p. 24 ). 
+ ( 7 )   Reglamento (UE) n. o 748/2012 de la Comisión, de 3 de agosto de 2012, por el que se establecen las disposiciones de aplicación sobre la certificación de aeronavegabilidad y medioambiental de las aeronaves y los productos, componentes y equipos relacionados con ellas, así como sobre la certificación de las organizaciones de diseño y de producción ( DO L 224 de 21.8.2012, p. 1 ). 
+ ( 8 )   Directiva 2008/57/CE del Parlamento Europeo y del Consejo, de 17 de junio de 2008, sobre la interoperabilidad del sistema ferroviario dentro de la Comunidad (Texto refundido) ( DO L 191 de 18.7.2008, p. 1 ). 
+ ( 9 )   Directiva 2014/90/UE del Parlamento Europeo y del Consejo, de 23 de julio de 2014, sobre equipos marinos, y por la que se deroga la Directiva 96/98/CE del Consejo ( DO L 257 de 28.8.2014, p. 146 ). 
+ ( 10 )   Directiva 93/42/CEE del Consejo, de 14 de junio de 1993, relativa a los productos sanitarios ( DO L 169 de 12.7.1993, p. 1 ). 
+ ( 11 )   Reglamento (UE) 2017/745 del Parlamento Europeo y del Consejo, de 5 de abril de 2017, sobre los productos sanitarios, por el que se modifican la Directiva 2001/83/CE, el Reglamento (CE) n. o 178/2002 y el Reglamento (CE) n. o 1223/2009 y por el que se derogan las Directivas 90/385/CEE y 93/42/CEE del Consejo ( DO L 117 de 5.5.2017, p. 1 ). 
+ ( 12 )   Directiva 98/79/CE del Parlamento Europeo y del Consejo, de 27 de octubre de 1998, sobre productos sanitarios para diagnóstico in vitro ( DO L 331 de 7.12.1998, p. 1 ). 
+ ( 13 )   Reglamento (UE) 2019/2021 de la Comisión, de 1 de octubre de 2019, por el que se establecen requisitos de diseño ecológico aplicables a las pantallas electrónicas con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, se modifica el Reglamento (CE) n. o 1275/2008 de la Comisión y se deroga el Reglamento (CE) n. o 642/2009 de la Comisión (véase la página 241 del presente Diario Oficial). 
+ ( 14 )   Reglamento (UE) n. o 617/2013 de la Comisión, de 26 de junio de 2013, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a los ordenadores y servidores informáticos ( DO L 175 de 27.6.2013, p. 13 ). 
+ ( 15 )   Reglamento Delegado (UE) n. o 65/2014 de la Comisión, de 1 de octubre de 2013, por el que se complementa la Directiva 2010/30/UE del Parlamento Europeo y del Consejo en relación con el etiquetado energético de los hornos y campanas extractoras de uso doméstico ( DO L 29 de 31.1.2014, p. 1 ). 
+ ( 16 )   Directiva 2001/84/CE del Parlamento Europeo y del Consejo, de 27 de septiembre de 2001, relativa al derecho de participación en beneficio del autor de una obra de arte original ( DO L 272 de 13.10.2001, p. 32 ). 
+ ANEXO V 
+ Información del producto 
+ 1.    Ficha de información del producto 
+ 1.1. 
+ Con arreglo al artículo 3, apartado 1, letra b), el proveedor deberá introducir en la base de datos de los productos la información que figura en el cuadro 3, incluso cuando la fuente luminosa sea una pieza de un producto continente. 
+ Cuadro 3 
+ Ficha de información del producto 
+ Nombre o marca del proveedor: 
+ Dirección del proveedor 
+  ( 1 ) 
+ : 
+ Identificador del modelo: 
+ Tipo de fuente luminosa: 
+ Tecnología de iluminación utilizada: 
+ [HL/LFL T5 HE/LFL T5 HO/CFLni/otras FL/HPS/MH/otras HID/LED/OLED/mixtas/otras] 
+ No direccional o direccional: 
+ [NDLS/DLS] 
+ De red o no de red: 
+ [MLS/NMLS] 
+ Fuente luminosa conectada (CLS): 
+ [sí/no] 
+ Fuente luminosa de color variable: 
+ [sí/no] 
+ Envolvente: 
+ [no/segunda/opaca] 
+ Fuente luminosa de alta luminancia: 
+ [sí/no] 
+ Protección antideslumbramiento: 
+ [sí/no] 
+ Atenuable: 
+ [sí/solo con atenuadores específicos/no] 
+ Parámetros del producto 
+ Parámetro 
+ Valor 
+ Parámetro 
+ Valor 
+ Parámetros generales del producto: 
+ Consumo de energía en modo encendido (kWh/1 000 h) 
+ x 
+ Clase de eficiencia energética 
+ [A/B/C/D/E/F/G]  ( 2 ) 
+ Flujo luminoso útil (Φ use ), indicando si se refiere al flujo en una esfera (360°), en un cono amplio (120°) o en un cono estrecho (90°) 
+ x en [esfera/cono amplio/cono estrecho] 
+ Temperatura de color correlacionada, redondeada a los 100 K más próximos, o intervalo de temperaturas de color correlacionadas, redondeado a los 100 K más próximos, que puede regularse 
+ [x/x…x] 
+ Potencia en modo encendido (P on ), expresada en W 
+ x,x 
+ Potencia en espera (P sb ), expresada en W y redondeada al segundo decimal 
+ x,xx 
+ Potencia en espera en red (P net ), expresada en W y redondeada al segundo decimal, en el caso de CLS 
+ x,xx 
+ Índice de rendimiento de color, redondeado al entero más próximo, o intervalo de valores CRI que puede regularse 
+ [x/x…x] 
+ Dimensiones exteriores sin mecanismo de control independiente, piezas de control de la iluminación ni piezas ajenas a la iluminación, de haberlos (milímetros) 
+ Altura 
+ x 
+ Distribución espectral de la potencia en el intervalo de 250 nm a 800 nm, a plena carga 
+ [gráfico] 
+ Anchura 
+ x 
+ Profundidad 
+ x 
+ Declaración de potencia equivalente  ( 3 ) 
+ [sí/-] 
+ En caso afirmativo, potencia equivalente (W) 
+ x 
+ Coordenadas de cromaticidad (x e y) 
+ 0,xxx 
+ 0,xxx 
+ Parámetros de fuentes luminosas direccionales: 
+ Intensidad luminosa máxima (cd) 
+ x 
+ Ángulo del haz en grados, o intervalo de ángulos del haz que puede regularse 
+ [x/x…x] 
+ Parámetros de fuentes luminosas de LED y OLED: 
+ Valor del índice de rendimiento de color R9 
+ x 
+ Factor de supervivencia 
+ x,xx 
+ Factor de mantenimiento del flujo luminoso 
+ x,xx 
+ Parámetros de fuentes luminosas de red de LED y OLED: 
+ Factor de desplazamiento (cos φ1) 
+ x,xx 
+ Consistencia cromática en elipses de MacAdam 
+ x 
+ Declaración de que una fuente luminosa de LED sustituye a una fuente luminosa fluorescente sin balasto integrado de un determinado vataje. 
+ [sí/-]  ( 4 ) 
+ En caso afirmativo, declaración de sustitución (W) 
+ x 
+ Unidad de medida del parpadeo (Pst LM) 
+ x,x 
+ Unidad de medida del efecto estroboscópico (SVM) 
+ x,x 
+ Cuadro 4 
+ Flujo luminoso de referencia para las declaraciones de equivalencia 
+ Tipo de reflector de muy baja tensión 
+ Tipo 
+ Potencia (W) 
+ Referencia Φ 90° (lm) 
+ MR11 GU4 
+ 20 
+ 160 
+ 35 
+ 300 
+ MR16 GU 5.3 
+ 20 
+ 180 
+ 35 
+ 300 
+ 50 
+ 540 
+ AR111 
+ 35 
+ 250 
+ 50 
+ 390 
+ 75 
+ 640 
+ 100 
+ 785 
+ Tipo de reflector de vidrio soplado con tensión de red 
+ Tipo 
+ Potencia (W) 
+ Referencia Φ 90° (lm) 
+ R50/NR50 
+ 25 
+ 90 
+ 40 
+ 170 
+ R63/NR63 
+ 40 
+ 180 
+ 60 
+ 300 
+ R80/NR80 
+ 60 
+ 300 
+ 75 
+ 350 
+ 100 
+ 580 
+ R95/NR95 
+ 75 
+ 350 
+ 100 
+ 540 
+ R125 
+ 100 
+ 580 
+ 150 
+ 1 000 
+ Tipo de reflector de vidrio prensado con tensión de red 
+ Tipo 
+ Potencia (W) 
+ Referencia Φ 90° (lm) 
+ PAR16 
+ 20 
+ 90 
+ 25 
+ 125 
+ 35 
+ 200 
+ 50 
+ 300 
+ PAR20 
+ 35 
+ 200 
+ 50 
+ 300 
+ 75 
+ 500 
+ PAR25 
+ 50 
+ 350 
+ 75 
+ 550 
+ PAR30S 
+ 50 
+ 350 
+ 75 
+ 550 
+ 100 
+ 750 
+ PAR36 
+ 50 
+ 350 
+ 75 
+ 550 
+ 100 
+ 720 
+ PAR38 
+ 60 
+ 400 
+ 75 
+ 555 
+ 80 
+ 600 
+ 100 
+ 760 
+ 120 
+ 900 
+ Cuadro 5 
+ Factores de multiplicación para el mantenimiento del flujo luminoso 
+ Tipo de fuente luminosa 
+ Factor de multiplicación del flujo luminoso 
+ Fuentes luminosas halógenas 
+ 1 
+ Fuentes luminosas fluorescentes 
+ 1,08 
+ Fuentes luminosas de LED 
+ 1 + 0,5 × (1 – LLMF) 
+ donde LLMF es el factor de mantenimiento del flujo luminoso al final de la vida útil declarada 
+ Cuadro 6 
+ Factores de multiplicación para las fuentes luminosas de LED 
+ Ángulo del haz de la fuente luminosa de LED 
+ Factor de multiplicación del flujo luminoso 
+ 20° ≤ ángulo del haz 
+ 1 
+ 15° ≤ ángulo del haz < 20° 
+ 0,9 
+ 10° ≤ ángulo del haz < 15° 
+ 0,85 
+ ángulo del haz < 10° 
+ 0,80 
+ Cuadro 7 
+ Declaraciones de equivalencia para fuentes luminosas no direccionales 
+ Flujo luminoso asignado de la fuente luminosa Φ (lm) 
+ Potencia equivalente declarada de fuente luminosa incandescente (W) 
+ 136 
+ 15 
+ 249 
+ 25 
+ 470 
+ 40 
+ 806 
+ 60 
+ 1 055 
+ 75 
+ 1 521 
+ 100 
+ 2 452 
+ 150 
+ 3 452 
+ 200 
+ Cuadro 8 
+ Valores de eficacia mínima para las fuentes luminosas T8 y T5 
+ T8 (26 mm Ø) 
+ T5 (16 mm Ø) 
+ Alta eficiencia 
+ T5 (16 mm Ø) 
+ Alta potencia 
+ Potencia equivalente declarada (W) 
+ Eficacia luminosa mínima (lm/W) 
+ Potencia equivalente declarada (W) 
+ Eficacia luminosa mínima (lm/W) 
+ Potencia equivalente declarada (W) 
+ Eficacia luminosa mínima (lm/W) 
+ 15 
+ 63 
+ 14 
+ 86 
+ 24 
+ 73 
+ 18 
+ 75 
+ 21 
+ 90 
+ 39 
+ 79 
+ 25 
+ 76 
+ 28 
+ 93 
+ 49 
+ 88 
+ 30 
+ 80 
+ 35 
+ 94 
+ 54 
+ 82 
+ 36 
+ 93 
+ 80 
+ 77 
+ 38 
+ 87 
+ 58 
+ 90 
+ 70 
+ 89 
+ En el caso de las fuentes luminosas que pueden regularse para emitir luz a plena carga con diferentes características, los valores de los parámetros que varían con estas características deberán comunicarse con los ajustes de control de referencia. 
+ Si la fuente luminosa deja de introducirse en el mercado de la UE, el proveedor deberá consignar en la base de datos de los productos la fecha (mes, año) en que dejó de introducirse en el mercado de la UE. 
+ 2.    Información que debe mostrarse en la documentación de un producto continente 
+ Si una fuente luminosa se introduce en el mercado como pieza de un producto continente, en la documentación técnica de este deberán indicarse claramente las fuentes luminosas que contiene, en especial la clase de eficiencia energética. 
+ Si una fuente luminosa se introduce en el mercado como pieza de un producto continente, deberá figurar de forma claramente legible en el manual del usuario o en el folleto de instrucciones el texto siguiente: 
+ «Este producto contiene una fuente luminosa de la clase de eficiencia energética <X>», 
+ donde <X> se sustituirá por la clase de eficiencia energética de la fuente luminosa en cuestión. 
+ Si el producto contiene más de una fuente luminosa, la frase podrá ir en plural o repetirse en relación con cada fuente luminosa, según convenga. 
+ 3.    Información que debe figurar en el sitio web de libre acceso del proveedor 
+ a) 
+ Los ajustes de control de referencia, e instrucciones sobre cómo aplicarlos, si procede. 
+ b) 
+ Instrucciones sobre la manera de retirar las piezas de control de la iluminación y las piezas ajenas a la iluminación, si las hay, o sobre la manera de apagarlas o de minimizar su consumo de energía. 
+ c) 
+ Si la fuente luminosa es atenuable: una lista de los atenuadores con los que es compatible, así como la norma de compatibilidad entre fuentes luminosas y atenuadores a la que se ajusta, en su caso. 
+ d) 
+ Si la fuente luminosa contiene mercurio: instrucciones sobre la forma de limpiar los restos en caso de rotura accidental. 
+ e) 
+ Recomendaciones sobre la manera de eliminar la fuente luminosa al final de su vida útil en consonancia con la Directiva 2012/19/UE del Parlamento Europeo y del Consejo  ( 1 ) . 
+ 4.    Información relativa a los productos especificados en el punto 3 del anexo IV 
+ En el caso de las fuentes luminosas especificadas en el punto 3 del anexo IV, deberá indicarse su uso previsto en toda forma de embalaje, información sobre el producto y anuncio, y asimismo deberá indicarse claramente que la fuente luminosa en cuestión no está destinada a ser utilizada en otras aplicaciones. 
+ La documentación técnica que se elabore a efectos de evaluación de la conformidad, de acuerdo con el artículo 3, apartado 3, del Reglamento (UE) 2017/1369, deberá enumerar los parámetros técnicos que hacen que el diseño del producto sea específico para poder acogerse a la excepción. 
+ ( 1 )   Los cambios introducidos en estos elementos no se considerarán relevantes a efectos del artículo 4, apartado 4, del Reglamento (UE) 2017/1369. 
+ ( 2 )   Si la base de datos de los productos genera automáticamente el contenido definitivo de esta celda, el proveedor no introducirá estos datos. 
+ ( 3 )   
+ «-»: no aplicable; 
+ «sí»: Solo puede hacerse una declaración de equivalencia que incluya la potencia de un tipo de fuente luminosa sustituido: 
+ — 
+ En el caso de fuentes luminosas direccionales, si el tipo de fuente luminosa figura en la lista del cuadro 4 y el flujo luminoso de la fuente luminosa en un cono de 90° (Φ 90° ) no es inferior al correspondiente flujo luminoso de referencia de dicho cuadro. El flujo luminoso de referencia se multiplicará por el factor de corrección del cuadro 5. En el caso de fuentes luminosas de LED, se multiplicará además por el factor de corrección del cuadro 6. 
+ — 
+ En el caso de fuentes luminosas no direccionales, la potencia equivalente declarada de fuente luminosa incandescente (con redondeo a 1 W) será la que corresponda en el cuadro 7 al flujo luminoso de la fuente luminosa. 
+ Los valores intermedios del flujo luminoso y de la potencia equivalente declarada de la fuente luminosa (con redondeo al vatio más próximo) se calcularán por interpolación lineal entre los dos valores adyacentes. 
+ ( 4 )   
+ «-»: no aplicable; 
+ «sí»: Declaración de que una fuente luminosa de LED sustituye a una fuente luminosa fluorescente sin balasto integrado de un determinado vataje. Solo puede hacerse esta declaración si: 
+ — 
+ la intensidad luminosa en cualquier dirección alrededor del eje del tubo no se desvía más de un 25 % de la intensidad luminosa media alrededor del tubo; y 
+ — 
+ el flujo luminoso de la fuente luminosa de LED no es inferior al flujo luminoso de la fuente luminosa fluorescente del vataje declarado; el flujo luminoso de la fuente luminosa fluorescente se obtendrá multiplicando el vataje declarado por el valor mínimo de eficacia luminosa correspondiente a la fuente luminosa fluorescente del cuadro 8; y 
+ — 
+ el vataje de la fuente luminosa de LED no es superior al de la fuente luminosa fluorescente a la que se declara que sustituye. 
+ El registro de documentación técnica deberá contener los datos que fundamenten estas declaraciones. 
+ ( 1 )   Directiva 2012/19/UE del Parlamento Europeo y del Consejo, de 4 de julio de 2012, sobre residuos de aparatos eléctricos y electrónicos (RAEE) ( DO L 197 de 24.7.2012, p. 38 ). 
+ ANEXO VI 
+ Documentación técnica 
+ 1.    
+ La documentación técnica a la que se refiere el artículo 3, apartado 1, letra d), deberá incluir: 
+ a) 
+ el nombre y la dirección del proveedor; 
+ b) 
+ el identificador del modelo del proveedor; 
+ c) 
+ el identificador del modelo de todos los modelos equivalentes ya introducidos en el mercado; 
+ d) 
+ la identidad y la firma de la persona que esté facultada para actuar en nombre del proveedor; 
+ e) 
+ los valores declarados y medidos correspondientes a los siguientes parámetros técnicos: 
+ 1) 
+ el flujo luminoso útil Φ use en lm; 
+ 2) 
+ el índice de rendimiento de color (CRI); 
+ 3) 
+ la potencia en modo encendido (P on ) en W; 
+ 4) 
+ el ángulo del haz en grados, en el caso de fuentes luminosas direccionales; 
+ 5) 
+ la temperatura de color correlacionada en K, en el caso de fuentes luminosas FL e HID; 
+ 6) 
+ la potencia en espera (P sb ) en W, incluso si es igual a cero; 
+ 7) 
+ la potencia en espera en red (P net ) en W, en el caso de fuentes luminosas conectadas; 
+ 8) 
+ el factor de desplazamiento (cos φ1), en el caso de fuentes luminosas de red de LED y OLED; 
+ 9) 
+ la consistencia cromática en pasos de la elipse de MacAdam, en el caso de fuentes luminosas de LED y OLED; 
+ 10) 
+ la luminancia-HLLS en cd/mm 2 (solo en el caso de HLLS); 
+ 11) 
+ el valor del flickermetro (Pst LM), en el caso de fuentes luminosas de LED y OLED; 
+ 12) 
+ el valor del efecto estroboscópico (SVM), en el caso de fuentes luminosas de LED y OLED; 
+ 13) 
+ la pureza de excitación, solo en el caso de CTLS, correspondiente a los siguientes colores y longitudes de onda dominantes en el intervalo dado: 
+ Color 
+ Intervalo de longitud de onda dominante 
+ Azul 
+ 440 nm – 490 nm 
+ Verde 
+ 520 nm – 570 nm 
+ Rojo 
+ 610 nm – 670 nm 
+ f) 
+ los cálculos efectuados con los parámetros, en especial la determinación de la clase de eficiencia energética; 
+ g) 
+ las referencias de las normas armonizadas aplicadas o de otras normas utilizadas; 
+ h) 
+ las condiciones de ensayo, si no se describen suficientemente en la letra g); 
+ i) 
+ los ajustes de control de referencia e instrucciones sobre cómo aplicarlos, si procede; 
+ j) 
+ instrucciones sobre la manera de retirar las piezas de control de la iluminación y las piezas ajenas a la iluminación, si las hay, o sobre la manera de apagarlas o de minimizar su consumo de energía durante los ensayos de la fuente luminosa; 
+ k) 
+ las precauciones específicas que deberán tomarse durante el montaje, la instalación, el mantenimiento o el ensayo del modelo. 
+ ANEXO VII 
+ Información que debe facilitarse en los anuncios visuales, el material técnico de promoción y la venta a distancia, excepto la venta a distancia por internet 
+ 1.    
+ En los anuncios visuales, para garantizar la conformidad con los requisitos establecidos en el artículo 3, apartado 1, letra e), y en el artículo 4, apartado 1, letra c), la clase energética y el intervalo de clases de eficiencia disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo. 
+ 2.    
+ En el material técnico de promoción, para garantizar la conformidad con los requisitos establecidos en el artículo 3, apartado 1, letra f), y en el artículo 4, apartado 1, letra d), la clase energética y el intervalo de clases de eficiencia disponibles en la etiqueta se mostrarán como se indica en el punto 4 del presente anexo. 
+ 3.    
+ En toda venta a distancia por medio impreso deben mostrarse, como se indica en el punto 4 del presente anexo, la clase energética y el intervalo de clases de eficiencia disponibles en la etiqueta. 
+ 4.    
+ La clase de eficiencia energética y el intervalo de clases de eficiencia energética deberán mostrarse, como se indica en la figura 2, con: 
+ a) 
+ una flecha que contenga la letra de la clase de eficiencia energética en color 100 % blanco y Calibri negrita, con un tamaño de fuente al menos equivalente al del precio, si este aparece indicado; 
+ b) 
+ el color de la flecha igual que el de la clase de eficiencia energética; 
+ c) 
+ el intervalo de clases de eficiencia energética disponibles, en color 100 % negro; y 
+ d) 
+ un tamaño que haga que la flecha sea claramente visible y legible; la letra de la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, con un borde de 0,5 pt en color 100 % negro en torno a la flecha y la letra de la clase de eficiencia energética; 
+ No obstante, si los anuncios visuales, el material técnico de promoción o la venta a distancia por medio impreso se imprimen en monocromo, la flecha podrá estar en ellos en monocromo. 
+ Figura 2 
+ Flecha coloreada/monocroma izquierda/derecha, con indicación del intervalo de clases de eficiencia energética 
+ 5.    
+ En la venta a distancia por telemarketing debe informarse específicamente al cliente de la clase de eficiencia energética del producto y del intervalo de clases de eficiencia energética disponibles en la etiqueta, así como de la posibilidad de acceder a la etiqueta completa y a la ficha de información del producto a través de un sitio web de libre acceso o solicitando una copia impresa. 
+ 6.    
+ En todas las situaciones mencionadas en los puntos 1 a 3 y 5, el cliente debe poder acceder a la etiqueta y a la ficha de información del producto mediante un enlace al sitio web de la base de datos de los productos, o bien solicitar una copia impresa. 
+ ANEXO VIII 
+ Información que debe facilitarse en caso de venta a distancia por internet 
+ 1.    
+ La correspondiente etiqueta facilitada por los proveedores conforme al artículo 3, apartado 1, letra g), deberá mostrarse en el mecanismo de visualización cerca del precio del producto. Deberá tener un tamaño que la haga claramente visible y legible y que sea proporcional al tamaño de la etiqueta normalizada especificado en el anexo III. 
+ La etiqueta podrá mostrarse mediante una visualización anidada, en cuyo caso la imagen utilizada para acceder a ella deberá cumplir las especificaciones establecidas en el punto 3 del presente anexo. Si se utiliza la visualización anidada, la etiqueta deberá aparecer con el primer clic o barrido del ratón sobre la imagen o la primera expansión de esta en pantalla táctil. 
+ 2.    
+ En caso de visualización anidada, la imagen que se utilice para acceder a la etiqueta, según se indica en la figura 3, deberá: 
+ a) 
+ consistir en una flecha del color correspondiente a la clase de eficiencia energética del producto que figure en su etiqueta; 
+ b) 
+ indicar en la flecha la clase de eficiencia energética del producto en color 100 % blanco y Calibri negrita, con un tamaño de fuente equivalente al del precio; 
+ c) 
+ incluir el intervalo de clases de eficiencia energética disponibles, en color 100 % negro; y 
+ d) 
+ presentar uno de los dos formatos siguientes, con un tamaño tal que la flecha sea claramente visible y legible; la letra de la flecha de la clase de eficiencia energética se colocará en el centro de la parte rectangular de la flecha, con un borde visible en color 100 % negro en torno a la flecha y la letra de la clase de eficiencia energética: 
+ Figura 3 
+ Flecha coloreada izquierda/derecha, con indicación del intervalo de clases de eficiencia energética 
+ 3.    
+ En caso de visualización anidada, la visualización de la etiqueta deberá seguir la siguiente secuencia: 
+ a) 
+ la imagen a la que se refiere el punto 2 del presente anexo se presentará en el mecanismo de visualización cerca del precio del producto; 
+ b) 
+ la imagen deberá enlazar con la etiqueta del anexo III; 
+ c) 
+ la etiqueta se visualizará con un clic o barrido del ratón sobre la imagen o una expansión de esta en pantalla táctil; 
+ d) 
+ la etiqueta se visualizará en una ventana emergente, en otra pestaña, en otra página o en una pantalla en recuadro; 
+ e) 
+ para aumentar el tamaño de la etiqueta en las pantallas táctiles, se aplicarán las convenciones sobre ampliación táctil de estos dispositivos; 
+ f) 
+ la etiqueta dejará de visualizarse utilizando la opción «cerrar» u otro mecanismo habitual de cierre; 
+ g) 
+ el texto alternativo al gráfico, que aparecerá si no se visualiza la etiqueta, consistirá en la clase de eficiencia energética del producto en un tamaño de fuente equivalente al del precio. 
+ 4.    
+ La correspondiente ficha de información del producto facilitada por los proveedores conforme al artículo 3, apartado 1, letra h), se mostrará en el mecanismo de visualización cerca del precio del producto. La ficha de información del producto deberá tener un tamaño que la haga claramente visible y legible. La ficha de información del producto podrá mostrarse mediante visualización anidada o por referencia a la base de datos de los productos, en cuyo caso el enlace utilizado para acceder a la ficha de información del producto deberá indicar de manera clara y legible el texto «Ficha de información del producto». Si se utiliza la visualización anidada, la ficha de información del producto aparecerá con el primer clic o barrido del ratón sobre el enlace o la primera expansión de este en pantalla táctil. 
+ ANEXO IX 
+ Procedimiento de verificación a efectos de vigilancia del mercado 
+ Las tolerancias de verificación definidas en el presente anexo se refieren únicamente a la verificación de los parámetros medidos por parte de las autoridades de los Estados miembros. Dichas tolerancias no deberán ser utilizadas por el proveedor como tolerancia permitida para establecer los valores de la documentación técnica. Los valores y las clases consignados en la etiqueta o en la ficha de información del producto no serán más favorables para el proveedor que los valores presentados en la documentación técnica. 
+ Al verificar la conformidad de un modelo de producto con los requisitos establecidos en el presente Reglamento Delegado, las autoridades de los Estados miembros aplicarán el siguiente procedimiento: 
+ 1. 
+ Las autoridades del Estado miembro verificarán una sola unidad del modelo en relación con el punto 2, letras a) y b), del presente anexo. 
+ Las autoridades del Estado miembro verificarán diez unidades del modelo de fuente luminosa en relación con el punto 2, letra c), del presente anexo. Las tolerancias de verificación se establecen en el cuadro 6 del presente anexo. 
+ 2. 
+ Se considerará que el modelo cumple los requisitos aplicables si: 
+ a) 
+ los valores indicados en la documentación técnica con arreglo al artículo 3, apartado 3, del Reglamento (UE) 2017/1369 (valores declarados), así como, en su caso, los valores utilizados para calcular dichos valores, no son más favorables para el proveedor que los correspondientes valores indicados en las actas de ensayo; y 
+ b) 
+ los valores publicados en la etiqueta y en la ficha de información del producto no son más favorables para el proveedor que los valores declarados, y la clase de eficiencia energética indicada no es más favorable para el proveedor que la clase determinada por los valores declarados; y 
+ c) 
+ cuando las autoridades del Estado miembro ensayen las unidades del modelo, los valores determinados cumplen las respectivas tolerancias de verificación indicadas en el cuadro 9, entendiéndose por «valor determinado» la media aritmética de los valores medidos de un parámetro concreto de las unidades ensayadas, o la media aritmética de los valores de los parámetros calculados a partir de otros valores medidos. 
+ 3. 
+ Si no se alcanzan los resultados contemplados en el punto 2, letras a), b) o c), se considerará que ni el modelo ni los modelos que figuren como modelos equivalentes en la documentación técnica del proveedor son conformes con el presente Reglamento. 
+ 4. 
+ Una vez adoptada una decisión sobre la no conformidad del modelo con arreglo al punto 3 del presente anexo, las autoridades del Estado miembro proporcionarán sin demora toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión. 
+ Las autoridades del Estado miembro solo aplicarán las tolerancias de verificación que se indican en el cuadro 9 y solo utilizarán el procedimiento descrito en el presente anexo. Con respecto a los parámetros del cuadro 9 no se aplicarán otras tolerancias, como las establecidas en normas armonizadas o en cualquier otro método de medición. 
+ Cuadro 9 
+ Tolerancias de verificación 
+ Parámetro 
+ Tamaño de la muestra 
+ Tolerancias de verificación 
+ Potencia en modo encendido a plena carga P on 
+ [ W ]: 
+ P on ≤ 2 W 
+ 10 
+ El valor determinado no superará el valor declarado en más de 0,20 W. 
+ 2 W < P on ≤ 5 W 
+ 10 
+ El valor determinado no superará el valor declarado en más del 10 %. 
+ 5 W < P on ≤ 25 W 
+ 10 
+ El valor determinado no superará el valor declarado en más del 5 %. 
+ 25 W < P on ≤ 100 W 
+ 10 
+ El valor determinado no superará el valor declarado en más del 5 %. 
+ 100 W < P on 
+ 10 
+ El valor determinado no superará el valor declarado en más del 2,5 %. 
+ Factor de desplazamiento [ 0-1 ] 
+ 10 
+ El valor determinado no será inferior al valor declarado menos 0,1 unidades. 
+ Flujo luminoso útil Φ use 
+ [ lm ] 
+ 10 
+ El valor determinado no será inferior al valor declarado menos el 10 %. 
+ Potencia en espera P sb y potencia en espera en red P net [ W ] 
+ 10 
+ El valor determinado no superará el valor declarado en más de 0,10 W. 
+ CRI y R9 [ 0-100 ] 
+ 10 
+ El valor determinado no será inferior al valor declarado en más de 2,0 unidades. 
+ Parpadeo [ Pst LM ] y efecto estroboscópico [ SVM ] 
+ 10 
+ El valor determinado no superará el valor declarado en más del 10 %. 
+ Consistencia cromática [ pasos de la elipse de MacAdam ] 
+ 10 
+ El número determinado de pasos no superará el número declarado de pasos. El centro de la elipse de MacAdam será el centro declarado por el proveedor con una tolerancia de 0,005 unidades. 
+ Ángulo del haz [ grados] 
+ 10 
+ El valor determinado no se apartará del valor declarado más del 25 %. 
+ Eficacia total de la red eléctrica η TM [lm/W] 
+ 10 
+ El valor determinado (cociente) no será inferior al valor declarado menos el 5 %. 
+ Factor de mantenimiento del flujo luminoso (en el caso de LED y OLED) 
+ 10 
+ El valor determinado de la muestra X LMF % no será inferior a X LMF,MIN % conforme al texto del anexo V del Reglamento (UE) 2019/2020 de la Comisión  ( 1 ) . 
+ Factor de supervivencia (en el caso de LED y OLED) 
+ 10 
+ Por lo menos nueve fuentes luminosas de la muestra de ensayo deben funcionar después de realizar el ensayo de endurancia del anexo V del Reglamento (UE) 2019/2020. 
+ Factor de mantenimiento del flujo luminoso (en el caso de FL e HID) 
+ 10 
+ El valor determinado no será inferior al 90 % del valor declarado. 
+ Factor de supervivencia (en el caso de FL e HID) 
+ 10 
+ El valor determinado no será inferior al valor declarado. 
+ Pureza de excitación [%] 
+ 10 
+ El valor determinado no será inferior al valor declarado menos el 5 %. 
+ Temperatura de color correlacionada [K] 
+ 10 
+ El valor determinado no se apartará del valor declarado más del 10 %. 
+ Intensidad luminosa máxima [cd] 
+ 10 
+ El valor determinado no se apartará del valor declarado más del 25 %. 
+ En el caso de fuentes luminosas con geometría lineal que sean extensibles y de mucha longitud, como las tiras o cadenas de LED, en los ensayos de verificación de las autoridades de vigilancia del mercado se tomará una longitud de 50 cm o, si la fuente luminosa no es extensible hasta esa longitud, el valor más próximo a 50 cm. El proveedor de la fuente luminosa deberá indicar qué mecanismo de control es adecuado para esa longitud. 
+ Al verificar si un producto es una fuente luminosa, las autoridades de vigilancia del mercado deberán comparar directamente los valores medidos de las coordenadas de cromaticidad (x e y), el flujo luminoso, la densidad del flujo luminoso y el índice de rendimiento de color con los valores límite contenidos en la definición de fuente luminosa del artículo 2 del presente Reglamento, sin aplicar ninguna tolerancia. Si cualquiera de las diez unidades de la muestra reúne las condiciones para ser una fuente luminosa, se considerará que el modelo de producto es una fuente luminosa. 
+ Las fuentes luminosas que permiten al usuario final controlar, manual o automáticamente, directamente o a distancia, la intensidad luminosa, el color, la temperatura de color correlacionada, el espectro o el ángulo del haz de la luz emitida se evaluarán utilizando los ajustes de control de referencia. 
+ ( 1 )   Reglamento (UE) 2019/2020 de la Comisión, de 1 de octubre de 2019, por el que se establecen requisitos de diseño ecológico para las fuentes luminosas y los mecanismos de control independientes con arreglo a la Directiva 2009/125/CE del Parlamento Europeo y del Consejo y se derogan los Reglamentos (CE) n. o 244/2009, (CE) n. o 245/2009 y (UE) n. o 1194/2012 de la Comisión (véase la página 209 del presente Diario Oficial). 
+ 

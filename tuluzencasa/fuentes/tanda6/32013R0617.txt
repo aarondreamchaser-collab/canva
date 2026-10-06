@@ -1,0 +1,928 @@
+ 
+ L_2013175ES.01001301.xml 
+ 27.6.2013    
+ ES 
+ Diario Oficial de la Unión Europea 
+ L 175/13 
+ REGLAMENTO (UE) N
+ o 617/2013 DE LA COMISIÓN
+ de 26 de junio de 2013
+ por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a los ordenadores y servidores informáticos 
+ (Texto pertinente a efectos del EEE) 
+ LA COMISIÓN EUROPEA, 
+ Visto el Tratado de Funcionamiento de la Unión Europea, 
+ Vista la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía  ( 1 ) , y, en particular, su artículo 15, apartado 1, 
+ Previa consulta al Foro consultivo al que se refiere el artículo 18 de la Directiva 2009/125/CE. 
+ Considerando lo siguiente: 
+ (1) 
+ De conformidad con la Directiva 2009/125/CE, la Comisión debe establecer requisitos de diseño ecológico para los productos relacionados con la energía que representan un volumen significativo de ventas y comercio, tienen un importante impacto medioambiental y presentan posibilidades significativas de mejora por lo que se refiere al impacto medioambiental sin que ello suponga costes excesivos. 
+ (2) 
+ El artículo 16, apartado 2, letra a), de la Directiva 2009/125/CE establece que, de conformidad con el procedimiento mencionado en el artículo 19, apartado 3, y con los criterios establecidos en el artículo 15, y previa consulta al Foro consultivo, la Comisión debe introducir, en su caso, una medida de ejecución relativa a los equipos ofimáticos. 
+ (3) 
+ La Comisión ha llevado a cabo un estudio preparatorio en el que se han analizado los aspectos técnicos, medioambientales y económicos de los ordenadores. En dicho estudio participaron las partes interesadas de la Unión y terceros países, y sus resultados se han puesto a disposición del público. 
+ (4) 
+ El estudio preparatorio estima las posibilidades de mejora rentable del consumo de electricidad de los ordenadores entre 2011 y 2020 en aproximadamente 93 TWh, lo que corresponde a 43 Mt de emisiones de CO 2 , y en 2020 entre 12,5 TWh y 16,3 TWh, lo que corresponde a 5,0–6,5 Mt de emisiones de CO 2 . Los ordenadores, por tanto, constituyen un grupo de productos para el que deben establecerse requisitos de diseño ecológico. 
+ (5) 
+ Puesto que una gran parte del potencial de ahorro de energía de los clientes ligeros de mesa, las estaciones de trabajo, los pequeños servidores y los servidores informáticos está vinculada a la eficiencia de sus fuentes de alimentación internas, y dado que las especificaciones técnicas de las fuentes de alimentación internas de estos productos son similares a las de los ordenadores de mesa y los ordenadores integrados de mesa, las disposiciones sobre la eficiencia de las fuentes de alimentación internas del presente Reglamento también deben aplicarse a los primeros. No obstante, otros aspectos del comportamiento medioambiental de los clientes ligeros de mesa, las estaciones de trabajo, las estaciones de trabajo móviles, los pequeños servidores y los servidores informáticos podrían abordarse en una medida más específica de ejecución de la Directiva 2009/125/CE. 
+ (6) 
+ Las pantallas poseen características específicas y, por tanto, deben excluirse del ámbito de aplicación del presente Reglamento. No obstante, teniendo en cuenta su impacto medioambiental significativo y sus posibilidades significativas de mejora, podrían abordarse en otra medida de ejecución de la Directiva 2009/125/CE y/o de la Directiva 2010/30/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la indicación del consumo de energía y otros recursos por parte de los productos relacionados con la energía, mediante el etiquetado y una información normalizada  ( 2 ) . 
+ (7) 
+ Los requisitos de diseño ecológico no deben tener ninguna repercusión negativa significativa sobre la funcionalidad del producto o los consumidores, y en particular en lo que se refiere a la asequibilidad del producto, los costes del ciclo de vida y la competitividad de la industria. Además, los requisitos no deben imponer a los fabricantes tecnologías patentadas ni una carga administrativa excesiva, ni afectar negativamente a la salud, la seguridad y el medio ambiente. 
+ (8) 
+ Procede mejorar la eficiencia energética de los ordenadores aplicando tecnologías existentes, rentables y no patentadas, que puedan reducir los gastos combinados totales de su adquisición y funcionamiento. 
+ (9) 
+ Los requisitos de diseño ecológico deben introducirse gradualmente a fin de que los fabricantes dispongan de tiempo suficiente para volver a diseñar los productos contemplados en el presente Reglamento. El calendario debe establecerse con miras a evitar las repercusiones negativas sobre el abastecimiento de ordenadores, y a tener en cuenta los costes para los fabricantes, principalmente para las pequeñas y medianas empresas, todo ello sin detrimento de la oportuna consecución de los objetivos del presente Reglamento. 
+ (10) 
+ Está previsto revisar el presente Reglamento a más tardar tres años y medio después de su entrada en vigor. 
+ (11) 
+ La eficiencia energética de los ordenadores debe determinarse mediante métodos de medición fiables, exactos y reproducibles, que tengan en cuenta el estado de la técnica reconocido, incluyendo, en su caso, las normas armonizadas establecidas de conformidad con la legislación europea sobre normalización aplicable  ( 3 ) . 
+ (12) 
+ Toda vez que los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos preparado y desactivado de los aparatos eléctricos y electrónicos domésticos y de oficina no se ajustan plenamente a las características de los ordenadores, no deben aplicarse a los ordenadores los requisitos del Reglamento (CE) n o 1275/2008 de la Comisión, de 17 de diciembre de 2008, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo en lo concerniente a los requisitos de diseño ecológico aplicables al consumo de energía eléctrica en los modos preparado y desactivado de los equipos eléctricos y electrónicos domésticos y de oficina  ( 4 ) . Por consiguiente, deben establecerse en el presente Reglamento requisitos específicos para la gestión del consumo, así como para el consumo de energía en los modos de espera y desactivado y en el estado de menor consumo de los ordenadores, y debe modificarse en consecuencia el Reglamento (CE) n o 1275/2008. 
+ (13) 
+ A pesar de la exclusión de los ordenadores del ámbito de aplicación del Reglamento (CE) n o 1275/2008, deben aplicarse a las fuentes de alimentación externas que se comercializan con ordenadores las disposiciones del Reglamento (CE) n o 278/2009 de la Comisión, de 6 de abril de 2009, por el que se desarrolla la Directiva 2005/32/CE del Parlamento Europeo y del Consejo en lo concerniente a los requisitos de diseño ecológico aplicables a la eficiencia media en activo de las fuentes de alimentación externas y a su consumo de energía eléctrica durante el funcionamiento en vacío  ( 5 ) . 
+ (14) 
+ De conformidad con el artículo 8 de la Directiva 2009/125/CE, el presente Reglamento debe especificar los procedimientos de evaluación de la conformidad aplicables. 
+ (15) 
+ Con objeto de facilitar los controles de conformidad, debe solicitarse a los fabricantes que incluyan la información contenida en la documentación técnica a que se refieren los anexos IV y V de la Directiva 2009/125/CE en la medida en que dicha información se relacione con los requisitos establecidos en el presente Reglamento. 
+ (16) 
+ A fin de garantizar una competencia leal, la realización del potencial de ahorro de energía previsto y la entrega a los consumidores de información exacta sobre el comportamiento energético de los productos, el presente Reglamento debe dejar claro que las tolerancias prescritas para las autoridades nacionales de vigilancia del mercado cuando lleven a cabo ensayos físicos encaminados a determinar si un modelo específico de un producto relacionado con la energía es conforme con el presente Reglamento no deben ser aprovechadas por los fabricantes para declarar un comportamiento del modelo más favorable de lo que las mediciones y los cálculos declarados en la documentación técnica del producto pueden justificar. 
+ (17) 
+ Conviene definir criterios de referencia para los productos actualmente disponibles con elevada eficiencia energética. Esto contribuirá a garantizar la amplia disponibilidad de la información y el fácil acceso a la misma, en particular para las pequeñas y medianas empresas, lo que a su vez facilitará la integración de las mejores tecnologías de diseño y el desarrollo de productos más eficientes para la reducción del consumo energético. 
+ (18) 
+ Las medidas previstas en el presente Reglamento se ajustan al dictamen del Comité creado en virtud del artículo 19, apartado 1, de la Directiva 2009/125/CE. 
+ HA ADOPTADO EL PRESENTE REGLAMENTO: 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   El presente Reglamento establece requisitos de diseño ecológico para la introducción en el mercado de ordenadores y servidores informáticos. 
+ 2.   El presente Reglamento se aplicará a los siguientes productos que pueden ser alimentados directamente desde la red de corriente alterna (CA), incluso a través de una fuente de alimentación externa o interna: 
+ a) 
+ ordenadores de mesa; 
+ b) 
+ ordenadores de mesa integrados; 
+ c) 
+ ordenadores portátiles (incluidos los ordenadores tableta, los ordenadores pizarra y los clientes ligeros móviles); 
+ d) 
+ clientes ligeros de mesa; 
+ e) 
+ estaciones de trabajo; 
+ f) 
+ estaciones de trabajo móviles; 
+ g) 
+ pequeños servidores; 
+ h) 
+ servidores informáticos. 
+ 3.   El presente Reglamento no se aplicará a los siguientes grupos de productos: 
+ a) 
+ sistemas y componentes blade ; 
+ b) 
+ servidores monofuncionales; 
+ c) 
+ servidores multinodo; 
+ d) 
+ servidores informáticos con más de cuatro zócalos de procesador; 
+ e) 
+ consolas de juego; 
+ f) 
+ estaciones de acoplamiento. 
+ Artículo 2 
+ Definiciones 
+ Se aplicarán las definiciones siguientes: 
+ 1)    «Ordenador» : dispositivo que realiza operaciones lógicas y procesa datos, puede utilizar dispositivos de entrada y enviar información a una pantalla e incluye normalmente una unidad central de procesamiento (CPU) para realizar operaciones; si no está presente una CPU, entonces el dispositivo deberá funcionar como pasarela de clientes hacia un servidor informático que actúa como unidad de procesamiento computacional. 
+ 2)    «Servidor informático» : producto informático que proporciona servicios y gestiona recursos en red para dispositivos clientes, como ordenadores de mesa, ordenadores portátiles, clientes ligeros de mesa, teléfonos de Protocolo de Internet (IP) u otros servidores informáticos. Un servidor informático suele introducirse en el mercado para su uso en centros de datos y entornos de oficina/empresa. Se accede a él principalmente a través de conexiones de red, y no a través de dispositivos de entrada directa por el usuario, como un teclado o un ratón. 
+ Un servidor informático posee las características siguientes: 
+ a) 
+ está diseñado para soportar sistemas operativos para servidores informáticos y/o hipervisores y destinado a ejecutar aplicaciones de empresa instaladas por el usuario; 
+ b) 
+ soporta el código de corrección de errores (ECC) y/o la memoria en búfer, incluidos tanto los módulos de memoria en línea doble (DIMM) en búfer como las configuraciones de búfer en tarjeta (BOB); 
+ c) 
+ se comercializa con una o varias fuentes de alimentación CA-CC; 
+ d) 
+ todos los procesadores tienen acceso a una memoria del sistema compartida y resultan visibles independientemente para un único sistema operativo o hipervisor. 
+ 3)    «Fuente de alimentación externa» : dispositivo que tiene las siguientes características: 
+ a) 
+ está diseñado para convertir la corriente alterna (CA) de entrada suministrada por la red eléctrica en una corriente continua o alterna de salida de tensión inferior; 
+ b) 
+ puede convertir a una sola tensión de salida CC o CA al mismo tiempo; 
+ c) 
+ está concebido para utilizarse con un dispositivo separado que constituye el producto de carga primaria; 
+ d) 
+ está contenido en una caja física separada del dispositivo que constituye el producto de carga primaria; 
+ e) 
+ está conectado al dispositivo que constituye el producto de carga primaria mediante una conexión, cable, hilo o cualquier tipo de cable eléctrico macho/hembra extraíble o no, y 
+ f) 
+ tiene una potencia nominal de salida de 250 W como máximo. 
+ 4)    «Fuente de alimentación interna» : componente diseñado para convertir la tensión de corriente alterna suministrada por la red eléctrica en una tensión o tensiones de corriente continua con el fin de suministrar energía al ordenador o al servidor informático y que posee las siguientes características: 
+ a) 
+ está contenido dentro del ordenador o servidor informático, pero separado de la tarjeta principal del ordenador o servidor informático; 
+ b) 
+ la fuente de alimentación se conecta a la red eléctrica mediante un solo cable sin circuitos intermedios entre la fuente de alimentación y la red eléctrica, y 
+ c) 
+ todas las conexiones de energía de la fuente de alimentación a los componentes del ordenador o servidor informático, con excepción de una conexión CC a una pantalla en los ordenadores de mesa integrados, se encuentran dentro de la caja del ordenador. 
+ Los conversores internos de corriente continua a corriente continua utilizados para convertir una única tensión de corriente continua procedente de una fuente de alimentación externa en tensiones múltiples para el ordenador o el servidor informático no se consideran fuentes de alimentación internas. 
+ 5)    «Ordenador de mesa» : ordenador cuya unidad principal está destinada a permanecer en la misma ubicación y no a ser trasladada, y que está diseñado para su uso con una pantalla externa y periféricos exteriores, como un teclado y un ratón. 
+ A efectos del presente Reglamento se definen las siguientes categorías de ordenadores de mesa: 
+ a) 
+ ordenador de mesa de «categoría A» es el que no entra en las definiciones de ordenador de mesa de las categorías B, C o D; 
+ b) 
+ ordenador de mesa de «categoría B» es un ordenador de mesa con: 
+ (i) 
+ dos núcleos físicos en la CPU, y 
+ (ii) 
+ un mínimo de dos gigabytes (GB) de memoria del sistema; 
+ c) 
+ ordenador de mesa de «categoría C» es un ordenador de mesa con: 
+ (i) 
+ tres o más núcleos físicos en la CPU, y 
+ (ii) 
+ una configuración que tenga como mínimo una de las dos características siguientes: 
+ — 
+ un mínimo de dos gigabytes (GB) de memoria del sistema, y/o 
+ — 
+ una tarjeta gráfica discreta (dGfx); 
+ d) 
+ ordenador de mesa de «categoría D» es un ordenador de mesa con: 
+ (i) 
+ un mínimo de cuatro núcleos físicos en la CPU, y 
+ (ii) 
+ una configuración que tenga como mínimo una de las dos características siguientes: 
+ — 
+ un mínimo de cuatro gigabytes (GB) de memoria del sistema, y/o 
+ — 
+ una tarjeta gráfica discreta (dGfx) que satisface la clasificación G3 (con ancho de datos FB> 128 bit), G4, G5, G6 o G7. 
+ 6)    «Ordenador de mesa integrado» : ordenador en el que el ordenador y la pantalla funcionan como una sola unidad a la que un solo cable suministra la energía de corriente alterna. Los ordenadores de mesa integrados pueden presentarse en dos formas posibles: 1) un producto en que la pantalla y el ordenador están físicamente combinados en una sola unidad; o 2) un producto en que la pantalla está separada del ordenador, pero conectada con la estructura principal por un cable de corriente continua. Un ordenador de mesa integrado está destinado a permanecer en la misma ubicación y no a ser portátil. Los ordenadores de mesa integrados no están diseñados principalmente para la visualización y recepción de señales audiovisuales. 
+ A efectos del presente Reglamento se definen las siguientes categorías de ordenadores de mesa integrados: 
+ a) 
+ ordenador de mesa integrado de «categoría A» es el que no entra en las definiciones de ordenador de mesa integrado de las categorías B, C o D; 
+ b) 
+ ordenador de mesa integrado de «categoría B» es un ordenador de mesa integrado con: 
+ (i) 
+ dos núcleos físicos en la CPU, y 
+ (ii) 
+ un mínimo de dos gigabytes (GB) de memoria del sistema; 
+ c) 
+ ordenador de mesa integrado de «categoría C» es un ordenador de mesa integrado con: 
+ (i) 
+ tres o más núcleos físicos en la CPU, y 
+ (ii) 
+ una configuración que tenga como mínimo una de las dos características siguientes: 
+ — 
+ un mínimo de dos gigabytes (GB) de memoria del sistema, y/o 
+ — 
+ una tarjeta gráfica discreta (dGfx); 
+ d) 
+ ordenador de mesa integrado de «categoría D» es un ordenador de mesa integrado con: 
+ (i) 
+ un mínimo de cuatro núcleos físicos en la CPU, y 
+ (ii) 
+ una configuración que tenga como mínimo una de las dos características siguientes: 
+ — 
+ un mínimo de cuatro gigabytes (GB) de memoria del sistema, y/o 
+ — 
+ una tarjeta gráfica discreta (dGfx) que satisface la clasificación G3 (con ancho de datos FB> 128-bit), G4, G5, G6 o G7. 
+ 7)    «Ordenador portátil» : ordenador diseñado específicamente para ser portátil y funcionar durante largos períodos de tiempo con o sin conexión directa a una fuente de corriente alterna. Los ordenadores portátiles utilizan una pantalla integrada, con una diagonal de pantalla de al menos 22,86 cm (9 pulgadas), y son capaces de funcionar con una batería integrada u otra fuente de energía portátil. 
+ Los ordenadores portátiles incluyen también los siguientes subtipos: 
+ a) 
+ «ordenador tableta»: producto que es un tipo de ordenador portátil que lleva incluidos tanto una pantalla sensible al tacto como un teclado físico; 
+ b) 
+ «ordenador pizarra»: tipo de ordenador portátil que lleva integrada una pantalla sensible al tacto, pero no un teclado físico permanente; 
+ c) 
+ «cliente ligero móvil»: tipo de ordenador portátil que depende de una conexión a recursos informáticos remotos (por ejemplo, un servidor informático o una estación de trabajo remota) para obtener funcionalidad primaria y no cuenta con un soporte de almacenamiento rotatorio integrado en el producto. 
+ A efectos del presente Reglamento se definen las siguientes categorías de ordenadores portátiles: 
+ a) 
+ ordenador portátil de «categoría A» es el que no entra en las definiciones de ordenador portátil de las categorías B, C o D; 
+ b) 
+ ordenador portátil de «categoría B» es un ordenador portátil con al menos una tarjeta gráfica discreta (dGfx); 
+ c) 
+ ordenador portátil de «categoría C» es un ordenador portátil con al menos las siguientes características: 
+ a) 
+ un mínimo de dos núcleos físicos en la CPU, 
+ b) 
+ un mínimo de dos gigabytes (GB) de memoria del sistema, y 
+ c) 
+ una tarjeta gráfica discreta (dGfx) que satisface la clasificación G3 (con ancho de datos FB> 128-bit), G4, G5, G6 o G7. 
+ Los productos que por lo demás se ajusten a la definición de ordenador portátil, pero cuyo consumo de energía en estado de reposo sea inferior a 6 W, no se considerarán ordenadores portátiles a efectos del presente Reglamento. 
+ 8)    «Cliente ligero de mesa» : ordenador que depende de una conexión a recursos informáticos remotos (por ejemplo, un servidor informático o una estación de trabajo remota) para obtener funcionalidad primaria y no cuenta con un soporte de almacenamiento rotatorio integrado en el producto. La unidad principal de un cliente ligero de mesa debe estar destinada a permanecer en la misma ubicación (por ejemplo, sobre una mesa) y no para ser portátil. Los clientes ligeros de mesa pueden enviar información a una pantalla externa o, cuando vaya incluida con el producto, interna. 
+ 9)    «Estación de trabajo» : ordenador de alto rendimiento y un solo usuario utilizado principalmente para aplicaciones gráficas, de diseño asistido por ordenador, de desarrollo de software, financieras y científicas, entre otras tareas intensivas en cálculo, y que posea las siguientes características: 
+ a) 
+ presenta un tiempo medio entre averías (MTBF) de, por lo menos, 15 000 horas; 
+ b) 
+ posee un código de corrección de errores (ECC) y/o una memoria en búfer; 
+ c) 
+ satisface tres de las cinco características siguientes: 
+ 1) 
+ está preparada para recibir energía adicional para gráficos de gama alta (es decir, alimentación adicional de 12V de 6 puntas por bus PCI-E); 
+ 2) 
+ el sistema tiene cables para x4 PCI-E o superior en la placa madre además de la ranura o ranuras de gráficos y/o del soporte para PCI-X; 
+ 3) 
+ no soporta los gráficos con acceso uniforme a la memoria (UMA); 
+ 4) 
+ incluye cinco o más ranuras PCI, PCI-E o PCI-X; 
+ 5) 
+ puede ofrecer multiprocesamiento para dos o más CPU (debe soportar paquetes/zócalos de CPU físicamente separados, es decir que no basta soportar una sola CPU multinúcleo). 
+ 10)    «Estación de trabajo móvil» : ordenador de alto rendimiento y de un solo usuario utilizado principalmente para aplicaciones gráficas, de diseño asistido por ordenador, de desarrollo de software, financieras y científicas, entre otras tareas intensivas en cálculo, excluidos los juegos, que está diseñado específicamente para ser portátil y funcionar durante largos períodos de tiempo con o sin conexión directa a una fuente de corriente alterna. Las estaciones de trabajo móviles utilizan una pantalla integrada y pueden funcionar con una batería integrada o con otra fuente de alimentación portátil. La mayoría de las estaciones de trabajo móviles utilizan una fuente de alimentación externa y tienen un teclado y un dispositivo de puntero integrados. 
+ Una estación de trabajo móvil posee las características siguientes: 
+ a) 
+ presenta un tiempo medio entre averías (MTBF) de, por lo menos, 13 000 horas; 
+ b) 
+ dispone de al menos una tarjeta gráfica discreta (dGfx) que satisface la clasificación G3 (con ancho de datos de FB > 128 bit), G4, G5, G6 o G7; 
+ c) 
+ soporta la inclusión de tres o más dispositivos de almacenamiento interno; 
+ d) 
+ soporta al menos 32 GB de memoria del sistema. 
+ 11)    «Pequeño servidor» : tipo de ordenador que suele utilizar componentes de ordenador de mesa con el correspondiente factor de forma, pero que se diseña principalmente como ordenador central de almacenamiento al servicio de otros ordenadores y para realizar funciones como el suministro de servicios de infraestructura de red y el alojamiento de datos o contenidos, y que posee las siguientes características: 
+ a) 
+ está diseñado como pedestal, torre u otro factor de forma similar a los de los ordenadores de mesa de modo que todo el procesamiento de datos, el almacenamiento y la interfaz con la red se encuentren dentro de una sola caja; 
+ b) 
+ está diseñado para funcionar las 24 horas del día y los 7 días de la semana; 
+ c) 
+ está diseñado principalmente para funcionar en un entorno con varios usuarios simultáneos y dar servicio a varios usuarios mediante unidades cliente conectadas a la red; 
+ d) 
+ cuando se comercialicen con un sistema operativo, está diseñado este para aplicaciones de servidor doméstico o servidor de gama baja; 
+ e) 
+ no se comercializa con una tarjeta gráfica discreta (dGfx) que se ajuste a una clasificación distinta de G1. 
+ 12)    «Sistema y componentes blade» : sistema compuesto por un recinto ( chasis blade ) en el que se insertan diferentes tipos de almacenamiento y servidores blade. El recinto ofrece recursos compartidos de los que dependen los servidores y el almacenamiento. Los sistemas blade están concebidos como una solución dimensionable para combinar varios servidores informáticos o unidades de almacenamiento en un recinto único y diseñados para que los técnicos puedan añadir o sustituir fácilmente sobre el terreno (sustitución en caliente) los blades (por ejemplo, servidores). 
+ 13)    «Servidor monofuncional» : servidor informático que se entrega con un sistema operativo y un software de aplicación preinstalados y se utiliza para llevar a cabo una función específica o un conjunto de funciones estrechamente relacionadas. Este tipo de servidor presta servicios a través de una o más redes, y suele gestionarse a través de una interfaz web o de línea de comandos. El fabricante adapta las configuraciones físicas y lógicas de los servidores monofuncionales para realizar una tarea específica, incluidas las de red o almacenamiento, y no está previsto que ejecuten programas informáticos del usuario. 
+ 14)    «Servidor multinodo» : sistema compuesto por un recinto en el que se insertan dos o más servidores informáticos independientes (o nodos), que comparten una o más fuentes de alimentación. La energía combinada para todos los nodos se distribuye a través de la fuente o fuentes de alimentación compartidas. Un servidor multinodo está diseñado y construido como un único recinto y no está pensado para la sustitución en caliente. 
+ 15)    «Servidor de doble nodo» : una configuración de servidor multinodo común con dos nudos de servidor. 
+ 16)    «Servidor informático con más de cuatro zócalos de procesador» : servidor informático que contiene más de cuatro interfaces diseñadas para la instalación de un procesador. 
+ 17)    «Consola de juego» : dispositivo autónomo alimentado por la red diseñado para utilizar juegos de vídeo como función principal. Una consola de juego se diseña habitualmente para generar una salida hacia una pantalla externa en la que se visualizan los juegos. Las consolas de juego suelen incluir una CPU, memoria del sistema y una o más unidades de procesamiento gráfico (GPU), y pueden contener discos duros u otras opciones de almacenamiento interno, así como discos ópticos. Las consolas de juego suelen utilizar controladores de mano u otros controladores interactivos como dispositivos de entrada principales, en lugar de un teclado externo o un ratón. Las consolas de juego no suelen incluir sistemas operativos para ordenadores personales convencionales, sino que utilizan sistemas operativos específicos para consolas. Se consideran asimismo un tipo de consola de juego los dispositivos de mano que llevan una pantalla integrada como visualizador principal de los juegos y funcionan básicamente utilizando una batería integrada u otra fuente de alimentación portátil y no una conexión directa a una fuente de corriente alterna. 
+ 18)    «Estación de acoplamiento» : producto discreto diseñado para ser conectado a un ordenador a fin de llevar a cabo funciones tales como ampliar la conectividad o consolidar las conexiones a dispositivos periféricos. Estas estaciones pueden también facilitar la carga de las baterías internas del ordenador conectado. 
+ 19)    «Unidad central de procesamiento (CPU)» : componente de un ordenador que controla la interpretación y ejecución de instrucciones. Las CPU pueden contener uno o más procesadores físicos denominados «núcleos de ejecución». Un núcleo de ejecución es un procesador que está físicamente presente. Los procesadores adicionales «virtuales» o «lógicos» derivados de uno o más núcleos de ejecución no son núcleos físicos. Un paquete de procesador que ocupe un solo zócalo físico de CPU puede contener más de un núcleo de ejecución. El número total de núcleos de ejecución de la CPU es la suma de los núcleos de ejecución aportados por los dispositivos conectados a la totalidad de los zócalos físicos de la CPU. 
+ 20)    «Tarjeta gráfica discreta (dGfx)» : componente interno discreto que contiene una o más unidades de procesamiento gráfico (GPU), con una interfaz de controlador de memoria local y una memoria local específica para gráficos, y que pertenece a una de las categorías siguientes: 
+ a) 
+ G1 (FB_BW ≤ 16); 
+ b) 
+ G2 (16< FB_BW ≤ 32); 
+ c) 
+ G3 (32 <FB_BW ≤ 64); 
+ d) 
+ G4 (64 <FB_BW ≤ 96); 
+ e) 
+ G5 (96 <FB_BW ≤ 128); 
+ f) 
+ G6 [FB_BW > 128 (con ancho de datos de FB < 192 bit)]; 
+ g) 
+ G7 [FB_BW > 128 (con ancho de datos de FB ≥ 192 bit)]. 
+ «Ancho de banda de búfer de trama (FB_BW)» es la cantidad de datos que procesan por segundo todas las GPU de una dGfx, cifra que se calcula mediante la fórmula siguiente: 
+ donde: 
+ a) 
+ el ancho de banda de búfer de trama se expresa en Gigabytes/segundo (GB/s); 
+ b) 
+ la velocidad es la frecuencia efectiva de los datos de la memoria en MHz; 
+ c) 
+ el ancho de datos es el ancho de datos de búfer de trama (FB), expresado en bits (b); 
+ d) 
+ el «8» convierte el cálculo a bytes; 
+ e) 
+ la división por 1 000 convierte megabytes en gigabytes. 
+ 21)    «Almacenamiento interno» : componente interno del ordenador que ofrece un almacenamiento de datos no volátil. 
+ 22)    «Tipo de producto» : ordenador de mesa, ordenador de mesa integrado, ordenador portátil, cliente ligero de mesa, estación de trabajo, estación de trabajo móvil, pequeño servidor, servidor informático, sistema y componentes blade , servidor multinodo, servidor monofuncional, consola de juego, estación de acoplamiento, fuente de alimentación interna o fuente de alimentación externa. 
+ 23)    «Modo de espera de la pantalla» : modo de consumo en el que entra el producto de visualización tras recibir una señal de un dispositivo conectado o un estímulo interno (por ejemplo, un temporizador o un sensor de ocupación). El producto de visualización puede también pasar a este modo en virtud de una señal producida por una entrada del usuario. El producto debe activarse al recibir una señal de un dispositivo conectado, una red, un control remoto y/o un estímulo interno. Mientras el producto se encuentre en este modo, no produce una imagen visible, con la posible excepción de funciones de protección u orientadas al usuario como la visualización de información o del estado, o funciones basadas en sensores. 
+ El anexo I contiene definiciones adicionales a efectos de los anexos. 
+ Artículo 3 
+ Requisitos de diseño ecológico 
+ Los requisitos de diseño ecológico para los ordenadores y los servidores informáticos figuran en el anexo II. 
+ La conformidad de los ordenadores y los servidores informáticos con los requisitos de diseño ecológico aplicables se medirá de conformidad con los métodos expuestos en el anexo III. 
+ Artículo 4 
+ Modificaciones del Reglamento (CE) n o 1275/2008 
+ El anexo I, punto 2, del Reglamento (CE) n o 1275/2008 se sustituye por el texto siguiente: 
+ «2. 
+ Equipos de tecnologías de la información destinados principalmente al uso en el entorno doméstico, pero excluyendo los ordenadores de mesa, ordenadores de mesa integrados y ordenadores portátiles, tal como se definen en el Reglamento (UE) n o 617/2013 de la Comisión  ( *1 ) . 
+ ( *1 )   
+ DO L 175 de 27.6.2013, p. 13 .»."
+ Artículo 5 
+ Aplicación del Reglamento (CE) n o 278/2009 
+ El artículo 2, apartado 1, letra g), del Reglamento (CE) n o 278/2009 se sustituye por el texto siguiente: 
+ «g) 
+ que está concebido para su uso con equipos eléctricos y electrónicos domésticos y de oficina con arreglo al artículo 2, apartado 1, del Reglamento (CE) n o 1275/2008 o con ordenadores según se definen en el Reglamento (UE) n o 617/2013 de la Comisión  ( *2 ) . 
+ ( *2 )   
+ DO L 175 de 27.6.2013, p. 13 .»."
+ Artículo 6 
+ Evaluación de la conformidad 
+ El procedimiento de evaluación de la conformidad mencionado en el artículo 8 de la Directiva 2009/125/CE será el sistema de control interno del diseño que figura en el anexo IV de dicha Directiva o el sistema de gestión para la evaluación de la conformidad descrito en el anexo V de la citada Directiva. 
+ Artículo 7 
+ Vigilancia del mercado y procedimiento de verificación 
+ La vigilancia del mercado se llevará a cabo de conformidad con las normas establecidas en la Directiva 2009/125/CE. 
+ El control de la conformidad de los ordenadores y servidores informáticos con los requisitos de diseño ecológico aplicables se llevará a cabo de conformidad con el procedimiento de verificación descrito en el punto 2 del anexo III del presente Reglamento. 
+ Artículo 8 
+ Criterios de referencia indicativos 
+ Los criterios de referencia indicativos para los productos y la tecnología de mejores prestaciones disponibles en el mercado en el momento de entrar en vigor el presente Reglamento se describen en el anexo IV. 
+ Artículo 9 
+ Revisión 
+ La Comisión revisará el presente Reglamento a la luz del progreso técnico y presentará los resultados de dicha revisión al Foro Consultivo sobre Diseño Ecológico en el plazo máximo de tres años y medio después de su entrada en vigor. 
+ Habida cuenta de la rapidez del desarrollo tecnológico, esta revisión estudiará la evolución del programa Energy Star y las oportunidades de reforzar los requisitos de diseño ecológico, reducir significativamente o eliminar los márgenes de energía, en particular en el caso de las tarjetas gráficas discretas (dGfx) y actualizar las definiciones o el ámbito de aplicación, así como la posibilidad de actuar sobre el consumo de energía de las pantallas integradas. 
+ Además, la revisión examinará específicamente la diferentes fases del ciclo de vida, la viabilidad de establecer y aplicar requisitos de diseño ecológico en relación con otros aspectos medioambientales importantes como el ruido, la eficiencia en la utilización de los materiales, incluidos requisitos sobre durabilidad, desmontaje, reciclabilidad, interfaces normalizadas para recargadores, así como requisitos de información sobre el contenido de determinadas materias primas críticas y el número mínimo de ciclos de carga y los problemas de sustitución de las baterías. 
+ Artículo 10 
+ Entrada en vigor y aplicación 
+ El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+ Los puntos 3 y 6.1 del anexo II se aplicarán a partir de la entrada en vigor del Reglamento. 
+ Los puntos 1.1, 1.3, 2, 4, 5.1, 5.2, 6.2.1, 6.2.2, 6.2.3, 6.2.4, 6.2.5, 6.2.6, 7.1, 7.2 y 7.3 del anexo II se aplicarán a partir del 1 de julio de 2014. 
+ Los puntos 1.2 y 1.4 del anexo II se aplicarán a partir del 1 de enero de 2016. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ Hecho en Bruselas, el 26 de junio de 2013. 
+ Por la Comisión 
+ El Presidente 
+ José Manuel BARROSO
+ ( 1 )   
+ DO L 285 de 31.10.2009, p. 10 . 
+ ( 2 )   
+ DO L 153 de 18.6.2010, p. 1 . 
+ ( 3 )   Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de las normas y reglamentaciones técnicas y de las reglas relativas a los servicios de la sociedad de la información ( DO L 204 de 21.7.1998, p. 37 ). 
+ ( 4 )   
+ DO L 339 de 18.12.2008, p. 45 . 
+ ( 5 )   
+ DO L 93 de 7.4.2009, p. 3 . 
+ ANEXO I 
+ Definiciones aplicables a efectos de los anexos 
+ 1.    «Consumo de energía total anual (E TEC )» : electricidad que consume un producto a lo largo de períodos de tiempo especificados en estados y modos de consumo definidos. 
+ 2.    «Modo desactivado» : nivel de demanda energética del modo de bajo consumo que no puede ser interrumpido (influido) por un usuario, salvo accionando un interruptor mecánico, y que puede perdurar por tiempo indefinido cuando el aparato está conectado con la fuente principal de alimentación eléctrica y se utiliza de conformidad con las instrucciones del fabricante. Cuando sean aplicables las normas de la Interfaz Avanzada de Configuración y Energía ( Advanced Configuration and Power Interface , ACPI), el modo desactivado suele corresponder al nivel G2/S5 del sistema ACPI («soft off»). 
+ «P off 
+ » representa la potencia en vatios en modo desactivado, medida con arreglo a los procedimientos indicados en el anexo II. 
+ 3.    «Estado de menor consumo» : estado o modo con la menor demanda de potencia disponible en un ordenador. La entrada o salida de este estado o modo se puede efectuar bien por medios mecánicos (por ejemplo, apagando la alimentación del ordenador al accionar un interruptor mecánico), bien por medios automáticos. 
+ 4.    «Modo de espera» : modo de bajo consumo en que puede entrar automáticamente el ordenador después de cierto período de inactividad o mediante selección manual. En este modo el ordenador responderá a un suceso de activación. Cuando sean aplicables las normas de la Interfaz Avanzada de Configuración y Energía (Advanced Configuration and Power Interface, ACPI), el modo de espera suele corresponder al nivel G1/S3 del sistema ACPI («suspend to RAM»). 
+ «P sleep 
+ » representa la potencia en vatios en modo de espera, medida con arreglo a los procedimientos indicados en el anexo II. 
+ 5.    «Estado de reposo» : estado de un ordenador en el que el sistema operativo y demás programas se han cargado por completo, se ha creado un perfil de usuario, la máquina no está en modo de espera y la actividad se limita a las aplicaciones básicas que el sistema operativo inicia de manera predeterminada. 
+ «P idle 
+ » representa la potencia en vatios en estado de reposo, medida con arreglo a los procedimientos indicados en el anexo II. 
+ 6.    «Almacenamiento interno adicional» : todos y cada uno de los dispositivos de almacenamiento interno, incluidas las unidades de disco duro (HDD), unidades de estado sólido (SSD) y unidades híbridas (HHD) incluidas en un ordenador, excepción hecha de la primera. 
+ 7.    «Sintonizador de televisión» : componente interno discreto que permite a un ordenador recibir señales de televisión. 
+ 8.    «Tarjeta de audio (de sonido)» : componente interno discreto que procesa las señales de audio de entrada y de salida de un ordenador. 
+ 9.    «Suceso de activación» : evento o estímulo de usuario, programado o externo que hace que el ordenador pase del modo de espera o desactivado a un modo activo de funcionamiento. Entre los sucesos de activación figuran, sin que la relación sea exhaustiva, los siguientes: 
+ i) 
+ movimiento del ratón, 
+ ii) 
+ actividad del teclado, 
+ iii) 
+ entrada del controlador, 
+ iv) 
+ suceso del reloj de tiempo real, 
+ v) 
+ pulsación de un botón del chasis, y 
+ vi) 
+ en el caso de eventos externos, estímulo enviado por control remoto, por la red o por un módem. 
+ 10.    «Modo activo» : estado en el que el ordenador está realizando trabajo útil en respuesta a: a) una entrada del usuario previa o simultánea o b) una instrucción previa o simultánea recibida por la red. Este estado incluye el procesamiento activo, la búsqueda de datos en el espacio de almacenamiento, la memoria o la memoria caché, incluyendo la duración del estado de reposo a la espera de más entradas de usuario y antes de entrar en los modos de bajo consumo. 
+ 11.    «Activación por LAN (WOL)» : funcionalidad que permite a un ordenador abandonar el modo de espera o el modo desactivado (u otro modo de bajo consumo similar) al recibir una petición enviada por la red a través de Ethernet. 
+ 12.    «UMA» : acceso uniforme a la memoria. 
+ 13.    «Visualización de información o del estado» : función continua que muestra información o indica el estado del equipo en una pantalla, incluidos eventuales relojes. 
+ ANEXO II 
+ Requisitos de diseño ecológico y calendario 
+ 1.    E TEC 
+ Ordenador de mesa y ordenador de mesa integrado 
+ 1.1.    A partir del 1 de julio de 2014 
+ 1.1.1. 
+ El consumo de energía total anual (E TEC en kWh/año) no deberá superar: 
+ a) 
+ para un ordenador de categoría A: 133,00; 
+ b) 
+ para un ordenador de categoría B: 158,00; 
+ c) 
+ para un ordenador de categoría C: 188,00; 
+ d) 
+ para un ordenador de categoría D: 211,00. 
+ El E TEC se determinará utilizando la fórmula siguiente: 
+ . 
+ En el caso de los ordenadores que carecen de modo de espera discreto, pero cuya demanda de potencia en estado de reposo es inferior o igual a 10,00 W, podrá utilizarse la potencia en estado de reposo (P idle ) en lugar de la de espera (P sleep ) en la ecuación anterior, de manera que la fórmula quedará: 
+ Todos los Px son valores de potencia en el modo/estado indicado según se definen en la sección dedicada a las definiciones, medidos en vatios (W) con arreglo a los procedimientos indicados en el anexo III. 
+ 1.1.2. 
+ Se aplicarán los siguientes ajustes por capacidad: 
+ a) 
+ memoria: 1 kWh/año por cada GB por encima de la base, siendo la memoria base de 2 GB (para ordenadores de las categorías A, B y C) y de 4 GB (para ordenadores de la categoría D); 
+ b) 
+ almacenamiento interno adicional: 25 kWh/año; 
+ c) 
+ sintonizador de televisión discreto: 15 kWh/año; 
+ d) 
+ tarjeta de audio discreta: 15 kWh/año; 
+ e) 
+ tarjeta gráfica discreta (dGfx) para la primera tarjeta gráfica discreta (dGfx) y cada una de las adicionales: 
+ Categoría dGfx 
+ Margen TEC 
+ (kWh/año) 
+ Primera tarjeta gráfica discreta (dGfx) 
+ G1 
+ 34 
+ G2 
+ 54 
+ G3 
+ 69 
+ G4 
+ 100 
+ G5 
+ 133 
+ G6 
+ 166 
+ G7 
+ 225 
+ Cada tarjeta gráfica discreta (dGfx) adicional 
+ G1 
+ 20 
+ G2 
+ 32 
+ G3 
+ 41 
+ G4 
+ 59 
+ G5 
+ 78 
+ G6 
+ 98 
+ G7 
+ 133 
+ 1.1.3. 
+ Los ajustes por capacidad para las tarjetas gráficas discretas (dGfx), el sintonizador de televisión discreto y la tarjeta de audio discreta mencionados en los puntos 1.1.2 y 1.2.2 solo se aplican a las tarjetas y sintonizador que están habilitados durante el ensayo de los ordenadores de mesa u ordenadores integrados. 
+ 1.1.4. 
+ Los ordenadores de mesa y los ordenadores de mesa integrados de categoría D que cumplan la totalidad de los parámetros técnicos siguientes estarán exentos de lo dispuesto en los puntos 1.1.1 y 1.1.2 y sus revisiones especificadas en el punto 1.2: 
+ a) 
+ un mínimo de seis núcleos físicos en la unidad central de procesamiento (CPU), y 
+ b) 
+ tarjeta(s) gráfica(s) discreta(s) (dGfx) que ofrezcan anchos de banda de búfer de trama superiores en total a 320 GB/s, y 
+ c) 
+ un mínimo de 16 GB de memoria del sistema, y 
+ d) 
+ una fuente de alimentación con una potencia nominal de salida de al menos 1 000  W. 
+ 1.2.    A partir del 1 de enero de 2016 
+ 1.2.1. 
+ Se aplicarán las siguientes revisiones del consumo total de energía especificado en el punto 1.1.1: 
+ El consumo de energía total anual (E TEC en kWh/año) no deberá superar: 
+ a) 
+ para un ordenador de categoría A: 94,00; 
+ b) 
+ para un ordenador de categoría B: 112,00; 
+ c) 
+ para un ordenador de categoría C: 134,00; 
+ d) 
+ para un ordenador de categoría D: 150,00. 
+ 1.2.2. 
+ Se aplicarán las siguientes revisiones a los ajustes por capacidad para las tarjetas gráficas discretas (dGfx) especificados en el punto 1.1.2.e): 
+ Categoría dGfx 
+ Margen del TEC 
+ (kWh/año) 
+ Primera tarjeta gráfica discreta (dGfx) 
+ G1 
+ 18 
+ G2 
+ 30 
+ G3 
+ 38 
+ G4 
+ 54 
+ G5 
+ 72 
+ G6 
+ 90 
+ G7 
+ 122 
+ Cada tarjeta gráfica discreta (dGfx) adicional 
+ G1 
+ 11 
+ G2 
+ 17 
+ G3 
+ 22 
+ G4 
+ 32 
+ G5 
+ 42 
+ G6 
+ 53 
+ G7 
+ 72 
+ Ordenador portátil 
+ 1.3.    A partir del 1 de julio de 2014 
+ 1.3.1. 
+ El consumo de energía total anual (E TEC en kWh/año) no deberá superar: 
+ a) 
+ para un ordenador de categoría A: 36,00; 
+ b) 
+ para un ordenador de categoría B: 48,00; 
+ c) 
+ para un ordenador de categoría C: 80,50. 
+ El E TEC se determinará utilizando la fórmula siguiente: 
+ donde todos los Px son valores de potencia en el modo/estado indicado según se definen en la sección dedicada a las definiciones, medidos en vatios (W) con arreglo a los procedimientos indicados en el anexo III. 
+ 1.3.2. 
+ Se aplicarán los siguientes ajustes por capacidad: 
+ a) 
+ memoria: 0,4 KWh/año por cada GB por encima de la base, siendo la base de 4 GB; 
+ b) 
+ almacenamiento interno adicional: 3 kWh/año; 
+ c) 
+ sintonizador de televisión discreto: 2,1 kWh/año; 
+ d) 
+ tarjeta gráfica discreta (dGfx) [para la primera tarjeta gráfica discreta (dGfx) y cada una de las adicionales]: 
+ Categoría dGfx 
+ Margen del TEC 
+ (kWh/año) 
+ Primera tarjeta gráfica discreta (dGfx) 
+ G1 
+ 12 
+ G2 
+ 20 
+ G3 
+ 26 
+ G4 
+ 37 
+ G5 
+ 49 
+ G6 
+ 61 
+ G7 
+ 113 
+ Cada tarjeta gráfica discreta (dGfx) adicional 
+ G1 
+ 7 
+ G2 
+ 12 
+ G3 
+ 15 
+ G4 
+ 22 
+ G5 
+ 29 
+ G6 
+ 36 
+ G7 
+ 66 
+ 1.3.3. 
+ Los ajustes por capacidad para las tarjetas gráficas discretas (dGfx) y el sintonizador de televisión discreto mencionados en los puntos 1.3.2 y 1.4.2 solo se aplican a las tarjetas y sintonizador que estén habilitados durante el ensayo de los ordenadores portátiles. 
+ 1.3.4. 
+ Los ordenadores portátiles de categoría C que cumplan la totalidad de los parámetros técnicos siguientes estarán exentos de lo dispuesto en los puntos 1.3.1 y 1.3.2 y sus revisiones especificadas en el punto 1.4: 
+ a) 
+ un mínimo de cuatro núcleos físicos en la unidad central de procesamiento (CPU), y 
+ b) 
+ tarjeta(s) gráfica(s) discreta(s) (dGfx) que ofrezcan anchos de banda de búfer de trama superiores en total a 225 GB/s, y 
+ c) 
+ un mínimo de 16 GB de memoria del sistema. 
+ 1.4.    A partir del 1 de enero de 2016 
+ 1.4.1. 
+ Se aplicarán las siguientes revisiones del consumo total de energía especificado en el punto 1.3.1: 
+ El consumo de energía total anual (E TEC en kWh/año) no deberá superar: 
+ a) 
+ para un ordenador de categoría A: 27,00; 
+ b) 
+ para un ordenador de categoría B: 36,00; 
+ c) 
+ para un ordenador de categoría C: 60,50. 
+ 1.4.2. 
+ Se aplicarán las siguientes revisiones a los ajustes por capacidad para las tarjetas gráficas discretas (dGfx) especificados en el punto 1.3.2.d): 
+ Categoría dGfx 
+ Margen del TEC 
+ (kWh/año) 
+ Primera tarjeta gráfica discreta (dGfx) 
+ G1 
+ 7 
+ G2 
+ 11 
+ G3 
+ 13 
+ G4 
+ 20 
+ G5 
+ 27 
+ G6 
+ 33 
+ G7 
+ 61 
+ Cada tarjeta gráfica discreta (dGfx) adicional 
+ G1 
+ 4 
+ G2 
+ 6 
+ G3 
+ 8 
+ G4 
+ 12 
+ G5 
+ 16 
+ G6 
+ 20 
+ G7 
+ 36 
+ 2.    MODO DE ESPERA 
+ Ordenador de mesa, ordenador de mesa integrado y ordenador portátil 
+ 2.    A partir del 1 de julio de 2014 
+ 2.1. 
+ Los productos deberán disponer de modo de espera y/o de otra condición que aporte la funcionalidad del modo de espera y que no supere los requisitos de demanda de potencia aplicables a un modo de espera. 
+ 2.2. 
+ La demanda de potencia en modo de espera no excederá de 5,00 W en los ordenadores de mesa y los ordenadores de mesa integrados y de 3,00 W en los ordenadores portátiles. 
+ 2.3. 
+ Los ordenadores de mesa y los ordenadores de mesa integrados en los que la demanda de potencia en estado de reposo sea inferior o igual a 10,00 W no estarán obligados a disponer de un modo de espera del sistema discreto. 
+ 2.4. 
+ En caso de que el producto se introduzca en el mercado con una funcionalidad WOL habilitada en modo de espera: 
+ a) 
+ podrá aplicarse un margen adicional de 0,70 W; 
+ b) 
+ deberá someterse a ensayo con la funcionalidad WOL tanto habilitada como inhabilitada y deberá cumplir ambos requisitos. 
+ 2.5. 
+ En caso de que el producto se introduzca en el mercado sin capacidad Ethernet, se someterá a ensayo sin la función WOL habilitada. 
+ 3.    ESTADO DE MENOR CONSUMO 
+ Ordenador de mesa, ordenador de mesa integrado y ordenador portátil 
+ 3.    A partir de la fecha de entrada en vigor del Reglamento 
+ 3.1. 
+ La demanda de potencia en el estado de menor consumo no superará los 0,50 W. 
+ 3.2. 
+ Los productos deberán disponer de un estado o modo de consumo que no supere los requisitos de demanda de potencia aplicables al estado de menor consumo cuando estén conectados a la red de alimentación eléctrica. 
+ 3.3. 
+ En caso de que el producto se introduzca en el mercado con una visualización de información o del estado, podrá aplicarse un margen adicional de 0,50 W. 
+ 4.    MODO DESACTIVADO 
+ Ordenador de mesa, ordenador de mesa integrado y ordenador portátil 
+ 4.    A partir del 1 de julio de 2014 
+ 4.1. 
+ La demanda de potencia en modo desactivado no superará 1,00 W. 
+ 4.2. 
+ Los productos deberán disponer del modo desactivado y/o de otra condición que no supere los requisitos de demanda de potencia aplicables al modo desactivado cuando estén conectados a la red de alimentación eléctrica. 
+ 4.3. 
+ En caso de que el producto se introduzca en el mercado con una funcionalidad WOL habilitada en modo desactivado: 
+ a) 
+ podrá aplicarse un margen adicional de 0,70 W; 
+ b) 
+ deberá someterse a ensayo con la funcionalidad WOL tanto habilitada como inhabilitada y deberá cumplir ambos requisitos. 
+ 4.4. 
+ En caso de que el producto se introduzca en el mercado sin capacidad Ethernet, se someterá a ensayo sin la función WOL habilitada. 
+ 5.    EFICIENCIA DE LA FUENTE DE ALIMENTACIÓN INTERNA 
+ Ordenador de mesa, ordenador de mesa integrado, cliente ligero de mesa, estación de trabajo y pequeño servidor 
+ 5.1.    A partir del 1 de julio de 2014 
+ Ninguna fuente de alimentación interna de ordenador podrá tener un comportamiento inferior al siguiente: 
+ a) 
+ una eficiencia del 85 % al 50 % de la potencia nominal de salida; 
+ b) 
+ una eficiencia del 82 % al 20 % y al 100 % de la potencia nominal de salida; 
+ c) 
+ un factor de potencia = 0,9 al 100 % de la potencia nominal de salida. 
+ Las fuentes de alimentación internas con una potencia nominal de salida máxima inferior a 75 W estarán exentas del requisito relativo al factor de potencia. 
+ Servidor informático 
+ 5.2.    A partir del 1 de julio de 2014 
+ 5.2.1. 
+ Ninguna fuente de alimentación (CA-CC) multisalida podrá tener un comportamiento inferior al siguiente: 
+ a) 
+ una eficiencia del 85 % al 50 % de la salida nominal; 
+ b) 
+ una eficiencia del 82 % al 20 % y al 100 % de la salida nominal. 
+ 5.2.2. 
+ Ninguna fuente de alimentación (CA-CC) multisalida podrá tener un comportamiento inferior al siguiente: 
+ a) 
+ un factor de potencia de 0,8 al 20 % de la salida nominal; 
+ b) 
+ un factor de potencia de 0,9 al 50 % de la salida nominal; 
+ c) 
+ un factor de potencia de 0,95 al 100 % de la salida nominal. 
+ 5.2.3. 
+ Ninguna fuente de alimentación (CA-CC) de salida única con salida nominal no superior a 500 W podrá tener un comportamiento inferior al siguiente: 
+ a) 
+ una eficiencia del 70 % al 10 % de la salida nominal; 
+ b) 
+ una eficiencia del 82 % al 20 % de la salida nominal; 
+ c) 
+ una eficiencia del 89 % al 50 % de la salida nominal; 
+ d) 
+ una eficiencia del 85 % al 100 % de la salida nominal. 
+ 5.2.4. 
+ Ninguna fuente de alimentación (CA-CC) de salida única con salida nominal no superior a 500 W podrá tener un comportamiento inferior al siguiente: 
+ a) 
+ un factor de potencia de 0,8 al 20 % de la salida nominal; 
+ b) 
+ un factor de potencia de 0,9 al 50 % de la salida nominal; 
+ c) 
+ un factor de potencia de 0,95 al 100 % de la salida nominal. 
+ 5.2.5. 
+ Ninguna fuente de alimentación (CA-CC) de salida única con salida nominal superior a 500 W pero no superior a 1 000  W podrá tener un comportamiento inferior al siguiente: 
+ a) 
+ una eficiencia del 75 % al 10 % de la salida nominal; 
+ b) 
+ una eficiencia del 85 % al 20 % y al 100 % de la salida nominal; 
+ c) 
+ una eficiencia del 89 % al 50 % de la salida nominal. 
+ 5.2.6. 
+ Ninguna fuente de alimentación (CA-CC) de salida única con salida nominal superior a 500 W pero no superior a 1 000  W podrá tener un comportamiento inferior al siguiente: 
+ a) 
+ un factor de potencia de 0,65 al 10 % de la salida nominal; 
+ b) 
+ un factor de potencia de 0,8 al 20 % de la salida nominal; 
+ c) 
+ un factor de potencia de 0,9 al 50 % de la salida nominal; 
+ d) 
+ un factor de potencia de 0,95 al 100 % de la salida nominal. 
+ 5.2.7. 
+ Ninguna fuente de alimentación de salida única (CA-CC) con salida nominal superior a 1 000  W podrá tener un comportamiento inferior al siguiente: 
+ a) 
+ una eficiencia del 80 % al 10 % de la salida nominal; 
+ b) 
+ una eficiencia del 88 % al 20 % y al 100 % de la salida nominal; 
+ c) 
+ una eficiencia del 92 % al 50 % de la salida nominal. 
+ 5.2.8. 
+ Ninguna fuente de alimentación de salida única (CA-CC) con salida nominal superior a 1 000  W podrá tener un comportamiento inferior al siguiente: 
+ a) 
+ un factor de potencia de 0,8 al 10 % de la salida nominal; 
+ b) 
+ un factor de potencia de 0,9 al 20 % de la salida nominal; 
+ c) 
+ un factor de potencia de 0,9 al 50 % de la salida nominal; 
+ d) 
+ un factor de potencia de 0,95 al 100 % de la salida nominal. 
+ 6.    HABILITACIÓN DE LA GESTIÓN DEL CONSUMO 
+ Ordenador de mesa, ordenador de mesa integrado y ordenador portátil 
+ 6.1.    A partir de la fecha de entrada en vigor del Reglamento 
+ El ordenador deberá ofrecer una función de gestión del consumo eléctrico o una función similar que, cuando el ordenador no esté ejecutando su función principal o cuando otros productos que utilizan energía no dependan de sus funciones, haga pasar automáticamente al ordenador a un modo de consumo que tenga una demanda de potencia inferior al requisito de demanda de potencia del modo de espera aplicable. 
+ 6.2.    A partir del 1 de julio de 2014 
+ 6.2.1. 
+ El ordenador reducirá la velocidad de cualquier enlace de red Ethernet de 1 Gigabit por segundo (Gb/s) activo al pasar al modo de espera o de desactivado con WOL. 
+ 6.2.2. 
+ Cuando se está en modo de espera, la respuesta a los «sucesos de activación», como los que se producen a través de conexiones de red o de dispositivos de interfaz de usuario, deberá producirse con una latencia inferior o igual a 5 segundos entre el inicio del suceso de activación y el momento en que el sistema queda plenamente utilizable, incluida la presentación en pantalla. 
+ 6.2.3. 
+ El ordenador se introducirá en el mercado con el modo de espera de la pantalla prefijado para activarse tras 10 minutos de inactividad del usuario. 
+ 6.2.4. 
+ Los ordenadores que puedan ser utilizados con Ethernet deberán tener capacidad para habilitar e inhabilitar una función WOL, si se dispone de ella, para el modo de espera. Los ordenadores que puedan ser utilizados con Ethernet deberán tener la posibilidad de habilitar e inhabilitar la WOL para el modo desactivado si se soporta la WOL a partir del modo desactivado. 
+ 6.2.5. 
+ En caso de que exista un modo de espera específico u otra condición que aporte una funcionalidad de modo de espera, estará prefijado que el modo se active antes de que la inactividad del usuario alcance los 30 minutos. Esta función de gestión del consumo eléctrico se activará antes de la introducción del producto en el mercado. 
+ 6.2.6. 
+ Los usuarios podrán activar y desactivar fácilmente cualquier conexión de red inalámbrica y deberán recibir una indicación clara, mediante un símbolo, testigo o señal equivalente, de que se ha activado o desactivado una conexión de red inalámbrica. 
+ 7.    INFORMACIÓN QUE DEBERÁN PROPORCIONAR LOS FABRICANTES 
+ Ordenador de mesa, ordenador de mesa integrado y ordenador portátil 
+ 7.1.    A partir del 1 de julio de 2014 
+ 7.1.1. 
+ Los fabricantes facilitarán en la documentación técnica y pondrán a disposición del público en sitios web de libre acceso la siguiente información: 
+ a) 
+ tipo y categoría de producto tal como se definen en el artículo 2 (una, y solo una, categoría); 
+ b) 
+ nombre del fabricante, nombre comercial registrado o marca registrada, y dirección de contacto; 
+ c) 
+ número de modelo del producto; 
+ d) 
+ año de fabricación; 
+ e) 
+ valor de E TEC (kWh) y ajustes por capacidad aplicados cuando todas las tarjetas gráfica discretas (dGfx) están inhabilitadas y si el sistema se somete a prueba con modo gráfico conmutable con UMA gobernando la pantalla; 
+ f) 
+ valor de E TEC (kWh) y ajustes por capacidad aplicados cuando están habilitadas todas las tarjetas gráfica discretas (dGfx); 
+ g) 
+ demanda de potencia en reposo (vatios); 
+ h) 
+ demanda de potencia en modo de espera (vatios); 
+ i) 
+ demanda de potencia en modo de espera con WOL habilitada (vatios) (cuando está habilitada); 
+ j) 
+ demanda de potencia en modo desactivado (vatios); 
+ k) 
+ demanda de potencia en modo desactivado con WOL habilitada (vatios) (cuando está habilitada); 
+ l) 
+ eficiencia de la fuente de alimentación interna al 10 %, 20 %, 50 % y 100 % de la potencia nominal de salida; 
+ m) 
+ eficiencia de la fuente de alimentación externa; 
+ n) 
+ niveles de ruido (nivel de potencia sonora ponderado A declarado) del ordenador; 
+ o) 
+ número mínimo de ciclos de carga que pueden soportar las baterías (se aplica solo a los ordenadores portátiles); 
+ p) 
+ metodología de medición utilizada para determinar la información mencionada en las letras e) a o); 
+ q) 
+ secuencia de pasos para alcanzar una condición estable respecto a la demanda de potencia; 
+ r) 
+ descripción de cómo se seleccionó o programó el modo del espera y/o desactivado; 
+ s) 
+ secuencia de eventos necesaria para llegar al modo en que el equipo pasa automáticamente a modo de espera y/o desactivado; 
+ t) 
+ duración del estado de reposo antes de que el ordenador pase automáticamente a modo de espera, o a otra condición que no rebase los requisitos de demanda de potencia aplicables al modo de espera; 
+ u) 
+ plazo tras un período de inactividad del usuario en el que el ordenador pasa automáticamente a un modo cuyos requisitos de demanda de potencia sean inferiores a los del modo de espera; 
+ v) 
+ plazo que debe transcurrir para que se active el modo de espera de la pantalla por inactividad del usuario; 
+ w) 
+ información al usuario sobre el potencial de ahorro energético de la funcionalidad de gestión del consumo; 
+ x) 
+ información al usuario sobre la manera de habilitar la funcionalidad de gestión del consumo; 
+ y) 
+ en el caso de los productos con pantalla integrada que contengan mercurio, contenido total de mercurio en X,X mg; 
+ z) 
+ parámetros de ensayo para las mediciones: 
+ — 
+ tensión del ensayo en V y frecuencia en Hz, 
+ — 
+ distorsión armónica total del sistema de alimentación eléctrica, 
+ — 
+ información y documentación sobre la instrumentación, la configuración y los circuitos utilizados para los ensayos eléctricos. 
+ 7.1.2. 
+ Si se introduce en el mercado un modelo de producto en múltiples configuraciones, la información sobre el producto exigida en el punto 7.1.1 podrá comunicarse una sola vez por categoría de producto (tal como se define en el artículo 2), para la configuración que tenga una demanda de potencia más elevada disponible en esa categoría de producto. Deberá incluirse en la información facilitada una lista de todas las configuraciones del modelo representadas por el modelo al que se refiere la información. 
+ Ordenador portátil 
+ 7.2.    A partir del 1 de julio de 2014 
+ Si un ordenador portátil funciona con baterías a las que un usuario no profesional no puede acceder ni sustituir, además de la información que se especifica en el punto 7.1, los fabricantes facilitarán en la documentación técnica, y presentarán en sitios web de libre acceso y en el embalaje exterior del ordenador portátil, la siguiente información: «Las baterías de este producto no pueden ser sustituidas fácilmente por los propios usuarios». 
+ La información que figure en el embalaje exterior del ordenador portátil deberá ser claramente visible y legible y se facilitará en todas las lenguas oficiales del país en que se comercialice el producto. 
+ Estación de trabajo, estación de trabajo móvil, cliente ligero de mesa, pequeño servidor y servidor informático 
+ 7.3.    A partir del 1 de julio de 2014 
+ 7.3.1. 
+ Los fabricantes facilitarán en la documentación técnica y pondrán a disposición del público en sitios web de libre acceso la siguiente información: 
+ a) 
+ tipo de producto, tal como se define en el artículo 2 (una, y solo una, categoría); 
+ b) 
+ nombre del fabricante, nombre comercial registrado o marca registrada, y dirección de contacto; 
+ c) 
+ número de modelo del producto; 
+ d) 
+ año de fabricación; 
+ e) 
+ eficiencia de la fuente de alimentación interna/externa; 
+ f) 
+ parámetros de ensayo para las mediciones: 
+ — 
+ tensión del ensayo en V y frecuencia en Hz, 
+ — 
+ distorsión armónica total del sistema de alimentación eléctrica, 
+ — 
+ información y documentación sobre la instrumentación, la configuración y los circuitos utilizados para los ensayos eléctricos; 
+ g) 
+ potencia máxima (vatios); 
+ h) 
+ potencia en estado de reposo (vatios); 
+ i) 
+ potencia en modo de espera (vatios); 
+ j) 
+ potencia en modo desactivado (vatios); 
+ k) 
+ niveles de ruido (nivel de potencia sonora ponderado A declarado) del ordenador; 
+ l) 
+ metodología de medición utilizada para determinar la información mencionada en las letras e) a k). 
+ 7.3.2. 
+ Si se introduce en el mercado un modelo de producto en múltiples configuraciones, la información sobre el producto exigida en el punto 7.3.1 podrá comunicarse una sola vez por categoría de producto (tal como se define en el artículo 2), para la configuración que tenga una demanda de potencia más elevada disponible en esa categoría de producto. Deberá incluirse en la información facilitada una lista de todas las configuraciones del modelo representadas por el modelo al que se refiere la información. 
+ ANEXO III 
+ Mediciones y procedimiento de verificación para la vigilancia del mercado 
+ 1.   MEDICIONES 
+ A efectos del cumplimiento y de la verificación del cumplimiento de los requisitos aplicables del presente Reglamento, las mediciones y cálculos se efectuarán utilizando normas armonizadas cuyos números de referencia hayan sido publicados en el Diario Oficial de la Unión Europea o utilizando otros métodos fiables, exactos y reproducibles que tengan en cuenta el estado de la técnica generalmente aceptado y generen resultados que se consideren de baja incertidumbre. 
+ Los ordenadores comercializados sin un sistema operativo capaz de soportar un sistema de Interfaz Avanzada de Configuración y Energía (ACPI) o similar se someterán a ensayo con un sistema operativo que soporte ACPI (o similar). 
+ 2.   PROCEDIMIENTO DE VERIFICACIÓN 
+ Cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE, las autoridades de los Estados miembros aplicarán el siguiente procedimiento de verificación en relación con los requisitos de diseño ecológico establecidos en el anexo II del presente Reglamento: 
+ E TEC , modo de espera, modo desactivado y estado de menor consumo: 
+ 2.1. 
+ Cuando los requisitos de demanda de potencia sean superiores a 1,00 W, o cuando los requisitos de consumo de energía formulados en el TEC den lugar a un requisito de demanda de potencia superior a 1,00 W en al menos un modo de consumo, las autoridades de los Estados miembros someterán a ensayo una sola unidad de la siguiente manera: 
+ La configuración del modelo se considerará conforme con los requisitos aplicables de los puntos 1.1, 1.2, 1.3, 1.4, y 2.3 del anexo II si los resultados de los ensayos para los valores límite aplicables no los superan en más de un 7 %. 
+ La configuración del modelo se considerará conforme con los requisitos aplicables del punto 2.2 del anexo II si los resultados de los ensayos para los valores límite aplicables no los superan en más de un 7 %. Podrá añadirse a los resultados de los ensayos un margen adicional con arreglo al punto 2.4 del anexo II si la configuración del modelo se comercializa con una funcionalidad WOL habilitada en el modo de espera. La configuración del modelo deberá ser sometida a ensayo con la funcionalidad WOL tanto habilitada como inhabilitada, y deberá cumplir con ambos requisitos. En caso de que la configuración del modelo se comercialice sin capacidad Ethernet, se someterá a ensayo con la función WOL inhabilitada. 
+ En caso de no alcanzarse los resultados mencionados, se someterán a ensayo tres unidades adicionales de la misma configuración del modelo. 
+ Una vez sometidas a ensayo tres unidades adicionales de la misma configuración del modelo, dicha configuración se considerará conforme con los requisitos aplicables de los puntos 1.1, 1.2, 1.3, 1.4, 2.2 y 2.3 del anexo II si, en promedio, los resultados de los ensayos de esas tres unidades para los valores límite aplicables no los superan en más de un 7 %. 
+ En caso de no alcanzarse los resultados mencionados, se considerará que la configuración del modelo y todos los modelos cubiertos por la misma información del producto (mencionada en el anexo II, puntos 7.1.2 y 7.3.2) no se ajustan a los requisitos aplicables de los puntos 1.1, 1.2, 1.3, 1.4, 2.2 y 2.3 del anexo II. 
+ 2.2. 
+ Cuando los requisitos de demanda de potencia sean iguales o inferiores a 1,00 W, las autoridades de los Estados miembros someterán a ensayo una sola unidad de la siguiente manera: 
+ La configuración del modelo se considerará conforme con los requisitos aplicables del punto 3.1 del anexo II si los resultados de los ensayos para los valores límite aplicables no los superan en más de 0,10 W. Podrá añadirse a los resultados de los ensayos un margen adicional con arreglo al punto 3.3 del anexo II si la configuración del modelo se comercializa con una funcionalidad «visualización de información o del estado». 
+ La configuración del modelo se considerará conforme con los requisitos aplicables del punto 4.1 del anexo II si los resultados de los ensayos para los valores límite aplicables no los superan en más de 0,10 W. Podrá añadirse a los resultados de los ensayos un margen adicional con arreglo al punto 4.3 del anexo II si la configuración del modelo se comercializa con una funcionalidad WOL habilitada en modo desactivado. La configuración del modelo deberá ser sometida a ensayo con la funcionalidad WOL tanto habilitada como inhabilitada, y deberá cumplir con ambos requisitos. En caso de que la configuración del modelo se comercialice sin capacidad Ethernet, se someterá a ensayo con la función WOL inhabilitada. 
+ En caso de no alcanzarse los resultados mencionados, se someterán a ensayo tres unidades adicionales de la misma configuración del modelo. 
+ Una vez sometidas a ensayo tres unidades adicionales de la misma configuración del modelo, dicha configuración se considerará conforme con los requisitos aplicables de los puntos 3.1 y 4.1 del anexo II si, en promedio, los resultados de los tres últimos ensayos para los valores límite aplicables no los superan en más de 0,10 W. 
+ En caso de no alcanzarse los resultados mencionados, se considerará que la configuración del modelo y todos los modelos cubiertos por la misma información del producto (mencionada en el anexo I, puntos 7.1.2 y 7.3.2) no se ajustan a los requisitos aplicables de los puntos 3.1 y 4.1 del anexo II. 
+ Eficiencia de la fuente de alimentación interna 
+ 2.3. 
+ Las autoridades de los Estados miembros someterán a ensayo una sola unidad. 
+ Se considerará que el modelo cumple las disposiciones del punto 5 del anexo II si: 
+ a) 
+ la media aritmética de la eficiencia en los estados de carga definidos en el anexo II no se sitúa por debajo del valor límite aplicable a la eficiencia media en activo en más de un 2 %, y 
+ b) 
+ la media aritmética del factor de potencia definido en el anexo II no se sitúa por debajo del valor límite aplicable al factor de potencia en más de un 10 %. 
+ En caso de no alcanzarse los resultados mencionados, se someterán a ensayo tres unidades adicionales del mismo modelo. 
+ Una vez efectuados los ensayos con tres unidades adicionales del mismo modelo, se considerará que este cumple lo prescrito en el punto 5 del anexo II si: 
+ a) 
+ la media de las medias aritméticas de la eficiencia en los estados de carga definidos en el anexo II no se sitúa por debajo del valor límite aplicable a la eficiencia media en activo en más de un 2 %, y 
+ b) 
+ la media aritmética del factor de potencia definido en el anexo II no se sitúa por debajo del valor límite aplicable al factor de potencia en más de un 10 %. 
+ En caso de no alcanzarse los resultados mencionados, se considerará que la configuración del modelo y todos los modelos cubiertos por la misma información del producto (mencionada en el anexo II, puntos 7.1.2 y 7.3.2) no se ajustan a los requisitos aplicables del punto 5 del anexo II. 
+ Habilitación de la gestión del consumo 
+ 2.4. 
+ En relación con los requisitos establecidos en el punto 6.1 del anexo II, las autoridades de los Estados miembros utilizarán el procedimiento aplicable para medir la demanda de potencia después de que la función de gestión del consumo, o una función similar, haya pasado el equipo al modo de consumo aplicable. 
+ 2.5. 
+ En relación con los requisitos establecidos en los puntos 6.2.1 a 6.2.6 del anexo II, las autoridades del Estado miembro someterán a ensayo una sola unidad de la siguiente manera: 
+ La configuración del modelo se considerará conforme con los requisitos aplicables del punto 6.2.1 si la velocidad de cualquier enlace de red Ethernet activo de 1 Gigabit por segundo (Gb/s) se reduce cuando un ordenador de mesa, un ordenador de mesa integrado o un ordenador portátil pasa a modo de espera o desactivado con WOL. 
+ La configuración del modelo se considerará conforme con los requisitos aplicables del punto 6.2.2 cuando un ordenador de mesa, ordenador de mesa integrado u ordenador portátil resulta plenamente utilizable, incluida la presentación en cualquier pantalla conectada, en un plazo de 5 segundos después de iniciado un suceso de activación durante el modo de espera. 
+ La configuración del modelo se considerará conforme con los requisitos aplicables del punto 6.2.3 si una pantalla conectada a un ordenador de mesa, ordenador de mesa integrado u ordenador portátil entra en modo de espera antes de que transcurran 10 minutos de inactividad del usuario. 
+ La configuración del modelo se considerará conforme con los requisitos aplicables del punto 6.2.4 si puede habilitarse e inhabilitarse una función WOL para el modo de espera y el modo desactivado. 
+ La configuración del modelo se considerará conforme con los requisitos aplicables del punto 6.2.5 si un ordenador de mesa, ordenador de mesa integrado u ordenador portátil entra en modo de espera antes de transcurridos 30 minutos de inactividad del usuario. 
+ La configuración del modelo se considerará conforme con los requisitos aplicables del punto 6.2.6 si los usuarios pueden activar y desactivar fácilmente cualquier conexión de red inalámbrica y reciben una indicación clara, mediante un símbolo, testigo o señal equivalente, de que se ha activado o desactivado una conexión de red inalámbrica. 
+ En caso de no alcanzarse los resultados mencionados, se someterán a ensayo tres unidades adicionales de la misma configuración del modelo. 
+ Una vez efectuados los ensayos con tres unidades adicionales del mismo modelo y configuración, la configuración del modelo se considerará conforme con los requisitos aplicables de los puntos 6.2.1 a 6.2.6 del anexo II si las tres unidades adicionales cumplen los requisitos. 
+ En caso de no alcanzarse los resultados mencionados, se considerará que la configuración del modelo y todos los modelos cubiertos por la misma información del producto (mencionada en el anexo II, puntos 7.1.2 y 7.3.2) no se ajustan a los requisitos aplicables de los puntos 6.2.1 a 6.2.6 del anexo II. 
+ Las tolerancias de verificación definidas en el presente anexo solo se refieren a la verificación de los parámetros medidos por las autoridades de los Estados miembros y no serán utilizadas por el fabricante como tolerancias admisibles para los valores que figuren en la documentación técnica al objeto de cumplir los requisitos. Los valores declarados no serán más favorables para el fabricante que los valores indicados en la documentación técnica. 
+ ANEXO IV 
+ Criterios de referencia indicativos 
+ Se definen los siguientes criterios de referencia indicativos a efectos del anexo I, parte 3, punto 2, de la Directiva 2009/125/CE. 
+ Remiten a la mejor tecnología disponible en el momento en que se redacta el presente Reglamento. 
+ El mejor rendimiento actual para los ordenadores que están en el mercado es: 
+ — 
+ E TEC varía según la categoría (véase el cuadro de más abajo), 
+ — 
+ modo de espera 0,4 W, 
+ — 
+ modo desactivado 0,0 W. 
+ Cuadro 
+ Mejor rendimiento actual en E TEC 
+ E TEC (kWh/año)  ( 1 ) 
+ Ordenador de mesa y ordenador de mesa integrado 
+ Categoría A 
+ 33,4 
+ Categoría B 
+ 28,7 
+ Categoría C 
+ 75,8 
+ Categoría D 
+ 63,5 
+ Ordenador portátil 
+ Categoría A 
+ 10,9 
+ Categoría B 
+ 18,1 
+ Categoría C 
+ 26,3 
+ ( 1 )   Últimos datos a 20 de marzo de 2012. 
+ 

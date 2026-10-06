@@ -1,0 +1,98 @@
+title: Cuánto ahorran las bombillas LED: coste por bombilla y por casa
+title_seo: Cuánto ahorran las bombillas LED en la factura
+excerpt: Cuánto ahorran las bombillas LED: una de 9 W en lugar de una halógena de 50 W ahorra unos 7,40 € al año con 3 horas diarias, a 0,165 €/kWh.
+category: ahorro
+keyword: cuánto ahorran las bombillas LED
+---
+¿Cuánto ahorran las bombillas LED? Cambiar una halógena de 50 W por una LED de 9 W ahorra unos 7,40 € al año si esa luz está encendida 3 horas al día. En una casa con diez puntos de luz encendidos 5 horas diarias, pasar de halógenas a LED baja el gasto en iluminación de 150,48 € a 27,09 € al año.
+
+Para estas cuentas, el kWh cuesta <strong>0,165 €/kWh con impuestos</strong>. Es un precio de referencia: si el tuyo es otro, el ahorro de las LED cambia en la misma proporción.
+
+## Cuánto gasta una bombilla al año {#coste}
+
+Una bombilla gasta lo que pone en vatios todo el rato que está encendida: no tiene termostato ni ciclos. Así que la cuenta es sencilla. Comparamos la LED de 9 W y la halógena de 50 W que usa nuestra calculadora de consumo:
+
+{{T:led_bombilla}}
+
+La LED gasta algo menos de la quinta parte que la halógena. El <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">IDAE</a> va más allá con las incandescentes clásicas: según sus recomendaciones, la tecnología LED emplea una potencia diez veces menor, dura diez veces más y ahorra más del 80 % de la energía.
+
+{{CAJA:Dato clave}}
+Lo que ahorras con cada bombilla depende de las horas que esté encendida. Empieza por las luces que más usas, como la cocina, el salón o el pasillo: una lámpara que enciendes cinco minutos al día apenas cambiará tu factura.
+{{/CAJA}}
+
+## Cuánto ahorran las bombillas LED en toda la casa {#casa}
+
+En nuestra calculadora, la iluminación de una casa son diez bombillas encendidas 5 horas al día. Así queda con LED y con halógenas:
+
+{{T:led_casa}}
+
+Son 10,28 € al mes de diferencia, 123,39 € al año. Si tu casa ya tiene casi todo en LED, el ahorro que te queda está en las pocas halógenas o fluorescentes que sigan encendiéndose a diario.
+
+La iluminación suele encenderse de noche, cuando la tarifa por horas está en punta de 18 a 22 h. Si tienes esa tarifa, cada vatio que quitas de la luz vale algo más. Te detallamos cada franja en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>.
+
+## Cómo leer la etiqueta de una bombilla {#etiqueta}
+
+Desde el 1 de septiembre de 2021, las bombillas llevan la etiqueta del <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2015" target="_blank" rel="noopener">Reglamento Delegado (UE) 2019/2015</a>. La clase va de la A a la G y se calcula con los lúmenes que da por cada vatio que gasta:
+
+{{T:led_clases}}
+
+Para saber la clase de una bombilla no hace falta la etiqueta: divide los lúmenes de la caja entre sus vatios y compáralo con la tabla. Una que dé 1.000 lúmenes con 9 W, por ejemplo, saca unos 111 lúmenes por vatio.
+
+La etiqueta también muestra el consumo en kWh por cada 1.000 horas encendida, que coincide con los vatios de la bombilla:
+
+{{T:led_etiqueta}}
+
+## Lo que tiene que poner en la caja {#caja}
+
+El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2020" target="_blank" rel="noopener">Reglamento (UE) 2019/2020</a> obliga a que el embalaje muestre, de forma clara, estos datos:
+
+- <strong>Los lúmenes</strong>, es decir, cuánta luz da, con un tamaño de letra al menos el doble que el de los vatios. Para comparar bombillas, fíjate en los lúmenes, no en los vatios.
+- <strong>La temperatura de color</strong> en kelvin: cifras bajas, luz cálida; cifras altas, luz más blanca o fría.
+- <strong>La vida útil</strong> en horas, en las LED.
+- <strong>La potencia</strong> en vatios y, si es inteligente, lo que gasta en espera conectada a la red.
+- <strong>El índice de reproducción del color</strong>, que indica lo naturales que se ven los colores.
+
+Las bombillas inteligentes que se controlan por wifi gastan algo aunque estén apagadas desde la aplicación. Ese consumo es pequeño, pero dura las 24 horas: lo explicamos en <a href="https://tuluzencasa.com/consumo-fantasma/">consumo fantasma</a>.
+
+## Cuándo compensa cambiar las bombillas {#cuando}
+
+- <strong>Si aún tienes incandescentes o halógenas</strong> en luces que se encienden a diario, cámbialas primero: son las que más ahorran.
+- <strong>Si ya tienes LED antiguas</strong> que funcionan bien, no las cambies solo por gastar un poco menos: la diferencia entre dos LED es pequeña.
+- <strong>Si una lámpara tiene LED integrado</strong> y no se puede cambiar la bombilla, el fabricante tiene que indicarlo; mira esa información antes de comprar.
+
+Para saber cuánto pesa la iluminación en tu factura, compara tu consumo de noche en el área de clientes de tu distribuidora. Te explicamos cada línea de la factura en <a href="https://tuluzencasa.com/como-leer-factura-luz/">cómo leer la factura de la luz</a>.
+
+## Trucos para gastar menos en iluminación {#trucos}
+
+- <strong>Aprovecha la luz natural</strong> y apaga las luces de las habitaciones donde no hay nadie, como recomienda el IDAE.
+- <strong>Elige la luz que necesitas</strong>: una lámpara de lectura gasta menos que encender la del techo.
+- <strong>Limpia lámparas y pantallas</strong>: con el polvo dan menos luz.
+- <strong>Pinta en colores claros</strong> las paredes de las estancias con poca luz.
+- <strong>Pon detectores de presencia</strong> en pasillos, garajes o trasteros donde las luces se olvidan encendidas.
+- <strong>Reduce la iluminación decorativa</strong> exterior al mínimo.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto gasta una bombilla LED encendida toda la noche?
+
+Una de 9 W encendida 10 horas gasta 0,09 kWh: unos 0,01 €. Al año, cada día así suma 5,42 €.
+
+### ¿Cuántos vatios LED equivalen a una bombilla de 60 W?
+
+Compara por lúmenes: busca en la caja de la LED los lúmenes y elige una que dé al menos la misma luz que la bombilla que quitas. Los vatios ya no sirven para comparar, porque cada tecnología da una luz distinta con la misma potencia.
+
+### ¿Es verdad que encender y apagar una LED gasta más?
+
+No. Una LED gasta lo que dice su potencia mientras está encendida. Si sales de la habitación, apágala.
+
+### ¿Qué clase energética es buena en una bombilla?
+
+Cuanto más arriba en la escala, más luz da por cada vatio. Pero para tu factura lo que más cuenta es dejar atrás halógenas e incandescentes: entre dos LED de letras distintas, la diferencia en euros es pequeña.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2015" target="_blank" rel="noopener">Reglamento Delegado (UE) 2019/2015 de la Comisión</a> (DO L 315, de 5 de diciembre de 2019), etiquetado energético de fuentes luminosas: cuadro 1 de clases, consumo en kWh/1.000 h y aplicación desde el 1 de septiembre de 2021.
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2020" target="_blank" rel="noopener">Reglamento (UE) 2019/2020 de la Comisión</a>, diseño ecológico de fuentes luminosas: anexo II, información que debe figurar en el embalaje.
+- <a href="https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares" target="_blank" rel="noopener">IDAE, Recomendaciones para el ahorro energético en hogares</a>: iluminación.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon cuántas bombillas tienes, sus vatios y las horas que las usas, y comprueba lo que te queda por ahorrar.

@@ -103,5 +103,21 @@
  "cuanto-consume-horno-electrico": {
   "id": 217,
   "rankmath_status": 200
+ },
+ "induccion-o-vitroceramica": {
+  "id": 262,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-ordenador": {
+  "id": 263,
+  "rankmath_status": 200
+ },
+ "bombillas-led-cuanto-ahorran": {
+  "id": 264,
+  "rankmath_status": 200
+ },
+ "ventilador-o-aire-acondicionado": {
+  "id": 265,
+  "rankmath_status": 200
  }
 }
