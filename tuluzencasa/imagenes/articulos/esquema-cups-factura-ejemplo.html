@@ -1,0 +1,56 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><style>
+*{box-sizing:border-box}body{margin:0;width:1200px;height:860px;background:#ECEEE9;font-family:"DejaVu Sans",sans-serif;color:#18222E;position:relative;overflow:hidden}
+.aviso{position:absolute;left:0;right:0;top:0;height:54px;background:#B3412F;color:#fff;font-weight:700;font-size:22px;display:flex;align-items:center;justify-content:center;letter-spacing:.04em}
+.fac{position:absolute;left:40px;top:84px;width:610px;height:740px;background:#fff;border:1px solid #c9cec3;border-radius:6px;box-shadow:0 6px 20px #18222E22;padding:28px 30px;overflow:hidden}
+.marca{position:absolute;left:-40px;top:300px;transform:rotate(-30deg);font-size:120px;font-weight:800;color:#B3412F;opacity:.10;letter-spacing:.06em;white-space:nowrap}
+.cab{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:3px solid #22354A;padding-bottom:14px}
+.cab b{font-size:21px}.cab small{display:block;color:#4A5663;font-size:14px;margin-top:4px}
+.num{text-align:right;font-size:14px;color:#4A5663}.num b{display:block;font-size:17px;color:#18222E}
+h3{margin:22px 0 10px;font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:#4A5663}
+.fila{display:flex;justify-content:space-between;font-size:15.5px;padding:7px 0;border-bottom:1px dashed #d3d7ce}
+.fila span:first-child{color:#4A5663}
+.cups{margin:6px -10px;padding:10px;border:3px solid #F2C230;background:#FFF6D6;border-radius:8px}
+.cups .fila{border:0;font-size:17px}.cups b{font-family:"DejaVu Sans Mono",monospace;font-size:19px;letter-spacing:.02em}
+.total{margin-top:18px;display:flex;justify-content:space-between;font-size:20px;font-weight:800;background:#22354A;color:#fff;padding:12px 14px;border-radius:6px}
+.lado{position:absolute;left:690px;top:84px;width:470px}
+.lado h2{font-size:26px;margin:4px 0 6px}.lado p{font-size:16px;color:#4A5663;margin:0 0 20px;line-height:1.4}
+.cod{display:flex;gap:6px;font-family:"DejaVu Sans Mono",monospace;font-size:27px;font-weight:700;margin-bottom:16px}
+.cod span{padding:8px 8px;border-radius:6px;color:#18222E}
+.c1{background:#cfe0f5}.c2{background:#d7ecd3}.c3{background:#FFE7A3}.c4{background:#f6cdc4}
+.parte{display:flex;gap:12px;align-items:flex-start;margin:0 0 14px}
+.parte i{flex:none;width:22px;height:22px;border-radius:5px;margin-top:3px}
+.parte b{display:block;font-size:17px}.parte div{font-size:15px;color:#4A5663;line-height:1.35}
+.flecha{position:absolute;left:600px;top:452px;width:96px;height:4px;background:#F2C230}
+.flecha:after{content:"";position:absolute;right:-6px;top:-8px;border:10px solid transparent;border-left:14px solid #F2C230}
+.pie{position:absolute;left:690px;bottom:36px;width:470px;font-size:13px;color:#4A5663;line-height:1.4;border-top:1px solid #c9cec3;padding-top:10px}
+</style></head><body>
+<div class="aviso">FACTURA DE EJEMPLO · TODOS LOS DATOS SON INVENTADOS</div>
+<div class="fac"><div class="marca">EJEMPLO</div>
+ <div class="cab"><div><b>Comercializadora de ejemplo</b><small>Factura de electricidad</small></div><div class="num">N.º de factura<b>EJEMPLO-0001</b>Periodo: 1 a 30 de septiembre</div></div>
+ <h3>Datos del contrato</h3>
+ <div class="fila"><span>Titular</span><span>Nombre y apellidos del titular</span></div>
+ <div class="fila"><span>Dirección de suministro</span><span>Calle Ejemplo, 1 · 00000 Localidad</span></div>
+ <div class="cups"><div class="fila"><span>CUPS</span><b>ES 0987 5432 1098 7654 ZF</b></div></div>
+ <div class="fila"><span>Peaje de acceso</span><span>2.0TD</span></div>
+ <div class="fila"><span>Potencia contratada</span><span>P1: 4,6 kW · P2: 4,6 kW</span></div>
+ <div class="fila"><span>Distribuidora</span><span>Distribuidora de ejemplo</span></div>
+ <div class="fila"><span>Teléfono de averías (24 h)</span><span>000 000 000</span></div>
+ <h3>Resumen</h3>
+ <div class="fila"><span>Potencia</span><span>— €</span></div>
+ <div class="fila"><span>Energía</span><span>— €</span></div>
+ <div class="fila"><span>Impuestos y alquiler del contador</span><span>— €</span></div>
+ <div class="total"><span>Total</span><span>— €</span></div>
+</div>
+<svg style="position:absolute;left:0;top:0" width="1200" height="860"><defs><marker id="m" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="12" refY="8" orient="auto"><path d="M0,0 L16,8 L0,16 z" fill="#F2C230"/></marker></defs><path d="M630 350 C 665 350, 660 214, 684 214" stroke="#F2C230" stroke-width="5" fill="none" marker-end="url(#m)"/></svg>
+<div class="lado">
+ <h2>Cómo se lee el CUPS</h2>
+ <p>Está en el apartado de datos del contrato o del punto de suministro. Tiene 20 caracteres (a veces 22).</p>
+ <div class="cod"><span class="c1">ES</span><span class="c2">0987</span><span class="c3">5432 1098 7654</span><span class="c4">ZF</span></div>
+ <div class="parte"><i class="c1"></i><div><b>ES · País</b>Siempre ES en España.</div></div>
+ <div class="parte"><i class="c2"></i><div><b>0987 · Distribuidora</b>Código de la distribuidora a la que está conectada la vivienda.</div></div>
+ <div class="parte"><i class="c3"></i><div><b>5432 1098 7654 · Tu suministro</b>12 números que la distribuidora asigna a tu punto de suministro.</div></div>
+ <div class="parte"><i class="c4"></i><div><b>ZF · Control</b>Dos letras que sirven para detectar errores al copiarlo.</div></div>
+ <div class="parte"><i style="background:#e5e7e2"></i><div><b>(Opcional) 1 número + 1 letra</b>Solo cuando hay varios puntos de medida. En casa es raro.</div></div>
+</div>
+<div class="pie">Esquema de tuluzencasa.com. El CUPS es el ejemplo que publica el BOE (Resolución de 16 de noviembre de 2009) y no corresponde a ninguna vivienda. Cada comercializadora ordena su factura a su manera.</div>
+</body></html>

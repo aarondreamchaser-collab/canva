@@ -1,0 +1,99 @@
+title: Qué es el CUPS de la luz, dónde encontrarlo en tu factura y cómo se lee
+title_seo: Qué es el CUPS de la luz y dónde encontrarlo
+excerpt: Qué es el CUPS: el código de 20 o 22 caracteres que identifica tu punto de suministro de luz. Dónde está en la factura, cómo se lee y para qué sirve.
+category: factura-luz
+keyword: qué es el CUPS
+---
+¿Qué es el CUPS? Es el código que identifica tu punto de suministro de luz, es decir, tu vivienda en la red eléctrica: empieza por ES, tiene 20 caracteres (a veces 22) y aparece en todas tus facturas, normalmente en el apartado de datos del contrato. No cambia aunque cambies de compañía o de titular.
+
+CUPS significa código universal del punto de suministro. Lo asigna la distribuidora de tu zona y su formato está fijado en el BOE desde 2009, así que es igual en toda España.
+
+## Qué es el CUPS y para qué sirve {#que-es}
+
+Piensa en el CUPS como la matrícula de tu instalación eléctrica. Tu nombre puede cambiar, la comercializadora que te vende la luz también, pero el punto donde tu casa se conecta a la red es siempre el mismo, y ese punto tiene un código único.
+
+Te lo van a pedir sobre todo en estos casos:
+
+- <strong>Para cambiar de compañía de luz</strong>, porque es la forma de indicar exactamente qué suministro se cambia. Te lo contamos paso a paso en <a href="https://tuluzencasa.com/cambiar-compania-luz/">cómo cambiar de compañía de luz</a>.
+- <strong>Para consultar tu consumo</strong> en el área de clientes de la distribuidora o en otras plataformas de datos de consumo.
+- <strong>Para trámites con la distribuidora</strong>, como un cambio de potencia, una avería o una reclamación.
+- <strong>Para pedir ofertas o presupuestos</strong>, por ejemplo de placas solares, porque con él se identifica tu suministro sin errores.
+
+## Dónde encontrar el CUPS {#donde}
+
+La normativa obliga a que las comercializadoras y las distribuidoras incluyan el código en la documentación que te mandan, como las facturas. Lo tienes en:
+
+- <strong>La factura de la luz</strong>, en el apartado de datos del contrato o del punto de suministro. Cada empresa ordena la factura a su manera, pero siempre aparece con la palabra CUPS. Si te cuesta encontrar algo en la tuya, mira <a href="https://tuluzencasa.com/como-leer-factura-luz/">cómo leer la factura de la luz</a>.
+- <strong>El contrato</strong> de suministro.
+- <strong>El área de clientes</strong> de tu comercializadora y de tu distribuidora.
+- <strong>Llamando a tu comercializadora</strong> o a tu distribuidora, identificándote como titular.
+
+Así se ve en una factura. Este esquema es un ejemplo con datos inventados:
+
+{{IMG:esquema-cups}}
+
+## Cómo se lee el CUPS {#como-se-lee}
+
+El formato está en el procedimiento P.O. 10.8, aprobado por una <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19040" target="_blank" rel="noopener">Resolución de la Secretaría de Estado de Energía de 16 de noviembre de 2009, publicada en el BOE</a>. Usamos el mismo ejemplo que publica el BOE, ES 0987 5432 1098 7654 ZF, que no corresponde a ninguna vivienda:
+
+{{T:cups_partes}}
+
+Los cuatro números de la distribuidora los asigna Red Eléctrica de España a cada distribuidora. Los doce siguientes los pone la distribuidora a tu suministro. Las dos letras finales no aportan información nueva: se calculan a partir de los 16 números anteriores para detectar si alguien se ha equivocado al copiarlo.
+
+{{CAJA:Dato clave}}
+El CUPS es permanente: según el BOE, no cambia aunque la distribuidora cambie de dueño ni aunque se venda la vivienda. Tampoco cambia cuando cambias de comercializadora.
+{{/CAJA}}
+
+## Cómo comprobar que un CUPS está bien escrito {#comprobar}
+
+Si tienes que copiar el código a mano, es fácil equivocarse con un número. Las dos letras de control sirven para detectarlo. El cálculo, según el BOE, es este:
+
+- <strong>1.</strong> Toma los 16 números, de la distribuidora y del punto de suministro, como un solo número.
+- <strong>2.</strong> Divídelo entre 529 y quédate con el resto.
+- <strong>3.</strong> Divide ese resto entre 23: el cociente da la primera letra y el resto, la segunda.
+- <strong>4.</strong> Las letras salen de esta secuencia, que empieza en el 0: T, R, W, A, G, M, Y, F, P, D, X, B, N, J, Z, S, Q, V, H, L, C, K, E.
+
+Con el ejemplo del BOE: 0987543210987654 entre 529 da de resto 329. Y 329 entre 23 da 14, con resto 7. La letra número 14 es la Z y la número 7 es la F: ZF, como en el código. No hace falta que lo hagas a mano: si la comercializadora te dice que el CUPS no es válido, lo más probable es que haya un número mal copiado.
+
+## CUPS, contador y contrato: no son lo mismo {#diferencias}
+
+Es fácil confundir el CUPS con otros números de la factura:
+
+- <strong>El número de contrato</strong> lo pone cada comercializadora y cambia si cambias de compañía.
+- <strong>El número de contador</strong> identifica el aparato que mide tu consumo. Si te cambian el contador, cambia; el CUPS, no.
+- <strong>El número de factura</strong> es distinto en cada factura.
+- <strong>El CUPS</strong> identifica el punto de suministro y es el mismo durante toda la vida de la instalación.
+
+Junto al CUPS suelen aparecer tu potencia contratada y tu peaje de acceso, normalmente 2.0TD en una vivienda. Si quieres revisar si tu potencia es la adecuada, lee <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+
+## ¿Es peligroso dar el CUPS? {#seguridad}
+
+El CUPS no es una contraseña: lo conocen tu comercializadora y tu distribuidora y sirve para identificar tu suministro. Pero junto con tu nombre y tu DNI permite iniciar trámites, como un cambio de compañía. Por eso:
+
+- Dalo cuando seas tú quien quiere contratar o pedir algo.
+- No se lo des a quien te llame o se presente en tu casa sin que lo hayas pedido, aunque diga que viene «de la luz».
+- Si recibes una factura de una compañía con la que no has contratado, reclama de inmediato a esa compañía y a tu comercializadora.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿El CUPS cambia si cambio de compañía?
+
+No. El CUPS va unido al punto de suministro, no a la empresa que te vende la luz ni al titular del contrato.
+
+### ¿Cuántos caracteres tiene el CUPS?
+
+Veinte: ES, 16 números y 2 letras de control. Algunos tienen 22, con un número y una letra más al final que distinguen varios puntos de medida de un mismo cliente.
+
+### ¿Dónde está el CUPS en la factura?
+
+En el apartado de datos del contrato o del punto de suministro, junto a la dirección, la potencia contratada y el peaje de acceso. Siempre aparece con la palabra CUPS.
+
+### ¿Puedo saber mi CUPS sin tener una factura?
+
+Sí. Pídeselo a tu comercializadora o a tu distribuidora, o míralo en sus áreas de clientes. Tendrás que identificarte como titular.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19040" target="_blank" rel="noopener">Resolución de 16 de noviembre de 2009, de la Secretaría de Estado de Energía</a> (BOE de 30 de noviembre de 2009), procedimiento P.O. 10.8: estructura del código, letras de control y ejemplos.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: con los datos de tu factura, la potencia y tus aparatos, verás cuánto deberías estar pagando cada mes.

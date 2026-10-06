@@ -1,0 +1,14 @@
+{
+ "cuadro-senalado": {
+  "id": 201,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/cuadro-diferenciales-magnetotermicos.jpg",
+  "alt": "Cuadro eléctrico con los diferenciales y los magnetotérmicos señalados.",
+  "pie": "Los diferenciales son más anchos y tienen botón de prueba; los magnetotérmicos llevan la letra de la curva y los amperios (B10, B16…). Foto: Dmitry G, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.es\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a>, adaptada por tuluzencasa.com."
+ },
+ "esquema-cups": {
+  "id": 202,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/esquema-cups-factura-ejemplo.jpg",
+  "alt": "Esquema de una factura de luz de ejemplo, con datos inventados, que señala dónde está el CUPS y explica sus partes: país, distribuidora, punto de suministro y letras de control.",
+  "pie": "Factura de ejemplo con datos inventados. El CUPS es el ejemplo que publica el BOE y no corresponde a ninguna vivienda."
+ }
+}

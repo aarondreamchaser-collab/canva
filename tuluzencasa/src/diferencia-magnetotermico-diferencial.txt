@@ -1,0 +1,100 @@
+title: Diferencia entre magnetotérmico y diferencial: qué protege cada uno y por qué salta
+title_seo: Magnetotérmico y diferencial: diferencias y por qué saltan
+excerpt: Magnetotérmico y diferencial: el primero protege los cables de sobrecargas y cortocircuitos; el segundo, a las personas de las fugas. Cómo distinguirlos.
+category: instalacion
+keyword: magnetotérmico y diferencial
+---
+La diferencia entre magnetotérmico y diferencial es qué protegen: el magnetotérmico protege los cables de una sobrecarga o un cortocircuito, y el diferencial te protege a ti de una descarga cuando hay una fuga de corriente. En una vivienda, el reglamento exige diferenciales de 30 mA como máximo y un magnetotérmico para cada circuito: 10 A para la luz y 16 A para los enchufes.
+
+Todo lo que contamos sale del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099" target="_blank" rel="noopener">Reglamento Electrotécnico para Baja Tensión (Real Decreto 842/2002), en su texto consolidado del BOE</a>, sobre todo de sus instrucciones ITC-BT-17 y ITC-BT-25. En este artículo verás cómo distinguirlos y qué puedes hacer tú sin riesgo; cualquier cambio en el cuadro tiene que hacerlo un instalador autorizado.
+
+## Qué hay en tu cuadro eléctrico {#cuadro}
+
+En el cuadro de una vivienda hay, como mínimo, tres tipos de aparatos:
+
+- <strong>El interruptor general automático (IGA)</strong>. Corta toda la casa. El reglamento le exige al menos 25 A y protección contra sobrecargas y cortocircuitos.
+- <strong>Uno o varios interruptores diferenciales</strong>. Vigilan las fugas de corriente de los circuitos que tienen detrás.
+- <strong>Un magnetotérmico por circuito</strong>, también llamado pequeño interruptor automático o PIA. Cada uno protege una parte de la casa: la luz, los enchufes, la cocina…
+
+Además, el control de la potencia contratada es independiente de todo esto. El reglamento dice que el interruptor general no puede sustituir al de control de potencia. Si lo que salta es el corte por potencia, lo explicamos en <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+
+{{IMG:cuadro-senalado}}
+
+## Magnetotérmico y diferencial: en qué se diferencian {#diferencias}
+
+<strong>El magnetotérmico</strong> mide cuánta corriente pasa por su circuito. Salta en dos casos:
+
+- <strong>Sobrecarga</strong>: enchufas a la vez más aparatos de los que aguanta el cable de ese circuito. Tarda un poco en saltar, porque la corriente sube poco a poco.
+- <strong>Cortocircuito</strong>: dos cables se tocan, por ejemplo en un aparato roto o un enchufe dañado. Salta al instante.
+
+<strong>El diferencial</strong> compara la corriente que sale por un cable con la que vuelve por el otro. Si no son iguales, es que una parte se está escapando: por un aparato con un defecto, por humedad o, en el peor caso, a través de una persona. Entonces corta. No le importa cuánta potencia gastas, solo que no se escape corriente.
+
+{{CAJA:Dato clave}}
+El magnetotérmico protege la instalación: que no se calienten los cables. El diferencial protege a las personas: corta en cuanto la corriente se escapa, también si se escapa a través de tu cuerpo. Uno no sustituye al otro y la vivienda necesita los dos.
+{{/CAJA}}
+
+## Cómo distinguirlos en el cuadro {#distinguir}
+
+- <strong>El diferencial</strong> suele ser más ancho y tiene un botón de prueba marcado con una T. En su frontal verás su sensibilidad en miliamperios: 30 mA en una vivienda.
+- <strong>El magnetotérmico</strong> es más estrecho y lleva una letra y un número, como B16 o C10: el número son los amperios a partir de los que salta por sobrecarga y la letra indica lo rápido que reacciona ante un pico de corriente.
+- <strong>El interruptor general</strong> suele estar al principio de la fila y lleva un número de amperios mayor.
+
+Muchos cuadros tienen etiquetas que dicen qué circuito es cada uno. Si el tuyo no las tiene, puedes averiguarlo bajando cada magnetotérmico y mirando qué se apaga, siempre sin abrir la tapa del cuadro.
+
+## Los circuitos de una vivienda y sus magnetotérmicos {#circuitos}
+
+La ITC-BT-25 fija los circuitos mínimos de una vivienda y el magnetotérmico de cada uno. Multiplicando los amperios por 230 V se obtiene la potencia máxima que puede soportar cada circuito antes de saltar por sobrecarga:
+
+{{T:rebt_circuitos}}
+
+Por eso, si en el circuito de enchufes de uso general, de 16 A, conectas a la vez aparatos que suman más de 3.680 W, salta su magnetotérmico aunque no hayas llegado a tu potencia contratada. Los circuitos C8, C9 y C10 solo existen si la vivienda tiene electrificación elevada o esos aparatos están previstos.
+
+## Lo que exige el reglamento a los diferenciales {#diferenciales}
+
+Según la ITC-BT-25:
+
+- La sensibilidad máxima es de <strong>30 mA</strong>: el diferencial debe proteger todos los circuitos frente a fugas de ese valor como máximo.
+- Su intensidad asignada tiene que ser <strong>igual o mayor que la del interruptor general</strong>.
+- Hace falta <strong>al menos un diferencial por cada cinco circuitos</strong>. Por eso en muchas casas hay dos.
+- Si hay un punto de recarga de coche eléctrico en una vivienda unifamiliar, su circuito lleva un diferencial exclusivo. Lo contamos en <a href="https://tuluzencasa.com/cuanto-cuesta-cargar-coche-electrico-casa/">cuánto cuesta cargar un coche eléctrico en casa</a>.
+
+## Qué hacer cuando salta cada uno {#que-hacer}
+
+Lo que puedes hacer tú sin riesgo, siempre con la tapa del cuadro cerrada y las manos secas:
+
+- <strong>Mira cuál ha saltado</strong>: el que tiene la palanca hacia abajo.
+- <strong>Si es un magnetotérmico</strong>, desenchufa algunos aparatos de esa zona y súbelo. Si vuelve a saltar en cuanto lo subes, aunque no haya nada enchufado, no insistas: puede haber un cortocircuito.
+- <strong>Si es el diferencial</strong>, baja todos los magnetotérmicos, sube el diferencial y ve subiendo los magnetotérmicos de uno en uno. El que lo hace saltar es el circuito con la fuga. Te lo explicamos paso a paso en <a href="https://tuluzencasa.com/por-que-salta-el-diferencial/">por qué salta el diferencial</a>.
+- <strong>Prueba el diferencial</strong> con el botón T. Debe saltar al pulsarlo. Si las instrucciones de tu diferencial indican cada cuánto hacerlo, síguelas.
+
+Lo que tiene que hacer un instalador autorizado:
+
+- Abrir el cuadro, cambiar un magnetotérmico o un diferencial, o añadir circuitos.
+- Buscar una fuga o un cortocircuito que no desaparece al desenchufar los aparatos.
+- Revisar la instalación si notas olor a quemado, un enchufe caliente o un diferencial que no salta al pulsar la T.
+
+Nunca cambies un magnetotérmico por otro de más amperios para que deje de saltar: el cable de ese circuito está calculado para su magnetotérmico y podría calentarse.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Qué es más importante, el magnetotérmico o el diferencial?
+
+Los dos son obligatorios y hacen cosas distintas. El magnetotérmico evita que los cables se calienten y el diferencial evita que una fuga de corriente te dé una descarga.
+
+### ¿Por qué salta el diferencial cuando llueve?
+
+Porque la humedad facilita las fugas de corriente, sobre todo en enchufes y luces de exterior o en aparatos con algún aislamiento dañado. Si pasa a menudo, que lo revise un instalador.
+
+### ¿Puede un magnetotérmico saltar sin llegar a la potencia contratada?
+
+Sí. Cada circuito tiene su límite: si en un mismo circuito de 16 A juntas aparatos que suman más de 3.680 W, salta su magnetotérmico aunque el resto de la casa esté casi apagada.
+
+### ¿Cuántos diferenciales tiene que haber en una casa?
+
+Al menos uno por cada cinco circuitos. Con la electrificación básica, de cinco circuitos, basta uno; si hay más circuitos, hacen falta más.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099" target="_blank" rel="noopener">Real Decreto 842/2002, Reglamento Electrotécnico para Baja Tensión</a>, texto consolidado del BOE: ITC-BT-17 (dispositivos generales de mando y protección) e ITC-BT-25 (instalaciones interiores en viviendas, apartado 2 y tabla 1).
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: suma tus aparatos y verás qué potencia usas a la vez. Si lo que te preocupa es el corte por potencia, prueba también la <a href="https://tuluzencasa.com/calculadora-potencia-contratada/">calculadora de potencia contratada</a>.

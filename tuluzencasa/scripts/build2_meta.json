@@ -250,5 +250,107 @@
    "https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906",
    "https://tuluzencasa.com/"
   ]
+ },
+ "consumo-fantasma": {
+  "title": "Consumo fantasma: cuánto gastan los aparatos apagados y cómo evitarlo",
+  "title_seo": "Consumo fantasma: cuánto gastan los aparatos en espera",
+  "excerpt": "Consumo fantasma: cada vatio que un aparato gasta en espera cuesta unos 1,44 € al año. Límites legales, cómo medirlo y cómo cortarlo.",
+  "category": "ahorro",
+  "keyword": "consumo fantasma",
+  "words": 1501,
+  "excerpt_len": 133,
+  "h2": 8,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32023R0826",
+   "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+   "https://tuluzencasa.com/tramos-horarios-luz/",
+   "https://tuluzencasa.com/como-leer-factura-luz/",
+   "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32023R0826",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
+ },
+ "cambiar-compania-luz": {
+  "title": "Cómo cambiar de compañía de luz paso a paso: gratis, sin cortes y sin cambiar el contador",
+  "title_seo": "Cómo cambiar de compañía de luz paso a paso",
+  "excerpt": "Cambiar de compañía de luz es gratis, no corta el suministro y lo tramita la nueva comercializadora en 21 días como máximo. Pasos y qué revisar.",
+  "category": "factura-luz",
+  "keyword": "cambiar de compañía de luz",
+  "words": 1404,
+  "excerpt_len": 144,
+  "h2": 7,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/que-es-el-cups/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2013-13645",
+   "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6544",
+   "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://tuluzencasa.com/como-leer-factura-luz/",
+   "https://comparador.cnmc.gob.es/",
+   "https://tuluzencasa.com/pvpc-mercado-libre/",
+   "https://tuluzencasa.com/bono-social-electrico/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2013-13645",
+   "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6544",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555",
+   "https://comparador.cnmc.gob.es/",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
+ },
+ "que-es-el-cups": {
+  "title": "Qué es el CUPS de la luz, dónde encontrarlo en tu factura y cómo se lee",
+  "title_seo": "Qué es el CUPS de la luz y dónde encontrarlo",
+  "excerpt": "Qué es el CUPS: el código de 20 o 22 caracteres que identifica tu punto de suministro de luz. Dónde está en la factura, cómo se lee y para qué sirve.",
+  "category": "factura-luz",
+  "keyword": "qué es el CUPS",
+  "words": 1235,
+  "excerpt_len": 149,
+  "h2": 7,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/cambiar-compania-luz/",
+   "https://tuluzencasa.com/como-leer-factura-luz/",
+   "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19040",
+   "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19040",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
+ },
+ "diferencia-magnetotermico-diferencial": {
+  "title": "Diferencia entre magnetotérmico y diferencial: qué protege cada uno y por qué salta",
+  "title_seo": "Magnetotérmico y diferencial: diferencias y por qué saltan",
+  "excerpt": "Magnetotérmico y diferencial: el primero protege los cables de sobrecargas y cortocircuitos; el segundo, a las personas de las fugas. Cómo distinguirlos.",
+  "category": "instalacion",
+  "keyword": "magnetotérmico y diferencial",
+  "words": 1345,
+  "excerpt_len": 153,
+  "h2": 7,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099",
+   "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://creativecommons.org/licenses/by-sa/3.0/deed.es",
+   "https://tuluzencasa.com/cuanto-cuesta-cargar-coche-electrico-casa/",
+   "https://tuluzencasa.com/por-que-salta-el-diferencial/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/",
+   "https://tuluzencasa.com/calculadora-potencia-contratada/"
+  ]
  }
 }

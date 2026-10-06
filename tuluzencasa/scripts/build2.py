@@ -19,9 +19,11 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 TABLAS = {}
-for f in ("tablas.json", "tablas_calefaccion.json", "tablas_calefaccion2.json", "tablas_tanda3.json"):
+for f in ("tablas.json", "tablas_calefaccion.json", "tablas_calefaccion2.json", "tablas_tanda3.json", "tablas_tanda4.json"):
     TABLAS.update(json.loads((BASE / "scripts" / f).read_text(encoding="utf-8")))
 LINEA_FECHA = "Cálculos con precios de octubre de 2026"
+IMG_P = BASE / "scripts" / "wp_imagenes_articulos.json"
+IMAGENES = json.loads(IMG_P.read_text(encoding="utf-8")) if IMG_P.exists() else {}
 
 
 def p(html):
@@ -50,6 +52,20 @@ def table(key):
             "</tr></thead><tbody>" + body + "</tbody></table></figure>\n<!-- /wp:table -->")
 
 
+def caja(titulo, cuerpo):
+    """Caja «Dato clave» / «Actualizado»: grupo .tl-dato (estilo en el fragmento «Efectos tuluzencasa»)."""
+    t = (f'<!-- wp:paragraph {{"className":"tl-dato-t"}} -->\n<p class="tl-dato-t">{titulo}</p>\n<!-- /wp:paragraph -->')
+    return ('<!-- wp:group {"className":"tl-dato","layout":{"type":"default"}} -->\n<div class="wp-block-group tl-dato">'
+            + "\n\n".join([t] + cuerpo) + '</div>\n<!-- /wp:group -->')
+
+
+def imagen(key):
+    i = IMAGENES[key]
+    cap = f'<figcaption class="wp-element-caption">{i["pie"]}</figcaption>' if i.get("pie") else ""
+    return (f'<!-- wp:image {{"id":{i["id"]},"sizeSlug":"full","linkDestination":"none"}} -->\n'
+            f'<figure class="wp-block-image size-full"><img src="{i["url"]}" alt="{escape(i["alt"])}" class="wp-image-{i["id"]}"/>{cap}</figure>\n<!-- /wp:image -->')
+
+
 def build(slug):
     raw = (BASE / "src" / f"{slug}.txt").read_text(encoding="utf-8")
     header, body = raw.split("\n---\n", 1)
@@ -69,8 +85,16 @@ def build(slug):
             blocks.append(ul(list(items)))
             items.clear()
 
+    caja_abierta = None
     for line in body.splitlines():
         s = line.strip()
+        if s.startswith("{{CAJA:"):
+            flush(); caja_abierta = (s[7:-2], len(blocks)); continue
+        if s == "{{/CAJA}}":
+            flush(); tit, ini = caja_abierta; cuerpo = blocks[ini:]; del blocks[ini:]
+            blocks.append(caja(tit, cuerpo)); caja_abierta = None; continue
+        if s.startswith("{{IMG:"):
+            flush(); blocks.append(imagen(s[6:-2])); continue
         if not s:
             flush()
         elif s.startswith("### "):

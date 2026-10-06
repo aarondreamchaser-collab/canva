@@ -1,0 +1,105 @@
+title: Consumo fantasma: cuánto gastan los aparatos apagados y cómo evitarlo
+title_seo: Consumo fantasma: cuánto gastan los aparatos en espera
+excerpt: Consumo fantasma: cada vatio que un aparato gasta en espera cuesta unos 1,44 € al año. Límites legales, cómo medirlo y cómo cortarlo.
+category: ahorro
+keyword: consumo fantasma
+---
+El consumo fantasma es la electricidad que gastan los aparatos cuando parecen apagados pero siguen enchufados: cada vatio que se queda consumiendo día y noche te cuesta unos 1,44 € al año. Si en tu casa suman 10 W en espera, son 14,45 € al año que pagas sin usar nada.
+
+Las cifras usan un precio de <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio, cámbialo: el coste sube o baja en la misma proporción.
+
+## Qué es el consumo fantasma {#que-es}
+
+Muchos aparatos no se desconectan del todo cuando los apagas con el mando o con el botón. Se quedan en un estado de espera para poder encenderse rápido, mostrar la hora, escuchar el mando a distancia o recibir órdenes por wifi. Para eso necesitan un poco de corriente las 24 horas.
+
+La normativa europea distingue tres estados:
+
+- <strong>Modo desactivado</strong>: el aparato está apagado, pero enchufado, y no hace nada más.
+- <strong>Modo preparado</strong>: está esperando para encenderse, a veces con un piloto o un reloj encendido.
+- <strong>Modo preparado en red</strong>: está pendiente de una orden que llega por wifi o por cable, como un altavoz inteligente o una impresora en red.
+
+A todo lo que se gasta en esos estados se le llama consumo fantasma, consumo en espera o consumo vampiro.
+
+## Cuánto cuesta el consumo fantasma {#coste}
+
+Lo que importa es cuántos vatios suman todos los aparatos que se quedan en espera. Como ese consumo no para nunca, cada vatio se multiplica por todas las horas del año:
+
+{{T:fantasma_watios}}
+
+Un solo aparato moderno en espera apenas se nota en la factura. El problema aparece cuando se suman muchos y algunos son antiguos: con 20 W en espera pagas 28,89 € al año sin usar nada.
+
+{{CAJA:Dato clave}}
+Cada vatio que se queda encendido las 24 horas cuesta unos 1,44 € al año. Si quieres saber cuánto pagas tú, suma los vatios en espera de tu casa y multiplícalos por esa cifra.
+{{/CAJA}}
+
+## Lo que la ley permite gastar a un aparato nuevo {#limites}
+
+El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32023R0826" target="_blank" rel="noopener">Reglamento (UE) 2023/826, publicado en el Diario Oficial de la Unión Europea</a>, fija lo máximo que pueden gastar en espera los aparatos domésticos y de oficina que se venden nuevos. Se aplica desde el 9 de mayo de 2025:
+
+{{T:fantasma_limites}}
+
+Los equipos de alta disponibilidad de red son los que tienen que responder a la red casi al instante, como un router. Para ellos el límite es mayor.
+
+Ojo con dos cosas. La primera: estos límites son para aparatos nuevos; los que ya tienes en casa pueden gastar más, sobre todo si tienen años. La segunda: el reglamento no se aplica a todo. Los televisores y monitores tienen su propio reglamento, y los ordenadores también, así que no los incluimos en esta tabla.
+
+{{CAJA:Actualizado en octubre de 2026}}
+Desde el 9 de mayo de 2025, los aparatos nuevos deben cumplir los límites del Reglamento (UE) 2023/826, que sustituye al anterior de 2008. A partir del 9 de mayo de 2027, el máximo en modo desactivado bajará de 0,50 W a 0,30 W.
+{{/CAJA}}
+
+## Un ejemplo: una casa con aparatos nuevos {#ejemplo}
+
+Imagina una casa en la que todo es nuevo y cumple justo el límite: cinco aparatos apagados pero enchufados, tres con reloj o piloto y dos conectados en red esperando una orden.
+
+{{T:fantasma_casa}}
+
+Incluso con aparatos nuevos, son 12,86 € al año. En una casa con aparatos de hace años, cargadores que se quedan enchufados y equipos que nunca se apagan del todo, la cifra puede ser bastante mayor. La única forma de saberlo es medirlo.
+
+## Cómo medir el consumo fantasma de tu casa {#medir}
+
+Hay dos formas sencillas y sin ningún riesgo:
+
+- <strong>Con un enchufe medidor de consumo</strong>. Se enchufa entre la pared y el aparato y te dice cuántos vatios gasta. Mídelo con el aparato apagado del mando y luego apagado del botón: verás la diferencia.
+- <strong>Con tu contador o el área de clientes</strong>. Si tienes contador digital, la distribuidora registra tu consumo por horas. Mira las horas de madrugada, cuando todo está parado: ese consumo es tu suelo, la suma de la nevera, el router y todo lo que se queda en espera.
+
+La nevera y el congelador no son consumo fantasma: funcionan de verdad las 24 horas y no hay que desenchufarlos. Te explicamos cuánto gastan en <a href="https://tuluzencasa.com/cuanto-consume-una-nevera/">cuánto consume una nevera</a>.
+
+## Trucos para cortar el consumo fantasma {#trucos}
+
+- <strong>Usa regletas con interruptor</strong> para agrupar la tele, el descodificador, la consola y el equipo de sonido. Al apagar la regleta, se acaba la espera de todos a la vez.
+- <strong>Desenchufa los cargadores</strong> cuando no estén cargando nada. Un cargador enchufado sin móvil gasta poco, pero suma.
+- <strong>Apaga del botón</strong> los aparatos que lo tengan, no solo del mando.
+- <strong>Revisa la configuración</strong> de la tele, la consola y los altavoces inteligentes: muchos tienen un modo de encendido rápido o de espera en red que se puede desactivar.
+- <strong>No desenchufes</strong> la nevera, el congelador, la caldera, la alarma ni nada que deba seguir funcionando. Tampoco el router si lo necesitas para el teléfono o la alarma.
+- <strong>Al comprar</strong>, mira el consumo en espera: en los aparatos que entran en el reglamento, las instrucciones y la web del fabricante tienen que indicar en vatios lo que gastan en cada modo de espera.
+
+Si tienes una tarifa por horas, este consumo cae también en las horas caras, porque no para nunca. Lo explicamos en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>.
+
+## Cuánto puedes ahorrar de verdad {#ahorro}
+
+Cortar el consumo fantasma no va a cambiar tu factura de un mes para otro: quitar 10 W en espera ahorra 14,45 € al año, y quitar 20 W, 28,89 €. Pero es un ahorro que no te cuesta nada más que un gesto, y se suma a lo que ahorres con los aparatos que más gastan, como el termo o la calefacción.
+
+Para ver dónde se te va de verdad el dinero, apunta tus aparatos y sus horas de uso. Y si quieres entender cada línea de lo que pagas, lee <a href="https://tuluzencasa.com/como-leer-factura-luz/">cómo leer la factura de la luz</a>.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto gasta un aparato en espera?
+
+Depende del aparato y de su antigüedad. Los nuevos que entran en el Reglamento (UE) 2023/826 no pueden pasar de 0,50 W apagados o en espera simple, ni de 0,80 W si muestran un reloj o un piloto. Los antiguos pueden gastar más: lo mejor es medirlo con un enchufe medidor.
+
+### ¿Merece la pena desenchufar los cargadores?
+
+Un cargador sin nada conectado gasta poco, pero si tienes varios enchufados todo el día, suman. Desenchufarlos no tiene ningún inconveniente y además alarga su vida.
+
+### ¿Apagar con el mando es lo mismo que apagar del todo?
+
+No. Con el mando, el aparato se queda en espera para poder volver a encenderse. Apagado del botón o con una regleta con interruptor, deja de consumir.
+
+### ¿Es malo desenchufar la tele o el router todos los días?
+
+No estropea los aparatos. Ten en cuenta que algunos descodificadores y routers tardan unos minutos en arrancar y que, si el router da servicio a una alarma o al teléfono fijo, conviene dejarlo encendido.
+
+Fuentes oficiales consultadas el 6 de octubre de 2026:
+
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32023R0826" target="_blank" rel="noopener">Reglamento (UE) 2023/826 de la Comisión, de 17 de abril de 2023</a> (Diario Oficial de la Unión Europea L 103, de 18 de abril de 2023): anexo III, límites de consumo en los modos desactivado, preparado y preparado en red, y artículo 10, aplicación desde el 9 de mayo de 2025.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: añade tus aparatos, sus horas de uso y tu precio, y verás qué parte de tu factura es consumo real y qué parte se va en espera.

@@ -71,5 +71,21 @@
  "cuanto-cuesta-cargar-coche-electrico-casa": {
   "id": 137,
   "rankmath_status": 200
+ },
+ "consumo-fantasma": {
+  "id": 203,
+  "rankmath_status": 200
+ },
+ "cambiar-compania-luz": {
+  "id": 204,
+  "rankmath_status": 200
+ },
+ "que-es-el-cups": {
+  "id": 205,
+  "rankmath_status": 200
+ },
+ "diferencia-magnetotermico-diferencial": {
+  "id": 206,
+  "rankmath_status": 200
  }
 }
