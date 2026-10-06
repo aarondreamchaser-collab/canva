@@ -6,7 +6,7 @@ keyword: cuánto consume una secadora
 ---
 ¿Cuánto consume una secadora? Depende sobre todo del tipo: una secadora con bomba de calor de 7 kg gasta unos 0,85 kWh por ciclo, 0,14 € por secado, y una de evacuación o de condensación con resistencia, entre 2,58 y 2,73 kWh, unos 0,43 € a 0,45 €. Con 12 secados al mes, la diferencia es de unos 41 € al año.
 
-Las cifras usan un precio de <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio, cámbialo: el coste sube o baja en la misma proporción. Los consumos son los valores de referencia que publica el propio reglamento europeo de las secadoras.
+Pasamos los kWh a euros con <strong>0,165 €/kWh con impuestos</strong>; si en tu factura pagas otro precio, los costes cambian en la misma proporción. Los consumos salen del propio reglamento europeo de las secadoras.
 
 ## Cuánto consume una secadora según su tipo {#tipos}
 
@@ -52,7 +52,7 @@ Desde el 1 de julio de 2025, las secadoras nuevas tienen que tener un índice de
 
 {{T:secadora_clases}}
 
-Además, las de condensación tienen que recoger al menos el 80 % de la humedad que sacan de la ropa. Si tu secadora es anterior, llevará la etiqueta antigua, con clases como A+++, que no se pueden comparar con las nuevas.
+Además, las de condensación tienen que recoger al menos el 80 % de la humedad que sacan de la ropa. Las secadoras compradas antes de julio de 2025 suelen llevar la etiqueta de 2012, con clases como A+++; sus letras no equivalen a las de ahora.
 
 ## Cuánto ahorras secando en las horas baratas {#horas}
 
@@ -60,11 +60,11 @@ Si tienes una tarifa por horas, la secadora es de los aparatos que más se notan
 
 {{T:secadora_tramos}}
 
-Con una secadora de evacuación, pasar 12 secados de punta a valle ahorra 4,33 € al mes. Con una de bomba de calor, 1,43 €. Te explicamos los horarios en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>. Si la programas de noche, sigue las indicaciones del fabricante sobre su uso sin vigilancia y limpia el filtro antes de cada secado.
+Con una secadora de evacuación, pasar 12 secados de punta a valle ahorra 4,33 € al mes. Con una de bomba de calor, 1,43 €. Cada franja horaria la explicamos en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>. Si la programas de noche, sigue las indicaciones del fabricante sobre su uso sin vigilancia y limpia el filtro antes de cada secado.
 
 ## Trucos para que la secadora gaste menos {#trucos}
 
-- <strong>Centrifuga bien antes</strong>. Cuanta menos agua lleve la ropa, menos trabaja la secadora. La clase de centrifugado de la lavadora está en su etiqueta: lo contamos en <a href="https://tuluzencasa.com/cuanto-consume-lavadora/">cuánto consume una lavadora</a>.
+- <strong>Centrifuga bien antes</strong>. La ropa que sale bien escurrida de la lavadora se seca antes. La clase de centrifugado de la lavadora está en su etiqueta, como verás en <a href="https://tuluzencasa.com/cuanto-consume-lavadora/">cuánto consume una lavadora</a>.
 - <strong>Limpia el filtro de pelusa</strong> en cada secado y el condensador o el filtro de la bomba de calor cuando lo indique el manual. Con los filtros sucios el aire pasa peor y el secado dura más.
 - <strong>Usa el programa eco</strong> y el sensor de humedad en vez de un tiempo fijo, para que pare cuando la ropa esté seca.
 - <strong>Llénala, pero sin pasarte</strong> de la capacidad del programa.

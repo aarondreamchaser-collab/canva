@@ -57,7 +57,7 @@ Según la ITC-BT-25:
 - La sensibilidad máxima es de <strong>30 mA</strong>: el diferencial debe proteger todos los circuitos frente a fugas de ese valor como máximo.
 - Su intensidad asignada tiene que ser <strong>igual o mayor que la del interruptor general</strong>.
 - Hace falta <strong>al menos un diferencial por cada cinco circuitos</strong>. Por eso en muchas casas hay dos.
-- Si hay un punto de recarga de coche eléctrico en una vivienda unifamiliar, su circuito lleva un diferencial exclusivo. Lo contamos en <a href="https://tuluzencasa.com/cuanto-cuesta-cargar-coche-electrico-casa/">cuánto cuesta cargar un coche eléctrico en casa</a>.
+- Si hay un punto de recarga de coche eléctrico en una vivienda unifamiliar, su circuito lleva un diferencial exclusivo. Si estás pensando en instalarlo, mira también <a href="https://tuluzencasa.com/cuanto-cuesta-cargar-coche-electrico-casa/">cuánto cuesta cargar un coche eléctrico en casa</a>.
 
 ## Qué hacer cuando salta cada uno {#que-hacer}
 
@@ -82,9 +82,9 @@ Nunca cambies un magnetotérmico por otro de más amperios para que deje de salt
 
 Los dos son obligatorios y hacen cosas distintas. El magnetotérmico evita que los cables se calienten y el diferencial evita que una fuga de corriente te dé una descarga.
 
-### ¿Por qué salta el diferencial cuando llueve?
+### ¿La humedad puede hacer saltar el diferencial?
 
-Porque la humedad facilita las fugas de corriente, sobre todo en enchufes y luces de exterior o en aparatos con algún aislamiento dañado. Si pasa a menudo, que lo revise un instalador.
+Sí. La humedad facilita las fugas de corriente, sobre todo en enchufes y luces de exterior o en aparatos con algún aislamiento dañado. Si pasa a menudo, que lo revise un instalador.
 
 ### ¿Puede un magnetotérmico saltar sin llegar a la potencia contratada?
 

@@ -6,11 +6,11 @@ keyword: cuánto consume un lavavajillas
 ---
 ¿Cuánto consume un lavavajillas? Un lavado con el programa eco gasta cerca de 1 kWh, unos 0,16 € por lavado. Con 12 lavados al mes son 1,96 € al mes y 23,52 € al año; si lo pones todos los días, unos 5 € al mes.
 
-Las cifras usan un precio de <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio, cámbialo: el coste sube o baja en la misma proporción. El lavado de referencia es el de nuestra calculadora de consumo: un lavavajillas de 1.200 W con un programa eco de hora y media.
+Un lavado cuesta más o menos según tu tarifa: aquí usamos <strong>0,165 €/kWh con impuestos</strong>, y con otro precio basta con aplicar la misma proporción. El lavado tipo es el de nuestra calculadora de consumo: un aparato de 1.200 W con un programa eco de hora y media.
 
 ## Cuánto consume un lavavajillas según cuánto lo pones {#coste}
 
-El lavavajillas no funciona a plena potencia todo el ciclo: la resistencia calienta el agua a ratos y el resto del tiempo solo funcionan la bomba y el secado. Por eso, como en nuestra calculadora, aplicamos un factor de uso real de 0,55: un lavavajillas de 1.200 W durante 1,5 horas gasta unos 0,99 kWh.
+El lavavajillas no funciona a plena potencia todo el ciclo: la resistencia calienta el agua a ratos y el resto del tiempo solo funcionan la bomba y el secado. Nuestra calculadora lo tiene en cuenta con un factor de uso real de 0,55, y aquí usamos el mismo: con 1.200 W durante 1,5 horas salen unos 0,99 kWh.
 
 {{T:lavavajillas_frecuencia}}
 
@@ -22,13 +22,13 @@ Aclarar la vajilla antes de meterla gasta más energía y agua, y el propio regl
 
 ## Cómo leer la etiqueta energética del lavavajillas {#etiqueta}
 
-Desde el 1 de marzo de 2021, los lavavajillas llevan la etiqueta del <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2017" target="_blank" rel="noopener">Reglamento Delegado (UE) 2019/2017</a>, con clases de la A a la G. Muestra:
+La etiqueta que ves en la tienda es la del <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2017" target="_blank" rel="noopener">Reglamento Delegado (UE) 2019/2017</a>, obligatoria desde el 1 de marzo de 2021, con clases de la A a la G. En ella encontrarás:
 
-- <strong>El consumo de energía por 100 ciclos</strong> del programa eco, en kWh.
+- <strong>Los kWh que gastan 100 lavados</strong> con el programa eco.
 - <strong>La capacidad</strong>, en cubiertos, para el programa eco.
-- <strong>El agua por ciclo</strong>, en litros.
+- <strong>Los litros de agua</strong> que gasta cada lavado.
 - <strong>La duración</strong> del programa eco.
-- <strong>La clase de ruido</strong> y un código QR con la ficha del modelo.
+- <strong>El ruido</strong>, con su clase, y un código QR que enlaza a la ficha europea del modelo.
 
 Divide entre 100 los kWh de la etiqueta y tendrás lo que gasta cada lavado eco:
 
@@ -36,11 +36,11 @@ Divide entre 100 los kWh de la etiqueta y tendrás lo que gasta cada lavado eco:
 
 ## Qué significan las clases {#clases}
 
-La clase compara el consumo del programa eco con el de un lavavajillas estándar de la misma capacidad:
+Para dar la clase, el reglamento mide cuánto gasta el programa eco frente a lo que gastaría un lavavajillas estándar con los mismos cubiertos:
 
 {{T:lavavajillas_clases}}
 
-El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2022" target="_blank" rel="noopener">Reglamento (UE) 2019/2022 de diseño ecológico</a> fija un mínimo: desde el 1 de marzo de 2021, los lavavajillas nuevos tienen que tener un índice inferior a 63, y desde el 1 de marzo de 2024, los de diez cubiertos o menos, inferior a 56, es decir, de clase E o mejor. Como en las lavadoras, la clase depende de la capacidad: uno grande de clase B puede gastar más por lavado que uno pequeño de clase D. Para la factura, fíjate en los kWh.
+El <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R2022" target="_blank" rel="noopener">Reglamento (UE) 2019/2022 de diseño ecológico</a> fija un mínimo: desde el 1 de marzo de 2021, los lavavajillas nuevos tienen que tener un índice inferior a 63, y desde el 1 de marzo de 2024, los de diez cubiertos o menos, inferior a 56, es decir, de clase E o mejor. Como en las lavadoras, la clase depende de la capacidad: un modelo de muchos cubiertos con mejor letra puede gastar más en cada lavado que uno compacto con peor letra. Para la factura, fíjate en los kWh.
 
 ## El programa eco y lo que dice el manual {#programa-eco}
 
@@ -62,7 +62,7 @@ El lavavajillas es de los aparatos más fáciles de mover de hora: lo cargas des
 
 {{T:lavavajillas_tramos}}
 
-Con 12 lavados al mes, pasar de punta a valle ahorra 1,66 € al mes, unos 20 € al año. Las horas de cada tramo las tienes en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>. Si lo pones de noche, sigue las indicaciones del fabricante sobre su uso sin vigilancia y no lo juntes a la misma hora con el termo y la lavadora, para que no salte el limitador. Si te pasa, lee <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+Con 12 lavados al mes, pasar de punta a valle ahorra 1,66 € al mes, unos 20 € al año. Cuándo empieza y acaba cada tramo lo tienes en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>. Si lo pones de noche, sigue las indicaciones del fabricante sobre su uso sin vigilancia y no lo juntes a la misma hora con el termo y la lavadora, para que no salte el limitador. Si te pasa, lee <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
 
 ## Trucos para que el lavavajillas gaste menos {#trucos}
 
@@ -77,7 +77,7 @@ Con 12 lavados al mes, pasar de punta a valle ahorra 1,66 € al mes, unos 20 �
 
 ### ¿Cuánto cuesta poner un lavavajillas?
 
-Unos 0,16 € por un lavado eco de cerca de 1 kWh, a 0,165 €/kWh. Con la etiqueta del tuyo, divide los kWh entre 100 y multiplica por tu precio.
+Unos 0,16 € por un lavado eco de cerca de 1 kWh, a 0,165 €/kWh. Si quieres afinar con tu modelo, toma los kWh de la etiqueta, pásalos a un solo lavado dividiendo entre 100 y aplícales tu precio.
 
 ### ¿Gasta más el lavavajillas que lavar a mano?
 

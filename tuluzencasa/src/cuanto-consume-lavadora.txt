@@ -4,9 +4,9 @@ excerpt: Cuánto consume una lavadora: un lavado a 40 °C gasta unos 0,8 kWh, 0,
 category: consumo
 keyword: cuánto consume una lavadora
 ---
-¿Cuánto consume una lavadora? Un lavado a 40 °C gasta unos 0,8 kWh, es decir, unos 0,13 € por lavado. Con 12 lavados al mes son 1,58 € al mes y 19,01 € al año.
+¿Cuánto consume una lavadora? Un lavado a 40 °C gasta unos 0,8 kWh, es decir, unos 0,13 € por lavado. Si pones 12 lavadoras al mes, pagas 1,58 € al mes y 19,01 € al año.
 
-Las cifras usan un precio de <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio, cámbialo: el coste sube o baja en la misma proporción. El lavado de referencia es el de nuestra calculadora de consumo: una lavadora de 800 W funcionando una hora.
+Todos los costes están calculados a <strong>0,165 €/kWh con impuestos</strong>; con otro precio, ajústalos en la misma proporción. Tomamos como lavado tipo el de nuestra calculadora de consumo: 800 W durante una hora.
 
 ## Cuánto consume una lavadora según cuánto la pones {#coste}
 
@@ -62,7 +62,7 @@ Si tienes una tarifa por horas, el mismo lavado cuesta distinto según cuándo l
 
 {{T:lavadora_tramos}}
 
-Son 1,34 € al mes con 12 lavados, unos 16 € al año, solo por cambiar la hora. Te explicamos qué horas son las baratas en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>. Si tienes precio fijo, la hora no cambia nada.
+Son 1,34 € al mes con 12 lavados, unos 16 € al año, solo por cambiar la hora. Te explicamos qué horas son las baratas en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>. Con un precio fijo, en cambio, pagas lo mismo a cualquier hora.
 
 Si la pones de noche con el inicio diferido, no la dejes funcionando sin vigilancia si el fabricante no lo indica, y deja la puerta del cuarto abierta para oír si algo va mal.
 

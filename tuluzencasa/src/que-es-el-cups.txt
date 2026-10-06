@@ -9,7 +9,7 @@ linea_fecha: no
 
 CUPS significa código universal del punto de suministro. Lo asigna la distribuidora de tu zona y su formato está fijado en el BOE desde 2009, así que es igual en toda España.
 
-## Qué es el CUPS y para qué sirve {#que-es}
+## Qué es el CUPS y cuándo te lo piden {#que-es}
 
 Piensa en el CUPS como la matrícula de tu instalación eléctrica. Tu nombre puede cambiar, la comercializadora que te vende la luz también, pero el punto donde tu casa se conecta a la red es siempre el mismo, y ese punto tiene un código único.
 

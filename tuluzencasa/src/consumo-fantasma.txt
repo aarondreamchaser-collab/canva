@@ -6,7 +6,7 @@ keyword: consumo fantasma
 ---
 El consumo fantasma es la electricidad que gastan los aparatos cuando parecen apagados pero siguen enchufados: cada vatio que se queda consumiendo día y noche te cuesta unos 1,44 € al año. Si en tu casa suman 10 W en espera, son 14,45 € al año que pagas sin usar nada.
 
-Las cifras usan un precio de <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio, cámbialo: el coste sube o baja en la misma proporción.
+Cada euro de este artículo sale de un precio de <strong>0,165 €/kWh con impuestos</strong>. Con el precio de tu factura, el coste del consumo en espera cambia en la misma proporción.
 
 ## Qué es el consumo fantasma {#que-es}
 
