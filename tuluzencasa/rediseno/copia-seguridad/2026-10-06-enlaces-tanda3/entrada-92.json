@@ -1,0 +1,177 @@
+{
+ "id": 92,
+ "date": "2026-10-04T19:48:32",
+ "date_gmt": "2026-10-04T17:48:32",
+ "guid": {
+  "rendered": "https://tuluzencasa.com/?p=92",
+  "raw": "https://tuluzencasa.com/?p=92"
+ },
+ "modified": "2026-10-06T18:40:07",
+ "modified_gmt": "2026-10-06T16:40:07",
+ "password": "",
+ "slug": "como-leer-factura-luz",
+ "status": "publish",
+ "type": "post",
+ "link": "https://tuluzencasa.com/como-leer-factura-luz/",
+ "title": {
+  "raw": "Cómo leer la factura de la luz: cada línea explicada con un ejemplo",
+  "rendered": "Cómo leer la factura de la luz: cada línea explicada con un ejemplo"
+ },
+ "content": {
+  "raw": "<!-- wp:paragraph -->\n<p>¿Cómo leer la factura de la luz? Fíjate en cuatro partidas: la potencia contratada, la energía que has consumido, los impuestos y el alquiler del contador. En el piso de 3 personas del ejemplo de nuestra calculadora (4,6 kW contratados y 252,7 kWh al mes), la factura sale a 58,78 € al mes, y un 27 % de esa cantidad es potencia: la pagas aunque no enciendas nada.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Los cálculos usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA) y un término de potencia de 0,09 € por kW y día sin impuestos. Si tu factura tiene otros precios, la estructura es la misma: cambia los números y la cuenta sale igual.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En este artículo:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><a href=\"#partes\">Cómo leer la factura de la luz: las partes que importan</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#ejemplo\">Una factura de ejemplo, línea a línea</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#potencia\">El término de potencia: lo que pagas aunque no consumas</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#energia\">El término de energía: punta, llano y valle</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#impuestos\">Impuestos y alquiler del contador</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#revisar\">Qué revisar en tu factura para pagar menos</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"partes\">Cómo leer la factura de la luz: las partes que importan</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Cada comercializadora diseña su factura a su manera, pero el contenido mínimo está regulado. Para los clientes del PVPC hay incluso un modelo oficial, que fija la <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2021-7120\" target=\"_blank\" rel=\"noreferrer noopener\">Resolución de 28 de abril de 2021 de la Dirección General de Política Energética y Minas (BOE)</a>, y la misma norma recoge lo que debe incluir cualquier factura de mercado libre de hasta 15 kW. En la práctica, todas tienen estos bloques:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Resumen.</strong> El importe total, el periodo de facturación y la fecha de cargo. Debajo, lo que pagas por potencia, por energía, por impuesto eléctrico, por el alquiler del contador y por IVA.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Datos del contrato.</strong> El titular, la dirección del suministro, el CUPS (el <a href=\"https://tuluzencasa.com/que-es-el-cups/\">código que identifica tu punto de suministro</a>), el peaje (en una vivienda, el 2.0TD), la potencia contratada en cada periodo y la fecha en que termina el contrato.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Consumo.</strong> Los kWh del periodo, calculados con la diferencia entre dos lecturas del contador, y si la lectura es real o estimada.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Desglose.</strong> La cuenta detallada de cada partida: kW por días por precio, kWh por precio, porcentajes de impuestos.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Información adicional.</strong> Dónde consultar tu consumo hora a hora (en la web de tu distribuidora), el origen de la electricidad y, en mercado libre, las potencias máximas que has demandado en el último año.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Para entender cuánto pagas y por qué, lo que más importa son el resumen y el desglose. Los vemos con una factura de ejemplo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"ejemplo\">Una factura de ejemplo, línea a línea</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Es la factura de un mes (30,4 días) del piso de 3 personas que puedes cargar en nuestra calculadora de consumo: nevera, termo, placa de inducción, horno, lavadora, lavavajillas, televisión, luces LED, router y aparatos en espera. Consume 252,7 kWh al mes y tiene 4,6 kW contratados con precio único.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Partida</th><th>Cómo se calcula</th><th>Importe</th></tr></thead><tbody><tr><td>Potencia</td><td>4,6 kW × 30,4 días × 0,09 €/kW día</td><td>12,59 €</td></tr><tr><td>Energía</td><td>252,7 kWh × 0,13 €/kWh</td><td>32,86 €</td></tr><tr><td>Impuesto eléctrico</td><td>5,11 % de potencia + energía</td><td>2,32 €</td></tr><tr><td>Alquiler del contador</td><td>Importe fijo al mes</td><td>0,81 €</td></tr><tr><td>Base del IVA</td><td>Suma de lo anterior</td><td>48,58 €</td></tr><tr><td>IVA</td><td>21 % de la base</td><td>10,20 €</td></tr><tr><td><strong>Total</strong></td><td></td><td><strong>58,78 €</strong></td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Cálculos con precios de octubre de 2026</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>El orden de la cuenta es siempre el mismo: primero potencia y energía; sobre las dos se aplica el impuesto eléctrico; se suma el contador; y sobre todo ello se aplica el IVA. Si en tu factura aparece algún concepto más, como un servicio de mantenimiento o un seguro, es un extra que has contratado con la comercializadora y que no forma parte del suministro.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"potencia\">El término de potencia: lo que pagas aunque no consumas</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La potencia contratada es la cantidad de kW que puedes usar a la vez sin que salte el limitador. Se paga por días, la uses o no: en el ejemplo, 12,59 € al mes antes de impuestos por tener 4,6 kW disponibles. Con impuestos, la potencia supone el 27 % de la factura.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Con el peaje 2.0TD, la potencia tiene dos periodos: punta-llano (de 8 a 24 h los días laborables) y valle (de 0 a 8 h y todo el fin de semana). En la factura verás una línea para cada uno, aunque lo normal es tener contratado lo mismo en los dos. Si te sobra potencia, bajar un escalón es la forma más directa de pagar menos cada mes: lo explicamos en <a href=\"https://tuluzencasa.com/que-potencia-contratar/\">qué potencia contratar</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"energia\">El término de energía: punta, llano y valle</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Es lo que pagas por cada kWh que consumes. Si tienes precio único, la cuenta es sencilla: kWh por precio. Si tienes discriminación horaria, la factura separa tu consumo en tres periodos y cada uno tiene su precio:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Periodo</th><th>Horas (lunes a viernes)</th><th>Consumo del ejemplo</th><th>Precio sin impuestos</th></tr></thead><tbody><tr><td>Punta (P1)</td><td>10–14 h y 18–22 h</td><td>103,4 kWh (41 %)</td><td>0,19 €/kWh</td></tr><tr><td>Llano (P2)</td><td>8–10 h, 14–18 h y 22–24 h</td><td>44,8 kWh (18 %)</td><td>0,12 €/kWh</td></tr><tr><td>Valle (P3)</td><td>0–8 h, y todo el fin de semana</td><td>104,6 kWh (41 %)</td><td>0,08 €/kWh</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Con este reparto, el mismo piso pagaría 59,44 € al mes por tramos, un poco más que los 58,78 € con precio único. La discriminación horaria solo compensa si llevas buena parte del consumo al valle. Lo vemos con números en <a href=\"https://tuluzencasa.com/pvpc-mercado-libre/\">PVPC o mercado libre</a>, y el ejemplo más claro de aparato que se puede mover es el termo: mira <a href=\"https://tuluzencasa.com/cuanto-consume-termo-electrico/\">cuánto consume un termo eléctrico y cómo programarlo</a>. Tienes los horarios de cada tramo y qué aparatos compensa mover en <a href=\"https://tuluzencasa.com/tramos-horarios-luz/\">tramos horarios de la luz</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Comprueba también si la lectura es real o estimada. Si es estimada, la comercializadora ha calculado tu consumo sin leer el contador, y la diferencia se ajustará en una factura posterior: no la des por buena si el consumo te parece raro.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"impuestos\">Impuestos y alquiler del contador</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Impuesto eléctrico (5,11 %).</strong> Se aplica sobre la suma de potencia y energía. En el ejemplo, 2,32 €.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Alquiler del contador.</strong> Lo cobra la distribuidora a través de tu comercializadora. En el ejemplo, 0,81 € al mes. No lleva impuesto eléctrico, pero sí IVA.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>IVA (21 %).</strong> Se aplica sobre todo lo anterior, impuesto eléctrico incluido. En el ejemplo, 10,20 €.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Por eso decimos que 0,13 €/kWh de energía son 0,165 €/kWh «con impuestos»: es el precio que de verdad te cuesta cada kWh una vez sumados el impuesto eléctrico y el IVA.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"revisar\">Qué revisar en tu factura para pagar menos</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>La potencia contratada frente a la máxima que has usado.</strong> Si tu factura indica las potencias máximas demandadas y quedan muy por debajo de lo contratado, te sobra potencia.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>El precio del kWh con impuestos.</strong> Multiplica el precio de la energía por 1,27 (impuesto eléctrico e IVA) y compáralo con otras ofertas. Así comparas precios en la misma unidad.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Cuánto consumes en valle.</strong> Si tienes discriminación horaria y menos del 44 % de tu consumo cae en valle, con los precios de ejemplo te saldría más barato un precio único.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Los extras.</strong> Servicios de mantenimiento, seguros o asistencias. Si no los usas, se pueden dar de baja.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>La fecha final del contrato.</strong> Antes de <a href=\"https://tuluzencasa.com/cambiar-compania-luz/\">cambiar de compañía</a>, revisa si tu contrato tiene permanencia o alguna penalización.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Para saber qué parte de la energía se lleva cada aparato, mete los tuyos en <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a>: te da una factura estimada con este mismo desglose.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"preguntas-frecuentes\">Preguntas frecuentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Qué es el CUPS y para qué sirve?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Es el Código Unificado de Punto de Suministro: identifica tu vivienda en la red eléctrica y no cambia aunque cambies de comercializadora. Lo necesitarás para pedir una oferta o para cambiarte de compañía.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Por qué pago potencia si apenas he consumido?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Porque la potencia se paga por tenerla disponible, no por usarla. Con 4,6 kW contratados son 12,59 € al mes antes de impuestos, aunque la casa esté vacía.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Qué significa 2.0TD en mi factura?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Es el peaje de acceso que se aplica a los suministros de hasta 15 kW, que son casi todas las viviendas. Tiene dos periodos de potencia (punta-llano y valle) y tres de energía (punta, llano y valle).</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Dónde puedo ver mi consumo hora a hora?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>En la web de tu distribuidora, la empresa dueña de los cables y del contador de tu zona. La factura indica cuál es y la dirección de su web. Con el consumo por horas puedes saber qué parte de tu consumo cae en valle.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a>: pon tus aparatos, tu potencia contratada y los precios de tu factura.</p>\n<!-- /wp:paragraph -->\n",
+  "rendered": "\n<p class=\"wp-block-paragraph\">¿Cómo leer la factura de la luz? Fíjate en cuatro partidas: la potencia contratada, la energía que has consumido, los impuestos y el alquiler del contador. En el piso de 3 personas del ejemplo de nuestra calculadora (4,6 kW contratados y 252,7 kWh al mes), la factura sale a 58,78 € al mes, y un 27 % de esa cantidad es potencia: la pagas aunque no enciendas nada.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Los cálculos usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA) y un término de potencia de 0,09 € por kW y día sin impuestos. Si tu factura tiene otros precios, la estructura es la misma: cambia los números y la cuenta sale igual.</p>\n\n\n\n<p class=\"wp-block-paragraph\">En este artículo:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"#partes\">Cómo leer la factura de la luz: las partes que importan</a></li>\n\n\n\n<li><a href=\"#ejemplo\">Una factura de ejemplo, línea a línea</a></li>\n\n\n\n<li><a href=\"#potencia\">El término de potencia: lo que pagas aunque no consumas</a></li>\n\n\n\n<li><a href=\"#energia\">El término de energía: punta, llano y valle</a></li>\n\n\n\n<li><a href=\"#impuestos\">Impuestos y alquiler del contador</a></li>\n\n\n\n<li><a href=\"#revisar\">Qué revisar en tu factura para pagar menos</a></li>\n\n\n\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"partes\">Cómo leer la factura de la luz: las partes que importan</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Cada comercializadora diseña su factura a su manera, pero el contenido mínimo está regulado. Para los clientes del PVPC hay incluso un modelo oficial, que fija la <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2021-7120\" target=\"_blank\" rel=\"noreferrer noopener\">Resolución de 28 de abril de 2021 de la Dirección General de Política Energética y Minas (BOE)</a>, y la misma norma recoge lo que debe incluir cualquier factura de mercado libre de hasta 15 kW. En la práctica, todas tienen estos bloques:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Resumen.</strong> El importe total, el periodo de facturación y la fecha de cargo. Debajo, lo que pagas por potencia, por energía, por impuesto eléctrico, por el alquiler del contador y por IVA.</li>\n\n\n\n<li><strong>Datos del contrato.</strong> El titular, la dirección del suministro, el CUPS (el <a href=\"https://tuluzencasa.com/que-es-el-cups/\">código que identifica tu punto de suministro</a>), el peaje (en una vivienda, el 2.0TD), la potencia contratada en cada periodo y la fecha en que termina el contrato.</li>\n\n\n\n<li><strong>Consumo.</strong> Los kWh del periodo, calculados con la diferencia entre dos lecturas del contador, y si la lectura es real o estimada.</li>\n\n\n\n<li><strong>Desglose.</strong> La cuenta detallada de cada partida: kW por días por precio, kWh por precio, porcentajes de impuestos.</li>\n\n\n\n<li><strong>Información adicional.</strong> Dónde consultar tu consumo hora a hora (en la web de tu distribuidora), el origen de la electricidad y, en mercado libre, las potencias máximas que has demandado en el último año.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Para entender cuánto pagas y por qué, lo que más importa son el resumen y el desglose. Los vemos con una factura de ejemplo.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"ejemplo\">Una factura de ejemplo, línea a línea</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Es la factura de un mes (30,4 días) del piso de 3 personas que puedes cargar en nuestra calculadora de consumo: nevera, termo, placa de inducción, horno, lavadora, lavavajillas, televisión, luces LED, router y aparatos en espera. Consume 252,7 kWh al mes y tiene 4,6 kW contratados con precio único.</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Partida</th><th>Cómo se calcula</th><th>Importe</th></tr></thead><tbody><tr><td>Potencia</td><td>4,6 kW × 30,4 días × 0,09 €/kW día</td><td>12,59 €</td></tr><tr><td>Energía</td><td>252,7 kWh × 0,13 €/kWh</td><td>32,86 €</td></tr><tr><td>Impuesto eléctrico</td><td>5,11 % de potencia + energía</td><td>2,32 €</td></tr><tr><td>Alquiler del contador</td><td>Importe fijo al mes</td><td>0,81 €</td></tr><tr><td>Base del IVA</td><td>Suma de lo anterior</td><td>48,58 €</td></tr><tr><td>IVA</td><td>21 % de la base</td><td>10,20 €</td></tr><tr><td><strong>Total</strong></td><td></td><td><strong>58,78 €</strong></td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Cálculos con precios de octubre de 2026</p>\n\n\n\n<p class=\"wp-block-paragraph\">El orden de la cuenta es siempre el mismo: primero potencia y energía; sobre las dos se aplica el impuesto eléctrico; se suma el contador; y sobre todo ello se aplica el IVA. Si en tu factura aparece algún concepto más, como un servicio de mantenimiento o un seguro, es un extra que has contratado con la comercializadora y que no forma parte del suministro.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"potencia\">El término de potencia: lo que pagas aunque no consumas</h2>\n\n\n\n<p class=\"wp-block-paragraph\">La potencia contratada es la cantidad de kW que puedes usar a la vez sin que salte el limitador. Se paga por días, la uses o no: en el ejemplo, 12,59 € al mes antes de impuestos por tener 4,6 kW disponibles. Con impuestos, la potencia supone el 27 % de la factura.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Con el peaje 2.0TD, la potencia tiene dos periodos: punta-llano (de 8 a 24 h los días laborables) y valle (de 0 a 8 h y todo el fin de semana). En la factura verás una línea para cada uno, aunque lo normal es tener contratado lo mismo en los dos. Si te sobra potencia, bajar un escalón es la forma más directa de pagar menos cada mes: lo explicamos en <a href=\"https://tuluzencasa.com/que-potencia-contratar/\">qué potencia contratar</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"energia\">El término de energía: punta, llano y valle</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Es lo que pagas por cada kWh que consumes. Si tienes precio único, la cuenta es sencilla: kWh por precio. Si tienes discriminación horaria, la factura separa tu consumo en tres periodos y cada uno tiene su precio:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Periodo</th><th>Horas (lunes a viernes)</th><th>Consumo del ejemplo</th><th>Precio sin impuestos</th></tr></thead><tbody><tr><td>Punta (P1)</td><td>10–14 h y 18–22 h</td><td>103,4 kWh (41 %)</td><td>0,19 €/kWh</td></tr><tr><td>Llano (P2)</td><td>8–10 h, 14–18 h y 22–24 h</td><td>44,8 kWh (18 %)</td><td>0,12 €/kWh</td></tr><tr><td>Valle (P3)</td><td>0–8 h, y todo el fin de semana</td><td>104,6 kWh (41 %)</td><td>0,08 €/kWh</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Con este reparto, el mismo piso pagaría 59,44 € al mes por tramos, un poco más que los 58,78 € con precio único. La discriminación horaria solo compensa si llevas buena parte del consumo al valle. Lo vemos con números en <a href=\"https://tuluzencasa.com/pvpc-mercado-libre/\">PVPC o mercado libre</a>, y el ejemplo más claro de aparato que se puede mover es el termo: mira <a href=\"https://tuluzencasa.com/cuanto-consume-termo-electrico/\">cuánto consume un termo eléctrico y cómo programarlo</a>. Tienes los horarios de cada tramo y qué aparatos compensa mover en <a href=\"https://tuluzencasa.com/tramos-horarios-luz/\">tramos horarios de la luz</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Comprueba también si la lectura es real o estimada. Si es estimada, la comercializadora ha calculado tu consumo sin leer el contador, y la diferencia se ajustará en una factura posterior: no la des por buena si el consumo te parece raro.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"impuestos\">Impuestos y alquiler del contador</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Impuesto eléctrico (5,11 %).</strong> Se aplica sobre la suma de potencia y energía. En el ejemplo, 2,32 €.</li>\n\n\n\n<li><strong>Alquiler del contador.</strong> Lo cobra la distribuidora a través de tu comercializadora. En el ejemplo, 0,81 € al mes. No lleva impuesto eléctrico, pero sí IVA.</li>\n\n\n\n<li><strong>IVA (21 %).</strong> Se aplica sobre todo lo anterior, impuesto eléctrico incluido. En el ejemplo, 10,20 €.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Por eso decimos que 0,13 €/kWh de energía son 0,165 €/kWh «con impuestos»: es el precio que de verdad te cuesta cada kWh una vez sumados el impuesto eléctrico y el IVA.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"revisar\">Qué revisar en tu factura para pagar menos</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>La potencia contratada frente a la máxima que has usado.</strong> Si tu factura indica las potencias máximas demandadas y quedan muy por debajo de lo contratado, te sobra potencia.</li>\n\n\n\n<li><strong>El precio del kWh con impuestos.</strong> Multiplica el precio de la energía por 1,27 (impuesto eléctrico e IVA) y compáralo con otras ofertas. Así comparas precios en la misma unidad.</li>\n\n\n\n<li><strong>Cuánto consumes en valle.</strong> Si tienes discriminación horaria y menos del 44 % de tu consumo cae en valle, con los precios de ejemplo te saldría más barato un precio único.</li>\n\n\n\n<li><strong>Los extras.</strong> Servicios de mantenimiento, seguros o asistencias. Si no los usas, se pueden dar de baja.</li>\n\n\n\n<li><strong>La fecha final del contrato.</strong> Antes de <a href=\"https://tuluzencasa.com/cambiar-compania-luz/\">cambiar de compañía</a>, revisa si tu contrato tiene permanencia o alguna penalización.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Para saber qué parte de la energía se lleva cada aparato, mete los tuyos en <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a>: te da una factura estimada con este mismo desglose.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"preguntas-frecuentes\">Preguntas frecuentes</h2>\n\n\n\n<h3 class=\"wp-block-heading\">¿Qué es el CUPS y para qué sirve?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Es el Código Unificado de Punto de Suministro: identifica tu vivienda en la red eléctrica y no cambia aunque cambies de comercializadora. Lo necesitarás para pedir una oferta o para cambiarte de compañía.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Por qué pago potencia si apenas he consumido?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Porque la potencia se paga por tenerla disponible, no por usarla. Con 4,6 kW contratados son 12,59 € al mes antes de impuestos, aunque la casa esté vacía.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Qué significa 2.0TD en mi factura?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Es el peaje de acceso que se aplica a los suministros de hasta 15 kW, que son casi todas las viviendas. Tiene dos periodos de potencia (punta-llano y valle) y tres de energía (punta, llano y valle).</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Dónde puedo ver mi consumo hora a hora?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">En la web de tu distribuidora, la empresa dueña de los cables y del contador de tu zona. La factura indica cuál es y la dirección de su web. Con el consumo por horas puedes saber qué parte de tu consumo cae en valle.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a>: pon tus aparatos, tu potencia contratada y los precios de tu factura.</p>\n\n",
+  "protected": false,
+  "block_version": 1
+ },
+ "excerpt": {
+  "raw": "Cómo leer la factura de la luz: potencia, energía, impuestos y contador. Un piso con 4,6 kW y 252,7 kWh paga 58,78 € al mes; el 27 % es potencia.",
+  "rendered": "<p>Cómo leer la factura de la luz: potencia, energía, impuestos y contador. Un piso con 4,6 kW y 252,7 kWh paga 58,78 € al mes; el 27 % es potencia.</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 129,
+ "comment_status": "closed",
+ "ping_status": "open",
+ "sticky": false,
+ "template": "",
+ "format": "standard",
+ "meta": {
+  "footnotes": ""
+ },
+ "categories": [
+  4
+ ],
+ "tags": [],
+ "permalink_template": "https://tuluzencasa.com/%postname%/",
+ "generated_slug": "como-leer-la-factura-de-la-luz-cada-linea-explicada-con-un-ejemplo",
+ "class_list": [
+  "post-92",
+  "post",
+  "type-post",
+  "status-publish",
+  "format-standard",
+  "has-post-thumbnail",
+  "hentry",
+  "category-factura-luz"
+ ],
+ "_links": {
+  "self": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/types/post"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/comments?post=92"
+   }
+  ],
+  "version-history": [
+   {
+    "count": 4,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92/revisions"
+   }
+  ],
+  "predecessor-version": [
+   {
+    "id": 248,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92/revisions/248"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media/129"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media?parent=92"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "category",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/categories?post=92"
+   },
+   {
+    "taxonomy": "post_tag",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/tags?post=92"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92"
+   }
+  ],
+  "wp:action-sticky": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92"
+   }
+  ],
+  "wp:action-create-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92"
+   }
+  ],
+  "wp:action-assign-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92"
+   }
+  ],
+  "wp:action-create-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92"
+   }
+  ],
+  "wp:action-assign-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/92"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

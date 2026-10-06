@@ -1,0 +1,177 @@
+{
+ "id": 16,
+ "date": "2026-10-02T18:59:58",
+ "date_gmt": "2026-10-02T16:59:58",
+ "guid": {
+  "rendered": "https://tuluzencasa.com/?p=16",
+  "raw": "https://tuluzencasa.com/?p=16"
+ },
+ "modified": "2026-10-05T13:28:56",
+ "modified_gmt": "2026-10-05T11:28:56",
+ "password": "",
+ "slug": "cuanto-consume-aire-acondicionado",
+ "status": "publish",
+ "type": "post",
+ "link": "https://tuluzencasa.com/cuanto-consume-aire-acondicionado/",
+ "title": {
+  "raw": "Cuánto consume un aire acondicionado por hora (y cuánto cuesta en tu factura)",
+  "rendered": "Cuánto consume un aire acondicionado por hora (y cuánto cuesta en tu factura)"
+ },
+ "content": {
+  "raw": "<!-- wp:paragraph -->\n<p>¿Cuánto consume un aire acondicionado? Uno de 1.000 W de potencia eléctrica consume de media unos 0,6 kWh por hora de uso real, lo que son unos 0,10 € la hora. Si lo tienes encendido 8 horas al día durante un mes, la cuenta sube a unos 24,08 €, y un verano completo de tres meses se queda en 72,23 €.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Todas las cifras de este artículo están calculadas con un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cambia ese número y el resultado se ajusta en la misma proporción: con 0,20 €/kWh, por ejemplo, multiplica cada importe por 0,20 y divídelo entre 0,165.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En este artículo:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><a href=\"#coste\">Cuánto consume un aire acondicionado por hora, día y mes</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#potencia\">Cómo saber la potencia real de tu aparato</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#consumo-real\">Por qué tu aire no gasta toda su potencia cada hora</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#horarios\">A qué hora sale más barato encender el aire</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#trucos\">Trucos para gastar menos con el aire acondicionado</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#factura\">Cuánto pesa el aire en tu factura frente a otros aparatos</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"coste\"} -->\n<h2 id=\"coste\" class=\"wp-block-heading\">Cuánto consume un aire acondicionado por hora, día y mes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La tabla recoge los equipos domésticos más habituales, desde un split pequeño para un dormitorio hasta uno grande para un salón. La columna de kWh ya tiene en cuenta que el compresor no trabaja al máximo todo el rato: usamos un factor de uso real de 0,6, es decir, de cada hora encendido, el aparato consume como si funcionara al 100 % unos 36 minutos.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Potencia eléctrica</th><th>kWh por hora (real)</th><th>Por hora</th><th>Por día (8 h)</th><th>Por mes (30,4 días)</th><th>Verano (3 meses)</th></tr></thead><tbody><tr><td>800 W</td><td>0,48</td><td>0,08 €</td><td>0,63 €</td><td>19,26 €</td><td>57,78 €</td></tr><tr><td>1.000 W</td><td>0,60</td><td>0,10 €</td><td>0,79 €</td><td>24,08 €</td><td>72,23 €</td></tr><tr><td>1.500 W</td><td>0,90</td><td>0,15 €</td><td>1,19 €</td><td>36,12 €</td><td>108,35 €</td></tr><tr><td>2.000 W</td><td>1,20</td><td>0,20 €</td><td>1,58 €</td><td>48,15 €</td><td>144,46 €</td></tr><tr><td>2.500 W</td><td>1,50</td><td>0,25 €</td><td>1,98 €</td><td>60,19 €</td><td>180,58 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Cálculos con precios de octubre de 2026</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Para leer bien la tabla, fíjate en la <strong>potencia eléctrica</strong>, no en la potencia de frío. Un equipo que enfría 3,5 kW puede consumir solo 1 kW de electricidad, porque la bomba de calor mueve más energía de la que gasta. Ese es el motivo de que el aire acondicionado sea mucho más eficiente que cualquier aparato de resistencia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"potencia\"} -->\n<h2 id=\"potencia\" class=\"wp-block-heading\">Cómo saber la potencia real de tu aparato</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La potencia eléctrica aparece en la placa de características de la unidad exterior o interior y en el manual. Busca un dato en W o kW que diga \"potencia absorbida\" o \"potencia nominal de entrada\" en modo refrigeración. Si solo encuentras la potencia de frío (en kW o en frigorías), puedes calcular la eléctrica con dos datos:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Pasar frigorías a kW</strong>: divide las frigorías/hora entre 860. Un equipo de 3.000 frigorías tiene unos 3,49 kW de frío.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Pasar kW de frío a kW eléctricos</strong>: divide entre el EER que figura en la ficha del aparato. Cuanto más alto es el EER, menos electricidad necesita para dar el mismo frío.</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Con un EER de 3,5, que tomamos solo como ejemplo, estos son los números de los tamaños más vendidos. Mira el EER de tu equipo y repite la división si quieres afinar.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Equipo</th><th>Potencia de frío</th><th>Potencia eléctrica (EER 3,5)</th><th>Por hora</th><th>Por mes (8 h/día)</th></tr></thead><tbody><tr><td>2.250 frigorías/h</td><td>2,62 kW</td><td>748 W</td><td>0,07 €</td><td>18,00 €</td></tr><tr><td>3.000 frigorías/h</td><td>3,49 kW</td><td>997 W</td><td>0,10 €</td><td>24,00 €</td></tr><tr><td>4.500 frigorías/h</td><td>5,23 kW</td><td>1.495 W</td><td>0,15 €</td><td>36,00 €</td></tr><tr><td>5.500 frigorías/h</td><td>6,40 kW</td><td>1.827 W</td><td>0,18 €</td><td>43,99 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>La <a href=\"https://www.idae.es/ahorra-energia/etiquetado-energetico-ecodiseno-y-ecoetiqueta\" target=\"_blank\" rel=\"noopener\">etiqueta energética</a> también indica un consumo anual en kWh para la temporada de frío (calculado con el SEER y unas horas de uso estándar). Sirve para comparar modelos entre sí en la tienda, pero tu consumo real dependerá de cuántas horas lo uses y de cómo sea tu casa.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"consumo-real\"} -->\n<h2 id=\"consumo-real\" class=\"wp-block-heading\">Por qué tu aire no gasta toda su potencia cada hora</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Un split moderno no funciona siempre a tope. Cuando la habitación llega a la temperatura que has marcado, el compresor baja de revoluciones (en los equipos inverter) o se para y arranca de nuevo (en los que no lo son). Por eso usamos el factor 0,6: es una media razonable, pero tu caso puede estar por encima o por debajo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Lo que más mueve ese consumo real:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>La temperatura que marcas</strong>. Cuanto más baja, más horas trabaja el compresor para mantenerla.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>El aislamiento de la vivienda</strong>. Un piso con ventanas antiguas o una fachada al sol toda la tarde necesita más frío para mantener la misma temperatura.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>El tamaño del equipo respecto a la estancia</strong>. Un aparato demasiado pequeño trabaja siempre al máximo; uno demasiado grande arranca y para constantemente.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>El calor exterior</strong>. Un día de 40 °C no gasta lo mismo que uno de 30 °C, aunque el termostato marque lo mismo.</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"horarios\"} -->\n<h2 id=\"horarios\" class=\"wp-block-heading\">A qué hora sale más barato encender el aire</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Si tienes la tarifa 2.0TD con discriminación horaria, el precio cambia según la franja. Con los precios orientativos que usamos en la web, un equipo de 1.000 W funcionando 4 horas al día sale así:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Tramo</th><th>Precio con impuestos</th><th>Por hora</th><th>4 horas</th><th>Mes (4 h/día)</th></tr></thead><tbody><tr><td>Punta</td><td>0,242 €/kWh</td><td>0,15 €</td><td>0,58 €</td><td>17,63 €</td></tr><tr><td>Llano</td><td>0,153 €/kWh</td><td>0,09 €</td><td>0,37 €</td><td>11,14 €</td></tr><tr><td>Valle</td><td>0,102 €/kWh</td><td>0,06 €</td><td>0,24 €</td><td>7,42 €</td></tr><tr><td>Precio fijo</td><td>0,165 €/kWh</td><td>0,10 €</td><td>0,40 €</td><td>12,04 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>La diferencia entre usarlo en punta (de 10 a 14 h y de 18 a 22 h) y en valle (de 0 a 8 h y todo el fin de semana) es de 17,63 € frente a 7,42 € al mes con el mismo uso. El problema es que el calor aprieta justo en las horas punta de la tarde. Dos formas de aprovechar los tramos baratos sin pasar calor:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Enfría antes de las 18 h</strong>. En llano (de 14 a 18 h) el kWh cuesta bastante menos que en punta. Baja la temperatura de la casa a última hora de la tarde y mantén persianas y ventanas cerradas para conservar el fresco.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Aprovecha el fin de semana</strong>. Sábados y domingos son valle las 24 horas, así que el mismo uso cuesta menos que un día laborable.</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Si tienes precio fijo, la hora no cambia nada: da igual encenderlo a las 12 o a las 23.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"trucos\"} -->\n<h2 id=\"trucos\" class=\"wp-block-heading\">Trucos para gastar menos con el aire acondicionado</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Marca 25 o 26 °C</strong> en lugar de 21 o 22. Notarás el alivio igual al entrar de la calle, y el compresor trabajará menos horas.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Baja persianas y toldos por la mañana</strong> en las fachadas donde da el sol. Cuanto menos calor entre, menos tendrá que sacar el aparato.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Cierra la puerta de la habitación</strong> que estás enfriando. Enfriar un pasillo o una cocina por la que no pasas es dinero perdido.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Limpia los filtros</strong> cada pocas semanas en verano. Un filtro sucio reduce el caudal de aire y obliga al equipo a trabajar más para dar el mismo frío.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Combínalo con un ventilador</strong>. Sentir el aire en movimiento permite subir un par de grados el termostato con la misma sensación térmica, y un ventilador gasta muy poco al lado del aire.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Usa el temporizador por la noche</strong>. Programa que se apague una o dos horas después de acostarte en lugar de dejarlo hasta la mañana.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Revisa la unidad exterior</strong>. Si está al sol directo o rodeada de trastos que no dejan salir el aire caliente, rinde peor. No la tapes, pero sí puedes despejarle el entorno.</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>En invierno, el mismo split con bomba de calor sirve para calentar. Si hoy calientas una habitación con un radiador eléctrico, compara lo que gastas con lo que cuesta <a href=\"https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/\">el consumo de un radiador de aceite por hora y al mes</a>: una resistencia da 1 kWh de calor por cada kWh que consume, mientras que la bomba de calor da varios.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"factura\"} -->\n<h2 id=\"factura\" class=\"wp-block-heading\">Cuánto pesa el aire en tu factura frente a otros aparatos</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>En verano, el aire suele ser el aparato que más dispara la factura, pero no es el único consumo grande de la casa. En muchas viviendas el agua caliente se lleva una parte parecida durante todo el año. Si quieres ver dónde se te va el dinero en conjunto, revisa también <a href=\"https://tuluzencasa.com/cuanto-consume-termo-electrico/\">cuánto consume un termo eléctrico y cómo programarlo</a>, porque es un gasto que no se ve y que se puede recortar sin pasar calor ni frío.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Una forma rápida de estimar el peso del aire en tu factura: toma los kWh de la factura de un mes de primavera (sin aire) y réstalos a los de julio o agosto. La diferencia es, casi toda, lo que ha consumido el aire acondicionado. Con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a> puedes meter tu potencia y tus horas y comprobar si la cifra cuadra.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"preguntas-frecuentes\"} -->\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Cuánto consume un aire acondicionado de 3.000 frigorías?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Con un EER de 3,5, un equipo de 3.000 frigorías consume unos 1.000 W de potencia eléctrica. Con el factor de uso de 0,6 sale a unos 0,10 € por hora y a 24,00 € al mes si lo usas 8 horas al día. Con el EER de tu aparato puedes afinar el cálculo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Gasta más dejarlo encendido todo el día o encenderlo solo cuando llego?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Depende del aislamiento y de las horas que estés fuera. Si pasas toda la jornada fuera, lo normal es que salga más barato apagarlo y programarlo para que arranque un rato antes de que llegues. Mantener la casa fresca ocho horas vacía también tiene un coste.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Un aire acondicionado portátil gasta menos?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Su potencia eléctrica suele ser parecida a la de un split pequeño, pero enfría peor porque saca el aire caliente por un tubo que va a la ventana y por esa abertura entra calor de la calle. A igualdad de potencia eléctrica, cuesta lo mismo por hora; lo que cambia es cuánto fresco consigues con ese gasto.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Cuánto sube la factura en verano por el aire?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Con un equipo de 1.000 W usado 8 horas al día, unos 24,08 € al mes en energía. Si tienes dos equipos funcionando a la vez, suma el coste de cada uno. Recuerda que el término de potencia de la factura no cambia por usar el aire, salvo que tengas que contratar más potencia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Qué temperatura es la más recomendable?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Una consigna de 25 o 26 °C es un buen punto de partida para estar a gusto sin disparar el consumo. Cada grado menos obliga al compresor a trabajar más tiempo, sobre todo en las horas de más calor.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: pon la potencia de tu aparato, las horas de uso y el precio de tu factura.</p>\n<!-- /wp:paragraph -->\n",
+  "rendered": "\n<p class=\"wp-block-paragraph\">¿Cuánto consume un aire acondicionado? Uno de 1.000 W de potencia eléctrica consume de media unos 0,6 kWh por hora de uso real, lo que son unos 0,10 € la hora. Si lo tienes encendido 8 horas al día durante un mes, la cuenta sube a unos 24,08 €, y un verano completo de tres meses se queda en 72,23 €.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Todas las cifras de este artículo están calculadas con un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cambia ese número y el resultado se ajusta en la misma proporción: con 0,20 €/kWh, por ejemplo, multiplica cada importe por 0,20 y divídelo entre 0,165.</p>\n\n\n\n<p class=\"wp-block-paragraph\">En este artículo:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"#coste\">Cuánto consume un aire acondicionado por hora, día y mes</a></li>\n\n\n\n<li><a href=\"#potencia\">Cómo saber la potencia real de tu aparato</a></li>\n\n\n\n<li><a href=\"#consumo-real\">Por qué tu aire no gasta toda su potencia cada hora</a></li>\n\n\n\n<li><a href=\"#horarios\">A qué hora sale más barato encender el aire</a></li>\n\n\n\n<li><a href=\"#trucos\">Trucos para gastar menos con el aire acondicionado</a></li>\n\n\n\n<li><a href=\"#factura\">Cuánto pesa el aire en tu factura frente a otros aparatos</a></li>\n\n\n\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n</ul>\n\n\n\n<h2 id=\"coste\" class=\"wp-block-heading\">Cuánto consume un aire acondicionado por hora, día y mes</h2>\n\n\n\n<p class=\"wp-block-paragraph\">La tabla recoge los equipos domésticos más habituales, desde un split pequeño para un dormitorio hasta uno grande para un salón. La columna de kWh ya tiene en cuenta que el compresor no trabaja al máximo todo el rato: usamos un factor de uso real de 0,6, es decir, de cada hora encendido, el aparato consume como si funcionara al 100 % unos 36 minutos.</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Potencia eléctrica</th><th>kWh por hora (real)</th><th>Por hora</th><th>Por día (8 h)</th><th>Por mes (30,4 días)</th><th>Verano (3 meses)</th></tr></thead><tbody><tr><td>800 W</td><td>0,48</td><td>0,08 €</td><td>0,63 €</td><td>19,26 €</td><td>57,78 €</td></tr><tr><td>1.000 W</td><td>0,60</td><td>0,10 €</td><td>0,79 €</td><td>24,08 €</td><td>72,23 €</td></tr><tr><td>1.500 W</td><td>0,90</td><td>0,15 €</td><td>1,19 €</td><td>36,12 €</td><td>108,35 €</td></tr><tr><td>2.000 W</td><td>1,20</td><td>0,20 €</td><td>1,58 €</td><td>48,15 €</td><td>144,46 €</td></tr><tr><td>2.500 W</td><td>1,50</td><td>0,25 €</td><td>1,98 €</td><td>60,19 €</td><td>180,58 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Cálculos con precios de octubre de 2026</p>\n\n\n\n<p class=\"wp-block-paragraph\">Para leer bien la tabla, fíjate en la <strong>potencia eléctrica</strong>, no en la potencia de frío. Un equipo que enfría 3,5 kW puede consumir solo 1 kW de electricidad, porque la bomba de calor mueve más energía de la que gasta. Ese es el motivo de que el aire acondicionado sea mucho más eficiente que cualquier aparato de resistencia.</p>\n\n\n\n<h2 id=\"potencia\" class=\"wp-block-heading\">Cómo saber la potencia real de tu aparato</h2>\n\n\n\n<p class=\"wp-block-paragraph\">La potencia eléctrica aparece en la placa de características de la unidad exterior o interior y en el manual. Busca un dato en W o kW que diga «potencia absorbida» o «potencia nominal de entrada» en modo refrigeración. Si solo encuentras la potencia de frío (en kW o en frigorías), puedes calcular la eléctrica con dos datos:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Pasar frigorías a kW</strong>: divide las frigorías/hora entre 860. Un equipo de 3.000 frigorías tiene unos 3,49 kW de frío.</li>\n\n\n<li><strong>Pasar kW de frío a kW eléctricos</strong>: divide entre el EER que figura en la ficha del aparato. Cuanto más alto es el EER, menos electricidad necesita para dar el mismo frío.</li>\n\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Con un EER de 3,5, que tomamos solo como ejemplo, estos son los números de los tamaños más vendidos. Mira el EER de tu equipo y repite la división si quieres afinar.</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Equipo</th><th>Potencia de frío</th><th>Potencia eléctrica (EER 3,5)</th><th>Por hora</th><th>Por mes (8 h/día)</th></tr></thead><tbody><tr><td>2.250 frigorías/h</td><td>2,62 kW</td><td>748 W</td><td>0,07 €</td><td>18,00 €</td></tr><tr><td>3.000 frigorías/h</td><td>3,49 kW</td><td>997 W</td><td>0,10 €</td><td>24,00 €</td></tr><tr><td>4.500 frigorías/h</td><td>5,23 kW</td><td>1.495 W</td><td>0,15 €</td><td>36,00 €</td></tr><tr><td>5.500 frigorías/h</td><td>6,40 kW</td><td>1.827 W</td><td>0,18 €</td><td>43,99 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">La <a href=\"https://www.idae.es/ahorra-energia/etiquetado-energetico-ecodiseno-y-ecoetiqueta\" target=\"_blank\" rel=\"noopener\">etiqueta energética</a> también indica un consumo anual en kWh para la temporada de frío (calculado con el SEER y unas horas de uso estándar). Sirve para comparar modelos entre sí en la tienda, pero tu consumo real dependerá de cuántas horas lo uses y de cómo sea tu casa.</p>\n\n\n\n<h2 id=\"consumo-real\" class=\"wp-block-heading\">Por qué tu aire no gasta toda su potencia cada hora</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Un split moderno no funciona siempre a tope. Cuando la habitación llega a la temperatura que has marcado, el compresor baja de revoluciones (en los equipos inverter) o se para y arranca de nuevo (en los que no lo son). Por eso usamos el factor 0,6: es una media razonable, pero tu caso puede estar por encima o por debajo.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Lo que más mueve ese consumo real:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>La temperatura que marcas</strong>. Cuanto más baja, más horas trabaja el compresor para mantenerla.</li>\n\n\n<li><strong>El aislamiento de la vivienda</strong>. Un piso con ventanas antiguas o una fachada al sol toda la tarde necesita más frío para mantener la misma temperatura.</li>\n\n\n<li><strong>El tamaño del equipo respecto a la estancia</strong>. Un aparato demasiado pequeño trabaja siempre al máximo; uno demasiado grande arranca y para constantemente.</li>\n\n\n<li><strong>El calor exterior</strong>. Un día de 40 °C no gasta lo mismo que uno de 30 °C, aunque el termostato marque lo mismo.</li>\n\n</ul>\n\n\n\n<h2 id=\"horarios\" class=\"wp-block-heading\">A qué hora sale más barato encender el aire</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Si tienes la tarifa 2.0TD con discriminación horaria, el precio cambia según la franja. Con los precios orientativos que usamos en la web, un equipo de 1.000 W funcionando 4 horas al día sale así:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Tramo</th><th>Precio con impuestos</th><th>Por hora</th><th>4 horas</th><th>Mes (4 h/día)</th></tr></thead><tbody><tr><td>Punta</td><td>0,242 €/kWh</td><td>0,15 €</td><td>0,58 €</td><td>17,63 €</td></tr><tr><td>Llano</td><td>0,153 €/kWh</td><td>0,09 €</td><td>0,37 €</td><td>11,14 €</td></tr><tr><td>Valle</td><td>0,102 €/kWh</td><td>0,06 €</td><td>0,24 €</td><td>7,42 €</td></tr><tr><td>Precio fijo</td><td>0,165 €/kWh</td><td>0,10 €</td><td>0,40 €</td><td>12,04 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">La diferencia entre usarlo en punta (de 10 a 14 h y de 18 a 22 h) y en valle (de 0 a 8 h y todo el fin de semana) es de 17,63 € frente a 7,42 € al mes con el mismo uso. El problema es que el calor aprieta justo en las horas punta de la tarde. Dos formas de aprovechar los tramos baratos sin pasar calor:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Enfría antes de las 18 h</strong>. En llano (de 14 a 18 h) el kWh cuesta bastante menos que en punta. Baja la temperatura de la casa a última hora de la tarde y mantén persianas y ventanas cerradas para conservar el fresco.</li>\n\n\n<li><strong>Aprovecha el fin de semana</strong>. Sábados y domingos son valle las 24 horas, así que el mismo uso cuesta menos que un día laborable.</li>\n\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Si tienes precio fijo, la hora no cambia nada: da igual encenderlo a las 12 o a las 23.</p>\n\n\n\n<h2 id=\"trucos\" class=\"wp-block-heading\">Trucos para gastar menos con el aire acondicionado</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Marca 25 o 26 °C</strong> en lugar de 21 o 22. Notarás el alivio igual al entrar de la calle, y el compresor trabajará menos horas.</li>\n\n\n<li><strong>Baja persianas y toldos por la mañana</strong> en las fachadas donde da el sol. Cuanto menos calor entre, menos tendrá que sacar el aparato.</li>\n\n\n<li><strong>Cierra la puerta de la habitación</strong> que estás enfriando. Enfriar un pasillo o una cocina por la que no pasas es dinero perdido.</li>\n\n\n<li><strong>Limpia los filtros</strong> cada pocas semanas en verano. Un filtro sucio reduce el caudal de aire y obliga al equipo a trabajar más para dar el mismo frío.</li>\n\n\n<li><strong>Combínalo con un ventilador</strong>. Sentir el aire en movimiento permite subir un par de grados el termostato con la misma sensación térmica, y un ventilador gasta muy poco al lado del aire.</li>\n\n\n<li><strong>Usa el temporizador por la noche</strong>. Programa que se apague una o dos horas después de acostarte en lugar de dejarlo hasta la mañana.</li>\n\n\n<li><strong>Revisa la unidad exterior</strong>. Si está al sol directo o rodeada de trastos que no dejan salir el aire caliente, rinde peor. No la tapes, pero sí puedes despejarle el entorno.</li>\n\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">En invierno, el mismo split con bomba de calor sirve para calentar. Si hoy calientas una habitación con un radiador eléctrico, compara lo que gastas con lo que cuesta <a href=\"https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/\">el consumo de un radiador de aceite por hora y al mes</a>: una resistencia da 1 kWh de calor por cada kWh que consume, mientras que la bomba de calor da varios.</p>\n\n\n\n<h2 id=\"factura\" class=\"wp-block-heading\">Cuánto pesa el aire en tu factura frente a otros aparatos</h2>\n\n\n\n<p class=\"wp-block-paragraph\">En verano, el aire suele ser el aparato que más dispara la factura, pero no es el único consumo grande de la casa. En muchas viviendas el agua caliente se lleva una parte parecida durante todo el año. Si quieres ver dónde se te va el dinero en conjunto, revisa también <a href=\"https://tuluzencasa.com/cuanto-consume-termo-electrico/\">cuánto consume un termo eléctrico y cómo programarlo</a>, porque es un gasto que no se ve y que se puede recortar sin pasar calor ni frío.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Una forma rápida de estimar el peso del aire en tu factura: toma los kWh de la factura de un mes de primavera (sin aire) y réstalos a los de julio o agosto. La diferencia es, casi toda, lo que ha consumido el aire acondicionado. Con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a> puedes meter tu potencia y tus horas y comprobar si la cifra cuadra.</p>\n\n\n\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n\n\n\n<h3 class=\"wp-block-heading\">¿Cuánto consume un aire acondicionado de 3.000 frigorías?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Con un EER de 3,5, un equipo de 3.000 frigorías consume unos 1.000 W de potencia eléctrica. Con el factor de uso de 0,6 sale a unos 0,10 € por hora y a 24,00 € al mes si lo usas 8 horas al día. Con el EER de tu aparato puedes afinar el cálculo.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Gasta más dejarlo encendido todo el día o encenderlo solo cuando llego?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Depende del aislamiento y de las horas que estés fuera. Si pasas toda la jornada fuera, lo normal es que salga más barato apagarlo y programarlo para que arranque un rato antes de que llegues. Mantener la casa fresca ocho horas vacía también tiene un coste.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Un aire acondicionado portátil gasta menos?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Su potencia eléctrica suele ser parecida a la de un split pequeño, pero enfría peor porque saca el aire caliente por un tubo que va a la ventana y por esa abertura entra calor de la calle. A igualdad de potencia eléctrica, cuesta lo mismo por hora; lo que cambia es cuánto fresco consigues con ese gasto.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Cuánto sube la factura en verano por el aire?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Con un equipo de 1.000 W usado 8 horas al día, unos 24,08 € al mes en energía. Si tienes dos equipos funcionando a la vez, suma el coste de cada uno. Recuerda que el término de potencia de la factura no cambia por usar el aire, salvo que tengas que contratar más potencia.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Qué temperatura es la más recomendable?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Una consigna de 25 o 26 °C es un buen punto de partida para estar a gusto sin disparar el consumo. Cada grado menos obliga al compresor a trabajar más tiempo, sobre todo en las horas de más calor.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: pon la potencia de tu aparato, las horas de uso y el precio de tu factura.</p>\n\n",
+  "protected": false,
+  "block_version": 1
+ },
+ "excerpt": {
+  "raw": "Cuánto consume un aire acondicionado: uno de 1.000 W gasta 0,6 kWh por hora, 0,10 € la hora y 24,08 € al mes con 8 h diarias a 0,165 €/kWh.",
+  "rendered": "<p>Cuánto consume un aire acondicionado: uno de 1.000 W gasta 0,6 kWh por hora, 0,10 € la hora y 24,08 € al mes con 8 h diarias a 0,165 €/kWh.</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 59,
+ "comment_status": "closed",
+ "ping_status": "open",
+ "sticky": false,
+ "template": "",
+ "format": "standard",
+ "meta": {
+  "footnotes": ""
+ },
+ "categories": [
+  3
+ ],
+ "tags": [],
+ "permalink_template": "https://tuluzencasa.com/%postname%/",
+ "generated_slug": "cuanto-consume-un-aire-acondicionado-por-hora-y-cuanto-cuesta-en-tu-factura",
+ "class_list": [
+  "post-16",
+  "post",
+  "type-post",
+  "status-publish",
+  "format-standard",
+  "has-post-thumbnail",
+  "hentry",
+  "category-consumo"
+ ],
+ "_links": {
+  "self": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/types/post"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/comments?post=16"
+   }
+  ],
+  "version-history": [
+   {
+    "count": 5,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16/revisions"
+   }
+  ],
+  "predecessor-version": [
+   {
+    "id": 162,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16/revisions/162"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media/59"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media?parent=16"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "category",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/categories?post=16"
+   },
+   {
+    "taxonomy": "post_tag",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/tags?post=16"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16"
+   }
+  ],
+  "wp:action-sticky": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16"
+   }
+  ],
+  "wp:action-create-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16"
+   }
+  ],
+  "wp:action-assign-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16"
+   }
+  ],
+  "wp:action-create-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16"
+   }
+  ],
+  "wp:action-assign-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/16"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
