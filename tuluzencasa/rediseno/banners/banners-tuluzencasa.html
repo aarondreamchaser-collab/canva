@@ -1,0 +1,270 @@
+<!-- Banners y efectos tuluzencasa · WPCode › Fragmento HTML › Cabecera de todo el sitio -->
+<style id="tlb-css">
+.tlb-barra{background:#22354A;color:#fff;height:40px;font:600 14px/40px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;position:relative;z-index:30}
+.tlb-barra-in{max-width:1200px;margin:0 auto;height:40px;display:flex;align-items:center;gap:10px;padding:0 44px 0 16px;position:relative}
+.tlb-rayo{flex:none;width:16px;height:16px;fill:#F2C230}
+.tlb-msgs{position:relative;flex:1;height:40px;overflow:hidden}
+.tlb-msg{position:absolute;inset:0;color:#fff!important;text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;opacity:0;visibility:hidden;transition:opacity .6s,visibility .6s}
+.tlb-msg.on{opacity:1;visibility:visible}
+.tlb-msg:hover,.tlb-msg:focus-visible{text-decoration:underline}
+.tlb-msg b{color:#F2C230}
+.tlb-c{display:none}
+.tlb-cerrar{position:absolute;right:6px;top:4px;width:32px;height:32px;border:0;border-radius:6px;background:none;color:#fff;font:400 22px/32px system-ui,sans-serif;cursor:pointer;padding:0}
+.tlb-cerrar:hover,.tlb-cerrar:focus-visible{background:#ffffff1f}
+.tlb-cinta{background:#F2C230;color:#18222E;height:38px;overflow:hidden;font:700 14px/38px system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;white-space:nowrap}
+.tlb-pista{display:inline-flex;animation:tlb-cinta 42s linear infinite;will-change:transform}
+.tlb-cinta:hover .tlb-pista,.tlb-cinta:focus-within .tlb-pista{animation-play-state:paused}
+.tlb-pista span{display:inline-flex;align-items:center;gap:10px;padding:0 18px}
+.tlb-pista svg{width:13px;height:13px;fill:#22354A}
+@keyframes tlb-cinta{to{transform:translateX(-50%)}}
+.tlb-franja{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin:0 0 48px;padding:0;list-style:none}
+.tlb-franja li{display:flex;gap:12px;align-items:center;background:#FAFBF8;border:1px solid #D3D7CE;border-radius:12px;padding:14px 16px;margin:0;min-height:76px}
+.tlb-franja .tlb-i{flex:none;width:42px;height:42px;border-radius:10px;background:#22354A;display:grid;place-items:center}
+.tlb-franja .tlb-i svg{width:22px;height:22px;fill:none;stroke:#F2C230;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.tlb-franja strong{display:block;color:#18222E;font-size:1rem;line-height:1.25}
+.tlb-franja small{display:block;color:#4A5663;font-size:.84rem;line-height:1.3;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tlb-franja li>span{min-width:0}
+.tlb-n{font-variant-numeric:tabular-nums;color:#18222E;font-weight:800}
+.tlb-tarjeta{position:relative;overflow:hidden;background:#22354A;color:#E6ECF2;border-radius:16px;padding:24px 26px;margin:32px 0;display:grid;grid-template-columns:auto 1fr;gap:6px 18px;align-items:center}
+.tlb-tarjeta .tlb-ti{grid-row:span 4;align-self:start;width:56px;height:56px;border-radius:14px;background:#F2C230;display:grid;place-items:center}
+.tlb-tarjeta .tlb-ti svg{width:30px;height:30px;fill:#18222E}
+.tlb-tarjeta.vivo .tlb-ti svg{animation:tlb-pulso 2.8s ease-in-out infinite}
+@keyframes tlb-pulso{0%,70%,100%{transform:scale(1);opacity:1}78%{transform:scale(1.18);opacity:.75}86%{transform:scale(.95);opacity:1}}
+.tlb-tarjeta .tlb-et{margin:0;font-size:.75rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#F2C230}
+.tlb-tarjeta .tlb-tt{margin:0;color:#fff;font-size:1.3rem;font-weight:800;line-height:1.25}
+.tlb-tarjeta .tlb-tx{margin:0;color:#C9D3DD;font-size:.98rem;line-height:1.5}
+.tlb-tarjeta .tlb-bt{grid-column:2;justify-self:start;margin-top:8px;position:relative;overflow:hidden;display:inline-flex;align-items:center;gap:8px;background:#F2C230;color:#18222E!important;font-weight:800;text-decoration:none!important;border-radius:10px;padding:12px 20px;transition:transform .2s,box-shadow .2s}
+.tlb-tarjeta .tlb-bt svg{width:18px;height:18px;fill:currentColor;flex:none}
+.tlb-tarjeta .tlb-bt::after{content:"";position:absolute;top:0;bottom:0;left:-60%;width:40%;background:linear-gradient(100deg,#fff0,#ffffffb3,#fff0);transform:skewX(-20deg)}
+.tlb-tarjeta .tlb-bt:hover{box-shadow:0 0 0 4px #F2C2304d,0 8px 22px #0006;transform:translateY(-1px)}
+.tlb-tarjeta .tlb-bt:hover::after{animation:tlb-brillo .7s ease-out}
+@keyframes tlb-brillo{to{left:130%}}
+.tlb-fijo{position:fixed;right:24px;bottom:24px;z-index:40;display:inline-flex;align-items:center;gap:8px;background:#22354A;color:#fff!important;font:700 15px/1 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;text-decoration:none!important;border-radius:999px;padding:13px 20px 13px 16px;box-shadow:0 8px 24px #18222E59;border:2px solid #F2C230;transform:translateY(140%);opacity:0;visibility:hidden;transition:transform .35s,opacity .35s,visibility .35s}
+.tlb-fijo svg{width:18px;height:18px;fill:#F2C230}
+.tlb-fijo-on .tlb-fijo{transform:none;opacity:1;visibility:visible}
+.tlb-arriba{position:fixed;right:24px;bottom:24px;z-index:39;width:46px;height:46px;border-radius:50%;border:2px solid #F2C230;background:#22354A;color:#fff;display:grid;place-items:center;cursor:pointer;padding:0;opacity:0;visibility:hidden;transform:translateY(12px);transition:opacity .3s,visibility .3s,transform .35s;box-shadow:0 6px 18px #18222E4d}
+.tlb-arriba svg{width:22px;height:22px;fill:#F2C230}
+.tlb-arriba-on .tlb-arriba{opacity:1;visibility:visible;transform:none}
+.tlb-fijo-on.tlb-arriba-on .tlb-arriba{transform:translateY(-60px)}
+.tlb-faq-h{margin-bottom:0!important}
+.tlb-faq-b{all:unset;box-sizing:border-box;display:flex;width:100%;justify-content:space-between;align-items:center;gap:14px;cursor:pointer;padding:14px 0;border-top:1px solid #D3D7CE;font:inherit;color:inherit}
+.tlb-faq-b::after{content:"";flex:none;width:12px;height:12px;border-right:2.5px solid currentColor;border-bottom:2.5px solid currentColor;transform:rotate(45deg) translate(-3px,-3px);transition:transform .3s}
+.tlb-faq-b[aria-expanded="true"]::after{transform:rotate(225deg)}
+.tlb-faq-h .tlb-faq-b,.tlb-faq-h .tlb-faq-b:hover,.tlb-faq-h .tlb-faq-b:focus,.tlb-faq-h .tlb-faq-b:active{background:none;color:inherit;font:inherit;text-transform:none;box-shadow:none}
+.tlb-faq-h .tlb-faq-b:hover{color:#22354A}
+.tlb-faq-h .tlb-faq-b:focus-visible{outline:2px solid #F2C230;outline-offset:2px}
+.tlb-faq-r{display:grid;grid-template-rows:0fr;transition:grid-template-rows .35s ease}
+.tlb-faq-r>div{overflow:hidden}
+.tlb-faq-r.on{grid-template-rows:1fr}
+.tlb-faq-r>div>:first-child{margin-top:4px}
+@media (hover:hover){
+.tl-calc,.tl-cats a,.tl-ultimos .wp-block-post,.tl-guias li,.tl-rel li,.tlb-franja li,.tlb-tarjeta{transition:transform .25s,box-shadow .25s,border-color .25s}
+.tl-calc:hover,.tl-cats a:hover,.tl-ultimos .wp-block-post:hover,.tl-guias li:hover,.tl-rel li:hover,.tlb-franja li:hover,.tlb-tarjeta:hover{transform:translateY(-4px);box-shadow:0 0 0 2px #F2C230,0 12px 26px #18222E2e;border-color:#F2C230}
+}
+.tlb-oculto{opacity:0;transform:translateY(18px)}
+.tlb-visto{opacity:1;transform:none;transition:opacity .6s ease,transform .6s ease}
+@media (max-width:1024px){.tlb-franja{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:768px){
+.tlb-barra{font-size:13px}
+.tlb-l{display:none}.tlb-c{display:inline}
+.tlb-barra-in{padding:0 40px 0 12px}
+.tlb-cinta{font-size:13px}
+.tlb-franja{gap:10px;margin-bottom:36px}
+.tlb-franja li{padding:12px;min-height:72px;gap:10px}
+.tlb-franja .tlb-i{width:36px;height:36px}
+.tlb-tarjeta{grid-template-columns:1fr;padding:22px 20px;text-align:left}
+.tlb-tarjeta .tlb-ti{grid-row:auto;width:46px;height:46px}
+.tlb-tarjeta .tlb-bt{grid-column:1}
+.tlb-fijo{left:0;right:0;bottom:0;border-radius:0;border-width:2px 0 0;justify-content:center;padding:0;height:48px;box-shadow:0 -4px 14px #18222E33}
+.tlb-arriba{right:14px;bottom:14px;width:42px;height:42px}
+.tlb-fijo-on.tlb-arriba-on .tlb-arriba{transform:translateY(-48px)}
+.tlb-oculto{transform:translateY(10px)}
+}
+@media (max-width:560px){.tlb-franja{grid-template-columns:minmax(0,1fr)}.tlb-franja li{min-height:64px}}
+@media (prefers-reduced-motion:reduce){
+.tlb-msg,.tlb-fijo,.tlb-arriba,.tlb-faq-r,.tlb-faq-b::after,.tlb-visto{transition:none!important}
+.tlb-pista{animation:none;padding-left:8px}
+.tlb-tarjeta .tlb-ti svg,.tlb-tarjeta .tlb-bt:hover::after{animation:none!important}
+.tl-calc,.tl-cats a,.tl-ultimos .wp-block-post,.tl-guias li,.tl-rel li,.tlb-franja li,.tlb-tarjeta,.tlb-tarjeta .tlb-bt{transition:none!important;transform:none!important}
+}
+</style>
+<script id="tlb-js">
+(function(){
+var d=document,h=d.documentElement,W=window;
+if(W.tlbHecho)return;W.tlbHecho=1;
+var RM=W.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+var MOVIL=W.matchMedia&&matchMedia('(max-width: 768px)').matches;
+var URL_C='/calculadora-consumo-electrico/',URL_P='/calculadora-potencia-contratada/',URL_B='/bono-social-electrico/';
+var RAYO='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 2 4 14h7l-1 8 9-12h-7l1-8z"/></svg>';
+function ss(k,v){try{if(v===undefined)return sessionStorage.getItem(k);sessionStorage.setItem(k,v)}catch(e){}}
+function el(tag,cls,html){var e=d.createElement(tag);if(cls)e.className=cls;if(html)e.innerHTML=html;return e}
+var hecho={b:0,c:0,f:0},esHome=0;
+
+/* 1. Barra de anuncio (se crea antes de pintarse la cabecera: no empuja nada) */
+function barra(cab){
+  hecho.b=1;if(ss('tlb-barra')==='0')return;
+  var b=el('div','tlb-barra');b.setAttribute('role','region');b.setAttribute('aria-label','Avisos de tuluzencasa.com');
+  b.innerHTML='<div class="tlb-barra-in">'+RAYO.replace('<svg','<svg class="tlb-rayo"')+'<div class="tlb-msgs">'+
+   '<a class="tlb-msg on" href="'+URL_C+'"><span class="tlb-l"><b>Nuevo:</b> calcula cuánto gastan tus aparatos con nuestra calculadora de consumo →</span><span class="tlb-c"><b>Gratis:</b> calcula lo que gastan tus aparatos →</span></a>'+
+   '<a class="tlb-msg" href="'+URL_P+'" tabindex="-1" aria-hidden="true"><span class="tlb-l">¿Te salta el limitador? Calcula la potencia que necesitas de verdad →</span><span class="tlb-c">¿Te salta el limitador? Calcula tu potencia →</span></a>'+
+   '<a class="tlb-msg" href="'+URL_B+'" tabindex="-1" aria-hidden="true"><span class="tlb-l">Bono social eléctrico: comprueba si puedes pedirlo y cómo →</span><span class="tlb-c">Bono social: ¿puedes pedirlo? →</span></a>'+
+   '</div><button class="tlb-cerrar" type="button" aria-label="Cerrar el aviso">×</button></div>';
+  cab.parentNode.insertBefore(b,cab);
+  b.querySelector('.tlb-cerrar').addEventListener('click',function(){b.remove();ss('tlb-barra','0')});
+  if(RM)return;
+  var ms=b.querySelectorAll('.tlb-msg'),i=0,parado=0;
+  b.addEventListener('mouseenter',function(){parado=1});b.addEventListener('mouseleave',function(){parado=0});
+  b.addEventListener('focusin',function(){parado=1});b.addEventListener('focusout',function(){parado=0});
+  setInterval(function(){
+    if(parado||d.hidden||!b.isConnected)return;
+    ms[i].classList.remove('on');ms[i].tabIndex=-1;ms[i].setAttribute('aria-hidden','true');
+    i=(i+1)%ms.length;
+    ms[i].classList.add('on');ms[i].removeAttribute('tabindex');ms[i].removeAttribute('aria-hidden');
+  },5000);
+}
+
+/* 2. Cinta deslizante (solo portada, bajo la cabecera) */
+function cinta(cab){
+  hecho.c=1;
+  var t=['Precios con impuestos incluidos','Fuentes oficiales enlazadas','Calculadoras gratis','Sin registro','Consejos para pagar menos luz','Cifras calculadas, no a ojo'];
+  var s='';for(var k=0;k<t.length;k++)s+='<span>'+RAYO+t[k]+'</span>';
+  var c=el('div','tlb-cinta');c.setAttribute('aria-label','Lo que encontrarás en tuluzencasa.com');
+  c.innerHTML='<div class="tlb-pista"><span style="display:contents">'+s+'</span>'+(RM?'':'<span style="display:contents" aria-hidden="true">'+s+'</span>')+'</div>';
+  cab.parentNode.insertBefore(c,cab.nextSibling);
+}
+
+/* 5. Franja de confianza (solo portada, tras la cabecera de la página) */
+function franja(hero){
+  hecho.f=1;
+  var ico=function(p){return '<span class="tlb-i"><svg viewBox="0 0 24 24" aria-hidden="true">'+p+'</svg></span>'};
+  var f=el('ul','tlb-franja');f.setAttribute('aria-label','Por qué fiarte de estos datos');
+  f.innerHTML=
+   '<li>'+ico('<path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/>')+'<span><strong>Fuentes oficiales</strong><small>BOE, UE, CNMC e IDAE</small></span></li>'+
+   '<li>'+ico('<rect x="5" y="2" width="14" height="20" rx="2"/><path d="M8 6h8M8 11h.01M12 11h.01M16 11h.01M8 15h.01M12 15h.01M16 15h.01"/>')+'<span><strong>Cálculos propios</strong><small>Guías publicadas: <span class="tlb-n" data-tlb="guias">–</span></small></span></li>'+
+   '<li>'+ico('<rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/>')+'<span><strong>Actualizado</strong><small class="tlb-act">&nbsp;</small></span></li>'+
+   '<li>'+ico('<circle cx="12" cy="8" r="4"/><path d="M4 21v-1a6 6 0 0 1 9-5.2M16 16l5 5M21 16l-5 5"/>')+'<span><strong>Sin registro</strong><small>Calculadoras gratis: <span class="tlb-n" data-tlb="calcs" data-fin="2">2</span></small></span></li>';
+  hero.parentNode.insertBefore(f,hero.nextSibling);
+}
+
+/* Inserción en el momento en que el navegador crea cada pieza (antes de pintar) */
+function revisar(n){
+  if(n.nodeType!==1)return;
+  if(!hecho.b&&n.id==='masthead'){esHome=d.body&&d.body.classList.contains('home');barra(n);if(esHome)cinta(n);else hecho.c=hecho.f=1}
+  else if(!hecho.f&&esHome&&n.classList&&n.classList.contains('tl-hero'))franja(n);
+}
+var mo=W.MutationObserver&&new MutationObserver(function(rs){
+  for(var r=0;r<rs.length;r++){var a=rs[r].addedNodes;for(var j=0;j<a.length;j++)revisar(a[j])}
+  if(hecho.b&&hecho.c&&hecho.f)mo.disconnect();
+});
+if(mo&&d.readyState==='loading')mo.observe(h,{childList:true,subtree:true});
+
+function listo(){
+  if(mo)mo.disconnect();
+  try{if(performance.mark)performance.mark('tlb-ini')}catch(e){}
+  var B=d.body,post=B.classList.contains('single-post'),vh=innerHeight;
+  function abajo(e,m){return e.getBoundingClientRect().top>vh+(m||0)}
+
+  /* 5b. Cifras de la franja: nº de guías y mes de la última actualización (una petición pequeña, guardada en la sesión) */
+  var fr=d.querySelector('.tlb-franja');
+  if(fr){
+    var pon=function(dat){
+      var g=fr.querySelector('[data-tlb="guias"]');if(dat.n){g.setAttribute('data-fin',dat.n);if(RM||!W.IntersectionObserver)g.textContent=dat.n}
+      if(dat.m){var M=['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'],f=new Date(dat.m);
+        if(!isNaN(f))fr.querySelector('.tlb-act').textContent='en '+M[f.getMonth()]+' de '+f.getFullYear()}
+      contar();
+    };
+    var c=null;try{c=JSON.parse(ss('tlb-datos')||'null')}catch(e){}
+    if(c&&Date.now()-c.t<36e5)pon(c);
+    else if(W.fetch)fetch('/wp-json/wp/v2/posts?per_page=1&orderby=modified&order=desc&_fields=modified',{credentials:'omit'}).then(function(r){
+      var n=+r.headers.get('X-WP-Total');return r.json().then(function(j){var o={n:n||0,m:j&&j[0]&&j[0].modified,t:Date.now()};ss('tlb-datos',JSON.stringify(o));pon(o)})
+    }).catch(function(){});
+    var contado=0;
+    function contar(){
+      if(contado||RM||!W.IntersectionObserver)return;
+      var io=new IntersectionObserver(function(es){if(!es[0].isIntersecting)return;io.disconnect();contado=1;
+        fr.querySelectorAll('.tlb-n[data-fin]').forEach(function(x){var fin=+x.getAttribute('data-fin'),t0=performance.now();
+          (function paso(t){var p=Math.min(1,(t-t0)/900),v=Math.round(fin*(1-Math.pow(1-p,3)));x.textContent=v;if(p<1)requestAnimationFrame(paso)})(t0)})
+      });io.observe(fr);
+    }
+  }
+
+  if(post){
+    var art=d.querySelector('.single-post article'),ec=art&&art.querySelector('.entry-content');
+    if(ec){
+      /* 3. Tarjeta de calculadora a mitad del artículo, lejos de los huecos de anuncios */
+      var cat=(art.className.match(/category-([a-z0-9-]+)/)||[])[1]||'';
+      var pot=/^(factura-luz|instalacion)$/.test(cat);
+      var hijos=[].slice.call(ec.children),h2=[],faq=-1;
+      hijos.forEach(function(x,i){if(x.tagName==='H2'){if(x.id==='preguntas-frecuentes'&&faq<0)faq=i;if(faq<0)h2.push(i)}});
+      var cerca=function(i){for(var k=i-3;k<=i+1;k++){var x=hijos[k];if(x&&(x.classList.contains('tl-hueco')||x.tagName==='ASIDE'||x.tagName==='SECTION'))return 1}return 0};
+      var obj=Math.floor(h2.length*.6),cand=h2.slice(1).sort(function(a,b){return Math.abs(h2.indexOf(a)-obj)-Math.abs(h2.indexOf(b)-obj)});
+      var sitio=null;for(var q=0;q<cand.length;q++){if(!cerca(cand[q])){sitio=hijos[cand[q]];break}}
+      if(sitio&&h2.length>=3&&abajo(sitio,150)){
+        var t=el('aside','tlb-tarjeta');t.setAttribute('aria-label','Herramienta de tuluzencasa.com');
+        t.innerHTML='<span class="tlb-ti">'+RAYO+'</span><p class="tlb-et">Herramienta gratis de tuluzencasa.com</p>'+
+          (pot?'<p class="tlb-tt">¿Cuánta potencia necesitas de verdad?</p><p class="tlb-tx">Suma los aparatos que enciendes a la vez y comprueba si te sobra o te falta potencia contratada.</p><a class="tlb-bt" href="'+URL_P+'">'+RAYO+'Calcular mi potencia</a>'
+              :'<p class="tlb-tt">Calcula lo que te cuesta a ti</p><p class="tlb-tx">Pon tus aparatos, las horas de uso y el precio de tu factura. Sin registro.</p><a class="tlb-bt" href="'+URL_C+'">'+RAYO+'Calcular mi consumo</a>');
+        sitio.parentNode.insertBefore(t,sitio);
+        if(!RM&&W.IntersectionObserver)new IntersectionObserver(function(es){t.classList.toggle('vivo',es[0].isIntersecting)}).observe(t);
+      }
+
+      /* 8. Preguntas frecuentes en acordeón (el texto sigue en la página para Google) */
+      var fh=ec.querySelector('h2#preguntas-frecuentes');
+      if(fh&&abajo(fh,80)){
+        var x=fh.nextElementSibling,num=0;
+        while(x&&x.tagName==='H3'){
+          var h3=x,cuerpo=[],y=h3.nextElementSibling;
+          while(y&&/^(P|UL|OL|FIGURE|DIV)$/.test(y.tagName)&&!y.classList.contains('tl-hueco')&&!y.classList.contains('tlb-tarjeta')){cuerpo.push(y);y=y.nextElementSibling}
+          if(!cuerpo.length)break;
+          if(!y||y.tagName!=='H3')cuerpo=cuerpo.slice(0,1);
+          var id='tlb-faq-'+(++num),r=el('div','tlb-faq-r'),inn=el('div');r.id=id;r.appendChild(inn);
+          h3.parentNode.insertBefore(r,cuerpo[0]);cuerpo.forEach(function(z){inn.appendChild(z)});
+          var bt=el('button','tlb-faq-b');bt.type='button';bt.setAttribute('aria-controls',id);
+          while(h3.firstChild)bt.appendChild(h3.firstChild);h3.appendChild(bt);h3.classList.add('tlb-faq-h');
+          var abre=num===1;bt.setAttribute('aria-expanded',abre);if(abre)r.classList.add('on');
+          bt.addEventListener('click',function(){var e=this.getAttribute('aria-expanded')==='true';this.setAttribute('aria-expanded',!e);d.getElementById(this.getAttribute('aria-controls')).classList.toggle('on',!e)});
+          x=y;
+        }
+      }
+
+      /* 4. Botón fijo «Calcular mi consumo» desde la mitad del artículo */
+      var fijo=el('a','tlb-fijo',RAYO+'Calcular mi consumo');fijo.href=URL_C;B.appendChild(fijo);
+      if(MOVIL)B.style.paddingBottom='48px';
+      var tapa=0,vistos=new Set();
+      if(W.IntersectionObserver){
+        var io2=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting)vistos.add(e.target);else vistos.delete(e.target)});tapa=vistos.size;mover()});
+        d.querySelectorAll('.tl-hueco,ins.adsbygoogle,.tlb-tarjeta,.tl-autor,.tl-rel,.site-footer').forEach(function(z){io2.observe(z)});
+        setInterval(function(){d.querySelectorAll('ins.adsbygoogle:not([data-tlb])').forEach(function(z){z.setAttribute('data-tlb','1');io2.observe(z)})},2000);
+      }
+    }
+  }
+
+  /* 9. Volver arriba */
+  var up=el('button','tlb-arriba',RAYO.replace('M13 2 4 14h7l-1 8 9-12h-7l1-8z','M12 3 5 11h4v10h6V11h4z'));up.type='button';up.setAttribute('aria-label','Volver arriba');B.appendChild(up);
+  up.addEventListener('click',function(){scrollTo({top:0,behavior:RM?'auto':'smooth'})});
+
+  var pend=0;
+  function mover(){
+    var y=scrollY;h.classList.toggle('tlb-arriba-on',y>vh*1.5);
+    if(fijo){
+      var mid=ec.getBoundingClientRect().top+y+ec.offsetHeight/2;
+      var ancla=!!d.querySelector('ins.adsbygoogle[data-anchor-status="displayed"],ins.adsbygoogle[data-anchor-shown="true"]');
+      h.classList.toggle('tlb-fijo-on',y+vh>mid&&!tapa&&!(MOVIL&&ancla));
+    }
+  }
+  addEventListener('scroll',function(){if(!pend){pend=1;requestAnimationFrame(function(){pend=0;mover()})}},{passive:true});
+  addEventListener('resize',function(){vh=innerHeight;mover()},{passive:true});
+  mover();
+
+  /* 7. Aparición suave al hacer scroll (solo lo que aún no se ve) */
+  if(!RM&&W.IntersectionObserver){
+    var sel=post?'.entry-content>h2,.entry-content>figure,.entry-content>.wp-block-table,.entry-content>.tl-dato,.entry-content>ul,.entry-content>.tlb-tarjeta,.tl-autor,.tl-rel'
+                :'.tl-home .tl-sec,.tl-home .tl-calcs,.tl-home .tl-cats,.tl-home .tl-ultimos,.tl-home .tl-guias,.tlb-franja';
+    var io3=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('tlb-visto');e.target.classList.remove('tlb-oculto');io3.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});
+    d.querySelectorAll(sel).forEach(function(z){if(abajo(z)){z.classList.add('tlb-oculto');io3.observe(z)}});
+  }
+  try{if(performance.mark)performance.mark('tlb-fin')}catch(e){}
+}
+if(d.readyState==='loading')d.addEventListener('DOMContentLoaded',listo);else listo();
+})();
+</script>

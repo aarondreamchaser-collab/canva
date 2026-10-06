@@ -1,0 +1,18 @@
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
+const { chromium } = require(require('child_process').execSync('npm root -g').toString().trim()+'/playwright');
+const fs=require('fs'); const b=await chromium.launch(); const url='https://tuluzencasa.com/'; const html=fs.readFileSync('home_fx.html','utf8');
+const p=await (await b.newContext({viewport:{width:1280,height:800}})).newPage();
+await p.route('**/*', async route=>{const rq=route.request(); const u=rq.url();
+  if(rq.resourceType()==='document'&&u.startsWith(url)) return route.fulfill({status:200,contentType:'text/html; charset=utf-8',body:html});
+  if(/googlesyndication|doubleclick|adtrafficquality/.test(u)) return route.abort();
+  try{const r=await fetch(u);const hd={};r.headers.forEach((v,k)=>{if(!['content-encoding','content-length','transfer-encoding'].includes(k))hd[k]=v});await route.fulfill({status:r.status,headers:hd,body:Buffer.from(await r.arrayBuffer())})}catch(e){await route.abort()}});
+await p.mouse.move(640,700); await p.goto(url,{waitUntil:'domcontentloaded'});
+const idx=async()=>p.evaluate(()=>[...document.querySelectorAll('.tlb-msg')].findIndex(m=>m.classList.contains('on')));
+const r=[await idx()]; await p.waitForTimeout(5300); r.push(await idx()); await p.waitForTimeout(700);
+await p.screenshot({path:'../capturas/2-barra-mensaje-2.png',clip:{x:0,y:0,width:1280,height:40}});
+await p.waitForTimeout(4500); r.push(await idx()); await p.mouse.move(400,20); await p.waitForTimeout(6000); r.push(await idx());
+await p.mouse.move(640,700); await p.click('.tlb-cerrar'); const cerrada=await p.evaluate(()=>!document.querySelector('.tlb-barra')&&sessionStorage.getItem('tlb-barra'));
+await p.reload({waitUntil:'domcontentloaded'}); const trasRecargar=await p.evaluate(()=>!!document.querySelector('.tlb-barra'));
+console.log('mensaje activo: inicio, +5 s, +10 s, +6 s con el ratón encima:',r.join(' → '),'| cerrada:',cerrada,'| barra tras recargar:',trasRecargar);
+await b.close();
