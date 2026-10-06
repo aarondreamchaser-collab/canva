@@ -33,12 +33,8 @@
 .tlb-tarjeta .tlb-et{margin:0;font-size:.75rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#F2C230}
 .tlb-tarjeta .tlb-tt{margin:0;color:#fff;font-size:1.3rem;font-weight:800;line-height:1.25}
 .tlb-tarjeta .tlb-tx{margin:0;color:#C9D3DD;font-size:.98rem;line-height:1.5}
-.tlb-tarjeta .tlb-bt{grid-column:2;justify-self:start;margin-top:8px;position:relative;overflow:hidden;display:inline-flex;align-items:center;gap:8px;background:#F2C230;color:#18222E!important;font-weight:800;text-decoration:none!important;border-radius:10px;padding:12px 20px;transition:transform .2s,box-shadow .2s}
+.tlb-tarjeta .tlb-bt{grid-column:2;justify-self:start;margin-top:8px;display:inline-flex;align-items:center;gap:8px;background:#F2C230;color:#18222E!important;font-weight:800;text-decoration:none!important;border-radius:10px;padding:12px 20px}
 .tlb-tarjeta .tlb-bt svg{width:18px;height:18px;fill:currentColor;flex:none}
-.tlb-tarjeta .tlb-bt::after{content:"";position:absolute;top:0;bottom:0;left:-60%;width:40%;background:linear-gradient(100deg,#fff0,#ffffffb3,#fff0);transform:skewX(-20deg)}
-.tlb-tarjeta .tlb-bt:hover{box-shadow:0 0 0 4px #F2C2304d,0 8px 22px #0006;transform:translateY(-1px)}
-.tlb-tarjeta .tlb-bt:hover::after{animation:tlb-brillo .7s ease-out}
-@keyframes tlb-brillo{to{left:130%}}
 .tlb-fijo{position:fixed;right:24px;bottom:24px;z-index:40;display:inline-flex;align-items:center;gap:8px;background:#22354A;color:#fff!important;font:700 15px/1 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;text-decoration:none!important;border-radius:999px;padding:13px 20px 13px 16px;box-shadow:0 8px 24px #18222E59;border:2px solid #F2C230;transform:translateY(140%);opacity:0;visibility:hidden;transition:transform .35s,opacity .35s,visibility .35s}
 .tlb-fijo svg{width:18px;height:18px;fill:#F2C230}
 .tlb-fijo-on .tlb-fijo{transform:none;opacity:1;visibility:visible}
@@ -63,6 +59,76 @@
 }
 .tlb-oculto{opacity:0;transform:translateY(18px)}
 .tlb-visto{opacity:1;transform:none;transition:opacity .6s ease,transform .6s ease}
+
+/* ===== Efectos, 2.ª parte ===== */
+/* 10. Logo: el rayo de la casita se enciende (un rayo SVG calcado encima del PNG; no ocupa sitio) */
+.site-header .site-logo{position:relative}
+.tlb-luz{position:absolute;left:8.18%;top:42.36%;width:4.24%;height:32.64%;pointer-events:none;opacity:0}
+.tlb-luz svg{display:block;width:100%;height:100%;overflow:visible;fill:#FFD84A;filter:drop-shadow(0 0 2px #FFE58A) drop-shadow(0 0 6px #F2C230)}
+.tlb-luz::before{content:"";position:absolute;left:-130%;top:-45%;width:360%;height:190%;border-radius:50%;background:radial-gradient(closest-side,#F2C2305c,#F2C23000)}
+/* 11. Títulos: línea amarilla bajo los H2 de las entradas (sin JS se ve entera) */
+.entry-content>h2{position:relative}
+.entry-content>h2::after{content:"";position:absolute;left:0;bottom:-9px;width:64px;height:3px;border-radius:3px;background:#F2C230;transform-origin:0 50%}
+.entry-content>h2.tlb-oculto::after{transform:scaleX(0)}
+/* 12. Botones: destello, flecha y efecto de clic */
+.wp-block-button__link,.tl-calc .tl-ir a,.tlb-bt,.tlc-btn:not(.tlc-btn--x),.tlc-widget-calculadoras a{position:relative;overflow:hidden}
+.wp-block-button__link::before,.tl-calc .tl-ir a::before,.tlb-bt::before,.tlc-btn:not(.tlc-btn--x)::before,.tlc-widget-calculadoras a::before{content:"";position:absolute;top:0;bottom:0;left:-80%;width:50%;background:linear-gradient(100deg,#fff0,#ffffff8c,#fff0);transform:skewX(-20deg);pointer-events:none}
+.tl-botones .wp-block-button__link,.tl-calc .tl-ir a,.sidebar .tlc-widget-calculadoras a{display:inline-flex;align-items:center;gap:8px}
+.sidebar .tlc-widget-calculadoras a{display:flex;justify-content:space-between}
+.tl-botones .wp-block-button__link::after,.tl-calc .tl-ir a::after,.sidebar .tlc-widget-calculadoras a::after{content:"→";display:inline-block;font-weight:800}
+.tlb-fl{display:inline-block;font-weight:800}
+.wp-block-button__link,.tl-calc .tl-ir a,.tlb-bt,.tlc-btn:not(.tlc-btn--x),.tlc-widget-calculadoras a,.tlc-btn-s,.tlp-btn-s,.tlc-btn--x,.tlb-fl,.tl-botones .wp-block-button__link::after,.tl-calc .tl-ir a::after,.sidebar .tlc-widget-calculadoras a::after{transition:transform .2s ease,background-color .2s,color .2s,box-shadow .2s,border-color .2s}
+@media (prefers-reduced-motion:no-preference){.wp-block-button__link:active,.tl-calc .tl-ir a:active,.tlb-bt:active,.tlc-btn:not(.tlc-btn--x):active,.tlc-widget-calculadoras a:active,.tlc-btn-s:active,.tlp-btn-s:active,.tlc-btn--x:active{transform:translateY(1px) scale(.97)!important;box-shadow:none!important;transition-duration:.06s}}
+:is(.wp-block-button__link,.tl-calc .tl-ir a,.tlb-bt,.tlc-btn:not(.tlc-btn--x),.tlc-widget-calculadoras a,.tlc-btn-s,.tlp-btn-s,.tlc-btn--x,.tlb-arriba,.tlb-fijo,.tlb-cerrar):focus-visible{outline:3px solid #F2C230;outline-offset:2px}
+/* 13. Enlaces del texto y menú */
+.entry-content :is(p,li,td) a:not([class]):not(.tl-rel a){background:linear-gradient(#F2C230,#F2C230) 0 100%/0 3px no-repeat;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+@media (min-width:1025px){
+.main-navigation .main-nav>ul>li>a{position:relative}
+.main-navigation .main-nav>ul>li>a::after{content:"";position:absolute;left:8px;right:8px;bottom:12px;height:3px;border-radius:3px;background:#F2C230;transform:scaleX(0);transform-origin:0 50%;transition:transform .25s ease}
+.main-navigation .main-nav>ul>li.menu-item-has-children>a::after{right:0}
+.main-navigation .main-nav>ul>li:is(:hover,:focus-within,.sfHover,.current-menu-item,.current-menu-parent)>a::after{transform:none}
+.main-navigation .main-nav ul ul{transition:opacity .22s ease,transform .22s ease;transform:translateY(8px)}
+.main-navigation .main-nav ul li:is(:hover,:focus-within,.sfHover)>ul{transform:none}
+}
+::selection{background:#F2C230;color:#18222E}
+@media (hover:hover){
+.wp-block-button__link:hover,.tl-calc .tl-ir a:hover,.tlb-bt:hover,.tlc-btn:not(.tlc-btn--x):hover,.tlc-widget-calculadoras a:hover{transform:translateY(-2px);background:#F2C230!important;color:#18222E!important;box-shadow:0 8px 20px #18222E38;filter:none!important}
+.wp-block-button__link:hover::before,.tl-calc .tl-ir a:hover::before,.tlb-bt:hover::before,.tlc-btn:not(.tlc-btn--x):hover::before,.tlc-widget-calculadoras a:hover::before{animation:tlb-cruza .7s ease-out}
+.tlc-btn-s:hover,.tlp-btn-s:hover,.tlc-btn--x:hover{transform:translateY(-2px);border-color:#F2C230!important}
+.tl-botones .wp-block-button__link:hover::after,.tl-calc .tl-ir a:hover::after,.sidebar .tlc-widget-calculadoras a:hover::after,.tlb-bt:hover .tlb-fl{transform:translateX(5px)}
+.entry-content :is(p,li,td) a:not([class]):not(.tl-rel a){transition:background-size .3s ease,text-decoration-color .3s}
+.entry-content :is(p,li,td) a:not([class]):not(.tl-rel a):hover{background-size:100% 3px;text-decoration-color:transparent}
+.entry-content .wp-block-table tbody tr{transition:background-color .2s}
+.entry-content .wp-block-table tbody tr:hover{background-color:#F2C2301f}
+.tl-rel li img,.tl-ultimos .wp-block-post-featured-image img{transition:transform .45s ease}
+.tl-ultimos .wp-block-post-featured-image{overflow:hidden}
+.tl-rel li:hover img,.tl-ultimos .wp-block-post:hover .wp-block-post-featured-image img{transform:scale(1.05)}
+}
+@keyframes tlb-cruza{to{left:130%}}
+/* 14. Animaciones (solo sin «reducir movimiento») */
+@media (prefers-reduced-motion:no-preference){
+html{scroll-behavior:smooth}
+.tlb-luz.ini{animation:tlb-enciende 1.2s ease-out .3s both}
+@media (hover:hover){.site-header .site-logo:hover .tlb-luz{animation:tlb-parpadea .55s linear both,tlb-brilla 1.4s ease-in-out .55s infinite alternate}}
+h1.entry-title,h1.page-title,.tl-hero h1{animation:tlb-sube .7s cubic-bezier(.2,.7,.2,1) both}
+.entry-content>h2.tlb-visto::after{transition:transform .8s cubic-bezier(.2,.7,.2,1) .25s}
+.tlb-clave{position:relative}
+.tlb-clave::after{content:attr(data-t);content:attr(data-t)/"";position:absolute;left:0;top:0;white-space:nowrap;pointer-events:none;background:linear-gradient(100deg,#F2C23000 40%,#F2C230 48%,#FFE58A 51%,#F2C230 54%,#F2C23000 62%) 100% 0/300% 100% no-repeat;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:tlb-recorre 1.6s ease-in-out .8s both}
+.tl-botones .wp-block-button__link{animation:tlb-late 4.5s ease-in-out 2.5s infinite}
+.tl-botones .wp-block-button__link:hover{animation:none}
+.tl-dato.tlb-visto .tl-dato-t::before{animation:tlb-chispa .9s ease-out .35s}
+.entry-content>h2:target{animation:tlb-marca 1.8s ease-out}
+.main-navigation.toggled .main-nav>ul{animation:tlb-baja .25s ease-out}
+}
+@keyframes tlb-enciende{0%{opacity:0}10%{opacity:1}20%{opacity:.15}32%{opacity:1}62%{opacity:.9}100%{opacity:0}}
+@keyframes tlb-parpadea{0%{opacity:0}25%{opacity:1}45%{opacity:.15}70%,100%{opacity:1}}
+@keyframes tlb-brilla{from{opacity:1}to{opacity:.6}}
+@keyframes tlb-sube{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes tlb-recorre{from{background-position:100% 0}to{background-position:0 0}}
+@keyframes tlb-late{0%,55%,100%{box-shadow:0 0 0 0 #F2C23000}75%{box-shadow:0 0 0 8px #F2C23059}}
+@keyframes tlb-chispa{0%,100%{transform:none;filter:none}30%{transform:scale(1.35) rotate(-8deg);filter:drop-shadow(0 0 5px #F2C230)}60%{transform:scale(.95)}}
+@keyframes tlb-marca{from{background-color:#F2C23059}to{background-color:#F2C23000}}
+@keyframes tlb-baja{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
 @media (max-width:1024px){.tlb-franja{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:768px){
 .tlb-barra{font-size:13px}
@@ -84,8 +150,10 @@
 @media (prefers-reduced-motion:reduce){
 .tlb-msg,.tlb-fijo,.tlb-arriba,.tlb-faq-r,.tlb-faq-b::after,.tlb-visto{transition:none!important}
 .tlb-pista{animation:none;padding-left:8px}
-.tlb-tarjeta .tlb-ti svg,.tlb-tarjeta .tlb-bt:hover::after{animation:none!important}
-.tl-calc,.tl-cats a,.tl-ultimos .wp-block-post,.tl-guias li,.tl-rel li,.tlb-franja li,.tlb-tarjeta,.tlb-tarjeta .tlb-bt{transition:none!important;transform:none!important}
+.tlb-tarjeta .tlb-ti svg{animation:none!important}
+.tl-calc,.tl-cats a,.tl-ultimos .wp-block-post,.tl-guias li,.tl-rel li,.tlb-franja li,.tlb-tarjeta{transition:none!important;transform:none!important}
+.wp-block-button__link,.tl-calc .tl-ir a,.tlb-bt,.tlc-btn:not(.tlc-btn--x),.tlc-widget-calculadoras a,.tlc-btn-s,.tlp-btn-s,.tlc-btn--x,.tlb-fl,.tl-botones .wp-block-button__link::after,.tl-calc .tl-ir a::after,.sidebar .tlc-widget-calculadoras a::after,.tl-rel li img,.tl-ultimos .wp-block-post-featured-image img,.main-navigation .main-nav ul ul,.main-navigation .main-nav>ul>li>a::after,.entry-content a,.entry-content tr{transition:none!important;transform:none!important;animation:none!important}
+.wp-block-button__link::before,.tl-calc .tl-ir a::before,.tlb-bt::before,.tlc-btn:not(.tlc-btn--x)::before,.tlc-widget-calculadoras a::before{display:none}
 }
 </style>
 <script id="tlb-js">
@@ -188,6 +256,24 @@ function listo(){
     }
   }
 
+
+  /* 10. Logo: rayo que se enciende al cargar y al pasar el ratón */
+  var logo=d.querySelector('.site-header .site-logo'),lim=logo&&logo.querySelector('img');
+  if(logo&&lim&&/logo/.test(lim.currentSrc||lim.src)){
+    var luz=el('span','tlb-luz','<svg viewBox="54 61 28 47" preserveAspectRatio="none" aria-hidden="true"><path d="M72.5 62.6h.6l-1.3 17h8.3l-4 7.4-12.2 18.6h-.9L66 87H55.8l4.7-7.4z"/></svg>');
+    logo.appendChild(luz);
+    var enc=function(){luz.classList.add('ini')};
+    luz.addEventListener('animationend',function(e){if(e.animationName==='tlb-enciende')luz.classList.remove('ini')});
+    if(!RM){if(lim.complete)enc();else lim.addEventListener('load',enc)}
+  }
+  /* 11. Portada: brillo que recorre la palabra clave del título */
+  var h1=!post&&d.querySelector('.home .tl-hero h1');
+  if(h1&&!RM){
+    var tw=d.createTreeWalker(h1,4),tn;
+    while((tn=tw.nextNode())){var m=/(^|\s)(luz|consumo|factura)(?=[\s,.;:!?]|$)/i.exec(tn.data);
+      if(m){var ini=m.index+m[1].length,pal=tn.splitText(ini);pal.splitText(m[2].length);var sp=el('span','tlb-clave');sp.setAttribute('data-t',m[2]);pal.parentNode.insertBefore(sp,pal);sp.appendChild(pal);break}}
+  }
+
   if(post){
     var art=d.querySelector('.single-post article'),ec=art&&art.querySelector('.entry-content');
     if(ec){
@@ -202,8 +288,8 @@ function listo(){
       if(sitio&&h2.length>=3&&abajo(sitio,150)){
         var t=el('aside','tlb-tarjeta');t.setAttribute('aria-label','Herramienta de tuluzencasa.com');
         t.innerHTML='<span class="tlb-ti">'+RAYO+'</span><p class="tlb-et">Herramienta gratis de tuluzencasa.com</p>'+
-          (pot?'<p class="tlb-tt">¿Cuánta potencia necesitas de verdad?</p><p class="tlb-tx">Suma los aparatos que enciendes a la vez y comprueba si te sobra o te falta potencia contratada.</p><a class="tlb-bt" href="'+URL_P+'">'+RAYO+'Calcular mi potencia</a>'
-              :'<p class="tlb-tt">Calcula lo que te cuesta a ti</p><p class="tlb-tx">Pon tus aparatos, las horas de uso y el precio de tu factura. Sin registro.</p><a class="tlb-bt" href="'+URL_C+'">'+RAYO+'Calcular mi consumo</a>');
+          (pot?'<p class="tlb-tt">¿Cuánta potencia necesitas de verdad?</p><p class="tlb-tx">Suma los aparatos que enciendes a la vez y comprueba si te sobra o te falta potencia contratada.</p><a class="tlb-bt" href="'+URL_P+'">'+RAYO+'Calcular mi potencia<span class="tlb-fl" aria-hidden="true">→</span></a>'
+              :'<p class="tlb-tt">Calcula lo que te cuesta a ti</p><p class="tlb-tx">Pon tus aparatos, las horas de uso y el precio de tu factura. Sin registro.</p><a class="tlb-bt" href="'+URL_C+'">'+RAYO+'Calcular mi consumo<span class="tlb-fl" aria-hidden="true">→</span></a>');
         sitio.parentNode.insertBefore(t,sitio);
         if(!RM&&W.IntersectionObserver)new IntersectionObserver(function(es){t.classList.toggle('vivo',es[0].isIntersecting)}).observe(t);
       }
@@ -258,7 +344,7 @@ function listo(){
 
   /* 7. Aparición suave al hacer scroll (solo lo que aún no se ve) */
   if(!RM&&W.IntersectionObserver){
-    var sel=post?'.entry-content>h2,.entry-content>figure,.entry-content>.wp-block-table,.entry-content>.tl-dato,.entry-content>ul,.entry-content>.tlb-tarjeta,.tl-autor,.tl-rel'
+    var sel=post?'.entry-content>h2,.entry-content>figure,.entry-content>.wp-block-table,.entry-content>.tl-dato,.entry-content>.tlb-tarjeta,.tl-autor,.tl-rel'
                 :'.tl-home .tl-sec,.tl-home .tl-calcs,.tl-home .tl-cats,.tl-home .tl-ultimos,.tl-home .tl-guias,.tlb-franja';
     var io3=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('tlb-visto');e.target.classList.remove('tlb-oculto');io3.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});
     d.querySelectorAll(sel).forEach(function(z){if(abajo(z)){z.classList.add('tlb-oculto');io3.observe(z)}});
