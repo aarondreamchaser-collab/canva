@@ -1,7 +1,7 @@
 # Cambios para quitar repeticiones en artículos publicados
 
 Revisión del 6 de octubre de 2026 sobre los 20 artículos publicados y los 8 borradores (203-206 y 214-217).
-**35 cambios en 13 artículos publicados, aplicados el 6-10-2026** (copias en `rediseno/copia-seguridad/2026-10-06-repeticiones/`). Los 3 propuestos después están en `pendientes.md`. Solo cambia la redacción: cifras, enlaces, títulos, estado y fechas no se tocan.
+**35 cambios en 13 artículos publicados, aplicados el 6-10-2026** (copias en `rediseno/copia-seguridad/2026-10-06-repeticiones/`). Los 3 de la tercera pasada están en `tercera-pasada.md`, también aplicados. Solo cambia la redacción: cifras, enlaces, títulos, estado y fechas no se tocan.
 Se aplican con `repeticiones/revisar.py --aplicar`, que hace copia de cada entrada en `rediseno/copia-seguridad/`, comprueba que nadie la ha cambiado y valida los bloques.
 
 Se mantienen iguales a propósito:

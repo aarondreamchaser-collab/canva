@@ -1,6 +1,6 @@
-# Cambios pendientes (no aplicados)
+# Cambios de la tercera pasada (aplicados el 6-10-2026)
 
-Propuestos después de tu OK a los 35; siguen sin aplicar.
+Aplicados con copia previa (entrada-<ID>-antes-de-los-3-pendientes.json).
 
 - **137 · Horario del valle escrito igual que en tramos horarios**
   - Antes: El valle va de 0 a 8 h de lunes a viernes y todo el día los sábados, domingos y festivos nacionales.

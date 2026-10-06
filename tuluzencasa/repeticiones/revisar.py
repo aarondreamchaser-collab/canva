@@ -10,6 +10,7 @@ AUTH = (os.environ["WP_USER"], os.environ["WP_APP_PASSWORD"])
 VAL = os.environ["VALIDADOR"]
 aplicar = "--aplicar" in sys.argv
 if "--hasta" in sys.argv: CAMBIOS = CAMBIOS[:int(sys.argv[sys.argv.index("--hasta") + 1])]
+if "--desde" in sys.argv: CAMBIOS = CAMBIOS[int(sys.argv[sys.argv.index("--desde") + 1]):]
 por = {}
 for c in CAMBIOS: por.setdefault(c[0], []).append(c)
 md = [(Path(__file__).parent / "cabecera.md").read_text(encoding="utf-8")]
