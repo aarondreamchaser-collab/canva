@@ -1,0 +1,177 @@
+{
+ "id": 137,
+ "date": "2026-10-04T23:28:11",
+ "date_gmt": "2026-10-04T21:28:11",
+ "guid": {
+  "rendered": "https://tuluzencasa.com/?p=137",
+  "raw": "https://tuluzencasa.com/?p=137"
+ },
+ "modified": "2026-10-05T13:31:26",
+ "modified_gmt": "2026-10-05T11:31:26",
+ "password": "",
+ "slug": "cuanto-cuesta-cargar-coche-electrico-casa",
+ "status": "publish",
+ "type": "post",
+ "link": "https://tuluzencasa.com/cuanto-cuesta-cargar-coche-electrico-casa/",
+ "title": {
+  "raw": "Cuánto cuesta cargar un coche eléctrico en casa: por 100 km, al mes y al año",
+  "rendered": "Cuánto cuesta cargar un coche eléctrico en casa: por 100 km, al mes y al año"
+ },
+ "content": {
+  "raw": "<!-- wp:paragraph -->\n<p>¿Cuánto cuesta cargar un coche eléctrico en casa? Con un coche que gasta 15 kWh cada 100 km, unos 2,48 € cada 100 km a precio fijo y 1,53 € si cargas en horas valle con una tarifa por horas. Haciendo 1.000 km al mes, son 24,75 € al mes a precio fijo o 15,26 € cargando de madrugada.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Las cifras usan <strong>0,165 €/kWh con impuestos</strong> como precio fijo y, para la tarifa por horas, 0,242 €/kWh en punta, 0,153 €/kWh en llano y 0,102 €/kWh en valle. Cambia los precios por los de tu factura si quieres afinar.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En este artículo:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><a href=\"#coste-100-km\">Cuánto cuesta cargar un coche eléctrico en casa cada 100 km</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#al-mes\">Cuánto cuesta al mes y al año</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#tiempo\">Cuánto tarda en cargar en casa</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#potencia\">La potencia contratada: el gasto que no se ve</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#valle\">Cargar en valle: la clave para pagar menos</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#instalacion\">Instalar un punto de recarga en casa</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"coste-100-km\"} -->\n<h2 id=\"coste-100-km\" class=\"wp-block-heading\">Cuánto cuesta cargar un coche eléctrico en casa cada 100 km</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>El dato que manda es el consumo de tu coche, en kWh cada 100 km. Viene en la ficha técnica y en la etiqueta del concesionario, y en el propio coche, que suele mostrar el consumo medio. Estos son tres consumos de ejemplo, de un coche pequeño a uno grande:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Consumo cada 100 km</th><th>Precio fijo</th><th>En valle</th><th>En llano</th><th>En punta</th></tr></thead><tbody><tr><td>12 kWh</td><td>1,98 €</td><td>1,22 €</td><td>1,83 €</td><td>2,90 €</td></tr><tr><td>15 kWh</td><td>2,48 €</td><td>1,53 €</td><td>2,29 €</td><td>3,63 €</td></tr><tr><td>18 kWh</td><td>2,97 €</td><td>1,83 €</td><td>2,75 €</td><td>4,35 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Cálculos con precios de octubre de 2026</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Cargar en punta cuesta más del doble que en valle: 3,63 € frente a 1,53 € cada 100 km con un consumo de 15 kWh. Por eso, si tienes coche eléctrico, una tarifa por horas suele compensar, siempre que lo cargues de madrugada o el fin de semana.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>El consumo real cambia con la forma de conducir. Sube en autopista a mucha velocidad, con frío y con la calefacción o el aire acondicionado encendidos, y baja en ciudad. Mira el consumo medio que marca tu coche después de unas semanas y usa esa cifra.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"al-mes\"} -->\n<h2 id=\"al-mes\" class=\"wp-block-heading\">Cuánto cuesta al mes y al año</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Con un consumo de 15 kWh cada 100 km, así sale según los kilómetros que hagas:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Kilómetros al mes</th><th>Energía</th><th>Al mes, precio fijo</th><th>Al mes, en valle</th><th>Al año, precio fijo</th><th>Al año, en valle</th></tr></thead><tbody><tr><td>500 km</td><td>75 kWh</td><td>12,38 €</td><td>7,63 €</td><td>148,50 €</td><td>91,58 €</td></tr><tr><td>1.000 km</td><td>150 kWh</td><td>24,75 €</td><td>15,26 €</td><td>297,00 €</td><td>183,17 €</td></tr><tr><td>1.500 km</td><td>225 kWh</td><td>37,13 €</td><td>22,90 €</td><td>445,50 €</td><td>274,75 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>A estas cifras hay que sumar algo más por las pérdidas de la carga: parte de la energía se pierde en el cargador y en la batería, y el contador de casa la cuenta igual. Si quieres el dato exacto, compara durante un mes lo que marca tu contador en valle con los kilómetros que has hecho.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"tiempo\"} -->\n<h2 id=\"tiempo\" class=\"wp-block-heading\">Cuánto tarda en cargar en casa</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>En una vivienda con una sola fase, la potencia de carga sale de multiplicar los amperios por 230 voltios. La normativa de instalaciones de recarga toma como referencia una recarga lenta de ocho horas a 16 amperios:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Punto de carga (monofásico)</th><th>Potencia</th><th>Horas para cargar 30 kWh</th><th>Km que recuperas por hora</th></tr></thead><tbody><tr><td>Toma de 16 A (3,7 kW)</td><td>3,68 kW</td><td>8,2 h</td><td>25 km</td></tr><tr><td>Cargador de 32 A (7,4 kW)</td><td>7,36 kW</td><td>4,1 h</td><td>49 km</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Con una toma de 16 A recuperas unos 25 km por cada hora de carga, así que una noche de ocho horas da para unos 200 km. Para el uso diario, la mayoría de la gente no necesita más. Un cargador de 32 A carga el doble de rápido, pero pide más potencia contratada.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"potencia\"} -->\n<h2 id=\"potencia\" class=\"wp-block-heading\">La potencia contratada: el gasto que no se ve</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Cargar el coche es como encender un aparato muy potente durante horas. Si a la vez funcionan el horno, la lavadora o la calefacción, puede saltar el limitador. Tienes tres opciones:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Cargar solo cuando el resto de la casa gasta poco</strong>, de madrugada. Es lo más barato.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Usar un cargador que ajuste la potencia</strong> a lo que queda libre en cada momento, para no pasarte de tu potencia contratada.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Subir la potencia</strong>, sabiendo que se paga todos los meses:</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Subir la potencia</th><th>Coste al mes</th><th>Coste al año</th></tr></thead><tbody><tr><td>+1,15 kW</td><td>4,00 €</td><td>48,05 €</td></tr><tr><td>+2,30 kW</td><td>8,00 €</td><td>96,09 €</td></tr><tr><td>+3,45 kW</td><td>12,01 €</td><td>144,14 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>La tarifa doméstica 2.0TD tiene un término de potencia para punta-llano y otro para valle, así que se puede contratar más potencia solo en valle, que es cuando cargas. Pregúntalo a tu comercializadora. Para saber cuánta potencia necesitas con el coche, usa la <a href=\"https://tuluzencasa.com/calculadora-potencia-contratada/\">calculadora de potencia contratada</a>, que incluye el cargador de 7,4 kW, o lee <a href=\"https://tuluzencasa.com/que-potencia-contratar/\">qué potencia contratar</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"valle\"} -->\n<h2 id=\"valle\" class=\"wp-block-heading\">Cargar en valle: la clave para pagar menos</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>El valle va de 0 a 8 h de lunes a viernes y todo el día los sábados, domingos y festivos nacionales. Muchos coches y cargadores permiten programar la hora de inicio: así puedes enchufarlo al llegar a casa y que empiece a cargar a medianoche.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Con 1.000 km al mes, cargar todo en valle te ahorra 9,49 € al mes frente al precio fijo, unos 113,83 € al año. Tienes todos los horarios en <a href=\"https://tuluzencasa.com/tramos-horarios-luz/\">tramos horarios de la luz</a>. Si además tienes placas solares, cargar con sol a mediodía aprovecha energía que de otro modo saldría a la red: lo explicamos en <a href=\"https://tuluzencasa.com/placas-solares-en-casa/\">placas solares en casa</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"instalacion\"} -->\n<h2 id=\"instalacion\" class=\"wp-block-heading\">Instalar un punto de recarga en casa</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La instalación de recarga está regulada en el Reglamento Electrotécnico de Baja Tensión, en la <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2014-13681\" target=\"_blank\" rel=\"noopener\">instrucción ITC-BT-52, publicada en el BOE</a>. En una vivienda se hace con un circuito propio para la recarga, con sus protecciones, y la tiene que hacer un instalador autorizado, que prepara la documentación técnica antes de ejecutarla.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>En una casa unifamiliar</strong>, el circuito sale de tu propio cuadro.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>En un garaje comunitario</strong>, si tu plaza es individual, la <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906\" target=\"_blank\" rel=\"noopener\">Ley de Propiedad Horizontal</a> solo exige comunicarlo antes a la comunidad. La instalación y la electricidad que gastes corren de tu cuenta.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Lo que no debes hacer:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>No cargues con alargadores ni regletas.</strong> Están pensados para potencias y tiempos mucho menores y se pueden calentar durante horas de carga.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>No uses un enchufe cualquiera de forma habitual</strong> sin que un instalador haya comprobado el circuito. Una carga de ocho horas a 16 A es mucho más exigente que cualquier electrodoméstico.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Si el enchufe o la clavija se calientan</strong>, deja de cargar y llama a un instalador autorizado.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"preguntas-frecuentes\"} -->\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Cuánto cuesta cargar un coche eléctrico al completo?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Depende de la batería. Para meter 30 kWh, que dan para unos 200 km con un consumo de 15 kWh cada 100 km, pagarías 4,95 € a precio fijo y 3,05 € en valle.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Es más barato cargar en casa que en la calle?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Depende del precio de cada cargador público, que fija cada operador. Compara su precio por kWh con el de tu factura: con los precios de este artículo, en casa pagas 0,165 €/kWh a precio fijo y 0,102 €/kWh en valle.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Tengo que subir la potencia para cargar el coche?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>No siempre. Con una toma de 16 A y cargando de noche, mucha gente se apaña con la potencia que ya tiene. Si cargas a 7,4 kW o a la vez que funcionan otros aparatos fuertes, probablemente sí.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Puedo instalar un cargador en el garaje de mi comunidad?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Sí. Si tu plaza es individual, solo tienes que comunicarlo antes a la comunidad. El coste de la instalación y la electricidad que consumas los pagas tú.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: añade el cargador de coche, las horas de carga y el precio de tu factura.</p>\n<!-- /wp:paragraph -->\n",
+  "rendered": "\n<p class=\"wp-block-paragraph\">¿Cuánto cuesta cargar un coche eléctrico en casa? Con un coche que gasta 15 kWh cada 100 km, unos 2,48 € cada 100 km a precio fijo y 1,53 € si cargas en horas valle con una tarifa por horas. Haciendo 1.000 km al mes, son 24,75 € al mes a precio fijo o 15,26 € cargando de madrugada.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Las cifras usan <strong>0,165 €/kWh con impuestos</strong> como precio fijo y, para la tarifa por horas, 0,242 €/kWh en punta, 0,153 €/kWh en llano y 0,102 €/kWh en valle. Cambia los precios por los de tu factura si quieres afinar.</p>\n\n\n\n<p class=\"wp-block-paragraph\">En este artículo:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"#coste-100-km\">Cuánto cuesta cargar un coche eléctrico en casa cada 100 km</a></li>\n\n\n\n<li><a href=\"#al-mes\">Cuánto cuesta al mes y al año</a></li>\n\n\n\n<li><a href=\"#tiempo\">Cuánto tarda en cargar en casa</a></li>\n\n\n\n<li><a href=\"#potencia\">La potencia contratada: el gasto que no se ve</a></li>\n\n\n\n<li><a href=\"#valle\">Cargar en valle: la clave para pagar menos</a></li>\n\n\n\n<li><a href=\"#instalacion\">Instalar un punto de recarga en casa</a></li>\n\n\n\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n</ul>\n\n\n\n<h2 id=\"coste-100-km\" class=\"wp-block-heading\">Cuánto cuesta cargar un coche eléctrico en casa cada 100 km</h2>\n\n\n\n<p class=\"wp-block-paragraph\">El dato que manda es el consumo de tu coche, en kWh cada 100 km. Viene en la ficha técnica y en la etiqueta del concesionario, y en el propio coche, que suele mostrar el consumo medio. Estos son tres consumos de ejemplo, de un coche pequeño a uno grande:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Consumo cada 100 km</th><th>Precio fijo</th><th>En valle</th><th>En llano</th><th>En punta</th></tr></thead><tbody><tr><td>12 kWh</td><td>1,98 €</td><td>1,22 €</td><td>1,83 €</td><td>2,90 €</td></tr><tr><td>15 kWh</td><td>2,48 €</td><td>1,53 €</td><td>2,29 €</td><td>3,63 €</td></tr><tr><td>18 kWh</td><td>2,97 €</td><td>1,83 €</td><td>2,75 €</td><td>4,35 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Cálculos con precios de octubre de 2026</p>\n\n\n\n<p class=\"wp-block-paragraph\">Cargar en punta cuesta más del doble que en valle: 3,63 € frente a 1,53 € cada 100 km con un consumo de 15 kWh. Por eso, si tienes coche eléctrico, una tarifa por horas suele compensar, siempre que lo cargues de madrugada o el fin de semana.</p>\n\n\n\n<p class=\"wp-block-paragraph\">El consumo real cambia con la forma de conducir. Sube en autopista a mucha velocidad, con frío y con la calefacción o el aire acondicionado encendidos, y baja en ciudad. Mira el consumo medio que marca tu coche después de unas semanas y usa esa cifra.</p>\n\n\n\n<h2 id=\"al-mes\" class=\"wp-block-heading\">Cuánto cuesta al mes y al año</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Con un consumo de 15 kWh cada 100 km, así sale según los kilómetros que hagas:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Kilómetros al mes</th><th>Energía</th><th>Al mes, precio fijo</th><th>Al mes, en valle</th><th>Al año, precio fijo</th><th>Al año, en valle</th></tr></thead><tbody><tr><td>500 km</td><td>75 kWh</td><td>12,38 €</td><td>7,63 €</td><td>148,50 €</td><td>91,58 €</td></tr><tr><td>1.000 km</td><td>150 kWh</td><td>24,75 €</td><td>15,26 €</td><td>297,00 €</td><td>183,17 €</td></tr><tr><td>1.500 km</td><td>225 kWh</td><td>37,13 €</td><td>22,90 €</td><td>445,50 €</td><td>274,75 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">A estas cifras hay que sumar algo más por las pérdidas de la carga: parte de la energía se pierde en el cargador y en la batería, y el contador de casa la cuenta igual. Si quieres el dato exacto, compara durante un mes lo que marca tu contador en valle con los kilómetros que has hecho.</p>\n\n\n\n<h2 id=\"tiempo\" class=\"wp-block-heading\">Cuánto tarda en cargar en casa</h2>\n\n\n\n<p class=\"wp-block-paragraph\">En una vivienda con una sola fase, la potencia de carga sale de multiplicar los amperios por 230 voltios. La normativa de instalaciones de recarga toma como referencia una recarga lenta de ocho horas a 16 amperios:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Punto de carga (monofásico)</th><th>Potencia</th><th>Horas para cargar 30 kWh</th><th>Km que recuperas por hora</th></tr></thead><tbody><tr><td>Toma de 16 A (3,7 kW)</td><td>3,68 kW</td><td>8,2 h</td><td>25 km</td></tr><tr><td>Cargador de 32 A (7,4 kW)</td><td>7,36 kW</td><td>4,1 h</td><td>49 km</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Con una toma de 16 A recuperas unos 25 km por cada hora de carga, así que una noche de ocho horas da para unos 200 km. Para el uso diario, la mayoría de la gente no necesita más. Un cargador de 32 A carga el doble de rápido, pero pide más potencia contratada.</p>\n\n\n\n<h2 id=\"potencia\" class=\"wp-block-heading\">La potencia contratada: el gasto que no se ve</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Cargar el coche es como encender un aparato muy potente durante horas. Si a la vez funcionan el horno, la lavadora o la calefacción, puede saltar el limitador. Tienes tres opciones:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Cargar solo cuando el resto de la casa gasta poco</strong>, de madrugada. Es lo más barato.</li>\n\n\n\n<li><strong>Usar un cargador que ajuste la potencia</strong> a lo que queda libre en cada momento, para no pasarte de tu potencia contratada.</li>\n\n\n\n<li><strong>Subir la potencia</strong>, sabiendo que se paga todos los meses:</li>\n</ul>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Subir la potencia</th><th>Coste al mes</th><th>Coste al año</th></tr></thead><tbody><tr><td>+1,15 kW</td><td>4,00 €</td><td>48,05 €</td></tr><tr><td>+2,30 kW</td><td>8,00 €</td><td>96,09 €</td></tr><tr><td>+3,45 kW</td><td>12,01 €</td><td>144,14 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">La tarifa doméstica 2.0TD tiene un término de potencia para punta-llano y otro para valle, así que se puede contratar más potencia solo en valle, que es cuando cargas. Pregúntalo a tu comercializadora. Para saber cuánta potencia necesitas con el coche, usa la <a href=\"https://tuluzencasa.com/calculadora-potencia-contratada/\">calculadora de potencia contratada</a>, que incluye el cargador de 7,4 kW, o lee <a href=\"https://tuluzencasa.com/que-potencia-contratar/\">qué potencia contratar</a>.</p>\n\n\n\n<h2 id=\"valle\" class=\"wp-block-heading\">Cargar en valle: la clave para pagar menos</h2>\n\n\n\n<p class=\"wp-block-paragraph\">El valle va de 0 a 8 h de lunes a viernes y todo el día los sábados, domingos y festivos nacionales. Muchos coches y cargadores permiten programar la hora de inicio: así puedes enchufarlo al llegar a casa y que empiece a cargar a medianoche.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Con 1.000 km al mes, cargar todo en valle te ahorra 9,49 € al mes frente al precio fijo, unos 113,83 € al año. Tienes todos los horarios en <a href=\"https://tuluzencasa.com/tramos-horarios-luz/\">tramos horarios de la luz</a>. Si además tienes placas solares, cargar con sol a mediodía aprovecha energía que de otro modo saldría a la red: lo explicamos en <a href=\"https://tuluzencasa.com/placas-solares-en-casa/\">placas solares en casa</a>.</p>\n\n\n\n<h2 id=\"instalacion\" class=\"wp-block-heading\">Instalar un punto de recarga en casa</h2>\n\n\n\n<p class=\"wp-block-paragraph\">La instalación de recarga está regulada en el Reglamento Electrotécnico de Baja Tensión, en la <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2014-13681\" target=\"_blank\" rel=\"noopener\">instrucción ITC-BT-52, publicada en el BOE</a>. En una vivienda se hace con un circuito propio para la recarga, con sus protecciones, y la tiene que hacer un instalador autorizado, que prepara la documentación técnica antes de ejecutarla.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>En una casa unifamiliar</strong>, el circuito sale de tu propio cuadro.</li>\n\n\n\n<li><strong>En un garaje comunitario</strong>, si tu plaza es individual, la <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906\" target=\"_blank\" rel=\"noopener\">Ley de Propiedad Horizontal</a> solo exige comunicarlo antes a la comunidad. La instalación y la electricidad que gastes corren de tu cuenta.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Lo que no debes hacer:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>No cargues con alargadores ni regletas.</strong> Están pensados para potencias y tiempos mucho menores y se pueden calentar durante horas de carga.</li>\n\n\n\n<li><strong>No uses un enchufe cualquiera de forma habitual</strong> sin que un instalador haya comprobado el circuito. Una carga de ocho horas a 16 A es mucho más exigente que cualquier electrodoméstico.</li>\n\n\n\n<li><strong>Si el enchufe o la clavija se calientan</strong>, deja de cargar y llama a un instalador autorizado.</li>\n</ul>\n\n\n\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n\n\n\n<h3 class=\"wp-block-heading\">¿Cuánto cuesta cargar un coche eléctrico al completo?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Depende de la batería. Para meter 30 kWh, que dan para unos 200 km con un consumo de 15 kWh cada 100 km, pagarías 4,95 € a precio fijo y 3,05 € en valle.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Es más barato cargar en casa que en la calle?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Depende del precio de cada cargador público, que fija cada operador. Compara su precio por kWh con el de tu factura: con los precios de este artículo, en casa pagas 0,165 €/kWh a precio fijo y 0,102 €/kWh en valle.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Tengo que subir la potencia para cargar el coche?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">No siempre. Con una toma de 16 A y cargando de noche, mucha gente se apaña con la potencia que ya tiene. Si cargas a 7,4 kW o a la vez que funcionan otros aparatos fuertes, probablemente sí.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Puedo instalar un cargador en el garaje de mi comunidad?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Sí. Si tu plaza es individual, solo tienes que comunicarlo antes a la comunidad. El coste de la instalación y la electricidad que consumas los pagas tú.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: añade el cargador de coche, las horas de carga y el precio de tu factura.</p>\n\n",
+  "protected": false,
+  "block_version": 1
+ },
+ "excerpt": {
+  "raw": "Cuánto cuesta cargar un coche eléctrico en casa: unos 2,48 € cada 100 km a precio fijo y 1,53 € en horas valle, con un consumo de 15 kWh.",
+  "rendered": "<p>Cuánto cuesta cargar un coche eléctrico en casa: unos 2,48 € cada 100 km a precio fijo y 1,53 € en horas valle, con un consumo de 15 kWh.</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 144,
+ "comment_status": "closed",
+ "ping_status": "closed",
+ "sticky": false,
+ "template": "",
+ "format": "standard",
+ "meta": {
+  "footnotes": ""
+ },
+ "categories": [
+  9
+ ],
+ "tags": [],
+ "permalink_template": "https://tuluzencasa.com/%postname%/",
+ "generated_slug": "cuanto-cuesta-cargar-un-coche-electrico-en-casa-por-100-km-al-mes-y-al-ano",
+ "class_list": [
+  "post-137",
+  "post",
+  "type-post",
+  "status-publish",
+  "format-standard",
+  "has-post-thumbnail",
+  "hentry",
+  "category-coche-electrico"
+ ],
+ "_links": {
+  "self": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/types/post"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/comments?post=137"
+   }
+  ],
+  "version-history": [
+   {
+    "count": 2,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137/revisions"
+   }
+  ],
+  "predecessor-version": [
+   {
+    "id": 181,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137/revisions/181"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media/144"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media?parent=137"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "category",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/categories?post=137"
+   },
+   {
+    "taxonomy": "post_tag",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/tags?post=137"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137"
+   }
+  ],
+  "wp:action-sticky": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137"
+   }
+  ],
+  "wp:action-create-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137"
+   }
+  ],
+  "wp:action-assign-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137"
+   }
+  ],
+  "wp:action-create-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137"
+   }
+  ],
+  "wp:action-assign-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/137"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

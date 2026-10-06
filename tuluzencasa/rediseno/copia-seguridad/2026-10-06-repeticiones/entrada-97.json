@@ -1,0 +1,177 @@
+{
+ "id": 97,
+ "date": "2026-10-04T19:50:30",
+ "date_gmt": "2026-10-04T17:50:30",
+ "guid": {
+  "rendered": "https://tuluzencasa.com/?p=97",
+  "raw": "https://tuluzencasa.com/?p=97"
+ },
+ "modified": "2026-10-05T13:30:08",
+ "modified_gmt": "2026-10-05T11:30:08",
+ "password": "",
+ "slug": "radiador-aceite-convector-calefactor",
+ "status": "publish",
+ "type": "post",
+ "link": "https://tuluzencasa.com/radiador-aceite-convector-calefactor/",
+ "title": {
+  "raw": "Radiador de aceite, convector o calefactor: cuál gasta menos y cuál elegir",
+  "rendered": "Radiador de aceite, convector o calefactor: cuál gasta menos y cuál elegir"
+ },
+ "content": {
+  "raw": "<!-- wp:paragraph -->\n<p>¿Radiador de aceite, convector o calefactor? A la misma potencia, los tres gastan lo mismo mientras la resistencia está encendida: uno de 2.000 W cuesta 0,33 € por cada hora a plena potencia. La diferencia está en cómo reparten el calor y en cuánto rato necesitan tener la resistencia encendida para mantener la habitación caliente, y eso depende de para qué lo quieras.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Las cifras usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo y los resultados cambian en la misma proporción.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En este artículo:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><a href=\"#coste\">Cuánto cuesta cada uno a plena potencia</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#uso-real\">El gasto real depende del termostato y del uso</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#diferencias\">Radiador de aceite, convector o calefactor: diferencias de uso</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#cual-elegir\">Cuál elegir según tu caso</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#comprar\">Qué mirar al comprar uno de los tres</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#trucos\">Trucos para gastar menos con cualquiera de los tres</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"coste\"} -->\n<h2 id=\"coste\" class=\"wp-block-heading\">Cuánto cuesta cada uno a plena potencia</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Los tres son aparatos de resistencia: convierten cada kWh de electricidad en un kWh de calor. Por eso, con la resistencia encendida, el coste por hora solo depende de la potencia:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Potencia</th><th>Por hora a plena potencia</th><th>Por día (5 h)</th><th>Por mes (5 h/día)</th></tr></thead><tbody><tr><td>1.000 W</td><td>0,17 €</td><td>0,83 €</td><td>25,08 €</td></tr><tr><td>1.500 W</td><td>0,25 €</td><td>1,24 €</td><td>37,62 €</td></tr><tr><td>2.000 W</td><td>0,33 €</td><td>1,65 €</td><td>50,16 €</td></tr><tr><td>2.500 W</td><td>0,41 €</td><td>2,06 €</td><td>62,70 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Cálculos con precios de octubre de 2026</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Esta tabla es el máximo: el coste si la resistencia estuviera encendida todo el tiempo. En la práctica, todos tienen termostato y cortan la resistencia cuando la habitación llega a la temperatura marcada, así que el gasto real es menor.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"uso-real\"} -->\n<h2 id=\"uso-real\" class=\"wp-block-heading\">El gasto real depende del termostato y del uso</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Cuánto rato está encendida la resistencia depende de la habitación, del aislamiento, de la temperatura que marques y del propio aparato. En nuestros cálculos usamos un factor de uso real para cada tipo, el mismo que en nuestra calculadora de consumo:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Aparato</th><th>Factor de uso real</th><th>Por hora</th><th>Por mes (5 h/día)</th></tr></thead><tbody><tr><td>Radiador de aceite de 2.000 W</td><td>0,6</td><td>0,20 €</td><td>30,10 €</td></tr><tr><td>Calefactor o estufa de 2.000 W</td><td>0,85</td><td>0,28 €</td><td>42,64 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>El radiador de aceite tiene un factor más bajo porque el aceite guarda el calor: cuando la resistencia se apaga, sigue soltando calor un rato. El calefactor calienta rápido, pero ese calor se va antes, así que la resistencia se enciende más a menudo. Para el convector no damos un factor propio: depende mucho del modelo y de su termostato.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Tienes el detalle de cada uno en <a href=\"https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/\">cuánto consume un radiador de aceite</a> y en <a href=\"https://tuluzencasa.com/cuanto-consume-estufa-electrica/\">cuánto consume una estufa eléctrica</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"diferencias\"} -->\n<h2 id=\"diferencias\" class=\"wp-block-heading\">Radiador de aceite, convector o calefactor: diferencias de uso</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><strong>Radiador de aceite</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li>Tarda en calentarse, pero da un calor suave y constante.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Sigue calentando un rato después de apagarlo.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Es silencioso, porque no lleva ventilador.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Bueno para estancias en las que vas a estar varias horas: el salón por la tarde o un dormitorio.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p><strong>Convector</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li>Calienta el aire, que sube y circula por la habitación.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Llega antes a la temperatura que el radiador de aceite.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Suele ser más ligero y fácil de mover, y algunos se pueden colgar de la pared.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Bueno para calentar una habitación entera de forma uniforme en poco tiempo.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p><strong>Calefactor de aire</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li>Tiene un ventilador que empuja el aire caliente: notas el calor casi al encenderlo.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Es pequeño y barato, pero hace algo de ruido.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>El calor se va pronto al apagarlo.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Bueno para usos cortos: el baño antes de ducharte o los pies bajo la mesa.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"cual-elegir\"} -->\n<h2 id=\"cual-elegir\" class=\"wp-block-heading\">Cuál elegir según tu caso</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Para estar varias horas en la misma habitación</strong>: radiador de aceite. Aprovecha el calor acumulado y, con termostato, su resistencia trabaja menos tiempo.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Para calentar rápido una habitación entera</strong>: convector.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Para un rato concreto y una zona pequeña</strong>: calefactor.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Para calentar muchas horas toda la casa</strong>: ninguno de los tres es la opción más barata; mira la bomba de calor en <a href=\"https://tuluzencasa.com/calefaccion-electrica-mas-barata/\">calefacción eléctrica más barata</a>.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>En cualquier caso, elige la potencia adecuada para la habitación: un aparato demasiado pequeño estará siempre al máximo sin llegar a calentar, y uno demasiado grande cortará y arrancará sin parar.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"comprar\"} -->\n<h2 id=\"comprar\" class=\"wp-block-heading\">Qué mirar al comprar uno de los tres</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Más allá del tipo, hay detalles que cambian cuánto vas a gastar y lo cómodo y seguro que será de usar:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Termostato</strong>. Es lo que hace que la resistencia se apague cuando la habitación ya está caliente. Los digitales permiten marcar una temperatura concreta; los de rueda son más imprecisos, pero también cortan.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Varias potencias</strong>. Poder elegir entre una posición baja y otra alta te deja ajustar el gasto al tamaño de la habitación.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Temporizador o programación</strong>. Sirve para que se encienda un rato antes de que llegues y se apague solo, sin dejarlo toda la noche.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Protección contra sobrecalentamiento y apagado si se vuelca</strong>. Muchos modelos la llevan; en un aparato que vas a mover de habitación en habitación es especialmente útil.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Ruedas y asas</strong> en los radiadores de aceite, que pesan bastante.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Uso en baños</strong>. Solo los aparatos que el fabricante indique como aptos para baño; lo pone en el manual.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Potencia adecuada</strong>. En el artículo del radiador de aceite damos una regla orientativa de potencia por metro cuadrado que sirve también para convectores y calefactores.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Ninguno de estos detalles hace que el aparato convierta mejor la electricidad en calor, pero sí que esté menos tiempo encendido sin necesidad.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"trucos\"} -->\n<h2 id=\"trucos\" class=\"wp-block-heading\">Trucos para gastar menos con cualquiera de los tres</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Usa el termostato</strong> y ponlo en una posición media. El IDAE estima que las válvulas termostáticas y los termostatos programables permiten ahorrar entre un 8 y un 13 % de energía, según sus <a href=\"https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares\" target=\"_blank\" rel=\"noopener\">recomendaciones para el ahorro energético en hogares</a>.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Usa la potencia baja</strong> si el aparato tiene dos posiciones y la habitación es pequeña.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Cierra la puerta</strong> de la estancia que calientas.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Enchúfalo directamente a la pared</strong>, no a regletas ni alargadores finos: a 2.000 W el cable se calienta.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>No lo tapes</strong> ni lo uses para secar ropa encima.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Apágalo antes de irte</strong>: el radiador de aceite seguirá dando calor un rato.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"preguntas-frecuentes\"} -->\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Qué gasta menos, un radiador de aceite o un calefactor?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>A igual potencia, lo mismo por hora con la resistencia encendida: 0,33 € a 2.000 W. Con el uso real, el radiador de aceite suele tener la resistencia encendida menos rato porque guarda el calor: en nuestros cálculos, 30,10 € al mes frente a 42,64 € del calefactor con 5 horas al día.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Los convectores gastan mucho?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Lo mismo que cualquier aparato de resistencia de su potencia: uno de 2.000 W cuesta 0,33 € la hora a plena potencia. Lo que gastes al final depende del termostato y de las horas de uso.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Y los emisores térmicos?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>También calientan con una resistencia, así que cada kWh de calor cuesta lo mismo que con los otros tres. Se parecen al radiador de aceite en que acumulan algo de calor, y suelen ir fijos en la pared con un termostato más preciso.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Qué es mejor para un dormitorio?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Un radiador de aceite con termostato, encendido un rato antes de dormir. Es silencioso y sigue dando calor después de apagarlo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Y para el baño?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Un calefactor pequeño, unos minutos antes de ducharte. En el baño, usa solo aparatos pensados para ese uso y mantenlos lejos del agua.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: pon tu aparato, su potencia, las horas de uso y el precio de tu factura.</p>\n<!-- /wp:paragraph -->\n",
+  "rendered": "\n<p class=\"wp-block-paragraph\">¿Radiador de aceite, convector o calefactor? A la misma potencia, los tres gastan lo mismo mientras la resistencia está encendida: uno de 2.000 W cuesta 0,33 € por cada hora a plena potencia. La diferencia está en cómo reparten el calor y en cuánto rato necesitan tener la resistencia encendida para mantener la habitación caliente, y eso depende de para qué lo quieras.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Las cifras usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo y los resultados cambian en la misma proporción.</p>\n\n\n\n<p class=\"wp-block-paragraph\">En este artículo:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"#coste\">Cuánto cuesta cada uno a plena potencia</a></li>\n\n\n\n<li><a href=\"#uso-real\">El gasto real depende del termostato y del uso</a></li>\n\n\n\n<li><a href=\"#diferencias\">Radiador de aceite, convector o calefactor: diferencias de uso</a></li>\n\n\n\n<li><a href=\"#cual-elegir\">Cuál elegir según tu caso</a></li>\n\n\n\n<li><a href=\"#comprar\">Qué mirar al comprar uno de los tres</a></li>\n\n\n\n<li><a href=\"#trucos\">Trucos para gastar menos con cualquiera de los tres</a></li>\n\n\n\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n</ul>\n\n\n\n<h2 id=\"coste\" class=\"wp-block-heading\">Cuánto cuesta cada uno a plena potencia</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Los tres son aparatos de resistencia: convierten cada kWh de electricidad en un kWh de calor. Por eso, con la resistencia encendida, el coste por hora solo depende de la potencia:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Potencia</th><th>Por hora a plena potencia</th><th>Por día (5 h)</th><th>Por mes (5 h/día)</th></tr></thead><tbody><tr><td>1.000 W</td><td>0,17 €</td><td>0,83 €</td><td>25,08 €</td></tr><tr><td>1.500 W</td><td>0,25 €</td><td>1,24 €</td><td>37,62 €</td></tr><tr><td>2.000 W</td><td>0,33 €</td><td>1,65 €</td><td>50,16 €</td></tr><tr><td>2.500 W</td><td>0,41 €</td><td>2,06 €</td><td>62,70 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Cálculos con precios de octubre de 2026</p>\n\n\n\n<p class=\"wp-block-paragraph\">Esta tabla es el máximo: el coste si la resistencia estuviera encendida todo el tiempo. En la práctica, todos tienen termostato y cortan la resistencia cuando la habitación llega a la temperatura marcada, así que el gasto real es menor.</p>\n\n\n\n<h2 id=\"uso-real\" class=\"wp-block-heading\">El gasto real depende del termostato y del uso</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Cuánto rato está encendida la resistencia depende de la habitación, del aislamiento, de la temperatura que marques y del propio aparato. En nuestros cálculos usamos un factor de uso real para cada tipo, el mismo que en nuestra calculadora de consumo:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Aparato</th><th>Factor de uso real</th><th>Por hora</th><th>Por mes (5 h/día)</th></tr></thead><tbody><tr><td>Radiador de aceite de 2.000 W</td><td>0,6</td><td>0,20 €</td><td>30,10 €</td></tr><tr><td>Calefactor o estufa de 2.000 W</td><td>0,85</td><td>0,28 €</td><td>42,64 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">El radiador de aceite tiene un factor más bajo porque el aceite guarda el calor: cuando la resistencia se apaga, sigue soltando calor un rato. El calefactor calienta rápido, pero ese calor se va antes, así que la resistencia se enciende más a menudo. Para el convector no damos un factor propio: depende mucho del modelo y de su termostato.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Tienes el detalle de cada uno en <a href=\"https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/\">cuánto consume un radiador de aceite</a> y en <a href=\"https://tuluzencasa.com/cuanto-consume-estufa-electrica/\">cuánto consume una estufa eléctrica</a>.</p>\n\n\n\n<h2 id=\"diferencias\" class=\"wp-block-heading\">Radiador de aceite, convector o calefactor: diferencias de uso</h2>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Radiador de aceite</strong></p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Tarda en calentarse, pero da un calor suave y constante.</li>\n\n\n\n<li>Sigue calentando un rato después de apagarlo.</li>\n\n\n\n<li>Es silencioso, porque no lleva ventilador.</li>\n\n\n\n<li>Bueno para estancias en las que vas a estar varias horas: el salón por la tarde o un dormitorio.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Convector</strong></p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Calienta el aire, que sube y circula por la habitación.</li>\n\n\n\n<li>Llega antes a la temperatura que el radiador de aceite.</li>\n\n\n\n<li>Suele ser más ligero y fácil de mover, y algunos se pueden colgar de la pared.</li>\n\n\n\n<li>Bueno para calentar una habitación entera de forma uniforme en poco tiempo.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Calefactor de aire</strong></p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Tiene un ventilador que empuja el aire caliente: notas el calor casi al encenderlo.</li>\n\n\n\n<li>Es pequeño y barato, pero hace algo de ruido.</li>\n\n\n\n<li>El calor se va pronto al apagarlo.</li>\n\n\n\n<li>Bueno para usos cortos: el baño antes de ducharte o los pies bajo la mesa.</li>\n</ul>\n\n\n\n<h2 id=\"cual-elegir\" class=\"wp-block-heading\">Cuál elegir según tu caso</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Para estar varias horas en la misma habitación</strong>: radiador de aceite. Aprovecha el calor acumulado y, con termostato, su resistencia trabaja menos tiempo.</li>\n\n\n\n<li><strong>Para calentar rápido una habitación entera</strong>: convector.</li>\n\n\n\n<li><strong>Para un rato concreto y una zona pequeña</strong>: calefactor.</li>\n\n\n\n<li><strong>Para calentar muchas horas toda la casa</strong>: ninguno de los tres es la opción más barata; mira la bomba de calor en <a href=\"https://tuluzencasa.com/calefaccion-electrica-mas-barata/\">calefacción eléctrica más barata</a>.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">En cualquier caso, elige la potencia adecuada para la habitación: un aparato demasiado pequeño estará siempre al máximo sin llegar a calentar, y uno demasiado grande cortará y arrancará sin parar.</p>\n\n\n\n<h2 id=\"comprar\" class=\"wp-block-heading\">Qué mirar al comprar uno de los tres</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Más allá del tipo, hay detalles que cambian cuánto vas a gastar y lo cómodo y seguro que será de usar:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Termostato</strong>. Es lo que hace que la resistencia se apague cuando la habitación ya está caliente. Los digitales permiten marcar una temperatura concreta; los de rueda son más imprecisos, pero también cortan.</li>\n\n\n\n<li><strong>Varias potencias</strong>. Poder elegir entre una posición baja y otra alta te deja ajustar el gasto al tamaño de la habitación.</li>\n\n\n\n<li><strong>Temporizador o programación</strong>. Sirve para que se encienda un rato antes de que llegues y se apague solo, sin dejarlo toda la noche.</li>\n\n\n\n<li><strong>Protección contra sobrecalentamiento y apagado si se vuelca</strong>. Muchos modelos la llevan; en un aparato que vas a mover de habitación en habitación es especialmente útil.</li>\n\n\n\n<li><strong>Ruedas y asas</strong> en los radiadores de aceite, que pesan bastante.</li>\n\n\n\n<li><strong>Uso en baños</strong>. Solo los aparatos que el fabricante indique como aptos para baño; lo pone en el manual.</li>\n\n\n\n<li><strong>Potencia adecuada</strong>. En el artículo del radiador de aceite damos una regla orientativa de potencia por metro cuadrado que sirve también para convectores y calefactores.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Ninguno de estos detalles hace que el aparato convierta mejor la electricidad en calor, pero sí que esté menos tiempo encendido sin necesidad.</p>\n\n\n\n<h2 id=\"trucos\" class=\"wp-block-heading\">Trucos para gastar menos con cualquiera de los tres</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Usa el termostato</strong> y ponlo en una posición media. El IDAE estima que las válvulas termostáticas y los termostatos programables permiten ahorrar entre un 8 y un 13 % de energía, según sus <a href=\"https://www.idae.es/ahorra-energia/recomendaciones-para-el-ahorro-energetico-en-hogares\" target=\"_blank\" rel=\"noopener\">recomendaciones para el ahorro energético en hogares</a>.</li>\n\n\n\n<li><strong>Usa la potencia baja</strong> si el aparato tiene dos posiciones y la habitación es pequeña.</li>\n\n\n\n<li><strong>Cierra la puerta</strong> de la estancia que calientas.</li>\n\n\n\n<li><strong>Enchúfalo directamente a la pared</strong>, no a regletas ni alargadores finos: a 2.000 W el cable se calienta.</li>\n\n\n\n<li><strong>No lo tapes</strong> ni lo uses para secar ropa encima.</li>\n\n\n\n<li><strong>Apágalo antes de irte</strong>: el radiador de aceite seguirá dando calor un rato.</li>\n</ul>\n\n\n\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n\n\n\n<h3 class=\"wp-block-heading\">¿Qué gasta menos, un radiador de aceite o un calefactor?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">A igual potencia, lo mismo por hora con la resistencia encendida: 0,33 € a 2.000 W. Con el uso real, el radiador de aceite suele tener la resistencia encendida menos rato porque guarda el calor: en nuestros cálculos, 30,10 € al mes frente a 42,64 € del calefactor con 5 horas al día.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Los convectores gastan mucho?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Lo mismo que cualquier aparato de resistencia de su potencia: uno de 2.000 W cuesta 0,33 € la hora a plena potencia. Lo que gastes al final depende del termostato y de las horas de uso.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Y los emisores térmicos?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">También calientan con una resistencia, así que cada kWh de calor cuesta lo mismo que con los otros tres. Se parecen al radiador de aceite en que acumulan algo de calor, y suelen ir fijos en la pared con un termostato más preciso.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Qué es mejor para un dormitorio?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Un radiador de aceite con termostato, encendido un rato antes de dormir. Es silencioso y sigue dando calor después de apagarlo.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Y para el baño?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Un calefactor pequeño, unos minutos antes de ducharte. En el baño, usa solo aparatos pensados para ese uso y mantenlos lejos del agua.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: pon tu aparato, su potencia, las horas de uso y el precio de tu factura.</p>\n\n",
+  "protected": false,
+  "block_version": 1
+ },
+ "excerpt": {
+  "raw": "Radiador de aceite, convector o calefactor: a 2.000 W, los tres cuestan 0,33 € la hora a plena potencia a 0,165 €/kWh. Elige según cómo y cuánto lo uses.",
+  "rendered": "<p>Radiador de aceite, convector o calefactor: a 2.000 W, los tres cuestan 0,33 € la hora a plena potencia a 0,165 €/kWh. Elige según cómo y cuánto lo uses.</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 124,
+ "comment_status": "closed",
+ "ping_status": "open",
+ "sticky": false,
+ "template": "",
+ "format": "standard",
+ "meta": {
+  "footnotes": ""
+ },
+ "categories": [
+  7
+ ],
+ "tags": [],
+ "permalink_template": "https://tuluzencasa.com/%postname%/",
+ "generated_slug": "radiador-de-aceite-convector-o-calefactor-cual-gasta-menos-y-cual-elegir",
+ "class_list": [
+  "post-97",
+  "post",
+  "type-post",
+  "status-publish",
+  "format-standard",
+  "has-post-thumbnail",
+  "hentry",
+  "category-climatizacion"
+ ],
+ "_links": {
+  "self": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/types/post"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/comments?post=97"
+   }
+  ],
+  "version-history": [
+   {
+    "count": 2,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97/revisions"
+   }
+  ],
+  "predecessor-version": [
+   {
+    "id": 173,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97/revisions/173"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media/124"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media?parent=97"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "category",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/categories?post=97"
+   },
+   {
+    "taxonomy": "post_tag",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/tags?post=97"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97"
+   }
+  ],
+  "wp:action-sticky": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97"
+   }
+  ],
+  "wp:action-create-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97"
+   }
+  ],
+  "wp:action-assign-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97"
+   }
+  ],
+  "wp:action-create-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97"
+   }
+  ],
+  "wp:action-assign-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/97"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

@@ -1,7 +1,7 @@
 # Cambios para quitar repeticiones en artículos publicados
 
 Revisión del 6 de octubre de 2026 sobre los 20 artículos publicados y los 8 borradores (203-206 y 214-217).
-**38 cambios en 14 artículos publicados, pendientes de tu OK.** Solo cambia la redacción: cifras, enlaces, títulos, estado y fechas no se tocan.
+**35 cambios en 13 artículos publicados, aplicados el 6-10-2026** (copias en `rediseno/copia-seguridad/2026-10-06-repeticiones/`). Los 3 propuestos después están en `pendientes.md`. Solo cambia la redacción: cifras, enlaces, títulos, estado y fechas no se tocan.
 Se aplican con `repeticiones/revisar.py --aplicar`, que hace copia de cada entrada en `rediseno/copia-seguridad/`, comprueba que nadie la ha cambiado y valida los bloques.
 
 Se mantienen iguales a propósito:
@@ -9,7 +9,6 @@ Se mantienen iguales a propósito:
 - El aviso de precio del aire acondicionado (16), que queda como el único con la fórmula original.
 - Los rótulos de estructura («En este artículo:», «Preguntas frecuentes», «Fuentes oficiales consultadas el…») y los títulos de apartado con la misma forma («Trucos para que el termo gaste menos», «Cuánto consume X según su potencia»).
 - Las frases cortas de enlace («lo explicamos en qué potencia contratar») y la lista de aparatos del piso de ejemplo, que es el mismo dato en dos artículos.
-
 
 ## 17 · Cuánto consume una freidora de aire frente a un horno eléctrico
 
@@ -175,10 +174,6 @@ Se mantienen iguales a propósito:
   - Antes: Con la tarifa 2.0TD con discriminación horaria, el precio del kWh depende de la franja. Así sale un deshumidificador de 250 W, 8 horas al día:
   - Después: Como el deshumidificador puede funcionar a cualquier hora, con una tarifa por tramos compensa elegir cuándo. Así, en cada franja, salen estos costes para uno de 250 W que funciona 8 horas al día:
 
-- **Respuesta con la misma plantilla que en la manta eléctrica**
-  - Antes: Uno de 250 W, 24 horas, unos 4,8 kWh:
-  - Después: Si un aparato de 250 W no para en todo el día, gasta unos 4,8 kWh:
-
 
 ## 137 · Cuánto cuesta cargar un coche eléctrico en casa: por 100 km, al mes y al año
 
@@ -186,20 +181,9 @@ Se mantienen iguales a propósito:
   - Antes: **Si el enchufe o la clavija se calientan**, deja de cargar y llama a un instalador autorizado.
   - Después: **Si notas caliente la toma o la clavija**, para la carga y pide a un instalador autorizado que la revise.
 
-- **Horario del valle escrito igual que en tramos horarios**
-  - Antes: El valle va de 0 a 8 h de lunes a viernes y todo el día los sábados, domingos y festivos nacionales.
-  - Después: Las horas valle son las de 0 a 8 entre semana y los sábados, domingos y festivos nacionales enteros.
-
 
 ## 93 · Qué potencia contratar: cómo calcularla y cuánto ahorras
 
 - **Final del cierre idéntico al de cómo leer la factura**
   - Antes: pon tus aparatos, tu potencia contratada y los precios de tu factura.
   - Después: mete los aparatos que sueles encender a la vez y comprueba si tu potencia contratada se queda corta o te sobra.
-
-
-## 94 · PVPC o mercado libre: cuál te conviene según cuándo consumes
-
-- **Respuesta casi igual que en bono social eléctrico**
-  - Antes: El bono social solo se aplica a contratos con una comercializadora de referencia. Si estás en mercado libre y cumples los requisitos, tienes que pasarte al PVPC para pedirlo.
-  - Después: Para tener bono social hay que estar en el PVPC de una comercializadora de referencia, así que, si estás en el mercado libre y cumples los requisitos, tendrás que cambiarte para pedirlo.

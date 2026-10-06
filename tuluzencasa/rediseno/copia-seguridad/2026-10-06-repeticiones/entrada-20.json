@@ -1,0 +1,177 @@
+{
+ "id": 20,
+ "date": "2026-10-02T19:02:10",
+ "date_gmt": "2026-10-02T17:02:10",
+ "guid": {
+  "rendered": "https://tuluzencasa.com/?p=20",
+  "raw": "https://tuluzencasa.com/?p=20"
+ },
+ "modified": "2026-10-05T13:29:24",
+ "modified_gmt": "2026-10-05T11:29:24",
+ "password": "",
+ "slug": "cuanto-consume-una-nevera",
+ "status": "publish",
+ "type": "post",
+ "link": "https://tuluzencasa.com/cuanto-consume-una-nevera/",
+ "title": {
+  "raw": "Cuánto consume una nevera al mes según su etiqueta energética",
+  "rendered": "Cuánto consume una nevera al mes según su etiqueta energética"
+ },
+ "content": {
+  "raw": "<!-- wp:paragraph -->\n<p>¿Cuánto consume una nevera? Una nevera doméstica normal consume unos 0,72 kWh al día, lo que son 0,12 € diarios, 3,61 € al mes y 43,34 € al año. Si quieres el dato exacto de la tuya, mira el consumo anual en kWh que aparece en su etiqueta energética y multiplícalo por el precio del kWh.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Todos los cálculos usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo: el resultado varía en la misma proporción.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En este artículo:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><a href=\"#coste\">Cuánto consume una nevera por hora, día, mes y año</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#etiqueta\">Cómo leer el consumo en la etiqueta energética</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#consumo-real\">Por qué tu nevera puede gastar más que la etiqueta</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#cambiar\">¿Compensa cambiar una nevera vieja?</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#trucos\">Trucos para que la nevera gaste menos</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#factura\">La nevera en tu factura</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"coste\"} -->\n<h2 id=\"coste\" class=\"wp-block-heading\">Cuánto consume una nevera por hora, día, mes y año</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La nevera es uno de los pocos aparatos que está enchufado las 24 horas del día, los 365 días del año. Pero no funciona todo el tiempo a plena potencia: el compresor arranca cuando la temperatura interior sube y se para cuando vuelve a bajar. Para una nevera tipo hemos tomado 150 W de potencia nominal y un factor de uso real de 0,2.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Caso</th><th>kWh por hora</th><th>Por hora</th><th>Por día</th><th>Por mes</th><th>Por año</th></tr></thead><tbody><tr><td>Nevera tipo (150 W × 0,2)</td><td>0,030</td><td>&lt; 0,01 €</td><td>0,12 €</td><td>3,61 €</td><td>43,34 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Cálculos con precios de octubre de 2026</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Por hora es menos de un céntimo, y por eso cuesta hacerse una idea de lo que supone. Pero como no se apaga nunca, al final del año la cifra es comparable a la de aparatos mucho más potentes que solo usas un rato. Esta estimación genérica sirve para hacerte una idea; para saber lo que gasta la tuya, lo mejor es la etiqueta.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"etiqueta\"} -->\n<h2 id=\"etiqueta\" class=\"wp-block-heading\">Cómo leer el consumo en la etiqueta energética</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Desde marzo de 2021 las neveras se venden con la nueva <a href=\"https://www.idae.es/ahorra-energia/etiquetado-energetico-ecodiseno-y-ecoetiqueta\" target=\"_blank\" rel=\"noopener\">etiqueta energética europea</a>, con clases de la A a la G (Reglamento Delegado (UE) 2019/2016, aplicable desde el 1 de marzo de 2021). Además de la letra, la etiqueta indica el <strong>consumo de energía anual en kWh</strong>. Ese número es el que te interesa para calcular el coste.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>La letra no te dice cuánto gasta tu nevera en euros. Sirve para comparar la eficiencia entre modelos parecidos, pero una nevera grande de clase C puede gastar más kWh al año que una pequeña de clase E. Por eso conviene mirar siempre el número en kWh.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Con ese dato, el cálculo es directo:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Consumo en la etiqueta</th><th>kWh al día</th><th>Por día</th><th>Por mes</th><th>Por año</th></tr></thead><tbody><tr><td>100 kWh/año</td><td>0,27</td><td>0,05 €</td><td>1,38 €</td><td>16,50 €</td></tr><tr><td>150 kWh/año</td><td>0,41</td><td>0,07 €</td><td>2,06 €</td><td>24,75 €</td></tr><tr><td>200 kWh/año</td><td>0,55</td><td>0,09 €</td><td>2,75 €</td><td>33,00 €</td></tr><tr><td>250 kWh/año</td><td>0,68</td><td>0,11 €</td><td>3,44 €</td><td>41,25 €</td></tr><tr><td>300 kWh/año</td><td>0,82</td><td>0,14 €</td><td>4,13 €</td><td>49,50 €</td></tr><tr><td>400 kWh/año</td><td>1,10</td><td>0,18 €</td><td>5,50 €</td><td>66,00 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Si ya no tienes la etiqueta, busca el modelo exacto (viene en una pegatina dentro de la nevera, normalmente en un lateral del compartimento de abajo) y consulta su ficha de producto. Las neveras vendidas con la etiqueta nueva aparecen en la base de datos pública europea EPREL, donde puedes ver la ficha completa. Si tu nevera es más antigua, puede que no esté y tendrás que buscar la ficha en la web del fabricante.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"consumo-real\"} -->\n<h2 id=\"consumo-real\" class=\"wp-block-heading\">Por qué tu nevera puede gastar más que la etiqueta</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>El consumo de la etiqueta se mide en laboratorio, con unas condiciones fijas. En tu cocina, varias cosas pueden hacer que gaste más:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>La temperatura de la cocina</strong>. En verano, o si la nevera está junto al horno o al lado de una ventana con sol, el compresor trabaja más.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>La ventilación de la parte trasera</strong>. La nevera saca el calor por detrás; si está pegada a la pared o encajada en un mueble sin hueco, lo expulsa peor.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>La junta de la puerta</strong>. Si está gastada o no cierra bien, entra aire caliente sin parar.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>La escarcha</strong>. Una capa gruesa de hielo en el congelador aísla y obliga al aparato a trabajar más.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>La edad</strong>. Con los años, el aislamiento y el compresor pierden rendimiento.</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Si quieres comprobar el consumo real, un medidor de enchufe te dice cuántos kWh ha gastado en unos días. Déjalo al menos una semana para que la cifra sea representativa y multiplica para sacar el año.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"cambiar\"} -->\n<h2 id=\"cambiar\" class=\"wp-block-heading\">¿Compensa cambiar una nevera vieja?</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Una nevera antigua puede gastar bastante más que una nueva del mismo tamaño. La cuenta depende de los kWh de la vieja (medidos o de su ficha) y de los de la nueva que estés mirando:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Nevera actual</th><th>Nevera nueva</th><th>Ahorro al año</th><th>Ahorro en 10 años</th></tr></thead><tbody><tr><td>450 kWh/año</td><td>250 kWh/año</td><td>33,00 €</td><td>330,00 €</td></tr><tr><td>350 kWh/año</td><td>200 kWh/año</td><td>24,75 €</td><td>247,50 €</td></tr><tr><td>250 kWh/año</td><td>180 kWh/año</td><td>11,55 €</td><td>115,50 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Pasar de 450 a 250 kWh al año supone ahorrar 33,00 € al año, unos 330,00 € en 10 años. Si la diferencia es pequeña, el ahorro no paga la nevera nueva, y lo razonable es cambiarla cuando se estropee. Si la vieja funciona mal (hace escarcha a menudo, no enfría bien o el compresor no para), el ahorro sube y el cambio se justifica antes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"trucos\"} -->\n<h2 id=\"trucos\" class=\"wp-block-heading\">Trucos para que la nevera gaste menos</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Ajusta la temperatura</strong>: unos 4 o 5 °C en la nevera y -18 °C en el congelador son suficientes. Ponerlo más frío solo sube el consumo.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Déjale espacio detrás</strong>. Separa la nevera unos centímetros de la pared y no tapes las rejillas de ventilación.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>No metas comida caliente</strong>. Deja que se enfríe antes; si no, el compresor tiene que sacar ese calor extra.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Descongela los alimentos dentro de la nevera</strong>. Lo que está congelado ayuda a enfriar el resto sin gastar.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Abre la puerta lo justo</strong>. Piensa lo que vas a sacar antes de abrir y no la dejes abierta mientras cocinas.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Revisa la junta</strong>: cierra la puerta sobre una hoja de papel; si la sacas sin esfuerzo, la junta no ajusta.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Descongela el congelador</strong> si tiene escarcha, en los modelos que no son No Frost.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Aléjala de fuentes de calor</strong> como el horno, el lavavajillas o la ventana por la que entra el sol.</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"factura\"} -->\n<h2 id=\"factura\" class=\"wp-block-heading\">La nevera en tu factura</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Con unos 3,61 € al mes, la nevera parece poca cosa, pero es un gasto fijo que pagas todos los meses del año. En la cocina es lo contrario de la freidora o el horno: consumo bajo pero continuo. Si quieres comparar, mira <a href=\"https://tuluzencasa.com/cuanto-consume-freidora-de-aire/\">cuánto gasta una freidora de aire frente al horno</a>, que se usa a ratos.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>El otro consumo continuo de la casa es el agua caliente. Si tienes <a href=\"https://tuluzencasa.com/cuanto-consume-termo-electrico/\">termo eléctrico, mira cuánto consume y cómo programarlo</a>: suele gastar varias veces más que la nevera. Y si quieres sumar todos tus aparatos, puedes hacerlo con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"preguntas-frecuentes\"} -->\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Cuánto consume una nevera combi al mes?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Depende del modelo. Si su etiqueta dice 250 kWh al año, son 3,44 € al mes; si dice 300 kWh, 4,13 €. Una estimación genérica sin la etiqueta sale a unos 3,61 € al mes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Cuánto consume un congelador independiente?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>El cálculo es el mismo: toma los kWh al año de su etiqueta y usa la tabla de arriba. Con 200 kWh al año, por ejemplo, son 2,75 € al mes y 33,00 € al año.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Gasta más una nevera vacía o llena?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Una nevera vacía pierde más frío cada vez que abres la puerta, porque el aire se renueva enseguida. Una nevera razonablemente llena mantiene mejor la temperatura, pero sin tapar la circulación del aire por dentro.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Se puede desenchufar la nevera por la noche para ahorrar?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>No. Lo que ahorras de noche lo tiene que recuperar después para volver a enfriar, y pones en riesgo la conservación de los alimentos. Solo tiene sentido desenchufarla si te vas mucho tiempo y la dejas vacía, limpia y con la puerta abierta.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: pon los kWh de tu etiqueta o la potencia de tu nevera y el precio de tu factura.</p>\n<!-- /wp:paragraph -->\n",
+  "rendered": "\n<p class=\"wp-block-paragraph\">¿Cuánto consume una nevera? Una nevera doméstica normal consume unos 0,72 kWh al día, lo que son 0,12 € diarios, 3,61 € al mes y 43,34 € al año. Si quieres el dato exacto de la tuya, mira el consumo anual en kWh que aparece en su etiqueta energética y multiplícalo por el precio del kWh.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Todos los cálculos usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si tu factura tiene otro precio, cámbialo: el resultado varía en la misma proporción.</p>\n\n\n\n<p class=\"wp-block-paragraph\">En este artículo:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"#coste\">Cuánto consume una nevera por hora, día, mes y año</a></li>\n\n\n\n<li><a href=\"#etiqueta\">Cómo leer el consumo en la etiqueta energética</a></li>\n\n\n\n<li><a href=\"#consumo-real\">Por qué tu nevera puede gastar más que la etiqueta</a></li>\n\n\n\n<li><a href=\"#cambiar\">¿Compensa cambiar una nevera vieja?</a></li>\n\n\n\n<li><a href=\"#trucos\">Trucos para que la nevera gaste menos</a></li>\n\n\n\n<li><a href=\"#factura\">La nevera en tu factura</a></li>\n\n\n\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n</ul>\n\n\n\n<h2 id=\"coste\" class=\"wp-block-heading\">Cuánto consume una nevera por hora, día, mes y año</h2>\n\n\n\n<p class=\"wp-block-paragraph\">La nevera es uno de los pocos aparatos que está enchufado las 24 horas del día, los 365 días del año. Pero no funciona todo el tiempo a plena potencia: el compresor arranca cuando la temperatura interior sube y se para cuando vuelve a bajar. Para una nevera tipo hemos tomado 150 W de potencia nominal y un factor de uso real de 0,2.</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Caso</th><th>kWh por hora</th><th>Por hora</th><th>Por día</th><th>Por mes</th><th>Por año</th></tr></thead><tbody><tr><td>Nevera tipo (150 W × 0,2)</td><td>0,030</td><td>&lt; 0,01 €</td><td>0,12 €</td><td>3,61 €</td><td>43,34 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Cálculos con precios de octubre de 2026</p>\n\n\n\n<p class=\"wp-block-paragraph\">Por hora es menos de un céntimo, y por eso cuesta hacerse una idea de lo que supone. Pero como no se apaga nunca, al final del año la cifra es comparable a la de aparatos mucho más potentes que solo usas un rato. Esta estimación genérica sirve para hacerte una idea; para saber lo que gasta la tuya, lo mejor es la etiqueta.</p>\n\n\n\n<h2 id=\"etiqueta\" class=\"wp-block-heading\">Cómo leer el consumo en la etiqueta energética</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Desde marzo de 2021 las neveras se venden con la nueva <a href=\"https://www.idae.es/ahorra-energia/etiquetado-energetico-ecodiseno-y-ecoetiqueta\" target=\"_blank\" rel=\"noopener\">etiqueta energética europea</a>, con clases de la A a la G (Reglamento Delegado (UE) 2019/2016, aplicable desde el 1 de marzo de 2021). Además de la letra, la etiqueta indica el <strong>consumo de energía anual en kWh</strong>. Ese número es el que te interesa para calcular el coste.</p>\n\n\n\n<p class=\"wp-block-paragraph\">La letra no te dice cuánto gasta tu nevera en euros. Sirve para comparar la eficiencia entre modelos parecidos, pero una nevera grande de clase C puede gastar más kWh al año que una pequeña de clase E. Por eso conviene mirar siempre el número en kWh.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Con ese dato, el cálculo es directo:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Consumo en la etiqueta</th><th>kWh al día</th><th>Por día</th><th>Por mes</th><th>Por año</th></tr></thead><tbody><tr><td>100 kWh/año</td><td>0,27</td><td>0,05 €</td><td>1,38 €</td><td>16,50 €</td></tr><tr><td>150 kWh/año</td><td>0,41</td><td>0,07 €</td><td>2,06 €</td><td>24,75 €</td></tr><tr><td>200 kWh/año</td><td>0,55</td><td>0,09 €</td><td>2,75 €</td><td>33,00 €</td></tr><tr><td>250 kWh/año</td><td>0,68</td><td>0,11 €</td><td>3,44 €</td><td>41,25 €</td></tr><tr><td>300 kWh/año</td><td>0,82</td><td>0,14 €</td><td>4,13 €</td><td>49,50 €</td></tr><tr><td>400 kWh/año</td><td>1,10</td><td>0,18 €</td><td>5,50 €</td><td>66,00 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Si ya no tienes la etiqueta, busca el modelo exacto (viene en una pegatina dentro de la nevera, normalmente en un lateral del compartimento de abajo) y consulta su ficha de producto. Las neveras vendidas con la etiqueta nueva aparecen en la base de datos pública europea EPREL, donde puedes ver la ficha completa. Si tu nevera es más antigua, puede que no esté y tendrás que buscar la ficha en la web del fabricante.</p>\n\n\n\n<h2 id=\"consumo-real\" class=\"wp-block-heading\">Por qué tu nevera puede gastar más que la etiqueta</h2>\n\n\n\n<p class=\"wp-block-paragraph\">El consumo de la etiqueta se mide en laboratorio, con unas condiciones fijas. En tu cocina, varias cosas pueden hacer que gaste más:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>La temperatura de la cocina</strong>. En verano, o si la nevera está junto al horno o al lado de una ventana con sol, el compresor trabaja más.</li>\n\n\n<li><strong>La ventilación de la parte trasera</strong>. La nevera saca el calor por detrás; si está pegada a la pared o encajada en un mueble sin hueco, lo expulsa peor.</li>\n\n\n<li><strong>La junta de la puerta</strong>. Si está gastada o no cierra bien, entra aire caliente sin parar.</li>\n\n\n<li><strong>La escarcha</strong>. Una capa gruesa de hielo en el congelador aísla y obliga al aparato a trabajar más.</li>\n\n\n<li><strong>La edad</strong>. Con los años, el aislamiento y el compresor pierden rendimiento.</li>\n\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Si quieres comprobar el consumo real, un medidor de enchufe te dice cuántos kWh ha gastado en unos días. Déjalo al menos una semana para que la cifra sea representativa y multiplica para sacar el año.</p>\n\n\n\n<h2 id=\"cambiar\" class=\"wp-block-heading\">¿Compensa cambiar una nevera vieja?</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Una nevera antigua puede gastar bastante más que una nueva del mismo tamaño. La cuenta depende de los kWh de la vieja (medidos o de su ficha) y de los de la nueva que estés mirando:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Nevera actual</th><th>Nevera nueva</th><th>Ahorro al año</th><th>Ahorro en 10 años</th></tr></thead><tbody><tr><td>450 kWh/año</td><td>250 kWh/año</td><td>33,00 €</td><td>330,00 €</td></tr><tr><td>350 kWh/año</td><td>200 kWh/año</td><td>24,75 €</td><td>247,50 €</td></tr><tr><td>250 kWh/año</td><td>180 kWh/año</td><td>11,55 €</td><td>115,50 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Pasar de 450 a 250 kWh al año supone ahorrar 33,00 € al año, unos 330,00 € en 10 años. Si la diferencia es pequeña, el ahorro no paga la nevera nueva, y lo razonable es cambiarla cuando se estropee. Si la vieja funciona mal (hace escarcha a menudo, no enfría bien o el compresor no para), el ahorro sube y el cambio se justifica antes.</p>\n\n\n\n<h2 id=\"trucos\" class=\"wp-block-heading\">Trucos para que la nevera gaste menos</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Ajusta la temperatura</strong>: unos 4 o 5 °C en la nevera y -18 °C en el congelador son suficientes. Ponerlo más frío solo sube el consumo.</li>\n\n\n<li><strong>Déjale espacio detrás</strong>. Separa la nevera unos centímetros de la pared y no tapes las rejillas de ventilación.</li>\n\n\n<li><strong>No metas comida caliente</strong>. Deja que se enfríe antes; si no, el compresor tiene que sacar ese calor extra.</li>\n\n\n<li><strong>Descongela los alimentos dentro de la nevera</strong>. Lo que está congelado ayuda a enfriar el resto sin gastar.</li>\n\n\n<li><strong>Abre la puerta lo justo</strong>. Piensa lo que vas a sacar antes de abrir y no la dejes abierta mientras cocinas.</li>\n\n\n<li><strong>Revisa la junta</strong>: cierra la puerta sobre una hoja de papel; si la sacas sin esfuerzo, la junta no ajusta.</li>\n\n\n<li><strong>Descongela el congelador</strong> si tiene escarcha, en los modelos que no son No Frost.</li>\n\n\n<li><strong>Aléjala de fuentes de calor</strong> como el horno, el lavavajillas o la ventana por la que entra el sol.</li>\n\n</ul>\n\n\n\n<h2 id=\"factura\" class=\"wp-block-heading\">La nevera en tu factura</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Con unos 3,61 € al mes, la nevera parece poca cosa, pero es un gasto fijo que pagas todos los meses del año. En la cocina es lo contrario de la freidora o el horno: consumo bajo pero continuo. Si quieres comparar, mira <a href=\"https://tuluzencasa.com/cuanto-consume-freidora-de-aire/\">cuánto gasta una freidora de aire frente al horno</a>, que se usa a ratos.</p>\n\n\n\n<p class=\"wp-block-paragraph\">El otro consumo continuo de la casa es el agua caliente. Si tienes <a href=\"https://tuluzencasa.com/cuanto-consume-termo-electrico/\">termo eléctrico, mira cuánto consume y cómo programarlo</a>: suele gastar varias veces más que la nevera. Y si quieres sumar todos tus aparatos, puedes hacerlo con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a>.</p>\n\n\n\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n\n\n\n<h3 class=\"wp-block-heading\">¿Cuánto consume una nevera combi al mes?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Depende del modelo. Si su etiqueta dice 250 kWh al año, son 3,44 € al mes; si dice 300 kWh, 4,13 €. Una estimación genérica sin la etiqueta sale a unos 3,61 € al mes.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Cuánto consume un congelador independiente?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">El cálculo es el mismo: toma los kWh al año de su etiqueta y usa la tabla de arriba. Con 200 kWh al año, por ejemplo, son 2,75 € al mes y 33,00 € al año.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Gasta más una nevera vacía o llena?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Una nevera vacía pierde más frío cada vez que abres la puerta, porque el aire se renueva enseguida. Una nevera razonablemente llena mantiene mejor la temperatura, pero sin tapar la circulación del aire por dentro.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Se puede desenchufar la nevera por la noche para ahorrar?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">No. Lo que ahorras de noche lo tiene que recuperar después para volver a enfriar, y pones en riesgo la conservación de los alimentos. Solo tiene sentido desenchufarla si te vas mucho tiempo y la dejas vacía, limpia y con la puerta abierta.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: pon los kWh de tu etiqueta o la potencia de tu nevera y el precio de tu factura.</p>\n\n",
+  "protected": false,
+  "block_version": 1
+ },
+ "excerpt": {
+  "raw": "Cuánto consume una nevera: unos 0,72 kWh al día, 0,12 € diarios, 3,61 € al mes y 43,34 € al año a 0,165 €/kWh. La etiqueta da la cifra exacta.",
+  "rendered": "<p>Cuánto consume una nevera: unos 0,72 kWh al día, 0,12 € diarios, 3,61 € al mes y 43,34 € al año a 0,165 €/kWh. La etiqueta da la cifra exacta.</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 64,
+ "comment_status": "closed",
+ "ping_status": "open",
+ "sticky": false,
+ "template": "",
+ "format": "standard",
+ "meta": {
+  "footnotes": ""
+ },
+ "categories": [
+  3
+ ],
+ "tags": [],
+ "permalink_template": "https://tuluzencasa.com/%postname%/",
+ "generated_slug": "cuanto-consume-una-nevera-al-mes-segun-su-etiqueta-energetica",
+ "class_list": [
+  "post-20",
+  "post",
+  "type-post",
+  "status-publish",
+  "format-standard",
+  "has-post-thumbnail",
+  "hentry",
+  "category-consumo"
+ ],
+ "_links": {
+  "self": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/types/post"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/comments?post=20"
+   }
+  ],
+  "version-history": [
+   {
+    "count": 5,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20/revisions"
+   }
+  ],
+  "predecessor-version": [
+   {
+    "id": 166,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20/revisions/166"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media/64"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media?parent=20"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "category",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/categories?post=20"
+   },
+   {
+    "taxonomy": "post_tag",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/tags?post=20"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20"
+   }
+  ],
+  "wp:action-sticky": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20"
+   }
+  ],
+  "wp:action-create-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20"
+   }
+  ],
+  "wp:action-assign-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20"
+   }
+  ],
+  "wp:action-create-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20"
+   }
+  ],
+  "wp:action-assign-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/20"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

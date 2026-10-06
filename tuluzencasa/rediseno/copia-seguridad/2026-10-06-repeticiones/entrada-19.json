@@ -1,0 +1,177 @@
+{
+ "id": 19,
+ "date": "2026-10-02T19:02:09",
+ "date_gmt": "2026-10-02T17:02:09",
+ "guid": {
+  "rendered": "https://tuluzencasa.com/?p=19",
+  "raw": "https://tuluzencasa.com/?p=19"
+ },
+ "modified": "2026-10-05T13:29:19",
+ "modified_gmt": "2026-10-05T11:29:19",
+ "password": "",
+ "slug": "cuanto-consume-termo-electrico",
+ "status": "publish",
+ "type": "post",
+ "link": "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+ "title": {
+  "raw": "Cuánto consume un termo eléctrico y cómo programarlo para ahorrar",
+  "rendered": "Cuánto consume un termo eléctrico y cómo programarlo para ahorrar"
+ },
+ "content": {
+  "raw": "<!-- wp:paragraph -->\n<p>¿Cuánto consume un termo eléctrico? Uno de 1.500 W consume de media unos 1,05 kWh por cada hora que tiene la resistencia encendida, lo que con 3 horas diarias son 0,52 € al día y 15,80 € al mes. Al año se va a 189,60 €, y si tienes tarifa por horas y lo programas para calentar de madrugada, el gasto mensual puede bajar a 9,74 €.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Los cálculos usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si en tu factura pagas otra cantidad, cambia ese precio: el resultado sube o baja en la misma proporción.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En este artículo:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><a href=\"#coste\">Cuánto consume un termo eléctrico por hora, día y mes</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#deposito\">Lo que cuesta calentar el depósito entero</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#programar\">Programar el termo: cuánto ahorras de verdad</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#temperatura\">A qué temperatura poner el termo</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#trucos\">Trucos para que el termo gaste menos</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#comparativa\">El termo frente al resto de la casa</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"coste\"} -->\n<h2 id=\"coste\" class=\"wp-block-heading\">Cuánto consume un termo eléctrico por hora, día y mes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Un termo no está calentando todo el día. La resistencia se enciende cuando el agua baja de la temperatura del termostato (porque has gastado agua caliente o porque el depósito se ha ido enfriando) y se apaga cuando llega de nuevo. Para una casa normal hemos supuesto 3 horas de resistencia al día y un factor de uso real de 0,7.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Potencia</th><th>kWh por hora (real)</th><th>Por hora</th><th>Por día (3 h)</th><th>Por mes</th><th>Por año</th></tr></thead><tbody><tr><td>1.200 W</td><td>0,84</td><td>0,14 €</td><td>0,42 €</td><td>12,64 €</td><td>151,68 €</td></tr><tr><td>1.500 W</td><td>1,05</td><td>0,17 €</td><td>0,52 €</td><td>15,80 €</td><td>189,60 €</td></tr><tr><td>2.000 W</td><td>1,40</td><td>0,23 €</td><td>0,69 €</td><td>21,07 €</td><td>252,81 €</td></tr><tr><td>2.500 W</td><td>1,75</td><td>0,29 €</td><td>0,87 €</td><td>26,33 €</td><td>316,01 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Cálculos con precios de octubre de 2026</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Las horas de resistencia dependen sobre todo de cuánta agua caliente gastáis. Una persona que vive sola y se ducha rápido puede quedarse en la mitad; una familia de cuatro con duchas largas puede pasar de esas 3 horas. La potencia viene en la placa de características del termo, normalmente en un lateral o en la parte de abajo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"deposito\"} -->\n<h2 id=\"deposito\" class=\"wp-block-heading\">Lo que cuesta calentar el depósito entero</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Otra forma de verlo es calcular la energía que hace falta para calentar el agua. Subir un litro de agua un grado necesita 1,163 Wh. Si el agua entra de la red a unos 15 °C y la calientas a 60 °C, estos son los números para los tamaños más comunes:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Depósito</th><th>kWh (de 15 a 60 °C)</th><th>Precio fijo</th><th>En valle</th><th>En punta</th></tr></thead><tbody><tr><td>50 L</td><td>2,62</td><td>0,43 €</td><td>0,27 €</td><td>0,63 €</td></tr><tr><td>80 L</td><td>4,19</td><td>0,69 €</td><td>0,43 €</td><td>1,01 €</td></tr><tr><td>100 L</td><td>5,23</td><td>0,86 €</td><td>0,53 €</td><td>1,26 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Un termo de 80 litros necesita unos 4,19 kWh para calentarse entero desde frío: 0,69 € a precio fijo, 0,43 € en valle y 1,01 € en punta. En el día a día no lo vacías entero, pero sí repones buena parte del agua con cada ducha. A esto se suman las pérdidas del depósito, que se va enfriando poco a poco aunque nadie abra un grifo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"programar\"} -->\n<h2 id=\"programar\" class=\"wp-block-heading\">Programar el termo: cuánto ahorras de verdad</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Si tienes la <a href=\"https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1066\" target=\"_blank\" rel=\"noopener\">tarifa 2.0TD con discriminación horaria</a>, el termo es probablemente el aparato con el que más fácil es ahorrar: no necesitas el agua caliente justo en el momento en que se calienta, sino horas después. Así sale el mismo termo de 1.500 W con 3 horas diarias según cuándo caliente:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Termo de 1.500 W, 3 h/día</th><th>Por día</th><th>Por mes</th><th>Por año</th></tr></thead><tbody><tr><td>Sin programar, repartido en punta</td><td>0,76 €</td><td>23,14 €</td><td>277,72 €</td></tr><tr><td>Sin programar, repartido en llano</td><td>0,48 €</td><td>14,62 €</td><td>175,40 €</td></tr><tr><td>Programado en valle (0–8 h)</td><td>0,32 €</td><td>9,74 €</td><td>116,93 €</td></tr><tr><td>Precio fijo (cualquier hora)</td><td>0,52 €</td><td>15,80 €</td><td>189,60 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Las filas de punta y llano son los dos extremos de un termo sin programar: en la práctica, calentará un poco en cada tramo según a qué hora os duchéis. Programándolo para que solo caliente en valle (de 0 a 8 h y el fin de semana entero), pagas 9,74 € al mes en lugar de hasta 23,14 €. Frente a un termo que calienta sobre todo en llano, el ahorro es de unos 4,87 € al mes; frente a uno que lo hace en punta, de 13,40 €. Los horarios de cada tramo están en <a href=\"https://tuluzencasa.com/tramos-horarios-luz/\">tramos horarios de la luz</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Si tienes precio fijo, programarlo no cambia el precio del kWh, pero sí puede reducir algo las pérdidas: el agua pasa menos horas guardada a temperatura alta.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">Formas de programarlo</h3>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Con el programador del propio termo</strong>. Muchos termos digitales permiten elegir las horas de funcionamiento o tienen un modo de ahorro. Mira el manual.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Con un temporizador o enchufe programable</strong>, si el termo va enchufado a una toma de corriente. Tiene que aguantar la potencia del termo: busca uno que indique 16 A y 3.680 W, y evita los temporizadores baratos de poca potencia, que se pueden calentar.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Con un programador horario en el cuadro eléctrico</strong>, si el termo está conectado directamente a la instalación sin enchufe. Esto <strong>no es un trabajo para hacer tú</strong>: tiene que instalarlo un instalador autorizado, porque implica abrir el cuadro y trabajar en la instalación fija.</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Antes de programarlo solo en valle, comprueba que el depósito os da para todo el día. Si con 8 horas de calentamiento nocturno os quedáis sin agua caliente por la tarde, añade una franja corta en llano (de 14 a 18 h, por ejemplo) en lugar de dejarlo sin programar.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"temperatura\"} -->\n<h2 id=\"temperatura\" class=\"wp-block-heading\">A qué temperatura poner el termo</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Cuanto más alta es la temperatura del depósito, más calor pierde y más gasta. Pero tampoco conviene bajarla demasiado: el agua tibia acumulada mucho tiempo favorece la legionela. Respeta la temperatura mínima que indique el fabricante de tu termo y, si tiene programa antilegionela, úsalo. Muchos termos tienen un modo o programa específico para esto.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Lo que sí puedes evitar es tener el termostato al máximo y luego mezclar con mucha agua fría en la ducha. Si siempre abres mucho el grifo del agua fría, prueba a bajar un poco el termostato sin pasar de ese mínimo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"trucos\"} -->\n<h2 id=\"trucos\" class=\"wp-block-heading\">Trucos para que el termo gaste menos</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Programa las horas de calentamiento</strong> en valle si tienes tarifa por horas. Es el ahorro más grande con diferencia.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Duchas más cortas</strong>. Cada minuto menos es agua caliente que el termo no tiene que reponer.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Instala un reductor de caudal</strong> o una alcachofa de bajo consumo: con menos litros por minuto, el depósito dura más y la resistencia trabaja menos.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Apágalo si te vas varios días</strong>. No tiene sentido mantener 80 litros calientes con la casa vacía. Al volver, déjalo calentar a su temperatura completa antes de usarlo.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Aísla las tuberías</strong> de agua caliente que pasan por zonas frías, como un altillo o un garaje.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><strong>Revisa el ánodo y la cal</strong>. En zonas de agua dura, la cal que se acumula sobre la resistencia hace que caliente peor. El mantenimiento del termo (vaciado, ánodo, resistencia) debe hacerlo un técnico.</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"comparativa\"} -->\n<h2 id=\"comparativa\" class=\"wp-block-heading\">El termo frente al resto de la casa</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Con 15,80 € al mes durante los doce meses, un termo de 1.500 W acaba gastando al año (189,60 €) más que un aire acondicionado de 1.000 W en todo el verano (72,23 €). Si quieres comparar, mira <a href=\"https://tuluzencasa.com/cuanto-consume-aire-acondicionado/\">cuánto consume un aire acondicionado por hora</a> y <a href=\"https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/\">cuánto cuesta un radiador de aceite al mes</a>: en invierno, termo y radiador juntos pueden hacer saltar el limitador si coinciden y tienes poca potencia contratada, otra razón para que el termo caliente de madrugada.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En la cocina pasa algo parecido: el termo gasta más en un día que la <a href=\"https://tuluzencasa.com/cuanto-consume-freidora-de-aire/\">freidora de aire en varias tandas</a>, y más al mes que la <a href=\"https://tuluzencasa.com/cuanto-consume-una-nevera/\">nevera, que está encendida las 24 horas</a>. Si quieres ver cómo se reparte todo tu consumo, suma tus aparatos en <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"preguntas-frecuentes\"} -->\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Cuánto consume un termo eléctrico de 80 litros al día?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Depende de cuánta agua caliente gastéis. Con una resistencia de 1.500 W funcionando 3 horas al día, unos 0,52 € diarios. Calentar el depósito entero desde frío cuesta 0,69 € a precio fijo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Es mejor dejar el termo siempre encendido o apagarlo?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Si tienes tarifa por horas, lo mejor es programarlo para que caliente en valle y quede apagado el resto del día. Con precio fijo, apagarlo durante el día reduce algo las pérdidas del depósito. Si te vas varios días, apágalo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Cuánto ahorro programando el termo en horario valle?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Con un termo de 1.500 W y 3 horas diarias, pasas a pagar 9,74 € al mes. Ahorras 4,87 € al mes frente a calentar en llano y 13,40 € frente a calentar en punta.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Qué potencia tiene mi termo?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La indica la placa de características, en W. Los termos domésticos suelen tener resistencias de entre 1.200 y 2.500 W. Más potencia calienta antes, pero gasta lo mismo por litro calentado.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Por qué salta el diferencial cuando se enciende el termo?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Suele indicar una fuga a tierra en la resistencia o en la conexión del termo. No lo fuerces subiendo el diferencial una y otra vez: desconéctalo y llama a un técnico o a un instalador autorizado.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: pon la potencia de tu termo, las horas de funcionamiento y el precio de tu factura.</p>\n<!-- /wp:paragraph -->\n",
+  "rendered": "\n<p class=\"wp-block-paragraph\">¿Cuánto consume un termo eléctrico? Uno de 1.500 W consume de media unos 1,05 kWh por cada hora que tiene la resistencia encendida, lo que con 3 horas diarias son 0,52 € al día y 15,80 € al mes. Al año se va a 189,60 €, y si tienes tarifa por horas y lo programas para calentar de madrugada, el gasto mensual puede bajar a 9,74 €.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Los cálculos usan un precio de <strong>0,165 €/kWh con impuestos incluidos</strong> (0,13 €/kWh de energía más el impuesto eléctrico y el IVA). Si en tu factura pagas otra cantidad, cambia ese precio: el resultado sube o baja en la misma proporción.</p>\n\n\n\n<p class=\"wp-block-paragraph\">En este artículo:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"#coste\">Cuánto consume un termo eléctrico por hora, día y mes</a></li>\n\n\n\n<li><a href=\"#deposito\">Lo que cuesta calentar el depósito entero</a></li>\n\n\n\n<li><a href=\"#programar\">Programar el termo: cuánto ahorras de verdad</a></li>\n\n\n\n<li><a href=\"#temperatura\">A qué temperatura poner el termo</a></li>\n\n\n\n<li><a href=\"#trucos\">Trucos para que el termo gaste menos</a></li>\n\n\n\n<li><a href=\"#comparativa\">El termo frente al resto de la casa</a></li>\n\n\n\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n</ul>\n\n\n\n<h2 id=\"coste\" class=\"wp-block-heading\">Cuánto consume un termo eléctrico por hora, día y mes</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Un termo no está calentando todo el día. La resistencia se enciende cuando el agua baja de la temperatura del termostato (porque has gastado agua caliente o porque el depósito se ha ido enfriando) y se apaga cuando llega de nuevo. Para una casa normal hemos supuesto 3 horas de resistencia al día y un factor de uso real de 0,7.</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Potencia</th><th>kWh por hora (real)</th><th>Por hora</th><th>Por día (3 h)</th><th>Por mes</th><th>Por año</th></tr></thead><tbody><tr><td>1.200 W</td><td>0,84</td><td>0,14 €</td><td>0,42 €</td><td>12,64 €</td><td>151,68 €</td></tr><tr><td>1.500 W</td><td>1,05</td><td>0,17 €</td><td>0,52 €</td><td>15,80 €</td><td>189,60 €</td></tr><tr><td>2.000 W</td><td>1,40</td><td>0,23 €</td><td>0,69 €</td><td>21,07 €</td><td>252,81 €</td></tr><tr><td>2.500 W</td><td>1,75</td><td>0,29 €</td><td>0,87 €</td><td>26,33 €</td><td>316,01 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Cálculos con precios de octubre de 2026</p>\n\n\n\n<p class=\"wp-block-paragraph\">Las horas de resistencia dependen sobre todo de cuánta agua caliente gastáis. Una persona que vive sola y se ducha rápido puede quedarse en la mitad; una familia de cuatro con duchas largas puede pasar de esas 3 horas. La potencia viene en la placa de características del termo, normalmente en un lateral o en la parte de abajo.</p>\n\n\n\n<h2 id=\"deposito\" class=\"wp-block-heading\">Lo que cuesta calentar el depósito entero</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Otra forma de verlo es calcular la energía que hace falta para calentar el agua. Subir un litro de agua un grado necesita 1,163 Wh. Si el agua entra de la red a unos 15 °C y la calientas a 60 °C, estos son los números para los tamaños más comunes:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Depósito</th><th>kWh (de 15 a 60 °C)</th><th>Precio fijo</th><th>En valle</th><th>En punta</th></tr></thead><tbody><tr><td>50 L</td><td>2,62</td><td>0,43 €</td><td>0,27 €</td><td>0,63 €</td></tr><tr><td>80 L</td><td>4,19</td><td>0,69 €</td><td>0,43 €</td><td>1,01 €</td></tr><tr><td>100 L</td><td>5,23</td><td>0,86 €</td><td>0,53 €</td><td>1,26 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Un termo de 80 litros necesita unos 4,19 kWh para calentarse entero desde frío: 0,69 € a precio fijo, 0,43 € en valle y 1,01 € en punta. En el día a día no lo vacías entero, pero sí repones buena parte del agua con cada ducha. A esto se suman las pérdidas del depósito, que se va enfriando poco a poco aunque nadie abra un grifo.</p>\n\n\n\n<h2 id=\"programar\" class=\"wp-block-heading\">Programar el termo: cuánto ahorras de verdad</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Si tienes la <a href=\"https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1066\" target=\"_blank\" rel=\"noopener\">tarifa 2.0TD con discriminación horaria</a>, el termo es probablemente el aparato con el que más fácil es ahorrar: no necesitas el agua caliente justo en el momento en que se calienta, sino horas después. Así sale el mismo termo de 1.500 W con 3 horas diarias según cuándo caliente:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Termo de 1.500 W, 3 h/día</th><th>Por día</th><th>Por mes</th><th>Por año</th></tr></thead><tbody><tr><td>Sin programar, repartido en punta</td><td>0,76 €</td><td>23,14 €</td><td>277,72 €</td></tr><tr><td>Sin programar, repartido en llano</td><td>0,48 €</td><td>14,62 €</td><td>175,40 €</td></tr><tr><td>Programado en valle (0–8 h)</td><td>0,32 €</td><td>9,74 €</td><td>116,93 €</td></tr><tr><td>Precio fijo (cualquier hora)</td><td>0,52 €</td><td>15,80 €</td><td>189,60 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Las filas de punta y llano son los dos extremos de un termo sin programar: en la práctica, calentará un poco en cada tramo según a qué hora os duchéis. Programándolo para que solo caliente en valle (de 0 a 8 h y el fin de semana entero), pagas 9,74 € al mes en lugar de hasta 23,14 €. Frente a un termo que calienta sobre todo en llano, el ahorro es de unos 4,87 € al mes; frente a uno que lo hace en punta, de 13,40 €. Los horarios de cada tramo están en <a href=\"https://tuluzencasa.com/tramos-horarios-luz/\">tramos horarios de la luz</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Si tienes precio fijo, programarlo no cambia el precio del kWh, pero sí puede reducir algo las pérdidas: el agua pasa menos horas guardada a temperatura alta.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Formas de programarlo</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Con el programador del propio termo</strong>. Muchos termos digitales permiten elegir las horas de funcionamiento o tienen un modo de ahorro. Mira el manual.</li>\n\n\n<li><strong>Con un temporizador o enchufe programable</strong>, si el termo va enchufado a una toma de corriente. Tiene que aguantar la potencia del termo: busca uno que indique 16 A y 3.680 W, y evita los temporizadores baratos de poca potencia, que se pueden calentar.</li>\n\n\n<li><strong>Con un programador horario en el cuadro eléctrico</strong>, si el termo está conectado directamente a la instalación sin enchufe. Esto <strong>no es un trabajo para hacer tú</strong>: tiene que instalarlo un instalador autorizado, porque implica abrir el cuadro y trabajar en la instalación fija.</li>\n\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Antes de programarlo solo en valle, comprueba que el depósito os da para todo el día. Si con 8 horas de calentamiento nocturno os quedáis sin agua caliente por la tarde, añade una franja corta en llano (de 14 a 18 h, por ejemplo) en lugar de dejarlo sin programar.</p>\n\n\n\n<h2 id=\"temperatura\" class=\"wp-block-heading\">A qué temperatura poner el termo</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Cuanto más alta es la temperatura del depósito, más calor pierde y más gasta. Pero tampoco conviene bajarla demasiado: el agua tibia acumulada mucho tiempo favorece la legionela. Respeta la temperatura mínima que indique el fabricante de tu termo y, si tiene programa antilegionela, úsalo. Muchos termos tienen un modo o programa específico para esto.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Lo que sí puedes evitar es tener el termostato al máximo y luego mezclar con mucha agua fría en la ducha. Si siempre abres mucho el grifo del agua fría, prueba a bajar un poco el termostato sin pasar de ese mínimo.</p>\n\n\n\n<h2 id=\"trucos\" class=\"wp-block-heading\">Trucos para que el termo gaste menos</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Programa las horas de calentamiento</strong> en valle si tienes tarifa por horas. Es el ahorro más grande con diferencia.</li>\n\n\n<li><strong>Duchas más cortas</strong>. Cada minuto menos es agua caliente que el termo no tiene que reponer.</li>\n\n\n<li><strong>Instala un reductor de caudal</strong> o una alcachofa de bajo consumo: con menos litros por minuto, el depósito dura más y la resistencia trabaja menos.</li>\n\n\n<li><strong>Apágalo si te vas varios días</strong>. No tiene sentido mantener 80 litros calientes con la casa vacía. Al volver, déjalo calentar a su temperatura completa antes de usarlo.</li>\n\n\n<li><strong>Aísla las tuberías</strong> de agua caliente que pasan por zonas frías, como un altillo o un garaje.</li>\n\n\n<li><strong>Revisa el ánodo y la cal</strong>. En zonas de agua dura, la cal que se acumula sobre la resistencia hace que caliente peor. El mantenimiento del termo (vaciado, ánodo, resistencia) debe hacerlo un técnico.</li>\n\n</ul>\n\n\n\n<h2 id=\"comparativa\" class=\"wp-block-heading\">El termo frente al resto de la casa</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Con 15,80 € al mes durante los doce meses, un termo de 1.500 W acaba gastando al año (189,60 €) más que un aire acondicionado de 1.000 W en todo el verano (72,23 €). Si quieres comparar, mira <a href=\"https://tuluzencasa.com/cuanto-consume-aire-acondicionado/\">cuánto consume un aire acondicionado por hora</a> y <a href=\"https://tuluzencasa.com/cuanto-consume-radiador-de-aceite/\">cuánto cuesta un radiador de aceite al mes</a>: en invierno, termo y radiador juntos pueden hacer saltar el limitador si coinciden y tienes poca potencia contratada, otra razón para que el termo caliente de madrugada.</p>\n\n\n\n<p class=\"wp-block-paragraph\">En la cocina pasa algo parecido: el termo gasta más en un día que la <a href=\"https://tuluzencasa.com/cuanto-consume-freidora-de-aire/\">freidora de aire en varias tandas</a>, y más al mes que la <a href=\"https://tuluzencasa.com/cuanto-consume-una-nevera/\">nevera, que está encendida las 24 horas</a>. Si quieres ver cómo se reparte todo tu consumo, suma tus aparatos en <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a>.</p>\n\n\n\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n\n\n\n<h3 class=\"wp-block-heading\">¿Cuánto consume un termo eléctrico de 80 litros al día?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Depende de cuánta agua caliente gastéis. Con una resistencia de 1.500 W funcionando 3 horas al día, unos 0,52 € diarios. Calentar el depósito entero desde frío cuesta 0,69 € a precio fijo.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Es mejor dejar el termo siempre encendido o apagarlo?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Si tienes tarifa por horas, lo mejor es programarlo para que caliente en valle y quede apagado el resto del día. Con precio fijo, apagarlo durante el día reduce algo las pérdidas del depósito. Si te vas varios días, apágalo.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Cuánto ahorro programando el termo en horario valle?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Con un termo de 1.500 W y 3 horas diarias, pasas a pagar 9,74 € al mes. Ahorras 4,87 € al mes frente a calentar en llano y 13,40 € frente a calentar en punta.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Qué potencia tiene mi termo?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">La indica la placa de características, en W. Los termos domésticos suelen tener resistencias de entre 1.200 y 2.500 W. Más potencia calienta antes, pero gasta lo mismo por litro calentado.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Por qué salta el diferencial cuando se enciende el termo?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Suele indicar una fuga a tierra en la resistencia o en la conexión del termo. No lo fuerces subiendo el diferencial una y otra vez: desconéctalo y llama a un técnico o a un instalador autorizado.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: pon la potencia de tu termo, las horas de funcionamiento y el precio de tu factura.</p>\n\n",
+  "protected": false,
+  "block_version": 1
+ },
+ "excerpt": {
+  "raw": "Cuánto consume un termo eléctrico: uno de 1.500 W cuesta 0,52 € al día y 15,80 € al mes a 0,165 €/kWh. Programado en valle, 9,74 € al mes.",
+  "rendered": "<p>Cuánto consume un termo eléctrico: uno de 1.500 W cuesta 0,52 € al día y 15,80 € al mes a 0,165 €/kWh. Programado en valle, 9,74 € al mes.</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 63,
+ "comment_status": "closed",
+ "ping_status": "open",
+ "sticky": false,
+ "template": "",
+ "format": "standard",
+ "meta": {
+  "footnotes": ""
+ },
+ "categories": [
+  3
+ ],
+ "tags": [],
+ "permalink_template": "https://tuluzencasa.com/%postname%/",
+ "generated_slug": "cuanto-consume-un-termo-electrico-y-como-programarlo-para-ahorrar",
+ "class_list": [
+  "post-19",
+  "post",
+  "type-post",
+  "status-publish",
+  "format-standard",
+  "has-post-thumbnail",
+  "hentry",
+  "category-consumo"
+ ],
+ "_links": {
+  "self": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/types/post"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/comments?post=19"
+   }
+  ],
+  "version-history": [
+   {
+    "count": 5,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19/revisions"
+   }
+  ],
+  "predecessor-version": [
+   {
+    "id": 165,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19/revisions/165"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media/63"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media?parent=19"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "category",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/categories?post=19"
+   },
+   {
+    "taxonomy": "post_tag",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/tags?post=19"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19"
+   }
+  ],
+  "wp:action-sticky": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19"
+   }
+  ],
+  "wp:action-create-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19"
+   }
+  ],
+  "wp:action-assign-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19"
+   }
+  ],
+  "wp:action-create-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19"
+   }
+  ],
+  "wp:action-assign-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/19"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}
