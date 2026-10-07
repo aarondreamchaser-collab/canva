@@ -1,0 +1,100 @@
+title: Luz en la Comunidad de Madrid: distribuidoras, clima y trámites
+title_seo: Luz en Madrid: distribuidoras, clima y trámites
+excerpt: Luz en Madrid: la capital está en zona D3, el agua llega a 8 °C en enero y 3 kWp de placas ahorran unos 466,59 € al año. Trámites y reclamaciones.
+category: luz-por-comunidades
+keyword: luz en Madrid
+---
+¿Cómo es la luz en Madrid? Pagas lo mismo por kWh que en el resto de la península; lo que cambia es el clima de meseta, con inviernos fríos y veranos calurosos. La capital está en la zona climática D3, el agua del grifo llega a 8 °C en enero y calentarla para tres personas cuesta 25,48 € ese mes, frente a 19,60 € en julio.
+
+Calculamos con <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio del kWh, cambia los costes en la misma proporción.
+
+## Luz en Madrid: qué es igual y qué cambia {#igual}
+
+La factura de la luz en Madrid tiene las mismas partes que en cualquier otra comunidad: potencia, energía, impuesto eléctrico, IVA y alquiler del contador. Puedes elegir precio regulado o mercado libre, y el bono social es estatal; lo explicamos en <a href="https://tuluzencasa.com/bono-social-electrico/">bono social eléctrico</a>.
+
+Lo propio de la Comunidad de Madrid:
+
+- <strong>Una sola provincia, pero cuatro zonas climáticas</strong>, de las vegas del sur a la sierra de Guadarrama.
+- <strong>El boletín se tramita a través de entidades de inspección</strong>, no directamente en una ventanilla de la administración.
+- <strong>Reclamaciones técnicas</strong> sobre lecturas, contadores o acceso a la red que atiende el área de industria de la Comunidad.
+
+## Quién te lleva la luz en Madrid {#distribuidora}
+
+La distribuidora es la empresa dueña de la red y del contador de tu zona. No la eliges, y no cambia aunque cambies de comercializadora. En la Comunidad de Madrid las dos más habituales son i-DE Redes Eléctricas Inteligentes, del grupo Iberdrola, y UFD Distribución Electricidad, del grupo Naturgy [VERIFICAR: reparto de distribuidoras en la Comunidad de Madrid en una fuente oficial].
+
+La forma más rápida de saber cuál es la tuya es el CUPS de tu factura. Los cuatro números que siguen a «ES» son el código de la distribuidora: 0021 es i-DE y 0022 es UFD. Te explicamos cómo se lee en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+
+## El clima de Madrid y tu factura {#clima}
+
+El Código Técnico de la Edificación asigna la zona climática por provincia y altitud. En Madrid:
+
+{{T:madrid_zonas}}
+
+- <strong>Por debajo de 500 metros</strong>, en la zona C3, el invierno es algo más suave que en la capital.
+- <strong>La capital, a 655 metros, está en la D3</strong>, como todo lo que queda entre 501 y 950 metros: invierno frío y verano caluroso, así que pagas calefacción y aire acondicionado.
+- <strong>Por encima de 1.000 metros</strong>, en los pueblos de la sierra, la zona es E1, la más fría de la escala, como el Pirineo.
+
+Con la misma casa, en la sierra la calefacción se enciende más días que en la capital. Si te calientas con electricidad, comparamos todos los sistemas en <a href="https://tuluzencasa.com/calefaccion-electrica-mas-barata/">calefacción eléctrica más barata</a>.
+
+## Agua caliente: lo que cuesta en Madrid {#agua-caliente}
+
+Según el CTE, el agua de red de la capital va de 8 °C en enero a 20 °C en julio. Para tres personas que usan 28 litros cada una al día a 60 °C, con termo eléctrico:
+
+{{T:madrid_acs}}
+
+Son 276,32 € al año solo en calentar el agua, sin contar las pérdidas del termo. Es más que en cualquier capital andaluza o valenciana, porque el agua de Madrid llega más fría en invierno.
+
+{{CAJA:Dato clave}}
+El agua de red de Madrid en enero está 4 °C más fría que en Málaga o Almería. Cuanto más fría entra, más energía necesita el termo para llegar a la misma temperatura.
+{{/CAJA}}
+
+## Placas solares en Madrid {#placas}
+
+Madrid tiene mucho sol para estar en el interior. Con PVGIS, la herramienta de la Comisión Europea, y la casa de ejemplo de 3.000 kWh al año, 3 kWp y el 40 % de la producción usada al momento:
+
+{{T:madrid_solar}}
+
+Cada kWp produce unos 1.622 kWh al año en la capital: más que en Barcelona y casi tanto como en Sevilla. La casa de ejemplo ahorraría 466,59 € al año. Si vives en un piso, puedes plantear con tus vecinos una instalación compartida en el tejado, que necesita el acuerdo de la comunidad de propietarios.
+
+## Trámites en la Comunidad de Madrid {#tramites}
+
+{{T:madrid_donde}}
+
+- <strong>El boletín eléctrico</strong> de una instalación de baja tensión se tramita en Madrid a través de una Entidad de Inspección y Control Industrial (EICI), según la Orden 9344/2003 y su procedimiento actualizado en 2025. La EICI revisa la documentación, asigna el número de registro y entrega los justificantes. Lo gestiona la empresa instaladora.
+- <strong>Reclamaciones técnicas</strong>: si el problema es con la distribuidora (lecturas, contador, acceso a la red o la potencia), la Comunidad de Madrid indica que se dirijan a su área de industria.
+- <strong>Arbitraje de consumo</strong>: si la compañía no te da la razón, la Junta Arbitral de Consumo de la Comunidad de Madrid lo resuelve gratis. Antes tienes que haber reclamado a la empresa. Si la empresa no está adherida, tiene diez días hábiles para aceptar; el laudo se dicta, como norma, en 90 días y obliga a las dos partes.
+
+## Trucos para pagar menos luz en Madrid {#trucos}
+
+- <strong>En invierno, calefacción en valle si tu sistema acumula calor</strong>: de 0 a 8 h y todo el fin de semana el kWh es el más barato.
+- <strong>En verano, cierra persianas y ventanas por el día y ventila de noche</strong>, cuando el aire de fuera está más fresco que el de casa.
+- <strong>En la sierra, ajusta la potencia por temporadas</strong>: desde 2026 puedes subirla solo en los meses fríos.
+- <strong>Programa el termo</strong> en valle si tienes tarifa por horas.
+- <strong>Revisa tu CUPS antes de reclamar</strong>: te dirá si el problema es de i-DE, de UFD o de otra distribuidora.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Qué distribuidora de luz tengo en Madrid?
+
+Lo pone en tu factura y en tu CUPS: si los cuatro números que siguen a «ES» son 0021, es i-DE; si son 0022, es UFD.
+
+### ¿En qué zona climática está Madrid?
+
+La capital, a 655 metros, está en la zona D3. En la Comunidad hay también zona C3 por debajo de 500 metros y E1 por encima de 1.000.
+
+### ¿Dónde se registra el boletín eléctrico en Madrid?
+
+A través de una Entidad de Inspección y Control Industrial. La empresa instaladora presenta allí la documentación y la EICI asigna el número de registro.
+
+### ¿Cómo reclamo a mi compañía de luz en Madrid?
+
+Primero, a la propia compañía. Si no te da la razón, puedes pedir un arbitraje gratuito a la Junta Arbitral de Consumo de la Comunidad de Madrid.
+
+Fuentes oficiales consultadas el 7 de octubre de 2026:
+
+- <a href="https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/20250505_proc._exter._bt_v3.pdf" target="_blank" rel="noopener">Comunidad de Madrid, procedimiento de tramitación como EICI de las instalaciones eléctricas de baja tensión</a> (Orden 9344/2003 y Orden de 17 de febrero de 2009, revisión de mayo de 2025).
+- <a href="https://www.comunidad.madrid/servicios/consumo/informacion-completa-electricidad" target="_blank" rel="noopener">Comunidad de Madrid, información sobre electricidad</a> y <a href="https://www.comunidad.madrid/consumo/arbitraje-consumo" target="_blank" rel="noopener">arbitraje de consumo</a>.
+- <a href="https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf" target="_blank" rel="noopener">Código Técnico de la Edificación, Documento Básico HE</a> (anejos B y G, sección HE4) y <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS, Comisión Europea</a>.
+- Códigos de las distribuidoras: lista oficial de <a href="http://cataleg.gecoplus.gencat.cat/permalink/acd1cd99-acaa-11ea-9205-005056924a59.pdf" target="_blank" rel="noopener">empresas distribuidoras con su código</a> de la Generalitat de Catalunya.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu calefacción, tu aire acondicionado y el resto de aparatos, y mira cuánto pesa cada uno.

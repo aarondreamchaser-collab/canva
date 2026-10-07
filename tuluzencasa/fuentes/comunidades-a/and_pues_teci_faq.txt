@@ -1,0 +1,129 @@
+Fuente: https://www.juntadeandalucia.es/sites/default/files/inline-files/2023/03/Preguntas_inst_electricas%20-PUES-TECI_v1.4_rev.Sev_.En_.pdf
+Consultada: 2026-10-07
+
+Preguntas frecuentes sobre PUES y TECI referentes
+a instalaciones eléctricas
+(Rev. 30 de junio de 2022)
+El presente documento es un compendio de las dudas más frecuentes sobre la utilización de las herra -
+mientas de registro de instalaciones eléctricas, de baja y de alta tensión, en los aplicativos PUES y TECI
+de la Junta de Andalucía. Este documento tienen carácter meramente orientativo, con el objetivo de
+aclarar las cuestiones presentadas por los usuarios de estos aplicativos.
+1.- ¿Cuándo debe inscribirse una instalación de baja tensión nueva, ampliación o modificación, en TECI, y cuándo 
+debe inscribirse en PUES?................................................................................................................................ 2
+2.- ¿Hay que inscribir las reparaciones o revisiones de las instalaciones de baja tensión?.......................................2
+3.- ¿En qué apartado se inscriben las instalaciones de autoconsumo en PUES, y dónde se registran el resto de 
+generadores de baja tensión?.......................................................................................................................... 3
+4.- ¿Deben inscribirse las instalaciones eléctricas temporales de ferias, casetas, stands, alumbrado festivo, circos, 
+conciertos y análogos?..................................................................................................................................... 3
+5.- ¿Cómo se tramitan los certificados de instalación de baja tensión (CIE) de las viviendas y locales de un edificio 
+de más de 100 kW cuya instalación ya se ha registrado en PUES?..................................................................... 3
+6.- Cuando se tramitan en PUES las redes de distribución en baja tensión de más de un consumidor, entre la 
+documentación que hay que presentar, está el Convenio de cesión a la empresa distribuidora, y la Solicitud de 
+cambio de titularidad de la instalación. Al completar la presentación en PUES, ¿se ejecuta directamente el 
+cambio de titularidad? ¿o es necesario algún trámite adicional?.......................................................................4
+Calle Johannes Kepler, 1, Isla de la Cartuja. 41092-Sevilla
+Tel.: 955 065 000 
+https://juntadeandalucia.es/organismos/politicaindustrialyenergia.html
+Consejería de Política Industrial y Energía
+Secretaría General de Energía
+
+1.- ¿Cuándo debe inscribirse una instalación de baja tensión nueva, ampliación o 
+modificación, en TECI, y cuándo debe inscribirse en PUES?
+La regla general, para nuevas instalaciones eléctricas de baja tensión, es que deben inscribirse a través
+de PUES si ha sido necesaria la elaboración de proyecto para su ejecución o  bien ha sido necesario un
+certificado de dirección técnica emitido por técnico competente. Se exceptúan los generadores conec -
+tados a red interior o exterior de potencia inferior o igual a 10 kW, que no necesitan proyecto ni direc -
+ción de obra, pero que sí se inscriben en PUES. 
+El resto de nuevas instalaciones deben inscribirse a través de TECI.
+La regla general, también para ampliaciones o modificaciones de instalaciones existentes, es que se
+inscriben por PUES si la ampliación o modificación necesitan de proyecto o dirección de obra para su
+ejecución.
+Así, se inscribirán por TECI las ampliaciones o modificaciones de instalaciones que se registraron ini -
+cialmente en TECI, salvo en el caso de que, de acuerdo con la ITC-BT-04, dichas ampliaciones o modifi -
+caciones necesiten proyecto.
+Como excepción a lo anterior, las ampliaciones o modificaciones de aquellas instalaciones que ya se
+han registrado en PUES, deben continuar usando este tramitador para el registro de las mismas, aun -
+que no haga falta proyecto para su ejecución. En dicho cas o la Memoria Técnica de Diseño (MTD) susti-
+tuirá al Proyecto como documento de entrada y el Certificado de dirección de obra por un documento
+que justifique su no necesidad al ser una instalación que se ejecuta según una MTD.
+Recuérdese que, sean o no de importancia, a las modificaciones, ampliaciones y reparaciones de las ins -
+talaciones existentes, e independientemente de su antigüedad, les aplica el REBT de 2002, solo en lo que
+afecta a la parte modificada, ampliada o reparada, y siempre y cuando se tomen las medidas necesarias
+para garantizar las condiciones de seguridad del conjunto de la instalación.
+2.- ¿Hay que inscribir las reparaciones o revisiones de las instalaciones de baja 
+tensión?
+En los aplicativos PUES y TECI se comunicará exclusivamente la puesta en servicio de nuevas instala -
+ciones de baja tensión, así como las modificaciones o ampliaciones de las instalaciones existentes, o su
+baja. No deben comunicarse por estas vías las meras reparaciones o las revisiones de instalaciones de
+baja tensión cuando no se realiza una modificación o ampliación de la instalación existente.
+Las reparaciones de las instalaciones de baja tensión deben ser realizadas por empresas instaladoras
+de baja tensión (ITC-BT-03, apdo. 2.1). Las meras reparaciones, que no comportan ampliación o modifi-
+cación de la instalación existente, no se registrarán en los aplicativos TECI ni PUES, aunque la empresa
+instaladora debe emitir un certificado de instalación eléctrica suscrito por un instalador en baja ten -
+sión con los datos referentes a las principales características de la instalación, la identificación de la
+empresa instaladora responsable de la instalación y del instalador en baja tensión que suscribe el certi-
+ficado de instalación y una declaración expresa de que la reparación ha sido ejecutada de acuerdo con
+las prescripciones del REBT, aprobado por el Real Decreto 842/2002, de 2 de agosto.
+2
+
+Las revisiones, por ejemplo, las de la puesta a tierra de la instalación o bien la simple verificación de
+que la instalación es conforme con la reglamentación electrotécnica vigente, tampoco deben registrar -
+se en TECI o PUES.
+Recuérdese que, sean o no de importancia, a las reparaciones de las instalaciones existentes, e indepen -
+dientemente de su antigüedad, les aplica el REBT de 2002, solo en lo que afecta a la parte reparada, y
+siempre y cuando se tomen las medidas necesarias para garantizar las condiciones de seguridad del con -
+junto de la instalación.
+3.- ¿En qué apartado se inscriben las instalaciones de autoconsumo en PUES, y dónde 
+se registran el resto de generadores de baja tensión?
+Las instalaciones de autoconsumo conectadas a la red de distribución de baja tensión, con o sin exce -
+dentes, mediante una red interior o exterior, incluso las de menos de 10 kW, se registran, en todo caso,
+en el aplicativo PUES, en el apartado correspondiente del tipo C.3. La potencia de estas instalaciones
+no puede ser superior a 100 kW en ningún caso. En caso de superar los 100 kW de potencia de genera -
+ción será necesario presentar una solicitud de autorización administrativa ante la Delegación Territo -
+rial con competencias en energía.
+En el siguiente enlace se puede obtener información, así como descargar el Manual para la tramitación
+administrativa de las instalaciones de energía eléctrica en régimen de autoconsumo:
+https://juntadeandalucia.es/organismos/politicaindustrialyenergia/areas/energia/autoconsumo.html
+El resto de instalaciones de generación, como es el caso de generación aislada, asistida, o cualquier
+otro tipo de generación que no se conecta a la red de distribución, se registran en los aplicativos:
+• PUES. Apartado C.2. Si su potencia es superior a 10 kW,
+• TECI. Si su potencia es inferior a 10 kW, salvo que la generación forme parte de una instalación
+de baja tensión que sí debe registrarse en PUES. Por ejemplo, una instalación fotovoltaica de
+5 kW de potencia que forma parte de la instalación de baja tensión de un local de pública con -
+currencia que se va a registrar como nueva instalación.      
+4.- ¿Deben inscribirse las instalaciones eléctricas temporales de ferias, casetas,
+stands,  alumbrado festivo, circos, conciertos y análogos?
+Sí, dichas instalaciones de carácter temporal, bien sean en locales o en emplazamientos abiertos, de -
+ben registrarse en los aplicativos TECI o PUES. Los casos son los siguientes:
+1. Atracciones de feria, casetas de feria o stands, alumbrado festivo y análogos.
+◦ Si la potencia es inferior o igual a 10 kW y la superficie de la caseta o stand es inferior a
+100 m², se inscriben en TECI.
+◦ En otro caso, si la potencia supera los 10 kW o bien la superficie de la caseta o stand es su -
+perior a los 100  m², se inscriben en PUES, en el apartado D.2, incluso en los casos en los
+que no es necesario redactar proyecto técnico.
+3
+
+2 Circos, teatros ambulantes y conciertos musicales. Se inscriben en PUES, independientemente
+de la potencia o de la superficie, en el apartado D.3. 
+5.- ¿Cómo se tramitan los certificados de instalación de baja tensión (CIE) de las
+viviendas y locales de un edificio de más de 100  kW cuya instalación ya se ha
+registrado en PUES?
+Con el tramitador PUES se tramita el expediente del edificio; después cada uno de los certificados de
+las viviendas o locales deben ser tramitados a través de TECI, siempre que estén incluidas en el ámbito
+de aplicación de este tramitador.
+Se ha realizado una modificación del tramitador TECI para que permita tramitar los certificados de vi -
+viendas de hasta 50 kW pertenecientes a edificios con potencia total mayor de 100 kW.
+6.- Cuando se tramitan en PUES las redes de distribución en baja tensión de más de un
+consumidor, entre la documentación que hay que presentar, está el Convenio de
+cesión a la empresa distribuidora, y la Solicitud de cambio de titularidad de la
+instalación. Al completar la presentación en PUES, ¿se ejecuta directamente el
+cambio de titularidad? ¿o es necesario algún trámite adicional?
+La persona promotora de la red de distribución, al comunicar su puesta en funcionamiento a través de
+PUES, debe aportar la solicitud de cambio de titularidad de la instalación a la empresa distribuidora. 
+No obstante, para que se proceda a ejecutar el cambio, es necesario que la empresa distribuidora o
+mandataria lo solicite a través de Registro en la Delegación territorial correspondiente. 
+Sin esta segunda fase el proceso no se completa y la red de distribución continuaría a nombre de la
+persona promotora.
+Asimismo, existe también la opción de que la empresa distribuidora sea quien inicialmente presente la
+comunicación, incluyendo el citado convenio de cesión.
+4

@@ -1,0 +1,102 @@
+title: Luz en la Comunitat Valenciana: distribuidoras, clima y trámites
+title_seo: Luz en la Comunidad Valenciana: clima, placas y trámites
+excerpt: Luz en la Comunidad Valenciana: Alicante es la capital donde menos cuesta el agua caliente y puedes saber por el CUPS si tu instalación está registrada.
+category: luz-por-comunidades
+keyword: luz en la Comunidad Valenciana
+---
+¿Qué cambia en la luz en la Comunidad Valenciana? El precio es el de toda la península; lo propio es un clima suave en la costa y la posibilidad de comprobar en internet, con tu CUPS, si tu instalación eléctrica está registrada en la Generalitat. Calentar el agua para tres personas cuesta 262,60 € al año en Alicante y 267,01 € en Valencia o Castellón.
+
+Calculamos con <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio del kWh, los costes suben o bajan en la misma proporción.
+
+## Luz en la Comunidad Valenciana: lo común y lo propio {#igual}
+
+La factura tiene las mismas partes que en el resto de España, y el bono social es estatal: lo tienes explicado en <a href="https://tuluzencasa.com/bono-social-electrico/">bono social eléctrico</a>. Lo que cambia aquí:
+
+- <strong>Costa templada e interior frío</strong>: en las tres provincias, la zona climática empeora rápido con la altitud.
+- <strong>Una consulta pública del registro de instalaciones</strong> en el Portal de Industria de la Generalitat.
+- <strong>Trámites en línea</strong> para registrar, duplicar el boletín o pedir el número de registro de una instalación antigua.
+
+## Quién te lleva la luz: la distribuidora {#distribuidora}
+
+La distribuidora es la dueña de la red y del contador de tu zona. En su página de redes eléctricas, la Generalitat Valenciana enlaza los planes de inversión de dos distribuidoras: i-DE Redes Eléctricas Inteligentes, del grupo Iberdrola, y E-Redes Distribución Eléctrica. En algunos municipios la red puede ser de otra empresa.
+
+Para saber cuál es la tuya, mira la factura: debe aparecer su nombre y su teléfono gratuito de averías. También lo dice el CUPS: si los cuatro números que van detrás de «ES» son 0021, tu distribuidora es i-DE. Te explicamos cómo se lee en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+
+## El clima de la Comunidad Valenciana {#clima}
+
+Según el Código Técnico de la Edificación, la zona climática depende de la provincia y de la altitud:
+
+{{T:comunidad_valenciana_zonas}}
+
+- <strong>Alicante tiene un 4 en verano</strong> hasta 250 metros: el calor pesa más que el frío, y el aire acondicionado es el gasto de la temporada.
+- <strong>En la provincia de Valencia, la zona B3 solo llega a 50 metros</strong>: a partir de ahí ya es C3, y por encima de 950 metros, E1.
+- <strong>Castellón es la provincia con más escalones</strong>, cinco, de la B3 de la costa a la E1 por encima de 1.000 metros en el interior.
+
+Si tu casa está en el interior y se calienta con electricidad, comparamos todos los sistemas en <a href="https://tuluzencasa.com/calefaccion-electrica-mas-barata/">calefacción eléctrica más barata</a>.
+
+## Agua caliente en Alicante, Castellón y Valencia {#agua-caliente}
+
+Con la temperatura del agua de red que da el CTE para cada capital, para tres personas que usan 28 litros al día a 60 °C, con termo eléctrico:
+
+{{T:comunidad_valenciana_acs}}
+
+Alicante es la más barata porque el agua llega a 11 °C en enero, frente a los 10 °C de Valencia y Castellón. La diferencia es pequeña: unos 4 € al año. Las cifras no incluyen las pérdidas del termo.
+
+{{CAJA:Dato clave}}
+Con la tarifa por horas, el mismo termo programado de madrugada o en fin de semana paga el kWh a menos de la mitad que en punta.
+{{/CAJA}}
+
+## Placas solares en la Comunidad Valenciana {#placas}
+
+Con PVGIS, la herramienta de la Comisión Europea, y la casa de ejemplo de 3.000 kWh al año, 3 kWp y el 40 % de la producción usada al momento:
+
+{{T:comunidad_valenciana_solar}}
+
+Las tres capitales producen casi lo mismo, entre 1.597 y 1.621 kWh por kWp al año, y la casa de ejemplo ahorraría entre 471,23 € y 474,45 €. Como en el resto de España, lo que más mueve el ahorro es cuánta energía usas mientras hay sol, no unos pocos kWh más de producción.
+
+La instalación de placas se comunica a la Generalitat como cualquier instalación eléctrica de baja tensión.
+
+## Trámites en la Comunidad Valenciana {#tramites}
+
+{{T:comunidad_valenciana_donde}}
+
+- <strong>El boletín de una instalación nueva</strong> se comunica a la Generalitat con el trámite 436 del Portal de Industria. Lo presenta la empresa instaladora, y el certificado sellado que se genera es el documento para contratar la luz.
+- <strong>Comprueba si tu instalación está registrada</strong> en el Portal de Industria, buscando por el CUPS o por la dirección. Si figura a nombre de un titular anterior, se hace un cambio de titularidad con el mismo trámite 436.
+- <strong>Instalaciones antiguas sin número de registro</strong>: desde mayo de 2026 existe el trámite 109592 para pedirlo. Es obligatorio cuando la instalación necesita una inspección periódica, porque la instrucción 1/2025 obliga a los organismos de control a indicar ese número.
+- <strong>Si has perdido el boletín</strong>, el trámite 22198 permite pedir un duplicado del certificado.
+- <strong>Si reclamas</strong> y la compañía no te da la razón, la Junta Arbitral de Consumo de la Comunitat Valenciana resuelve gratis; la solicitud se puede hacer en línea con el trámite 2290. La empresa tiene que estar adherida o aceptar el arbitraje, y el laudo se dicta en 90 días.
+
+## Trucos para pagar menos luz en la Comunidad Valenciana {#trucos}
+
+- <strong>Busca tu instalación en el Portal de Industria</strong> antes de vender, alquilar o subir la potencia: sabrás si está registrada y a nombre de quién.
+- <strong>En verano, ventila de noche y cierra persianas de día</strong> antes de encender el aire acondicionado.
+- <strong>Programa el termo</strong> en valle si tienes tarifa por horas.
+- <strong>En el interior, revisa la potencia en invierno</strong>: si te calientas con electricidad, desde 2026 puedes subirla solo durante los meses fríos.
+- <strong>Con placas, pon la lavadora y el lavavajillas a mediodía</strong>: es cuando más producen.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cómo sé si mi instalación eléctrica está registrada en la Comunidad Valenciana?
+
+En el Portal de Industria de la Generalitat, buscando por el CUPS de tu factura o por la dirección.
+
+### ¿Cómo consigo una copia del boletín eléctrico?
+
+Con el trámite 22198 de la Generalitat, que permite pedir un duplicado del certificado de instalación.
+
+### ¿Qué distribuidora tengo en la Comunidad Valenciana?
+
+Lo pone en tu factura. Si tu CUPS empieza por ES0021, es i-DE.
+
+### ¿Es más cara la luz en la Comunidad Valenciana?
+
+No. Los peajes, los cargos y los impuestos son los mismos en toda la península. Lo que cambia es tu consumo según el clima de tu zona.
+
+Fuentes oficiales consultadas el 7 de octubre de 2026:
+
+- <a href="https://mediambient.gva.es/es/web/energia/xarxes-electriques" target="_blank" rel="noopener">Generalitat Valenciana, redes eléctricas y suministro eléctrico</a>.
+- <a href="https://sede.gva.es/descarregues/2026/05/148029-39.2_PREGUNTAS_FRECUENTES_NUEVA_TRAMITE_ASIGNACION_REGISTRO_RBT_11-05-2026.pdf" target="_blank" rel="noopener">Generalitat Valenciana, preguntas frecuentes del trámite 109592</a> (asignación de número de registro, 11-5-2026), con los trámites 436 y 22198.
+- <a href="https://sede.gva.es/es/detall-tramit?id_proc=2290" target="_blank" rel="noopener">Trámite 2290, solicitud de arbitraje de consumo</a>.
+- <a href="https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf" target="_blank" rel="noopener">Código Técnico de la Edificación, Documento Básico HE</a> (anejos B y G, sección HE4) y <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS, Comisión Europea</a>.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu termo, tu aire acondicionado y el resto de aparatos, y mira cuánto pesa cada uno.

@@ -1,0 +1,596 @@
+{
+ "andalucia_zonas": {
+  "headers": [
+   "Provincia",
+   "Capital y altitud (CTE)",
+   "Zona de la capital",
+   "Zonas según la altitud del municipio"
+  ],
+  "rows": [
+   [
+    "Almería",
+    "Almería, 16 m",
+    "A4",
+    "A4 hasta 100 m · B4 de 101 a 250 m · B3 de 251 a 400 m · C3 de 401 a 800 m · D3 por encima de 800 m"
+   ],
+   [
+    "Cádiz",
+    "Cádiz, 14 m",
+    "A3",
+    "A3 hasta 150 m · B3 de 151 a 450 m · C3 de 451 a 600 m · C2 de 601 a 850 m · D2 por encima de 850 m"
+   ],
+   [
+    "Córdoba",
+    "Córdoba, 106 m",
+    "B4",
+    "B4 hasta 150 m · C4 de 151 a 550 m · D3 por encima de 550 m"
+   ],
+   [
+    "Granada",
+    "Granada, 683 m",
+    "C3",
+    "A4 hasta 50 m · B4 de 51 a 350 m · C4 de 351 a 600 m · C3 de 601 a 800 m · D3 de 801 a 1.300 m · E1 por encima de 1.300 m"
+   ],
+   [
+    "Huelva",
+    "Huelva, 30 m",
+    "A4",
+    "A4 hasta 50 m · B4 de 51 a 150 m · B3 de 151 a 350 m · C3 de 351 a 800 m · D3 por encima de 800 m"
+   ],
+   [
+    "Jaén",
+    "Jaén, 568 m",
+    "C4",
+    "B4 hasta 350 m · C4 de 351 a 750 m · D3 de 751 a 1.250 m · E1 por encima de 1.250 m"
+   ],
+   [
+    "Málaga",
+    "Málaga, 11 m",
+    "A3",
+    "A3 hasta 100 m · B3 de 101 a 300 m · C3 de 301 a 700 m · D3 por encima de 700 m"
+   ],
+   [
+    "Sevilla",
+    "Sevilla, 11 m",
+    "B4",
+    "B4 hasta 200 m · C4 por encima de 200 m"
+   ]
+  ]
+ },
+ "andalucia_acs": {
+  "headers": [
+   "Capital",
+   "Agua fría en enero",
+   "Agua fría en julio",
+   "Coste en enero",
+   "Coste en julio",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Almería",
+    "12 °C",
+    "20 °C",
+    "23,52 €",
+    "19,60 €",
+    "260,64 €"
+   ],
+   [
+    "Cádiz",
+    "12 °C",
+    "19 °C",
+    "23,52 €",
+    "20,09 €",
+    "261,62 €"
+   ],
+   [
+    "Córdoba",
+    "10 °C",
+    "21 °C",
+    "24,50 €",
+    "19,11 €",
+    "264,07 €"
+   ],
+   [
+    "Granada",
+    "8 °C",
+    "20 °C",
+    "25,48 €",
+    "19,60 €",
+    "274,85 €"
+   ],
+   [
+    "Huelva",
+    "12 °C",
+    "20 °C",
+    "23,52 €",
+    "19,60 €",
+    "261,13 €"
+   ],
+   [
+    "Jaén",
+    "9 °C",
+    "21 °C",
+    "24,99 €",
+    "19,11 €",
+    "267,01 €"
+   ],
+   [
+    "Málaga",
+    "12 °C",
+    "20 °C",
+    "23,52 €",
+    "19,60 €",
+    "261,62 €"
+   ],
+   [
+    "Sevilla",
+    "11 °C",
+    "21 °C",
+    "24,01 €",
+    "19,11 €",
+    "261,62 €"
+   ]
+  ]
+ },
+ "andalucia_solar": {
+  "headers": [
+   "Capital",
+   "kWh al año por kWp",
+   "Producción de 3 kWp",
+   "Esa producción a 0,165 €/kWh",
+   "Ahorro al año (3 kWp, 40 %)"
+  ],
+  "rows": [
+   [
+    "Almería",
+    "1.692",
+    "5.075",
+    "837,44 €",
+    "483,63 €"
+   ],
+   [
+    "Cádiz",
+    "1.721",
+    "5.163",
+    "851,93 €",
+    "481,02 €"
+   ],
+   [
+    "Córdoba",
+    "1.656",
+    "4.967",
+    "819,54 €",
+    "477,35 €"
+   ],
+   [
+    "Granada",
+    "1.660",
+    "4.981",
+    "821,80 €",
+    "480,56 €"
+   ],
+   [
+    "Huelva",
+    "1.698",
+    "5.094",
+    "840,55 €",
+    "480,58 €"
+   ],
+   [
+    "Jaén",
+    "1.633",
+    "4.899",
+    "808,33 €",
+    "472,77 €"
+   ],
+   [
+    "Málaga",
+    "1.653",
+    "4.958",
+    "818,12 €",
+    "479,36 €"
+   ],
+   [
+    "Sevilla",
+    "1.653",
+    "4.958",
+    "818,09 €",
+    "479,36 €"
+   ]
+  ]
+ },
+ "cataluna_zonas": {
+  "headers": [
+   "Provincia",
+   "Capital y altitud (CTE)",
+   "Zona de la capital",
+   "Zonas según la altitud del municipio"
+  ],
+  "rows": [
+   [
+    "Barcelona",
+    "Barcelona, 12 m",
+    "C2",
+    "C2 hasta 250 m · D2 de 251 a 450 m · D1 de 451 a 750 m · E1 por encima de 750 m"
+   ],
+   [
+    "Girona",
+    "Girona, 70 m",
+    "C2",
+    "C2 hasta 100 m · D2 de 101 a 600 m · E1 por encima de 600 m"
+   ],
+   [
+    "Lleida",
+    "Lleida, 182 m",
+    "D3",
+    "C3 hasta 100 m · D3 de 101 a 600 m · E1 por encima de 600 m"
+   ],
+   [
+    "Tarragona",
+    "Tarragona, 69 m",
+    "B3",
+    "B3 hasta 100 m · C3 de 101 a 500 m · D3 por encima de 500 m"
+   ]
+  ]
+ },
+ "cataluna_acs": {
+  "headers": [
+   "Capital",
+   "Agua fría en enero",
+   "Agua fría en julio",
+   "Coste en enero",
+   "Coste en julio",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Barcelona",
+    "9 °C",
+    "19 °C",
+    "24,99 €",
+    "20,09 €",
+    "271,91 €"
+   ],
+   [
+    "Girona",
+    "8 °C",
+    "19 °C",
+    "25,48 €",
+    "20,09 €",
+    "276,81 €"
+   ],
+   [
+    "Lleida",
+    "7 °C",
+    "20 °C",
+    "25,97 €",
+    "19,60 €",
+    "275,83 €"
+   ],
+   [
+    "Tarragona",
+    "10 °C",
+    "20 °C",
+    "24,50 €",
+    "19,60 €",
+    "265,05 €"
+   ]
+  ]
+ },
+ "cataluna_solar": {
+  "headers": [
+   "Capital",
+   "kWh al año por kWp",
+   "Producción de 3 kWp",
+   "Esa producción a 0,165 €/kWh",
+   "Ahorro al año (3 kWp, 40 %)"
+  ],
+  "rows": [
+   [
+    "Barcelona",
+    "1.544",
+    "4.631",
+    "764,13 €",
+    "456,03 €"
+   ],
+   [
+    "Girona",
+    "1.496",
+    "4.489",
+    "740,70 €",
+    "457,02 €"
+   ],
+   [
+    "Lleida",
+    "1.565",
+    "4.694",
+    "774,54 €",
+    "451,71 €"
+   ],
+   [
+    "Tarragona",
+    "1.569",
+    "4.708",
+    "776,89 €",
+    "462,84 €"
+   ]
+  ]
+ },
+ "madrid_zonas": {
+  "headers": [
+   "Provincia",
+   "Capital y altitud (CTE)",
+   "Zona de la capital",
+   "Zonas según la altitud del municipio"
+  ],
+  "rows": [
+   [
+    "Madrid",
+    "Madrid, 655 m",
+    "D3",
+    "C3 hasta 500 m · D3 de 501 a 950 m · D2 de 951 a 1.000 m · E1 por encima de 1.000 m"
+   ]
+  ]
+ },
+ "madrid_acs": {
+  "headers": [
+   "Capital",
+   "Agua fría en enero",
+   "Agua fría en julio",
+   "Coste en enero",
+   "Coste en julio",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Madrid",
+    "8 °C",
+    "20 °C",
+    "25,48 €",
+    "19,60 €",
+    "276,32 €"
+   ]
+  ]
+ },
+ "madrid_solar": {
+  "headers": [
+   "Capital",
+   "kWh al año por kWp",
+   "Producción de 3 kWp",
+   "Esa producción a 0,165 €/kWh",
+   "Ahorro al año (3 kWp, 40 %)"
+  ],
+  "rows": [
+   [
+    "Madrid",
+    "1.622",
+    "4.865",
+    "802,66 €",
+    "466,59 €"
+   ]
+  ]
+ },
+ "comunidad_valenciana_zonas": {
+  "headers": [
+   "Provincia",
+   "Capital y altitud (CTE)",
+   "Zona de la capital",
+   "Zonas según la altitud del municipio"
+  ],
+  "rows": [
+   [
+    "Alicante",
+    "Alicante, 8 m",
+    "B4",
+    "B4 hasta 250 m · C3 de 251 a 700 m · D3 por encima de 700 m"
+   ],
+   [
+    "Castellón",
+    "Castellón, 27 m",
+    "B3",
+    "B3 hasta 100 m · C3 de 101 a 500 m · D3 de 501 a 600 m · D2 de 601 a 1.000 m · E1 por encima de 1.000 m"
+   ],
+   [
+    "Valencia",
+    "Valencia, 13 m",
+    "B3",
+    "B3 hasta 50 m · C3 de 51 a 500 m · D2 de 501 a 950 m · E1 por encima de 950 m"
+   ]
+  ]
+ },
+ "comunidad_valenciana_acs": {
+  "headers": [
+   "Capital",
+   "Agua fría en enero",
+   "Agua fría en julio",
+   "Coste en enero",
+   "Coste en julio",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Alicante",
+    "11 °C",
+    "20 °C",
+    "24,01 €",
+    "19,60 €",
+    "262,60 €"
+   ],
+   [
+    "Castellón",
+    "10 °C",
+    "19 °C",
+    "24,50 €",
+    "20,09 €",
+    "267,01 €"
+   ],
+   [
+    "Valencia",
+    "10 °C",
+    "19 °C",
+    "24,50 €",
+    "20,09 €",
+    "267,01 €"
+   ]
+  ]
+ },
+ "comunidad_valenciana_solar": {
+  "headers": [
+   "Capital",
+   "kWh al año por kWp",
+   "Producción de 3 kWp",
+   "Esa producción a 0,165 €/kWh",
+   "Ahorro al año (3 kWp, 40 %)"
+  ],
+  "rows": [
+   [
+    "Alicante",
+    "1.620",
+    "4.861",
+    "802,03 €",
+    "472,53 €"
+   ],
+   [
+    "Castellón",
+    "1.621",
+    "4.863",
+    "802,33 €",
+    "474,45 €"
+   ],
+   [
+    "Valencia",
+    "1.597",
+    "4.790",
+    "790,41 €",
+    "471,23 €"
+   ]
+  ]
+ },
+ "andalucia_donde": {
+  "headers": [
+   "Para…",
+   "Dónde",
+   "Cómo"
+  ],
+  "rows": [
+   [
+    "Avisar de una avería o un corte",
+    "Tu distribuidora",
+    "Teléfono gratuito de 24 horas que figura en tu factura"
+   ],
+   [
+    "Registrar el boletín de una vivienda",
+    "Junta de Andalucía, aplicación TECI",
+    "Lo presenta la empresa instaladora; si la obra necesita proyecto, por PUES"
+   ],
+   [
+    "Registrar placas de hasta 10 kW",
+    "Junta de Andalucía, aplicación PUES",
+    "Lo presenta la empresa instaladora"
+   ],
+   [
+    "Dudas y reclamaciones de consumo",
+    "Consumo Responde",
+    "Teléfono gratuito 900 215 080"
+   ],
+   [
+    "Reclamar si la compañía no te da la razón",
+    "Junta Arbitral de Consumo de Andalucía",
+    "Arbitraje gratuito"
+   ]
+  ]
+ },
+ "cataluna_donde": {
+  "headers": [
+   "Para…",
+   "Dónde",
+   "Cómo"
+  ],
+  "rows": [
+   [
+    "Avisar de una avería o un corte",
+    "Tu distribuidora",
+    "Teléfono gratuito de 24 horas que figura en tu factura"
+   ],
+   [
+    "Registrar el boletín, ampliar la instalación o cambiar el titular",
+    "Generalitat, trámite 11428 en Canal Empresa",
+    "Declaración responsable, solo en línea"
+   ],
+   [
+    "Dudas y reclamaciones de consumo",
+    "Agència Catalana del Consum",
+    "Oficinas de consumo y web de la Agència"
+   ],
+   [
+    "Reclamar si la compañía no te da la razón",
+    "Junta Arbitral de Consum de Catalunya",
+    "Arbitraje gratuito y voluntario"
+   ]
+  ]
+ },
+ "madrid_donde": {
+  "headers": [
+   "Para…",
+   "Dónde",
+   "Cómo"
+  ],
+  "rows": [
+   [
+    "Avisar de una avería o un corte",
+    "Tu distribuidora",
+    "Teléfono gratuito de 24 horas que figura en tu factura"
+   ],
+   [
+    "Registrar el boletín de una instalación",
+    "Una Entidad de Inspección y Control Industrial (EICI)",
+    "La tramita la empresa instaladora (Orden 9344/2003)"
+   ],
+   [
+    "Reclamar por lecturas, contador o acceso a la red",
+    "Comunidad de Madrid, área de industria",
+    "Reclamaciones técnicas sobre el suministro"
+   ],
+   [
+    "Reclamar si la compañía no te da la razón",
+    "Junta Arbitral de Consumo de la Comunidad de Madrid",
+    "Arbitraje gratuito; en línea o en Ramírez de Prado 5 bis"
+   ]
+  ]
+ },
+ "comunidad_valenciana_donde": {
+  "headers": [
+   "Para…",
+   "Dónde",
+   "Cómo"
+  ],
+  "rows": [
+   [
+    "Avisar de una avería o un corte",
+    "Tu distribuidora",
+    "Teléfono gratuito de 24 horas que figura en tu factura"
+   ],
+   [
+    "Registrar el boletín de una instalación nueva",
+    "Generalitat Valenciana, trámite 436",
+    "Lo presenta la empresa instaladora"
+   ],
+   [
+    "Saber si tu instalación está registrada",
+    "Portal de Industria de la Generalitat",
+    "Búsqueda por CUPS o por dirección"
+   ],
+   [
+    "Pedir una copia de tu boletín",
+    "Generalitat Valenciana, trámite 22198",
+    "Duplicado del certificado de instalación"
+   ],
+   [
+    "Reclamar si la compañía no te da la razón",
+    "Junta Arbitral de Consumo de la Comunitat Valenciana",
+    "Arbitraje gratuito, en línea (trámite 2290)"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,105 @@
+title: Luz en Andalucía: distribuidora, clima por provincias y trámites
+title_seo: Luz en Andalucía: distribuidora, zonas climáticas y trámites
+excerpt: Luz en Andalucía: 3 kWp de placas producen unos 5.000 kWh al año en cualquier capital, y el agua caliente cuesta menos que en el resto de España.
+category: luz-por-comunidades
+keyword: luz en Andalucía
+---
+¿Qué cambia en la luz en Andalucía? El precio no, porque los peajes, los cargos y los impuestos son los mismos en toda la península; cambian el sol y el clima, que aquí juegan a tu favor. Con 3 kWp de placas, una casa en cualquier capital andaluza produce entre 4.899 y 5.163 kWh al año, y calentar el agua de tres personas cuesta entre 23,52 y 25,48 € en enero.
+
+En esta página calculamos con <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio del kWh, los costes suben o bajan en la misma proporción.
+
+## Luz en Andalucía: lo que es igual y lo que es distinto {#igual}
+
+Contratas igual que en el resto de España: eliges comercializadora, tarifa y potencia, y puedes quedarte en el precio regulado o pasar al mercado libre. El bono social es el mismo en todo el país; lo tienes explicado en <a href="https://tuluzencasa.com/bono-social-electrico/">bono social eléctrico</a>.
+
+Lo propio de Andalucía es otra cosa:
+
+- <strong>Ocho provincias con climas muy distintos</strong>: de la costa de Cádiz o Málaga, con inviernos suaves, a los pueblos de alta montaña de Granada o Jaén, en la zona climática más fría de la escala.
+- <strong>Mucho sol</strong>: todas las capitales están por encima de los 1.600 kWh por kWp de placas al año.
+- <strong>Trámites con aplicaciones propias de la Junta</strong>: TECI y PUES para registrar las instalaciones eléctricas.
+
+## Quién te lleva la luz: la distribuidora {#distribuidora}
+
+La distribuidora es la dueña de los cables y del contador de tu zona. No la eliges y no cambia aunque cambies de compañía. Según la Agencia Andaluza de la Energía, en Andalucía trabajan 71 distribuidoras, pero una sola, Edistribución Redes Digitales, del grupo Endesa, atiende a la gran mayoría de los clientes [VERIFICAR: dato del 94 % de clientes en la web de la Agencia Andaluza de la Energía, que no se ha podido abrir el 7-10-2026].
+
+Para saber cuál es la tuya, mira la factura: aparece su nombre y su teléfono de averías. También te lo dicen los cuatro números que van detrás de «ES» en el CUPS; si son 0031, es Edistribución. Te explicamos cómo leerlo en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+
+## El clima de Andalucía, provincia a provincia {#clima}
+
+El Código Técnico de la Edificación reparte España en zonas climáticas según la provincia y la altitud. La letra mide el invierno, de la α, la más suave, a la E, la más fría; el número mide el verano, de 1 a 4. En Andalucía la altitud lo cambia todo:
+
+{{T:andalucia_zonas}}
+
+Tres cosas que salen de la tabla:
+
+- <strong>Granada es la provincia con más saltos</strong>: va de la zona A4 en la costa, hasta 50 metros, a la E1 por encima de 1.300 metros. Un piso junto al mar y una casa en la sierra están en extremos opuestos.
+- <strong>Sevilla es la más uniforme</strong>: solo dos zonas, B4 hasta 200 metros y C4 por encima. El 4 indica que su verano es de los más severos.
+- <strong>Cádiz y Málaga tienen los inviernos más suaves</strong> en la costa, con zona A3: la calefacción pesa poco en la factura y el aire acondicionado, más.
+
+En las zonas con un 4, el aire acondicionado puede ser el mayor gasto del verano: un equipo de 3.000 frigorías gasta unos 1.000 W cuando trabaja a tope.
+
+## Agua caliente: lo que cuesta en cada capital {#agua-caliente}
+
+El CTE da la temperatura media del agua del grifo en cada capital, mes a mes. Para tres personas que usan 28 litros cada una al día a 60 °C, con un termo eléctrico:
+
+{{T:andalucia_acs}}
+
+Es la energía justa para calentar el agua, sin las pérdidas del termo. Granada es la más cara por su agua fría de invierno, a 8 °C, frente a los 12 °C de la costa. Aun así, la diferencia entre capitales es de pocos euros al año: lo que más cambia es la estación.
+
+{{CAJA:Dato clave}}
+Si tienes tarifa por horas, programa el termo para que caliente de madrugada o en fin de semana. En valle, la misma agua caliente cuesta menos de la mitad que en punta.
+{{/CAJA}}
+
+## Placas solares en Andalucía {#placas}
+
+Con los datos de PVGIS, la herramienta de la Comisión Europea, y la misma casa de ejemplo que en nuestro artículo de <a href="https://tuluzencasa.com/placas-solares-en-casa/">placas solares en casa</a> (3.000 kWh al año, 3 kWp y el 40 % de la producción usada al momento):
+
+{{T:andalucia_solar}}
+
+Cádiz es la capital que más produce, con 1.721 kWh por kWp, y Jaén la que menos, con 1.633. Pero fíjate en la última columna: el ahorro casi no cambia, entre 472,77 € y 483,63 € al año. La razón es que una casa normal no aprovecha toda esa producción. Lo que sobra se compensa a un precio bajo y con un tope mensual, así que el ahorro lo marca lo que consumes cuando hay sol, más que el sol que haya.
+
+La instalación se registra ante la Junta de Andalucía; para las de hasta 10 kW, la empresa instaladora usa la aplicación PUES.
+
+## Trámites en Andalucía: a quién acudir {#tramites}
+
+{{T:andalucia_donde}}
+
+- <strong>El boletín eléctrico</strong> de una vivienda nueva o reformada lo registra la empresa instaladora en la Junta. Según la propia Junta, se usa TECI cuando la obra no necesita proyecto ni dirección técnica, que es lo normal en una vivienda, y PUES cuando sí los necesita. Tú no tienes que presentarlo.
+- <strong>Las reparaciones</strong> no se registran: en TECI y PUES solo se comunican las instalaciones nuevas, las ampliaciones y las modificaciones.
+- <strong>Si reclamas</strong> y tu compañía no te da la razón, puedes acudir a Consumo Responde, el servicio de la Junta, y pedir un arbitraje de consumo. La empresa tiene que estar adherida al sistema arbitral o aceptar el arbitraje de tu caso.
+
+## Trucos para pagar menos luz en Andalucía {#trucos}
+
+- <strong>En verano, enfría la casa en llano</strong>: con tarifa por horas, de 14 a 18 h el kWh es más barato que de 18 a 22 h, que es punta en días laborables.
+- <strong>Persianas bajadas en las horas de sol</strong> en las fachadas sur y oeste: el aire acondicionado trabaja menos.
+- <strong>Si piensas en placas, ajusta la instalación a tu consumo de día</strong>: con tanto sol, el riesgo en Andalucía es pasarse de potencia y regalar excedentes.
+- <strong>En la sierra, revisa la potencia en invierno</strong>: con calefacción eléctrica puede hacer falta más; desde 2026 puedes subirla solo por meses.
+- <strong>Programa el termo</strong> en las horas baratas si tienes tarifa por horas.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿La luz es más cara en Andalucía?
+
+No. El precio, los peajes y los impuestos son los mismos que en el resto de la península. Lo que cambia es el consumo: menos calefacción en la costa y más aire acondicionado en el interior.
+
+### ¿Qué distribuidora tengo en Andalucía?
+
+En la mayor parte de la comunidad, Edistribución. Lo confirmas en tu factura o en el CUPS: si empieza por ES0031, es ella.
+
+### ¿Dónde se registra el boletín eléctrico en Andalucía?
+
+En la Junta de Andalucía, a través de las aplicaciones TECI o PUES. Lo hace la empresa instaladora, no el titular.
+
+### ¿Compensan las placas solares en Andalucía?
+
+Producen más que en casi cualquier otra comunidad: unos 1.650 kWh por kWp al año en Sevilla o Málaga. El ahorro depende sobre todo de cuánto consumas mientras hay sol.
+
+Fuentes oficiales consultadas el 7 de octubre de 2026:
+
+- <a href="https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf" target="_blank" rel="noopener">Código Técnico de la Edificación, Documento Básico HE</a>: anejo B (zonas climáticas por provincia y altitud), anejo G (agua de red) y sección HE4.
+- <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS, Comisión Europea</a>: producción de 1 kWp a 30° orientado al sur en cada capital.
+- Junta de Andalucía: <a href="https://www.juntadeandalucia.es/organismos/industriaenergiayminas/areas/industria/instalaciones/paginas/instalaciones-liberalizadas.html" target="_blank" rel="noopener">instalaciones que no requieren autorización previa</a> y <a href="https://www.juntadeandalucia.es/sites/default/files/inline-files/2023/03/Preguntas_inst_electricas%20-PUES-TECI_v1.4_rev.Sev_.En_.pdf" target="_blank" rel="noopener">preguntas frecuentes sobre PUES y TECI</a>.
+- <a href="https://www.consumoresponde.es/solicitar-arbitraje-consumo" target="_blank" rel="noopener">Consumo Responde, arbitraje de consumo</a>.
+- <a href="https://www.agenciaandaluzadelaenergia.es/es/node/422" target="_blank" rel="noopener">Agencia Andaluza de la Energía, distribución eléctrica</a>.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu aire acondicionado, tu termo y el resto de aparatos, y mira cuánto pesa cada uno.

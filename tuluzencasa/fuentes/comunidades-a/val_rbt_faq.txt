@@ -1,0 +1,151 @@
+Fuente: https://sede.gva.es/descarregues/2026/05/148029-39.2_PREGUNTAS_FRECUENTES_NUEVA_TRAMITE_ASIGNACION_REGISTRO_RBT_11-05-2026.pdf
+Consultada: 2026-10-07
+
+ 
+ 
+FAQs 
+PREGUNTAS FRECUENTES  
+TRÁMITES  
+Industria
+Código GVA: 109592
+Versión: 11/5/2026
+ 
+1/3 
+ 
+ 
+NUEVO TRAMITE 
+SOLICITUD DE ASIGNACION DE NÚMERO DE REGISTRO DE INSTALACIONES ELÉCTRICAS DE 
+BAJA TENSION EN INSTALACIONES EXISTENTES  
+https://sede.gva.es/es/detall-tramit?id_proc=109592 
+ 
+ 
+ 
+¿A qué tipos de instalaciones resulta aplicable este trámite? 
+Este trámite tiene como objetivo solicitar la asignación de un número de registro de 
+instalaciones eléctricas en baja tensión de aquellas instalaciones existentes que, habiendo 
+tramitado en su día la comunicación de la puesta en funcionamiento de la instalación, de 
+acuerdo con el trámite existente en dicho momento, no figura registrada en las bases de 
+datos de esta Conselleria. 
+ 
+¿Puede utilizarse este trámite para comunicar la puesta en funcionamiento de una 
+nueva instalación? 
+No, para la comunicación de la puesta en funcionamiento de una nueva instalación 
+eléctrica en baja tensión deben utilizarse los trámites específicos establecidos que podrán 
+encontrar en el Portal de Industria: https://sede.gva.es/es/detall-tramit?id_proc=436 
+ 
+¿Quién puede solicitar este trámite? 
+El interesado en la instalación.  Se entiende por interesado, tal y como define la Ley 
+39/2015, de Procedimiento Administrativo, el titular de derecho o interés legítimo individual 
+o colectivo. 
+ 
+¿Cómo demostrar que soy el interesado? 
+El trámite es una declaración responsable que debe estar firmada por la persona que tiene 
+el interés legítimo en la instalación.  
+ 
+¿Cuándo debe realizarse este trámite?  
+Este trámite deberá realizarse obligatoriamente para hacer la inspección periódica de la 
+instalación eléctrica en baja tensión si no se dispone del número de registro de la 
+instalación, ya que la instrucción 1/2025, de esta Conselleria obliga a los Organismos de 
+Control a indicar el número de registro especial en las inspecciones periódicas de 
+instalaciones sometidas a reglamentos de seguridad industrial. 
+ 
+ 
+¿Cómo comprobar si dispongo del número de registro de la instalación? 
+
+ 
+ 
+FAQs 
+PREGUNTAS FRECUENTES  
+TRÁMITES  
+Industria
+Código GVA: 109592
+Versión: 11/5/2026
+ 
+2/3 
+ 
+ 
+La comprobación de la existencia del número de registro de la instalación se realizará a 
+través de los enlaces de consulta de esta Conselleria: https://portalindustria.gva.es/es 
+ 
+¿Es posible que la instalación eléctrica esté registrada a nombre de otro titular? 
+Las instalaciones eléctricas constan registradas con los datos de los titulares que 
+presentaron inicialmente la documentación en los Servicios Territoriales. Si 
+posteriormente no ha realizado un cambio de titularidad de las mismas en este Servicio 
+Territorial todavía constan registradas a su nombre. 
+ 
+¿Cómo comprobar si la instalación está registrada a nombre de otro titular? 
+A través de los enlaces de consulta de esta Conselleria: https://portalindustria.gva.es/es, 
+pero indicando el CUPS de la instalación, o bien la dirección de la instalación, como criterio 
+de búsqueda. 
+ 
+¿Qué hacer si la instalación eléctrica sí consta registrada, pero está a nombre de otro 
+titular? 
+En este caso debe tramitarse un cambio de titularidad de la instalación utilizando para ello 
+el siguiente enlace: https://sede.gva.es/es/detall-tramit?id_proc=436.  En este caso no 
+debe solicitarse la asignación de un nuevo número de registro de la instalación. 
+ 
+¿En el caso que no encuentre ningún número de registro RBT y deba utilizar el trámite 
+de asignación de número de registro, el trámite es automático?  
+Este trámite es automático únicamente si se dispone del número de certificado de la 
+instalación eléctrica. En caso contrario, el trámite no es automático. 
+ 
+¿Cómo puedo saber el número de certificado de la instalación? 
+A través del trámite de duplicados de certificados que permite obtener copia de dicho 
+documento, al que se accede a través del siguiente enlace: https://sede.gva.es/es/detall-
+tramit?id_proc=22198.  
+ 
+¿Todas las instalaciones eléctricas en baja tensión disponen de certificado de 
+instalación? 
+Sí, este el documento que se genera en el momento de la comunicación de la puesta en 
+funcionamiento de la instalación y es el documento obligatorio para la contratación con la 
+compañía suministradora, 
+ 
+¿Por qué no encuentro el certificado de la instalación eléctrica a mi nombre? 
+El certificado de la instalación es un documento que reúne los datos de la instalación en el 
+momento de su puesta en funcionamiento. Es decir, la dirección y el titular que figuran en 
+este documento son los que pusieron en marcha la instalación.  Muchas veces estos 
+titulares no son los actuales usuarios de la instalación. También es posible que el sistema 
+no encuentre el certificado si la instalación es muy antigua y no tenemos los datos del 
+certificado informados en la base de datos. 
+ 
+ 
+ 
+FAQs 
+PREGUNTAS FRECUENTES  
+TRÁMITES  
+Industria
+Código GVA: 109592
+Versión: 11/5/2026
+ 
+3/3 
+ 
+ 
+¿Podré hacer la búsqueda del certificado si no está a mi nombre? 
+Sí. Si usted es interesado en la instalación podrá hacer la búsqueda del duplicado del 
+certificado indicando el nombre del anterior titular, el CUPS o la dirección. 
+ 
+¿En los edificios de viviendas, quienes son los titulares de los certificados? 
+En los edificios de viviendas, tanto en las viviendas de particulares como en las zonas 
+comunes y los garajes, los certificados suelen estar a nombre de las promotoras o 
+constructoras de los edificios; por lo tanto, hay que hacer la búsqueda de los certificados 
+indicando estos nombres como los anteriores titulares. 
+ 
+¿ Y si no dispongo del número de certificado de la instalación? 
+En este caso el trámite de asignación del número de registro RBT no es automático y una 
+vez abierto el expediente pasará a revisión y búsqueda del personal técnico administrativo, 
+con el consiguiente retraso que esto puede originar. 
+ 
+¿ Y si dispongo del número de certificado la asignación del número RBT será inmediata? 
+Sí, en este caso el trámite es automático y tan pronto como se finalice el trámite ya podrá 
+disponer del número de registro RBT para continuar. 
+ 
+¿Cómo comprobar si el trámite ha asignado el número RBT de la instalación?  
+Los cambios pueden consultarse en el portal de Industria:  https://portalindustria.gva.es/es 
+Este trámite genera una hoja de comunicación al solicitante. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

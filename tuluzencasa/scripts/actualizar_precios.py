@@ -28,7 +28,7 @@ from subir2 import req  # noqa: E402
 
 TMP = Path(os.environ.get("TL_TMP", tempfile.gettempdir())) / "tuluzencasa-precios"
 REV = BASE / "revision-precios"
-CALC = ["calculos.py", "calculos_calefaccion.py", "calculos_calefaccion2.py"] + [f"calculos_tanda{i}.py" for i in range(3, 9)]
+CALC = ["calculos.py", "calculos_calefaccion.py", "calculos_calefaccion2.py"] + [f"calculos_tanda{i}.py" for i in range(3, 9)] + ["calculos_comunidades_a.py"]
 FACT = ["como_leer_la_factura.py", "pvpc_o_mercado_libre.py", "pvpc_factura_ejemplo.py", "que_potencia_contratar.py"]
 # entrada publicada -> archivos de cálculo que la explican
 MD = {

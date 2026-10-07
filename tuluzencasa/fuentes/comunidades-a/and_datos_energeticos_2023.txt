@@ -1,0 +1,5322 @@
+Fuente: https://www.juntadeandalucia.es/sites/default/files/2025-03/Datos_Energeticos_Andalucia_2023.pdf
+Consultada: 2026-10-07
+
+Datos Energéticos 
+de Andalucía 
+2023
+Agencia Andaluza 
+de Energía
+Edita:
+Agencia Andaluza de la Energía
+Consejería de Industria, Energía y Minas
+Junta de Andalucía
+C/ Isaac Newton, 6, 41092. Isla de la Cartuja, Sevilla
+Teléfono: 954 78 63 35 / / Fax: 954 78 63 50
+atencionalciudadano.aae@juntadeandalucia.es
+www.agenciaandaluzadelaenergia.es
+Datos Energéticos 
+de Andalucía 
+2023
+Agencia Andaluza 
+de Energía
+Datos Energéticos de Andalucía 2023 Agencia Andaluza de la  Energía | 3
+Índice
+1. Andalucía en el contexto 
+energético europeo 6
+4. Análisis por fuentes
+energéticas 37
+11
+2. Andalucía dentro 
+del panorama energético 
+nacional
+130
+10. Unidades y factores 
+de conversión
+17
+3. Situación energética 
+de Andalucía
+123
+8. Balance energético 
+de Andalucía
+116
+7. Energía 
+y medio ambiente
+775. Análisis por sectores
+986. Análisis provincial
+1269. Glosario
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+El balance energético de Andalucía de 2023 ofrece datos 
+significativos que constatan importantes avances en la 
+descarbonización del sistema energético y en la sostenibilidad 
+de la economía andaluza, gracias a una menor dependencia de 
+los combustibles fósiles.
+Así, en 2023 la Comunidad andaluza ha conseguido aumentar su 
+Producto Interior Bruto gastando menos energía. De esta forma, 
+el consumo de energía primaria ha sido el más bajo desde el año 
+2001 (16.192,1 ktep) -y un 4,6% menos que en 2022-, en un ejercicio en el 
+que el PIB de Andalucía ha crecido un 2,5%; lo que confirma la tendencia al 
+desacoplamiento entre el crecimiento económico de la región y la demanda 
+de energía observada en los últimos años.
+Además, esta reducción de consumo se ha producido fundamentalmente en 
+las fuentes de energía fósiles utilizadas para la generación de energía eléctrica, 
+en contraposición a un incremento del 10% de la electricidad procedente 
+de renovables; lo que ha favorecido que, para la producción de un megavatio hora 
+en el mix eléctrico andaluz, la región emita un 53,5% menos de CO 2 que hace 
+diez años. Por su parte, la energía final se ha reducido 
+un 2,4% hasta los 12.095,0 ktep. 
+2023 ha sido también el año en el que se ha registrado un 
+récord de potencia renovable anual instalada, con 1.605 
+nuevos megavatios, siendo el 94% de ellos fotovoltaicos. Con 
+esto se ha logrado que el 57% de toda la electricidad producida 
+en Andalucía sea de origen renovable. 
+  PRESENTACIÓN
+Datos Energéticos de Andalucía 2023
+ Agencia Andaluza de la  Energía | 4
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Además, se cumplen 20 años de la primera edición de “Datos energéticos de Andalucía” que 
+publica periódicamente la Agencia Andaluza de la Energía, nacida con vocación de servicio público y 
+con la intención de poner a disposición de la sociedad (organismos públicos, empresas y ciudadanía en 
+general)  la información estadística necesaria para adquirir una visión completa de la realidad 
+energética de Andalucía. Información que también puede consultarse a escala provincial 
+con mayor nivel de desagregación en la web de la entidad, a través de la herramienta 
+estadística “Info-Energía”.
+En estas dos décadas, los datos de balance energético recogidos en sus 
+páginas han ido reflejando la transformación que está experimentando 
+el sistema energético andaluz, fruto del desarrollo de políticas públicas 
+que, a nivel europeo, nacional y autonómico, están impulsando la transición 
+energética hacia una economía neutra en carbono, uno de los mayores retos 
+de nuestro tiempo.
+Una publicación a través de la cual hemos podido ser testigos de distintos 
+acontecimientos que, a lo largo de estos años, han tenido un efecto directo 
+y notable en el consumo de energía y en su forma de abastecimiento: 
+la aprobación de una profusa legislación energética y medioambiental 
+relativa al impulso de la eficiencia energética y las energías renovables; 
+la reforma del mercado eléctrico; la crisis económica global de 2008 o, 
+más recientemente, la pandemia del Covid-19 y la guerra en Ucrania.
+Desde estas páginas, la Agencia Andaluza de la Energía quiere agradecer 
+la colaboración que durante todo este tiempo han brindado organismos 
+públicos, asociaciones y empresas para hacer posible que año tras año 
+podamos ofrecer una información técnica extensa y fiable de la situación 
+energética en Andalucía.
+Datos Energéticos de Andalucía 2023 Agencia Andaluza de la  Energía | 5
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+1. Andalucía
+en el contexto
+energético
+europeo
+Agencia Andaluza de la  Energía | 7
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+La comparativa de los tres ámbitos de análisis (Unión 
+Europea, España y Andalucía) toma como referencia el año 
+2022, el más reciente del que se tienen datos de la Unión Europea 
+a cierre de la edición de esta publicación (diciembre de 2024).
+Consumo de energía primaria
+El consumo de energía primaria en la Unión Europea decreció 
+un 4,9% hasta los 1.337,2 Mtep, en un contexto de crisis energética 
+y de precios máximos del gas natural desde los primeros días de la 
+guerra en Ucrania. España registra un incremento del consumo, un 
+1,1%, alcanzando los 118,2 Mtep, el 8,8% del total de la Unión Europea. 
+En Andalucía, la energía primaria se mantiene prácticamente igual 
+al año anterior, cifrándose en 17,0 Mtep, el equivalente al 1,2% del 
+consumo total del conjunto de los Estados miembros.
+Unidad: Mtep EUROPA ESPAÑA ANDALUCÍA
+Consumo de energía primaria 1.337,2 118,2 17,0
+Consumo de energía final 1.016,3 86,1 12,4
+Grado de autobastecimiento 42,1 % 30,4 % 19,4 %
+En 2022 decrece en 0,4 puntos porcentuales 
+el aporte de la producción autóctona al 
+consumo de energía total en la Unión Europea, 
+representado por el indicador denominado grado 
+de autoabastecimiento energético, que se 
+sitúa en el 42,1% y que baja al 30,4% a nivel nacional. 
+En Andalucía, dicho indicador aumenta en 0,1 puntos 
+hasta el 19,4%.
+En la Unión Europea, respecto a 2021, solo se incrementa 
+la producción de carbón, mientras que se reducen el 
+resto de las fuentes, especialmente la energía nuclear. En 
+España ocurre lo contrario, la nuclear experimenta un fuerte 
+incremento y la producción de carbón es inexistente, mientras 
+que se reducen todas las demás fuentes, especialmente las 
+energías renovables. En Andalucía, el 99,9% de la producción 
+para consumo interior procede de fuentes renovables, siendo 
+gas natural el 0,1 % restante.
+Fuentes: EUROSTAT, MITERD y elaboración propia. Datos año 2022Fuentes: EUROSTAT, MITERD y elaboración propia. Datos año 2022
+91,2 %
+8,8 %
+Unión Europea AndalucíaResto de España
+7,6 %
+1,2 %
+Agencia Andaluza de la  Energía | 8
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Estructura del consumo de energía primaria por fuentes
+Consumo de energía primaria por fuentes
+El petróleo continúa siendo la fuente energética más 
+consumida e incrementa su participación en la estructura del 
+consumo total en los tres ámbitos respecto a 2021 sobre todo 
+en España y Andalucía, con el 45,5% y 49,1% respectivamente, 
+frente al 35,4% del conjunto de Estados miembros.  
+El peso del gas natural se reduce en la Unión Europea y 
+España, aumentando en Andalucía. En la Unión Europea, 
+supone el 22,2% del total de consumo de energía primaria, 
+24,0% en España y 27,8% en Andalucía.
+El carbón sufre un cambio de tendencia respecto a los 
+últimos años y aumenta su cuota hasta el 2,8% en el ámbito 
+andaluz, el 3,0% en España y 12,4% en la estructura de la 
+Unión Europea.
+Las energías renovables aumentan su aporte a la matriz 
+de consumo de energía primaria en la Unión Europea 
+situándose en 17,4% y lo reducen en el ámbito nacional y 
+andaluz, situándose en el 15,6% y el 19,5% respectivamente.
+La participación de la energía nuclear se redujo en 1,6 
+puntos porcentuales en la Unión Europea respecto al año 
+anterior, suponiendo el 11,6%. En el ámbito nacional su peso 
+aumentó en 0,3 puntos porcentuales, hasta el 12,9%. En 
+Andalucía su aportación es nula, por la inexistencia de este 
+tipo de generación. 
+Unidad: Mtep EUROPA ESPAÑA ANDALUCÍA
+Carbón 166,3 3,6 0,5
+Petróleo 472,7 53,8 8,3
+Gas natural 294,2 28,3 4,7
+Nuclear 155,5 15,3 0,0
+Energías renovables 232,3 18,4 3,3
+Otras 15,1 0,5 0,0
+Saldo de energía 
+eléctrica 1,1 -1,7 0,1
+TOTAL 1.337,2 118,2 17,0
+1,1 %
+49,1 %
+0,1 %
+17,4 %
+11,6 %
+12,9 %
+15,6 %
+22,0 % 24,0 %
+35,4 % 45,5 %
+19,5 %
+-1,4 %
+3,0 % 2,8 %
+0,8 %
+27,8 %
+12,4 %
+Carbón
+EUROPA ESPAÑA ANDALUCÍA
+Energías renovables Petróleo
+Otras
+Gas Natural
+Saldo de energía eléctrica 
+Nuclear
+Fuentes: EUROSTAT, MITERD y elaboración propia. Datos año 2022
+Carbón Petróleo Gas natural Nuclear
+Otras Saldo de energía eléctrica
+Energías renovables
+EUROPA ESPAÑA ANDALUCÍA
+Agencia Andaluza de la  Energía | 9
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Consumo de energía final
+El consumo de energía final en 2022, incluidos los usos no 
+energéticos, se ha reducido un 3,8% en el ámbito europeo hasta 
+alcanzar los 1.016,3 Mtep, de los que 938,2 Mtep se destinaron a uso 
+energético. En Andalucía también se ha reducido un 3,9% hasta 
+alcanzar los 12,4 Mtep, mientras que en España creció un 0,6%.
+Los derivados del petróleo continúan siendo la fuente de energía 
+más consumida en términos de energía final en los tres ámbitos (al 
+igual que en energía primaria), seguidos por la energía eléctrica y el 
+gas natural. 
+El consumo de energía final en España y Andalucía equivale, 
+respectivamente, al 8,5% y al 1,2% del consumo total del conjunto 
+de los Estados miembros.
+91,5 %
+8,5 %
+Fuentes: EUROSTAT, MITERD y elaboración propia. Datos año 2022
+Fuentes: EUROSTAT, MITERD y elaboración propia. Datos año 2022Unión Europea
+Los productos petrolíferos representan en Andalucía el 57,4% 
+dentro de la matriz de consumo final en el año 2022, el 54,1% en el 
+ámbito nacional y el 42,6% en el europeo.
+El peso de la electricidad se situó en 20,4% en la Unión Europea y 
+22,4% y 22,5% respectivamente en España y Andalucía.
+El gas natural supuso en la estructura de consumo de energía 
+final en la Unión Europea el 19,2%, el 15,2% en España y el 11,7% en 
+Andalucía.
+La participación de las renovables en la matriz de consumo 
+final ascendió al 9,2% en la Unión Europea y 6,6% en España. En 
+Andalucía aumentó en 0,2 puntos porcentuales respecto al año 
+2021, situándose en el 8,1%. 
+El carbón en 2022 aportó 
+el 0,3% en Andalucía; 1,5% 
+a nivel nacional y 3,9% en 
+el conjunto de los Estados 
+miembros.
+54,1 %
+8,1 %
+9,2 %
+15,2 %
+0,2 %
+20,4 %
+22,4 %
+57,4 %
+21,4 %
+6,6 %4,6 %
+39,4 %
+1,5 %
+22,5 %
+0,3 %
+11,7 %
+3,9%
+Carbón Energías 
+renovables 
+Productos 
+petrolíferos OtrasGas Natural Energía 
+eléctrica 
+EUROPA ESPAÑA ANDALUCÍA
+Estructura del consumo de energía final por fuentes
+Carbón Productos
+petrolíferos
+Gas natural OtrasEnergía 
+eléctrica
+Energías
+renovables
+EUROPA ESPAÑA ANDALUCÍA
+AndalucíaResto de España
+7,3 %
+1,2 %
+Agencia Andaluza de la  Energía | 10
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Consumo de energía final por fuentes Consumo de energía final por sector de actividad (Mtep)Consumo de energía final por sector de actividad
+Unidad: Mtep EUROPA ESPAÑA ANDALUCÍA
+Carbón 40,1 1,3 0,0
+Poductos petrolíferos 432,6 46,6 7,1
+Gas natural 195,5 13,1 1,4
+Energía eléctrica 207,3 19,3 2,8
+Energías renovables 93,8 5,7 1,0
+Otras 47,0 0,2 0,0
+TOTAL 1.016,3 86,1 12,4
+Unidad: Mtep EUROPA ESPAÑA ANDALUCÍA
+Industria 320,1 23,5 3,4
+Transporte 315,9 36,3 5,1
+Otros sectores 380,3 26,3 3,8
+TOTAL 1.016,3 86,1 12,4
+Fuentes: EUROSTAT, MITERD y elaboración propia. Datos año 2022
+Fuentes: EUROSTAT, MITERD y elaboración propia. Datos año 2022 Fuentes: EUROSTAT, MITERD y elaboración propia. Datos año 2022.
+Otros sectores: Servicios, residencial y primario
+37,4 %
+31,1 %
+31,5 %
+30,5 %
+42,2 %
+27,3 %
+31,0 %
+41,4 %
+27,6 %
+Industria Transporte Otros sectores
+EUROPA ESPAÑA ANDALUCÍA
+Industria Transporte Otros sectores
+EUROPA ESPAÑA ANDALUCÍA
+2. Andalucía 
+dentro del panorama 
+energético nacional
+Agencia Andaluza de la  Energía | 12
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+El consumo de energía primaria1 en España en 2023 se redujo un 3,2%, 3.778,7 ktep menos que 
+el consumo registrado en 2022, hasta situarse en 114.453,0 ktep. Por fuentes, se reduce el consumo de 
+gas natural (11,5%, 3.272,1 ktep), petróleo (2,6%, 1.417,0 ktep), carbón (20,4%, 731,4 ktep) y nuclear (3,2%, 
+487,9 ktep), fuente inexistente en Andalucía.
+Se incrementa el consumo de energías renovables (8,9%, 1.628,9 ktep) y el saldo eléctrico mantiene su 
+carácter exportador tras varios años en los que se ha importado energía eléctrica, situándose en 1.144,5 
+ktep.
+1 La metodología de cálculo de energía primaria se corresponde con la metodología de cálculo del consumo interior bruto (Europe 2020-2030) 
+definido por la Comisión Europea.
+En Andalucía, se reduce el consumo de energía primaria en mayor medida, un 4,6% (778,5 
+ktep) hasta alcanzar los 16.192,1 ktep. Destaca el fuerte descenso del consumo de gas natural respecto 
+a 2022 (12,0%, 565,8 ktep), del carbón (83,5%, 403,4 ktep) y del petróleo (4,0%, 335,1 ktep). Suben 
+ligeramente las fuentes de energía renovable (1,4%, 47,5 ktep) y el saldo eléctrico importador, que 
+aumenta en 478,2 ktep para situarse en 2023 en 610,2 ktep.
+El grado de autoabastecimiento energético en Andalucía (la relación entre la producción au-
+tóctona para consumo propio y el consumo de energía total) aumenta en 1,2 puntos porcentuales, 
+hasta situarse en el 20,6 %. Las fuentes renovables suponen en 2023 el 99,9% de los recursos 
+propios con los que la Comunidad cubre parte de su consumo de energía, siendo 0,1% la parte abas-
+tecida con gas natural. A nivel nacional no se dispone del dato correspondiente a 2023 al cierre de esta 
+publicación.
+Consumo de energía primaria en 2023
+Unidad: ktep ESPAÑA % 2023/
+2022 ANDALUCÍA % 2023/
+2022
+ANDALUCÍA/ 
+ESPAÑA 
+Consumo de energía primaria 114.453,0 -3,2% 16.192,1 -4,6% 14,1%
+Consumo de energía final 86.317,0 0,2% 12.095,0 -2,4% 14,0%
+Producción para consumo interior N.D. N.D. 3.341,3 1,7% N.D.
+Grado de autoabastecimiento N.D. N.D. 20,6% 6,6% N.D.
+N.D.: No disponible.
+Fuentes: Balance energético provisional 2023 (MITERD) de abril 2024 y elaboración propiaFuentes: Balance energético provisional 2023 (MITERD) de abril 2024 y elaboración propia
+114.453
+86.317
+16.19212.095
+Consumo de energía 
+primaria (ktep)
+Consumo de energía final 
+(ktep)
+ANDALUCÍAESPAÑA
+Agencia Andaluza de la  Energía | 13
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Dentro de la estructura energética al petróleo le sigue 
+correspondiendo la mayor cuota, aumentando en 2023 al 45,8% del 
+consumo total en España y el 49,4% en Andalucía.
+La contribución del gas natural, segunda fuente de energía de 
+mayor consumo, se cifra en un 25,7% en Andalucía y un 21,9% en la 
+estructura de consumo de energía nacional. 
+Las energías renovables consolidan su posición como tercera 
+fuente de consumo en la matriz energética, con una participación 
+49,4 %
+12,9 %
+17,5 %
+21,9 %
+45,8 %
+20,7 %
+-1,0 %
+2,5 %
+0,4 %
+0,5 %
+3,7 %
+25,7 %
+Carbón Petróleo Gas 
+natural
+Nuclear Otras Saldo de 
+energía 
+eléctrica
+Energías
+renovables
+Estructura del consumo de energía primaria por fuentes en 2023
+ANDALUCÍAESPAÑA
+Fuentes: Balance energético provisional 2023 (MITERD) de abril 2024 y elaboración propia
+del 20,7% del consumo de energía primaria a nivel andaluz. En 
+España, mantiene un aporte del 17,5% del consumo total, por enci-
+ma del aporte de la nuclear (inexistente en territorio andaluz) que 
+supone un 12,9%. 
+El peso del carbón en la estructura de consumo de energía primaria 
+disminuye drásticamente en ambos ámbitos hasta suponer el 0,5% 
+en la comunidad autónoma y el 2,5% a nivel nacional.
+Unidad: ktep ESPAÑA % ANDALUCÍA % ANDALUCÍA/
+ ESPAÑA 
+Carbón 2.861,3 2,5% 79,9 0,5% 2,8%
+Petróleo 52.419,5 45,8% 7.994,7 49,4% 15,3%
+Gas natural 25.065,2 21,9% 4.157,7 25,7% 16,6%
+Nuclear 14.764,4 12,9% 0,0 0,0% 0,0%
+Energías renovables 20.029,3 17,5% 3.349,6 20,7% 16,7%
+Otras 457,8 0,4% - - -
+Saldo de energía eléctrica -1.144,5 -1,0% 610,2 3,7% -
+TOTAL 114.453,0 100,0% 16.192,1 100,0% 14,1%
+Fuentes: Balance energético provisional 2023 (MITERD) de abril 2024 y elaboración propia
+Agencia Andaluza de la  Energía | 14
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Datos Energéticos de Andalucía 2023
+Productos petrolíferos
+Gas natural
+Energía eléctrica
+Energías renovables
+Carbón
+Otras
+0,02 %1,2 %0,3 %
+57,2 %53,7 %
+16,2 %
+22,1 %
+6,5 %
+12,1 %
+23,7 %
+7,0 %
+ANDALUCÍAESPAÑAEl consumo de energía final en España crece un 0,2% (185,5 ktep) hasta los 
+86.317,0 ktep. En Andalucía en cambio, el consumo se reduce un 2,4% (295,6 ktep) y se 
+cifra en 12.095,0 ktep.
+Consumo de energía final en 2023
+ Estructura del consumo de energía final por fuentes en 2023
+Fuentes: Balance energético provisional 2023 (MITERD) de abril 2024 y elaboración propia
+Agencia Andaluza de la  Energía | 15
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Por fuentes, en España crece el consumo de gas natural (6,7%, 878,6 ktep) y descienden 
+el resto, principalmente el carbón (18,1%, 233,5 ktep) y la electricidad (1,1%, 215,9 ktep); y en 
+menor medida las renovables (0,8%, 47,6 ktep).
+En Andalucía, en cambio, decrecen los productos petrolíferos (2,7%,191,1 ktep), las renovables 
+(15,8%, 159,2 ktep) y el carbón (94,3%, 40,0 ktep), y aumenta el consumo de gas natural (1,2%, 
+17,2 ktep) y electricidad (2,8%, 77,4 ktep).
+Consumo de energía final por fuentes en 2023
+Unidad: ktep ESPAÑA % ANDALUCÍA % ANDALUCÍA/
+ ESPAÑA 
+Carbón 1.055,4 1,2% 2,4 0,02 % 0,2%
+Petróleo 46.352,2 53,7% 6.916,7 57,2% 14,9%
+Gas natural 13.983,4 16,2% 1.464,0 12,1% 10,5%
+Energía eléctrica 19.076,1 22,1% 2.862,1 23,7% 15,0%
+Energías renovables 5.610,6 6,5% 849,7 7,0% 15,1%
+Otras 239,3 0,3% - - -
+TOTAL 86.317,0 100,0% 12.095,0 100,0% 14,0%
+Fuentes: Balance energético provisional 2023 (MITERD) de abril 2024 y elaboración propia
+Agencia Andaluza de la  Energía | 16
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Producción/Demanda de energía eléctrica en 2023 Indicadores energéticos en 2023
+Unidad: GWh ESPAÑA % ANDALUCÍA % ANDALUCÍA/
+ ESPAÑA 
+Generación Neta (b.c.) 267.120 -3,3% 31.678 -12,6% 11,9%
+Demanda (b.c.) 244.970 -2,2% 38.230 2,1% 15,6%
+ESPAÑA % ANDALUCÍA %
+EP /Hab (tep/hab) 2,4 -4,4% 1,9 -4,6%
+EF /Hab (tep/hab) 1,8 -1,0% 1,4 -2,4%
+IEP (tep/M€ 2015) 93,6 -5,6% 94,9 -6,9%
+IEF (tep/M€ 2015) 70,6 -2,2% 70,9 -4,7%
+Fuentes: Balance energético provisional 2023 (MITERD) de abril 2024 y elaboración propia.
+Nota: para el cálculo de estos indicadores, los datos de energía primaria y energía final para España y Andalucía incluyen todas las energías 
+renovables.
+Fuentes: Red Eléctrica y elaboración propia
+La demanda de electricidad en la comunidad andaluza ha aumentado un 2,1%, mientras que ha 
+descendido en el conjunto de España (2,2%). La generación neta de electricidad se ha reducido en 
+ambos ámbitos si bien la reducción en Andalucía es más acusada (12,6%).
+Todos los indicadores de consumo de energía per cápita e intensidad energética se reducen 
+respecto al año anterior, tanto a nivel nacional como andaluz.
+3. Situación 
+energética 
+de Andalucía
+Agencia Andaluza de la  Energía | 18
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+En 2023 se reducen las demandas de energía primaria y final respecto a 2022. El consumo de energía primaria alcanza su valor más bajo desde 2001, reduciéndose un 4,6% (778,5 ktep) hasta los 16.192,1 ktep. 
+Así mismo, el consumo de energía final sigue también descendiendo, aunque en menor medida, un 2,4% (295,6 ktep) hasta situarse en 12.095,0 ktep.
+Evolución del consumo y producción 
+para consumo interior de energía
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Consumo de Energía Primaria 17.754,5 18.440,8 18.632,5 18.340,1 19.490,0 19.351,0 19.224,8 16.426,9 16.968,3 16.970,6 16.192,1
+Consumo de Energía Final 11.858,4 12.393,1 12.223,8 12.301,9 12.979,0 13.110,4 13.597,7 11.753,5 12.879,0 12.390,6 12.095,0
+Producción para Consumo Interior 3.357,4 3.625,8 3.144,6 3.465,5 3.573,3 3.279,3 3.689,2 3.513,1 3.271,6 3.285,3 3.341,3
+2013
+25.000
+20.000
+15.000
+10.000
+5.000
+0
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Consumo de Energía Primaria
+Consumo de Energía Final
+Producción para Consumo Interior
+Agencia Andaluza de la  Energía | 19
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+La mayor producción con energías renovables (1,7%, 56,0 ktep) y el descenso del consumo de energía primaria han hecho que el grado de autoabastecimiento energético (porcentaje de consumo que se 
+cubre con energía autóctona) aumente respecto a 2022 y se sitúe en el 20,6%.
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Consumo de Energía Primaria 17.754,5 18.440,8 18.632,5 18.340,1 19.490,0 19.351,0 19.224,8 16.426,9 16.968,3 16.970,6 16.192,1
+Producción para Consumo Interior 3.357,4 3.625,8 3.144,6 3.465,5 3.573,3 3.279,3 3.689,2 3.513,1 3.271,6 3.285,3 3.341,3
+Carbón 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Gas natural 55,4 23,1 9,4 6,3 6,0 7,3 6,3 6,1 6,8 4,9 4,8
+Biomasa 1.297,2 1.563,9 1.139,1 1.338,8 1.354,9 1.351,4 1.521,3 1.353,4 1.477,4 1.485,3 1.295,7
+Hidráulica 111,9 81,6 50,3 62,8 44,9 67,0 53,8 48,2 43,6 25,3 15,2
+Eólica 603,9 557,5 549,6 608,1 621,4 540,6 591,9 581,2 624,9 603,2 543,1
+Solar térmica 67,1 72,7 77,5 79,4 80,7 82,0 84,4 86,1 87,7 89,4 91,0
+Solar fotovoltaica 137,9 137,8 137,5 130,6 139,0 130,1 158,8 313,9 458,4 540,9 783,8
+Termosolar 1.084,0 1.189,2 1.181,1 1.239,6 1.326,2 1.100,9 1.272,8 1.124,2 572,7 536,4 607,6
+Grado de Autoabastecimiento 18,9 % 19,7 % 16,9 % 18,9 % 18,3 % 16,9 % 19,2 % 21,4 % 19,3 % 19,4 % 20,6 %
+Evolución del grado de autoabastecimiento energético
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Agencia Andaluza de la  Energía | 20
+2013
+0
+5.000
+10.000
+15.000
+25.000
+20.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Producción para Consumo Interior Consumo de Energía Primaria
+Agencia Andaluza de la  Energía | 21
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Estructura de la producción para consumo interior en 2023
+La energía solar fotovoltaica ha aumentado su aporte en 2023 (44,9%, 242,9 ktep), al igual que la 
+termosolar (13,3%, 71,2 ktep) y, en menor medida, la solar térmica (1,8%, 1,6 ktep), suponiendo en su 
+conjunto el 44,4% (1.482,4 ktep) de la producción total. 
+Estas tecnologías han contrarrestado el descenso experimentado por la biomasa (12,8%, 
+189,6 ktep), que, aún con esta disminución, (incluidos biocarburantes), aportó el 38,8% (1.295,7 ktep) de 
+la producción total. La eólica (10,0%, 60,1 ktep) y la hidráulica (39,9%, 10,1 ktep), también han mostrado 
+una disminución de sus valores en 2023 con respecto al año anterior, siendo el aporte de la energía 
+eólica un 16,3% (543,1 ktep).
+El aporte de gas natural desciende un año más un 2,0% (0,1 ktep menos) si bien solo supone el 0,1% de 
+la producción total para consumo interior.
+Biomasa
+Hidráulica
+Eólica
+Solar térmica
+Solar fotovoltaica
+Termosolar
+Gas natural
+0,1 %
+38,8 %
+16,3 %
+18,2 %
+23,5 %
+2,7 %
+0,5 %
+Total: 3.341,3 ktep
+Agencia Andaluza de la  Energía | 22
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía primaria por fuentes en 2023
+El aporte de las energías renovables crece en 2023 (1,4%, 47,5 ktep), en un año en el que el consumo de carbón alcanza un mínimo histórico, reduciéndose en 403,4 ktep, un 83,5%. Experimentan también 
+un notable descenso los productos petrolíferos (4,0%, 335,1 ktep) y el gas natural (12,0%, 565,8 ktep). 
+Por su parte, aumenta el saldo eléctrico (3,7%, 478,2 ktep), que continúa siendo importador.
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Saldo energía eléctrica 351,0 558,2 308,5 591,2 294,1 520,4 513,2 979,9 891,9 132,0 610,2
+Energías renovables 3.391,9 3.668,1 3.172,5 3.497,9 3.609,1 3.315,8 3.729,3 3.561,0 3.286,5 3.302,1 3.349,6
+Gas natural 4.118,2 3.776,4 3.859,6 4.140,5 4.511,2 4.304,7 5.626,0 4.625,2 4.524,8 4.723,5 4.157,7
+Petróleo 7.697,8 8.150,0 8.303,6 8.067,6 8.562,5 8.618,6 8.605,0 7.171,7 8.170,7 8.329,8 7.994,7
+Carbón 2.195,5 2.288,2 2.988,2 2.042,9 2.513,1 2.591,5 751,3 89,2 94,4 483,3 79,9
+TOTAL 17.754,5 18.440,8 18.632,5 18.340,1 19.490,0 19.351,0 19.224,8 16.426,9 16.968,3 16.970,6 16.192,1
+Agencia Andaluza de la  Energía | 23
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+2013
+0
+5.000
+10.000
+15.000
+25.000
+20.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Saldo energía eléctrica Petróleo CarbónGas naturalEnergías renovables
+Agencia Andaluza de la  Energía | 24
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+El carbón, con 79,9 ktep, reduce su peso al 0,5% en la matriz de energía primaria, siendo la fuente que 
+menos aporta en 2023. 
+La demanda de petróleo y derivados también lo hace, 335,1 ktep, y supone el 49,4% en la estructura 
+de consumo de energía primaria. El gas natural, por su parte, experimenta una caída de consumo de 
+565,8 ktep hasta alcanzar el 25,7% del total del consumo de energía primaria, manteniendo la segunda 
+posición de la estructura.
+Las energías renovables vuelven a aumentar su aporte en 2023 en 47,5 ktep, alcanzando los 3.349,6 
+ktep. Este aumento se ha debido sobre todo al crecimiento de la producción con tecnologías solares, 
+que aportan el 9,2% del consumo total.
+El aporte de energía renovable en la estructura de consumo de energía primaria se sitúa en 
+20,7 % (22,1% sin usos no energéticos). En relación con el aporte de fuentes renovables al consumo 
+final bruto, en 2023 se ha situado en el 22,5%.
+En 2023, aumenta el saldo importador de energía eléctrica en 478,2 ktep (362,3%) lo que supone 
+el 3,7% del consumo total de energía en la comunidad.
+Estructura del consumo de energía primaria por fuentes en 2023
+Solar fotovoltaica Saldo energía eléctrica Termosolar Eólica Solar térmica Carbón HidráulicaPetróleo Gas natural Biomasa
+Total: 16.192,1 ktep
+49,4 % 25,7 % 8,1 %
+3,7 % 3,4 %
+3,8 % 0,6 %
+0,5 %
+0,1 %4,8 %
+Agencia Andaluza de la  Energía | 25
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Energía eléctrica 2.802,1 2.739,0 2.801,7 2.836,5 2.922,3 2.979,0 2.960,7 2.917,9 2.850,9 2.784,7 2.862,1
+Energías renovables 716,8 1.103,7 763,6 946,1 960,7 919,7 1.075,9 822,7 1.014,4 1.008,9 849,7
+Gas natural 1.857,9 1.769,7 1.772,4 1.881,3 1.948,0 1.949,1 2.194,6 1.887,3 1.900,9 1.446,8 1.464,0
+Productos petrolíferos 6.479,0 6.776,7 6.882,4 6.634,3 7.140,6 7.255,8 7.360,9 6.117,2 7.075,0 7.107,8 6.916,7
+Carbón 2,5 4,0 3,7 3,8 7,4 6,8 5,6 8,4 37,9 42,4 2,4
+TOTAL 11.858,4 12.393,1 12.223,8 12.301,9 12.979,0 13.110,4 13.597,7 11.753,5 12.879,0 12.390,6 12.095,0
+El consumo de energía final se reduce un 2,4% (295,6 ktep) y se sitúa en 12.095,0 ktep, de los que un 7,8% (948,7 ktep) es consumo para uso no energético, el cual ha disminuido un 12,8% (139,9 ktep) 
+respecto a la situación de 2022.
+En 2023 se reduce el consumo final de carbón (94,3%, 40,0 ktep), los productos petrolíferos (2,7%; 191,1 ktep) y las energías renovables (15,8%, 159,2 ktep). Aumenta en 1,2% (17,2 ktep) el de gas natural 
+y el consumo de electricidad lo hace en un 2,8% (77,4 ktep).
+Evolución del consumo de energía final por fuentes 
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Agencia Andaluza de la  Energía | 26
+0
+8.000
+6.000
+4.000
+2.000
+10.000
+16.000
+12.000
+14.000
+Unidad: ktep
+2013 2014 2015 2016 2017 2018 2019 202220212020 2023
+Energía eléctrica Productos petrolíferos CarbónGas naturalEnergías Renovables
+Agencia Andaluza de la  Energía | 27
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Estructura del consumo de energía final por fuentes en 2023
+En 2023 los productos petrolíferos siguen siendo el principal consumo de energía final, aunque 
+reduzcan levemente su peso a 57,2% (6.916,7 ktep) en favor de la electricidad, que aumenta en 1,2 
+puntos porcentuales su participación consolidándose como segunda fuente de energía final (23,7%, 
+2.862,1 ktep); y el gas natural, que con 1.464,0 ktep representa el 12,1% del total.
+Las energías renovables reducen su presencia en 1,1 puntos porcentuales hasta un 7,0% (849,7 ktep) 
+y el carbón pasa a ser una fuente de energía final residual al reducirse un 94,3% hasta 2,4 ktep siendo 
+su participación del 0,02%.
+Productos petrolíferos
+57,2 %
+12,1 %
+23,7 %
+3,7 %0,8 %
+2,5 %
+0,02 %
+Total: 12.095,0 ktep
+Biomasa
+Solar térmica
+Biocarburantes
+Energía eléctrica
+Gas natural
+Carbón
+Agencia Andaluza de la  Energía | 28
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía final por sectores de actividad
+En 2023 el sector servicios aumenta su consumo de energía un 9,3% (110,7 ktep) seguido del sector transporte, que lo incrementa un 1,8% (91,9 ktep). El resto de los sectores reducen su consumo.
+Concretamente, la industria experimenta el mayor descenso (10,9%, 37 4,4 ktep) alcanzando un mínimo histórico, seguido del sector primario (7,5%, 69,3 ktep) y el residencial (3,2%, 54,6 ktep).
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Industria 3.650,4 4.150,1 3.704,5 3.745,9 4.052,2 3.900,7 4.257,5 3.766,5 4.103,5 3.420,2 3.045,8
+Transporte 4.224,4 4.360,6 4.516,1 4.601,1 4.985,4 5.185,0 5.322,6 4.050,8 4.838,8 5.127,7 5.219,6
+Primario 924,4 912,9 909,8 944,7 903,6 900,4 922,7 913,5 922,6 925,5 856,2
+Servicios 1.123,1 1.090,0 1.148,3 1.162,3 1.168,1 1.212,6 1.261,9 1.188,2 1.259,7 1.188,0 1.298,7
+Residencial 1.936,0 1.879,5 1.945,1 1.847,9 1.869,7 1.911,7 1.833,0 1.834,5 1.754,5 1.729,2 1.674,6
+TOTAL 11.858,4 12.393,1 12.223,8 12.301,9 12.979,0 13.110,4 13.597,7 11.753,5 12.879,0 12.390,6 12.095,0
+2013
+0
+2.000
+4.000
+6.000
+8.000
+10.000
+16.000
+14.000
+12.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Industria
+Transporte
+Primario
+Servicios
+Residencial
+Agencia Andaluza de la  Energía | 29
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Estructura del consumo de energía final por sectores de actividad en 2023 Evolución y distribución del consumo de energía final en las provincias andaluzas
+En relación con la estructura de consumo de energía final, el transporte supone el 43,2% (5.219,6 
+ktep) del total, la industria baja al 25,2% (3.045,8 ktep), y el resto, servicios, primario y residencial, el 
+31,6% (3.829,5 ktep).
+25,2 %
+13,8 %
+10,7 %
+7,1 %
+43,2 %
+Total: 12.095,0 ktep
+1.007,9
+2.070,1
+1.036,1
+1.151,7
+1.355,1
+992,7
+2.226,0 2.255,4
+Almería Cádiz Córdoba Granada Huelva Jaén Málaga Sevilla
+0
+500
+1.000
+1.500
+2.500
+2.000
+Unidad: ktep
+Con relación al consumo de energía final, este aumenta en Málaga (91,9 ktep, 4,3%), Almería (48,5 
+ktep, 5,1%), Huelva (1,0%, 13,5 ktep) y ligeramente en Córdoba (0,2%, 2,2 ktep). En el resto de las provincias 
+disminuye, sobre todo en Cádiz (9,9%, 226,2 ktep), seguida de Jaén (8,5%, 92,3 ktep), Granada (6,3%, 
+77,8 ktep) y Sevilla (2,4%, 55,5 ktep).
+Sevilla y Málaga siguen siendo las principales provincias consumidoras de energía final, seguidas de 
+Cádiz. Las tres suman el 54,2% de los consumos de la comunidad autónoma.
+Industria
+Transporte
+Primario
+Servicios
+Residencial
+año 2022 año 2023
+Agencia Andaluza de la  Energía | 30
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución y distribución del consumo de energía final en las provincias andaluzas
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Almería 952,9 955,6 946,2 975,7 1.014,8 1.040,3 1.024,4 935,3 973,5 959,4 1.007,9
+Cádiz 2.084,3 2.354,8 2.538,8 2.242,7 2.500,0 2.382,6 2.427,9 2.066,9 2.500,7 2.296,3 2.070,1
+Córdoba 1.034,3 1.088,5 1.009,0 1.059,1 1.073,8 1.086,3 1.140,9 990,9 1.049,5 1.033,9 1.036,1
+Granada 1.164,3 1.210,0 1.167,5 1.164,5 1.250,4 1.295,1 1.308,8 1.144,3 1.448,2 1.229,5 1.151,7
+Huelva 1.552,4 1.470,4 1.368,6 1.437,4 1.562,4 1.613,8 1.792,8 1.7 44,5 1.668,1 1.341,6 1.355,1
+Jaén 995,7 1.060,8 973,3 1.099,5 1.129,6 1.089,4 1.187,9 1.045,2 1.101,0 1.085,0 992,7
+Málaga 1.853,7 1.988,7 1.975,2 2.030,1 2.103,2 2.166,5 2.229,9 1.653,7 1.837,6 2.134,1 2.226,0
+Sevilla 2.220,9 2.264,2 2.245,0 2.293,0 2.345,0 2.436,3 2.485,2 2.172,8 2.300,3 2.310,9 2.255,4
+TOTAL 11.858,4 12.393,1 12.223,8 12.301,9 12.979,0 13.110,4 13.597,7 11.753,5 12.879,0 12.390,6 12.095,0
+Agencia Andaluza de la  Energía | 31
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Consumo de energía per cápita
+El consumo de energía primaria per cápita, 1,9 tep/habitante, es un 4,6% inferior al año anterior. El referido a energía final se sitúa en 1,4 tep/habitante, un 2,4% menor que en 2022. 
+Unidad: tep/habitante 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Energía primaria / habitante 2,1 2,2 2,2 2,2 2,3 2,3 2,3 1,9 2,0 2,0 1,9
+Energía final / habitante 1,4 1,5 1,5 1,5 1,5 1,6 1,6 1,4 1,5 1,5 1,4
+20132012201120102009200820072006200520042003200220012000
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+Índice 2000=100
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Energía Final/habitante
+Energía Primaria/habitante
+Fuente: Instituto de Estadística y Cartografía 
+de Andalucía y elaboración propia
+Agencia Andaluza de la  Energía | 32
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Intensidad energética primaria
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+PIB (M€ 2015) 143.125,2 145.190,9 150.357,2 154.341,7 159.002,8 162.701,6 165.934,3 148.327,4 158.281,1 166.595,8 170.685,5
+Energía Primaria (ktep) 17.754,5 18.440,8 18.632,5 18.340,1 19.490,0 19.351,0 19.224,8 16.426,8 16.968,3 16.970,6 16.192,1
+Intensidad Energética 
+Primaria (tep/M€ 2015) 124,0 127,0 123,9 118,8 122,6 118,9 115,9 110,7 107,2 101,9 94,9
+Índice 2000=100
+20132012201120102009200820072006200520042003200220012000
+90
+80
+70
+60
+50
+100
+110
+120
+130
+140
+150
+2014 2015 2016 2017 2018 2019 202220212020 2023
+La intensidad energética primaria disminuye un 6,9% respecto al año anterior. 
+Energía Primaria
+PIB
+Intensidad Energética Primaria
+Fuente: Instituto de Estadística y Cartografía 
+de Andalucía y elaboración propia
+Agencia Andaluza de la  Energía | 33
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+PIB (M€ 2015) 143.125,2 145.190,9 150.357,2 154.341,7 159.002,8 162.701,6 165.934,3 148.327,4 158.281,1 166.595,8 170.685,5
+Energía Final (ktep) 11.858,4 12.393,1 12.223,8 12.301,9 12.979,0 13.110,4 13.597,7 11.753,5 12.879,0 12.390,6 12.095,0
+Intensidad Energética 
+Final (tep/M€ 2015) 82,9 85,4 81,3 79,7 81,6 80,6 81,9 79,2 81,4 74,4 70,9
+Intensidad energética final
+Índice 2000=100
+20132012201120102009200820072006200520042003200220012000
+90
+80
+70
+60
+50
+100
+110
+120
+130
+140
+150
+2014 2015 2016 2017 2018 2019 202220212020 2023
+La intensidad energética final disminuye un 4,7% respecto al año anterior. 
+Energía Final
+PIB
+Intensidad Energética Final
+Fuente: Instituto de Estadística y Cartografía 
+de Andalucía y elaboración propia
+Agencia Andaluza de la  Energía | 34
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 2.195,5 2.288,2 2.988,2 2.042,9 2.513,1 2.591,5 751,3 89,2 94,4 483,3 79,9
+Petróleo 7.697,8 8.150,0 8.303,6 8.067,6 8.562,5 8.618,6 8.605,0 7.171,7 8.170,7 8.329,8 7.994,7
+Gas natural 4.118,2 3.776,4 3.859,6 4.140,5 4.511,2 4.304,7 5.626,0 4.625,2 4.524,8 4.723,5 4.157,7
+Energías renovables 3.391,9 3.668,1 3.172,5 3.497,9 3.609,1 3.315,8 3.729,3 3.561,0 3.286,5 3.302,1 3.349,6
+Biomasa 1.387,1 1.629,3 1.176,5 1.377,4 1.396,8 1.395,2 1.567,7 1.407,4 1.499,1 1.506,9 1.308,8
+Hidráulica 111,9 81,6 50,3 62,8 44,9 67,0 53,8 48,2 43,6 25,3 15,2
+Eólica 603,9 557,5 549,6 608,1 621,4 540,6 591,9 581,2 624,9 603,2 543,1
+Solar Térmica 67,1 72,7 77,5 79,4 80,7 82,0 84,4 86,1 87,7 89,4 91,1
+Solar Fotovoltaica 137,9 137,8 137,5 130,6 139,0 130,1 158,8 313,9 458,4 540,9 783,8
+Termosolar 1.084,0 1.189,2 1.181,1 1.239,6 1.326,2 1.100,9 1.272,8 1.124,2 572,7 536,4 607,6
+Saldo de energía 
+eléctrica (imp.-exp.) 351,0 558,2 308,5 591,2 294,1 520,4 513,2 979,9 891,9 132,0 610,2
+TOTAL 17.754,5 18.440,8 18.632,5 18.340,1 19.490,0 19.351,0 19.224,8 16.426,9 16.968,3 16.970,7 16.192,1
+Resumen del consumo y producción de energía en Andalucía
+CONSUMO DE ENERGÍA PRIMARIA
+Agencia Andaluza de la  Energía | 35
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+PRODUCCIÓN PARA CONSUMO INTERIOR
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Gas natural 55,4 23,1 9,4 6,3 6,0 7,3 6,3 6,1 6,8 4,9 4,8
+Energías renovables 3.302,0 3.602,6 3.135,2 3.459,3 3.567,2 3.272,0 3.682,9 3.507,0 3.264,8 3.280,4 3.336,4
+Biomasa 1.297,2 1.563,9 1.139,1 1.338,8 1.354,9 1.351,4 1.521,3 1.353,4 1.477,4 1.485,3 1.295,7
+Hidraúlica 111,9 81,6 50,3 62,8 44,9 67,0 53,8 48,2 43,6 25,3 15,2
+Eólica 603,9 557,5 549,6 608,1 621,4 540,6 591,9 581,2 624,9 603,2 543,1
+Solar Térmica 67,1 72,7 77,5 79,4 80,7 82,0 84,4 86,1 87,7 89,4 91,0
+Solar Fotovoltaica 137,9 137,8 137,5 130,6 139,0 130,1 158,8 313,9 458,4 540,9 783,8
+Termosolar 1.084,0 1.189,2 1.181,1 1.239,6 1.326,2 1.100,9 1.272,8 1.124,2 572,7 536,4 607,6
+TOTAL 3.357,4 3.625,8 3.144,6 3.465,5 3.573,3 3.279,3 3.689,2 3.513,1 3.271,6 3.285,3 3.341,3
+Grado 
+de Autoabastecimiento 18,9 % 19,7 % 16,9 % 18,9 % 18,3 % 16,9 % 19,2 % 21,4 % 19,3 % 19,4 % 20,6 %
+Agencia Andaluza de la  Energía | 36
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+CONSUMO DE ENERGÍA FINAL
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 2,5 4,0 3,7 3,8 7,4 6,8 5,6 8,4 37,9 42,4 2,4
+Petróleo 6.479,1 6.776,7 6.882,4 6.634,2 7.140,7 7.255,8 7.360,9 6.117,3 7.075,0 7.107,8 6.916,7
+Gas natural 1.857,9 1.769,7 1.772,4 1.881,3 1.948,0 1.949,1 2.194,6 1.887,3 1.900,9 1.446,8 1.464,0
+Energías renovables 716,8 1.103,7 763,6 946,1 960,7 919,7 1.075,9 822,7 1.014,4 1.008,9 849,7
+Biomasa 514,5 875,1 518,2 685,8 665,0 567,4 716,2 488,9 711,7 688,7 450,9
+Solar Térmica 67,1 72,7 77,5 79,4 80,7 82,0 84,4 86,1 87,7 89,4 91,1
+Biocarburantes 135,2 155,9 167,9 180,8 215,1 270,4 275,3 247,7 215,0 230,9 307,6
+Energía eléctrica 2.802,1 2.739,0 2.801,7 2.836,5 2.922,3 2.979,0 2.960,7 2.917,9 2.850,9 2.784,7 2.862,1
+TOTAL 11.858,4 12.393,1 12.223,8 12.301,9 12.979,1 13.110,4 13.597,7 11.753,5 12.879,0 12.390,6 12.095,0
+Notas:
+La intensidad energética es la relación entre el consumo de energía y el producto interior bruto (PIB) y 
+representa la cantidad de energía consumida en la obtención de una unidad de PIB. Las cifras del PIB 
+son las publicadas por el Instituto de Estadística y Cartografía de Andalucía en octubre de 2024, en la 
+Contabilidad Regional Anual de Andalucía.
+Los datos de consumo recogidos en la presente publicación incluyen los consumos no energéticos. Las 
+estadísticas se revisan de forma continuada, por lo que se pueden producir variaciones de los datos 
+respecto a anteriores publicaciones.
+4. Análisis 
+por fuentes 
+energéticas
+Agencia Andaluza de la  Energía | 38
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de carbón
+El consumo de carbón se reduce hasta su mínimo histórico, tanto en términos de energía primaria como 
+de energía final. Queda relegado al 0,5% de la estructura de consumo total de energía de Andalucía, 
+disminuyendo un 83,5% (403,4 ktep) respecto a 2022.
+Carbón
+Unidad: Mtep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Consumo de energía primaria 2.195,5 2.288,2 2.988,2 2.042,9 2.513,1 2.591,5 751,3 89,2 94,4 483,3 79,9
+Consumo de energía final 2,5 4,0 3,7 3,8 7,4 6,8 5,6 8,4 37,9 42,4 2,4
+El consumo final de carbón también desciende en 40,5 ktep (94,3%) casi desapareciendo de la matriz 
+de consumo final en 2023, con un 0,02%.
+Consumo de energía primaria
+Consumo de energía final
+2013
+2.500
+2.000
+3.500
+3.000
+1.500
+1.000
+500
+0
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: ktep
+Agencia Andaluza de la  Energía | 39
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Desde el año 2011, no hay producción de carbón en Andalucía, siendo nulo el grado de autoabastecimiento 
+energético de dicha fuente.
+Evolución del grado de autoabastecimiento energético del carbón Evolución del consumo de carbón por sectores de actividad
+2,5 4,0 3,7 3,8
+7,4 6,8 5,6
+8,4
+37,9
+42,4
+2,4
+0
+15
+5
+10
+25
+20
+35
+30
+45
+40
+Unidad: ktep
+2013 2014 2015 2016 2017 2018 2019 202220212020 2023
+El único sector de actividad con un consumo de carbón significativo desde 2006 es el sector industrial.
+Agencia Andaluza de la  Energía | 40
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: Mtep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Almería 0,3 0,0 0,0 0,0 0,0 0,0 0,0 1,1 1,1 0,0 0,0
+Cádiz 0,0 1,5 0,9 0,5 0,5 0,0 0,9 0,9 5,1 2,7 0,1
+Córdoba 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Granada 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 1,4 0,0 0,0
+Huelva 1,6 1,8 2,1 1,8 1,5 0,4 1,5 2,0 5,5 7,9 1,8
+Jaén 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Málaga 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,3 0,7 0,0
+Sevilla 0,7 0,7 0,7 1,5 5,4 6,4 3,3 4,3 24,4 31,1 0,5
+TOTAL 2,5 4,0 3,7 3,8 7,4 6,8 5,6 8,4 37,9 42,4 2,4
+En Huelva, se concentra el 73,8% del consumo de energía final de carbón. El resto se localiza en Sevilla (21,2%) y Cádiz (5,0%).
+Estructura del consumo final de carbón por provincias 
+Huelva
+Sevilla
+Cádiz
+5,0 %
+21,2 %
+73,8 %
+Total: 2,4 ktep
+Agencia Andaluza de la  Energía | 41
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Petróleo y sus derivados
+El consumo primario de petróleo y derivados cae hasta los 7.994,7 ktep, a niveles de 2016, lo 
+que supone un 4,0% menos respecto a 2022 (335,0 ktep), pero sigue siendo la fuente de mayor 
+participación en la estructura primaria de consumo (49,4%).
+El consumo final de derivados de petróleo se cifra en 6.916,7 ktep, un 2,7% menos (191,1 ktep) que en 
+2022.
+Los consumos recogidos en las tablas y gráficos siguientes incluyen los usos no energéticos.
+Unidad: Mtep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Consumo de energía primaria 7.697,8 8.150,0 8.303,6 8.067,6 8.562,5 8.618,6 8.605,0 7.171,7 8.170,7 8.329,8 7.994,7
+Consumo de energía final 6.479,0 6.776,7 6.882,4 6.634,3 7.140,6 7.255,8 7.360,9 6.117,2 7.075,0 7.107,8 6.916,7
+Consumo de energía primaria
+Consumo de energía final
+2013
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+10.000
+0
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: ktep
+Agencia Andaluza de la  Energía | 42
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de petróleo y sus derivados
+El consumo se reduce principalmente por el descenso en el uso de gasóleos tanto en 
+términos de energía primaria (4,5%, 185,3 ktep) como final (4,5%, 186,7 ktep), aunque los 
+productos petrolíferos siguen siendo los más consumidos en la estructura de energía. 
+También baja el consumo de querosenos (4,0%, 41,0 ktep tanto en primaria como en final) 
+y el de energía primaria de fuelóleos (11,8%, 23,0 ktep) creciendo en términos de energía 
+final (13,9%, 20,8 ktep). Crece el consumo de gasolinas (6,6%, 58 ktep) y levemente el de 
+GLP (0,2%, 0,5 ktep).
+Agencia Andaluza de la  Energía | 43
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+TOT AL GASOLINAS 686,6 689,1 687,8 705,1 710,3 758,1 779,4 645,3 803,1 874,7 932,7
+Gasolina s/Pb 95 660,5 663,1 658,6 671,8 676,1 722,7 741,3 612,6 764,5 841,3 895,4
+Gasolina s/Pb 97 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Gasolina s/Pb 98 24,9 25,3 28,4 32,4 33,2 34,2 36,8 31,7 37,6 32,4 36,3
+Otras 1,2 0,7 0,8 0,9 1,1 1,2 1,3 1,0 1,0 1,0 1,0
+TOT AL GASÓLEOS 3.725,1 3.794,8 3.895,2 3.811,1 4.056,8 4.217,9 4.296,2 3.636,0 4.211,5 4.163,4 3.978,1
+Gasóleo A 2.977,6 3.058,4 3.155,9 3.107,4 3.249,6 3.413,8 3.474,8 2.846,6 3.384,7 3.339,5 3.197,3
+Gasóleo B 552,5 558,3 572,1 577,3 651,3 664,8 694,9 697,4 720,1 702,8 638,7
+Gasóleo C 195,0 178,1 157,5 119,7 111,8 92,2 95,9 49,3 54,2 42,1 58,2
+Gasóleo uso marítimo 9,7 6,7 44,1 47,0 30,6 42,7 52,6 79,0 83,9
+TOT AL FUELÓLEOS 124,2 136,9 176,9 246,9 367,8 295,5 276,2 190,2 165,4 195,0 172,0
+Fuelóleo BIA 124,2 136,9 176,9 246,9 367,8 295,5 276,2 190,2 165,4 195,0 172,0
+Fuelóleo 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Fuelóleo 2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+TOT AL QUEROSENOS 805,9 1.159,7 1.186,0 906,3 1.069,1 1.028,4 1.107,8 719,4 949,3 1.024,7 983,7
+Jet-1 797,6 1.145,0 1.177,1 902,9 1.068,2 1.026,6 1.107,3 719,3 948,9 1.024,7 983,6
+Jet-2 8,3 14,7 8,9 3,4 0,9 1,9 0,4 0,1 0,4 0,0 0,1
+Otros 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+TOT AL GLP 363,0 339,6 336,1 338,2 335,9 348,0 335,9 305,5 314,6 306,0 306,7
+Butano 265,4 236,8 230,0 222,0 218,2 220,1 209,6 204,1 199,0 172,6 150,4
+Propano 97,6 102,8 106,1 116,2 117,7 127,9 126,3 101,4 115,6 133,4 156,2
+Otros productos 791,2 705,0 666,3 697,2 672,6 676,8 630,2 654,4 634,0 574,2 530,3
+Pérdidas refino y autoconsumo 1.201,8 1.324,9 1.355,4 1.362,7 1.349,9 1.294,0 1.179,3 1.020,8 1.092,8 1.191,8 1.091,4
+TOTAL 7.697,8 8.150,0 8.303,6 8.067,6 8.562,5 8.618,6 8.605,0 7.171,7 8.170,7 8.329,8 7.994,7
+Evolución del consumo total de productos petrolíferos
+Agencia Andaluza de la  Energía | 44
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+TOT AL GASOLINAS 686,6 689,1 687,8 705,1 710,3 758,1 779,4 645,3 803,1 874,7 932,7
+Gasolina s/Pb 95 660,5 663,1 658,6 671,8 676,1 722,7 741,3 612,6 764,5 841,3 895,4
+Gasolina s/Pb 97 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Gasolina s/Pb 98 24,9 25,3 28,4 32,4 33,2 34,2 36,8 31,7 37,6 32,4 36,3
+Otras 1,2 0,7 0,8 0,9 1,1 1,2 1,3 1,0 1,0 1,0 1,0
+TOT AL GASÓLEOS 3.711,2 3.777,7 3.891,3 3.807,3 4.052,6 4.214,6 4.292,9 3.635,1 4.210,1 4.163,4 3.976,7
+Gasóleo A 2.963,6 3.041,3 3.161,7 3.110,3 3.289,5 3.457,6 3.502,1 2.888,4 3.435,8 3.418,5 3.279,8
+Gasóleo B 552,5 558,3 572,1 577,3 651,3 664,8 694,9 697,4 720,1 702,8 638,7
+Gasóleo C 195,0 178,1 157,5 119,7 111,8 92,2 95,9 49,3 54,2 42,1 58,2
+TOT AL FUELÓLEOS 98,7 82,8 93,6 165,0 277,4 207,9 197,2 135,3 136,9 150,0 170,8
+Fuelóleo BIA 98,7 82,8 93,6 165,0 277,4 207,9 197,2 135,3 136,9 150,0 170,8
+Fuelóleo 1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Fuelóleo 2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+TOT AL QUEROSENOS 805,9 1.159,7 1.186,0 906,3 1.069,1 1.028,4 1.107,8 719,4 949,3 1.024,7 983,7
+Jet-1 797,6 1.145,0 1.177,1 902,9 1.068,2 1.026,6 1.107,3 719,3 948,9 1.024,7 983,6
+Jet-2 8,3 14,7 8,9 3,4 0,9 1,9 0,4 0,1 0,4 0,0 0,1
+Otros 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+TOT AL GLP 363,0 339,6 336,1 338,2 335,9 348,0 335,9 305,5 314,6 306,2 306,7
+Butano 265,4 236,8 230,0 222,0 218,2 220,1 209,6 204,1 199,0 172,6 150,4
+Propano 97,6 102,8 106,1 116,2 117,7 127,9 126,3 101,4 115,6 133,6 156,3
+Otros productos 813,8 727,8 687,5 712,4 695,4 698,8 647,8 676,6 661,0 588,8 546,1
+TOTAL 6.479,0 6.776,7 6.882,4 6.634,3 7.140,6 7.255,8 7.360,9 6.117,2 7.075,0 7.107,8 6.916,7
+Evolución del consumo final de productos petrolíferos
+En las tablas anteriores, en “Otros productos”,  se incluyen las bases y aceites lubricantes, productos asfálticos, coque, naftas, condensados, parafinas y otros. El consumo de gasolinas y gasóleos no incluye el consumo de biocarburantes.
+Agencia Andaluza de la  Energía | 45
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Estructura del consumo total de productos petrolíferos en 2023
+Estructura del consumo final de productos petrolíferos en 2023
+Querosenos
+Querosenos
+GLP
+GLP
+Otros productos
+Otros productos
+Pérdidas en refino y autoconsumosGasolinas
+Gasolinas
+Gasóleos
+Gasóleos
+Fuelóleos
+Fuelóleos
+Total: 7.994,7 ktep
+En "Otros productos" se incluyen 
+las bases y aceites lubricantes, 
+productos asfálticos, coque, naftas, 
+condensados, parafinas y otros
+Total: 6.916,7 ktep
+En "Otros productos" se incluyen 
+las bases y aceites lubricantes, 
+productos asfálticos, coque, naftas, 
+condensados, parafinas y otros
+11,7%
+13,5%
+49,8%
+57,5%
+6,6%
+7,9%
+3,8%2,2%
+2,5% 4,4%
+12,3%
+14,2%
+13,6%
+Agencia Andaluza de la  Energía | 46
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Industria 1.352,7 1.587,2 1.552,5 1.244,3 1.302,8 1.274,5 1.248,9 1.269,4 1.373,7 1.131,0 968,2
+Transporte 4.061,5 4.169,6 4.310,1 4.396,3 4.745,6 4.879,8 5.009,4 3.783,1 4.596,7 4.873,6 4.891,8
+Primario 627,8 615,9 618,2 615,5 712,7 722,8 734,3 750,7 785,8 793,1 746,2
+Servicios 26,5 24,0 24,5 36,9 35,0 33,8 34,4 22,7 24,7 45,5 80,1
+Residencial 410,6 380,0 377,2 341,2 344,5 344,8 333,9 291,3 294,1 264,8 230,3
+TOTAL 6.479,0 6.776,7 6.882,4 6.634,3 7.140,6 7.255,8 7.360,9 6.117,2 7.075,0 7.107,8 6.916,7
+La industria reduce un año más el consumo de productos petrolíferos (14,4%, 162,8 ktep). En contraposición, el sector servicios lo aumenta, un ejercicio más desde 2020 (76,2%, 34,6 ktep). También lo hace 
+el sector transporte, aunque no tan acusado (0,4%, 18,3 ktep). El sector residencial continúa con una tendencia de consumo descendente (13,0%, 34,5 ktep). Los dos sectores de mayor peso en el consumo 
+de productos petrolíferos siguen siendo el transporte (70,7%) y la industria (14,0%), seguidos del sector primario (10,8%), que en 2023 reduce considerablemente su consumo respecto a 2022 (5,9%,46,8 ktep).
+Evolución del consumo final de productos petrolíferos por sectores de actividad
+2013
+0
+2.000
+3.000
+1.000
+4.000
+5.000
+6.000
+7.000
+8.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Industria
+Transporte
+Primario
+Servicios
+Residencial
+Agencia Andaluza de la  Energía | 47
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+3,3 %1,2 %
+14,0 %10,8 %
+70,7 %
+Estructura del consumo final de productos petrolíferos por sectores de actividad en 2023
+Total: 6.916,7 ktep
+Industria
+Transporte
+Primario
+Servicios
+Residencial
+Agencia Andaluza de la  Energía | 48
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Almería 656,3 635,0 607,9 611,7 631,1 649,3 629,3 541,5 578,5 597,8 574,6
+Cádiz 1.220,9 1.530,7 1.551,6 1.254,5 1.508,7 1.435,2 1.417,7 1.271,0 1.513,3 1.430,1 1.303,4
+Córdoba 533,8 524,1 536,9 530,3 539,2 565,1 575,6 506,8 567,3 548,5 578,1
+Granada 684,4 668,2 689,1 660,2 708,2 750,5 747,8 622,8 888,4 702,2 665,6
+Huelva 504,1 533,4 551,9 574,4 634,1 617,3 644,4 618,2 664,4 638,7 604,8
+Jaén 461,8 465,9 446,6 469,3 480,0 495,3 535,5 484,7 482,9 485,0 466,6
+Málaga 1.209,0 1.219,6 1.260,7 1.298,9 1.366,1 1.401,4 1.447,2 962,9 1.154,7 1.408,9 1.462,4
+Sevilla 1.208,8 1.199,7 1.237,7 1.234,9 1.273,3 1.341,7 1.363,6 1.109,4 1.225,5 1.296,5 1.261,1
+TOTAL 6.479,0 6.776,7 6.882,4 6.634,3 7.140,6 7.255,8 7.360,9 6.117,2 7.075,0 7.107,8 6.916,7
+Evolución del consumo de productos petrolíferos por provincias Estructura del consumo de productos petrolíferos 
+por provincias en 2023
+Huelva
+Jaén
+Málaga
+Sevilla
+Almería
+Cádiz
+Córdoba
+Granada
+18,2 %
+8,4 %
+8,8 %6,8 %
+21,1 %
+18,8 %
+8,3 %
+9,6 %
+Total: 6.916,7 ktep
+Agencia Andaluza de la  Energía | 49
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Gas natural
+El gas natural reduce su consumo en 2023 un 12,0% (565,8 ktep) aunque continúa siendo la segunda fuente de energía de mayor demanda en Andalucía, con 4.157,7 ktep y un aporte en la estructura de 
+energía primaria del 25,7%.
+Evolución del consumo de gas natural en 2023
+La reducción del consumo de gas natural como energía primaria se debe principalmente a un gran descenso de la generación de electricidad con este combustible respecto a 2022. En cambio, el consumo de 
+gas como energía final no desciende, sino que crece levemente (1,2%, 17,2 ktep) hasta los 1.464,0 ktep.
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Consumo de energía primaria 4.118,2 3.776,4 3.859,6 4.140,5 4.511,2 4.304,7 5.626,0 4.625,2 4.524,8 4.723,5 4.157,7
+Consumo de energía final 1.857,9 1.769,7 1.772,4 1.881,3 1.948,0 1.949,1 2.194,6 1.887,3 1.900,9 1.446,8 1.464,0
+Consumo de energía primaria
+Consumo de energía final
+2013
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+0
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: ktep
+Agencia Andaluza de la  Energía | 50
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del grado de autoabastecimiento energético de gas natural
+Evolución de la producción de yacimientos andaluces
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Consumo de energía primaria 4.118,2 3.776,4 3.859,6 4.140,5 4.511,2 4.304,7 5.626,0 4.625,2 4.524,8 4.723,5 4.157,7
+Producción para consumo interior 55,4 23,1 9,4 6,3 6,0 7,3 6,3 6,1 6,8 4,9 4,8
+Grado de autoabastecimiento 1,3% 0,6% 0,2% 0,2% 0,1% 0,2% 0,1% 0,1% 0,2% 0,1% 0,1%
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+El Ruedo 5,4 0,9 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Las Barreras 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+El Romeral 10,8 5,1 2,5 1,5 0,8 2,1 2,4 1,6 2,6 4,9 4,8
+Poseidón 38,8 16,3 6,7 4,7 3,6 2,8 3,9 4,5 4,2 0,0 0,0
+Marismas 0,4 0,9 0,2 0,0 1,6 2,4 0,0 0,0 0,0 0,0 0,0
+Agencia Andaluza de la  Energía | 51
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de gas natural por sectores de actividad
+El consumo final de gas natural solo crece en el sector servicios (17,2%, 31,2 ktep) y de forma mucho 
+más leve en la industria (0,6%, 7,2 ktep). La reducción es generalizada en el resto de los sectores, 
+sobre todo el residencial (9,1%, 8,5 ktep) y primario (71,1%,12,1 ktep) respecto a 2022.
+El sector industria sigue siendo el más consumidor de esta fuente de energía, suponiendo el 79,0% del 
+total, seguido del sector servicios, con un 14,5% del consumo final de gas natural.
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Industria 1.496,1 1.428,1 1.347,6 1.475,9 1.699,0 1.629,6 1.837,2 1.562,5 1.576,4 1.149,5 1.156,7
+Transporte 7,6 14,8 18,7 5,8 4,9 14,7 16,9 9,6 6,0 6,1 5,5
+Primario 171,6 150,5 143,6 170,9 31,3 37,3 40,5 20,2 8,8 17,0 4,9
+Servicios 78,7 85,7 135,3 130,6 116,0 154,9 182,8 193,3 213,3 181,0 212,2
+Residencial 104,0 90,5 127,1 98,2 96,8 112,6 117,2 101,8 96,4 93,2 84,7
+TOTAL 1.857,9 1.769,7 1.772,4 1.881,3 1.948,0 1.949,1 2.194,6 1.887,3 1.900,9 1.446,8 1.464,0
+2013
+0
+2.000
+2.500
+1.500
+500
+1.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023 Industria
+Transporte
+Primario
+Servicios
+Residencial
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Agencia Andaluza de la  Energía | 52
+Estructura del consumo de gas natural por sectores 
+de actividad en 2023
+Total: 1.464,0 ktep
+5,8%
+0,3%
+0,4%
+14,5%
+79,0%
+Industria
+Transporte
+Primario
+Servicios
+Residencial
+Agencia Andaluza de la  Energía | 53
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo final de gas natural por provincias
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Almería 26,3 41,1 46,3 61,6 69,0 66,0 70,8 73,9 69,2 62,3 72,6
+Cádiz 398,2 377,0 530,3 539,2 517,2 450,4 499,0 297,0 488,2 373,5 309,5
+Córdoba 106,2 108,5 102,9 115,3 120,4 116,6 120,7 109,1 77,9 84,0 109,0
+Granada 101,7 105,3 86,0 88,3 120,0 126,9 128,4 119,1 138,8 114,5 103,1
+Huelva 757,3 653,4 536,1 558,1 608,3 641,5 816,9 785,0 664,5 376,8 429,7
+Jaén 139,4 100,3 136,0 154,5 166,5 154,2 173,6 154,7 125,4 122,4 132,1
+Málaga 79,6 137,1 108,2 107,3 101,6 118,7 111,4 84,5 77,2 90,6 84,0
+Sevilla 249,2 247,1 226,6 257,0 245,0 274,8 273,8 264,0 259,6 222,7 224,0
+TOTAL 1.857,9 1.769,7 1.772,4 1.881,3 1.948,0 1.949,1 2.194,6 1.887,3 1.900,9 1.446,8 1.464,0
+En 2023, el consumo final de gas natural crece sobre todo en Huelva (13,9%, 52,9 ktep) y Córdoba (29,8%, 25,0 ktep), aunque también 
+lo hace en Almería, Jaén y Sevilla. Se registra una considerable reducción en Cádiz (17,1%, 64,0 ktep) descendiendo además el consumo 
+en Granada y Málaga.
+Un año más, Huelva y Cádiz son las provincias que concentran un mayor consumo, el 50,5% de todo el consumo final de gas natural.
+Estructura del consumo de gas natural por provincias 
+en 2023
+Huelva
+Jaén
+Málaga
+Sevilla
+Almería
+Cádiz
+Córdoba
+Granada
+15,3%
+7,4%
+29,4%
+9,0%
+5,7% 21,1%
+5,0%
+7,0%
+Total: 1.464,0 ktep
+Agencia Andaluza de la  Energía | 54
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Las energías renovables continúan en la tercera posición 
+como fuente de energía primaria en Andalucía y aportan el 20,7% 
+de la energía primaria total consumida. Sin incluir los usos no 
+energéticos este porcentaje se eleva al 22,1%.
+El consumo de energía primaria procedente de fuentes renovables 
+ha crecido un 1,4% en 2023 (47,5 ktep) situándose en 3.349,6 ktep, 
+debido principalmente a un gran crecimiento de la energía 
+fotovoltaica y termosolar. Este crecimiento se ha visto mermado 
+por la caída del consumo de biomasa tanto para consumo térmico 
+como para generación eléctrica. A pesar del crecimiento del consumo 
+de biocarburantes, la biomasa se reduce en su totalidad en un 13,1% (198,1 
+ktep). También desciende, aunque en menor medida, el consumo de 
+energía primaria de energía eólica e hidráulica.
+Energías renovables
+Agencia Andaluza de la  Energía | 55
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Consumo de Energía Primaria 3.391,9 3.668,1 3.172,5 3.497,9 3.609,1 3.315,8 3.729,3 3.561,0 3.286,5 3.302,1 3.349,6
+Consumo de Energía Final 716,8 1.103,7 763,6 946,1 960,7 919,7 1.075,9 822,7 1.014,4 1.008,9 849,7
+La energía solar sigue siendo la fuente que más aporta en 2023 al consumo total de energía primaria 
+renovable (44,3%), seguida por la biomasa con un 39,1%.
+Evolución del consumo de energías renovables
+Consumo de energía primaria
+Consumo de energía final
+2013
+1.000
+4.000
+3.000
+2.000
+3.500
+2.500
+1.500
+500
+0
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: ktep
+Por tecnologías, la solar fotovoltaica es la que más ha aumentado, un 44,9% (242,9 ktep), junto con la 
+termosolar (13,3%, 71,2 ktep) y la solar térmica (1,8%, 1,6 ktep). También se incrementa el consumo de 
+biocarburantes (76,8 ktep, 33,3%) mientras que el resto de las fuentes se reducen: biomasa y biogás 
+(21,5%, 27 4,9 ktep), eólica (10,0%, 60,1 ktep) e hidráulica (39,9%, 10,1 ktep).
+Agencia Andaluza de la  Energía | 56
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Biomasa 1.230,2 1.450,3 986,3 1.174,2 1.159,2 1.031,3 1.246,0 1.105,6 1.230,4 1.227,1 949,9
+Biogás 21,7 23,2 22,3 22,4 22,5 93,5 46,4 54,1 53,7 49,0 51,3
+Biocarburantes 135,2 155,9 167,9 180,8 215,1 270,4 275,3 247,7 215,0 230,9 307,7
+Hidraúlica 111,9 81,6 50,3 62,8 44,9 67,0 53,8 48,2 43,6 25,3 15,2
+Eólica 603,9 557,5 549,6 608,1 621,4 540,6 591,9 581,2 624,9 603,2 543,1
+Solar Térmica 67,1 72,7 77,5 79,4 80,7 82,0 84,4 86,1 87,7 89,4 91,0
+Solar Fotovoltaica 137,9 137,8 137,5 130,6 139,0 130,1 158,8 313,9 458,4 540,9 783,8
+Termosolar 1.084,0 1.189,2 1.181,1 1.239,6 1.326,2 1.100,9 1.272,8 1.124,2 572,7 536,4 607,6
+TOTAL 3.391,9 3.668,1 3.172,5 3.497,9 3.609,1 3.315,8 3.729,3 3.561,0 3.286,5 3.302,1 3.349,6
+Evolución del consumo primario de energías renovables
+Agencia Andaluza de la  Energía | 57
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Eólica
+Solar Térmica
+Solar Fotovoltaica
+Termosolar
+Biomasa
+Biogás
+Biocarburantes
+Hidraúlica
+Total: 3.349,6 ktep
+9,2 %
+0,5 %
+1,5 %
+2,7 %
+23,4 %
+18,1 %
+28,4 %
+16,2 %
+Estructura del consumo primario de energías renovables 
+en 2023
+Agencia Andaluza de la  Energía | 58
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Biomasa 506,7 867,3 510,4 676,2 655,4 557,7 706,2 474,4 697,6 674,6 436,9
+Biogás 7,8 7,8 7,8 9,6 9,6 9,7 10,0 14,5 14,1 14,1 14,1
+Solar térmica 67,1 72,7 77,5 79,4 80,7 82,0 84,4 86,1 87,7 89,4 91,0
+Biocarburantes 135,2 155,9 167,9 180,8 215,1 270,4 275,3 247,7 215,0 230,9 307,7
+TOTAL 716,8 1.103,7 763,6 946,1 960,7 919,7 1.075,9 822,7 1.014,4 1.008,9 849,7
+En términos de energía final, en el año 2023 decrece un 15,8% (159,2 ktep) el consumo de energías renovables respecto a 2022, 
+situándose en 849,7 ktep. La biomasa para usos térmicos reduce considerablemente su aportación, un 35,2% (237,7 ktep), aunque 
+sigue siendo el 51,4% del consumo final de energías renovables; mientras que aumenta la energía solar térmica un 1,8% (1,6 ktep) y los 
+biocarburantes un 33,3% (76,8 ktep). Estos últimos son la segunda fuente de energía final renovable con un aporte de 36,2%.
+Evolución del consumo final de energías renovables Estructura del consumo final de energías renovables 
+en 2023
+Solar Térmica
+Biomasa
+Biogás
+Biocarburantes
+Total: 849,7 ktep
+36,2 %
+10,7 %
+1,7 %
+51,4 %
+Agencia Andaluza de la  Energía | 59
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Industria 171,0 520,2 197,3 387,8 375,9 291,0 429,0 219,0 404,6 382,0 185,5
+Transporte 135,2 155,9 167,9 180,8 215,1 270,4 275,3 247,7 215,0 230,9 307,7
+Primario 13,2 28,1 18,5 24,0 23,3 18,9 15,0 12,2 18,0 18,8 13,9
+Servicios 104,8 88,3 77,5 79,4 77,6 85,0 89,6 87,5 98,1 98,4 92,0
+Residencial 292,6 311,2 302,5 274,0 268,9 254,4 266,9 256,2 278,6 278,8 250,7
+TOTAL 716,8 1.103,7 763,6 946,1 960,7 919,7 1.075,9 822,7 1.014,4 1.008,9 849,7
+Por sectores, un año más se incrementa el consumo de energías renovables en el transporte, un 33,3% (76,8 ktep), por el aumento del consumo de biocarburantes, alcanzando los 307,7 ktep. En segunda 
+posición, a pesar de que haya reducido su consumo de renovables desde 2022, se encuentra el sector residencial con un 29,5% del total, (10,1%, 28,2 ktep); y muy considerablemente disminuye en el sector 
+industria (51,4%, 196,5 ktep), que pasa a la tercera posición en consumo final de energías renovables. También baja su consumo en el sector primario (26,3%, 4,9 ktep) y en el de servicios (6,5%, 6,4 ktep).
+Evolución del consumo de energías renovables por sectores de actividad
+Agencia Andaluza de la  Energía | 60
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+2013
+0
+200
+400
+600
+800
+1.000
+1.200
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Industria
+Transporte
+Primario
+Servicios
+Residencial
+Total: 849,7 ktep
+1,6 %
+36,2 %
+29,5 %
+21,8 %
+10,8 %
+Estructura del consumo de energías renovables por sectores de actividad en 2023
+Industria
+Transporte
+Primario
+Servicios
+Residencial
+Agencia Andaluza de la  Energía | 61
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo final de energías renovables por provincias
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Almería 36,5 41,4 41,9 45,4 48,0 47,5 51,5 50,4 48,1 51,2 53,2
+Cádiz 41,1 47,6 47,6 52,0 55,6 55,9 67,1 55,4 62,4 67,4 72,5
+Córdoba 134,1 212,0 118,9 163,1 160,6 141,8 178,7 116,2 162,3 160,2 115,7
+Granada 107,1 171,6 123,1 142,8 144,0 133,7 149,6 127,6 164,2 151,8 118,9
+Huelva 27,7 35,2 33,0 41,7 44,8 74,7 48,0 50,6 48,4 45,7 44,3
+Jaén 175,5 272,9 168,2 242,5 243,0 204,7 241,2 175,1 262,9 257,5 180,8
+Málaga 76,4 132,9 95,8 107,8 110,8 110,1 141,4 100,0 106,4 112,8 110,7
+Sevilla 118,4 190,1 135,0 150,7 153,9 151,3 198,3 147,3 159,8 162,3 153,7
+TOTAL 716,8 1.103,7 763,6 946,1 960,7 919,7 1.075,9 822,7 1.014,4 1.008,9 849,7
+Estructura del consumo de energías renovables 
+por provincias en 2023
+Huelva
+Jaén
+Málaga
+Sevilla
+Almería
+Cádiz
+Córdoba
+Granada
+13,6 %
+5,2 %
+21,3 %
+13,0 %
+18,1 %
+14,0 %
+6,3 %
+8,5 %
+Total: 849,7 ktep
+Agencia Andaluza de la  Energía | 62
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+La potencia eléctrica en Andalucía asciende a 19.827,9 MW, un 
+8,7% más (1.592,5 MW) que en 2022. Este crecimiento se debe a 
+potencia exclusivamente renovable, alcanzando este año el máximo 
+histórico de potencia renovable instalada en Andalucía, frente 
+a la reducción de la potencia de cogeneración. 
+ 
+La potencia renovable crece un 15,7%, sumando 1.605,1 MW 
+nuevos, casi todos fotovoltaicos y algunos eólicos. Con ellos, la 
+potencia renovable instalada en Andalucía alcanza los 11.802,9 MW, 
+el 59,5 % del total del parque generador andaluz en 2023.
+Energía eléctrica
+Unidad: MW 2022 2022 (%) 2023 2023 (%) 2023/2022 (%)
+TOTAL 18.235,4 100,0% 19.827,9 100,0% 8,7%
+NO RENOV ABLES 8.037,6 44,1% 8.025,0 40,5% -0,2%
+Bombeo 570,0 3,1% 570,0 2,9% 0,0%
+Centrales de carbón 570,0 3,1% 570,0 2,9% 0,0%
+Ciclos combinados 5.953,0 32,6% 5.953,0 30,0% 0,0%
+Cogeneración 893,3 4,9% 880,7 4,4% -1,4%
+Residuos 51,3 0,3% 51,3 0,3% 0,0%
+RENOV ABLES 10.197,8 55,9% 11.802,9 59,5% 15,7%
+Biomasa 274,0 1,5% 274,0 1,4% 0,0%
+Biogás 27,3 0,1% 27,3 0,1% 0,0%
+Eólica 3.535,2 19,4% 3.636,8 18,3% 2,9%
+Hidráulica 650,0 3,6% 650,0 3,3% 0,0%
+Oceanotérmica 4,5 0,0% 4,5 0,0% 0,0%
+Solar fotovoltaica conectada 4.692,5 25,7% 6.196,1 31,2% 32,0%
+Termosolar 997,4 5,5% 997,4 5,0% 0,0%
+Solar fotovoltaica aislada 10,5 0,1% 10,5 0,1% 0,0%
+Eólica aislada 0,3 0,0% 0,3 0,0% 0,0%
+Biogás aislado 6,1 0,0% 6,1 0,0% 0,0%
+Nota: tanto la producción como el consumo de electricidad incluyen una estimación de la energía en autoconsumo.
+Potencia instalada en 2023
+Agencia Andaluza de la  Energía | 63
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Estructura de la potencia instalada en 2023 Estructura de la potencia instalada no renovable 
+en 2023
+Renovable
+Residuos
+Bombeo
+Centrales de carbón
+Ciclos combinados
+No renovable
+Cogeneración
+7,1 %11,0 %
+74,2 %
+7,1 %
+0,6 %Total: 19.827,9 MW Total: 8.025,0 MW
+40,5 %
+59,5 %
+Agencia Andaluza de la  Energía | 64
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Estructura de la potencia instalada renovable en 2023
+Total: 11.802,9 MW
+Eólica
+Solar fotovoltaica conectada
+Termosolar
+Biomasa Biogás
+Oceanotérmica
+Solar fotovoltaica aislada
+Eólica aislada
+Biogás aislado
+Hidraúlica
+52,5 %
+8,5 %
+2,3 %
+0,4 %
+0,002 %
+30,8 % 0,23 %
+0,09 %
+0,05 %
+0,04 %
+5,5 %
+Agencia Andaluza de la  Energía | 65
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Balance de energía eléctrica 2023
+PRODUCCIÓN ENERGÍA ELÉCTRICA  (unidad: GWh)       2023
+Bombeo 388,8
+Centrales Carbón Nacional 0,0
+Centrales Carbón Importación 283,9
+Ciclos Combinados 9.992,3
+Hidráulica 177,1
+Eólica 6.315,2
+Solar fotovoltaica 9.114,1
+Termosolar 2.331,4
+Cogeneración y residuos 3.87 4,9
+Biomasa y otras energías renovables 1.336,8
+Producción bruta en barras de alternador ( b.a.) 33.814,5
+Consumos en generación 1.113,2
+Autoconsumos 1.023,0
+Producción neta en barras de central ( b.c.) 31.678,3
+DEMANDA DE ENERGÍA ELÉCTRICA   (unidad: GWh) 2023
+Producción bruta total 33.814,5
+Saldos de intercambio de energía eléctrica 7.095,7
+Demanda Bruta 40.910,2
+Consumos generación 1.113,2
+Consumos bombeo 543,9
+Autoconsumos 1.023,0
+Demanda en barras central 38.230,1
+Pérdidas en transporte y distribución 4.666,4
+Demanda Neta 33.563,7
+Autoconsumos 1.023,0
+Consumos sector energético 1.306,7
+Demanda final (*) 33.280,0
+(*): Demanda de los sectores finales, sin incluir el consumo del sector energético.
+Fuente: Red Eléctrica y elaboración propia
+Agencia Andaluza de la  Energía | 66
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: GWh 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Producción Bruta (b.a.) 36.304,1 33.376,4 37.242,2 34.347,0 38.722,9 36.082,6 35.665,1 29.395,6 31.381,9 38.088,8 33.814,5
+Demanda Bruta 40.385,0 39.866,6 40.829,4 41.222,1 42.142,9 42.134,2 41.632,1 40.789,6 41.753,3 39.623,7 40.910,2
+Tasa de autogeneración eléctrica (%) 89,9% 83,7% 91,2% 83,3% 91,9% 85,6% 85,7% 72,1% 75,2% 96,1% 82,7%
+Evolución de la tasa de autogeneración eléctrica
+Tasa de autogeneración eléctrica (%)
+2013
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+100%
+95%
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: %
+Agencia Andaluza de la  Energía | 67
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+En 2023 disminuye la producción bruta de electricidad (b.a.) un 11,2% (4.27 4,3 GWh), hasta los 
+33.814,5 GWh. El saldo de electricidad resulta importador y aumenta hasta los 7.095,7 GWh. 
+Producción de electricidad en 2023
+2013
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+30.000
+35.000
+45.000
+40.000
+Unidad: GWh
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Producción bruta no renovable (b.a.)
+Producción bruta renovable (b.a.)
+Saldo de intercambio de energía eléctrica
+Total: 14.539,9 GWh2,7 %
+2,0 %
+26,7 %
+68,7 %
+Estructura de la producción bruta en bornes de alternador (b.a.) no renovable en 2023
+La producción eléctrica no renovable se reduce notablemente (29,2%, 6.005,1 GWh) respecto 
+al año 2022, situándose su aportación en 14.539,9 GWh, el 43,0% del mix de generación eléctrica. 
+Esto se debe a la gran reducción de generación eléctrica con gas natural en ciclos combinados (5.130,8 
+GWh), aunque representa el 68,7% de la producción no renovable; y en menor medida del carbón (1.567,4 
+GWh), que pasa a representar solo un 2,0%. Las cogeneraciones, la mayoría con gas natural, aumentan 
+su producción un 16,7% (555,2 GWh).
+Bombeo
+Centrales de carbón importación
+Ciclos combinados
+Cogeneración
+Agencia Andaluza de la  Energía | 68
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: GWh 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Bombeo 334,5 340,9 289,4 254,8 159,5 107,0 107,9 225,4 198,4 250,9 388,8
+Centrales Carbón Nacional 702,6 1.152,5 1.705,3 990,8 1.481,0 1.046,0 578,0 216,0 0,0 0,0 0,0
+Centrales Carbón Importación 9.072,1 8.917,5 11.707,6 7.842,6 9.786,0 10.576,8 2.609,4 71,8 241,6 1.851,3 283,9
+Ciclos Combinados 5.991,2 4.539,0 5.780,7 6.349,6 7.953,1 6.494,7 13.228,2 8.403,3 8.643,9 15.123,0 9.992,3
+Cogeneraciones* 59,5 27,5 4,5 5.676,6 5.869,9 5.658,0 5.721,9 5.461,0 5.171,3 3.319,7 3.874,9
+TOT AL Producción Bruta (b.a.) no renovable 16.160,0 14.977,4 19.487,4 21.114,3 25.249,5 23.882,5 22.245,4 14.377,6 14.255,1 20.544,9 14.539,9
+Evolución de la producción bruta (b.a.) no renovable
+2013
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+30.000
+Unidad: GWh
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Centrales Carbón Importación
+Bombeo
+Ciclos Combinados
+Centrales Carbón Nacional
+Cogeneración
+(*): Incluye residuos
+Agencia Andaluza de la  Energía | 69
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Estructura de la producción bruta en bornes de alternador (b.a.) renovable en 2023
+En lo que se refiere a la generación eléctrica procedente de fuentes renovables, en 2023 asciende 
+a 19.27 4,6 GWh, un 9,9% más que en el año anterior. Es destacable el crecimiento de la producción 
+eléctrica de la tecnología solar fotovoltaica, un 45,2% (2.837,6 GWh) y de la tecnología termosolar 
+(13,3%, 273,1 GWh). 
+Reducen su producción eléctrica el resto de las tecnologías, destacando la biomasa (29,7%, 563,9 
+GWh) y la eólica (10,0%, 699,0 GWh) y en menor medida la hidráulica (39,8%, 117 GWh).
+La producción bruta de electricidad renovable en Andalucía representa el 57,0% de toda la 
+electricidad generada en Andalucía, lo que equivale al 57,9% de la demanda de energía eléctrica de la 
+región.
+Total: 19.274,6 GWh
+0,9 %
+12,1 %
+47,3 %
+32,8 %
+6,9 %
+Eólica
+Solar fotovoltaica
+Termosolar
+Biomasa
+Hidraúlica
+Agencia Andaluza de la  Energía | 70
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: GWh 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Eólica 7.021,9 6.482,4 6.391,0 7.071,0 7.225,8 6.286,4 6.882,4 6.758,6 7.266,7 7.014,3 6.315,2
+Hidráulica 1.300,9 948,5 585,1 729,9 522,2 778,7 626,0 560,8 507,3 294,1 177,1
+Solar fotovoltaica 1.594,2 1.593,7 1.590,6 1.507,8 1.605,1 1.500,9 1.834,6 3.637,5 5.318,3 6.276,4 9.114,1
+Termosolar 2.186,6 2.336,4 2.321,0 2.439,4 2.577,6 2.152,9 2.488,9 2.198,3 2.239,9 2.058,2 2.331,4
+Biomasa y otras 1.960,0 1.577,8 1.464,1 1.484,8 1.542,7 1.480,9 1.587,8 1.862,8 1.794,6 1.900,7 1.336,8
+TOT AL Producción Bruta (b.a.) no renovable 14.063,5 12.938,8 12.351,7 13.232,9 13.473,4 12.199,8 13.419,7 15.018,1 17.126,8 17.543,7 19.274,6
+Evolución de la producción bruta (b.a.) renovable
+2013
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+Unidad: GWh
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Solar fotovoltaica
+Eólica
+Termosolar
+Hidráulica
+Biomasa y otras
+Agencia Andaluza de la  Energía | 71
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: GWh 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Producción bruta renovable 14.063,5 12.938,8 12.356,5 13.232,9 13.473,4 12.199,8 13.419,7 15.018,1 17.126,8 17.543,7 19.274,6
+Producción bruta no renovable 22.240,5 20.439,9 24.887,9 21.114,3 25.249,5 23.882,5 22.245,4 14.377,6 14.255,1 20.544,9 14.539,9
+Saldo de intercambio de energía eléctrica 4.081,0 6.488,0 3.585,0 6.875,0 3.420,0 6.052,0 5.967,0 11.394,0 10.371,4 1.535,0 7.095,7
+Consumos de generación y autoconsumo 2.085,6 1.873,6 2.024,9 1.891,3 2.011,2 2.068,6 1.794,8 1.735,8 2.078,4 2.184,6 2.680,1
+Demanda en barras de central 38.299,4 37.993,1 38.804,5 39.330,8 40.131,7 40.065,6 39.837,3 39.053,8 39.674,8 37.439,1 38.230,1
+Evolución de la demanda eléctrica en barras de central
+Nota: la demanda en barras de central no incluye los consumos de bombeo de generación y autoconsumo
+Agencia Andaluza de la  Energía | 72
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo final de energía eléctrica
+El consumo final de energía eléctrica en 2023 se incrementa un 2,8% respecto a 2022 cifrándose en 33.280,0 GWh. Por sectores, el de servicios registra el mayor aumento en términos absolutos (5,9%, 
+595,6 GWh), seguido de la industria (2,4%, 203,6 GWh) y el sector residencial (1,5%, 192,0 GWh). El consumo de electricidad en el transporte y el primario descienden un 14,4% (28,7 GWh) y 5,6% (62,6 GWh) 
+respectivamente. 
+Unidad: GWh 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Consumo final de energía eléctrica 32.582,3 31.848,4 32.577,9 32.982,6 33.979,7 34.639,7 34.427,0 33.929,6 33.148,5 32.380,0 33.280,0
+Consumo final de energía eléctrica
+2013
+20.000
+22.000
+24.000
+26.000
+30.000
+28.000
+32.000
+34.000
+36.000
+40.000
+38.000
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: GWh
+Agencia Andaluza de la  Energía | 73
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: GWh 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Industria 7.304,5 7.099,8 7.016,4 7.373,0 7.757,4 8.125,8 8.567,7 8.224,6 8.265,1 8.317,8 8.521,4
+Transporte 233,8 235,2 224,7 211,6 229,5 233,2 244,0 120,4 245,6 199,0 170,3
+Primario 1.299,4 1.375,8 1.507,3 1.561,1 1.585,7 1.411,2 1.545,0 1.516,3 1.278,3 1.123,6 1.061,0
+Servicios 10.618,7 10.371,3 10.593,3 10.644,8 10.924,4 10.917,1 11.105,4 10.286,3 10.738,9 10.036,1 10.631,7
+Residencial 13.125,8 12.766,3 13.236,3 13.192,0 13.482,7 13.952,3 12.964,9 13.782,0 12.620,6 12.703,5 12.895,6
+TOTAL 32.582,3 31.848,4 32.577,9 32.982,6 33.979,7 34.639,7 34.427,0 33.929,6 33.148,5 32.380,0 33.280,0
+Evolución del consumo de energía eléctrica por sectores de actividad
+2013
+0
+2014 2015 2016 2017 2018 2019 202220212020 2023
+5.000
+10.000
+15.000
+20.000
+30.000
+25.000
+35.000
+40.000
+Unidad: GWh
+Industria
+Transporte
+Primario
+Servicios
+Residencial
+Total: 33.280,0 GWh
+0,5 %3,2 %
+38,7 %
+25,6 %
+32,0 %
+Industria
+Transporte
+Primario
+Servicios
+Residencial
+Agencia Andaluza de la  Energía | 74
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía eléctrica por provincias
+Unidad: GWh 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Almería 2.716,6 2.768,1 2.908,0 2.988,5 3.099,8 3.227,7 3.172,2 3.121,7 3.215,8 2.885,2 3.576,3
+Cádiz 4.931,0 4.628,3 4.749,1 4.611,3 4.859,1 5.129,2 5.153,3 5.146,0 5.019,3 4.913,7 4.471,6
+Córdoba 3.024,6 2.836,4 2.911,2 2.911,9 2.948,8 3.055,8 3.092,8 3.008,1 2.813,6 2.804,4 2.711,4
+Granada 3.152,0 3.079,6 3.132,4 3.176,7 3.235,5 3.302,7 3.290,1 3.195,3 2.970,1 3.033,6 3.071,2
+Huelva 3.043,4 2.867,3 2.853,9 3.038,1 3.182,6 3.254,3 3.279,7 3.357,0 3.317,6 3.167,6 3.191,7
+Jaén 2.546,4 2.577,8 2.587,0 2.711,5 2.792,4 2.734,2 2.763,1 2.682,5 2.671,6 2.558,4 2.479,0
+Málaga 5.683,0 5.804,3 5.935,6 6.000,4 6.100,5 6.236,6 6.161,8 5.887,3 5.804,0 6.059,6 6.615,9
+Sevilla 7.485,4 7.286,7 7.500,8 7.544,2 7.761,0 7.699,3 7.513,9 7.531,7 7.336,6 6.957,4 7.162,8
+TOTAL 32.582,3 31.848,4 32.577,9 32.982,6 33.979,7 34.639,7 34.427,0 33.929,6 33.148,5 32.380,0 33.280,0
+Huelva
+Jaén
+Málaga
+Sevilla
+Almería
+Cádiz
+Córdoba
+Granada
+8,1 %
+9,6 %7,5 %
+19,9 %
+21,5 %
+9,2 %
+10,8 %
+13,4 %
+Total: 33.280,0 GWh
+Estructura del consumo final de energía 
+eléctrica por provincias en 2023
+Agencia Andaluza de la  Energía | 75
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Calidad de servicio. Evolución del TIEPI 
+La calidad de suministro de energía eléctrica en Andalucía fue de 1,74 horas en 20231. Ésta viene determinada por el Tiempo de Interrupción Equivalente de la Potencia Instalada (TIEPI), indicador que 
+mide el tiempo medio, en horas, de interrupción del suministro durante un año, el cual se ha incrementado un 61% respecto al año anterior debido a una fuerte borrasca que incidió sobre Andalucía en 2023 
+provocando cortes de suministro que afectaron al incremento de este valor. 
+1   A fecha de cierre de esta publicación no se dispone de los datos del Ministerio competente para los años 2022 y 2023 para España y Andalucía. Los datos de los años 2022 y 2023 para Andalucía son provisionales.
+Fuentes: MITERD, e-distribución y Agencia Andaluza de la Energía
+Unidad: horas 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Andalucía 1,66 1,32 1,48 1,35 1,72 1,59 1,48 1,26 1,43 1,08 1,74
+España 1,62 1,06 1,15 1,14 1,35 1,14 1,20 1,13 1,12 - -
+Andalucía
+España
+2013
+0
+1
+2
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: horas
+Agencia Andaluza de la  Energía | 76
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Calidad de servicio por provincias
+Unidad: horas 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Almería 0,85 1,17 1,33 1,25 2,04 1,39 1,37 0,97 1,01 1,00 0,90
+Cádiz 1,46 1,68 1,60 1,55 2,17 1,70 1,72 1,56 2,24 1,22 1,93
+Córdoba 2,18 1,50 1,27 1,27 1,48 1,73 1,25 1,27 1,27 0,93 1,47
+Granada 2,09 1,33 2,10 1,59 2,00 1,53 1,92 1,43 1,16 1,06 1,34
+Huelva 2,23 1,99 1,79 2,06 1,97 2,33 1,83 1,81 1,81 1,72 2,97
+Jaén 1,83 1,67 1,49 1,31 1,54 1,47 1,51 1,22 1,57 1,15 1,35
+Málaga 1,17 0,79 1,06 1,09 1,47 1,21 1,06 0,96 1,19 0,92 0,99
+Sevilla 1,89 1,24 1,50 1,22 1,50 1,74 1,51 1,25 1,39 1,07 2,74
+ANDALUCÍA 1,66 1,32 1,48 1,35 1,72 1,59 1,48 1,26 1,43 1,08 1,74
+ESPAÑA 1,62 1,06 1,15 1,14 1,35 1,14 1,20 1,13 1,12 - -
+Fuentes: MITERD, e-distribución y Agencia Andaluza de la Energía
+Para el cálculo del TIEPI sólo se tienen en cuenta las interrupciones de duración superior a 3 minutos.
+5. Análisis 
+por sectores
+Agencia Andaluza de la  Energía | 78
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+El consumo de energía del sector industria, incluyendo usos no energéticos, se reduce 
+en 2023 un 10,9% (37 4,4 ktep), alcanzando un nuevo valor mínimo registrado en la 
+serie histórica desde el año 2000, y supone el 25,2% (3.045,8 ktep) de toda la energía 
+final consumida en Andalucía.
+Teniendo en cuenta sólo el consumo con fines energéticos del sector, se registra un 
+descenso del 10,1% respecto a 2022 (234,5 ktep), situándose en 2.097,1 ktep. Esta 
+reducción, en valores absolutos, se concentra fundamentalmente en el consumo de 
+biomasa (196,5 ktep; 51,4%) y en menor medida en carbón (40,0 ktep; 94,3%) y en gas 
+natural (35,3 ktep; 3,7%).
+Crece el consumo de productos petrolíferos en la industria (19,7 ktep; 8,1%) y el consumo 
+de electricidad (17,5 ktep; 2,4%).
+En cuanto a los usos no energéticos (31,1% del total), también se reducen un 12,9% (139,9 
+ktep) respecto al valor registrado en 2022, hasta los 948,7 ktep (en forma de gas natural, 
+querosenos y otros productos petrolíferos). Los querosenos son los que más descienden 
+en valor absoluto y en relación con el año anterior (128,4 ktep, 27,0%) disminuyendo también el 
+consumo no energético de los otros productos petrolíferos (53,9 ktep, 13,1%). El consumo de gas 
+natural aumentó un 21,2% (42,5 ktep).
+Los consumos recogidos en las tablas y gráficos siguientes incluyen los consumos no energéticos. 
+Nota: Siguiendo las directrices europeas, para el cálculo de las intensidades sectoriales se 
+toma 2015 como año de referencia para las cifras de PIB y VAB.
+Sector industria
+Agencia Andaluza de la  Energía | 79
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo final del sector industria por fuentes
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Consumos energéticos 2.420,3 2.657,9 2.258,0 2.629,6 2.885,9 2.704,6 3.030,8 2.512,5 2.741,1 2.331,6 2.097,1
+Energía eléctrica 628,2 610,6 603,4 634,1 667,1 698,8 736,8 707,3 710,8 715,3 732,8
+Carbón 2,5 4,0 3,7 3,8 7,4 6,8 5,6 8,4 37,9 42,4 2,4
+Biomasa 171,0 520,2 197,3 387,8 375,9 291,0 429,0 219,0 404,6 382,0 185,5
+Gas natural 1.157,4 1.062,9 1.028,0 1.139,7 1.403,5 1.288,3 1.505,8 1.256,1 1.301,0 948,6 913,3
+Gasóleos 16,1 14,7 11,5 8,5 9,0 8,0 8,7 4,6 4,8 3,7 5,3
+Fuelóleos 98,7 82,8 73,5 87,4 78,4 67,8 70,2 68,2 57,2 41,6 46,6
+GLP 29,1 27,2 27,4 23,1 23,7 23,8 24,3 18,1 24,0 21,1 22,9
+Otros productos petrolíferos 317,3 335,3 313,2 345,3 320,9 320,1 250,3 230,8 200,7 176,9 188,2
+Consumos no energéticos 1.230,1 1.492,3 1.446,5 1.116,3 1.166,3 1.196,1 1.226,8 1.254,1 1.362,4 1.088,6 948,7
+Gas natural 338,7 365,2 319,6 336,2 295,5 341,3 331,4 306,4 275,4 200,9 243,4
+Querosenos 395,0 734,7 752,5 413,0 496,3 476,2 497,9 502,0 626,6 475,7 347,3
+Otros productos petrolíferos 496,4 392,4 374,3 367,0 374,5 378,7 397,5 445,7 460,3 411,9 358,0
+TOTAL 3.650,4 4.150,1 3.704,5 3.745,9 4.052,2 3.900,7 4.257,5 3.766,5 4.103,5 3.420,2 3.045,8
+Otros productos incluyen bases y aceites lubricantes, productos asfálticos, coque, naftas, condensados, parafinas y otros.
+Agencia Andaluza de la  Energía | 80
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+2013
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+4.500
+4.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Cuota del sector industria en el consumo final de 2023
+Total: 12.095,0 ktep
+Industria
+Resto de sectores
+25,2 %
+74,8 %
+Gas natural
+Energía eléctrica
+Energías  renovables
+Productos petrolíferos
+Carbón
+Agencia Andaluza de la  Energía | 81
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Distribución del consumo del sector industria por fuentes en 2023
+Total: 3.045,8 ktep
+Querosenos
+Fuelóleos
+Gasóleos
+GLP
+Gas natural
+Energía eléctrica
+Energías  renovables
+Otros productos petrolíferos
+Carbón
+24,0 %
+17,9 %
+38,0 %
+6,1 %
+Otros:
+31,8 % 11,4 %
+1,5 %
+0,2 %0,8 %
+0,1 %
+Agencia Andaluza de la  Energía | 82
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+La intensidad energética industrial, incluidos usos no energéticos, se sigue reduciendo con respecto al registrado en el ejercicio anterior, un 11,2% como resultado del descenso de consumo energético de la 
+industria frente al crecimiento registrado por el Valor Añadido Bruto del sector. 
+Evolución de la intensidad energética en el sector industria
+Unidad: tep/M€ 2015 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Intensidad energética sector industria 161,5 181,6 155,8 152,2 160,2 153,3 161,7 167,3 179,7 143,3 127,3
+2013
+60
+70
+80
+90
+100
+110
+120
+Índice 2000=100
+2014 2015 2016 2017 2018 2019 202220212020 2023
+VAB Industria (índice 2000=100)
+IEF Industria (índice 2000=100)
+Consumo Final Industria (índice 2000=100)
+Fuente: Instituto de Estadística y Cartografía de Andalucía y elaboración propia
+Agencia Andaluza de la  Energía | 83
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Sector transporte
+El consumo de energía del sector transporte aumenta un 1,8% 
+(91,9 ktep) situándose en 5.219,6 ktep, el 43,2% del consumo total 
+de energía final en Andalucía. Los derivados del petróleo continúan 
+siendo, con un 93,7%, los combustibles más usados en este sector, 
+aumentando levemente su consumo, un 0,4% (18,3 ktep), respecto al 
+año pasado.
+Se incrementa principalmente el consumo de querosenos en 87,5 ktep 
+(15,9%), biocarburantes 76,7 ktep (33,2%) y gasolinas 58,0 ktep (6,6%) y 
+en menor medida de fuelóleos y GLP.
+Por el contrario, disminuye el consumo de gasóleos un 4,3% (143,6 ktep) 
+aunque siguen siendo los de mayor peso en la matriz de consumo del sector 
+(61,2%). También se reduce el consumo de electricidad (2,5 ktep, 14,6%) y 
+gas natural (0,6 ktep, 9,8%).
+Agencia Andaluza de la  Energía | 84
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo final del sector transporte por fuentes
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Gasolinas 686,6 689,1 687,8 705,1 710,4 758,1 779,4 645,3 803,1 874,7 932,7
+Gasóleos 2.959,9 3.050,7 3.163,1 3.114,2 3.256,7 3.421,6 3.482,2 2.845,6 3.383,3 3.339,5 3.195,9
+Querosenos 410,9 425,0 433,4 493,2 572,9 552,3 609,9 217,4 322,6 548,9 636,4
+GLP 4,1 4,9 5,6 6,2 6,7 7,9 10,9 7,6 8,0 2,1 2,7
+Biocarburantes 135,2 155,9 167,9 180,8 215,1 270,4 275,3 247,7 215,0 230,9 307,6
+Energía eléctrica 20,1 20,2 19,3 18,2 19,7 20,1 21,0 10,4 21,1 17,1 14,6
+Gas Natural 7,6 14,8 18,7 5,8 4,9 14,7 16,9 9,6 6,0 6,1 5,5
+Fuelóleos 0,0 0,0 20,2 77,6 199,0 140,1 127,0 67,2 79,7 108,4 124,2
+TOTAL 4.224,4 4.360,6 4.516,1 4.601,1 4.985,4 5.185,0 5.322,6 4.050,8 4.838,8 5.127,7 5.219,6
+Agencia Andaluza de la  Energía | 85
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Distribución del consumo del sector transporte por fuentes en 2023
+Total: 12.095,0 ktep
+Total: 5.219,7 ktep
+En cuanto a su estructura de consumo, los gasóleos concentran el 61,2% del consumo del sector, seguido 
+de gasolinas (17,9%), querosenos (12,2%) y biocarburantes (5,9%).
+Transporte
+Gasolinas
+Querosenos
+Biocarburantes
+Gas natural
+Fuelóleos
+Resto de sectores
+Gasóleos
+GLP
+Energía eléctrica
+12,2 %
+56,8 %
+0,05 %
+2,4 %
+0,1%
+0,3 %
+61,2 %
+43,2 % 17,9 %
+5,9 %
+Cuota del sector transporte en el consumo final de 2023
+Agencia Andaluza de la  Energía | 86
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución de la intensidad energética en el sector transporte
+2013
+60
+70
+80
+90
+100
+110
+130
+140
+150
+120
+Índice 2000=100
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: tep/M€ 2015 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Intensidad energética sector transporte 29,5 30,0 30,0 29,8 31,4 31,9 32,1 27,3 30,6 30,8 30,6
+Fuente: Instituto de Estadística y Cartografía de Andalucía y elaboración propia
+PIB (índice 2000=100)
+IEF Transporte (índice 2000=100)
+Consumo Final Transporte (índice 2000=100)
+Agencia Andaluza de la  Energía | 87
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Sector servicios
+El consumo de energía en el sector servicios crece en 110,7 ktep, un 9,3% más que en 2022. Su 
+representación en el consumo de energía final total en Andalucía es del 10,7 % lo que supone un consumo 
+de 1.298,7 ktep.
+En cuanto a la demanda por fuentes, todas crecen en términos absolutos excepto la biomasa (6,8 
+ktep menos que en 2022, 8,9%). Destaca el crecimiento en el sector servicios del consumo de energía 
+eléctrica (51,2 ktep, 5,9%), gas natural (31,2 ktep, 17,3%) y de los GLP (32,2 ktep, 80,8%). También 
+crecen el de gasóleo y solar térmica.
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Energía eléctrica 913,2 891,9 911,0 915,5 939,5 938,9 955,1 884,6 923,5 863,1 914,3
+Gas natural 78,7 85,7 135,3 130,6 116,0 154,9 182,8 193,3 213,3 181,0 212,2
+Gasóleo 18,5 16,7 17,0 12,6 13,4 11,8 12,9 6,8 7,3 5,6 8,0
+GLP 8,0 7,3 7,4 24,4 21,6 22,0 21,5 16,0 17,4 39,9 72,1
+Biomasa 88,0 70,1 58,1 59,5 57,4 64,5 68,5 66,0 76,2 76,1 69,3
+Solar térmica 16,8 18,2 19,4 19,9 20,2 20,5 21,1 21,5 21,9 22,3 22,8
+TOTAL 1.123,1 1.090,0 1.148,3 1.162,3 1.168,1 1.212,6 1.261,9 1.188,2 1.259,7 1.188,0 1.298,7
+2013
+0
+200
+400
+1.200
+1.400
+600
+800
+1.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Gas natural
+GLP
+Energía eléctrica
+Biomasa
+Gasóleo
+Solar térmica
+Evolución del consumo final del sector servicios por fuentes
+Agencia Andaluza de la  Energía | 88
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Distribución del consumo del sector servicios por fuentes en 2023Cuota del sector servicios en el consumo final de 2023
+Total: 1.298,7 ktepTotal: 12.095,0 ktep
+Servicios
+Resto de sectores
+10,7 %
+89,3 %
+0,6%
+1,8%
+70,4%
+16,3%
+5,6%
+5,3%
+Biomasa
+Gas natural
+Solar térmica
+Gasóleo
+GLP
+Energía eléctrica
+Agencia Andaluza de la  Energía | 89
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución de la intensidad energética en el sector servicios
+2013
+70
+80
+90
+100
+110
+130
+140
+150
+160
+170
+120
+Índice 2000=100
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: tep/M€ 2015 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Intensidad energética sector servicios 11,5 11,0 11,3 11,2 10,9 11,0 11,2 11,8 11,6 10,1 10,7
+Fuente: Instituto de Estadística y Cartografía de Andalucía y elaboración propia
+VAB Servicios (índice 2000=100)
+IEF Servicios (índice 2000=100)
+Consumo Final Servicios (índice 2000=100)
+Agencia Andaluza de la  Energía | 90
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Sector residencial
+El sector residencial, que representa el 13,8% del consumo total, vuelve a 
+registrar por tercer año consecutivo un menor consumo de energía 
+respecto al año precedente, un 3,2% (54,6 ktep menos que en 2022), 
+bajando hasta los 1.674,6 ktep. 
+Este descenso se produce fundamentalmente por el menor consumo de 
+GLP (46,4 ktep, 19,6%) y de biomasa (29,4 ktep, 13,8%) y en menor medida 
+de gas natural (8,5 ktep, 9,1%). El resto de las fuentes aumentan su consumo, 
+principalmente la energía eléctrica, que crece en 16,5 ktep (1,5%), gasóleo 
+(11,9 ktep, 42,7%) y la solar térmica (1,3 ktep, 1,9%).
+En la matriz de consumo del sector la energía eléctrica crece hasta suponer el 
+66,2% seguida de los gases licuados del petróleo (11,4%) y la biomasa (10,9%). El 
+11,5% restante se cubre con gas natural, energía solar térmica y gasóleo.
+Agencia Andaluza de la  Energía | 91
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Energía eléctrica 1.128,8 1.097,9 1.138,3 1.134,5 1.159,5 1.199,9 1.115,0 1.185,3 1.085,4 1.092,5 1.109,0
+Biomasa 242,3 256,6 244,3 214,5 208,4 192,9 203,6 191,7 212,9 211,7 182,4
+Solar térmica 50,3 54,5 58,2 59,6 60,5 61,5 63,3 64,5 65,8 67,0 68,3
+Gas natural 104,0 90,5 127,1 98,2 96,8 112,6 117,2 101,8 96,4 93,2 84,7
+Gasóleo 92,6 83,5 85,2 62,8 67,0 59,1 64,3 33,9 36,3 27,9 39,8
+GLP 318,0 296,5 292,1 278,3 277,5 285,7 269,6 257,4 257,8 236,9 190,5
+TOTAL 1.936,0 1.879,5 1.945,1 1.847,9 1.869,7 1.911,7 1.833,0 1.834,5 1.754,5 1.729,2 1.674,6
+Evolución del consumo final del sector residencial por fuentes
+Gas natural
+GLP
+Energía eléctrica
+Biomasa
+Gasóleo
+Solar térmica
+2013
+0
+500
+1.000
+1.500
+2.000
+2.500
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Agencia Andaluza de la  Energía | 92
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Distribución del consumo del sector residencial  por fuentes en 2023Cuota del sector  residencial  en el consumo final de 2023
+Total: 12.095,0 ktep
+Residencial
+Resto de sectores
+13,8%
+86,2%
+Total: 1.674,6 ktep
+2,4 %
+5,0 %
+4,1 %
+11,4 %
+66,2 %
+10,9 %
+Biomasa
+Gas natural
+Solar térmica
+Gasóleo
+GLP
+Energía eléctrica
+Agencia Andaluza de la  Energía | 93
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución de la intensidad energética en el sector residencial
+2013
+80
+90
+100
+110
+130
+140
+150
+160
+120
+Índice 2000=100
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: tep/hogar 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Intensidad energética sector residencial 0,62 0,60 0,62 0,58 0,58 0,60 0,57 0,57 0,54 0,52 0,50
+Fuente: Instituto de Estadística y Cartografía de Andalucía y elaboración propia
+Número de Hogares (índice 2000=100)
+IEF Residencial (índice 2000=100)
+Consumo Final Residencial (índice 2000=100)
+Agencia Andaluza de la  Energía | 94
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Sector primario
+El consumo del sector primario se reduce un 7,5% (69,3 ktep) y se 
+cifra en 856,2 ktep. Representa el 7,1% del consumo final andaluz.
+Por fuentes, la única que crece su consumo es el GLP (12,2 ktep; 193,7%). 
+El resto desciende: gasóleo (59,1 ktep; 7,5%), gas natural (12,1 ktep; 71,2%), 
+electricidad (4,9 ktep; 26,1%) y en menor medida la biomasa (5,4 ktep; 
+5,6%). 
+El gasóleo, con el 85,0%, sigue siendo la fuente energética más utilizada en el 
+sector, seguida de la energía eléctrica con el 10,6% y los GLP (2,2%). La biomasa 
+(1,6%) y el gas natural (0,6%) componen el resto del consumo sectorial.
+Agencia Andaluza de la  Energía | 95
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Energía eléctrica 111,7 118,3 129,6 134,3 136,4 121,4 132,9 130,4 109,9 96,6 91,2
+Biomasa 13,2 28,1 18,5 24,0 23,3 18,9 15,0 12,2 18,0 18,8 13,9
+Gas natural 171,6 150,5 143,6 170,9 31,3 37,3 40,5 20,2 8,8 17,0 4,9
+Gasóleo 624,0 612,2 614,5 609,2 706,3 714,1 724,7 744,3 778,4 786,8 727,7
+GLP 3,8 3,7 3,7 6,2 6,4 8,7 9,6 6,4 7,4 6,3 18,5
+TOTAL 924,4 912,9 909,8 944,7 903,6 900,4 922,7 913,5 922,6 925,5 856,2
+2013
+0
+500
+600
+700
+800
+900
+400
+300
+200
+100
+1.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Evolución del consumo final del sector  primario por fuentes
+Gas natural
+GLP
+Energía eléctrica
+Biomasa
+Gasóleo
+Agencia Andaluza de la  Energía | 96
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Distribución del consumo del sector primario por fuentes en 2023Cuota del sector  primario  en el consumo final de 2023
+Total: 12.095,0 ktep
+Primario
+Resto de sectores
+7,1%
+92,9%
+Biomasa
+Gas natural
+Gasóleo
+GLP
+Energía eléctrica
+Total: 856,2 ktep
+2,2 %
+1,6 %
+1,0 %
+10,6 %
+85,0 %
+Agencia Andaluza de la  Energía | 97
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución de la intensidad energética en el sector primario
+2013
+80
+90
+100
+110
+130
+140
+150
+120
+Índice 2000=100
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Unidad: tep/M€ 2015 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Intensidad energética sector primario 102,8 105,5 97,0 96,1 90,1 85,5 94,7 90,9 87,6 109,9 106,9
+Fuente: Instituto de Estadística y Cartografía de Andalucía y elaboración propia
+VAB Primario (índice 2000=100)
+IEF Primario (índice 2000=100)
+Consumo Final Primario (índice 2000=100)
+6. Análisis 
+provincial
+
+Agencia Andaluza de la  Energía | 99
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+El consumo de energía final se ha reducido en cuatro 
+provincias andaluzas en 2023: Cádiz (9,9%, 226,2 ktep menos 
+que en 2022), seguida de Jaén (8,5%, 92,3 ktep), Granada (6,3%, 
+77,8 ktep) y Sevilla (2,4%, 55,5 ktep).
+Aumenta en Málaga (4,3%, 91,9 ktep), Almería (5,1%, 48,5 ktep), 
+Huelva (1,0%, 13,5 ktep) y ligeramente en Córdoba (0,2%, 2,2 ktep). 
+Por fuentes, el consumo de productos petrolíferos desciende 
+en todas las provincias salvo en Málaga y Córdoba, donde 
+registran crecimientos del 3,8% (53,5 ktep) y 5,4% (29,6 ktep) 
+respectivamente. El mayor descenso de consumo se produce 
+en Cádiz (8,9%, 126,7 ktep), seguida de Huelva (5,3%, 33,9 ktep), 
+Granada (5,2%, 36,6 ktep), Almería (3,9%, 23,2 ktep), Jaén (3,8%, 
+18,2 ktep) y Sevilla (2,7%, 35,4 ktep).
+Cádiz, Granada y Málaga reducen su consumo de gas 
+natural un 17,1% (64,0 ktep), 10,0% (11,4 ktep) y 7,3% (6,6 
+ktep) respectivamente. Se incrementa en el resto de las 
+provincias:  Córdoba (29,8%, 25 ktep), Almería (16,5%, 10, 3 
+ktep), Huelva (13,9%, 52,9 ktep), Jaén (7,9%, 9,7 ktep) y en 
+menor medida en Sevilla (0,6%, 1,3 ktep).
+Huelva es la única provincia que presenta consumo de gas 
+natural para uso no energético, con 243, ktep.
+El consumo de energías renovables se incrementa en 
+Cádiz (7,6%, 5,1 ktep) y Almería (3,9%, 2,0 ktep). Se reduce 
+principalmente en Jaén (29,0%, 73,7 ktep), Córdoba (27,8%, 
+44,5 ktep) y Granada (21,7%, 32,9 ktep), seguidas de Sevilla (5,3%, 
+8,6 ktep), Huelva (3,1%, 1,4 ktep) y Málaga (1,9%, 2,1 ktep).  
+El consumo de energía eléctrica aumenta en Almería (24,0%, 
+59,5 ktep), Málaga (9,2%, 47,9 ktep), Sevilla (3,0%, 17,7 ktep) y en 
+menor medida en Granada (1,2%, 3,2 ktep) y Huelva (0,8%, 2,1 ktep). 
+Desciende en Cádiz (9,0%, 38,0 ktep), Córdoba (3,3%, 8,0 ktep) y 
+Jaén (3,1%, 6,8 ktep).
+Agencia Andaluza de la  Energía | 100
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía final por fuentes en Almería
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 0,3 0,0 0,0 0,0 0,0 0,0 0,0 1,1 1,1 0,0 0,0
+Productos petrolíferos 656,3 635,0 607,9 611,7 631,1 649,3 629,3 541,5 578,5 597,8 574,6
+Gas natural 26,3 41,1 46,3 61,6 69,0 66,0 70,8 73,9 69,2 62,3 72,6
+Solar térmica 5,6 5,9 6,2 6,3 6,3 6,4 6,6 6,7 6,8 7,0 7,1
+Biomasa 30,9 35,5 35,7 39,1 41,7 41,1 44,9 43,6 41,3 44,2 46,1
+Energía eléctrica 233,6 238,1 250,1 257,0 266,6 277,6 272,8 268,5 276,6 248,1 307,6
+TOTAL 952,9 955,6 946,2 975,7 1.014,8 1.040,3 1.024,4 935,3 973,5 959,4 1.007,9
+Almería
+2013
+0
+200
+400
+600
+800
+1.000
+1.200
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Gas natural
+Energía eléctrica
+Productos petrolíferos
+Carbón
+Biomasa
+Solar térmica
+Agencia Andaluza de la  Energía | 101
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Biomasa Servicios
+Resto de provincias
+Productos petrolíferos Industria
+Solar térmica Primario
+Almería
+Energía eléctrica Residencial
+Gas natural Transporte
+Total: 1.007,9 ktep Total: 1.007,9 ktep Total: 12.095,0 ktep
+30,5 %
+7,2 %
+12,9 % 19,4 %
+13,0 %
+43,7 %
+57,0 %
+11,0 %
+8,3 %
+91,7 %
+4,6 %
+0,7 %
+Estructura del consumo de energía final por fuentes 
+en Almería en 2023
+Estructura del consumo de energía final por sectores 
+en Almería en 2023
+Participación en el consumo total de energía final 
+en 2023
+Agencia Andaluza de la  Energía | 102
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía final por fuentes en Cádiz
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 0,0 1,5 0,9 0,5 0,5 0,0 0,9 0,9 5,1 2,7 0,1
+Productos petrolíferos 1.221,0 1.530,7 1.551,6 1.254,4 1.508,7 1.435,2 1.417,7 1.271,0 1.513,3 1.430,1 1.303,4
+Gas natural 398,2 377,0 530,3 539,2 517,2 450,4 499,0 297,0 488,2 373,5 309,5
+Solar térmica 10,7 11,7 12,6 13,0 13,2 13,4 13,9 14,2 14,4 14,7 15,0
+Biomasa 30,4 35,9 35,0 39,0 42,4 42,5 53,3 41,2 47,9 52,7 57,5
+Energía eléctrica 424,1 398,0 408,4 396,6 417,9 441,1 443,2 442,6 431,8 422,6 384,6
+TOTAL 2.084,2 2.354,8 2.538,8 2.242,7 2.499,9 2.382,7 2.427,9 2.066,8 2.500,8 2.296,3 2.070,1
+Cádiz
+2013
+0
+500
+1.500
+1.000
+2.500
+2.000
+3.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Gas natural
+Energía eléctrica
+Productos petrolíferos
+Carbón
+Biomasa
+Solar térmica
+Agencia Andaluza de la  Energía | 103
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Biomasa Servicios
+Resto de provincias
+Productos petrolíferos Industria
+Solar térmica Primario
+Cádiz
+Energía eléctrica Residencial
+Gas natural Transporte
+Total: 2.070,1 ktep Total: 2.070,1 ktep Total: 12.095,0 ktep
+18,5 %
+15,0 %
+9,0 %
+43,2 %
+6,9 %
+33,1 %
+63,0 %
+7,8 %
+17,1 %
+82,9 %
+2,8 %0,7 %
+Estructura del consumo de energía final por fuentes 
+en Cádiz en 2023
+Estructura del consumo de energía final por sectores 
+en Cádiz en 2023
+Participación en el consumo total de energía final 
+en 2023
+Carbón
+Agencia Andaluza de la  Energía | 104
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía final por fuentes en Córdoba
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Productos petrolíferos 533,8 524,1 536,9 530,4 539,2 565,1 575,6 506,8 567,3 548,5 578,1
+Gas natural 106,2 108,5 102,9 115,3 120,4 116,6 120,7 109,1 77,9 84,0 109,0
+Solar térmica 3,1 3,4 3,6 3,7 3,8 3,8 3,9 4,0 4,1 4,2 4,2
+Biomasa 131,1 208,5 115,3 159,3 156,8 138,0 1 74,7 112,2 158,2 156,1 111,5
+Energía eléctrica 260,1 243,9 250,4 250,4 253,6 262,8 266,0 258,7 242,0 241,2 233,2
+TOTAL 1.034,3 1.088,5 1.009,0 1.059,1 1.073,8 1.086,3 1.140,9 990,9 1.049,5 1.033,9 1.036,1
+Córdoba
+2013
+0
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+0
+200
+400
+600
+800
+1.000
+1.200
+Gas natural
+Energía eléctrica
+Productos petrolíferos
+Biomasa
+Solar térmica
+Agencia Andaluza de la  Energía | 105
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Biomasa Servicios
+Resto de provincias
+Productos petrolíferos Industria
+Solar térmica Primario
+Córdoba
+Energía eléctrica Residencial
+Gas natural Transporte
+Total: 1.036,1 ktep Total: 1.036,1 ktep Total: 12.095,0 ktep
+22,5 %
+10,5 %
+15,1 %
+15,6 % 17,6 %
+12,5 %
+44,1 %
+10,2 %
+8,6 %
+91,4 %
+55,8 %
+0,4 %
+Estructura del consumo de energía final por fuentes 
+en Córdoba en 2023
+Estructura del consumo de energía final por sectores 
+en Córdoba en 2023
+Participación en el consumo total de energía final 
+en 2023
+Agencia Andaluza de la  Energía | 106
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía final por fuentes en Granada
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 1,4 0,0 0,0
+Productos petrolíferos 684,4 668,2 689,1 660,2 708,2 750,5 747, 8 622,8 888,4 702,2 665,6
+Gas natural 101,7 105,3 86,0 88,3 120,0 126,9 128,4 119,1 138,8 114,5 103,1
+Solar térmica 3,2 3,4 3,6 3,7 3,7 3,8 3,9 4,0 4,0 4,1 4,2
+Biomasa 103,9 168,2 119,5 139,1 140,2 130,0 145,7 123,7 160,1 147,7 114,7
+Energía eléctrica 271,1 264,8 269,4 273,2 278,3 284,0 283,0 274, 8 255,4 260,9 264,1
+TOTAL 1.164,3 1.210,0 1.167,5 1.164,5 1.250,4 1.295,1 1.308,8 1.144,3 1.448,2 1.229,5 1.151,7
+Granada
+2013
+0
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+0
+200
+400
+600
+800
+1.000
+1.400
+1.600
+1.200
+Gas natural
+Energía eléctrica
+Productos petrolíferos
+Biomasa
+Solar térmica
+Agencia Andaluza de la  Energía | 107
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Biomasa Servicios
+Resto de provincias
+Productos petrolíferos Industria
+Solar térmica Primario
+Granada
+Energía eléctrica Residencial
+Gas natural Transporte
+Total: 1.151,7 ktep Total:  1.151,7 ktep Total: 12.095,0 ktep
+22,9 %
+9,0 %
+10,0 %
+20,0 %
+13,6 %
+12,6 %
+46,2 %7,6 %
+9,5 %
+90,5 %
+57,8 %
+0,3 %
+Estructura del consumo de energía final por fuentes 
+en Granada en 2023
+Estructura del consumo de energía final por sectores 
+en Granada en 2023
+Participación en el consumo total de energía final 
+en 2023
+Agencia Andaluza de la  Energía | 108
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía final por fuentes en Huelva
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 1,6 1,8 2,1 1,8 1,5 0,4 1,5 2,0 5,5 7,9 1,8
+Productos petrolíferos 504,1 533,4 551,9 574,4 634,1 617,3 644,4 618,2 664,4 638,7 604,8
+Gas natural 757,3 653,4 536,1 558,1 608,3 641,5 816,9 785,0 664,5 376,8 429,7
+Solar térmica 5,0 5,8 6,2 6,3 6,5 6,6 6,8 7,0 7,1 7,2 7,4
+Biomasa 22,7 29,5 26,8 35,4 38,3 68,1 41,2 43,6 41,3 38,5 36,9
+Energía eléctrica 261,7 246,6 245,4 261,3 273,7 279,9 282,1 288,7 285,3 272,4 274,5
+TOTAL 1.552,4 1.470,4 1.368,6 1.437,4 1.562,4 1.613,8 1.792,8 1.74 4,5 1.668,1 1.341,6 1.355,1
+Huelva
+2013
+0
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+0
+200
+400
+600
+800
+1.000
+1.400
+1.600
+1.800
+2.000
+1.200
+Gas natural
+Energía eléctrica
+Productos petrolíferos
+Carbón
+Biomasa
+Solar térmica
+Agencia Andaluza de la  Energía | 109
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Biomasa
+Servicios
+Resto de provinciasProductos petrolíferos
+Industria
+Solar térmica
+Primario
+Huelva
+Energía eléctrica
+Residencial
+Gas natural
+Transporte
+Total: 1.355,1 ktep Total:  1.355,1 ktep Total: 12.095,0 ktep
+20,3 %
+31,7 %
+2,7 %
+0,1 %
+7,1 %
+49,3 %
+7,4 %
+27,6 %
+8,6 %
+11,2 %
+88,8 %
+44,6 %
+0,6 %
+Estructura del consumo de energía final por fuentes 
+en Huelva en 2023
+Estructura del consumo de energía final por sectores 
+en Huelva en 2023
+Participación en el consumo total de energía final 
+en 2023
+Carbón
+Agencia Andaluza de la  Energía | 110
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía final por fuentes en Jaén
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Productos petrolíferos 461,8 465,9 446,6 469,3 480,0 495,3 535,5 484,7 482,9 485,0 466,6
+Gas natural 139,4 100,3 136,0 154,5 166,5 154,2 173,6 154,7 125,5 122,4 132,1
+Solar térmica 1,6 1,8 1,9 2,1 2,1 2,1 2,2 2,2 2,3 2,3 2,4
+Biomasa 1 74,0 271,1 166,3 240,5 240,9 202,6 239,1 172,9 260,6 255,2 178,4
+Energía eléctrica 219,0 221,7 222,5 233,2 240,1 235,1 237,6 230,7 229,8 220,0 213,2
+TOTAL 995,7 1.060,8 973,3 1.099,5 1.129,6 1.089,4 1.187,9 1.045,2 1.101,0 1.085,0 992,7
+Jaén
+2013
+0
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+0
+200
+400
+600
+800
+1.000
+1.400
+1.200
+Gas natural
+Energía eléctrica
+Productos petrolíferos
+Biomasa
+Solar térmica
+Agencia Andaluza de la  Energía | 111
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Biomasa Servicios
+Resto de provincias
+Productos petrolíferos Industria
+Solar térmica Primario
+Jaén
+Energía eléctrica Residencial
+Gas natural Transporte
+Total: 992,7 ktep Total:  992,7 ktep Total: 12.095,0 ktep
+21,5 %
+13,3 %
+18,0 %
+16,5 %
+28,0 %
+9,1 %
+39,6 %
+6,8 %
+8,2 %
+91,8 %
+47,0 %
+0,2 %
+Estructura del consumo de energía final por fuentes 
+en Jaén en 2023
+Estructura del consumo de energía final por sectores 
+en Jaén en 2023
+Participación en el consumo total de energía final 
+en 2023
+Agencia Andaluza de la  Energía | 112
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía final por fuentes en Málaga
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,3 0,7 0,0
+Productos petrolíferos 1.209,0 1.219,6 1.260,7 1.298,9 1.366,1 1.401,4 1.447,2 962,9 1.154,7 1.408,9 1.462,4
+Gas natural 79,6 137,1 108,2 107,3 101,6 118,7 111,4 84,5 77,2 90,6 84,0
+Solar térmica 14,1 15,0 15,6 16,0 16,0 16,2 16,7 17,0 17,4 17,7 18,0
+Biomasa 62,3 117,9 80,2 91,8 94,9 93,8 124,7 83,0 89,0 95,1 92,7
+Energía eléctrica 488,7 499,2 510,5 516,0 524,6 536,3 529,9 506,3 499,1 521,1 569,0
+TOTAL 1.853,7 1.988,7 1.975,2 2.030,1 2.103,2 2.166,5 2.229,9 1.653,7 1.837,6 2.134,1 2.226,0
+Málaga
+2013
+0
+500
+1.500
+2.500
+1.000
+2.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Gas natural
+Energía eléctrica
+Productos petrolíferos
+Carbón
+Biomasa
+Solar térmica
+Agencia Andaluza de la  Energía | 113
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Biomasa Servicios
+Resto de provincias
+Productos petrolíferos Industria
+Solar térmica Primario
+Málaga
+Energía eléctrica Residencial
+Gas natural Transporte
+Total: 2.226,0 ktep Total:  2.226,0 ktep Total: 12.095,0 ktep
+25,6 %
+3,8 %
+4,1 %
+15,7 % 9,6 %
+12,4 %
+58,8 %
+3,5 %
+18,4 %
+81,6 %
+65,7 %
+0,8 %
+Estructura del consumo de energía final por fuentes 
+en Málaga en 2023
+Estructura del consumo de energía final por sectores 
+en Málaga en 2023
+Participación en el consumo total de energía final 
+en 2023
+Agencia Andaluza de la  Energía | 114
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución del consumo de energía final por fuentes en Sevilla
+Unidad: ktep 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 0,7 0,7 0,7 1,5 5,4 6,4 3,3 4,3 24,4 31,1 0,5
+Productos petrolíferos 1.208,8 1.199,7 1.237,7 1.234,9 1.273,3 1.341,7 1.363,6 1.109,4 1.225,5 1.296,5 1.261,1
+Gas natural 249,2 247,1 226,6 257,0 245,0 274, 8 273,8 264,0 259,6 222,7 224,0
+Solar térmica 23,9 25,7 27,8 28,3 29,1 29,5 30,4 31,0 31,6 32,2 32,8
+Biomasa 94,5 164,3 107,2 122,4 124,8 121,8 167,9 116,3 128,2 130,1 120,9
+Energía eléctrica 643,7 626,7 645,1 648,8 667,4 662,1 646,2 647,7 631,0 598,3 616,0
+TOTAL 2.220,9 2.264,2 2.245,0 2.293,0 2.345,0 2.436,3 2.485,2 2.172,8 2.300,3 2.310,9 2.255,4
+Sevilla
+2013
+0
+500
+1.500
+2.500
+1.000
+2.000
+3.000
+Unidad: ktep
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Gas natural
+Energía eléctrica
+Productos petrolíferos
+Carbón
+Biomasa
+Solar térmica
+Agencia Andaluza de la  Energía | 115
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Biomasa Servicios
+Resto de provincias
+Productos petrolíferos Industria
+Solar térmica Primario
+Sevilla
+Energía eléctrica Residencial
+Gas natural Transporte
+Total: 2.255,4 ktep Total:  2.255,4 ktep Total: 12.095,0 ktep
+27,3 %
+9,9 %
+5,4 %
+15,9 % 20,2 %
+12,6 %
+45,6 %
+5,7 %
+18,6 %
+81,4 %
+55,9 %
+1,5 %
+Estructura del consumo de energía final por fuentes 
+en Sevilla en 2023
+Estructura del consumo de energía final por sectores 
+en Sevilla en 2023
+Participación en el consumo total de energía final 
+en 2023
+7. Energía 
+y medio 
+ambiente
+
+Agencia Andaluza de la  Energía | 117
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Evolución de las emisiones de CO2 derivadas del uso de combustibles fósiles
+En este capítulo se ofrece la información relativa a las emisiones 
+de CO2 asociadas a la combustión de fuentes de energía fósil para 
+cada sector final de consumo, las del sector generación eléctrica y 
+aquellas emisiones asociadas al consumo de combustibles fósiles 
+para el desarrollo de las actividades de extracción, producción, 
+transformación y distribución de energía, denominadas como 
+emisiones del sector energético.
+Las emisiones derivadas del consumo de fuentes energéticas 
+renovables se consideran neutras a efectos de emisiones.
+La metodología de cálculo se basa en la estimación de las 
+emisiones por tipología de combustible aplicando factores de 
+emisión1 específicos del CO2.
+1 Tomados del Informe de Inventario Nacional Gases de Efecto Invernadero. Comunicación 
+a la Comisión Europea en Cumplimiento de Reglamento (UE) 2018/1999. Comunicación 
+al Secretariado de la Convención Marco de las Naciones Unidas sobre el Cambio Climático. 
+Edición 2024 (1990-2022) España marzo 2024, del Ministerio para la Transición Ecológica y el 
+Reto Demográfico. 
+En 2023 se reduce un 9,9% el consumo de energía primaria procedente de fuentes fósiles, excluyendo usos no energéticos y pérdidas, 
+respecto al consumo de 2022. Consecuentemente, han caído las emisiones de CO2 asociadas, generadas desde los diversos sectores de 
+la economía andaluza, en el ámbito de la movilidad y en los hogares, cifrándose esta reducción en un 10,6% respecto al año precedente.
+Este descenso se ha focalizado en el consumo de carbón y gas natural para generación eléctrica, tras el repunte registrado en 2022, 
+coherente con la transición a un mix más descarbonizado.
+En este sentido, las emisiones de CO2 por la quema de combustibles fósiles se estiman en 30.117 kt lo que supone 3.582 kt menos que 
+en 2022.
+En el análisis por fuentes, todas ellas redujeron globalmente las emisiones. El carbón, como se ha señalado, marca la tendencia más 
+acusada (83,4% de reducción, 1.701 kt CO2 menos), seguida del gas natural (reducción del 13,5%; 1.427 kt CO2). La combustión de productos 
+petrolíferos también emitió un 2,2% menos (454 kt CO2).
+Unidad: miles 
+de toneladas 
+de CO₂
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 8.852,0 9.225,3 12.608,1 8.618,2 10.600,8 10.939,2 3.165,2 371,8 394,7 2.038,8 337,5
+Productos 
+petrolíferos 19.280,9 19.766,9 20.250,0 20.180,0 21.535,3 21.832,9 21.725,6 17.637,3 20.007,8 21.058,1 20.604,6
+Gas natural 8.857,0 7.996,6 8.312,9 8.933,9 10.154,6 9.339,3 12.401,9 10.132,2 9.978,5 10.602,5 9.175,2
+Total 
+emisiones 36.989,9 36.988,8 41.171,0 37.732,0 42.290,8 42.111,4 37.292,7 28.141,3 30.381,1 33.699,3 30.117,2
+Total 
+consumo (1) 
+(ktep)
+12.539,5 12.464,8 13.405,4 12.841,9 14.134,8 14.044,6 13.515,3 10.441,6 11.226,0 12.255,3 11.048,0
+(1) Consumo primario de fuentes fósiles. No incluye los usos no energéticos ni pérdidas
+Agencia Andaluza de la  Energía | 118
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+La intensidad de carbono, es decir, la relación entre el consumo de energía primaria y las emisiones 
+de CO2 liberadas a la atmósfera asociadas a ese consumo, se situó en 2023 en 2,01 tCO2/tep2, lo que 
+supone una disminución de un 6,6% en referencia al año precedente.
+Como se observa en la gráfica, el dato de intensidad energética que relaciona las emisiones de CO 2 
+estimadas con el consumo energético primario se sitúa en 2023  en un valor similar al de 2021.
+2 El consumo de energía primaria considera para el cálculo todas las fuentes de energía primarias y no sólo las fuentes fósiles.
+Los productos petrolíferos siguen encabezando el mayor volumen de las emisiones con el 68,4% 
+(20.605 ktCO2) del total, destacando las asociadas a los gasóleos, que con 12.342 ktCO 2 engloban el 
+41,0% de las emisiones totales asociadas al uso de energía. Las siguientes en cuantía son las producidas 
+por el consumo energético del gas natural con 9.175 ktCO2 (30,5% del total). El último lugar lo ocupa el 
+carbón, que sufrió un fuerte recorte en 2023, con 337 ktCO2 (1,1%).
+Emisiones de CO2 por unidad de consumo de energía Emisiones de CO2 por fuentes
+En 2023 todas las fuentes fósiles empleadas aportaron menos dióxido de carbono a la atmósfera que 
+en 2022, con la salvedad de los querosenos que las incrementaron en un 15,9% y las gasolinas que lo 
+hicieron en un 6,6%.
+2013
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+Índice 2000=100
+2014 2015 2016 2017 2018 2019 202220212020 2023
+GLP
+Querosenos
+Gasolinas
+Gas natural
+Gasóleos
+Fuelóleo
+Carbón
+Emisiones/Consumo de energía Emisiones de CO2 Consumo de energía primaria
+1,1 %
+Otros productos
+30,5 %
+41,0 %
+2,8 %
+7,2 %
+6,3 %
+9,0 %
+2,1 %
+Total: 30.117,2 kt CO2
+Agencia Andaluza de la  Energía | 119
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Emisiones de CO2 por sectores
+El sector transporte aglutina casi la mitad del total de emisiones asociadas al consumo de energía, con 
+el 49,6% de las emisiones regionales (14.949 ktCO2), seguido por la generación de electricidad que es 
+responsable del 22,5% (6.766 ktCO2) en 2023.
+El efecto del sector transporte ha hecho que el peso de las emisiones asociadas a los sectores finales 
+haya crecido hasta el 71,4% del total en un contexto de descarbonización del sistema eléctrico, con unas 
+emisiones asociadas a la movilidad de personas y mercancías que apenas ha sufrido modificaciones 
+(incremento del 0,2%, 36 ktCO2 más que en 2022). En el resto de los sectores, el peso relativo de sus 
+Unidad: miles de toneladas de CO₂ 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Generación eléctrica 14.820,2 14.361,2 18.093,0 14.333,8 17.129,3 16.723,7 11.584,3 7.117,3 6.606,5 9.893,1 6.766,4
+Transporte 12.361,3 12.707,9 13.242,9 13.305,7 14.537,7 14.977,7 15.371,1 11.612,3 14.086,2 14.913,2 14.949,3
+Industria 3.711,4 3.819,7 3.677,1 4.134,8 4.712,5 4.248,0 4.353,9 3.679,6 3.834,1 3.013,1 2.688,4
+Primario 2.316,3 2.230,4 2.253,5 2.307,8 2.283,6 2.326,5 2.368,8 2.373,6 2.455,3 2.497,5 2.318,0
+Servicios 262,9 271,9 390,3 410,1 378,5 460,6 525,1 517,3 569,8 548,0 714,0
+Residencial 1.391,9 1.273,8 1.334,3 1.160,9 1.174,6 1.204,2 1.186,6 1.024,4 1.020,2 931,4 825,7
+Energético(1) 2.125,9 2.323,8 2.179,8 2.079,0 2.074,6 2.170,7 1.903,0 1.816,9 1.808,9 1.902,9 1.855,4
+Total emisiones 36.989,9 36.988,8 41.171,0 37.732,0 42.290,8 42.111,4 37.292,7 28.141,3 30.381,1 33.699,3 30.117,2
+(1) Incluye emisiones asociadas al consumo de combustibles fósiles para el desarrollo de las actividades de extracción, producción, transformación y distribución de energía
+contribuciones ha sido muy parecido al de 2022: sector industria con 2.688 ktCO 2, el 8,9% del total 
+de emisiones; sector servicios con 714 ktCO 2 (2,4%); el residencial aportó 826 ktCO 2 (2,7%); sector 
+primario con 2.318 ktCO2 (7,7%) y el sector energético con 1.855 ktCO2 (6,2%).
+En cuanto a la variación anual, todos los sectores reducen sus emisiones, salvo transporte como se 
+ha comentado y servicios, que con un 30,3% (166,0 ktCO 2) más que en 2022 ha marcado un máximo 
+histórico. Destaca el descenso de las emisiones asociadas a la generación eléctrica (3.127 ktCO2 menos 
+que en 2022; un 31,6% de reducción) e industria (325 ktCO2; 10,8% menos). 
+Agencia Andaluza de la  Energía | 120
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+2013
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+30.000
+35.000
+40.000
+45.000
+kt CO 2 
+2014 2015 2016 2017 2018 2019 202220212020 2023
+Generación eléctrica
+Transporte
+Industria
+Residencial
+Primario
+Servicios
+Energético (1) (1) Incluye emisiones asociadas al consumo de combustibles 
+fósiles para el desarrollo de las actividades de extracción, 
+producción, transformación y distribución de energía
+Agencia Andaluza de la  Energía | 121
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+El empleo de fuentes fósiles para generación eléctrica varió sustancialmente de 2022 a 2023 y por 
+tanto las emisiones asociadas. Así, las del carbón se redujeron un 82,4% cifrándose en 327,6 kt; las 
+procedentes del consumo de productos petrolíferos descendieron hasta las 33,6 kt, un 85,8% menos 
+que el año anterior y las de gas natural lo hicieron en un 17,8% hasta las 6.405 kt. 
+Las emisiones de CO2 asociadas a la producción de electricidad en Andalucía, por su parte, sufrieron 
+un recorte en 2023 del 31,6%, estimándose en 6.766 ktCO 2. De estas, el 94,7% tienen su origen en la 
+combustión de gas natural, principalmente en ciclos combinados.
+Emisiones de CO2 debidas a la generación eléctrica en Andalucía
+La producción bruta de electricidad se redujo también un 11,2% 
+cifrándose en 33.814 GWh en 2023. El indicador Mix de emisiones 
+(emisiones de CO2 por unidad de generación eléctrica) se situó en 
+200 tCO2/GWh, el valor más bajo de la serie histórica.
+Notas: Se incluyen las emisiones derivadas de la producción de energía eléctrica exportada por la comunidad andaluza. 
+Las emisiones derivadas del consumo de gas natural de las centrales termosolares entán contabilizadas en el apartado "gas natural"
+Unidad: miles de toneladas de CO₂ 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Carbón 8.842,1 9.209,6 12.593,9 8.603,4 10.570,2 10.911,2 3.142,1 337,4 238,8 1.864,3 327,6
+Productos petrolíferos 284,0 392,4 525,9 523,8 619,5 519,6 554,8 333,3 204,4 236,9 33,6
+Gas natural 5.694,2 4.759,2 4.973,3 5.206,6 5.939,6 5.292,8 7.887,4 6.446,6 6.163,4 7.792,0 6.405,1
+Energías renovables 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Total emisiones 14.820,2 14.361,2 18.093,0 14.333,8 17.129,3 16.723,7 11.584,3 7.117,3 6.606,5 9.893,1 6.766,4
+Producción bruta (GWh) 36.304,0 33.378,8 37.244,4 34.347,2 38.722,9 36.082,2 35.665,1 29.395,6 31.381,9 38.088,7 33.814,5
+Mix emisiones (tCO2/GWh) 408,2 430,3 485,8 417,3 442,4 463,5 324,8 242,1 210,5 259,7 200,1
+Agencia Andaluza de la  Energía | 122
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+El indicador denominado Intensidad de carbono, que mide la cantidad de dióxido de carbono que se emi-
+te en la generación de cada euro de riqueza, descendió un 12,8% en Andalucía hasta los 0,18 kgCO2/€ 
+en 2023.
+La evolución de las emisiones de dióxido de carbono per cápita bajaron un 10,6%, hasta situarse en 
+3,5 tCO2/habitante.
+Intensidad de carbono Emisiones de CO2 per cápita
+2013
+0,29
+0,27
+0,25
+0,23
+0,21
+0,19
+0,17
+Unidad: kilogramos de CO 2 / €
+2014 2015 2016 2017 2018 2019 202220212020 2023 2013
+3,0
+3,5
+4,0
+4,5
+5,0
+5,5
+Unidad: toneladas de CO 2 / habitante
+2014 2015 2016 2017 2018 2019 202220212020 2023
+8. Balance 
+energético 
+de Andalucía
+Agencia Andaluza de la  Energía | 124
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+El balance energético de la comunidad 
+autónoma de Andalucía en 2023 se 
+ha elaborado siguiendo la metodología 
+EUROST A T. En la columna “Energías derivadas” 
+se indican las cantidades de calor producidas 
+destinadas a la venta. En los anteriores apartados 
+de esta publicación, dicha cantidad se incluye en los 
+datos del combustible utilizado para su producción. 
+Los resultados se expresan en una unidad común,  
+la kilotonelada equivalente de petróleo (ktep), para 
+facilitar así la comparación entre fuentes.
+Agencia Andaluza de la  Energía | 125
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Unidad: ktep Carbón y derivados Crudo de petróleo 
+y productos derivados Gas Natural Energías Renovables Energía eléctrica Energías derivadas (Calor) Tot al
+Producción 0,0 0,0 4,8 3.477,6 0,0 0,0 3.482,4
+Recuperaciones 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Saldo de intercambios (Imp. - exp.) 53,8 11.767,4 4.163,1 -126,9 610,2 0,0 16.467,6
+Variación de existencias (inicial-final) 26,0 122,8 -10,3 0,0 0,0 0,0 138,5
+Bunkers (transporte marítimo) 0,0 3.895,4 0,0 0,0 0,0 0,0 3.895,4
+CONSUMO INTERIOR BRUTO 79,9 7.994,7 4.157,7 3.350,7 610,2 0,0 16.193,2
+Entradas en transformación 77,5 22.901,0 2.540,8 1.157,8 0,0 0,0 26.677,0
+Centrales termoeléctricas 77,5 1,4 1.730,7 1.157,8 0,0 0,0 2.967,3
+Centrales termoeléctricas de autoproducción 0,0 23,2 543,3 0,0 0,0 0,0 566,5
+Refinerías 0,0 22.876,4 266,9 0,0 0,0 0,0 23.143,2
+Salidas de transformación 0,0 22.731,9 266,9 0,0 1.530,3 43,9 24.573,0
+Centrales termoeléctricas 0,0 0,0 0,0 0,0 1.199,2 6,1 1.205,3
+Centrales termoeléctricas de autoproducción 0,0 0,0 0,0 0,0 331,0 37,8 368,8
+Refinerías 0,0 22.731,9 266,9 0,0 0,0 0,0 22.998,8
+Intercambios y transferencias 0,0 0,0 0,0 -1.343,2 1.343,2 0,0 0,0
+Cambios entre productos 0,0 0,0 0,0 -1.343,2 1.343,2 0,0 0,0
+Productos transferidos 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Restitución de petroquímica 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Consumo sector energético 0,0 925,3 411,4 0,0 221,4 26,2 1.584,3
+Pérdidas transporte y distribución 0,0 0,0 9,7 0,0 401,3 0,0 411,0
+Disponible para el consumo final 2,4 6.900,4 1.462,7 849,6 2.862,1 17,7 12.095,0
+Consumo final no energético 0,0 705,2 243,4 0,0 0,0 0,0 948,7
+CONSUMO FINAL ENERGÉTICO 2,4 6.195,2 1.219,2 849,7 2.862,1 17,7 11.146,3
+Industria 2,4 246,8 911,9 185,5 732,8 17,7 2.097,1
+Transporte 0,0 4.891,8 5,6 307,6 14,7 0,0 5.219,6
+Primario (Agricultura y pesca) 0,0 74 6, 2 4,8 13,9 91,2 0,0 856,2
+Servicios 0,0 80,1 212,2 92,0 914,3 0,0 1.298,7
+Residencial 0,0 230,3 84,7 250,7 1.109,0 0,0 1.674,6
+9. Glosario
+
+Agencia Andaluza de la  Energía | 127
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Relación entre la producción propia de una fuente de energía o del 
+conjunto de fuentes de energía para consumo interior de una región 
+y el consumo total (producción + importaciones – exportaciones + 
+variación de stock) de esa fuente energética o del conjunto de fuentes 
+energéticas en la misma unidad territorial.
+Autoabastecimiento energético Central hidroeléctrica
+Combustible fósil 
+Consumos en bombeo
+Consumos en generación
+Consumo interior bruto
+Crudo de petróleo
+Demanda energética 
+Diagrama de flujo energético
+Cogeneración
+Balance energético 
+Biomasa 
+Central de bombeo  
+Relación detallada de los aportes energéticos de todas las fuentes de 
+energía utilizadas, de sus pérdidas de transformación y de sus formas 
+de utilización en un período de tiempo en una región específica.
+Es el conjunto de la materia orgánica originada por los seres vivos y los 
+productos procedentes de su transformación inmediata que pueden 
+ser utilizados para la producción de energía.
+Tipo de centrales hidráulicas que usan el agua embalsada para 
+generar energía durante las horas punta (horas de mayor demanda 
+de energía) usando el agua embalsada, o que almacenan agua 
+consumiendo energía mediante bombeo en las horas valle (horas de 
+menor demanda de energía).
+Central eléctrica en la que se transforma la energía potencial de un 
+curso de agua en energía eléctrica.
+Producción simultánea de energía eléctrica y térmica.
+Combustible de origen orgánico que se formó en edades geológicas 
+pasadas y que se encuentra en los depósitos sedimentarios de 
+la corteza terrestre. El carbón, el petróleo y el gas natural son los 
+combustibles fósiles.
+Energía empleada en las centrales hidráulicas de bombeo para elevar 
+el agua desde el vaso inferior hasta el superior para su posterior 
+turbinado.
+Energía utilizada por los elementos auxiliares de las centrales, 
+necesaria para el funcionamiento de las instalaciones de 
+producción.
+Cantidad de energía necesaria para cubrir las necesidades energéticas 
+de una región. 
+Mezcla en proporciones variables de hidrocarburos sólidos, líquidos y 
+gaseosos.
+Cantidad de energía que se requiere en un país o región. Puede 
+referirse a energías primarias, la suma de consumos de fuentes 
+primarias (petróleo, carbón, gas natural, energía nuclear, 
+hidroeléctrica y otras renovables); o a energías finales, la cantidad 
+de energía requerida por los distintos sectores económicos y 
+hogares.
+Representación gráfica a escala de 
+un balance energético, mostrando 
+las necesidades de energía en 
+sus diversas formas y el modo de 
+cubrirlas tanto con producción 
+propia como con importaciones.
+Agencia Andaluza de la  Energía | 128
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Utilización de varias fuentes de energía en la cobertura de la deman-
+da energética, para evitar la dependencia de un suministro.
+Energía potencial y cinética de las aguas.
+Diversificación energética
+Energía disponible para el consumo final
+Energía eólica
+Energía final
+Energía hidráulica 
+Energías renovables
+Energía primaria
+Energía solar
+Energía consumida por el usuario final. Comprende los usos 
+energéticos y no energéticos.
+Energía producida por el viento. Se utiliza para la producción de 
+energía eléctrica o mecánica (accionamiento de molinos industriales, 
+bombas...). 
+Energía procedente de las fuentes de energía primaria que 
+se transforma para ser consumida en combustibles líquidos, 
+combustibles gaseosos, electricidad, etc.
+Energía que no ha sido sometida a ningún proceso de conversión y 
+se encuentra en su forma natural, como el carbón, el petróleo, el gas 
+natural, el sol, el agua almacenada o en movimiento, las mareas, el 
+viento, el uranio, el calor almacenado en la tierra (geotermia), etc.
+Obtenidas de fuentes naturales limpias inagotables producen 
+calor, electricidad y energía para el transporte. Provienen de 
+forma directa o indirecta del sol: energía eólica, biomasa y 
+biocarburantes, energía geotérmica, energía hidroeléctrica y 
+energía maremotriz. 
+Energía renovable que llega a la Tierra 
+en forma de radiación electromagnética 
+procedente del sol donde se genera por 
+reacciones de fusión. Se puede aprovechar 
+de dos formas distintas: mediante su 
+transformación en energía calorífica o en 
+energía eléctrica.
+Distribución porcentual por fuentes energéticas y/o sectores 
+económicos de la producción o el consumo de energía en un 
+determinado ámbito geográfico y en un período de tiempo 
+considerado.
+Estructura energética
+Factor de conversión
+G.L.P .
+Relación entre distintas unidades energéticas.
+Producto del refino del petróleo compuesto de propano, butano, o 
+una mezcla de los dos, y puede ser total o parcialmente licuado bajo 
+presión con objeto de facilitar su transporte y almacenamiento.
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Datos Energéticos de Andalucía 2023
+ Agencia Andaluza de la  Energía | 129
+Cantidad de calor desprendida por unidad de masa de combustible. 
+El poder calorífico puede ser superior (PCS) o inferior (PCI).
+Intensidad energética
+Pérdidas de transformación 
+Poder calorífico
+Poder calorífico inferior (PCI)
+Poder calorífico superior (PCS) Productos petrolíferos 
+Potencia instalada
+Rendimiento energético 
+Producción en barras de alternador (b.a.) Termia
+Producción en barras de central (b.c.)  
+Tonelada equivalente de petróleo (tep)    
+ Transformación energética    Producto Interior Bruto (PIB) 
+Relación entre la energía 
+consumida y el Producto 
+Interior Bruto. Mide la 
+eficiencia energética global 
+de un sistema económico.
+Diferencia entre la entrada y salida de energía en la transformación.
+Cantidad de calor desprendido en la combustión completa de una 
+unidad de combustible, estando no condensado el vapor de agua y 
+no recuperado el calor. 
+Cantidad de calor desprendido por la combustión completa de una 
+unidad de combustible, estando condensado el vapor de agua y 
+recuperado el calor. 
+Potencia máxima que puede alcanzar una unidad de producción 
+medida a la salida de los bornes del alternador.
+Energía eléctrica obtenida inmediatamente después de la 
+transformación de energía primaria. También se denomina 
+producción bruta.
+Energía eléctrica que una central vierte a la red eléctrica para su 
+transporte, distribución y consumo final. Se denomina también 
+producción neta.
+Derivados del petróleo obtenidos en refinerías mediante procesos de 
+destilación fraccionada y cracking.
+Es la suma de los valores añadidos en los distintos procesos necesarios 
+para la obtención de un bien económico. 
+Relación existente entre la energía que requiere un determinado 
+equipo para su funcionamiento y la que realmente transforma en 
+energía útil.
+Unidad térmica que equivale al calor necesario para elevar un 
+grado centígrado la temperatura de una tonelada de un cuerpo 
+cuyo calor específico es igual al del agua a 15 ºC y a la presión 
+atmosférica normal. Equivale a un millón de calorías.
+Cantidad de energía similar a la que produce la combustión de una 
+tonelada de petróleo. Su valor exacto es de 10.000 termias.
+Proceso de modificación que implica el cambio de estado físico de la 
+energía.
+10. Unidades 
+y factores 
+de conversión
+Agencia Andaluza de la  Energía | 131
+Datos Energéticos de Andalucía 2023
+1. Andalucía en el contexto 
+energético europeo 
+4. Análisis 
+por fuentes energéticas
+2. Andalucía dentro del panorama 
+energético nacional
+10. Unidades y factores 
+de conversión
+3. Situación energética 
+de Andalucía
+8. Balance energético 
+de Andalucía
+7. Energía 
+y medio ambiente
+5. Análisis 
+por sectores
+6. Análisis 
+provincial 9. Glosario
+Equivalencia entre unidades de trabajo o energía 
+en sus formas eléctrica, mecánica y térmica
+Coeficientes de conversión a toneladas equivalentes 
+de petróleo (tep)
+tep termia kcal BTU Julio CVh kWh
+1 tep 1 1 · 10⁴ 1 · 10⁷ 3,97 · 10⁷ 4,19 · 10¹⁰ 1,52 · 10⁴ 1,16 · 10⁴
+1 termia 1 · 10-⁴ 1 1 · 10³ 3,97 · 10³ 4,19 · 10⁶ 1,52 1,16
+1 kcal 1 · 10-⁷ 1 · 10-³ 1 3,97 4,19 · 10³ 1,58 · 10-³ 1,16 · 10-³
+1 BTU 2,52 · 10-⁸ 2,52 · 10-⁴ 0,25 1 1,06 · 10³ 3,98 · 10-⁴ 2,93 · 10-⁴
+1 Julio 2,39 · 10-¹¹ 2,39 · 10-⁷ 23,88 · 10-⁵ 9,48 · 10-⁴ 1 3,77 · 10-⁷ 2,78 · 10-⁷
+1 CVh 6,58 · 10-⁵ 0,66 6,32 · 10² 2,51 · 10³ 2,65 · 10⁶ 1 0,74
+1 kWh 8,62 · 10-⁵ 0,86 8,60 · 10² 3,41 · 10³ 3,60 · 10⁶ 1,36 1
+Unidad Conversión a tep (PCI)
+Generación Eléctrica
+Antracita + Hulla t 0,497
+Hulla importada t 0,581
+Otros usos
+Coque metalúrgico t 0,705
+Antracita t 0,611
+Hulla t 0,606
+Gas Natural
+Gas Natural MWh 0,086
+Gas Natural BCM 1 · 10⁶
+Petróleo y derivados
+Crudo t 1,019
+gas de Refinería t 1,194
+GLP t 1,099
+Gasolina t 1,051
+Unidad Conversión a tep (PCI)
+Petróleo y derivados
+Queroseno t 1,027
+Naftas t 1,051
+Gasóleo t 1,010
+Fuelóleo t 0,955
+Coque de Petróleo t 0,750
+Otros productos t 0,960
+Energías Renovables
+Biomasa tep 1
+Biogás tep 1
+Biocarburantes tep 1
+Hidráulica MWh 0,086
+Eólica MWh 0,086
+Solar MWh 0,086
+Energía Eléctrica
+Energía Eléctrica MWh 0,086

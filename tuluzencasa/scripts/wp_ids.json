@@ -156,5 +156,21 @@
  "cuanto-consume-suelo-radiante-electrico": {
   "id": 317,
   "rankmath_status": 200
+ },
+ "luz-en-andalucia": {
+  "id": 335,
+  "rankmath_status": 200
+ },
+ "luz-en-cataluna": {
+  "id": 336,
+  "rankmath_status": 200
+ },
+ "luz-en-madrid": {
+  "id": 337,
+  "rankmath_status": 200
+ },
+ "luz-en-comunidad-valenciana": {
+  "id": 338,
+  "rankmath_status": 200
  }
 }

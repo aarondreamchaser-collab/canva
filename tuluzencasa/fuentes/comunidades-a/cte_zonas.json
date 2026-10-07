@@ -1,0 +1,410 @@
+{
+ "Alicante/Alacant": [
+  {
+   "zona": "B4",
+   "desde": 0,
+   "hasta": 250
+  },
+  {
+   "zona": "C3",
+   "desde": 251,
+   "hasta": 700
+  },
+  {
+   "zona": "D3",
+   "desde": 701,
+   "hasta": null
+  }
+ ],
+ "Almería": [
+  {
+   "zona": "A4",
+   "desde": 0,
+   "hasta": 100
+  },
+  {
+   "zona": "B4",
+   "desde": 101,
+   "hasta": 250
+  },
+  {
+   "zona": "B3",
+   "desde": 251,
+   "hasta": 400
+  },
+  {
+   "zona": "C3",
+   "desde": 401,
+   "hasta": 800
+  },
+  {
+   "zona": "D3",
+   "desde": 801,
+   "hasta": null
+  }
+ ],
+ "Barcelona": [
+  {
+   "zona": "C2",
+   "desde": 0,
+   "hasta": 250
+  },
+  {
+   "zona": "D2",
+   "desde": 251,
+   "hasta": 450
+  },
+  {
+   "zona": "D1",
+   "desde": 451,
+   "hasta": 750
+  },
+  {
+   "zona": "E1",
+   "desde": 751,
+   "hasta": null
+  }
+ ],
+ "Cádiz": [
+  {
+   "zona": "A3",
+   "desde": 0,
+   "hasta": 150
+  },
+  {
+   "zona": "B3",
+   "desde": 151,
+   "hasta": 450
+  },
+  {
+   "zona": "C3",
+   "desde": 451,
+   "hasta": 600
+  },
+  {
+   "zona": "C2",
+   "desde": 601,
+   "hasta": 850
+  },
+  {
+   "zona": "D2",
+   "desde": 851,
+   "hasta": null
+  }
+ ],
+ "Castellón/Castelló": [
+  {
+   "zona": "B3",
+   "desde": 0,
+   "hasta": 100
+  },
+  {
+   "zona": "C3",
+   "desde": 101,
+   "hasta": 500
+  },
+  {
+   "zona": "D3",
+   "desde": 501,
+   "hasta": 600
+  },
+  {
+   "zona": "D2",
+   "desde": 601,
+   "hasta": 1000
+  },
+  {
+   "zona": "E1",
+   "desde": 1001,
+   "hasta": null
+  }
+ ],
+ "Córdoba": [
+  {
+   "zona": "B4",
+   "desde": 0,
+   "hasta": 150
+  },
+  {
+   "zona": "C4",
+   "desde": 151,
+   "hasta": 550
+  },
+  {
+   "zona": "D3",
+   "desde": 551,
+   "hasta": null
+  }
+ ],
+ "Girona": [
+  {
+   "zona": "C2",
+   "desde": 0,
+   "hasta": 100
+  },
+  {
+   "zona": "D2",
+   "desde": 101,
+   "hasta": 600
+  },
+  {
+   "zona": "E1",
+   "desde": 601,
+   "hasta": null
+  }
+ ],
+ "Granada": [
+  {
+   "zona": "A4",
+   "desde": 0,
+   "hasta": 50
+  },
+  {
+   "zona": "B4",
+   "desde": 51,
+   "hasta": 350
+  },
+  {
+   "zona": "C4",
+   "desde": 351,
+   "hasta": 600
+  },
+  {
+   "zona": "C3",
+   "desde": 601,
+   "hasta": 800
+  },
+  {
+   "zona": "D3",
+   "desde": 801,
+   "hasta": 1300
+  },
+  {
+   "zona": "E1",
+   "desde": 1301,
+   "hasta": null
+  }
+ ],
+ "Huelva": [
+  {
+   "zona": "A4",
+   "desde": 0,
+   "hasta": 50
+  },
+  {
+   "zona": "B4",
+   "desde": 51,
+   "hasta": 150
+  },
+  {
+   "zona": "B3",
+   "desde": 151,
+   "hasta": 350
+  },
+  {
+   "zona": "C3",
+   "desde": 351,
+   "hasta": 800
+  },
+  {
+   "zona": "D3",
+   "desde": 801,
+   "hasta": null
+  }
+ ],
+ "Huesca": [
+  {
+   "zona": "C3",
+   "desde": 0,
+   "hasta": 200
+  },
+  {
+   "zona": "D3",
+   "desde": 201,
+   "hasta": 400
+  },
+  {
+   "zona": "D2",
+   "desde": 401,
+   "hasta": 700
+  },
+  {
+   "zona": "E1",
+   "desde": 701,
+   "hasta": null
+  }
+ ],
+ "Jaén": [
+  {
+   "zona": "B4",
+   "desde": 0,
+   "hasta": 350
+  },
+  {
+   "zona": "C4",
+   "desde": 351,
+   "hasta": 750
+  },
+  {
+   "zona": "D3",
+   "desde": 751,
+   "hasta": 1250
+  },
+  {
+   "zona": "E1",
+   "desde": 1251,
+   "hasta": null
+  }
+ ],
+ "Lleida": [
+  {
+   "zona": "C3",
+   "desde": 0,
+   "hasta": 100
+  },
+  {
+   "zona": "D3",
+   "desde": 101,
+   "hasta": 600
+  },
+  {
+   "zona": "E1",
+   "desde": 601,
+   "hasta": null
+  }
+ ],
+ "Madrid": [
+  {
+   "zona": "C3",
+   "desde": 0,
+   "hasta": 500
+  },
+  {
+   "zona": "D3",
+   "desde": 501,
+   "hasta": 950
+  },
+  {
+   "zona": "D2",
+   "desde": 951,
+   "hasta": 1000
+  },
+  {
+   "zona": "E1",
+   "desde": 1001,
+   "hasta": null
+  }
+ ],
+ "Málaga": [
+  {
+   "zona": "A3",
+   "desde": 0,
+   "hasta": 100
+  },
+  {
+   "zona": "B3",
+   "desde": 101,
+   "hasta": 300
+  },
+  {
+   "zona": "C3",
+   "desde": 301,
+   "hasta": 700
+  },
+  {
+   "zona": "D3",
+   "desde": 701,
+   "hasta": null
+  }
+ ],
+ "Sevilla": [
+  {
+   "zona": "B4",
+   "desde": 0,
+   "hasta": 200
+  },
+  {
+   "zona": "C4",
+   "desde": 201,
+   "hasta": null
+  }
+ ],
+ "Tarragona": [
+  {
+   "zona": "B3",
+   "desde": 0,
+   "hasta": 100
+  },
+  {
+   "zona": "C3",
+   "desde": 101,
+   "hasta": 500
+  },
+  {
+   "zona": "D3",
+   "desde": 501,
+   "hasta": null
+  }
+ ],
+ "Teruel": [
+  {
+   "zona": "C3",
+   "desde": 0,
+   "hasta": 450
+  },
+  {
+   "zona": "C2",
+   "desde": 451,
+   "hasta": 500
+  },
+  {
+   "zona": "D2",
+   "desde": 501,
+   "hasta": 1000
+  },
+  {
+   "zona": "E1",
+   "desde": 1001,
+   "hasta": null
+  }
+ ],
+ "Valencia/València": [
+  {
+   "zona": "B3",
+   "desde": 0,
+   "hasta": 50
+  },
+  {
+   "zona": "C3",
+   "desde": 51,
+   "hasta": 500
+  },
+  {
+   "zona": "D2",
+   "desde": 501,
+   "hasta": 950
+  },
+  {
+   "zona": "E1",
+   "desde": 951,
+   "hasta": null
+  }
+ ],
+ "Zaragoza": [
+  {
+   "zona": "C3",
+   "desde": 0,
+   "hasta": 200
+  },
+  {
+   "zona": "D3",
+   "desde": 201,
+   "hasta": 650
+  },
+  {
+   "zona": "E1",
+   "desde": 651,
+   "hasta": null
+  }
+ ]
+}
