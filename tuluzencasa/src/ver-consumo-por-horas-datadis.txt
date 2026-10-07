@@ -1,0 +1,103 @@
+title: Ver tu consumo por horas: el contador inteligente y Datadis
+title_seo: Ver tu consumo por horas: contador inteligente y Datadis
+excerpt: Consumo por horas: con Datadis ves gratis lo que gastas cada hora. Pasar 2 kWh al día de punta a valle ahorra 8,51 € al mes; aquí, cómo detectarlo.
+category: factura-luz
+keyword: consumo por horas
+---
+Puedes ver tu consumo por horas gratis, sin instalar nada: tu contador inteligente lo registra y la distribuidora lo publica en su web y en Datadis, la plataforma común de todas las distribuidoras. Con esos datos sabrás qué gastas a cada hora y, por ejemplo, que pasar 2 kWh al día de la punta al valle te ahorra 8,51 € al mes.
+
+Calculamos con nuestro precio de referencia de <strong>0,165 €/kWh con impuestos</strong> y con los precios orientativos de punta, llano y valle de la web. Si los de tu factura son distintos, los ahorros cambian en la misma proporción.
+
+## Tu contador ya mide el consumo por horas {#contador}
+
+Casi todos los hogares tienen ya un contador inteligente. Según la CNMC, a finales de 2019 lo tenía instalado e integrado en el sistema de telegestión el 99,22 % de los consumidores domésticos de menos de 15 kW. El Gobierno da el despliegue por terminado en 2018 y calcula que cerca de 30 millones de consumidores pueden ver su consumo horario.
+
+Ese contador envía las lecturas a la distribuidora, la empresa dueña de la red de tu zona. Por eso la factura llega con tus kWh de punta, llano y valle sin que nadie vaya a leer el contador. Y por eso esos datos son tuyos: el reglamento de suministro de 2026 reconoce tu derecho a <strong>acceder gratis a tus datos de consumo</strong> y a dejar que otros los vean, si tú lo autorizas.
+
+## Dónde ver tu consumo por horas {#donde}
+
+Tienes varias puertas para llegar a los mismos datos:
+
+{{T:dd_donde}}
+
+La factura te da el total de cada tramo, pero no te dice a qué hora pasó cada cosa. Para eso necesitas la curva hora a hora, que está en la web de la distribuidora y en Datadis. La CNMC publica el <a href="https://sede.cnmc.gob.es/listado/censo/1" target="_blank" rel="noopener">listado de distribuidoras</a>; la tuya aparece en la factura y la identifican también los primeros números del CUPS, que te explicamos en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+
+## Qué es Datadis y cómo se usa {#datadis}
+
+<a href="https://www.datadis.es/" target="_blank" rel="noopener">Datadis</a> es una plataforma creada por las distribuidoras eléctricas de las asociaciones aelec, Aseme y Cide. Su ventaja es que es <strong>una sola web para todas</strong>: si tienes un piso en una ciudad y una casa en el pueblo con distribuidoras distintas, ves los dos suministros con un único registro.
+
+- <strong>Es gratis</strong> para el consumidor.
+- <strong>Ves el consumo horario</strong> de cada suministro del que eres titular y puedes descargarlo en un fichero.
+- <strong>Puedes autorizar a otra persona o empresa</strong> registrada para que consulte tus datos, por ejemplo a quien te haga un estudio de placas solares o una oferta de luz.
+
+Los pasos son sencillos: te registras en la web con tus datos de titular, entras en tu área privada, eliges el suministro y el periodo, y consultas o descargas el consumo. Si algo no cuadra con tus facturas, la distribuidora es quien tiene que resolverlo.
+
+{{CAJA:Dato clave}}
+Si una comercializadora con la que no tienes contrato quiere ver tu curva de consumo, necesita tu autorización expresa. Esa autorización hay que renovarla cada seis meses, y entonces la distribuidora te informa de las consultas que se han hecho.
+{{/CAJA}}
+
+## Tres cosas que descubres con tu consumo por horas {#descubrir}
+
+### 1. Cuánto gastas en la punta
+
+Con la tarifa 2.0TD, el kWh de punta, de 10 a 14 h y de 18 a 22 h en días laborables, es el más caro. Si tu curva tiene picos en esas horas, mira qué aparatos los causan y si puedes moverlos. Lo que se ahorra por cada kWh al día que pasas de la punta al valle:
+
+{{T:dd_mover}}
+
+El termo, la lavadora y el lavavajillas son los más fáciles de mover, porque se pueden programar. Las horas de cada tramo las tienes en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>.
+
+### 2. Tu consumo de fondo
+
+Mira las horas de madrugada, cuando nadie usa nada: lo que marca la curva entonces es lo que gasta tu casa sin que lo veas. La nevera, el router y los aparatos en espera están siempre ahí, pero si el fondo es alto, algo sobra. Cada vatio que no apagas nunca cuenta las 24 horas:
+
+{{T:dd_base}}
+
+Si de madrugada ves unos 150 W y no tienes nada que lo justifique, busca aparatos en espera, un termo sin programar o un equipo que no se apaga. Te ayudamos a encontrarlos en <a href="https://tuluzencasa.com/consumo-fantasma/">consumo fantasma</a>.
+
+### 3. Si tu potencia es la adecuada
+
+La curva muestra el consumo de cada hora en kWh, que es la media de esa hora. Si en ninguna hora de un año pasas de la mitad de tu potencia contratada, tienes margen para estudiar si te conviene bajarla. Ojo: un pico de pocos minutos no se ve en la media de la hora, y es el que hace saltar el limitador. Por eso, antes de bajar la potencia, comprueba también qué aparatos usas a la vez.
+
+## Úsalo para comprobar tu factura {#comprobar}
+
+Con el fichero de consumo horario puedes hacer dos comprobaciones:
+
+- <strong>Si tienes el PVPC</strong>, la tarifa regulada, el <a href="https://facturaluz2.cnmc.es/" target="_blank" rel="noopener">simulador de factura de la CNMC</a> calcula lo que deberías haber pagado. La OCU recuerda que los ficheros de consumo se pueden usar en ese servicio para comprobar si la factura del PVPC fue correcta.
+- <strong>Si estás en el mercado libre</strong>, suma los kWh de cada tramo del periodo de tu factura y compáralos con los que te han cobrado. Deben coincidir.
+
+Y si vas a comparar ofertas, tu consumo real por tramos es el mejor dato: con él sabrás si te conviene un precio único o uno por horas.
+
+## Trucos para sacar partido a tus datos {#trucos}
+
+- <strong>Mira una semana entera</strong>, de lunes a domingo: los fines de semana son valle todo el día y cambian el reparto.
+- <strong>Compara invierno y verano</strong>: la calefacción y el aire acondicionado suelen ser los que más mueven la curva.
+- <strong>Haz una prueba</strong>: apaga un aparato una noche y mira al día siguiente cuánto ha bajado el consumo de fondo.
+- <strong>Revisa el dato cada pocos meses</strong>, no solo cuando llega una factura alta.
+- <strong>No compartas tus datos sin saber para qué</strong>: autoriza solo lo que necesites y retira el permiso cuando ya no haga falta.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Datadis es gratis?
+
+Sí. Es una plataforma de las distribuidoras, gratuita para el consumidor, y el reglamento de suministro reconoce tu derecho a acceder gratis a tus datos de consumo.
+
+### ¿Puedo ver el consumo por horas de cualquier compañía?
+
+Sí. Los datos los tiene la distribuidora, no la comercializadora, así que da igual con quién tengas contratada la luz. En Datadis ves todos tus suministros aunque sean de distribuidoras distintas.
+
+### ¿Por qué en mi curva no veo cuándo salta el limitador?
+
+Porque la curva da el consumo medio de cada hora. Un pico de unos minutos, como encender a la vez el horno y la lavadora, se diluye en esa media.
+
+### ¿Quién puede ver mi consumo por horas?
+
+Tú, tu distribuidora y tu comercializadora actual. Cualquier otra empresa necesita tu autorización, y en el caso de otras comercializadoras hay que renovarla cada seis meses.
+
+Fuentes consultadas el 7 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212" target="_blank" rel="noopener">Real Decreto 88/2026</a>: preámbulo, artículo 6.y (acceso gratuito a los datos de consumo) y artículo 17.2 (curva de carga y autorización a otras comercializadoras).
+- <a href="https://www.cnmc.es/sites/default/files/editor_contenidos/Notas%20de%20prensa/2020/20201021_NdPcontadores%20inteligentes_rev.pdf" target="_blank" rel="noopener">CNMC, nota de prensa del 21 de octubre de 2020</a> sobre los contadores inteligentes.
+- <a href="https://www.ocu.org/consumo-familia/derechos-consumidor/consejos/conocer-datos-luz" target="_blank" rel="noopener">OCU, cómo conocer los datos de tu suministro</a>, sobre Datadis.
+- <a href="https://www.datadis.es/" target="_blank" rel="noopener">Datadis</a> y <a href="https://facturaluz2.cnmc.es/" target="_blank" rel="noopener">simulador de factura de la CNMC</a>.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tus aparatos con las horas en que los usas y compara el resultado con lo que ves en tu curva.

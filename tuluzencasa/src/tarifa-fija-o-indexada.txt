@@ -1,0 +1,118 @@
+title: Tarifa fija o indexada: cuál te conviene según tu consumo
+title_seo: Tarifa fija o indexada: cuál te conviene según tu consumo
+excerpt: Tarifa fija o indexada: en 12 meses el mercado pasó de 16,41 a 143,25 €/MWh. Para 250 kWh al mes, eso son 40,34 € de diferencia en un solo mes.
+category: factura-luz
+keyword: tarifa fija o indexada
+---
+¿Tarifa fija o indexada? Si quieres saber lo que pagarás cada mes, la fija; si puedes aguantar meses caros a cambio de aprovechar los baratos, la indexada. En los últimos 12 meses, el precio medio del mercado diario pasó de 16,41 €/MWh en febrero de 2026 a 143,25 €/MWh en septiembre: para un hogar que gasta 250 kWh al mes, solo esa parte de la factura fue de 5,22 € a 45,55 €.
+
+En este artículo usamos los precios reales del mercado mayorista que publica OMIE, el operador del mercado eléctrico, y calculamos con el IVA del 21 % y el impuesto eléctrico del 5,11 %. Para comparar con el resto de la web, nuestro precio de referencia es de <strong>0,165 €/kWh con impuestos</strong>; mira el de tu factura, porque es el que decide.
+
+## Qué es una tarifa fija y qué es una indexada {#que-es}
+
+En el mercado libre, la comercializadora te vende la energía con una de estas dos fórmulas:
+
+- <strong>Precio fijo</strong>: pagas el mismo precio por kWh durante todo el contrato, sea un precio único o uno distinto para punta, llano y valle.
+- <strong>Precio indexado</strong>: el precio del kWh sigue al del mercado mayorista, hora a hora o cuarto de hora a cuarto de hora, más los peajes, los cargos, otros costes del sistema y el margen de la comercializadora. El Reglamento de suministro de 2026 lo llama <strong>contrato con precios dinámicos</strong>.
+
+El PVPC, la tarifa regulada, también sigue al mercado, pero ya no del todo. Desde 2024 una parte de su precio sale de los mercados de futuros, que se mueven más despacio, y en 2026 ese peso es del 55 %. El otro 45 % sigue al mercado diario e intradiario. Te explicamos sus diferencias con el mercado libre en <a href="https://tuluzencasa.com/pvpc-mercado-libre/">PVPC o mercado libre</a>.
+
+{{T:fi_comparar}}
+
+## Tarifa fija o indexada: lo que ha hecho el mercado en 12 meses {#mercado}
+
+La parte que se mueve en una tarifa indexada es el precio del mercado diario. Hemos descargado los ficheros diarios de OMIE y calculado la media de cada mes. En la última columna, lo que supone esa parte, solo esa, para un hogar que gasta 250 kWh al mes, con impuestos:
+
+{{T:fi_omie}}
+
+Fíjate en dos cosas:
+
+- <strong>La primavera es barata</strong>: con mucha producción solar y eólica, el precio se hunde. En febrero de 2026 la media fue de 16,41 €/MWh.
+- <strong>El final del verano y el otoño son caros</strong>: julio, agosto y septiembre de 2026 subieron mes a mes, hasta 143,25 €/MWh. En los primeros seis días de octubre, la media ya está en 177,84 €/MWh.
+
+A esa parte del mercado hay que sumarle los peajes, los cargos, los servicios de ajuste del sistema y el margen de la comercializadora, que no hemos incluido porque dependen de la oferta. Por eso el precio final del kWh de una indexada siempre es bastante más alto que el del mercado.
+
+## Cuánto te juegas según tu consumo {#riesgo}
+
+La diferencia entre un mes barato y uno caro crece con lo que gastas. Con los precios medios del mes más barato y del más caro de los últimos 12 meses:
+
+{{T:fi_riesgo}}
+
+Y si lo que te preocupa es una subida, esta es la cuenta rápida: cada 50 €/MWh que sube el mercado se notan así en la parte de la energía, con impuestos.
+
+{{T:fi_sensibilidad}}
+
+Si el mercado sube, con una indexada lo pagas tú; con una fija, lo paga la comercializadora mientras dure tu contrato. A cambio, el precio fijo suele llevar un colchón para cubrir ese riesgo, y cuando el mercado baja no te beneficias.
+
+## Lo que dice la ley de cada tipo de contrato {#ley}
+
+El Real Decreto 88/2026, el nuevo reglamento de suministro, deja varias reglas claras para los hogares con la tarifa 2.0TD:
+
+- <strong>Precio fijo es fijo</strong>: el contrato debe indicar el precio de la potencia en €/kW y año y el de la energía en €/kWh, y las cláusulas para revisar las condiciones no se aplican a los contratos a precio fijo.
+- <strong>Permanencia</strong>: con la 2.0TD puedes irte cuando quieras sin penalización. La única excepción son los contratos a precio fijo antes de su primera prórroga anual. Aun así, la penalización solo cabe si tu salida causa un daño a la comercializadora, que tiene que probarlo, y no puede pasar del 5 % de la energía que te quedaba por consumir.
+- <strong>Derecho a una indexada</strong>: toda comercializadora con más de 200.000 clientes debe ofrecer contratos con precios dinámicos, si tienes contador inteligente. Antes de firmar, tiene que explicarte las oportunidades, los costes y los riesgos, y darte una estimación de cuánto pagarías al mes.
+
+Si te ofrecen una tarifa por teléfono sin que lo hayas pedido, el mismo reglamento prohíbe esas llamadas comerciales no solicitadas.
+
+## Cuándo te conviene cada una {#cuando}
+
+<strong>Te conviene una tarifa fija si…</strong>
+
+- Quieres saber cuánto pagarás cada mes y no quieres mirar el precio de la luz.
+- Tienes un consumo alto que no puedes mover de hora, por ejemplo calefacción eléctrica en invierno.
+
+<strong>Te puede convenir una indexada si…</strong>
+
+- Puedes mover buena parte del consumo a las horas más baratas: lavadora, lavavajillas, termo, carga del coche eléctrico.
+- Tienes placas solares y compras poca energía en las horas de sol.
+- Aceptas que algunos meses pagarás más y miras el año completo.
+
+Si te cuesta decidir, mira cuánto consumes en cada tramo. En nuestro artículo sobre los <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a> te explicamos qué horas son las baratas y qué aparatos merece la pena mover.
+
+{{CAJA:Dato clave}}
+Con el mercado en los niveles de este otoño, una tarifa indexada puede salir bastante más cara que nuestro precio de referencia de 0,165 €/kWh. Antes de cambiar, compara la oferta fija con el precio que has pagado de verdad en tus últimas facturas.
+{{/CAJA}}
+
+## Cómo comparar dos ofertas sin equivocarte {#comparar}
+
+- <strong>Usa tu consumo real</strong>: los kWh de punta, llano y valle de tus facturas de un año. Si solo miras un mes, puedes acertar en verano y fallar en invierno.
+- <strong>Compara el total</strong>, no solo el precio del kWh: suma la potencia, que puede ser distinta en cada oferta, y los servicios añadidos que te cobren.
+- <strong>En la indexada, pide la fórmula</strong>: qué mercado sigue, qué costes suma y qué margen pone la comercializadora. Sin la fórmula no hay forma de comparar.
+- <strong>En la fija, mira la permanencia</strong> y la fecha de la primera prórroga. Antes de firmar te tienen que dar un documento resumen con esas condiciones.
+- <strong>Usa el comparador de la CNMC</strong>: es oficial y gratuito, y muestra las ofertas con su precio estimado para tu consumo.
+
+Cambiar de comercializadora es gratis y no hace falta tocar la instalación; lo tienes paso a paso en <a href="https://tuluzencasa.com/cambiar-compania-luz/">cómo cambiar de compañía de luz</a>.
+
+## Trucos para pagar menos con cualquier tarifa {#trucos}
+
+- <strong>Programa el termo</strong> para que caliente en valle si tienes precios por tramos.
+- <strong>Pon la lavadora y el lavavajillas</strong> con inicio diferido, de madrugada o el fin de semana.
+- <strong>Ajusta la potencia</strong> a lo que usas de verdad: se paga todos los días, gastes o no.
+- <strong>Con indexada, mira el precio del día siguiente</strong>: el mercado diario publica los precios la víspera, y así sabes qué horas evitar.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Qué es mejor, tarifa fija o indexada?
+
+Depende de tu consumo y de cuánto riesgo aceptes. La fija te da un precio estable; la indexada puede salir más barata en los meses de precios bajos y más cara en los altos. En los últimos 12 meses, el mercado fue de 16,41 a 143,25 €/MWh de media mensual.
+
+### ¿Me pueden penalizar por dejar una tarifa fija?
+
+Solo antes de la primera prórroga anual, si la salida causa un daño a la comercializadora y esta lo prueba. La penalización no puede pasar del 5 % de la energía que te quedaba por consumir. Con una indexada o con el PVPC, no hay penalización en la 2.0TD.
+
+### ¿El PVPC es una tarifa indexada?
+
+En parte. Su precio sigue al mercado, pero desde 2024 una parte se calcula con los mercados de futuros. En 2026 es el 55 %, lo que suaviza las subidas y las bajadas.
+
+### ¿Pueden subirme el precio de una tarifa fija?
+
+No mientras dure el contrato: las cláusulas de revisión no se aplican a los contratos a precio fijo. Al renovarse, la comercializadora puede proponerte un precio nuevo, y entonces puedes aceptarlo o cambiarte.
+
+Fuentes consultadas el 7 de octubre de 2026:
+
+- <a href="https://www.omie.es/es/file-access-list" target="_blank" rel="noopener">OMIE, ficheros de precios marginales del mercado diario</a> (marginalpdbc) de octubre de 2025 a octubre de 2026, sistema español. Media simple de todos los periodos de cada mes.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212" target="_blank" rel="noopener">Real Decreto 88/2026</a>: artículos 2.j, 6.af, 13.n, 13.y, 28.3, 28.5 y 30.1, letras i y w.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2014-3376" target="_blank" rel="noopener">Real Decreto 216/2014</a>, del PVPC: artículo 7, coeficiente del mercado a plazo de 0,55.
+- <a href="https://comparador.cnmc.gob.es/" target="_blank" rel="noopener">Comparador de ofertas de la CNMC</a>.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tus aparatos y el precio de tu oferta, y compara lo que pagarías al mes.

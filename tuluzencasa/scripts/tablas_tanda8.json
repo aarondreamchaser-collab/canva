@@ -1,0 +1,646 @@
+{
+ "fi_omie": {
+  "headers": [
+   "Mes",
+   "Precio medio del mercado diario",
+   "En €/kWh",
+   "Solo esa parte, para 250 kWh al mes, con impuestos"
+  ],
+  "rows": [
+   [
+    "Octubre 2025",
+    "75,30 €/MWh",
+    "0,075 €/kWh",
+    "23,94 €"
+   ],
+   [
+    "Noviembre 2025",
+    "57,71 €/MWh",
+    "0,058 €/kWh",
+    "18,35 €"
+   ],
+   [
+    "Diciembre 2025",
+    "77,90 €/MWh",
+    "0,078 €/kWh",
+    "24,77 €"
+   ],
+   [
+    "Enero 2026",
+    "71,67 €/MWh",
+    "0,072 €/kWh",
+    "22,79 €"
+   ],
+   [
+    "Febrero 2026",
+    "16,41 €/MWh",
+    "0,016 €/kWh",
+    "5,22 €"
+   ],
+   [
+    "Marzo 2026",
+    "41,77 €/MWh",
+    "0,042 €/kWh",
+    "13,28 €"
+   ],
+   [
+    "Abril 2026",
+    "42,44 €/MWh",
+    "0,042 €/kWh",
+    "13,50 €"
+   ],
+   [
+    "Mayo 2026",
+    "54,23 €/MWh",
+    "0,054 €/kWh",
+    "17,24 €"
+   ],
+   [
+    "Junio 2026",
+    "69,59 €/MWh",
+    "0,070 €/kWh",
+    "22,13 €"
+   ],
+   [
+    "Julio 2026",
+    "104,75 €/MWh",
+    "0,105 €/kWh",
+    "33,31 €"
+   ],
+   [
+    "Agosto 2026",
+    "118,24 €/MWh",
+    "0,118 €/kWh",
+    "37,60 €"
+   ],
+   [
+    "Septiembre 2026",
+    "143,25 €/MWh",
+    "0,143 €/kWh",
+    "45,55 €"
+   ],
+   [
+    "Media de los 12 meses",
+    "72,77 €/MWh",
+    "0,073 €/kWh",
+    "23,14 €"
+   ]
+  ]
+ },
+ "fi_riesgo": {
+  "headers": [
+   "Consumo al mes",
+   "Mes más barato (febrero 2026)",
+   "Mes más caro (septiembre 2026)",
+   "Diferencia en un mes"
+  ],
+  "rows": [
+   [
+    "150 kWh",
+    "3,13 €",
+    "27,33 €",
+    "24,20 €"
+   ],
+   [
+    "250 kWh",
+    "5,22 €",
+    "45,55 €",
+    "40,34 €"
+   ],
+   [
+    "400 kWh",
+    "8,35 €",
+    "72,89 €",
+    "64,54 €"
+   ]
+  ]
+ },
+ "fi_sensibilidad": {
+  "headers": [
+   "Consumo al mes",
+   "Si el mercado sube 50 €/MWh: al mes",
+   "Si dura un año entero"
+  ],
+  "rows": [
+   [
+    "150 kWh",
+    "9,54 €",
+    "114,48 €"
+   ],
+   [
+    "250 kWh",
+    "15,90 €",
+    "190,80 €"
+   ],
+   [
+    "400 kWh",
+    "25,44 €",
+    "305,28 €"
+   ]
+  ]
+ },
+ "fi_comparar": {
+  "headers": [
+   "",
+   "Precio fijo (mercado libre)",
+   "Precio indexado (mercado libre)",
+   "PVPC (tarifa regulada)"
+  ],
+  "rows": [
+   [
+    "Precio del kWh",
+    "El mismo durante el contrato",
+    "Sigue el mercado, hora a hora o cuarto a cuarto, más un margen",
+    "Fórmula oficial: 45 % mercado diario e intradiario y 55 % futuros"
+   ],
+   [
+    "Quién pone el margen",
+    "La comercializadora, dentro del precio",
+    "La comercializadora, que debe explicar la fórmula",
+    "Lo fija la normativa"
+   ],
+   [
+    "¿Pueden subirte el precio?",
+    "No: no caben cláusulas de revisión",
+    "Sube y baja con el mercado",
+    "Sube y baja con el mercado"
+   ],
+   [
+    "Penalización si te vas",
+    "Posible antes de la primera prórroga anual (máx. 5 % de la energía pendiente)",
+    "Ninguna (2.0TD)",
+    "Ninguna"
+   ],
+   [
+    "Para quién",
+    "Quien quiere saber lo que pagará",
+    "Quien puede mover consumo a horas baratas y aguanta los meses caros",
+    "Quien quiere el precio regulado o el bono social"
+   ]
+  ]
+ },
+ "bst_cuantia": {
+  "headers": [
+   "Tu situación",
+   "Ayuda mínima",
+   "Si en tu zona el vulnerable cobra el mínimo",
+   "Cómo varía"
+  ],
+  "rows": [
+   [
+    "Consumidor vulnerable",
+    "50,00 €",
+    "50,00 €",
+    "Más cuanto más frío es tu clima (zonas α a E)"
+   ],
+   [
+    "Vulnerable severo o en riesgo de exclusión social",
+    "50,00 €",
+    "80,00 €",
+    "Un 60 % más que el vulnerable de tu misma zona"
+   ]
+  ]
+ },
+ "bst_comparar": {
+  "headers": [
+   "",
+   "Bono social eléctrico",
+   "Bono social térmico"
+  ],
+  "rows": [
+   [
+    "Qué es",
+    "Descuento en la factura de la luz",
+    "Ayuda en dinero, un pago único al año"
+   ],
+   [
+    "Para qué",
+    "La electricidad",
+    "Calefacción, agua caliente o cocina, con cualquier energía"
+   ],
+   [
+    "Cómo se pide",
+    "Solicitud a una comercializadora de referencia",
+    "Sin solicitud aparte en la norma estatal: lo reciben quienes tienen el bono eléctrico a 31 de diciembre"
+   ],
+   [
+    "Quién paga",
+    "Las comercializadoras de electricidad",
+    "Los Presupuestos Generales del Estado; lo abona tu comunidad autónoma"
+   ],
+   [
+    "Cuánto",
+    "42,5 % o 57,5 % de descuento en 2026",
+    "Según tu zona climática y tu grado de vulnerabilidad; mínimo 50 €"
+   ]
+  ]
+ },
+ "bst_descuentos": {
+  "headers": [
+   "Situación",
+   "Potencia y energía al mes, con impuestos",
+   "Descuento al mes"
+  ],
+  "rows": [
+   [
+    "Sin bono social",
+    "33,87 €",
+    "0,00 €"
+   ],
+   [
+    "Vulnerable, descuento habitual (35 %)",
+    "22,02 €",
+    "11,85 €"
+   ],
+   [
+    "Vulnerable en 2026 (42,5 %)",
+    "19,48 €",
+    "14,40 €"
+   ],
+   [
+    "Vulnerable severo, descuento habitual (50 %)",
+    "16,94 €",
+    "16,94 €"
+   ],
+   [
+    "Vulnerable severo en 2026 (57,5 %)",
+    "14,40 €",
+    "19,48 €"
+   ]
+  ]
+ },
+ "dd_donde": {
+  "headers": [
+   "Dónde",
+   "Qué ves",
+   "Qué necesitas"
+  ],
+  "rows": [
+   [
+    "Datadis (datadis.es)",
+    "Consumo hora a hora de todos tus suministros, aunque sean de distribuidoras distintas, y descarga del fichero",
+    "Registrarte; es gratis"
+   ],
+   [
+    "Web o app de tu distribuidora",
+    "Consumo horario y lecturas de tu contador",
+    "Registrarte en su web"
+   ],
+   [
+    "Área de clientes de tu comercializadora",
+    "El consumo de tus facturas",
+    "Ser su cliente"
+   ],
+   [
+    "La factura",
+    "Consumo del periodo, separado en punta, llano y valle",
+    "Nada"
+   ],
+   [
+    "La pantalla del contador",
+    "Lecturas acumuladas",
+    "Acceso al contador"
+   ]
+  ]
+ },
+ "dd_mover": {
+  "headers": [
+   "Consumo que pasas de punta a valle",
+   "Ahorro al mes",
+   "Ahorro al año"
+  ],
+  "rows": [
+   [
+    "1 kWh al día",
+    "4,25 €",
+    "51,04 €"
+   ],
+   [
+    "2 kWh al día",
+    "8,51 €",
+    "102,09 €"
+   ],
+   [
+    "3 kWh al día",
+    "12,76 €",
+    "153,13 €"
+   ]
+  ]
+ },
+ "dd_base": {
+  "headers": [
+   "Consumo de fondo (de madrugada)",
+   "kWh al mes",
+   "Coste al mes",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "50 W",
+    "36,5 kWh",
+    "6,02 €",
+    "72,23 €"
+   ],
+   [
+    "100 W",
+    "73,0 kWh",
+    "12,04 €",
+    "144,46 €"
+   ],
+   [
+    "150 W",
+    "109,4 kWh",
+    "18,06 €",
+    "216,69 €"
+   ]
+  ]
+ },
+ "sr_potencias": {
+  "headers": [
+   "Potencia por m²",
+   "Potencia en 20 m²",
+   "Por hora",
+   "Por día (5 h)",
+   "Por mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "60 W/m²",
+    "1.200 W",
+    "0,12 €",
+    "0,59 €",
+    "18,06 €",
+    "72,23 €"
+   ],
+   [
+    "100 W/m²",
+    "2.000 W",
+    "0,20 €",
+    "0,99 €",
+    "30,10 €",
+    "120,38 €"
+   ],
+   [
+    "150 W/m²",
+    "3.000 W",
+    "0,30 €",
+    "1,49 €",
+    "45,14 €",
+    "180,58 €"
+   ]
+  ]
+ },
+ "sr_casa": {
+  "headers": [
+   "Estancia",
+   "Potencia instalada",
+   "Horas al día",
+   "kWh al día (real)",
+   "Por día",
+   "Por mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "Salón",
+    "20 m² × 100 W/m² = 2.000 W",
+    "5 h",
+    "6,00 kWh",
+    "0,99 €",
+    "30,10 €",
+    "120,38 €"
+   ],
+   [
+    "Dormitorio principal",
+    "12 m² × 100 W/m² = 1.200 W",
+    "3 h",
+    "2,16 kWh",
+    "0,36 €",
+    "10,83 €",
+    "43,34 €"
+   ],
+   [
+    "Segundo dormitorio",
+    "10 m² × 100 W/m² = 1.000 W",
+    "2 h",
+    "1,20 kWh",
+    "0,20 €",
+    "6,02 €",
+    "24,08 €"
+   ],
+   [
+    "Baño",
+    "5 m² × 150 W/m² = 750 W",
+    "2 h",
+    "0,90 kWh",
+    "0,15 €",
+    "4,51 €",
+    "18,06 €"
+   ],
+   [
+    "Total",
+    "4.950 W",
+    "",
+    "10,26 kWh",
+    "1,69 €",
+    "51,46 €",
+    "205,86 €"
+   ]
+  ]
+ },
+ "sr_tramos": {
+  "headers": [
+   "Si el salón (2.000 W, 5 h) calienta…",
+   "Precio con impuestos",
+   "Coste al mes"
+  ],
+  "rows": [
+   [
+    "Precio único de referencia",
+    "0,165 €/kWh",
+    "30,10 €"
+   ],
+   [
+    "Todo en punta",
+    "0,242 €/kWh",
+    "44,08 €"
+   ],
+   [
+    "Todo en llano",
+    "0,153 €/kWh",
+    "27,84 €"
+   ],
+   [
+    "Todo en valle",
+    "0,102 €/kWh",
+    "18,56 €"
+   ]
+  ]
+ },
+ "sr_comparar": {
+  "headers": [
+   "Mismo calor para el salón",
+   "Electricidad al día",
+   "Coste al mes",
+   "Invierno (4 meses)"
+  ],
+  "rows": [
+   [
+    "Suelo radiante eléctrico",
+    "6,00 kWh",
+    "30,10 €",
+    "120,38 €"
+   ],
+   [
+    "Emisor térmico o radiador eléctrico",
+    "6,00 kWh",
+    "30,10 €",
+    "120,38 €"
+   ],
+   [
+    "Bomba de calor (SCOP 3,5, ejemplo)",
+    "1,71 kWh",
+    "8,60 €",
+    "34,40 €"
+   ]
+  ]
+ },
+ "met_ejemplo": {
+  "headers": [
+   "Paso",
+   "Cálculo",
+   "Resultado"
+  ],
+  "rows": [
+   [
+    "1. Potencia de la etiqueta",
+    "2.000 W = 2 kW",
+    "2 kW"
+   ],
+   [
+    "2. Factor de uso real (termostato)",
+    "2 kW × 0,6",
+    "1,2 kWh por hora"
+   ],
+   [
+    "3. Horas al día",
+    "1,2 kWh × 5 h",
+    "6,0 kWh al día"
+   ],
+   [
+    "4. Precio con impuestos",
+    "6,0 kWh × 0,165 €/kWh",
+    "0,99 € al día"
+   ],
+   [
+    "5. Mes de 30,4 días",
+    "0,99 € × 30,4",
+    "30,10 € al mes"
+   ]
+  ]
+ },
+ "met_precios": {
+  "headers": [
+   "Concepto",
+   "Valor que usamos",
+   "Con impuestos"
+  ],
+  "rows": [
+   [
+    "Energía, precio único",
+    "0,13 €/kWh",
+    "0,165 €/kWh"
+   ],
+   [
+    "Energía en punta (10–14 h y 18–22 h, laborables)",
+    "0,19 €/kWh",
+    "0,242 €/kWh"
+   ],
+   [
+    "Energía en llano (8–10 h, 14–18 h y 22–24 h, laborables)",
+    "0,12 €/kWh",
+    "0,153 €/kWh"
+   ],
+   [
+    "Energía en valle (0–8 h y fines de semana)",
+    "0,08 €/kWh",
+    "0,102 €/kWh"
+   ],
+   [
+    "Término de potencia (calculadoras)",
+    "0,09 €/kW y día",
+    "0,114 €/kW y día"
+   ],
+   [
+    "Alquiler del contador (calculadora de consumo)",
+    "0,81 € al mes",
+    "0,98 € al mes (solo IVA)"
+   ],
+   [
+    "Impuesto eléctrico e IVA",
+    "5,11 % y 21 %",
+    "Factor 1,0511 × 1,21 = 1,2718"
+   ]
+  ]
+ },
+ "met_factores": {
+  "headers": [
+   "Aparato",
+   "Factor de uso real",
+   "Por qué"
+  ],
+  "rows": [
+   [
+    "Nevera y congelador",
+    "0,2 (sobre 150 W)",
+    "El compresor arranca y para durante el día"
+   ],
+   [
+    "Aire acondicionado",
+    "0,6",
+    "El compresor baja de potencia al llegar a la temperatura"
+   ],
+   [
+    "Radiador de aceite y emisor térmico",
+    "0,6",
+    "El termostato corta y vuelve a conectar"
+   ],
+   [
+    "Estufa eléctrica",
+    "0,85",
+    "Termostato más simple: está encendida más tiempo"
+   ],
+   [
+    "Termo eléctrico",
+    "0,7",
+    "La resistencia solo funciona mientras recupera temperatura"
+   ],
+   [
+    "Horno",
+    "0,6",
+    "Precalienta a tope y después mantiene"
+   ],
+   [
+    "Inducción y vitrocerámica",
+    "0,7 y 0,75",
+    "Rara vez se usa a la potencia máxima"
+   ],
+   [
+    "Secadora y lavavajillas",
+    "0,8 y 0,55",
+    "La resistencia no calienta todo el ciclo"
+   ],
+   [
+    "Freidora de aire, deshumidificador y manta",
+    "0,7 · 0,8 · 0,5",
+    "Funcionan a ciclos"
+   ],
+   [
+    "Resto de aparatos",
+    "1",
+    "Se toma la potencia de la etiqueta"
+   ]
+  ]
+ }
+}

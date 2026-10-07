@@ -81,7 +81,7 @@ No tengo acceso a volúmenes de búsqueda (Planificador de Google Ads o Search C
 | 2 | 7 | Cambio de titular de la luz: cómo hacerlo y qué cuesta | Trámites | Hueco claro |
 | 2 | 8 | Compensación de excedentes y batería virtual | Placas | Muy buscado; apoya la calculadora de placas |
 | 3 | 9 | Punto de recarga en casa y en garaje comunitario: normativa (ITC-BT-52, Ley de Propiedad Horizontal) | Coche / normativa | Apoya la calculadora de coche y la captación de instaladores |
-| 3 | 10 | Deducciones del IRPF por eficiencia energética (prorrogadas hasta 2026 y 2027) | Ahorro / normativa | Dato oficial reciente (Real Decreto-ley 16/2025) |
+| 3 | 10 | Deducciones del IRPF por eficiencia energética (prorrogadas hasta 2026 y 2027) | Ahorro / normativa | Dato oficial reciente (Real Decreto-ley 7/2026, art. 36; el RDL 16/2025 fue derogado al no convalidarse) |
 | 3 | 11 | Cuánto producen las placas solares en cada comunidad (PVGIS) | Placas | Datos propios ya calculados (apartado 2) |
 | 3 | 12 | Termo aerotérmico (bomba de calor para agua caliente): cuánto consume | Consumo | Continúa la serie de aerotermia |
 | 4 | 13 | Reclamar a tu compañía de luz: pasos, plazos y arbitraje de consumo | Trámites | Hueco; para la confianza |
@@ -426,6 +426,6 @@ Orden por población (INE, cifras oficiales del padrón a 1-1-2021, tabla 2853; 
 - [Amazon Afiliados, comisiones](https://afiliados.amazon.es/help/node/topic/GRXPHT8U84RAYDXZ)
 - [Awin: perfil de niba](https://ui.awin.com/merchant-profile/118409) · [Awin: depósito de alta](https://www.awin.com/gb/compliance-and-regulations/application-process-and-joining-fee) · [Awin: condiciones de agosto de 2025](https://www.awin.com/docs.awin.com/Legal/Publisher+Terms/2025/ES_Awin-AG-Publisher-terms_August-2025.pdf)
 - [AEAT, aplazamiento de VeriFactu (RDL 15/2025)](https://sede.agenciatributaria.gob.es/Sede/en_gb/todas-noticias/2025/diciembre/3/ampliacion-plazo-adaptacion-sistemas-informaticos-facturacion.html)
-- [MIVAU, prórroga de las deducciones por eficiencia energética](https://www.mivau.gob.es/el-ministerio/sala-de-prensa/noticias/lun-23122024-1223) · [RDL 16/2025 (resumen del COAAT Madrid)](https://oficinarehabilitacionaparejadores.es/-/publicado-el-real-decreto-ley-16/2025-de-23-de-diciembre-por-el-que-se-prorrogan-las-deducciones-fiscales-en-el-irpf-por-obras-de-mejora-energ%C3%A9tica-en-viviendas)
+- [MIVAU, prórroga de las deducciones por eficiencia energética](https://www.mivau.gob.es/el-ministerio/sala-de-prensa/noticias/lun-23122024-1223) · [RDL 7/2026, art. 36 (BOE consolidado)](https://www.boe.es/buscar/act.php?id=BOE-A-2026-6544) · corrección del 7/10/2026: el RDL 16/2025 fue derogado (Resolución del Congreso de 27/1/2026, BOE-A-2026-2024) · [RDL 16/2025 (resumen del COAAT Madrid, ya no vigente)](https://oficinarehabilitacionaparejadores.es/-/publicado-el-real-decreto-ley-16/2025-de-23-de-diciembre-por-el-que-se-prorrogan-las-deducciones-fiscales-en-el-irpf-por-obras-de-mejora-energ%C3%A9tica-en-viviendas)
 - [SotySolar, partners](https://sotysolar.es/partners) · [Selectra](https://selectra.es/energia) · [Tarifaluzhora](https://tarifaluzhora.es/)
 - Secundarias (marcadas **[VERIFICAR]**): Infoautónomos (cuotas), Autosolar (mercado de 15 minutos), comparadorluz.com (IGIC) y otras citadas en el texto.

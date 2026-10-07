@@ -135,5 +135,26 @@
  "luz-en-aragon": {
   "id": 286,
   "rankmath_status": 200
+ },
+ "metodologia": {
+  "id": 313,
+  "tipo": "pagina",
+  "rankmath_status": 200
+ },
+ "tarifa-fija-o-indexada": {
+  "id": 314,
+  "rankmath_status": 200
+ },
+ "bono-social-termico": {
+  "id": 315,
+  "rankmath_status": 200
+ },
+ "ver-consumo-por-horas-datadis": {
+  "id": 316,
+  "rankmath_status": 200
+ },
+ "cuanto-consume-suelo-radiante-electrico": {
+  "id": 317,
+  "rankmath_status": 200
  }
 }

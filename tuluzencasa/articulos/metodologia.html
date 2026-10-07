@@ -1,0 +1,249 @@
+<!-- wp:paragraph -->
+<p>Esta es la metodología con la que calculamos todas las cifras de tuluzencasa.com: partimos de un precio de referencia de 0,165 €/kWh con impuestos y de un factor de uso real para cada aparato. Así, un radiador de 2.000 W encendido 5 horas al día sale por unos 30,10 € al mes, y no por los 50 € que darían la potencia de la etiqueta y las horas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Aquí explicamos qué precios usamos, cómo pasamos de vatios a euros, de dónde sacamos cada dato y cuándo los revisamos. Lo resumimos también en <a href="https://tuluzencasa.com/sobre-nosotros/">sobre nosotros</a>; esta página entra en el detalle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En esta página:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="#precios">Metodología: los precios que usamos</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#vatios-a-euros">Cómo pasamos de vatios a euros</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#factores">Factores de uso real</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#redondeo">Meses, temporadas y redondeo</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#fuentes">De dónde salen los datos</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#actualizacion">Cuándo actualizamos las cifras</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#limites">Límites de nuestros cálculos</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#errores">Si encuentras un error</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"anchor":"precios"} -->
+<h2 id="precios" class="wp-block-heading">Metodología: los precios que usamos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Todas las cifras de los artículos y de nuestras calculadoras parten de los mismos precios orientativos:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><thead><tr><th>Concepto</th><th>Valor que usamos</th><th>Con impuestos</th></tr></thead><tbody><tr><td>Energía, precio único</td><td>0,13 €/kWh</td><td>0,165 €/kWh</td></tr><tr><td>Energía en punta (10–14 h y 18–22 h, laborables)</td><td>0,19 €/kWh</td><td>0,242 €/kWh</td></tr><tr><td>Energía en llano (8–10 h, 14–18 h y 22–24 h, laborables)</td><td>0,12 €/kWh</td><td>0,153 €/kWh</td></tr><tr><td>Energía en valle (0–8 h y fines de semana)</td><td>0,08 €/kWh</td><td>0,102 €/kWh</td></tr><tr><td>Término de potencia (calculadoras)</td><td>0,09 €/kW y día</td><td>0,114 €/kW y día</td></tr><tr><td>Alquiler del contador (calculadora de consumo)</td><td>0,81 € al mes</td><td>0,98 € al mes (solo IVA)</td></tr><tr><td>Impuesto eléctrico e IVA</td><td>5,11 % y 21 %</td><td>Factor 1,0511 × 1,21 = 1,2718</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Energía</strong>: 0,13 €/kWh sin impuestos. Con el impuesto eléctrico (5,11 %) y el IVA (21 %), el factor es 1,0511 × 1,21 = 1,2718, que redondeamos a 1,272. El resultado son 0,165 €/kWh.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tarifa por horas</strong>: para la 2.0TD, la de casi todas las viviendas, usamos tres precios orientativos de punta, llano y valle. Los tramos son los oficiales: punta de 10 a 14 h y de 18 a 22 h; llano de 8 a 10 h, de 14 a 18 h y de 22 a 24 h; valle de 0 a 8 h y todo el fin de semana. Los explicamos en <a href="https://tuluzencasa.com/tramos-horarios-luz/">tramos horarios de la luz</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Potencia y contador</strong>: los artículos calculan el coste de la energía de cada aparato. Nuestras calculadoras suman además el término de potencia y el alquiler del contador, con los valores orientativos de la tabla.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Son precios de referencia, no los de una compañía concreta. Tu factura puede tener otro precio del kWh: si es distinto, los costes de cualquier tabla suben o bajan en la misma proporción. En las calculadoras puedes poner los precios de tu factura.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"anchor":"vatios-a-euros"} -->
+<h2 id="vatios-a-euros" class="wp-block-heading">Cómo pasamos de vatios a euros</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>El cálculo es siempre el mismo, en cinco pasos. Con un radiador de aceite de 2.000 W encendido 5 horas al día:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><thead><tr><th>Paso</th><th>Cálculo</th><th>Resultado</th></tr></thead><tbody><tr><td>1. Potencia de la etiqueta</td><td>2.000 W = 2 kW</td><td>2 kW</td></tr><tr><td>2. Factor de uso real (termostato)</td><td>2 kW × 0,6</td><td>1,2 kWh por hora</td></tr><tr><td>3. Horas al día</td><td>1,2 kWh × 5 h</td><td>6,0 kWh al día</td></tr><tr><td>4. Precio con impuestos</td><td>6,0 kWh × 0,165 €/kWh</td><td>0,99 € al día</td></tr><tr><td>5. Mes de 30,4 días</td><td>0,99 € × 30,4</td><td>30,10 € al mes</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>El paso que más cambia el resultado es el segundo. Sin él, el mismo radiador saldría por 2 kW × 5 h × 0,165 €/kWh × 30,4 días, unos 50 € al mes, porque daríamos por hecho que la resistencia está encendida sin parar. Con un termostato no es así: corta cuando la habitación llega a la temperatura y vuelve a conectar cuando baja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"anchor":"factores"} -->
+<h2 id="factores" class="wp-block-heading">Factores de uso real</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>El factor de uso es la parte del tiempo, o de la potencia, que el aparato funciona de verdad mientras está encendido. Son valores medios y redondos, pensados para un uso normal:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><thead><tr><th>Aparato</th><th>Factor de uso real</th><th>Por qué</th></tr></thead><tbody><tr><td>Nevera y congelador</td><td>0,2 (sobre 150 W)</td><td>El compresor arranca y para durante el día</td></tr><tr><td>Aire acondicionado</td><td>0,6</td><td>El compresor baja de potencia al llegar a la temperatura</td></tr><tr><td>Radiador de aceite y emisor térmico</td><td>0,6</td><td>El termostato corta y vuelve a conectar</td></tr><tr><td>Estufa eléctrica</td><td>0,85</td><td>Termostato más simple: está encendida más tiempo</td></tr><tr><td>Termo eléctrico</td><td>0,7</td><td>La resistencia solo funciona mientras recupera temperatura</td></tr><tr><td>Horno</td><td>0,6</td><td>Precalienta a tope y después mantiene</td></tr><tr><td>Inducción y vitrocerámica</td><td>0,7 y 0,75</td><td>Rara vez se usa a la potencia máxima</td></tr><tr><td>Secadora y lavavajillas</td><td>0,8 y 0,55</td><td>La resistencia no calienta todo el ciclo</td></tr><tr><td>Freidora de aire, deshumidificador y manta</td><td>0,7 · 0,8 · 0,5</td><td>Funcionan a ciclos</td></tr><tr><td>Resto de aparatos</td><td>1</td><td>Se toma la potencia de la etiqueta</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>Además, usamos dos aparatos de referencia en toda la web:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Aire acondicionado</strong>: un equipo de 3.000 frigorías equivale a unos 1.000 W de potencia eléctrica, con una eficiencia (EER) de 3,5.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Horno eléctrico</strong>: 2.200 W con factor 0,6 y 45 minutos por uso, precalentado incluido.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Si tu aparato tiene etiqueta energética con el consumo en kWh al año, ese dato es mejor que cualquier factor: lo usamos siempre que el artículo lo permite, por ejemplo en las neveras.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"anchor":"redondeo"} -->
+<h2 id="redondeo" class="wp-block-heading">Meses, temporadas y redondeo</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Mes de 30,4 días</strong> y año de 12 meses, es decir, 364,8 días. Es la media de días de un mes, y la misma que usa nuestra calculadora de consumo.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Temporadas</strong>: el verano cuenta como 3 meses y el invierno como 4. Lo que se cuenta por usos, como 12 lavadoras al mes, no depende de los días.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Redondeo</strong>: calculamos todo con un script, sin redondear por el camino, y redondeamos al final a 2 decimales en euros. Por eso, a veces, sumar las filas de una tabla da un céntimo de diferencia con el total.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sin cifras de memoria</strong>: cada importe de un artículo sale del script que lo calcula. Antes de subir un artículo comprobamos que todos sus importes están en esos cálculos.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"anchor":"fuentes"} -->
+<h2 id="fuentes" class="wp-block-heading">De dónde salen los datos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cada artículo enlaza al final las fuentes que usa, con la fecha en que las consultamos. Por tipo de dato:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Normativa</strong>: el <a href="https://www.boe.es/" target="_blank" rel="noopener">Boletín Oficial del Estado</a>, siempre en su texto consolidado, que incluye los cambios posteriores. De ahí salen los peajes, el bono social, los contratos, los derechos del consumidor y el Reglamento Electrotécnico de Baja Tensión.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mercado eléctrico</strong>: <a href="https://www.omie.es/" target="_blank" rel="noopener">OMIE</a>, el operador del mercado, para los precios del mercado diario; <a href="https://www.ree.es/" target="_blank" rel="noopener">Red Eléctrica</a> para el sistema y el precio regulado.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Regulación y supervisión</strong>: la <a href="https://www.cnmc.es/" target="_blank" rel="noopener">CNMC</a>, para los peajes, los informes del mercado minorista y su comparador de ofertas.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Eficiencia y ahorro</strong>: el <a href="https://www.idae.es/" target="_blank" rel="noopener">IDAE</a> y el Ministerio para la Transición Ecológica.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Clima de cada zona</strong>: el <a href="https://www.codigotecnico.org/" target="_blank" rel="noopener">Código Técnico de la Edificación</a>, para las zonas climáticas y la temperatura del agua de red.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Producción solar</strong>: <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS</a>, la herramienta del Centro Común de Investigación de la Comisión Europea.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Etiquetas energéticas</strong>: los reglamentos de la Unión Europea, en <a href="https://eur-lex.europa.eu/" target="_blank" rel="noopener">EUR-Lex</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Población y hogares</strong>: el <a href="https://www.ine.es/" target="_blank" rel="noopener">INE</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Datos de un aparato concreto</strong>: las fichas técnicas de los fabricantes, cuando la normativa no da el dato. Las citamos como ejemplo, no como recomendación de compra.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Si un dato no lo podemos comprobar en una fuente oficial o en una ficha técnica, no lo publicamos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"anchor":"actualizacion"} -->
+<h2 id="actualizacion" class="wp-block-heading">Cuándo actualizamos las cifras</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>La fecha de los precios</strong> va bajo la primera tabla de cada artículo, con la frase «Cálculos con precios de» y el mes. Cuando cambiamos los precios de referencia, recalculamos los artículos y cambiamos esa fecha en todos a la vez.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Los cambios de impuestos</strong> temporales, como las rebajas del IVA o del impuesto eléctrico que el Gobierno aprueba en épocas de precios altos, los indicamos en los artículos a los que afectan, con el periodo y la norma.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>La normativa</strong>: si cambia una ley que citamos, corregimos el artículo y actualizamos el enlace.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Cada artículo muestra también la fecha de su última actualización.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"anchor":"limites"} -->
+<h2 id="limites" class="wp-block-heading">Límites de nuestros cálculos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Son <strong>resultados orientativos</strong>: lo que pagues depende de tu tarifa, de tu potencia, de tus aparatos y de cómo los uses.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>No somos instaladores ni ingenieros, y el contenido no lo revisa un profesional. En los artículos sobre la instalación eléctrica explicamos qué puedes comprobar sin riesgo y qué tiene que hacer un instalador autorizado.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Nuestros ejemplos de casas, superficies y horas son casos tipo para comparar, no un dimensionado. Para elegir un equipo o una potencia en una obra, pide un estudio a un profesional.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Para tu caso, usa <a href="https://tuluzencasa.com/calculadora-potencia-contratada/">nuestra calculadora de potencia</a> o la de consumo con los precios de tu factura.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"anchor":"errores"} -->
+<h2 id="errores" class="wp-block-heading">Si encuentras un error</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Si ves una cifra que no cuadra, una norma que ha cambiado o un enlace roto, escríbenos desde la página de <a href="https://tuluzencasa.com/contacto/">contacto</a>. Indica el artículo y, si puedes, la fuente que lo contradice. Lo revisamos y, si tienes razón, lo corregimos y actualizamos la fecha del artículo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tus aparatos, tus horas y el precio de tu factura, y mira cuánto pesa cada uno.</p>
+<!-- /wp:paragraph -->

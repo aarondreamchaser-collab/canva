@@ -1,0 +1,923 @@
+Guía del usuario
+Construcción del suelo
+y cables calefactores o esteras 
+adecuadas
+(Calefacción de suelo en interiores)
+
+2 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+Índice de contenidos
+1 Introducción e información básica  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2 Calefacción eléctrica esteras . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.1 Subsuelo de hormigón + estera calefactora empotrada en baldosas cola + baldosas. . . . . .6
+2.2 Baldosas antiguas + estera calefactora empotrada en baldosas cola + baldosas  . . . . . . . . . . 7
+2.3 Subsuelo de hormigón + estera calefactora empotrada en mármol cola + mármol  . . . . . . . 8
+2.4 Capa aislante + estera calefactora empotrada en baldosas cola + baldosas . . . . . . . . . . . . . . . 9
+2.5 Subsuelo de hormigón + estera calefactora empotrada en solado + suelo de madera. . . . . 10
+2.6 Subsuelo de madera + estera calefactora empotrada en solado + baldosas . . . . . . . . . . . . . 1 1 
+2.7 Subsuelo de hormigón + estera calefactora empotrada en solado + moqueta . . . . . . . . . . . 12
+3 Calefacción eléctrica cables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+3.1 Subsuelo de hormigón + cable calefactor empotrado en hormigón + baldosas. . . . . . . . . 14
+3.2 Azulejos antiguos+ cable calefactor empotrado en azulejos cola + azulejos . . . . . . . . . . . . . 15
+3.3 Subsuelo de hormigón + cable calefactor empotrado en hormigón + mármol. . . . . . . . . . 16
+3.4 Subsuelo de hormigón armado + cable calefactor empotrado en hormigón +  
+baldosas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+3.5 Subsuelo de hormigón + Membrana de desacoplamiento +  
+cable calefactor + baldosas cola + baldosas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+3.6 Subsuelo de hormigón + cable calefactor empotrado en hormigón +  
+suelo de madera . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+3.7 CUARTOS HÚMEDOS (por ejemplo, cuarto de baño) Subsuelo de hormigón +  
+DEVIcell + cable calefactor cubierto  cola para baldosas + baldosas. . . . . . . . . . . . . . . . . . . . . . . . 20
+3.8 CUARTOS SECOS (por ejemplo, cocinas) Subsuelo de hormigón +  
+DEVIcell + cable calefactor empotrado  cola para baldosas + baldosas. . . . . . . . . . . . . . . . . . . . . 21
+3.9 Subsuelo de hormigón + cable calefactor viguetas de madera + suelo de madera . . . . . . 22
+3.10 Subsuelo de hormigón + cable calefactor empotrado en hormigón + moqueta . . . . . . . 23
+3.1 1 Subsuelo de hormigón + DEVIcell + cable calefactor + parquet . . . . . . . . . . . . . . . . . . . . . . . 24
+3.12 Subsuelo de hormigón + viguetas de madera + DEVIcell + cable calefactor + linóleo. . . . . 25
+4 Instrucciones de seguridad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+5 Qué hacer y qué no hacer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+3GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+1 Introducción e información básica
+Este documento proporciona una visión general 
+de los distintos tipos de construcciones de suelo 
+y su compatibilidad con las soluciones de calefac-
+ción eléctrica. Con la creciente demanda de siste-
+mas de calefacción cómodos y energéticamente 
+e/f_icientes, comprender los matices de la construc-
+ción del suelo es esencial para seleccionar los ca-
+bles o las mantas calefactoras adecuados. En esta 
+guía se describen las características principales 
+de los tipos de suelo más comunes -incluidas las 
+instalaciones de hormigón, madera y baldosas- y 
+se recomiendan soluciones de calefacción eléctri-
+ca adecuadas para cada uno de ellos.
+Al abordar los requisitos especí/f_icos y las pro -
+piedades térmicas de cada tipo de suelo, este 
+documento pretende ayudar a arquitectos, 
+contratistas y propietarios a tomar decisiones 
+informadas que mejoren el confort, optimicen 
+la e/f_iciencia energética y garanticen un rendi -
+miento duradero. Tanto si se trata de nuevas 
+construcciones como de renovaciones, la se -
+lección del producto de calefacción adecuado 
+para cada tipo de suelo puede tener un impacto 
+signi/f_icativo tanto en la funcionalidad como en 
+la satisfacción del usuario.
+Mediante descripciones detalladas y recomenda-
+ciones prácticas, esta guía constituye un valioso 
+recurso para conseguir soluciones de calefacción 
+por suelo radiante seguras, e/f_icaces y compatibles 
+en diversos entornos de construcción.
+Distancias entre cables (C-C distancia con DEVIfast™ paso) y potencias correspondientes por m2 
+para algunas potencias lineales de cables calefactores (W/m2)
+* Las potencias a 220 V deben recalcularse con el coeficiente de 0,91.
+C-C distancia 
+con DEVIfast™ 
+paso,
+cm
+Potencia específica de los cables calefactores DEVI a 230 V
+6 W/m 10 W/m 18 W/m 20 W/m
+DEVIflex™ 6T
+DEVIflex™ 10T,
+DEVIcomfort™ 10T,
+DEVIbasic™ 10S
+DEVIflex™ 18T DEVIbasic™ 20S
+5 120 200
+Suelo radiante 7,5 80 133
+calefacción por 10 60 100 180 200
+suelo radiante* 12,5 48 80 144 160
+15 40 67 120 133
+17,5 34 57 103 114
+20 30 50 90 100
+22,5 26 45 80 89
+25 24 41 72 80
+NOTA: Para evitar cualquier punto frío entre las líneas de cable para la calefacción por suelo radiante Confort, utilice 
+únicamente la distancia C-C marcada en el recuadro rojo.
+ Todas las salidas específicas marcadas en amarillo se recomiendan para la calefacción por suelo radiante Confort.
+ Toda la tabla puede utilizarse para la calefacción de suelo Total (Directa).
+* El sistema de calefacción por suelo radiante de confort o "suelo caliente" proporciona una superficie de suelo caliente. 
+* La calefacción de suelo Total (Directa ) es el único sistema de calefacción instalado en una habitación (o zona) para mantener 
+una temperatura ambiente especificada por el usuario en función de la pérdida de calor de la habitación.
+4 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+Distancias entre cables (C-C distancia con DEVIclip™ c-c paso) y potencias correspondientes por m2 
+para algunas potencias lineales de cables calefactores (W/m2)
+* Las potencias a 220 V deben recalcularse con el coeficiente de 0,91.
+C-C distancia 
+con  
+DEVIclip™ c-c 
+paso,
+cm
+Potencia específica de los cables calefactores DEVI a 230 V
+6 W/m 10 W/m 18 W/m 20 W/m
+DEVIflex™ 6T
+DEVIflex™ 10T,
+DEVIcomfort™ 10T,
+DEVIbasic™ 10S
+DEVIflex™ 18T DEVIbasic™ 20S
+5 120 200
+Suelo radiante 7 86 143
+calefacción por 10 60 100 180 200
+suelo radiante* 12 50 83 150 167
+15 40 67 120 133
+17 35 59 106 118
+20 30 50 90 100
+23 26 43 78 87
+25 24 40 72 80
+NOTA: Para evitar cualquier punto frío entre las líneas de cable para la calefacción por suelo radiante Confort, utilice 
+únicamente la distancia C-C marcada en el recuadro rojo.
+ Todas las salidas específicas marcadas en amarillo se recomiendan para la calefacción por suelo radiante Confort.
+ Toda la tabla puede utilizarse para la calefacción de suelo Total (Directa).
+* El sistema de calefacción por suelo radiante de confort o "suelo caliente" proporciona una superficie de suelo caliente. 
+* La calefacción de suelo Total (Directa ) es el único sistema de calefacción instalado en una habitación (o zona) para mantener 
+una temperatura ambiente especificada por el usuario en función de la pérdida de calor de la habitación.
+2 Calefacción eléctrica esteras
+
+6 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+2.1 Subsuelo de hormigón + estera 
+calefactora empotrada en 
+baldosas cola + baldosas
+Potencias adecuadas:
+Potencia especí/f_ica: máx. 200 W/m2
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Azulejos
+Cola para baldosas < 1 cm
+Subsuelo de hormigón
+Capa aislante
+Estera calefactora
+Esteras calefactoras adecuadas:
+• DEVIheat™ 150S 
+• DEVIcomfort™ 100T 
+• DEVIcomfort™ 150T 
+• DEVImat™ 70T 
+• DEVImat™ 100T 
+• DEVImat™ 150T 
+• DEVImat™ 200T 
+instalación
+MOJADO
+Calefacción eléctrica esteras
+7GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+2.2 Baldosas antiguas + estera 
+calefactora empotrada en 
+baldosas cola + baldosas
+Potencias adecuadas:
+Potencia especí/f_ica: máx. 200 W/m2
+Azulejos
+Cola para baldosas < 1 cm
+Baldosas antiguas
+Subsuelo de hormigón
+Capa aislante
+Estera calefactora
+Esteras calefactoras adecuadas:
+• DEVIheat™ 150S 
+• DEVIcomfort™ 100T 
+• DEVIcomfort™ 150T 
+• DEVImat™ 70T 
+• DEVImat™ 100T 
+• DEVImat™ 150T 
+• DEVImat™ 200T 
+instalación
+MOJADO
+Calefacción eléctrica esteras
+8 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+2.3 Subsuelo de hormigón + estera 
+calefactora empotrada en mármol 
+cola + mármol
+Potencias adecuadas:
+Potencia especí/f_ica: máx. 200 W/m2
+Mármol
+Mármol cola < 1 cm
+Subsuelo de hormigón
+Capa aislante
+Estera calefactora
+Esteras calefactoras adecuadas:
+• DEVIheat™ 150S 
+• DEVIcomfort™ 100T 
+• DEVIcomfort™ 150T 
+• DEVImat™ 70T 
+• DEVImat™ 100T 
+• DEVImat™ 150T 
+• DEVImat™ 200T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica esteras
+9GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+2.4 Capa aislante + estera calefactora 
+empotrada en baldosas cola + 
+baldosas
+Potencias adecuadas:
+Potencia especí/f_ica: máx. 150 W/m2
+Azulejos
+Cola para baldosas < 1 cm
+Capa aislante
+(resistencia mínima a la 
+compresión de 150 kPa)
+Estera calefactora
+Esteras calefactoras adecuadas:
+• DEVIheat™ 150S 
+• DEVIcomfort™ 100T 
+• DEVIcomfort™ 150T 
+• DEVImat™ 70T 
+• DEVImat™ 100T 
+• DEVImat™ 150T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica esteras
+10 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+2.5 Subsuelo de hormigón + estera 
+calefactora empotrada en solado + 
+suelo de madera
+Potencias adecuadas:
+Potencia especí/f_ica: máx. 100 W/m2
+Suelo de madera, parqué
+Solera o compuesto 
+autonivelante ≥ 1 cm
+Subsuelo de hormigón
+Capa aislante
+Estera calefactora
+Esteras calefactoras adecuadas:
+• DEVIcomfort™ 100T 
+• DEVImat™ 70T 
+  
+• DEVImat™ 100T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica esteras
+11GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+2.6 Subsuelo de madera + estera 
+calefactora empotrada en solado + 
+baldosas
+Potencias adecuadas:
+Potencia especí/f_ica: máx. 150 W/m2
+Azulejos
+Solera o compuesto 
+autonivelante ≥ 1 cm
+Subsuelo de 
+hormigón >3 cm
+Subsuelo de madera
+Estera calefactora
+Esteras calefactoras adecuadas:
+• DEVIheat™ 150S 
+• DEVIcomfort™ 100T 
+• DEVIcomfort™ 150T 
+• DEVImat™ 70T 
+• DEVImat™ 100T 
+• DEVImat™ 150T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica esteras
+12 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+2.7 Subsuelo de hormigón + estera 
+calefactora empotrada en solado + 
+moqueta
+Potencias adecuadas:
+Potencia especí/f_ica: máx. 100 W/m2
+Moqueta
+Solera o compuesto 
+autonivelante ≥ 1 cm
+Subsuelo de hormigón
+Capa aislante
+Estera calefactora
+Esteras calefactoras adecuadas:
+• DEVIcomfort™ 100T 
+• DEVImat™ 70T 
+  
+• DEVImat™ 100T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica esteras
+3 Calefacción eléctrica cables
+
+14 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.1 Subsuelo de hormigón + cable 
+calefactor empotrado en 
+hormigón + baldosas
+Potencias adecuadas:
+Potencia lineal: 6, 10, 18, 20 W/m
+Potencia especí/f_ica: máx. 200 W/m2
+Elemento de /f_ijación
+Elemento de /f_ijación 
+adecuado:
+• DEVIfast™ 5 m 
+  
+• DEVIfast™ 25 m 
+• DEVIclip™ c-c 
+Azulejos
+Pegamento para baldosas
+Hormigón > 3 cm
+Subsuelo de hormigón
+Capa aislante
+Cable calefactor
+Cables calefactores adecuados:
+• DEVIbasic™ 10S 
+• DEVIbasic™ 20S 
+• DEVIcomfort™ 10T 
+  (el grosor del hormigón 
+por encima del cable puede ser >1 cm)
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+• DEVI/f_lex™ 18T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica cables
+15GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.2 Azulejos antiguos+ cable 
+calefactor empotrado en azulejos 
+cola + azulejos
+Potencias adecuadas:
+Potencia lineal: 10 W/m
+Potencia especí/f_ica: máx. 200 W/m2
+Elemento de /f_ijación
+Elemento de /f_ijación 
+adecuado:
+• DEVIfast™ 5 m 
+  
+• DEVIfast™ 25 m 
+• DEVIclip™ c-c 
+Azulejos
+Cola para baldosas < 1 cm
+Baldosas antiguas
+Subsuelo de hormigón
+Capa aislante
+Cable calefactor
+Cables calefactores adecuados:
+• DEVIcomfort™ 10T 
+  (el grosor del hormigón 
+por encima del cable puede ser >1 cm)
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica cables
+16 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.3 Subsuelo de hormigón + cable 
+calefactor empotrado en 
+hormigón + mármol
+Potencias adecuadas:
+Potencia lineal: 6, 10, 18, 20 W/m
+Potencia especí/f_ica: máx. 200 W/m2
+Elemento de /f_ijación
+Elemento de /f_ijación 
+adecuado:
+• DEVIfast™ 5 m 
+  
+• DEVIfast™ 25 m 
+• DEVIclip™ c-c 
+Mármol
+Mármol cola
+Hormigón > 3 cm
+Subsuelo de hormigón
+Capa aislante
+Cable calefactor
+Cables calefactores adecuados:
+• DEVIbasic™ 10S 
+• DEVIbasic™ 20S 
+• DEVIcomfort™ 10T 
+  (el grosor del hormigón 
+por encima del cable puede ser >1 cm)
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+• DEVI/f_lex™ 18T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica cables
+17GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.4 Subsuelo de hormigón armado + 
+cable calefactor empotrado en 
+hormigón + baldosas
+Potencias adecuadas:
+Potencia lineal: 6, 10, 18, 20 W/m
+Potencia especí/f_ica: máx. 200 W/m2
+Elemento de /f_ijación
+Elemento de /f_ijación 
+adecuado:
+• DEVIclip™ Twisto 
+  
+Azulejos
+Pegamento para baldosas
+Hormigón > 3 cm
+Subsuelo de hormigón
+Capa aislante
+Cable calefactor
+Cables calefactores adecuados:
+• DEVIbasic™ 10S 
+• DEVIbasic™ 20S 
+• DEVIcomfort™ 10T 
+  (el grosor del hormigón 
+por encima del cable puede ser >1 cm)
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+• DEVI/f_lex™ 18T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica cables
+18 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.5 Subsuelo de hormigón + 
+Membrana de desacoplamiento + 
+cable calefactor + baldosas cola + 
+baldosas
+Potencias adecuadas:
+Potencia lineal: 10 W/m
+Potencia especí/f_ica: máx. 100 W/m2
+Sensor de suelo en tubo conduit
+de plástico o 2 sensores de cable 
+(principal y reservado)
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Azulejos
+Pegamento para baldosas
+Membrana  
+de desacoplamiento
+Subsuelo de hormigón
+Capa aislante
+Cable calefactor
+Cables calefactores adecuados:
+• DEVIcomfort™ 10T 
+  
+instalación
+MOJADO
+Calefacción eléctrica cables
+19GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.6 Subsuelo de hormigón + cable 
+calefactor empotrado en 
+hormigón + suelo de madera
+Potencias adecuadas:
+Potencia lineal 6, 10 W/m
+Potencia especí/f_ica: máx.150 W/m2
+Elemento de /f_ijación
+Elemento de /f_ijación 
+adecuado:
+• DEVIfast™ 5 m 
+  
+• DEVIfast™ 25 m 
+• DEVIclip™ c-c 
+Suelo de madera, parqué
+Hormigón > 3 cm
+Subsuelo de hormigón
+Capa aislante
+Cable calefactor
+Cables calefactores adecuados:
+• DEVIbasic™ 10S 
+• DEVIcomfort™ 10T 
+  (el grosor del hormigón 
+por encima del cable puede ser >1 cm)
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica cables
+20 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.7 CUARTOS HÚMEDOS (por ejemplo, 
+cuarto de baño) Subsuelo de 
+hormigón + DEVIcell + cable 
+calefactor cubierto  cola para 
+baldosas + baldosas
+Salidas adecuadas:
+Potencia lineal: 6, 10 W/m
+Potencia especí/f_ica: máx. 100 W/m2
+Azulejos
+Adhesivo para baldosas
+Membrana impermeable contra la humedad
+Imprimación (debe ser adecuada 
+para instalar baldosas sobre una 
+placa de aluminio)
+Barrera de vapor o membrana imper-
+meable (aplicable para plantas bajas)
+Suelo estable  
+(por ejemplo, hormigón)
+DEVIcell™
+Elemento de /f_ijación 
+adecuado:
+• DEVIcell™ 
+  
+• Cinta de aluminio 
+• Clips de conexión 
+• Placas de borde 
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Kit de montaje para sensor 
+Cable calefactor
+Cables calefactores adecuados:
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+instalación
+MOJADO
+Calefacción eléctrica cables
+21GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Kit de montaje para sensor 
+Azulejos
+Adhesivo para baldosas
+Imprimación (debe ser adecuada para insta-
+lar baldosas sobre una placa de aluminio)
+Barrera de vapor o membrana 
+impermeable  
+(aplicable para plantas bajas)
+Suelo estable  
+(por ejemplo, hormigón)
+3.8 CUARTOS SECOS (por ejemplo, 
+cocinas) Subsuelo de hormigón + 
+DEVIcell + cable calefactor 
+empotrado  cola para baldosas + 
+baldosas
+Salidas adecuadas:
+Potencia lineal: 6, 10 W/m
+Potencia especí/f_ica: máx. 100 W/m2
+Cable calefactor
+Cables calefactores adecuados:
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+DEVIcell™
+Elemento de /f_ijación 
+adecuado:
+• DEVIcell™ 
+  
+• Cinta de aluminio 
+• Clips de conexión 
+• Placas de borde 
+instalación
+MOJADO
+Calefacción eléctrica cables
+22 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.9 Subsuelo de hormigón + cable 
+calefactor viguetas de madera + 
+suelo de madera
+Potencias adecuadas:
+Potencia lineal 6, 10 W/m
+Potencia especí/f_ica: máx. 80 W/m2
+Elemento de /f_ijación
+Elemento de /f_ijación 
+adecuado:
+• Cinta de aluminio 
+  
+Suelo de madera
+Viguetas de madera
+Malla o lámina metálica
+Capa aislante
+Subsuelo de hormigón
+Cable calefactor
+Cables calefactores adecuados:
+• DEVIbasic™ 10S 
+• DEVIcomfort™ 10T 
+  
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+Potencias adecuadas:
+Potencia lineal: 10 W/m
+Potencia especí/f_ica: máx. 80 W/m2
+instalación
+SECO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica cables
+23GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.10 Subsuelo de hormigón + cable 
+calefactor empotrado en 
+hormigón + moqueta
+Potencias adecuadas:
+Potencia lineal 6, 10 W/m
+Potencia especí/f_ica: máx.100 W/m2
+Elemento de /f_ijación
+Elemento de /f_ijación 
+adecuado:
+• DEVIfast™ 5 m 
+  
+• DEVIfast™ 25 m 
+• DEVIclip™ c-c 
+Moqueta
+Hormigón > 3 cm
+Subsuelo de hormigón
+Capa aislante
+Cable calefactor
+Cables calefactores adecuados:
+• DEVIbasic™ 10S 
+• DEVIcomfort™ 10T 
+  (el grosor del hormigón 
+por encima del cable puede ser >1 cm)
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+instalación
+MOJADO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Flexpipe Ø6,7 mm, 2,5 m 
+• AstroFlex Ø8,5 mm, rollo 50 m 
+Calefacción eléctrica cables
+24 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+3.1 1 Subsuelo de hormigón + DEVIcell 
++ cable calefactor + parquet Potencias adecuadas:
+Potencia lineal 6, 10 W/m
+Potencia especí/f_ica: máx. 100 W/m2
+DEVIcell™
+Elemento de /f_ijación 
+adecuado:
+• DEVIcell™ 
+  
+• Cinta de aluminio 
+• Clips de conexión 
+• Placas de borde 
+Parquet
+Capa de absorción acústica
+Barrera de vapor o 
+membrana antihumedad
+Subsuelo de hormigón
+Cable calefactor
+Cables calefactores adecuados:
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+instalación
+SECO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Kit de montaje para sensor 
+Calefacción eléctrica cables
+25GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+ Haga clic en el producto y visite nuestro sitio web devi.com para obtener más detalles.
+Cable calefactor
+Cables calefactores adecuados:
+• DEVI/f_lex™ 6T 
+• DEVI/f_lex™ 10T 
+DEVIcell™
+Elemento de /f_ijación 
+adecuado:
+• DEVIcell™ 
+  
+• Cinta de aluminio 
+• Clips de conexión 
+• Placas de borde 
+3.12 Subsuelo de hormigón + viguetas 
+de madera + DEVIcell + cable 
+calefactor + linóleo
+Potencias adecuadas:
+Potencia lineal: 6, 10 W/m
+Potencia especí/f_ica: máx. 100 W/m2
+Linóleo, vinilo o moqueta
+Tablero de distribución de presión, mín. 5 mm 
+Capa de absorción acústica
+Barrera de vapor o 
+membrana antihumedad
+Subsuelo de madera
+Viguetas de madera
+Capa aislante
+Subsuelo de hormigón
+instalación
+SECO
+Sensor de suelo en tubo conduit
+de plástico
+Productos adecuados:
+• Kit de montaje para sensor 
+Calefacción eléctrica cables
+26 GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+4 Instrucciones de seguridad
+Los cables/alfombras calefactores deben ins-
+talarse siempre de acuerdo con las normas de 
+construcción y cableado locales, así como con las 
+directrices de este manual de instalación.
+La etiqueta adjunta debe rellenarse y colocarse 
+junto al cuadro de distribución, describiendo la 
+ubicación de los cables/alfombrillas calefactores.
+Desconecte todos los circuitos eléctricos antes de 
+la instalación y el mantenimiento.
+Se requiere protección por dispositivo de corrien-
+te residual (RCD). La capacidad de disparo del 
+RCD es de máx. 30 mA.
+La pantalla de cada cable calefactor/alfombrilla 
+debe conectarse al terminal de toma de tierra de 
+acuerdo con la normativa eléctrica local.
+Los cables/alfombrillas calefactores deben conec-
+tarse mediante un interruptor que proporcione 
+desconexión omnipolar.
+El cable/alfombrilla calefactor debe estar equi-
+pado con un fusible o disyuntor correctamente 
+dimensionado de acuerdo con la normativa local.
+No supere nunca la densidad térmica máxima 
+(W/m o W/m²) para la aplicación real.
+En el caso de un subsuelo de madera, la potencia 
+máxima instalada es de 100 W/m².
+En subsuelos de hormigón, se permite un máxi-
+mo de 200 W/m² si: el grosor del revestimiento de 
+hormigón por encima del elemento calefactor, es 
+superior a 3 cm (30 mm).
+Los cables/alfombras calefactores deben estar 
+siempre controlados por un termostato que limite 
+la temperatura del suelo a máx. 35 °C (DEVIreg™ 
+Smart, DEVIreg™ Touch, DEVIreg™ Room o DEVI-
+reg™ Basic).
+Se recomienda encarecidamente utilizar el cable/
+alfombrilla calefactora junto con un termostato 
+adecuado para asegurar contra el sobrecalenta-
+miento.
+¡Atención! No utilice cables clasi/f_icados M1 en 
+zonas sometidas a cargas mecánicas o impactos 
+elevados, como aplicaciones exteriores, en rejillas 
+de refuerzo de acero, en hormigón con piedras 
+a/f_iladas, tejados y canalones, etc.
+Presencia de un cable/alfombra calefactora 
+• deben hacerse evidentes mediante la colo-
+cación de señales de precaución en la caja 
+de fusibles y en el cuadro de distribución o 
+marcas en los accesorios de conexión eléctri-
+ca y/o frecuentemente a lo largo de la línea 
+del circuito donde sea claramente visible 
+(trazado) 
+• debe indicarse en toda la documentación 
+eléctrica posterior a la instalación.
+Si el cable de alimentación está dañado, debe ser 
+sustituido por el fabricante, su agente de servicio 
+o personas con cuali/f_icación similar para evitar 
+riesgos.
+27GUÍA DEL USUARIO
+Construcción del suelo y cables calefactores o 
+alfombrillas adecuados
+5 Qué hacer y qué no hacer
+HACER:
+• Lea detenidamente el manual del fabri-
+cante antes de comenzar la instalación para 
+comprender los requisitos y restricciones 
+especí/f_icos.
+• Compruebe los requisitos del subsuelo 
+para comprobar la compatibilidad con las 
+esteras y cables calefactores (por ejemplo, 
+hormigón, madera contrachapada, etc.).
+• Realice pruebas de aislamiento y resis-
+tencia en los cables/esteras antes, durante y 
+después de la instalación para asegurarse de 
+que no se han producido daños.
+• Utilice un termostato diseñado especí/f_ica-
+mente para sistemas de calefacción eléctrica 
+para controlar la temperatura con precisión.
+• Fije correctamente las mantas o cables 
+calefactores de acuerdo con las directrices 
+del fabricante, asegurándose de que estén 
+planos y distribuidos uniformemente.
+• PRUEBE el sistema antes de con el suelo 
+para con/f_irmar que funciona correctamente.
+• Utilice una capa aislante adecuada 
+debajo del sistema de calefacción cuando 
+se recomiende, ya que aumenta la e/f_iciencia 
+energética.
+• Mantenga una distancia mínima entre los 
+cables o alfombras calefactores para evitar 
+sobrecalentamientos o puntos fríos.
+• Lleve un registro de los detalles de la insta-
+lación (por ejemplo, disposición, mediciones 
+de resistencia) para futuras consultas.
+LO QUE NO DEBE HACER:
+• NO encienda el sistema de calefacción 
+hasta que el adhesivo para suelos, el mortero 
+o el compuesto de nivelación estén comple-
+tamente curados.
+• NO corte ni acorte los cables calefactores 
+ya que puede provocar un calentamiento 
+desigual o un riesgo potencial de incendio. 
+Sólo determinadas alfombrillas permiten el 
+corte (siguiendo directrices estrictas).
+• NO superponga los cables calefactores ni 
+las alfombrillas, ya que esto puede provocar 
+un sobrecalentamiento.
+• NO instale cables/alfombrillas calefactores 
+directamente debajo de aparatos /f_ijos 
+(por ejemplo, debajo de armarios de cocina o 
+muebles sin circulación de aire) para evitar el 
+sobrecalentamiento localizado.
+• NO instale sistemas de calefacción en zo-
+nas húmedas sin comprobar la clasi/f_icación 
+IP (Ingress Protection), ya que la exposición a 
+la humedad podría ser insegura.
+• NO instale ningún objeto aislante cerca 
+de los cables, ya que podrían interferir con la 
+calefacción.
+Producido por Danfoss © 08.2026 • BC507249205197es-ES0202
+Danfoss A/S
+Nordborgvej 81
+6430 Nordborg
+Dinamarca
+devi.com

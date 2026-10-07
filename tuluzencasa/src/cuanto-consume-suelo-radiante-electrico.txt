@@ -1,0 +1,102 @@
+title: Calefacción por suelo radiante eléctrico: cuánto consume
+title_seo: Suelo radiante eléctrico: cuánto consume y cuánto cuesta
+excerpt: Suelo radiante eléctrico: un salón de 20 m² a 100 W/m², 5 horas al día, cuesta unos 30,10 € al mes. Coste por m², por estancia y por tramo horario.
+category: climatizacion
+keyword: suelo radiante eléctrico
+---
+Un suelo radiante eléctrico de 100 W/m² en un salón de 20 m², encendido 5 horas al día, consume unos 6 kWh diarios y cuesta unos 30,10 € al mes. Gasta lo mismo que un radiador eléctrico que dé el mismo calor: la diferencia está en cómo reparte ese calor, no en lo que paga por él.
+
+Calculamos con <strong>0,165 €/kWh con impuestos</strong>. Si el precio del kWh de tu factura es distinto, los costes de las tablas suben o bajan en la misma proporción.
+
+## Cómo funciona el suelo radiante eléctrico {#como-funciona}
+
+Bajo el pavimento van unos cables o unas mallas calefactoras, que son resistencias eléctricas. Al pasar la corriente se calientan, calientan el suelo y el suelo calienta la habitación desde abajo. Un termostato con una sonda en el suelo los enciende y los apaga para mantener la temperatura.
+
+Hay dos formas principales de instalarlo:
+
+- <strong>Directo, de poco espesor</strong>: la malla va pegada con cemento cola bajo la baldosa, sobre un aislante fino. Según el fabricante Salvador Escoda, ocupa apenas 1,5 o 2 cm, se calienta rápido y es ideal para baños, para habitaciones que se calientan a ratos y para segundas residencias.
+- <strong>Lámina o folio radiante</strong>: una lámina de menos de medio milímetro que se coloca bajo suelos laminados o de madera, sin obras.
+
+Como cualquier resistencia, convierte toda la electricidad en calor: 1 kWh de electricidad da 1 kWh de calor. Es lo mismo que hace un emisor térmico o un radiador de aceite.
+
+## Cuánto consume un suelo radiante eléctrico por m² {#por-m2}
+
+La potencia se da en vatios por metro cuadrado (W/m²). Según las fichas de los fabricantes, va desde unos <strong>60 W/m²</strong> en casas nuevas bien aisladas hasta 150 o 180 W/m² en baños, donde la superficie libre de sanitarios es pequeña. El tipo de suelo pone un tope: Danfoss limita sus mantas a 200 W/m² bajo baldosa sobre hormigón y a 100 W/m² bajo madera.
+
+Lo que cuesta un salón de 20 m² según la potencia por m², con un factor de uso de 0,6 porque el termostato corta y vuelve a conectar:
+
+{{T:sr_potencias}}
+
+La potencia por m² la decide el instalador según el aislamiento de la casa y el clima. Una casa mal aislada necesita más potencia y, sobre todo, más horas encendida.
+
+## Cuánto gasta una casa entera {#casa}
+
+Para una casa de ejemplo con el suelo radiante en el salón, dos dormitorios y el baño, encendido solo las horas en que se usa cada estancia:
+
+{{T:sr_casa}}
+
+Son superficies, potencias y horas orientativas para comparar, no un dimensionado. Fíjate en dos cosas:
+
+- <strong>El salón es casi el 60 % del gasto</strong>, porque es la estancia más grande y la que más horas está encendida.
+- <strong>La potencia instalada es alta</strong>: 4.950 W si todo se encendiera a la vez. Con un factor de 0,6 no estará todo a tope al mismo tiempo, pero si además pones el horno o la lavadora puede saltar el limitador. Compruébalo con <a href="https://tuluzencasa.com/calculadora-potencia-contratada/">nuestra calculadora de potencia</a>.
+
+## El suelo radiante eléctrico frente a otras calefacciones {#comparar}
+
+Para dar el mismo calor que el salón del ejemplo, unos 6 kWh al día:
+
+{{T:sr_comparar}}
+
+El suelo radiante eléctrico no ahorra frente a un emisor térmico o un radiador: los dos convierten cada kWh en un kWh de calor. Lo que aporta es comodidad, porque el calor se reparte de forma uniforme, el suelo está templado y no hay aparatos en las paredes. Te contamos cuánto gastan los emisores en <a href="https://tuluzencasa.com/cuanto-consumen-emisores-termicos/">cuánto consumen los emisores térmicos</a>.
+
+La bomba de calor sí gasta mucho menos, porque saca calor del aire exterior: con un rendimiento estacional de 3,5, da el mismo calor con menos de un tercio de electricidad. Y también puede ir por suelo radiante, con agua en lugar de cables. Lo comparamos en <a href="https://tuluzencasa.com/bomba-calor-radiadores-electricos/">bomba de calor o radiadores eléctricos</a>.
+
+## Cuándo encenderlo: la tarifa por horas {#tramos}
+
+Con la tarifa 2.0TD, el precio del kWh cambia según la hora. El mismo salón, 2.000 W durante 5 horas al día, según el tramo en que se encienda:
+
+{{T:sr_tramos}}
+
+Entre calentar en punta y en valle hay unos 25 € al mes de diferencia. El problema es que la calefacción se necesita sobre todo por la tarde, de 18 a 22 h, que es punta en días laborables. Dos ideas para acercarte al valle:
+
+- <strong>Aprovecha la inercia</strong>: un suelo con más capa de mortero tarda más en calentarse, pero también en enfriarse. Encenderlo antes de las 18 h, en llano, deja el suelo caliente para la tarde.
+- <strong>Usa el fin de semana</strong>: sábados y domingos son valle todo el día.
+
+Un sistema directo de poco espesor, en cambio, se calienta y se enfría deprisa: rinde mejor encendiéndolo justo cuando lo necesitas.
+
+{{CAJA:Dato clave}}
+El suelo radiante eléctrico es una instalación eléctrica fija: la tiene que hacer un instalador autorizado, con su circuito y sus protecciones según el Reglamento Electrotécnico de Baja Tensión. Tú puedes ajustar el termostato y la programación, pero no manipules los cables ni el cuadro.
+{{/CAJA}}
+
+## Trucos para gastar menos con suelo radiante eléctrico {#trucos}
+
+- <strong>Baja un grado el termostato</strong>: cuanto más baja la consigna, menos rato está conectada la resistencia.
+- <strong>Programa cada estancia</strong>: los dormitorios solo antes de dormir y el baño solo por la mañana y por la noche.
+- <strong>No tapes el suelo</strong> con alfombras gruesas: frenan el paso del calor y el termostato tarda más en cortar.
+- <strong>Cierra las puertas</strong> de las estancias que no calientas.
+- <strong>Aísla antes</strong>: si estás de reforma, un buen aislamiento bajo la malla y en las ventanas permite instalar menos potencia por m².
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto consume un suelo radiante eléctrico por m²?
+
+Entre 60 y 180 W/m² según el aislamiento y la estancia. Con 100 W/m², un factor de uso de 0,6 y 5 horas al día, un salón de 20 m² gasta unos 6 kWh diarios: unos 30,10 € al mes.
+
+### ¿Es caro el suelo radiante eléctrico?
+
+Gasta lo mismo que cualquier calefacción por resistencia eléctrica para el mismo calor. Es más caro de usar que una bomba de calor, que en nuestro ejemplo da el mismo calor con 3,5 veces menos electricidad.
+
+### ¿Se puede poner suelo radiante eléctrico bajo parqué?
+
+Sí, con mallas o láminas aptas para madera. Los fabricantes limitan entonces la potencia, por ejemplo a 100 W/m², para no dañar el suelo.
+
+### ¿Merece la pena solo en el baño?
+
+Es su uso más habitual: es una estancia pequeña, se calienta rápido y se usa a ratos. Con 5 m² a 150 W/m² y 2 horas al día, cuesta unos 4,51 € al mes.
+
+Fuentes consultadas el 7 de octubre de 2026:
+
+- <a href="https://www.salvadorescoda.com/" target="_blank" rel="noopener">Salvador Escoda</a>, fichas técnicas de la manta de suelo radiante eléctrico (60, 120 y 180 W/m²) y del folio radiante (60 a 300 W/m²).
+- <a href="https://www.danfoss.com/es-es/" target="_blank" rel="noopener">Danfoss DEVI</a>, guía del usuario: potencias máximas según el tipo de suelo.
+- Factor de uso de 0,6 y precios de referencia: los de <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a> para emisores térmicos.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon la potencia de tu suelo radiante y las horas que lo usas, y mira cuánto pesa en tu factura.

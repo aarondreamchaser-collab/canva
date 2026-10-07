@@ -1,0 +1,35 @@
+{
+ "tarifa-fija-o-indexada": {
+  "titulo": "File:M-torre-de-alta-tension-sandoval-de-la-reina-julio-2025-c.jpg",
+  "autor": "MottaW",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/w/index.php?curid=186128520",
+  "alt": "Torres de alta tensión con sus cables sobre un campo de cereal segado, bajo un cielo nublado, en Sandoval de la Reina (Burgos).",
+  "edicion": "recortada a 16:9"
+ },
+ "bono-social-termico": {
+  "titulo": "File:ButanoGuadix.jpg",
+  "autor": "Luispihormiguero",
+  "licencia": "CC0 1.0",
+  "pagina": "https://commons.wikimedia.org/w/index.php?curid=70664714",
+  "alt": "Almacén de bombonas de butano naranjas bajo una cubierta metálica, junto a un muro encalado, en Guadix (Granada).",
+  "edicion": "recortada a 16:9"
+ },
+ "ver-consumo-por-horas-datadis": {
+  "titulo": "File:Kaifa MA105H2E AMS-måler.jpg",
+  "autor": "Fredrik Lindseth",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/w/index.php?curid=196432510",
+  "alt": "Contador eléctrico inteligente con la pantalla encendida mostrando la lectura acumulada en kWh.",
+  "edicion": "recortada a 16:9, con la marca y los avisos en noruego difuminados"
+ },
+ "cuanto-consume-suelo-radiante-electrico": {
+  "titulo": "File:Electric underfloor heating mats.jpg",
+  "autor": "Ian Haycox",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/w/index.php?curid=155817034",
+  "alt": "Mantas de suelo radiante eléctrico extendidas sobre el suelo de una habitación en obra, antes de colocar el pavimento.",
+  "edicion": "recortada a 16:9 y ampliada de 800 a 1.280 px",
+  "nota": "original pequeño (800 × 600): puede verse algo blando en pantallas grandes"
+ }
+}

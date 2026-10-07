@@ -20,7 +20,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 TABLAS = {}
-for f in ("tablas.json", "tablas_calefaccion.json", "tablas_calefaccion2.json", "tablas_tanda3.json", "tablas_tanda4.json", "tablas_tanda5.json", "tablas_tanda6.json", "tablas_tanda7.json"):
+for f in ("tablas.json", "tablas_calefaccion.json", "tablas_calefaccion2.json", "tablas_tanda3.json", "tablas_tanda4.json", "tablas_tanda5.json", "tablas_tanda6.json", "tablas_tanda7.json", "tablas_tanda8.json"):
     TABLAS.update(json.loads((BASE / "scripts" / f).read_text(encoding="utf-8")))
 LINEA_FECHA = "Cálculos con precios de octubre de 2026"
 IMG_P = BASE / "scripts" / "wp_imagenes_articulos.json"
