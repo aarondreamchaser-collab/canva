@@ -41,7 +41,8 @@ Webs profesionales del sector, revisadas el 7-10-2026: NerdWallet, EnergySage y 
 
 ## Fallo de la calculadora de potencia con los banners activos (7-10-2026)
 - **Síntoma:** al activar «Banners y efectos tuluzencasa», la calculadora de potencia salía sin lista de aparatos y con el desplegable vacío.
-- **Causa:** no era un choque de código. En la copia de la web guardada mientras los banners estaban activos, el código del fragmento 109 (calculadora de potencia) **no aparecía en la página**; el de la calculadora de consumo sí. Sin ese código, la calculadora sale justo así (comprobado quitándolo en la prueba: 0 aparatos y 0 opciones). Hoy el fragmento 109 vuelve a cargar en todas las páginas. Lo más probable es que, al preparar los banners, se pegara su código encima del fragmento de la calculadora o que este se desactivara.
+- **Causa (corregida tras revisar la web el 7-10-2026):** al fragmento «Efectos tuluzencasa» publicado le falta el `</script>` final. El navegador sigue leyendo como parte de ese script el fragmento siguiente del pie, que es el de la calculadora de potencia (109). Los dos fallan con «Unexpected token '<'», la lista de aparatos queda vacía y el desplegable sin opciones. Por eso la copia de la portada de aquel día parecía no llevar el fragmento 109: estaba dentro del script de Efectos. La primera explicación («el 109 no se imprimía») era incorrecta.
+- **Arreglo:** en WPCode › «Efectos tuluzencasa», añadir `</script>` al final, o pegar entero `../efectos/efectos-tuluzencasa.html`.
 - **Prueba con los 3 códigos finales y el fragmento 109 presente:** las dos calculadoras dan los mismos resultados que hoy en escritorio (1280 px) y móvil (390 px). Potencia: lista de 25 aparatos, 7 potencias, marcar, cambiar potencia, «Otro aparato» y «Vaciar». Consumo: 33 aparatos, 7 potencias, vaciar, añadir, ejemplo, cambiar potencia, tarifa por horas y botones rápidos. Sin errores de JavaScript.
 - **Arreglo añadido:** con la cabecera fija, al pulsar un botón rápido la calculadora de consumo subía y su parte de arriba quedaba debajo de la cabecera. Se añade `scroll-margin-top:96px` a las dos calculadoras.
 
@@ -49,7 +50,7 @@ Webs profesionales del sector, revisadas el 7-10-2026: NerdWallet, EnergySage y 
 
 | # | Quién | Paso |
 |---|---|---|
-| 0 | Titular | En WPCode › Fragmentos de código, comprobar que el fragmento de la calculadora de potencia (109) sigue **aparte**, activo, de tipo JavaScript y en el pie. No pegar nada encima de él ni del 31. |
+| 0 | Titular | En WPCode › «Efectos tuluzencasa», comprobar que el código termina en `</script>`. |
 | 1 | Titular | Editar el fragmento **existente** «Banners y efectos tuluzencasa» (HTML, cabecera de todo el sitio): borrar su código, pegar `1-banners-y-efectos-tuluzencasa.html`, guardar y activar. Volver a activar «Efectos tuluzencasa» (pie). |
 | 2 | Titular | Editar «Plantilla tuluzencasa» (PHP): borrar el código y pegar `2-plantilla-tuluzencasa.php` entero. Guardar. |
 | 3 | Titular | Editar «Diseño tuluzencasa» (CSS): borrar el código y pegar `3-diseno-tuluzencasa.css` entero. Guardar. |
