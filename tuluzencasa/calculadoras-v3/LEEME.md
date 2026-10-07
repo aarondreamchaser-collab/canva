@@ -60,12 +60,33 @@
 | `reserva.css` | Hueco reservado (ya incluido en las dos páginas). |
 | `pruebas/`, `capturas/` | Pruebas con Playwright y capturas. |
 
-## Cómo aplicarlo sin que se rompa nada
-| # | Quién | Paso |
-|---|---|---|
-| 0 | Titular | **Antes de nada:** añadir `</script>` al final de «Efectos tuluzencasa». Si no, se traga el siguiente fragmento del pie, que podría ser el de una calculadora. |
-| 1 | Titular | WPCode › Añadir fragmento › JavaScript: «Calculadora consumo v3», pegar `consumo3.min.js`, pie de todo el sitio, activar. Igual con «Calculadora potencia v3» y `potencia3.min.js`. No hacen nada hasta el paso 2. |
-| 2 | Claude | Subir `pagina-consumo3.html` a la página 156 y `pagina-potencia3.html` a la 102, con copia previa. Comprobar las dos en la web. |
-| 3 | Titular | Desactivar los fragmentos antiguos 31 y 109: ya no encuentran su calculadora y no hacen nada. |
+## Estado (7-10-2026)
+- **Fragmentos:** el titular crea en WPCode «Calculadora consumo v3» y «Calculadora potencia v3» (JavaScript, pie de todo el sitio), **inactivos**.
+- **Calendario:** se activan después de la aprobación de AdSense.
+- **Páginas 156 y 102:** no se tocan hasta que el titular avise.
 
-**Deshacer:** Claude vuelve a subir las copias de las páginas 156 y 102. Los fragmentos antiguos siguen guardados en WPCode.
+## Día de la activación (orden exacto)
+| # | Quién | Paso | Comprobación |
+|---|---|---|---|
+| 0 | Claude | Comprobar en la web que «Efectos» sigue cerrado con `</script>` y que las dos calculadoras actuales funcionan. | Si algo falla, se para aquí. |
+| 1 | Titular | Activar «Calculadora consumo v3» y «Calculadora potencia v3». Todavía no hacen nada: salen si la página no tiene `#tl3-consumo` / `#tl3-potencia`. | — |
+| 2 | Claude | Comprobar en la web que los dos fragmentos se cargan y no dan errores, y que las calculadoras actuales siguen funcionando. | — |
+| 3 | Claude | Página 102 (potencia): copia del contenido actual en `copia-seguridad/`. Rehacer `pagina-potencia3.html` a partir de ese contenido, por si ha cambiado. Comprobar `modified`. Subir solo el contenido: la página sigue publicada. | Probar en la web a 1280, 820 y 390 px: interruptores, situaciones, ×2, «Encender uno a uno», cambio de potencia, otro aparato, CLS, desbordes y errores. |
+| 4 | Claude | Página 156 (consumo): lo mismo con `pagina-consumo3.html`. | Probar en la web: hogares tipo, interruptores, ajustes y hora, tarifa, asistente, escenarios, tu factura, gráfica, CLS, desbordes y errores. Confirmar 58,78 €/mes en el ejemplo. |
+| 5 | Titular | Desactivar (no borrar) los fragmentos antiguos 31 y 109. | Claude repite las comprobaciones de los pasos 3 y 4. |
+| 6 | Claude | Actualizar `CLAUDE.md` (dónde viven las calculadoras) y hacer commit. | — |
+
+Si la web no muestra el cambio, se vacía la caché de EasyWP y se vuelve a comprobar.
+
+## Volver atrás
+- **Falla en el paso 2** (antes de tocar páginas): el titular desactiva los fragmentos v3. Nada más.
+- **Falla en el paso 3 o 4:**
+  1. Claude vuelve a subir la copia de esa página. La calculadora antigua vuelve al momento, porque los fragmentos 31 y 109 siguen activos.
+  2. Si fallan las dos, se restauran las dos.
+  3. Después, el titular desactiva los fragmentos v3.
+- **Falla después del paso 5:**
+  1. El titular reactiva 31 y 109.
+  2. Claude restaura las copias de las páginas 156 y 102.
+  3. El titular desactiva los fragmentos v3.
+- **Enlaces compartidos:** los guardados con la calculadora antigua (`#calc=…`) siguen abriendo en la v3.
+
