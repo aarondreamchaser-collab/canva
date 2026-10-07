@@ -1,0 +1,28 @@
+  var GRUPOS=['Climatización','Agua caliente','Cocina','Lavado','Ocio, luz y otros','Movilidad'];
+  var A=[
+    {id:'ac',g:'Climatización',n:'Aire acondicionado 3.000 frigorías',w:1000},
+    {id:'rad',g:'Climatización',n:'Radiador de aceite',w:2000},
+    {id:'est',g:'Climatización',n:'Estufa o calefactor',w:2000},
+    {id:'bdc',g:'Climatización',n:'Bomba de calor (calefacción)',w:900},
+    {id:'ter',g:'Agua caliente',n:'Termo eléctrico',w:1500},
+    {id:'ind',g:'Cocina',n:'Placa de inducción (un fuego)',w:1800},
+    {id:'vit',g:'Cocina',n:'Vitrocerámica (un fuego)',w:1800},
+    {id:'hor',g:'Cocina',n:'Horno eléctrico',w:2200},
+    {id:'mic',g:'Cocina',n:'Microondas',w:1000},
+    {id:'her',g:'Cocina',n:'Hervidor de agua',w:2000},
+    {id:'fre',g:'Cocina',n:'Freidora de aire',w:1500},
+    {id:'caf',g:'Cocina',n:'Cafetera',w:1000},
+    {id:'nev',g:'Cocina',n:'Nevera combi',w:150,on:1},
+    {id:'con',g:'Cocina',n:'Congelador',w:150},
+    {id:'lav',g:'Lavado',n:'Lavadora (calentando agua)',w:2000},
+    {id:'sev',g:'Lavado',n:'Secadora de evacuación',w:2500},
+    {id:'seb',g:'Lavado',n:'Secadora con bomba de calor',w:900},
+    {id:'lvv',g:'Lavado',n:'Lavavajillas',w:1200},
+    {id:'pla',g:'Lavado',n:'Plancha',w:2200},
+    {id:'tv',g:'Ocio, luz y otros',n:'Televisión',w:100,on:1},
+    {id:'pc',g:'Ocio, luz y otros',n:'Ordenador gaming',w:400},
+    {id:'led',g:'Ocio, luz y otros',n:'Iluminación LED (10 bombillas)',w:90,on:1},
+    {id:'asp',g:'Ocio, luz y otros',n:'Aspiradora',w:800},
+    {id:'sec',g:'Ocio, luz y otros',n:'Secador de pelo',w:1800},
+    {id:'car',g:'Movilidad',n:'Cargador de coche eléctrico 7,4 kW',w:7400}
+  ];

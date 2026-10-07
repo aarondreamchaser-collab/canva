@@ -1,0 +1,9 @@
+/* Hueco reservado mientras carga la calculadora v3 (evita saltos del contenido, CLS). Se quita solo al montarse. */
+#tl3-consumo:not(.tl3),#tl3-potencia:not(.tl3p){border-radius:24px;background:#070D18;color:#9DB0C8;padding:22px;margin:0 0 2em}
+#tl3-consumo:not(.tl3){min-height:1600px}
+#tl3-potencia:not(.tl3p){min-height:2070px}
+@media (max-width:1024px){#tl3-consumo:not(.tl3){min-height:2580px}#tl3-potencia:not(.tl3p){min-height:2140px}}
+@media (max-width:900px){#tl3-potencia:not(.tl3p){min-height:2690px}}
+@media (max-width:600px){#tl3-consumo:not(.tl3){min-height:2740px}#tl3-potencia:not(.tl3p){min-height:3240px}}
+@media (max-width:480px){#tl3-consumo:not(.tl3){min-height:3350px}#tl3-potencia:not(.tl3p){min-height:3440px}}
+@media (max-width:374px){#tl3-consumo:not(.tl3){min-height:3500px}#tl3-potencia:not(.tl3p){min-height:3700px}}
