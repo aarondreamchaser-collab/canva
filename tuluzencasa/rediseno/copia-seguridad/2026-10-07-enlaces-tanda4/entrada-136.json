@@ -1,0 +1,177 @@
+{
+ "id": 136,
+ "date": "2026-10-04T23:28:30",
+ "date_gmt": "2026-10-04T21:28:30",
+ "guid": {
+  "rendered": "https://tuluzencasa.com/?p=136",
+  "raw": "https://tuluzencasa.com/?p=136"
+ },
+ "modified": "2026-10-07T03:03:22",
+ "modified_gmt": "2026-10-07T01:03:22",
+ "password": "",
+ "slug": "placas-solares-en-casa",
+ "status": "publish",
+ "type": "post",
+ "link": "https://tuluzencasa.com/placas-solares-en-casa/",
+ "title": {
+  "raw": "Placas solares en casa: cómo funciona el autoconsumo y cuándo compensa",
+  "rendered": "Placas solares en casa: cómo funciona el autoconsumo y cuándo compensa"
+ },
+ "content": {
+  "raw": "<!-- wp:paragraph -->\n<p>¿Compensan las placas solares en casa? En gran parte de España, sí: una instalación de 3 kWp en Madrid produce unos 4.865 kWh al año, y en una casa que gasta 3.000 kWh puede ahorrar unos 466,59 € al año entre lo que consume directamente y lo que le compensan por los excedentes. Si cuesta 4.500 €, se paga en unos 9,6 años.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Esas cifras usan la producción calculada con la herramienta oficial de la Comisión Europea y un precio de <strong>0,165 €/kWh con impuestos</strong>. El precio de la instalación y lo que te pagan por los excedentes dependen de tu presupuesto y de tu contrato; por eso damos varios casos.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En este artículo:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><a href=\"#como-funciona\">Cómo funcionan las placas solares en casa</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#modalidades\">Autoconsumo con o sin excedentes</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#produccion\">Cuánta electricidad producen las placas según dónde vivas</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#ahorro\">Cuánto ahorras: autoconsumo y excedentes</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#compensacion\">Cómo funciona la compensación de excedentes</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#cuando-compensa\">Cuándo compensan las placas solares</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#comunidad\">En un piso: el autoconsumo compartido</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#seguridad\">Seguridad y trámites</a></li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading {\"anchor\":\"como-funciona\"} -->\n<h2 id=\"como-funciona\" class=\"wp-block-heading\">Cómo funcionan las placas solares en casa</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Las placas convierten la luz del sol en electricidad. Un aparato llamado inversor la transforma en la corriente que usan tus enchufes y la mete en la instalación de tu casa. A partir de ahí pasan tres cosas a la vez:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Lo que estás consumiendo en ese momento</strong> sale primero de las placas. Esa energía ya no la compras: es el ahorro más directo.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Si las placas producen más de lo que gastas</strong>, lo que sobra, los excedentes, sale a la red.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Si gastas más de lo que producen</strong>, por ejemplo de noche, compras la electricidad a la red como siempre.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Sigues con tu contrato de luz, tu potencia contratada y tu factura. Lo que cambia es que compras menos energía y, si tienes compensación, te descuentan los excedentes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"modalidades\"} -->\n<h2 id=\"modalidades\" class=\"wp-block-heading\">Autoconsumo con o sin excedentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>El <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089\" target=\"_blank\" rel=\"noopener\">Real Decreto 244/2019, que regula el autoconsumo</a>, distingue estas modalidades:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Sin excedentes.</strong> La instalación lleva un sistema antivertido que impide que la energía sobrante salga a la red. Lo que no consumes en el momento se pierde.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Con excedentes acogida a compensación.</strong> Lo que sobra sale a la red y tu comercializadora te lo descuenta de la factura. Es la opción habitual en una vivienda.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Con excedentes no acogida a compensación.</strong> Vendes los excedentes en el mercado eléctrico como un productor. Tiene más trámites y es poco habitual en casas.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Para acogerte a la compensación, la energía tiene que ser renovable, la instalación no puede pasar de 100 kW y tienes que firmar un contrato de compensación de excedentes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"produccion\"} -->\n<h2 id=\"produccion\" class=\"wp-block-heading\">Cuánta electricidad producen las placas según dónde vivas</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La producción depende sobre todo del sol de tu zona. Esto es lo que calcula PVGIS, la herramienta de la Comisión Europea, para paneles orientados al sur con 30° de inclinación:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Ciudad</th><th>kWh al año por cada kWp</th><th>Instalación de 3 kWp</th><th>Instalación de 4 kWp</th></tr></thead><tbody><tr><td>Sevilla</td><td>1.653</td><td>4.958</td><td>6.611</td></tr><tr><td>Madrid</td><td>1.622</td><td>4.865</td><td>6.486</td></tr><tr><td>Zaragoza</td><td>1.619</td><td>4.856</td><td>6.474</td></tr><tr><td>Barcelona</td><td>1.544</td><td>4.631</td><td>6.175</td></tr><tr><td>Bilbao</td><td>1.149</td><td>3.448</td><td>4.597</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Cálculos con precios de octubre de 2026</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>En Bilbao, cada kWp produce alrededor de un 30 % menos que en Sevilla. La orientación y las sombras también cuentan mucho: un tejado orientado al este o al oeste produce menos que uno al sur, y una chimenea o un árbol que dé sombra a parte de los paneles puede rebajar la producción de varios a la vez. Puedes calcular tu tejado en <a href=\"https://re.jrc.ec.europa.eu/pvg_tools/es/\" target=\"_blank\" rel=\"noopener\">PVGIS</a>, poniendo tu dirección y la orientación de tus placas.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"ahorro\"} -->\n<h2 id=\"ahorro\" class=\"wp-block-heading\">Cuánto ahorras: autoconsumo y excedentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Hemos calculado mes a mes una casa en Madrid que gasta 3.000 kWh al año, sin baterías, con 3 kWp. Lo que más cambia el resultado es qué parte de la producción usas en el momento, porque eso depende de tus hábitos: si en casa hay gente de día o si pones lavadoras y lavavajillas con sol.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Producción que usas al momento</th><th>kWh que dejas de comprar</th><th>Ahorro por autoconsumo</th><th>Excedentes (kWh)</th><th>Compensación a 0,06 €/kWh</th><th>Ahorro total al año</th></tr></thead><tbody><tr><td>30 %</td><td>1.459</td><td>240,80 €</td><td>3.405</td><td>212,36 €</td><td>453,16 €</td></tr><tr><td>40 %</td><td>1.946</td><td>321,07 €</td><td>2.919</td><td>145,53 €</td><td>466,59 €</td></tr><tr><td>50 %</td><td>2.420</td><td>399,35 €</td><td>2.444</td><td>77,93 €</td><td>477,29 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Usar más energía en el momento ahorra más por kWh, pero en este ejemplo el total cambia poco porque los excedentes también se compensan. Lo que sí cambia mucho es la parte que depende del precio de compensación de tu contrato.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"compensacion\"} -->\n<h2 id=\"compensacion\" class=\"wp-block-heading\">Cómo funciona la compensación de excedentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Con la compensación simplificada, cada mes se hace un saldo en euros:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li>La energía que tomas de la red se valora a su precio.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Los excedentes que salen a la red se valoran a otro precio, más bajo, que acuerdas con tu comercializadora. Con el PVPC, ese precio sale del mercado eléctrico de cada hora.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>El valor de los excedentes se descuenta del de la energía comprada, pero <strong>nunca puede superarlo</strong> en un periodo de facturación, que no puede ser mayor de un mes.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Es decir, la compensación puede dejar a cero la parte de la energía, pero no genera saldo a tu favor ni descuenta la potencia, el contador o los impuestos que no dependen de la energía. Por eso en verano, cuando sobra mucho, parte de los excedentes no te reporta nada.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Así cambia el ahorro con distintos precios de compensación, usando al momento el 40 % de lo que produces:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Precio de compensación (ejemplo)</th><th>Compensación al año</th><th>Ahorro total al año</th></tr></thead><tbody><tr><td>0,04 €/kWh</td><td>120,74 €</td><td>441,81 €</td></tr><tr><td>0,06 €/kWh</td><td>145,53 €</td><td>466,59 €</td></tr><tr><td>0,08 €/kWh</td><td>163,46 €</td><td>484,53 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Los tres precios son ejemplos. Antes de contratar, pregunta a tu comercializadora a cuánto te paga los excedentes y si tiene condiciones especiales para autoconsumo.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"cuando-compensa\"} -->\n<h2 id=\"cuando-compensa\" class=\"wp-block-heading\">Cuándo compensan las placas solares</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>No damos precios de instalación porque cambian mucho según el tejado, los paneles y la empresa. Lo que sí podemos calcular es cuántos años tarda en pagarse según lo que te cueste, con el ahorro del ejemplo de Madrid:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Si la instalación te cuesta</th><th>Ahorro al año (Madrid, 40 %, 0,06 €/kWh)</th><th>Se paga en</th></tr></thead><tbody><tr><td>3.000,00 €</td><td>466,59 €</td><td>6,4 años</td></tr><tr><td>4.500,00 €</td><td>466,59 €</td><td>9,6 años</td></tr><tr><td>6.000,00 €</td><td>466,59 €</td><td>12,9 años</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Y cómo cambia el ahorro de la misma instalación según la ciudad:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:table -->\n<figure class=\"wp-block-table\"><table><thead><tr><th>Ciudad</th><th>Ahorro al año (3 kWp, 40 %, 0,06 €/kWh)</th></tr></thead><tbody><tr><td>Sevilla</td><td>479,36 €</td></tr><tr><td>Madrid</td><td>466,59 €</td></tr><tr><td>Zaragoza</td><td>463,02 €</td></tr><tr><td>Barcelona</td><td>456,03 €</td></tr><tr><td>Bilbao</td><td>384,97 €</td></tr></tbody></table></figure>\n<!-- /wp:table -->\n\n<!-- wp:paragraph -->\n<p>Las placas compensan más si:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>Vives en una zona soleada</strong> y tienes un tejado orientado al sur, sin sombras.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Consumes durante el día</strong>: teletrabajo, aire acondicionado en verano, <a href=\"https://tuluzencasa.com/cuanto-consume-lavadora/\">lavadora</a> con sol.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Tu consumo es alto</strong>, o va a crecer: una bomba de calor o un coche eléctrico que cargues en casa.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>Compensan menos si gastas muy poco, si casi todo tu consumo es de noche o si el tejado tiene sombras. En ese caso, empieza por bajar el consumo: mira <a href=\"https://tuluzencasa.com/tramos-horarios-luz/\">los tramos horarios de la luz</a> para mover aparatos a horas baratas, y revisa si te sobra potencia con la <a href=\"https://tuluzencasa.com/calculadora-potencia-contratada/\">calculadora de potencia contratada</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"comunidad\"} -->\n<h2 id=\"comunidad\" class=\"wp-block-heading\">En un piso: el autoconsumo compartido</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>En un bloque de pisos el tejado es de la comunidad. La <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906\" target=\"_blank\" rel=\"noopener\">Ley de Propiedad Horizontal</a> permite aprobar la instalación de sistemas de energías renovables, comunes o privativos, con el voto de un tercio de los propietarios que representen un tercio de las cuotas, a petición de cualquier propietario. Si la instalación es para varios vecinos, el Real Decreto 244/2019 lo llama autoconsumo colectivo, y todos tienen que firmar un acuerdo de reparto de la energía.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"seguridad\"} -->\n<h2 id=\"seguridad\" class=\"wp-block-heading\">Seguridad y trámites</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>La instalación de placas es una instalación eléctrica en tu casa y tiene que hacerla una empresa instaladora habilitada, que debe legalizarla según el Reglamento Electrotécnico de Baja Tensión. No conectes por tu cuenta paneles ni inversores a un enchufe: pueden devolver tensión a la instalación y es peligroso para ti y para quien trabaje en la red. Antes de firmar, pide que el presupuesto incluya la legalización y los trámites con la distribuidora.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"anchor\":\"preguntas-frecuentes\"} -->\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Cuánto producen las placas solares en invierno?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Bastante menos que en verano. En Madrid, según PVGIS, 1 kWp produce en diciembre algo más de la mitad que en julio. Por eso en invierno sigues comprando buena parte de la energía a la red.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Me pagan por la energía que sobra?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Con la compensación simplificada no te pagan en dinero: te la descuentan de la energía de la factura de ese mes, y el descuento no puede pasar del importe de la energía que has comprado.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Necesito baterías?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>No son obligatorias. Sirven para usar de noche lo que sobra de día, pero encarecen la instalación. Haz primero las cuentas sin baterías.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3 class=\"wp-block-heading\">¿Puedo poner placas en un piso?</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Sí, si la comunidad lo aprueba. Basta con un tercio de los propietarios que sumen un tercio de las cuotas, y se puede hacer autoconsumo colectivo con otros vecinos.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: mira cuánto consumes al mes y en qué horas, y sabrás qué parte podrían cubrir las placas.</p>\n<!-- /wp:paragraph -->\n",
+  "rendered": "\n<p class=\"wp-block-paragraph\">¿Compensan las placas solares en casa? En gran parte de España, sí: una instalación de 3 kWp en Madrid produce unos 4.865 kWh al año, y en una casa que gasta 3.000 kWh puede ahorrar unos 466,59 € al año entre lo que consume directamente y lo que le compensan por los excedentes. Si cuesta 4.500 €, se paga en unos 9,6 años.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Esas cifras usan la producción calculada con la herramienta oficial de la Comisión Europea y un precio de <strong>0,165 €/kWh con impuestos</strong>. El precio de la instalación y lo que te pagan por los excedentes dependen de tu presupuesto y de tu contrato; por eso damos varios casos.</p>\n\n\n\n<p class=\"wp-block-paragraph\">En este artículo:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"#como-funciona\">Cómo funcionan las placas solares en casa</a></li>\n\n\n\n<li><a href=\"#modalidades\">Autoconsumo con o sin excedentes</a></li>\n\n\n\n<li><a href=\"#produccion\">Cuánta electricidad producen las placas según dónde vivas</a></li>\n\n\n\n<li><a href=\"#ahorro\">Cuánto ahorras: autoconsumo y excedentes</a></li>\n\n\n\n<li><a href=\"#compensacion\">Cómo funciona la compensación de excedentes</a></li>\n\n\n\n<li><a href=\"#cuando-compensa\">Cuándo compensan las placas solares</a></li>\n\n\n\n<li><a href=\"#comunidad\">En un piso: el autoconsumo compartido</a></li>\n\n\n\n<li><a href=\"#seguridad\">Seguridad y trámites</a></li>\n\n\n\n<li><a href=\"#preguntas-frecuentes\">Preguntas frecuentes</a></li>\n</ul>\n\n\n\n<h2 id=\"como-funciona\" class=\"wp-block-heading\">Cómo funcionan las placas solares en casa</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Las placas convierten la luz del sol en electricidad. Un aparato llamado inversor la transforma en la corriente que usan tus enchufes y la mete en la instalación de tu casa. A partir de ahí pasan tres cosas a la vez:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Lo que estás consumiendo en ese momento</strong> sale primero de las placas. Esa energía ya no la compras: es el ahorro más directo.</li>\n\n\n\n<li><strong>Si las placas producen más de lo que gastas</strong>, lo que sobra, los excedentes, sale a la red.</li>\n\n\n\n<li><strong>Si gastas más de lo que producen</strong>, por ejemplo de noche, compras la electricidad a la red como siempre.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Sigues con tu contrato de luz, tu potencia contratada y tu factura. Lo que cambia es que compras menos energía y, si tienes compensación, te descuentan los excedentes.</p>\n\n\n\n<h2 id=\"modalidades\" class=\"wp-block-heading\">Autoconsumo con o sin excedentes</h2>\n\n\n\n<p class=\"wp-block-paragraph\">El <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089\" target=\"_blank\" rel=\"noopener\">Real Decreto 244/2019, que regula el autoconsumo</a>, distingue estas modalidades:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Sin excedentes.</strong> La instalación lleva un sistema antivertido que impide que la energía sobrante salga a la red. Lo que no consumes en el momento se pierde.</li>\n\n\n\n<li><strong>Con excedentes acogida a compensación.</strong> Lo que sobra sale a la red y tu comercializadora te lo descuenta de la factura. Es la opción habitual en una vivienda.</li>\n\n\n\n<li><strong>Con excedentes no acogida a compensación.</strong> Vendes los excedentes en el mercado eléctrico como un productor. Tiene más trámites y es poco habitual en casas.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Para acogerte a la compensación, la energía tiene que ser renovable, la instalación no puede pasar de 100 kW y tienes que firmar un contrato de compensación de excedentes.</p>\n\n\n\n<h2 id=\"produccion\" class=\"wp-block-heading\">Cuánta electricidad producen las placas según dónde vivas</h2>\n\n\n\n<p class=\"wp-block-paragraph\">La producción depende sobre todo del sol de tu zona. Esto es lo que calcula PVGIS, la herramienta de la Comisión Europea, para paneles orientados al sur con 30° de inclinación:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Ciudad</th><th>kWh al año por cada kWp</th><th>Instalación de 3 kWp</th><th>Instalación de 4 kWp</th></tr></thead><tbody><tr><td>Sevilla</td><td>1.653</td><td>4.958</td><td>6.611</td></tr><tr><td>Madrid</td><td>1.622</td><td>4.865</td><td>6.486</td></tr><tr><td>Zaragoza</td><td>1.619</td><td>4.856</td><td>6.474</td></tr><tr><td>Barcelona</td><td>1.544</td><td>4.631</td><td>6.175</td></tr><tr><td>Bilbao</td><td>1.149</td><td>3.448</td><td>4.597</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Cálculos con precios de octubre de 2026</p>\n\n\n\n<p class=\"wp-block-paragraph\">En Bilbao, cada kWp produce alrededor de un 30 % menos que en Sevilla. La orientación y las sombras también cuentan mucho: un tejado orientado al este o al oeste produce menos que uno al sur, y una chimenea o un árbol que dé sombra a parte de los paneles puede rebajar la producción de varios a la vez. Puedes calcular tu tejado en <a href=\"https://re.jrc.ec.europa.eu/pvg_tools/es/\" target=\"_blank\" rel=\"noopener\">PVGIS</a>, poniendo tu dirección y la orientación de tus placas.</p>\n\n\n\n<h2 id=\"ahorro\" class=\"wp-block-heading\">Cuánto ahorras: autoconsumo y excedentes</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Hemos calculado mes a mes una casa en Madrid que gasta 3.000 kWh al año, sin baterías, con 3 kWp. Lo que más cambia el resultado es qué parte de la producción usas en el momento, porque eso depende de tus hábitos: si en casa hay gente de día o si pones lavadoras y lavavajillas con sol.</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Producción que usas al momento</th><th>kWh que dejas de comprar</th><th>Ahorro por autoconsumo</th><th>Excedentes (kWh)</th><th>Compensación a 0,06 €/kWh</th><th>Ahorro total al año</th></tr></thead><tbody><tr><td>30 %</td><td>1.459</td><td>240,80 €</td><td>3.405</td><td>212,36 €</td><td>453,16 €</td></tr><tr><td>40 %</td><td>1.946</td><td>321,07 €</td><td>2.919</td><td>145,53 €</td><td>466,59 €</td></tr><tr><td>50 %</td><td>2.420</td><td>399,35 €</td><td>2.444</td><td>77,93 €</td><td>477,29 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Usar más energía en el momento ahorra más por kWh, pero en este ejemplo el total cambia poco porque los excedentes también se compensan. Lo que sí cambia mucho es la parte que depende del precio de compensación de tu contrato.</p>\n\n\n\n<h2 id=\"compensacion\" class=\"wp-block-heading\">Cómo funciona la compensación de excedentes</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Con la compensación simplificada, cada mes se hace un saldo en euros:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>La energía que tomas de la red se valora a su precio.</li>\n\n\n\n<li>Los excedentes que salen a la red se valoran a otro precio, más bajo, que acuerdas con tu comercializadora. Con el PVPC, ese precio sale del mercado eléctrico de cada hora.</li>\n\n\n\n<li>El valor de los excedentes se descuenta del de la energía comprada, pero <strong>nunca puede superarlo</strong> en un periodo de facturación, que no puede ser mayor de un mes.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Es decir, la compensación puede dejar a cero la parte de la energía, pero no genera saldo a tu favor ni descuenta la potencia, el contador o los impuestos que no dependen de la energía. Por eso en verano, cuando sobra mucho, parte de los excedentes no te reporta nada.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Así cambia el ahorro con distintos precios de compensación, usando al momento el 40 % de lo que produces:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Precio de compensación (ejemplo)</th><th>Compensación al año</th><th>Ahorro total al año</th></tr></thead><tbody><tr><td>0,04 €/kWh</td><td>120,74 €</td><td>441,81 €</td></tr><tr><td>0,06 €/kWh</td><td>145,53 €</td><td>466,59 €</td></tr><tr><td>0,08 €/kWh</td><td>163,46 €</td><td>484,53 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Los tres precios son ejemplos. Antes de contratar, pregunta a tu comercializadora a cuánto te paga los excedentes y si tiene condiciones especiales para autoconsumo.</p>\n\n\n\n<h2 id=\"cuando-compensa\" class=\"wp-block-heading\">Cuándo compensan las placas solares</h2>\n\n\n\n<p class=\"wp-block-paragraph\">No damos precios de instalación porque cambian mucho según el tejado, los paneles y la empresa. Lo que sí podemos calcular es cuántos años tarda en pagarse según lo que te cueste, con el ahorro del ejemplo de Madrid:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Si la instalación te cuesta</th><th>Ahorro al año (Madrid, 40 %, 0,06 €/kWh)</th><th>Se paga en</th></tr></thead><tbody><tr><td>3.000,00 €</td><td>466,59 €</td><td>6,4 años</td></tr><tr><td>4.500,00 €</td><td>466,59 €</td><td>9,6 años</td></tr><tr><td>6.000,00 €</td><td>466,59 €</td><td>12,9 años</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Y cómo cambia el ahorro de la misma instalación según la ciudad:</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Ciudad</th><th>Ahorro al año (3 kWp, 40 %, 0,06 €/kWh)</th></tr></thead><tbody><tr><td>Sevilla</td><td>479,36 €</td></tr><tr><td>Madrid</td><td>466,59 €</td></tr><tr><td>Zaragoza</td><td>463,02 €</td></tr><tr><td>Barcelona</td><td>456,03 €</td></tr><tr><td>Bilbao</td><td>384,97 €</td></tr></tbody></table></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Las placas compensan más si:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Vives en una zona soleada</strong> y tienes un tejado orientado al sur, sin sombras.</li>\n\n\n\n<li><strong>Consumes durante el día</strong>: teletrabajo, aire acondicionado en verano, <a href=\"https://tuluzencasa.com/cuanto-consume-lavadora/\">lavadora</a> con sol.</li>\n\n\n\n<li><strong>Tu consumo es alto</strong>, o va a crecer: una bomba de calor o un coche eléctrico que cargues en casa.</li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Compensan menos si gastas muy poco, si casi todo tu consumo es de noche o si el tejado tiene sombras. En ese caso, empieza por bajar el consumo: mira <a href=\"https://tuluzencasa.com/tramos-horarios-luz/\">los tramos horarios de la luz</a> para mover aparatos a horas baratas, y revisa si te sobra potencia con la <a href=\"https://tuluzencasa.com/calculadora-potencia-contratada/\">calculadora de potencia contratada</a>.</p>\n\n\n\n<h2 id=\"comunidad\" class=\"wp-block-heading\">En un piso: el autoconsumo compartido</h2>\n\n\n\n<p class=\"wp-block-paragraph\">En un bloque de pisos el tejado es de la comunidad. La <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906\" target=\"_blank\" rel=\"noopener\">Ley de Propiedad Horizontal</a> permite aprobar la instalación de sistemas de energías renovables, comunes o privativos, con el voto de un tercio de los propietarios que representen un tercio de las cuotas, a petición de cualquier propietario. Si la instalación es para varios vecinos, el Real Decreto 244/2019 lo llama autoconsumo colectivo, y todos tienen que firmar un acuerdo de reparto de la energía.</p>\n\n\n\n<h2 id=\"seguridad\" class=\"wp-block-heading\">Seguridad y trámites</h2>\n\n\n\n<p class=\"wp-block-paragraph\">La instalación de placas es una instalación eléctrica en tu casa y tiene que hacerla una empresa instaladora habilitada, que debe legalizarla según el Reglamento Electrotécnico de Baja Tensión. No conectes por tu cuenta paneles ni inversores a un enchufe: pueden devolver tensión a la instalación y es peligroso para ti y para quien trabaje en la red. Antes de firmar, pide que el presupuesto incluya la legalización y los trámites con la distribuidora.</p>\n\n\n\n<h2 id=\"preguntas-frecuentes\" class=\"wp-block-heading\">Preguntas frecuentes</h2>\n\n\n\n<h3 class=\"wp-block-heading\">¿Cuánto producen las placas solares en invierno?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Bastante menos que en verano. En Madrid, según PVGIS, 1 kWp produce en diciembre algo más de la mitad que en julio. Por eso en invierno sigues comprando buena parte de la energía a la red.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Me pagan por la energía que sobra?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Con la compensación simplificada no te pagan en dinero: te la descuentan de la energía de la factura de ese mes, y el descuento no puede pasar del importe de la energía que has comprado.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Necesito baterías?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">No son obligatorias. Sirven para usar de noche lo que sobra de día, pero encarecen la instalación. Haz primero las cuentas sin baterías.</p>\n\n\n\n<h3 class=\"wp-block-heading\">¿Puedo poner placas en un piso?</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Sí, si la comunidad lo aprueba. Basta con un tercio de los propietarios que sumen un tercio de las cuotas, y se puede hacer autoconsumo colectivo con otros vecinos.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Calcula tu caso exacto con <a href=\"https://tuluzencasa.com/calculadora-consumo-electrico/\">nuestra calculadora de consumo</a></strong>: mira cuánto consumes al mes y en qué horas, y sabrás qué parte podrían cubrir las placas.</p>\n\n",
+  "protected": false,
+  "block_version": 1
+ },
+ "excerpt": {
+  "raw": "Placas solares en casa: 3 kWp en Madrid producen unos 4.865 kWh al año y ahorran unos 466,59 € con compensación de excedentes. Cuándo compensan.",
+  "rendered": "<p>Placas solares en casa: 3 kWp en Madrid producen unos 4.865 kWh al año y ahorran unos 466,59 € con compensación de excedentes. Cuándo compensan.</p>\n",
+  "protected": false
+ },
+ "author": 1,
+ "featured_media": 142,
+ "comment_status": "closed",
+ "ping_status": "closed",
+ "sticky": false,
+ "template": "",
+ "format": "standard",
+ "meta": {
+  "footnotes": ""
+ },
+ "categories": [
+  8
+ ],
+ "tags": [],
+ "permalink_template": "https://tuluzencasa.com/%postname%/",
+ "generated_slug": "placas-solares-en-casa-como-funciona-el-autoconsumo-y-cuando-compensa",
+ "class_list": [
+  "post-136",
+  "post",
+  "type-post",
+  "status-publish",
+  "format-standard",
+  "has-post-thumbnail",
+  "hentry",
+  "category-placas-solares"
+ ],
+ "_links": {
+  "self": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136",
+    "targetHints": {
+     "allow": [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts"
+   }
+  ],
+  "about": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/types/post"
+   }
+  ],
+  "author": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/users/1"
+   }
+  ],
+  "replies": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/comments?post=136"
+   }
+  ],
+  "version-history": [
+   {
+    "count": 3,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136/revisions"
+   }
+  ],
+  "predecessor-version": [
+   {
+    "id": 261,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136/revisions/261"
+   }
+  ],
+  "wp:featuredmedia": [
+   {
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media/142"
+   }
+  ],
+  "wp:attachment": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/media?parent=136"
+   }
+  ],
+  "wp:term": [
+   {
+    "taxonomy": "category",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/categories?post=136"
+   },
+   {
+    "taxonomy": "post_tag",
+    "embeddable": true,
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/tags?post=136"
+   }
+  ],
+  "wp:action-publish": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136"
+   }
+  ],
+  "wp:action-unfiltered-html": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136"
+   }
+  ],
+  "wp:action-sticky": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136"
+   }
+  ],
+  "wp:action-assign-author": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136"
+   }
+  ],
+  "wp:action-create-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136"
+   }
+  ],
+  "wp:action-assign-categories": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136"
+   }
+  ],
+  "wp:action-create-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136"
+   }
+  ],
+  "wp:action-assign-tags": [
+   {
+    "href": "https://tuluzencasa.com/wp-json/wp/v2/posts/136"
+   }
+  ],
+  "curies": [
+   {
+    "name": "wp",
+    "href": "https://api.w.org/{rel}",
+    "templated": true
+   }
+  ]
+ }
+}

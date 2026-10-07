@@ -1,0 +1,1128 @@
+{
+ "menus": [
+  {
+   "id": 22,
+   "description": "",
+   "name": "Legal",
+   "slug": "legal",
+   "meta": [],
+   "locations": [],
+   "auto_add": false,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus/22",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/taxonomies/nav_menu"
+     }
+    ],
+    "wp:post_type": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items?menus=22"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 21,
+   "description": "",
+   "name": "Principal",
+   "slug": "principal",
+   "meta": [],
+   "locations": [
+    "primary"
+   ],
+   "auto_add": false,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus/21",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/taxonomies/nav_menu"
+     }
+    ],
+    "wp:post_type": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items?menus=21"
+     }
+    ],
+    "wp:menu-location": [
+     {
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-locations/primary"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": 38,
+   "title": {
+    "raw": "Consumo de aparatos",
+    "rendered": "Consumo de aparatos"
+   },
+   "status": "publish",
+   "url": "https://tuluzencasa.com/consumo/",
+   "attr_title": "",
+   "description": "Cuánto gasta cada electrodoméstico de tu casa en kWh y en euros al mes, con tablas y calculadora.",
+   "type": "taxonomy",
+   "type_label": "Categoría",
+   "object": "category",
+   "object_id": 3,
+   "parent": 0,
+   "menu_order": 1,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/38",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=38"
+     }
+    ],
+    "wp:menu-item-object": [
+     {
+      "taxonomy": "category",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/categories/3"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/38"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/38"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/38"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/38"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 132,
+   "title": {
+    "raw": "Factura y tarifas",
+    "rendered": "Factura y tarifas"
+   },
+   "status": "publish",
+   "url": "https://tuluzencasa.com/factura-luz/",
+   "attr_title": "",
+   "description": "",
+   "type": "taxonomy",
+   "type_label": "Categoría",
+   "object": "category",
+   "object_id": 4,
+   "parent": 0,
+   "menu_order": 2,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/132",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=132"
+     }
+    ],
+    "wp:menu-item-object": [
+     {
+      "taxonomy": "category",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/categories/4"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/132"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/132"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/132"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/132"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 78,
+   "title": {
+    "raw": "Calefacción y aire",
+    "rendered": "Calefacción y aire"
+   },
+   "status": "publish",
+   "url": "https://tuluzencasa.com/climatizacion/",
+   "attr_title": "",
+   "description": "",
+   "type": "taxonomy",
+   "type_label": "Categoría",
+   "object": "category",
+   "object_id": 7,
+   "parent": 0,
+   "menu_order": 3,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/78",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=78"
+     }
+    ],
+    "wp:menu-item-object": [
+     {
+      "taxonomy": "category",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/categories/7"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/78"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/78"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/78"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/78"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 151,
+   "title": {
+    "raw": "Más temas",
+    "rendered": "Más temas"
+   },
+   "status": "publish",
+   "url": "#",
+   "attr_title": "",
+   "description": "",
+   "type": "custom",
+   "type_label": "Enlace personalizado",
+   "object": "custom",
+   "object_id": 151,
+   "parent": 0,
+   "menu_order": 4,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/151",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=151"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/151"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/151"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/151"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/151"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 152,
+   "title": {
+    "raw": "Ahorrar luz",
+    "rendered": "Ahorrar luz"
+   },
+   "status": "publish",
+   "url": "https://tuluzencasa.com/ahorro/",
+   "attr_title": "",
+   "description": "",
+   "type": "taxonomy",
+   "type_label": "Categoría",
+   "object": "category",
+   "object_id": 5,
+   "parent": 151,
+   "menu_order": 5,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/152",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=152"
+     }
+    ],
+    "wp:menu-item-object": [
+     {
+      "taxonomy": "category",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/categories/5"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/152"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/152"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/152"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/152"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 153,
+   "title": {
+    "raw": "Placas solares",
+    "rendered": "Placas solares"
+   },
+   "status": "publish",
+   "url": "https://tuluzencasa.com/placas-solares/",
+   "attr_title": "",
+   "description": "",
+   "type": "taxonomy",
+   "type_label": "Categoría",
+   "object": "category",
+   "object_id": 8,
+   "parent": 151,
+   "menu_order": 6,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/153",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=153"
+     }
+    ],
+    "wp:menu-item-object": [
+     {
+      "taxonomy": "category",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/categories/8"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/153"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/153"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/153"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/153"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 154,
+   "title": {
+    "raw": "Coche eléctrico",
+    "rendered": "Coche eléctrico"
+   },
+   "status": "publish",
+   "url": "https://tuluzencasa.com/coche-electrico/",
+   "attr_title": "",
+   "description": "",
+   "type": "taxonomy",
+   "type_label": "Categoría",
+   "object": "category",
+   "object_id": 9,
+   "parent": 151,
+   "menu_order": 7,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/154",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=154"
+     }
+    ],
+    "wp:menu-item-object": [
+     {
+      "taxonomy": "category",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/categories/9"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/154"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/154"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/154"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/154"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 37,
+   "title": {
+    "raw": "Averías e instalación",
+    "rendered": "Averías e instalación"
+   },
+   "status": "publish",
+   "url": "https://tuluzencasa.com/instalacion/",
+   "attr_title": "",
+   "description": "Por qué salta el diferencial, qué es el boletín eléctrico y cuándo necesitas un instalador autorizado.",
+   "type": "taxonomy",
+   "type_label": "Categoría",
+   "object": "category",
+   "object_id": 6,
+   "parent": 151,
+   "menu_order": 8,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/37",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=37"
+     }
+    ],
+    "wp:menu-item-object": [
+     {
+      "taxonomy": "category",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/categories/6"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/37"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/37"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/37"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/37"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 183,
+   "title": {
+    "raw": "Calculadoras",
+    "rendered": "Calculadoras"
+   },
+   "status": "publish",
+   "url": "#",
+   "attr_title": "",
+   "description": "",
+   "type": "custom",
+   "type_label": "Enlace personalizado",
+   "object": "custom",
+   "object_id": 183,
+   "parent": 0,
+   "menu_order": 9,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/183",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=183"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/183"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/183"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/183"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/183"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 184,
+   "title": {
+    "raw": "Calculadora de consumo eléctrico",
+    "rendered": "Calculadora de consumo eléctrico"
+   },
+   "status": "publish",
+   "url": "https://tuluzencasa.com/calculadora-consumo-electrico/",
+   "attr_title": "",
+   "description": "",
+   "type": "post_type",
+   "type_label": "Página",
+   "object": "page",
+   "object_id": 156,
+   "parent": 183,
+   "menu_order": 10,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/184",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=184"
+     }
+    ],
+    "wp:menu-item-object": [
+     {
+      "post_type": "page",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/pages/156"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/184"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/184"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/184"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/184"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 185,
+   "title": {
+    "raw": "Calculadora de potencia contratada",
+    "rendered": "Calculadora de potencia contratada"
+   },
+   "status": "publish",
+   "url": "https://tuluzencasa.com/calculadora-potencia-contratada/",
+   "attr_title": "",
+   "description": "",
+   "type": "post_type",
+   "type_label": "Página",
+   "object": "page",
+   "object_id": 102,
+   "parent": 183,
+   "menu_order": 11,
+   "target": "",
+   "classes": [
+    ""
+   ],
+   "xfn": [
+    ""
+   ],
+   "invalid": false,
+   "meta": [],
+   "menus": 21,
+   "_links": {
+    "self": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/185",
+      "targetHints": {
+       "allow": [
+        "GET",
+        "POST",
+        "PUT",
+        "PATCH",
+        "DELETE"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items"
+     }
+    ],
+    "about": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/types/nav_menu_item"
+     }
+    ],
+    "wp:term": [
+     {
+      "taxonomy": "nav_menu",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menus?post=185"
+     }
+    ],
+    "wp:menu-item-object": [
+     {
+      "post_type": "page",
+      "embeddable": true,
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/pages/102"
+     }
+    ],
+    "wp:action-publish": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/185"
+     }
+    ],
+    "wp:action-unfiltered-html": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/185"
+     }
+    ],
+    "wp:action-create-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/185"
+     }
+    ],
+    "wp:action-assign-menus": [
+     {
+      "href": "https://tuluzencasa.com/wp-json/wp/v2/menu-items/185"
+     }
+    ],
+    "curies": [
+     {
+      "name": "wp",
+      "href": "https://api.w.org/{rel}",
+      "templated": true
+     }
+    ]
+   }
+  }
+ ]
+}
