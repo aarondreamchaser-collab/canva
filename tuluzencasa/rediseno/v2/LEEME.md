@@ -1,6 +1,6 @@
 # Rediseño 2 de tuluzencasa (aprobado, 7-10-2026)
 
-**Estado: aprobado con cambios (sin subtítulo). Pendiente de pegar en WPCode, paso a paso.** Las capturas están hechas sobre el HTML real publicado, con el CSS, la plantilla, los fragmentos y la portada nuevos.
+**Estado: aplicado el 7-10-2026.** CSS, plantilla y banners pegados por el titular. «Efectos» arreglado (con `</script>`). Portada v2 (la clara) subida a la página 23. La variante futurista no se usa. Las capturas están hechas sobre el HTML real publicado, con el CSS, la plantilla, los fragmentos y la portada nuevos.
 
 ## Referencias
 Webs profesionales del sector, revisadas el 7-10-2026: NerdWallet, EnergySage y Kelisto (portada y artículo), y Rastreator. Se copia la **organización**, no el diseño ni los textos:
@@ -77,3 +77,14 @@ Webs profesionales del sector, revisadas el 7-10-2026: NerdWallet, EnergySage y 
   - Mismos textos, enlaces y cifras que la v2.
 - **Comprobado:** 89 bloques válidos, CLS 0 y sin desbordes en 1280, 820 y 390 px.
 - **Para aplicarla:** Claude sube `portada-v3.html` a la página 23 en vez de `portada-v2.html`, con la copia previa ya guardada. Es el mismo paso 4. No hace falta tocar WPCode.
+
+## Aplicado (7-10-2026)
+- **«Efectos tuluzencasa»:** el titular añadió el `</script>`. Comprobado en la web: el script cierra, no hay errores y los fragmentos 31 y 109 se cargan en todas las páginas.
+- **Calculadoras publicadas:** comprobadas en la web en 1280 y 390 px.
+  - Potencia: 25 aparatos y 7 potencias. Marcar y cambiar la potencia funciona; da 0,34 kW, recomienda 2,3 kW y 96,09 €/año.
+  - Consumo: 33 aparatos. Añadir, ejemplo (58,78 €/mes) y cambiar la potencia funcionan.
+  - Sin errores de JavaScript.
+- **Portada v2 subida a la página 23:** sigue publicada; el contenido guardado es igual a `portada-v2.html`.
+  - **Copias:** `copia-seguridad/2026-10-07-rediseno2/pagina-23-portada.html` y `pagina-23-portada-antes-de-subir.html` (idénticas).
+  - **Comprobada en la web en 1280, 820 y 390 px:** CLS 0, sin desbordes, sin imágenes rotas y sin errores. Aparecen todas las secciones (ejemplo con 5 aparatos, buscador, 8 temas, 5 guías, 6 últimos, método, llamada final, pie y franja). Capturas en `capturas/publicada/`.
+- **Calculadoras v3:** quedan preparadas en `../../calculadoras-v3/` para después de la aprobación de AdSense. Las páginas 156 y 102 no se tocan hasta entonces.
