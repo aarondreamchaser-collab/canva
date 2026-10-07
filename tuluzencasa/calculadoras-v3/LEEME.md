@@ -1,6 +1,6 @@
 # Calculadoras v3 (propuesta, 7-10-2026)
 
-**Estado: probadas en vista previa sobre la web publicada. No se ha aplicado nada.**
+**Estado: publicadas el 7-10-2026** (fragmentos 309 y 310; páginas 102 y 156).
 
 ## Qué hay de nuevo
 
@@ -90,3 +90,22 @@ Si la web no muestra el cambio, se vacía la caché de EasyWP y se vuelve a comp
   3. El titular desactiva los fragmentos v3.
 - **Enlaces compartidos:** los guardados con la calculadora antigua (`#calc=…`) siguen abriendo en la v3.
 
+
+## Activación (7-10-2026)
+- **Paso 0 y 2:**
+  - «Efectos» cerrado y fragmentos 309 y 310 cargados, idénticos a los `.min.js` y sin errores.
+  - **Incidencia:** los fragmentos antiguos 31 y 109 no se cargaban en ninguna página, aunque figuraban como activos. Las dos calculadoras antiguas salían vacías.
+  - El titular eligió seguir sin esperar (opción 2).
+- **Página 102 (potencia):** copia en `rediseno/copia-seguridad/2026-10-07-calculadoras-v3/`, rehecha desde el contenido del día (era idéntico al preparado) y subida; sigue publicada. Probada en la web a 1280, 820 y 390 px:
+  - Funciones: 25 interruptores, 7 potencias, marcar, ×2, cambio de potencia, situaciones, otro aparato, rearmar y «Encender uno a uno».
+  - Cifras: 0,34 kW recomienda 2,3 kW (96,09 €/año).
+  - Calidad: CLS 0, sin errores y sin desbordes.
+- **Página 156 (consumo):** igual. Probada en la web a 1280, 820 y 390 px:
+  - Ejemplo: 58,78 €/mes y pico de 5,27 kW.
+  - Funciones: encender, ajustar y hora, tarifa por horas, asistente (3 aparatos, unos 84 €/año), escenarios, habitación, tu factura y hogares tipo.
+  - Calidad: CLS 0,005 o menos, sin errores y sin desbordes.
+- **Respaldo:** el código original de 31 y 109, tal como lo servía la web esa mañana, está en `respaldo-antiguas/`. El de 31 es idéntico a `calculadora.js`.
+- **Volver atrás:**
+  1. Activar los respaldos.
+  2. Subir las copias de las páginas.
+  3. Desactivar 309 y 310.
