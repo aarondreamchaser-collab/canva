@@ -20,9 +20,9 @@ Lo propio de Andalucía es otra cosa:
 
 ## Quién te lleva la luz: la distribuidora {#distribuidora}
 
-La distribuidora es la dueña de los cables y del contador de tu zona. No la eliges y no cambia aunque cambies de compañía. Según la Agencia Andaluza de la Energía, en Andalucía trabajan 71 distribuidoras, pero una sola, Edistribución Redes Digitales, del grupo Endesa, atiende a la gran mayoría de los clientes [VERIFICAR: dato del 94 % de clientes en la web de la Agencia Andaluza de la Energía, que no se ha podido abrir el 7-10-2026].
+La distribuidora es la dueña de los cables y del contador de tu zona. No la eliges, depende de dónde vivas, y no cambia aunque cambies de compañía. Tampoco cambia lo que pagas: los peajes de la red los fija la CNMC y son iguales para todas las distribuidoras.
 
-Para saber cuál es la tuya, mira la factura: aparece su nombre y su teléfono de averías. También te lo dicen los cuatro números que van detrás de «ES» en el CUPS; si son 0031, es Edistribución. Te explicamos cómo leerlo en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+Para saber cuál es la tuya, mira la factura: aparece su nombre y su teléfono gratuito de averías. En el CUPS, los cuatro números que van detrás de «ES» son el código de la distribuidora. Los de las tres grandes son 0031 (Edistribución, grupo Endesa), 0021 (i-DE, grupo Iberdrola) y 0022 (UFD, grupo Naturgy); si ves otro, es una distribuidora más pequeña o local. Te explicamos cómo leerlo en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
 
 ## El clima de Andalucía, provincia a provincia {#clima}
 
@@ -84,7 +84,7 @@ No. El precio, los peajes y los impuestos son los mismos que en el resto de la p
 
 ### ¿Qué distribuidora tengo en Andalucía?
 
-En la mayor parte de la comunidad, Edistribución. Lo confirmas en tu factura o en el CUPS: si empieza por ES0031, es ella.
+Lo pone en tu factura, junto a su teléfono de averías. También lo dice tu CUPS: los cuatro números que siguen a «ES» son el código de la distribuidora, por ejemplo 0031 para Edistribución.
 
 ### ¿Dónde se registra el boletín eléctrico en Andalucía?
 
@@ -100,6 +100,6 @@ Fuentes oficiales consultadas el 7 de octubre de 2026:
 - <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS, Comisión Europea</a>: producción de 1 kWp a 30° orientado al sur en cada capital.
 - Junta de Andalucía: <a href="https://www.juntadeandalucia.es/organismos/industriaenergiayminas/areas/industria/instalaciones/paginas/instalaciones-liberalizadas.html" target="_blank" rel="noopener">instalaciones que no requieren autorización previa</a> y <a href="https://www.juntadeandalucia.es/sites/default/files/inline-files/2023/03/Preguntas_inst_electricas%20-PUES-TECI_v1.4_rev.Sev_.En_.pdf" target="_blank" rel="noopener">preguntas frecuentes sobre PUES y TECI</a>.
 - <a href="https://www.consumoresponde.es/solicitar-arbitraje-consumo" target="_blank" rel="noopener">Consumo Responde, arbitraje de consumo</a>.
-- <a href="https://www.agenciaandaluzadelaenergia.es/es/node/422" target="_blank" rel="noopener">Agencia Andaluza de la Energía, distribución eléctrica</a>.
+- Códigos de las distribuidoras: <a href="http://cataleg.gecoplus.gencat.cat/permalink/acd1cd99-acaa-11ea-9205-005056924a59.pdf" target="_blank" rel="noopener">lista oficial de empresas distribuidoras con su código</a> de la Generalitat de Catalunya.
 
 <strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu aire acondicionado, tu termo y el resto de aparatos, y mira cuánto pesa cada uno.

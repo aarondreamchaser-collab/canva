@@ -823,16 +823,14 @@
   "excerpt": "Luz en Andalucía: 3 kWp de placas producen unos 5.000 kWh al año en cualquier capital, y el agua caliente cuesta menos que en el resto de España.",
   "category": "luz-por-comunidades",
   "keyword": "luz en Andalucía",
-  "words": 1835,
+  "words": 1855,
   "excerpt_len": 145,
   "h2": 8,
   "anclas_unicas": true,
   "kw_primera_frase": true,
   "kw_en_h2": true,
   "importes_sin_calculo": [],
-  "marcas": [
-   "[VERIFICAR: dato del 94 % de clientes en la web de la Agencia Andaluza de la Energía, que no se ha podido abrir el 7-10-2026]"
-  ],
+  "marcas": [],
   "enlaces": [
    "https://tuluzencasa.com/bono-social-electrico/",
    "https://tuluzencasa.com/que-es-el-cups/",
@@ -842,7 +840,7 @@
    "https://www.juntadeandalucia.es/organismos/industriaenergiayminas/areas/industria/instalaciones/paginas/instalaciones-liberalizadas.html",
    "https://www.juntadeandalucia.es/sites/default/files/inline-files/2023/03/Preguntas_inst_electricas%20-PUES-TECI_v1.4_rev.Sev_.En_.pdf",
    "https://www.consumoresponde.es/solicitar-arbitraje-consumo",
-   "https://www.agenciaandaluzadelaenergia.es/es/node/422",
+   "http://cataleg.gecoplus.gencat.cat/permalink/acd1cd99-acaa-11ea-9205-005056924a59.pdf",
    "https://tuluzencasa.com/calculadora-consumo-electrico/"
   ]
  },
@@ -880,16 +878,14 @@
   "excerpt": "Luz en Madrid: la capital está en zona D3, el agua llega a 8 °C en enero y 3 kWp de placas ahorran unos 466,59 € al año. Trámites y reclamaciones.",
   "category": "luz-por-comunidades",
   "keyword": "luz en Madrid",
-  "words": 1400,
+  "words": 1435,
   "excerpt_len": 146,
   "h2": 8,
   "anclas_unicas": true,
   "kw_primera_frase": true,
   "kw_en_h2": true,
   "importes_sin_calculo": [],
-  "marcas": [
-   "[VERIFICAR: reparto de distribuidoras en la Comunidad de Madrid en una fuente oficial]"
-  ],
+  "marcas": [],
   "enlaces": [
    "https://tuluzencasa.com/bono-social-electrico/",
    "https://tuluzencasa.com/que-es-el-cups/",
