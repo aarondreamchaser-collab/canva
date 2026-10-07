@@ -81,7 +81,7 @@
 @media (prefers-reduced-motion:no-preference){.wp-block-button__link:active,.tl-calc .tl-ir a:active,.tlb-bt:active,.tlc-btn:not(.tlc-btn--x):active,.tlc-widget-calculadoras a:active,.tlc-btn-s:active,.tlp-btn-s:active,.tlc-btn--x:active{transform:translateY(1px) scale(.97)!important;box-shadow:none!important;transition-duration:.06s}}
 :is(.wp-block-button__link,.tl-calc .tl-ir a,.tlb-bt,.tlc-btn:not(.tlc-btn--x),.tlc-widget-calculadoras a,.tlc-btn-s,.tlp-btn-s,.tlc-btn--x,.tlb-arriba,.tlb-fijo,.tlb-cerrar):focus-visible{outline:3px solid #F2C230;outline-offset:2px}
 /* 13. Enlaces del texto y menú */
-.single .entry-content :is(p,li,td) a:not([class]):not(.tl-rel a){background-image:linear-gradient(#F2C230,#F2C230);background-position:0 100%;background-size:0 3px;background-repeat:no-repeat;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.entry-content :is(p,li,td) a:not([class]):not(.tl-rel a){background:linear-gradient(#F2C230,#F2C230) 0 100%/0 3px no-repeat;-webkit-box-decoration-break:clone;box-decoration-break:clone}
 @media (min-width:1025px){
 .main-navigation .main-nav>ul>li>a{position:relative}
 .main-navigation .main-nav>ul>li>a::after{content:"";position:absolute;left:8px;right:8px;bottom:12px;height:3px;border-radius:3px;background:#F2C230;transform:scaleX(0);transform-origin:0 50%;transition:transform .25s ease}
@@ -96,8 +96,8 @@
 .wp-block-button__link:hover::before,.tl-calc .tl-ir a:hover::before,.tlb-bt:hover::before,.tlc-btn:not(.tlc-btn--x):hover::before,.tlc-widget-calculadoras a:hover::before{animation:tlb-cruza .7s ease-out}
 .tlc-btn-s:hover,.tlp-btn-s:hover,.tlc-btn--x:hover{transform:translateY(-2px);border-color:#F2C230!important}
 .tl-botones .wp-block-button__link:hover::after,.tl-calc .tl-ir a:hover::after,.sidebar .tlc-widget-calculadoras a:hover::after,.tlb-bt:hover .tlb-fl{transform:translateX(5px)}
-.single .entry-content :is(p,li,td) a:not([class]):not(.tl-rel a){transition:background-size .3s ease,text-decoration-color .3s}
-.single .entry-content :is(p,li,td) a:not([class]):not(.tl-rel a):hover{background-size:100% 3px;text-decoration-color:transparent}
+.entry-content :is(p,li,td) a:not([class]):not(.tl-rel a){transition:background-size .3s ease,text-decoration-color .3s}
+.entry-content :is(p,li,td) a:not([class]):not(.tl-rel a):hover{background-size:100% 3px;text-decoration-color:transparent}
 .entry-content .wp-block-table tbody tr{transition:background-color .2s}
 .entry-content .wp-block-table tbody tr:hover{background-color:#F2C2301f}
 .tl-rel li img,.tl-ultimos .wp-block-post-featured-image img{transition:transform .45s ease}
@@ -325,19 +325,6 @@ function listo(){
     }
   }
 
-
-  /* 12. Índice lateral: marca la sección que estás leyendo */
-  var toc=[].slice.call(d.querySelectorAll('.tl-toc a[href^="#"]'));
-  if(toc.length&&W.IntersectionObserver){
-    var porId={},vis={};
-    toc.forEach(function(a){var t=d.getElementById(decodeURIComponent(a.hash.slice(1)));if(t)porId[t.id]=a});
-    var marca=function(){var ids=Object.keys(porId),act=null;
-      for(var k=0;k<ids.length;k++){var t=d.getElementById(ids[k]);if(t.getBoundingClientRect().top<innerHeight*0.35)act=ids[k]}
-      toc.forEach(function(a){a.classList.toggle('on',porId[act]===a)})};
-    var io4=new IntersectionObserver(marca,{rootMargin:'0px 0px -60% 0px'});
-    Object.keys(porId).forEach(function(i){io4.observe(d.getElementById(i))});
-    marca();
-  }
   /* 9. Volver arriba */
   var up=el('button','tlb-arriba',RAYO.replace('M13 2 4 14h7l-1 8 9-12h-7l1-8z','M12 3 5 11h4v10h6V11h4z'));up.type='button';up.setAttribute('aria-label','Volver arriba');B.appendChild(up);
   up.addEventListener('click',function(){scrollTo({top:0,behavior:RM?'auto':'smooth'})});
