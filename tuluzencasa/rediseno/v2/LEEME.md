@@ -63,3 +63,17 @@ Webs profesionales del sector, revisadas el 7-10-2026: NerdWallet, EnergySage y 
 ## Deshacer
 - **CSS, PHP y banners:** pegar las copias de `copia-seguridad/2026-10-07-rediseno2/` (`banners-antes.html`, `plantilla-antes.php`, `diseno-publicado.css`) o el código anterior de cada fragmento.
 - **Portada:** volver a subir `copia-seguridad/2026-10-07-rediseno2/pagina-23-portada.html`.
+
+## Variante futurista de la portada (propuesta, 7-10-2026)
+- **Archivos:** `portada-v3.html` (generada con `generar_portada_v3.py`). Capturas: `capturas/futurista-portada-{1280,820,390}.jpg`.
+- **Qué cambia:**
+  - La cabecera de la portada pasa a ser oscura, tipo «sala de control», con rejilla y brillos.
+  - Lleva una casa isométrica 3D con las habitaciones iluminadas y «cables» de energía animados hasta el contador.
+  - La tarjeta «Lo que cuesta cada aparato al mes» pasa a ser de cristal.
+  - El resto de la portada no cambia.
+- **Cómo está hecha:**
+  - Solo SVG y CSS, dentro del contenido de la página. Sin JavaScript, sin `<script>` y sin librerías 3D.
+  - Las animaciones se paran con «reducir movimiento».
+  - Mismos textos, enlaces y cifras que la v2.
+- **Comprobado:** 89 bloques válidos, CLS 0 y sin desbordes en 1280, 820 y 390 px.
+- **Para aplicarla:** Claude sube `portada-v3.html` a la página 23 en vez de `portada-v2.html`, con la copia previa ya guardada. Es el mismo paso 4. No hace falta tocar WPCode.

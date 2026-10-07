@@ -65,7 +65,7 @@ def render_bloques(b, home_base):
 
 home = (BASE / 'home.html').read_text()
 s = php({'tipo': 'page', 'slug': 'inicio', 'cats': CATS})
-portada = render_bloques((V2 / 'portada-v2.html').read_text(), home)
+portada = render_bloques((V2 / os.environ.get('PORTADA', 'portada-v2.html')).read_text(), home)
 a = home.index('<div class="entry-content" itemprop="text">') + len('<div class="entry-content" itemprop="text">')
 b = home.index('</article>', a)
 fin = home.rfind('</div>', a, b)
