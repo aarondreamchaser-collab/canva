@@ -1,0 +1,91 @@
+title: Alta de luz en una vivienda: pasos, derechos de acometida y plazos
+title_seo: Alta de luz en una vivienda: pasos, costes y plazos
+excerpt: Alta de luz: con 4,6 kW, los derechos regulados suman hasta 217,32 € con IVA. Pasos, plazos máximos de la distribuidora y qué pasa si no los cumple.
+category: tramites
+keyword: alta de luz
+linea_fecha: no
+---
+Para el alta de luz en una vivienda necesitas el boletín de la instalación y un contrato con una comercializadora; si la casa nunca ha tenido luz, antes la distribuidora tiene que conectarla. Con 4,6 kW, los derechos regulados de una vivienda nueva suman hasta 217,32 € con IVA, y la distribuidora tiene plazos máximos que, si no cumple, te obligan a compensarte.
+
+Los importes son los derechos de acometida que fija el Ministerio, más el IVA del 21 %. No dependen de la comercializadora que elijas.
+
+## Alta de luz: los dos casos {#casos}
+
+No es lo mismo una vivienda que nunca ha tenido luz que una que la tuvo y se dio de baja:
+
+- <strong>Vivienda nueva, sin suministro</strong>: la distribuidora de la zona tiene que darte un punto de conexión y, si hace falta, ampliar la red. Es el caso de las casas recién construidas.
+- <strong>Vivienda que ya tuvo luz</strong>: el punto de suministro existe y tiene su CUPS. Basta con contratar y que la distribuidora vuelva a enganchar. Si la red y la instalación no cambian, el proceso es mucho más corto.
+
+Si lo que quieres es poner a tu nombre un contrato que sigue activo, no es un alta: es un cambio de titular, y es gratis.
+
+Hay un tercer caso, el <strong>suministro eventual o de temporada</strong>, como la luz de una obra o de una caseta de feria. Ahí pagas el montaje y el desmontaje de la instalación necesaria, pero la distribuidora no puede cobrarte derechos de acceso. Y si es de temporada y vuelven a darte tensión sin que la instalación haya cambiado, el enganche se reduce hasta una quinta parte.
+
+## Pasos para dar de alta la luz {#pasos}
+
+- <strong>1. El boletín</strong>: un instalador autorizado revisa o hace la instalación y emite el certificado de instalación eléctrica, que se registra en tu comunidad autónoma. Sin él, la distribuidora no puede conectar. Te explicamos cuándo hace falta uno nuevo en <a href="https://tuluzencasa.com/boletin-electrico/">boletín eléctrico</a>.
+- <strong>2. La solicitud a la distribuidora</strong>, si la vivienda es nueva: te dice el punto de suministro y las condiciones técnicas y económicas, con el detalle de los derechos de acometida.
+- <strong>3. El pago de los derechos</strong>, y en su caso las obras de la red.
+- <strong>4. El contrato</strong> con la comercializadora que elijas, con la potencia que necesites. Para elegirla bien, mira <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+- <strong>5. El enganche</strong>: la distribuidora conecta la instalación y deja el contador funcionando.
+
+## Cuánto cuesta dar de alta la luz {#coste}
+
+Los derechos que puede cobrar la distribuidora en baja tensión están en el anexo V de la Orden ITC/3519/2009: extensión, 17,374714 € por kW; acceso, 19,703137 € por kW; enganche, 9,044760 €, y verificación, 8,011716 €. Para una vivienda nueva en la que la distribuidora hace la extensión:
+
+{{T:al_derechos}}
+
+Derechos vigentes en octubre de 2026.
+
+Cuándo se paga cada uno:
+
+- <strong>Extensión</strong>: cuando la distribuidora hace la red nueva para atender suministros de hasta 100 kW en baja tensión en suelo urbanizado. Si la vivienda tuvo luz y se dio de baja hace menos de tres años, los derechos de extensión de esa potencia siguen vigentes y no se pagan otra vez.
+- <strong>Verificación</strong>: no se cobra si la instalación necesitó proyecto y certificado final de obra.
+- <strong>Obras fuera de esos casos</strong>: si la vivienda está en suelo que no está urbanizado, o la red hay que hacerla a medida, no se aplican los derechos de extensión: la distribuidora te da un presupuesto por separado, y esas obras las puede hacer ella o una empresa instaladora autorizada.
+
+La distribuidora puede decidir no cobrar el enganche o la verificación, pero entonces tiene que hacerlo con todos sus clientes.
+
+{{CAJA:Dato clave}}
+La distribuidora tiene que justificarte por escrito los derechos de acometida que te cobra, cómo los ha calculado y su plazo de vigencia, que es de al menos tres meses desde que te los comunica.
+{{/CAJA}}
+
+## Plazos máximos de la distribuidora {#plazos}
+
+El Real Decreto 1955/2000 fija lo que puede tardar la distribuidora en cada paso, en días hábiles:
+
+{{T:al_plazos}}
+
+En esos plazos no cuenta el tiempo para conseguir permisos o autorizaciones de obra. Si la distribuidora los incumple, tiene que compensarte en la primera factura con la mayor de estas dos cantidades: 30,05 € o el 10 % de esa primera factura completa, por cada incumplimiento.
+
+## Trucos para que el alta no se retrase {#trucos}
+
+- <strong>Pide el boletín antes que nada</strong>: sin él no se puede hacer el resto del proceso.
+- <strong>Si la vivienda tuvo luz, busca el CUPS</strong> en una factura antigua: es el código que identifica el punto de suministro y lo necesitarás para contratar. Te explicamos dónde encontrarlo en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+- <strong>No pidas más potencia de la que necesitas</strong>: los derechos de extensión y acceso se pagan por kW, y luego pagarás esa potencia todos los meses.
+- <strong>Guarda la fecha</strong> en que firmas el contrato: desde ahí corren los cinco días hábiles para el enganche.
+- <strong>Revisa la primera factura</strong>: si hubo retraso, debe aparecer la compensación.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto cuesta dar de alta la luz?
+
+En una vivienda nueva con 4,6 kW, hasta 217,32 € con IVA en derechos regulados, o 227,01 € si también cobran la verificación. Si la vivienda ya tuvo luz y sus derechos de extensión siguen vigentes, mucho menos.
+
+### ¿Cuánto tarda la distribuidora en dar la luz?
+
+Si no hay que ampliar la red, cinco días hábiles para conectar desde que pagas, y cinco días hábiles para el enganche desde que firmas el contrato. Si hay que ampliar la red, hasta 30 o 60 días hábiles.
+
+### ¿Necesito boletín para dar de alta la luz?
+
+Sí, en una vivienda nueva o con la instalación reformada. Para poner a tu nombre un contrato activo no hace falta.
+
+### ¿Qué pasa si la distribuidora se retrasa?
+
+Tiene que compensarte en la primera factura: 30,05 € o el 10 % de esa factura, lo que sea mayor, por cada incumplimiento.
+
+Fuentes oficiales consultadas el 7 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2009-21173" target="_blank" rel="noopener">Orden ITC/3519/2009</a>, anexo V: cuantía de los derechos de acometida, enganche y verificación.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13767" target="_blank" rel="noopener">Real Decreto 1048/2013</a>, artículos 25, 28 y 29.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2000-24019" target="_blank" rel="noopener">Real Decreto 1955/2000</a>, artículos 103 y 105.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: antes de contratar, mira cuánto gastarán tus aparatos y qué potencia necesitas.

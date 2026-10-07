@@ -1,0 +1,90 @@
+title: Cambio de titular de la luz: cómo hacerlo y qué cuesta
+title_seo: Cambio de titular de la luz: pasos y coste
+excerpt: Cambio de titular de la luz: es gratis y, con justo título, no necesitas la firma del titular anterior. Qué pedir, deudas y bono social.
+category: tramites
+keyword: cambio de titular de la luz
+linea_fecha: no
+---
+El cambio de titular de la luz es gratis: ni la comercializadora ni la distribuidora pueden cobrarte por el contrato nuevo. Si vives en la casa con un justo título, como la escritura o el contrato de alquiler, puedes ponerlo a tu nombre aunque el titular anterior no firme nada, y no heredas sus deudas.
+
+Todo lo que sigue sale del Reglamento de suministro de 2026, el Real Decreto 88/2026, que regula el traspaso y la subrogación de los contratos de luz.
+
+## Cambio de titular de la luz: las dos formas {#formas}
+
+La norma distingue dos caminos para llegar al mismo sitio:
+
+- <strong>Traspaso</strong>: el titular actual, si está al corriente de pago, cede su contrato a la persona que va a usar la luz en las mismas condiciones. Lo comunica a la comercializadora, y el nuevo titular firma el contrato.
+- <strong>Subrogación</strong>: el usuario que vive en la casa con justo título comunica a la comercializadora que acepta las condiciones del contrato. No hace falta que el titular anterior intervenga, y esa aceptación no te obliga a pagar lo que debiera el titular anterior.
+
+Además, si eres tú quien usa la luz con justo título y el contrato sigue a nombre de otra persona, la norma dice que debes ponerlo a tu nombre, estando al corriente de pago, «sin más trámites».
+
+## Casos más habituales {#casos}
+
+{{T:ct_casos}}
+
+- <strong>Si alquilas</strong>: el cambio a tu nombre no se puede tratar como una baja y un alta nueva. Esto importa, porque un alta nueva podría llevar derechos de acometida que en un cambio de titular no se cobran.
+- <strong>Si el contrato es antiguo</strong>: con más de 20 años, la distribuidora no puede pedirte un boletín nuevo ni revisar la instalación por el cambio de titular, siempre que no cambies la potencia ni la modalidad del peaje. Lo explicamos en <a href="https://tuluzencasa.com/boletin-electrico/">boletín eléctrico</a>.
+- <strong>Víctimas de violencia de género o sexual</strong> que viven solas en la vivienda: la norma reconoce como justo título el uso del suministro, acreditando esa condición por los medios previstos en la ley.
+
+## Pasos para cambiar el titular {#pasos}
+
+- <strong>1. Reúne los datos</strong>: el CUPS o una factura reciente de esa vivienda, tus datos y una cuenta bancaria para domiciliar.
+- <strong>2. Ten a mano tu justo título</strong>: el documento que acredita que usas la vivienda, como la escritura de compra, el contrato de alquiler o la documentación de la herencia.
+- <strong>3. Pide el cambio a la comercializadora</strong>, por teléfono, en su web o en una oficina. Ella lo comunica a la distribuidora.
+- <strong>4. Revisa el contrato nuevo</strong>: la potencia, la tarifa y los servicios añadidos que te ofrezcan. No estás obligado a aceptar servicios extra.
+
+Si al cambiar de titular quieres también otra potencia o mejores condiciones, son trámites aparte. Puedes aprovechar para comparar ofertas; te explicamos cómo en <a href="https://tuluzencasa.com/cambiar-compania-luz/">cómo cambiar de compañía de luz</a>.
+
+{{CAJA:Dato clave}}
+El bono social no pasa al nuevo titular. Si el titular anterior lo tenía, se pierde con el cambio, y si lo había pedido y aún no tenía respuesta, la norma lo da por desistido. Si cumples los requisitos, pídelo a tu nombre: lo explicamos en <a href="https://tuluzencasa.com/bono-social-electrico/">bono social eléctrico</a>.
+{{/CAJA}}
+
+## Con el PVPC o en el mercado libre {#pvpc-libre}
+
+El cambio de titular funciona igual en los dos casos, pero la norma lo regula en dos artículos distintos:
+
+- <strong>Con el PVPC</strong>, la tarifa regulada, hablas con la comercializadora de referencia, que formaliza el contrato nuevo. Es el artículo 31 del reglamento.
+- <strong>En el mercado libre</strong>, el contrato de acceso a la red es con la distribuidora, pero puedes hacer el trámite a través de tu comercializadora, que se lo comunica. Es el artículo 39.
+
+En los dos casos el contrato nuevo no tiene coste y no hace falta dar de baja el suministro. Si no sabes qué tipo de contrato tiene la vivienda, lo pone en la factura: el nombre de la comercializadora y si el precio es el PVPC.
+
+## Qué pasa con las deudas del titular anterior {#deudas}
+
+Es la duda más frecuente al comprar o alquilar una casa. La norma separa dos situaciones:
+
+- <strong>Si te subrogas con justo título</strong>, aceptar las condiciones del contrato no implica asumir las obligaciones de pago que pudiera tener el consumidor anterior.
+- <strong>Para el traspaso</strong>, en cambio, el titular que cede el contrato tiene que estar al corriente de pago.
+
+Si te reclaman una deuda que no es tuya, pide por escrito el detalle y reclama primero a la comercializadora. Si no te da la razón, puedes acudir al servicio de consumo de tu comunidad o pedir un arbitraje.
+
+## Trucos para que el cambio salga bien {#trucos}
+
+- <strong>Haz una foto del contador</strong> el día que entras en la vivienda, con la fecha: te servirá si hay discrepancias con el consumo del titular anterior.
+- <strong>Pide la última factura</strong> al titular anterior o al vendedor, si puedes: verás la potencia, la tarifa y si hay algo pendiente.
+- <strong>No firmes una baja</strong> si lo que quieres es un cambio de titular: el alta nueva puede tener costes que el cambio no tiene.
+- <strong>Comprueba la potencia</strong>: si la que tenía el contrato no te encaja, cámbiala después; no es parte del cambio de titular.
+- <strong>Guarda el justificante</strong> de la solicitud con la fecha.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto cuesta el cambio de titular de la luz?
+
+Nada. Ni la comercializadora ni la distribuidora pueden cobrar por expedir el contrato nuevo que sale de un cambio de titular.
+
+### ¿Necesito la firma del titular anterior?
+
+No, si vives en la vivienda con justo título, como la escritura o el contrato de alquiler. Basta con que comuniques a la comercializadora que aceptas las condiciones del contrato.
+
+### ¿Tengo que pagar las deudas del anterior titular?
+
+No. La aceptación del contrato por el nuevo usuario no implica asumir las obligaciones de pago del titular anterior.
+
+### ¿Me pueden pedir un boletín nuevo para el cambio de titular?
+
+No por el cambio en sí, aunque el contrato tenga más de 20 años, mientras no cambies la potencia ni la modalidad del peaje.
+
+Fuentes oficiales consultadas el 7 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212" target="_blank" rel="noopener">Real Decreto 88/2026</a>: artículo 31 (traspaso y subrogación del contrato de suministro del PVPC) y artículo 39 (traspaso y subrogación del contrato de acceso a la red).
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: antes de decidir la potencia y la tarifa de tu contrato nuevo, mira cuánto gastan tus aparatos.

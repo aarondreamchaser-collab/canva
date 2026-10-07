@@ -1,0 +1,98 @@
+title: Cambiar la potencia contratada: pasos, coste y plazos
+title_seo: Cambiar la potencia contratada: pasos, coste y plazos
+excerpt: Cambiar la potencia contratada: subir 1,15 kW cuesta hasta 62,54 € con IVA y bajarla, como mucho 10,94 €, y ahorras 48,05 € al año. Pasos y plazos.
+category: tramites
+keyword: cambiar la potencia contratada
+---
+Cambiar la potencia contratada se pide a tu comercializadora y la distribuidora debe hacerlo en un máximo de 72 horas. Subir un escalón de 1,15 kW cuesta como mucho 62,54 € con IVA; bajarlo, como mucho 10,94 €, y a cambio pagas 48,05 € menos al año.
+
+Los costes de este artículo son los derechos regulados por el Ministerio, más el IVA del 21 %. El ahorro de bajar potencia lo calculamos con el término de potencia orientativo de nuestras calculadoras, 0,09 € por kW y día sin impuestos, como en el resto de la web.
+
+## Cambiar la potencia contratada: cómo se pide {#como}
+
+El cambio de potencia lo pides a la comercializadora con la que tienes el contrato, por teléfono, en su web o en una oficina. Ella lo traslada a la distribuidora, que es la que cambia la potencia en tu contador. Necesitas:
+
+- Ser el titular del contrato, o tener su autorización.
+- El <strong>CUPS</strong> de tu suministro, que aparece en la factura; te explicamos dónde en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+- La <strong>potencia nueva</strong>, en kW.
+
+Con un contador inteligente, el cambio se hace a distancia. Según el Reglamento de suministro de 2026, la distribuidora tiene que hacerlo efectivo en un máximo de <strong>72 horas</strong>; si hay que ir a tu casa, en un máximo de <strong>cinco días hábiles</strong> en baja tensión.
+
+## Qué potencia pedir {#que-potencia}
+
+Antes de cambiar, calcula cuánta potencia usas de verdad a la vez. Si pides de menos, saltará el limitador cada vez que coincidan el horno y la lavadora; si pides de más, la pagas todos los días aunque no la uses. Te ayudamos a calcularla en <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>, y puedes probar tu caso en nuestra calculadora de potencia.
+
+El reglamento permite contratar la potencia en múltiplos de 0,1 kW si tienes contador inteligente y no pasas de 15 kW. Aun así, en este artículo usamos los escalones de siempre, de 1,15 kW, porque son los que tiene la mayoría de los contratos.
+
+## Cuánto cuesta subir la potencia {#subir}
+
+Subir la potencia tiene dos derechos que se pagan por cada kW de más, y uno fijo por la operación. Los importes son los del anexo V de la Orden ITC/3519/2009, que sigue vigente:
+
+- <strong>Derechos de extensión</strong>: 17,374714 € por kW. Pagan la red que hace falta para darte más potencia.
+- <strong>Derechos de acceso</strong>: 19,703137 € por kW.
+- <strong>Derechos de enganche</strong>: 9,044760 € por la operación.
+
+{{T:cp_subir}}
+
+La última columna es la clave para muchas casas. Los derechos de extensión ya pagados siguen vigentes durante tres años para la potencia por la que se pagaron. Si en ese plazo tu vivienda tuvo más potencia, al volver a subir no se cobran otra vez. Y no se puede dar más potencia de la que admiten los derechos de extensión del punto de suministro sin pagarlos.
+
+{{CAJA:Dato clave}}
+Si tu contrato tiene más de 20 años y subes la potencia, la distribuidora debe revisar la instalación y puede cobrar los derechos de verificación: 8,011716 €, 9,69 € con IVA. Si la instalación no cumple, te pedirá adaptarla y un boletín nuevo. Lo explicamos en <a href="https://tuluzencasa.com/boletin-electrico/">boletín eléctrico</a>.
+{{/CAJA}}
+
+## Cuánto cuesta bajar la potencia y cuánto ahorras {#bajar}
+
+Bajar la potencia no tiene más coste que el regulado para las acometidas; en la práctica, como mucho el enganche. Y el ahorro empieza desde la primera factura:
+
+{{T:cp_bajar}}
+
+Con un ahorro de 48,05 € al año por escalón, el enganche se recupera en unos tres meses.
+
+## El límite de tu instalación {#limite}
+
+La potencia que contratas no puede superar la que admite tu instalación, que figura en el último boletín o certificado de la instalación. Hasta ese límite, la norma deja claro que no se cobran derechos de verificación por subir, salvo en los contratos de más de 20 años.
+
+Si quieres pasar de ese límite, antes hay que adaptar la instalación: un instalador autorizado revisa el cuadro, los cables y el interruptor general, hace las obras necesarias y emite un boletín nuevo con la potencia mayor. No es algo que puedas comprobar ni cambiar tú: no toques el cuadro eléctrico.
+
+Lo que sí puedes hacer sin riesgo es mirar el boletín, si lo tienes, y buscar la potencia máxima admisible. También puedes fijarte en el interruptor general de tu cuadro, sin abrirlo: su intensidad en amperios multiplicada por 230 voltios da una idea de la potencia que admite la instalación.
+
+## Cada cuánto puedes cambiarla {#plazos}
+
+- <strong>Una vez cada 12 meses</strong>: la distribuidora puede negarse a un nuevo cambio si no ha pasado un año desde el último que pediste tú, salvo que cambie la estructura de las tarifas.
+- <strong>Cambios temporales</strong>: desde 2026 puedes subir la potencia solo durante un trimestre, un mes, un día o incluso una hora, y al terminar vuelves a la anterior. Hay que pedirlo con al menos <strong>cinco días hábiles</strong> de antelación, y el trimestre empieza siempre el 1 de enero, abril, julio u octubre. Los precios de estos cambios los fija la CNMC.
+
+Los cambios temporales son útiles si tienes calefacción eléctrica: puedes tener más potencia en los meses fríos y bajar el resto del año sin esperar 12 meses entre cambio y cambio.
+
+## Trucos para no pagar de más por la potencia {#trucos}
+
+- <strong>Mira tu consumo real</strong> en la web de tu distribuidora o en Datadis antes de decidir: verás a qué horas gastas más.
+- <strong>Antes de bajar, piénsalo bien</strong>: si luego se queda corta, la distribuidora puede no dejarte volver a subir hasta pasados 12 meses, salvo con una subida temporal.
+- <strong>Reparte los aparatos grandes</strong>: no pongas a la vez el horno, la lavadora y el termo.
+- <strong>Usa la subida temporal</strong> para el invierno en lugar de tener todo el año la potencia que solo necesitas tres meses.
+- <strong>Pide el desglose</strong> de lo que te van a cobrar antes de aceptar el cambio.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto tarda el cambio de potencia?
+
+Un máximo de 72 horas desde que la distribuidora recibe la solicitud, o cinco días hábiles si tiene que ir a tu casa.
+
+### ¿Cuánto cuesta subir la potencia de 3,45 a 4,6 kW?
+
+Hasta 62,54 € con IVA, sumando extensión, acceso y enganche. Si los derechos de extensión de esa potencia siguen vigentes, unos 38,36 €.
+
+### ¿Bajar la potencia es gratis?
+
+Casi: como mucho pagas el enganche, 10,94 € con IVA. A cambio, cada escalón de 1,15 kW menos te ahorra unos 48,05 € al año.
+
+### ¿Puedo cambiar la potencia varias veces al año?
+
+Un cambio normal, una vez cada 12 meses. Además, puedes hacer cambios temporales por trimestres, meses, días u horas, pidiéndolos con cinco días hábiles de antelación.
+
+Fuentes oficiales consultadas el 7 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2009-21173" target="_blank" rel="noopener">Orden ITC/3519/2009</a>, anexo V: derechos de acometida, enganche y verificación.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13767" target="_blank" rel="noopener">Real Decreto 1048/2013</a>, artículos 25, 28 y 29.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212" target="_blank" rel="noopener">Real Decreto 88/2026</a>, artículo 38.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tus aparatos y mira cuánta potencia usas a la vez y cuánto pagas por ella.

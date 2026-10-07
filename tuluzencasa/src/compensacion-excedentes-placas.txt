@@ -1,0 +1,93 @@
+title: Compensación de excedentes y batería virtual: cómo funciona
+title_seo: Compensación de excedentes y batería virtual
+excerpt: Compensación de excedentes: con 3 kWp en Madrid, la factura baja unos 145,53 € al año, pero 77,24 € de excedentes se pierden por el tope mensual.
+category: placas-solares
+keyword: compensación de excedentes
+---
+La compensación de excedentes descuenta de tu factura la energía de tus placas que no usas y se va a la red, pero con un tope: cada mes, como mucho, lo que pagas por la energía que tomas de la red. Con 3 kWp en Madrid, la factura baja unos 145,53 € al año por los excedentes, y otros 77,24 € se quedan sin compensar en los meses de más sol.
+
+Calculamos con <strong>0,165 €/kWh con impuestos</strong> para la energía de la red, un precio de ejemplo de 0,06 €/kWh sin impuestos para los excedentes y la casa de ejemplo de nuestro artículo de <a href="https://tuluzencasa.com/placas-solares-en-casa/">placas solares en casa</a>: 3.000 kWh al año y el 40 % de la producción usada al momento.
+
+## Qué es la compensación de excedentes {#que-es}
+
+Cuando tus placas producen más de lo que gastas en ese momento, la energía sobrante sale a la red. Con la compensación simplificada, regulada por el Real Decreto 244/2019, esa energía no se vende: se descuenta de la factura de la luz.
+
+- <strong>Cada hora</strong> se mide la energía que tomas de la red y la que viertes.
+- <strong>Al final del periodo de facturación</strong>, que no puede pasar de un mes, el valor de los excedentes se resta del coste de la energía que has tomado de la red.
+- <strong>El descuento se hace antes de impuestos</strong>, así que el impuesto eléctrico y el IVA se calculan sobre una cantidad menor.
+- <strong>La potencia, el contador y los demás conceptos no se compensan</strong>: siempre los pagas.
+
+Para acogerte necesitas que la instalación sea renovable, que no pase de 100 kW, que no cobre otra retribución y que firmes el contrato de compensación de excedentes con tu comercializadora.
+
+## El tope mensual: por qué se pierden excedentes {#tope}
+
+La norma pone un límite claro: el valor de los excedentes nunca puede ser mayor que el valor de la energía que tomas de la red en el periodo de facturación. En invierno produces poco y el tope casi nunca se alcanza; en verano produces mucho, consumes de la red poco y te sobra.
+
+Mes a mes, con 3 kWp en Madrid:
+
+{{T:ex_meses}}
+
+De noviembre a febrero se compensa todo. De marzo a octubre, parte de los excedentes no cabe en la factura: en julio, 16,99 € de excedentes no se descuentan. En el año son 77,24 € que la casa de ejemplo regala a la red.
+
+{{CAJA:Dato clave}}
+El tope es sobre la energía, no sobre la factura. Aunque tu factura sea de 40 €, si la parte de energía tomada de la red es de 10 €, eso es lo máximo que te pueden descontar ese mes.
+{{/CAJA}}
+
+## Cuánto te pagan por cada kWh que viertes {#precio}
+
+Depende del contrato:
+
+- <strong>Con el PVPC</strong>, la tarifa regulada, los excedentes se valoran al precio medio de cada hora de los mercados diario e intradiario, menos el coste de los desvíos. Y las horas de sol son las más baratas del mercado: entre octubre de 2025 y septiembre de 2026, el precio medio del mercado diario de 11 a 16 h fue de 23,99 €/MWh, frente a 73,22 €/MWh de media de todas las horas, según los datos de OMIE.
+- <strong>En el mercado libre</strong>, el precio de los excedentes es el que pactes con tu comercializadora, igual que el de la energía que compras.
+
+Cuanto mejor te paguen los excedentes, antes llegas al tope:
+
+{{T:ex_precio}}
+
+Pasar de 0,06 a 0,08 €/kWh solo sube la compensación de 145,53 € a 163,46 € al año, porque gran parte del aumento se queda por encima del tope. Por eso, a la hora de elegir oferta, el precio de la energía que compras pesa tanto como el de la que vendes.
+
+## La batería virtual {#bateria-virtual}
+
+La batería virtual no está en el Real Decreto 244/2019: es un servicio que ofrecen algunas comercializadoras para guardar, en euros, el valor de los excedentes que superan el tope de un mes y descontarlo más adelante. En la casa de ejemplo, ese saldo podría llegar a los 77,24 € al año de la tabla.
+
+Como cada empresa la diseña a su manera, antes de contratarla pregunta:
+
+- <strong>Si tiene cuota</strong> mensual o anual, y si compensa con tus excedentes reales.
+- <strong>Si el saldo caduca</strong>, y en cuánto tiempo.
+- <strong>A qué se puede aplicar</strong>: solo a la energía, o también a la potencia y a otros conceptos de la factura.
+- <strong>Qué pasa si cambias de compañía</strong>: si pierdes el saldo acumulado.
+- <strong>Qué precio de la energía tiene la oferta</strong>: una batería virtual con un kWh caro puede salir peor que una oferta sin ella.
+
+## Trucos para aprovechar más tus placas {#trucos}
+
+- <strong>Consume cuando hay sol</strong>: lavadora, lavavajillas y termo a mediodía. Cada kWh que usas al momento te ahorra el precio completo, mucho más que un kWh compensado.
+- <strong>Mira tu curva de consumo</strong> para saber cuánto viertes cada mes; te explicamos cómo en <a href="https://tuluzencasa.com/ver-consumo-por-horas-datadis/">ver tu consumo por horas</a>.
+- <strong>No sobredimensiones</strong>: si en verano ya pierdes excedentes, más placas aumentan la parte que no se compensa.
+- <strong>Revisa la factura de agosto</strong>: si la energía de la red queda en casi cero, has llegado al tope.
+- <strong>Compara ofertas por el total</strong>, no solo por el precio de los excedentes.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿La compensación de excedentes puede dejar la factura a cero?
+
+No. Solo descuenta la parte de energía tomada de la red. La potencia, el alquiler del contador y los impuestos de esos conceptos se pagan siempre.
+
+### ¿Qué pasa con los excedentes que superan el tope?
+
+Con la compensación simplificada se pierden. Algunas comercializadoras ofrecen guardarlos como saldo con una batería virtual, con sus propias condiciones.
+
+### ¿Hay que pagar peajes por la energía que vierto?
+
+No. La energía excedentaria acogida a compensación no se considera incorporada al sistema y está exenta de los peajes de acceso de los productores.
+
+### ¿Puedo tener compensación de excedentes y bono social?
+
+Sí, con el PVPC. El descuento del bono social se aplica a lo que queda después de compensar los excedentes. Te explicamos el bono en <a href="https://tuluzencasa.com/bono-social-electrico/">bono social eléctrico</a>.
+
+Fuentes oficiales consultadas el 7 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089" target="_blank" rel="noopener">Real Decreto 244/2019</a>, de autoconsumo: artículo 4 (modalidades y requisitos) y artículo 14 (mecanismo de compensación simplificada).
+- <a href="https://www.omie.es/es/file-access-list" target="_blank" rel="noopener">OMIE, precios marginales del mercado diario</a> (marginalpdbc), de octubre de 2025 a septiembre de 2026.
+- <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS, Comisión Europea</a>: producción mensual de 1 kWp a 30° orientado al sur en Madrid.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: mira qué aparatos puedes mover a las horas de sol para aprovechar tus placas.

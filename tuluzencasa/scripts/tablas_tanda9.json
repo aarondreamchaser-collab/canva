@@ -1,0 +1,331 @@
+{
+ "cp_subir": {
+  "headers": [
+   "Subida",
+   "Extensión",
+   "Acceso",
+   "Enganche",
+   "Total con IVA",
+   "Total con IVA si ya tienes la extensión"
+  ],
+  "rows": [
+   [
+    "De 3,45 kW a 4,60 kW",
+    "19,98 €",
+    "22,66 €",
+    "9,04 €",
+    "62,54 €",
+    "38,36 €"
+   ],
+   [
+    "De 4,60 kW a 5,75 kW",
+    "19,98 €",
+    "22,66 €",
+    "9,04 €",
+    "62,54 €",
+    "38,36 €"
+   ],
+   [
+    "De 5,75 kW a 6,90 kW",
+    "19,98 €",
+    "22,66 €",
+    "9,04 €",
+    "62,54 €",
+    "38,36 €"
+   ],
+   [
+    "De 3,45 kW a 5,75 kW",
+    "39,96 €",
+    "45,32 €",
+    "9,04 €",
+    "114,13 €",
+    "65,78 €"
+   ]
+  ]
+ },
+ "cp_bajar": {
+  "headers": [
+   "Bajada",
+   "Coste máximo (enganche, con IVA)",
+   "Ahorro al mes",
+   "Ahorro al año"
+  ],
+  "rows": [
+   [
+    "De 5,75 kW a 4,60 kW",
+    "10,94 €",
+    "4,00 €",
+    "48,05 €"
+   ],
+   [
+    "De 4,60 kW a 3,45 kW",
+    "10,94 €",
+    "4,00 €",
+    "48,05 €"
+   ],
+   [
+    "De 6,90 kW a 5,75 kW",
+    "10,94 €",
+    "4,00 €",
+    "48,05 €"
+   ]
+  ]
+ },
+ "al_derechos": {
+  "headers": [
+   "Potencia",
+   "Extensión",
+   "Acceso",
+   "Enganche",
+   "Verificación",
+   "Total con IVA",
+   "Total con IVA y verificación"
+  ],
+  "rows": [
+   [
+    "3,45 kW",
+    "59,94 €",
+    "67,98 €",
+    "9,04 €",
+    "8,01 €",
+    "165,73 €",
+    "175,42 €"
+   ],
+   [
+    "4,60 kW",
+    "79,92 €",
+    "90,63 €",
+    "9,04 €",
+    "8,01 €",
+    "217,32 €",
+    "227,01 €"
+   ],
+   [
+    "5,75 kW",
+    "99,90 €",
+    "113,29 €",
+    "9,04 €",
+    "8,01 €",
+    "268,91 €",
+    "278,61 €"
+   ],
+   [
+    "6,90 kW",
+    "119,89 €",
+    "135,95 €",
+    "9,04 €",
+    "8,01 €",
+    "320,51 €",
+    "330,20 €"
+   ],
+   [
+    "9,20 kW",
+    "159,85 €",
+    "181,27 €",
+    "9,04 €",
+    "8,01 €",
+    "423,69 €",
+    "433,39 €"
+   ]
+  ]
+ },
+ "al_plazos": {
+  "headers": [
+   "Paso",
+   "Plazo máximo de la distribuidora",
+   "Norma"
+  ],
+  "rows": [
+   [
+    "Darte las condiciones técnicas y económicas (hasta 15 kW, sin obras de extensión)",
+    "5 días hábiles",
+    "RD 1955/2000, art. 103.2.A"
+   ],
+   [
+    "Ídem, cuando no hace falta centro de transformación",
+    "10 días hábiles",
+    "RD 1955/2000, art. 103.2.A"
+   ],
+   [
+    "Hacer la conexión si no hay que ampliar la red de baja tensión",
+    "5 días hábiles desde que pagas",
+    "RD 1955/2000, art. 103.2.B"
+   ],
+   [
+    "Hacer la conexión si hay que ampliar la red de baja tensión",
+    "30 días hábiles",
+    "RD 1955/2000, art. 103.2.B"
+   ],
+   [
+    "Hacer la conexión si hace falta un centro de transformación",
+    "60 días hábiles",
+    "RD 1955/2000, art. 103.2.B"
+   ],
+   [
+    "Enganchar e instalar el contador",
+    "5 días hábiles desde el contrato",
+    "RD 1955/2000, art. 103.2.C"
+   ]
+  ]
+ },
+ "ct_casos": {
+  "headers": [
+   "Tu situación",
+   "Qué haces",
+   "Qué cuesta"
+  ],
+  "rows": [
+   [
+    "Compras o heredas una vivienda con luz",
+    "Cambio de titular con la comercializadora, presentando tu título",
+    "0 € por el contrato nuevo"
+   ],
+   [
+    "Alquilas una vivienda y quieres la luz a tu nombre",
+    "Cambio de titular; no es una baja y un alta nueva",
+    "0 €"
+   ],
+   [
+    "El contrato tiene más de 20 años",
+    "Cambio de titular sin boletín nuevo ni verificación, si no cambias la potencia ni el peaje",
+    "0 €"
+   ],
+   [
+    "Además quieres subir la potencia",
+    "Cambio de titular y, aparte, modificación de potencia",
+    "Derechos de extensión y acceso de los kW de más"
+   ],
+   [
+    "El titular anterior tenía bono social",
+    "El bono no pasa al nuevo titular: hay que pedirlo de nuevo",
+    "0 €"
+   ]
+  ]
+ },
+ "ex_meses": {
+  "headers": [
+   "Mes (Madrid, 3 kWp)",
+   "Producción",
+   "Excedentes",
+   "Compensación en la factura",
+   "Excedentes que no se compensan"
+  ],
+  "rows": [
+   [
+    "Enero",
+    "304 kWh",
+    "182 kWh",
+    "13,90 €",
+    "0,00 €"
+   ],
+   [
+    "Febrero",
+    "330 kWh",
+    "198 kWh",
+    "15,13 €",
+    "0,00 €"
+   ],
+   [
+    "Marzo",
+    "417 kWh",
+    "250 kWh",
+    "13,76 €",
+    "5,33 €"
+   ],
+   [
+    "Abril",
+    "432 kWh",
+    "259 kWh",
+    "12,74 €",
+    "7,06 €"
+   ],
+   [
+    "Mayo",
+    "472 kWh",
+    "283 kWh",
+    "10,13 €",
+    "11,47 €"
+   ],
+   [
+    "Junio",
+    "483 kWh",
+    "290 kWh",
+    "9,42 €",
+    "12,68 €"
+   ],
+   [
+    "Julio",
+    "521 kWh",
+    "313 kWh",
+    "6,87 €",
+    "16,99 €"
+   ],
+   [
+    "Agosto",
+    "503 kWh",
+    "302 kWh",
+    "8,08 €",
+    "14,95 €"
+   ],
+   [
+    "Septiembre",
+    "442 kWh",
+    "265 kWh",
+    "12,09 €",
+    "8,16 €"
+   ],
+   [
+    "Octubre",
+    "375 kWh",
+    "225 kWh",
+    "16,56 €",
+    "0,60 €"
+   ],
+   [
+    "Noviembre",
+    "292 kWh",
+    "175 kWh",
+    "13,35 €",
+    "0,00 €"
+   ],
+   [
+    "Diciembre",
+    "295 kWh",
+    "177 kWh",
+    "13,49 €",
+    "0,00 €"
+   ],
+   [
+    "Año",
+    "4.865 kWh",
+    "2.919 kWh",
+    "145,53 €",
+    "77,24 €"
+   ]
+  ]
+ },
+ "ex_precio": {
+  "headers": [
+   "Precio de los excedentes (sin impuestos)",
+   "Compensación al año",
+   "Lo que se queda sin compensar al año"
+  ],
+  "rows": [
+   [
+    "0,04 €/kWh",
+    "120,74 €",
+    "27,77 €"
+   ],
+   [
+    "0,06 €/kWh",
+    "145,53 €",
+    "77,24 €"
+   ],
+   [
+    "0,08 €/kWh",
+    "163,46 €",
+    "133,55 €"
+   ]
+  ]
+ }
+}

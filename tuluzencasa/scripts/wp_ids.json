@@ -172,5 +172,21 @@
  "luz-en-comunidad-valenciana": {
   "id": 338,
   "rankmath_status": 200
+ },
+ "cambiar-potencia-contratada": {
+  "id": 355,
+  "rankmath_status": 200
+ },
+ "alta-luz-vivienda": {
+  "id": 356,
+  "rankmath_status": 200
+ },
+ "cambio-titular-luz": {
+  "id": 357,
+  "rankmath_status": 200
+ },
+ "compensacion-excedentes-placas": {
+  "id": 358,
+  "rankmath_status": 200
  }
 }

@@ -924,5 +924,101 @@
    "https://re.jrc.ec.europa.eu/pvg_tools/es/",
    "https://tuluzencasa.com/calculadora-consumo-electrico/"
   ]
+ },
+ "cambiar-potencia-contratada": {
+  "title": "Cambiar la potencia contratada: pasos, coste y plazos",
+  "title_seo": "Cambiar la potencia contratada: pasos, coste y plazos",
+  "excerpt": "Cambiar la potencia contratada: subir 1,15 kW cuesta hasta 62,54 € con IVA y bajarla, como mucho 10,94 €, y ahorras 48,05 € al año. Pasos y plazos.",
+  "category": "tramites",
+  "keyword": "cambiar la potencia contratada",
+  "words": 1283,
+  "excerpt_len": 147,
+  "h2": 8,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/que-es-el-cups/",
+   "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://tuluzencasa.com/boletin-electrico/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2009-21173",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2013-13767",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
+ },
+ "alta-luz-vivienda": {
+  "title": "Alta de luz en una vivienda: pasos, derechos de acometida y plazos",
+  "title_seo": "Alta de luz en una vivienda: pasos, costes y plazos",
+  "excerpt": "Alta de luz: con 4,6 kW, los derechos regulados suman hasta 217,32 € con IVA. Pasos, plazos máximos de la distribuidora y qué pasa si no los cumple.",
+  "category": "tramites",
+  "keyword": "alta de luz",
+  "linea_fecha": "no",
+  "words": 1230,
+  "excerpt_len": 148,
+  "h2": 6,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/boletin-electrico/",
+   "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://tuluzencasa.com/que-es-el-cups/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2009-21173",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2013-13767",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2000-24019",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
+ },
+ "cambio-titular-luz": {
+  "title": "Cambio de titular de la luz: cómo hacerlo y qué cuesta",
+  "title_seo": "Cambio de titular de la luz: pasos y coste",
+  "excerpt": "Cambio de titular de la luz: es gratis y, con justo título, no necesitas la firma del titular anterior. Qué pedir, deudas y bono social.",
+  "category": "tramites",
+  "keyword": "cambio de titular de la luz",
+  "linea_fecha": "no",
+  "words": 1213,
+  "excerpt_len": 136,
+  "h2": 7,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/boletin-electrico/",
+   "https://tuluzencasa.com/cambiar-compania-luz/",
+   "https://tuluzencasa.com/bono-social-electrico/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
+ },
+ "compensacion-excedentes-placas": {
+  "title": "Compensación de excedentes y batería virtual: cómo funciona",
+  "title_seo": "Compensación de excedentes y batería virtual",
+  "excerpt": "Compensación de excedentes: con 3 kWp en Madrid, la factura baja unos 145,53 € al año, pero 77,24 € de excedentes se pierden por el tope mensual.",
+  "category": "placas-solares",
+  "keyword": "compensación de excedentes",
+  "words": 1243,
+  "excerpt_len": 145,
+  "h2": 6,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/placas-solares-en-casa/",
+   "https://tuluzencasa.com/ver-consumo-por-horas-datadis/",
+   "https://tuluzencasa.com/bono-social-electrico/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089",
+   "https://www.omie.es/es/file-access-list",
+   "https://re.jrc.ec.europa.eu/pvg_tools/es/",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
  }
 }
