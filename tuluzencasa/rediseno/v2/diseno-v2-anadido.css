@@ -5,6 +5,8 @@
 
 /* 7. Cabecera fija al bajar (sin cambiar de tamaño: no mueve nada) */
 .site-header{position:sticky;top:0;z-index:60;border-bottom:1px solid #18222e14}
+/* Las calculadoras suben al añadir un aparato: que la cabecera fija no tape su parte de arriba */
+.tlc-app,.tlp-app{scroll-margin-top:96px}
 body.admin-bar .site-header{top:32px}
 @media (max-width:782px){body.admin-bar .site-header{top:46px}}
 .tlb-arriba-on .site-header,.tlb-fijo-on .site-header{box-shadow:0 8px 20px -14px #18222e66}
@@ -86,7 +88,6 @@ body.admin-bar .site-header{top:32px}
 .single .inside-article>.entry-content{order:3}
 .single .featured-image img{border-radius:14px;width:100%;height:auto}
 .single .entry-title{font-size:clamp(1.9rem,3.4vw,2.6rem);line-height:1.15;font-weight:800;letter-spacing:-.02em;color:var(--tl-tinta)}
-.tl-art-sub{font-size:1.15rem;line-height:1.5;color:var(--tl-tinta2);margin:12px 0 16px}
 .single .entry-meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;font-size:.9rem;color:var(--tl-tinta2);padding:12px 0;border-top:1px solid var(--tl-linea);border-bottom:1px solid var(--tl-linea);margin:0 0 6px}
 .tl-art-extra{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;font-size:.85rem;color:var(--tl-tinta2);margin:10px 0 0}
 .tl-sello{display:inline-flex;align-items:center;gap:6px;background:#eaf3ec;color:var(--tl-verde);font-weight:700;border-radius:999px;padding:4px 10px}

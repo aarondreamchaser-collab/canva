@@ -1,7 +1,6 @@
-<?php
 /* Rediseño tuluzencasa: plantilla de artículo, portada y calculadoras.
    WPCode: fragmento PHP, «Plantilla tuluzencasa», ejecutar en todas partes.
-   Pega desde la línea siguiente (sin «<?php»).
+   Este archivo se pega entero: ya va sin la etiqueta de apertura de PHP.
    Solo cambia lo que se muestra. No modifica el texto guardado de ningún artículo.
    Para deshacerlo, desactiva el fragmento. */
 

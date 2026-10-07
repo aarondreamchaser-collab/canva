@@ -2,16 +2,7 @@
 /* ===================== Rediseño 2 (7-10-2026) =====================
    Va al final de «Plantilla tuluzencasa». Solo cambia lo que se muestra. */
 
-/* 7. Cabecera del artículo: subtítulo (el extracto), tiempo de lectura y sello de fuentes */
-add_action( 'generate_after_entry_title', function () {
-	if ( ! is_singular( 'post' ) ) {
-		return;
-	}
-	$extracto = get_post_field( 'post_excerpt', get_the_ID() );
-	if ( '' !== trim( $extracto ) ) {
-		echo '<p class="tl-art-sub">' . esc_html( $extracto ) . '</p>';
-	}
-}, 5 );
+/* 7. Cabecera del artículo: tiempo de lectura y sello de fuentes */
 add_action( 'generate_after_entry_title', function () {
 	if ( ! is_singular( 'post' ) ) {
 		return;
