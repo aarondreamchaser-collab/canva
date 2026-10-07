@@ -1,0 +1,142 @@
+[
+ {
+  "comunidad": "Andalucía",
+  "ciudad": "Sevilla",
+  "kwh_kwp_ano": 1672,
+  "inclinacion": 35,
+  "azimut": 0
+ },
+ {
+  "comunidad": "Aragón",
+  "ciudad": "Zaragoza",
+  "kwh_kwp_ano": 1618,
+  "inclinacion": 38,
+  "azimut": -2
+ },
+ {
+  "comunidad": "Asturias",
+  "ciudad": "Oviedo",
+  "kwh_kwp_ano": 1206,
+  "inclinacion": 38,
+  "azimut": -3
+ },
+ {
+  "comunidad": "Illes Balears",
+  "ciudad": "Palma",
+  "kwh_kwp_ano": 1598,
+  "inclinacion": 36,
+  "azimut": 0
+ },
+ {
+  "comunidad": "Canarias",
+  "ciudad": "Las Palmas de Gran Canaria",
+  "kwh_kwp_ano": 1612,
+  "inclinacion": 27,
+  "azimut": 8
+ },
+ {
+  "comunidad": "Canarias",
+  "ciudad": "Santa Cruz de Tenerife",
+  "kwh_kwp_ano": 1769,
+  "inclinacion": 25,
+  "azimut": 5
+ },
+ {
+  "comunidad": "Cantabria",
+  "ciudad": "Santander",
+  "kwh_kwp_ano": 1210,
+  "inclinacion": 37,
+  "azimut": 3
+ },
+ {
+  "comunidad": "Castilla-La Mancha",
+  "ciudad": "Toledo",
+  "kwh_kwp_ano": 1631,
+  "inclinacion": 36,
+  "azimut": 0
+ },
+ {
+  "comunidad": "Castilla y León",
+  "ciudad": "Valladolid",
+  "kwh_kwp_ano": 1560,
+  "inclinacion": 36,
+  "azimut": -2
+ },
+ {
+  "comunidad": "Cataluña",
+  "ciudad": "Barcelona",
+  "kwh_kwp_ano": 1572,
+  "inclinacion": 38,
+  "azimut": 3
+ },
+ {
+  "comunidad": "Comunitat Valenciana",
+  "ciudad": "Valencia",
+  "kwh_kwp_ano": 1632,
+  "inclinacion": 37,
+  "azimut": 0
+ },
+ {
+  "comunidad": "Extremadura",
+  "ciudad": "Mérida",
+  "kwh_kwp_ano": 1615,
+  "inclinacion": 34,
+  "azimut": -1
+ },
+ {
+  "comunidad": "Galicia",
+  "ciudad": "Santiago de Compostela",
+  "kwh_kwp_ano": 1295,
+  "inclinacion": 35,
+  "azimut": 3
+ },
+ {
+  "comunidad": "Comunidad de Madrid",
+  "ciudad": "Madrid",
+  "kwh_kwp_ano": 1621,
+  "inclinacion": 37,
+  "azimut": -5
+ },
+ {
+  "comunidad": "Región de Murcia",
+  "ciudad": "Murcia",
+  "kwh_kwp_ano": 1630,
+  "inclinacion": 35,
+  "azimut": 1
+ },
+ {
+  "comunidad": "Navarra",
+  "ciudad": "Pamplona",
+  "kwh_kwp_ano": 1406,
+  "inclinacion": 36,
+  "azimut": 1
+ },
+ {
+  "comunidad": "País Vasco",
+  "ciudad": "Vitoria-Gasteiz",
+  "kwh_kwp_ano": 1277,
+  "inclinacion": 36,
+  "azimut": 4
+ },
+ {
+  "comunidad": "La Rioja",
+  "ciudad": "Logroño",
+  "kwh_kwp_ano": 1429,
+  "inclinacion": 36,
+  "azimut": -2
+ },
+ {
+  "comunidad": "Ceuta",
+  "ciudad": "Ceuta",
+  "kwh_kwp_ano": 1594,
+  "inclinacion": 32,
+  "azimut": 7
+ },
+ {
+  "comunidad": "Melilla",
+  "ciudad": "Melilla",
+  "kwh_kwp_ano": 1600,
+  "inclinacion": 33,
+  "azimut": 6
+ }
+]
