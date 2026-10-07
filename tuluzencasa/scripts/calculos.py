@@ -14,11 +14,12 @@ from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
-PRECIO = 0.165  # €/kWh con impuestos
-FACTOR_IMP = 1.272
+REF = json.loads((BASE / "scripts" / "precios_referencia.json").read_text(encoding="utf-8"))  # precios de toda la web
+PRECIO = REF["precio_con_impuestos"]  # €/kWh con impuestos
+FACTOR_IMP = REF["factor_redondeado"]
 DIAS_MES = 30.4  # días por mes, igual que la calculadora de la home
 DIAS_ANO = 12 * DIAS_MES  # 364,8 días
-TRAMOS = {"punta": 0.19 * FACTOR_IMP, "llano": 0.12 * FACTOR_IMP, "valle": 0.08 * FACTOR_IMP}
+TRAMOS = {k: v * FACTOR_IMP for k, v in REF["tramos"].items()}
 
 FACTORES = {
     "aire": 0.6, "radiador": 0.6, "estufa": 0.85, "nevera": 0.2, "termo": 0.7,
@@ -41,6 +42,11 @@ def num(x, dec=2):
     return s.replace(",", "X").replace(".", ",").replace("X", ".")
 
 
+def pr(x):
+    """Precio unitario con 2 decimales, o 3 si hace falta (0,13 · 0,146)."""
+    return num(x, 2) if abs(round(x, 2) - x) < 1e-9 else num(x, 3)
+
+
 def watts(w):
     return num(w, 0) + " W"
 
@@ -58,7 +64,7 @@ def tabla(key, headers, rows):
 
 def cabecera(titulo, extra=""):
     return (f"# Cálculos — {titulo}\n\n"
-            f"- Precio de la energía: 0,13 €/kWh sin impuestos × {num(FACTOR_IMP, 3)} = **{num(PRECIO, 3)} €/kWh con impuestos**.\n"
+            f"- Precio de la energía: {pr(REF['energia'])} €/kWh sin impuestos × {num(FACTOR_IMP, 3)} = **{num(PRECIO, 3)} €/kWh con impuestos**.\n"
             f"- 2.0TD con impuestos: punta {num(TRAMOS['punta'], 3)} · llano {num(TRAMOS['llano'], 3)} · valle {num(TRAMOS['valle'], 3)} €/kWh.\n"
             f"- Euros redondeados a 2 decimales (redondeo comercial).\n{extra}\n")
 

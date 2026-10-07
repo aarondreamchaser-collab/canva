@@ -5,15 +5,17 @@ WPCode «calculadora.js»). Si cambian allí, hay que cambiarlos aquí.
 """
 
 # Impuestos
-IVA = 0.21
-IMPUESTO_ELECTRICO = 0.0511          # la calculadora usa 1,0511 (tipo legal: 5,11269632 %)
+import json as _json, os as _os
+REF = _json.load(open(_os.path.join(_os.path.dirname(__file__), '..', '..', 'scripts', 'precios_referencia.json'), encoding='utf-8'))
+IVA = REF['iva']
+IMPUESTO_ELECTRICO = REF['impuesto_electrico']   # la calculadora usa 1,0511 (tipo legal: 5,11269632 %)
 IMP = (1 + IVA) * (1 + IMPUESTO_ELECTRICO)   # factor que se aplica a energía y potencia
 
 # Precios orientativos sin impuestos
-PRECIO_UNICO = 0.13                  # €/kWh, precio fijo
-PRECIO_PUNTA, PRECIO_LLANO, PRECIO_VALLE = 0.19, 0.12, 0.08   # €/kWh, discriminación horaria
-POT_DIA = 0.09                       # €/kW y día, término de potencia
-CONTADOR_MES = 0.81                  # €/mes, alquiler del contador (lleva IVA, no impuesto eléctrico)
+PRECIO_UNICO = REF['energia']        # €/kWh, precio fijo
+PRECIO_PUNTA, PRECIO_LLANO, PRECIO_VALLE = (REF['tramos'][k] for k in ('punta', 'llano', 'valle'))   # €/kWh, discriminación horaria
+POT_DIA = REF['pot_dia']             # €/kW y día, término de potencia
+CONTADOR_MES = REF['contador_mes']                 # €/mes, alquiler del contador (lleva IVA, no impuesto eléctrico)
 
 MES = 30.4                           # días por mes
 SEM = 4.345                          # semanas por mes

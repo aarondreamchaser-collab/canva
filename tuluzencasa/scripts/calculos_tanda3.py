@@ -18,8 +18,9 @@ from pathlib import Path
 from calculos import PRECIO, TRAMOS, FACTOR_IMP, DIAS_MES, eur, num, cabecera
 
 BASE = Path(__file__).resolve().parent.parent
-IMP_POT, POT_DIA = 1.21 * 1.0511, 0.09
-ENERGIA_SIN = 0.13
+from calculos import REF
+IMP_POT, POT_DIA = (1 + REF["iva"]) * (1 + REF["impuesto_electrico"]), REF["pot_dia"]
+ENERGIA_SIN = REF["energia"]
 tablas, md = {}, {}
 
 

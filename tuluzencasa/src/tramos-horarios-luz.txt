@@ -61,7 +61,7 @@ Una tarifa por horas solo sale más barata si una parte suficiente de tu consumo
 
 Con un 40 % del consumo en valle ya pagas 1,52 € menos al mes que con precio fijo. Por debajo de un tercio, pagas más. La cuenta exacta depende de los precios de tu oferta: compara siempre el precio de punta, el de llano y el de valle con el precio fijo que te ofrezcan.
 
-Para saber qué parte de tu consumo cae en cada tramo, mira tu factura: la de la 2.0TD desglosa los kWh de punta, llano y valle. También puedes verlo hora a hora en la web de tu distribuidora con tu contador digital.
+Para saber qué parte de tu consumo cae en cada tramo, mira tu factura: la de la 2.0TD desglosa los kWh de punta, llano y valle. También puedes verlo hora a hora en la web de tu distribuidora o en Datadis: te explicamos cómo en <a href="https://tuluzencasa.com/ver-consumo-por-horas-datadis/">ver tu consumo por horas</a>.
 
 ## La potencia también tiene dos tramos {#potencia}
 

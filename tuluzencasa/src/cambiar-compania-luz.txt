@@ -60,7 +60,7 @@ Quien tramita el cambio es la nueva comercializadora. Tú solo tienes que contra
 ## Antes de firmar: lo que conviene revisar {#revisar}
 
 - <strong>Permanencia.</strong> Si tu contrato actual la tiene, salir antes puede tener una penalización. La duración del contrato y las condiciones para rescindirlo tienen que figurar en el contrato, así que míralo antes de cambiar.
-- <strong>Precio fijo o variable.</strong> Con precio fijo sabes lo que pagas cada mes. Con un precio indexado o el PVPC, cambia según el mercado. Te lo explicamos en <a href="https://tuluzencasa.com/pvpc-mercado-libre/">PVPC o mercado libre</a>.
+- <strong>Precio fijo o variable.</strong> Con precio fijo sabes lo que pagas cada mes. Con un precio indexado o el PVPC, cambia según el mercado. Te lo explicamos en <a href="https://tuluzencasa.com/pvpc-mercado-libre/">PVPC o mercado libre</a>, y lo que te juegas con cada uno en <a href="https://tuluzencasa.com/tarifa-fija-o-indexada/">tarifa fija o indexada</a>.
 - <strong>Descuentos temporales.</strong> Comprueba cuánto duran y qué precio queda después. La ley obliga a que el contrato diga expresamente la duración de los descuentos promocionales.
 - <strong>Servicios añadidos.</strong> Mantenimiento, seguros o asistencia: el contrato tiene que indicar su coste y si son obligatorios o no.
 - <strong>Bono social.</strong> Solo se aplica con el PVPC de una comercializadora de referencia. Si lo tienes o puedes pedirlo, no te pases al mercado libre sin mirarlo antes: lo explicamos en <a href="https://tuluzencasa.com/bono-social-electrico/">bono social eléctrico</a>.

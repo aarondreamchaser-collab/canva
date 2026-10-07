@@ -18,7 +18,7 @@ Con la misma necesidad de calor, la bomba de calor con SCOP 3 se queda en 8,36 �
 
 ## Todos los aparatos de resistencia gastan lo mismo por kWh de calor {#resistencia}
 
-Radiadores de aceite, convectores, calefactores de aire, emisores térmicos y estufas tienen algo en común: calientan con una resistencia. Y una resistencia convierte cada kWh de electricidad en un kWh de calor, ni más ni menos. Por eso, a igual calor, todos cuestan lo mismo: 0,17 € por kWh de calor con un precio de 0,165 €/kWh.
+Radiadores de aceite, convectores, calefactores de aire, emisores térmicos y estufas tienen algo en común: calientan con una resistencia. Y una resistencia convierte cada kWh de electricidad en un kWh de calor, ni más ni menos. También el <a href="https://tuluzencasa.com/cuanto-consume-suelo-radiante-electrico/">suelo radiante eléctrico</a>. Por eso, a igual calor, todos cuestan lo mismo: 0,17 € por kWh de calor con un precio de 0,165 €/kWh.
 
 Lo que cambia entre ellos es cómo reparten ese calor:
 
@@ -60,6 +60,7 @@ En la práctica no puedes concentrar toda la calefacción de madrugada, pero sí
 - <strong>Cierra persianas y cortinas al anochecer</strong> para que el calor no se escape por las ventanas.
 - <strong>Pon burletes</strong> en puertas y ventanas que dejan pasar aire.
 - <strong>Si tienes humedad en casa</strong>, ventila pocos minutos y usa el deshumidificador con su humidistato; lo que gasta está en <a href="https://tuluzencasa.com/cuanto-consume-deshumidificador/">cuánto consume un deshumidificador</a>.
+- <strong>Si tienes el bono social eléctrico</strong>, recibes también el <a href="https://tuluzencasa.com/bono-social-termico/">bono social térmico</a>, una ayuda anual para la calefacción.
 - <strong>Revisa la potencia contratada</strong>. Si vas a usar varios aparatos de 2.000 W a la vez, puede saltar el limitador; si te sobra potencia, estás pagando de más cada mes.
 - <strong>Si tienes split con bomba de calor, úsalo antes que un radiador</strong> para calentar esa estancia.
 

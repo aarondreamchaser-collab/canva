@@ -1,0 +1,16 @@
+{
+ "_nota": "Precios de referencia de toda la web. Los leen calculos.py, calculos/factura/comun.py y el resto de scripts de cálculo. Cambiar solo con scripts/actualizar_precios.py.",
+ "mes_precios": "octubre de 2026",
+ "energia": 0.146,
+ "tramos": {
+  "punta": 0.206,
+  "llano": 0.136,
+  "valle": 0.096
+ },
+ "pot_dia": 0.09,
+ "contador_mes": 0.81,
+ "impuesto_electrico": 0.0511,
+ "iva": 0.21,
+ "factor_redondeado": 1.272,
+ "precio_con_impuestos": 0.186
+}

@@ -29,7 +29,7 @@ Lo que importa es cuántos vatios suman todos los aparatos que se quedan en espe
 Un solo aparato moderno en espera apenas se nota en la factura. El problema aparece cuando se suman muchos y algunos son antiguos: con 20 W en espera pagas 28,89 € al año sin usar nada.
 
 {{CAJA:Dato clave}}
-Cada vatio que se queda encendido las 24 horas cuesta unos 1,44 € al año. Si quieres saber cuánto pagas tú, suma los vatios en espera de tu casa y multiplícalos por esa cifra.
+Cada vatio que se queda encendido las 24 horas cuesta unos 1,44 € al año. Si quieres saber cuánto pagas tú, suma los vatios en espera de tu casa y multiplícalos por esa cifra. O mira tu consumo de madrugada en la curva horaria de tu distribuidora: lo explicamos en <a href="https://tuluzencasa.com/ver-consumo-por-horas-datadis/">ver tu consumo por horas</a>.
 {{/CAJA}}
 
 ## Lo que la ley permite gastar a un aparato nuevo {#limites}

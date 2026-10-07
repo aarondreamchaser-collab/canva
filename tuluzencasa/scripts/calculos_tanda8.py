@@ -12,7 +12,9 @@ Genera calculos/<slug>.md y scripts/tablas_tanda8.json.
 """
 import json
 from pathlib import Path
-from calculos import PRECIO, DIAS_MES, FACTOR_IMP, TRAMOS, eur, num, cabecera
+from calculos import PRECIO, DIAS_MES, FACTOR_IMP, TRAMOS, REF, eur, num, pr as fpr, cabecera
+ENE, POT, CONT = REF["energia"], REF["pot_dia"], REF["contador_mes"]
+IEE, IVA = REF["impuesto_electrico"], REF["iva"]
 
 BASE = Path(__file__).resolve().parent.parent
 OMIE = BASE / "fuentes" / "tanda8" / "omie"
@@ -101,8 +103,8 @@ t2 = tabla("bst_comparar", ["", "Bono social eléctrico", "Bono social térmico"
     ["Cuánto", "42,5 % o 57,5 % de descuento en 2026", "Según tu zona climática y tu grado de vulnerabilidad; mínimo 50 €"],
 ])
 # Ejemplo del artículo del bono social eléctrico: 3,45 kW, 0,09 €/kW·día, 132,25 kWh al mes, 0,13 €/kWh.
-base_si = 3.45 * 0.09 * DIAS_MES + 132.25 * 0.13
-IMP_EX = 1.0511 * 1.21  # factor exacto, como en el artículo del bono social eléctrico
+base_si = 3.45 * POT * DIAS_MES + 132.25 * ENE
+IMP_EX = (1 + IEE) * (1 + IVA)  # factor exacto, como en el artículo del bono social eléctrico
 rows = [["Sin bono social", eur(base_si * IMP_EX), eur(0)]]
 for nom, d in (("Vulnerable, descuento habitual (35 %)", .35), ("Vulnerable en 2026 (42,5 %)", .425),
                ("Vulnerable severo, descuento habitual (50 %)", .5), ("Vulnerable severo en 2026 (57,5 %)", .575)):
@@ -113,7 +115,7 @@ md["bono-social-termico"] = cabecera(
     "- RDL 15/2018, anexo I.3 (redacción del RDL 7/2026, art. 2): ayuda mínima 50 €. Anexo I.4: severo o en riesgo de exclusión = vulnerable de su zona × 1,6.\n"
     "- RDL 7/2026, art. 3: suplemento de 90 M€ para 2026; el preámbulo dice que complementa la previsión de 335 M€ (total 425 M€).\n"
     "- Descuentos: RD 897/2017, art. 6.3 (35 % y 50 %); RDL 7/2026, art. 1 (42,5 % y 57,5 % del 1/1 al 31/12/2026).\n"
-    f"- Ejemplo de descuentos: el del artículo del bono social eléctrico (3,45 kW, 0,09 €/kW·día, 132,25 kWh al mes a 0,13 €/kWh): "
+    f"- Ejemplo de descuentos: el del artículo del bono social eléctrico (3,45 kW, {fpr(POT)} €/kW·día, 132,25 kWh al mes a {fpr(ENE)} €/kWh): "
     f"{num(base_si, 4)} € sin impuestos, impuestos con el factor exacto 1,0511 × 1,21 (igual que ese artículo). Descuento sobre potencia y energía, impuestos después; sin alquiler del contador.\n")
 md["bono-social-termico"] += "## Cuantía\n\n" + t1 + "\n## Comparar\n\n" + t2 + "\n## Descuentos\n\n" + t3
 
@@ -192,13 +194,13 @@ t1 = tabla("met_ejemplo", ["Paso", "Cálculo", "Resultado"], [
     ["5. Mes de 30,4 días", f"{eur(k_dia * PRECIO)} × 30,4", eur(k_dia * PRECIO * DIAS_MES) + " al mes"],
 ])
 t2 = tabla("met_precios", ["Concepto", "Valor que usamos", "Con impuestos"], [
-    ["Energía, precio único", "0,13 €/kWh", num(PRECIO, 3) + " €/kWh"],
-    ["Energía en punta (10–14 h y 18–22 h, laborables)", "0,19 €/kWh", num(P, 3) + " €/kWh"],
-    ["Energía en llano (8–10 h, 14–18 h y 22–24 h, laborables)", "0,12 €/kWh", num(L, 3) + " €/kWh"],
-    ["Energía en valle (0–8 h y fines de semana)", "0,08 €/kWh", num(V, 3) + " €/kWh"],
-    ["Término de potencia (calculadoras)", "0,09 €/kW y día", num(0.09 * FACTOR_IMP, 3) + " €/kW y día"],
-    ["Alquiler del contador (calculadora de consumo)", "0,81 € al mes", num(0.81 * 1.21, 2) + " € al mes (solo IVA)"],
-    ["Impuesto eléctrico e IVA", "5,11 % y 21 %", "Factor 1,0511 × 1,21 = " + num(1.0511 * 1.21, 4)],
+    ["Energía, precio único", fpr(ENE) + " €/kWh", num(PRECIO, 3) + " €/kWh"],
+    ["Energía en punta (10–14 h y 18–22 h, laborables)", fpr(REF["tramos"]["punta"]) + " €/kWh", num(P, 3) + " €/kWh"],
+    ["Energía en llano (8–10 h, 14–18 h y 22–24 h, laborables)", fpr(REF["tramos"]["llano"]) + " €/kWh", num(L, 3) + " €/kWh"],
+    ["Energía en valle (0–8 h y fines de semana)", fpr(REF["tramos"]["valle"]) + " €/kWh", num(V, 3) + " €/kWh"],
+    ["Término de potencia (calculadoras)", fpr(POT) + " €/kW y día", num(POT * FACTOR_IMP, 3) + " €/kW y día"],
+    ["Alquiler del contador (calculadora de consumo)", num(CONT, 2) + " € al mes", num(CONT * (1 + IVA), 2) + " € al mes (solo IVA)"],
+    ["Impuesto eléctrico e IVA", f"{num(IEE * 100, 2)} % y {num(IVA * 100, 0)} %", f"Factor {num(1 + IEE, 4)} × {num(1 + IVA, 2)} = " + num((1 + IEE) * (1 + IVA), 4)],
 ])
 t3 = tabla("met_factores", ["Aparato", "Factor de uso real", "Por qué"], [
     ["Nevera y congelador", "0,2 (sobre 150 W)", "El compresor arranca y para durante el día"],
@@ -214,8 +216,8 @@ t3 = tabla("met_factores", ["Aparato", "Factor de uso real", "Por qué"], [
 ])
 md["metodologia"] = cabecera(
     "página Metodología",
-    f"- Factor de impuestos: 1,0511 × 1,21 = {num(1.0511 * 1.21, 6)}, redondeado a 1,272. 0,13 × 1,272 = {num(0.13 * 1.272, 5)} → 0,165 €/kWh.\n"
-    "- Potencia y alquiler del contador: valores de las calculadoras (POT_DIA 0,09 y CONTADOR 0,81 en consumo3.src.js y potencia3.src.js); "
+    f"- Factor de impuestos: {num(1 + IEE, 4)} × {num(1 + IVA, 2)} = {num((1 + IEE) * (1 + IVA), 6)}, redondeado a {num(FACTOR_IMP, 3)}. {fpr(ENE)} × {num(FACTOR_IMP, 3)} = {num(ENE * FACTOR_IMP, 5)} → {num(PRECIO, 3)} €/kWh.\n"
+    f"- Potencia y alquiler del contador: valores de las calculadoras (POT_DIA {fpr(POT)} y CONTADOR {num(CONT, 2)} en consumo3.src.js y potencia3.src.js); "
     "el contador solo lleva IVA en la calculadora (CONTADOR × IVA).\n")
 md["metodologia"] += "## Ejemplo\n\n" + t1 + "\n## Precios\n\n" + t2 + "\n## Factores\n\n" + t3
 

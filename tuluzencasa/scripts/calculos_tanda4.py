@@ -18,7 +18,8 @@ from calculos import PRECIO, FACTOR_IMP, DIAS_MES, eur, num, cabecera
 
 BASE = Path(__file__).resolve().parent.parent
 DIAS_ANO = DIAS_MES * 12
-IMP_POT = 1.21 * 1.0511
+from calculos import REF
+IMP_POT = (1 + REF["iva"]) * (1 + REF["impuesto_electrico"])
 tablas, md = {}, {}
 
 
