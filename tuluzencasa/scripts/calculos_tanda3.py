@@ -97,14 +97,14 @@ t2 = tabla("bono_limites", ["Hogar", "kWh al año con descuento", "Equivale a un
 kw, kwh = 3.45, 1587 / 12
 pot, ene = kw * POT_DIA * DIAS_MES, kwh * ENERGIA_SIN
 rows = []
-for n, d in [("Sin bono social", 0), ("Vulnerable (35 %)", 0.35), ("Vulnerable severo (50 %)", 0.50)]:
+for n, d in [("Sin bono social", 0), ("Vulnerable en 2026 (42,5 %)", 0.425), ("Vulnerable severo en 2026 (57,5 %)", 0.575)]:
     tot = (pot + ene) * (1 - d) * IMP_POT
     rows.append([n, eur(tot), eur((pot + ene) * IMP_POT - tot), eur(((pot + ene) * IMP_POT - tot) * 12)])
 t3 = tabla("bono_ejemplo", ["Situación", "Potencia y energía al mes, con impuestos", "Descuento al mes", "Descuento al año"], rows)
 md["bono-social-electrico"] = cabecera(
     "bono social eléctrico",
     "- Umbrales de renta: RD 897/2017, art. 3.2.a y 3.3 (1,5 veces el IPREM de 14 pagas, +0,3 por adulto adicional, +0,5 por menor, +1 con circunstancia especial). Severo: art. 3.4 (renta ≤ 50 % del umbral).\n"
-    "- Descuentos: art. 6.3 (35 % vulnerable, 50 % severo), en vigor tras la derogación del RDL 16/2025 (Resolución de 27/01/2026).\n"
+    "- Descuentos: art. 6.3 (35 % vulnerable, 50 % severo) con carácter general; del 1/1 al 31/12/2026, 42,5 % y 57,5 % (RDL 7/2026, art. 1). Actualizado el 7/10/2026: el ejemplo usa los de 2026. Con los habituales: 11,85 € y 16,94 € al mes.\n"
     "- Límites de energía: anexo I del RD 897/2017.\n"
     f"- Ejemplo orientativo con los precios de referencia de la web: {num(kw, 2)} kW, {num(POT_DIA, 2)} €/kW y día, {num(ENERGIA_SIN, 2)} €/kWh sin impuestos, {num(kwh, 2)} kWh al mes (el límite de dos personas). "
     "Descuento sobre potencia y energía; impuesto eléctrico e IVA después. No incluye el alquiler del contador.\n"

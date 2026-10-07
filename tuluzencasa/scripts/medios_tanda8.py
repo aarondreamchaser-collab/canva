@@ -1,6 +1,6 @@
 """Sube las imágenes destacadas de la tanda 8 (314-317) y las asigna. No cambia el estado de ninguna entrada.
 
-Uso: python3 scripts/medios_tanda8.py            -> simulación
+Uso: python3 scripts/medios_tanda8.py [slug …]   -> simulación (todos o solo esos slugs)
      python3 scripts/medios_tanda8.py --aplicar
 Lee WP_USER y WP_APP_PASSWORD (nunca los imprime). Guarda los IDs en scripts/wp_medios_tanda8.json.
 """
@@ -30,6 +30,9 @@ def req(method, path, data=None, raw=None, headers=None):
 
 
 aplicar = "--aplicar" in sys.argv
+solo = [a for a in sys.argv[1:] if not a.startswith("--")]
+if solo:
+    POSTS = {k: v for k, v in POSTS.items() if k in solo}
 meta = json.loads((BASE / "imagenes-destacadas" / "tanda8.json").read_text())
 reg_p = BASE / "scripts" / "wp_medios_tanda8.json"
 reg = json.loads(reg_p.read_text()) if reg_p.exists() else {}

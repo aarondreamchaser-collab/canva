@@ -1,0 +1,6603 @@
+=== p1
+www.cnmc.es
+20 de julio de 2026
+BOLETÍN DE 
+INDICADORES 
+ELÉCTRICOS
+IS/DE/012/26
+(Demanda en b.c. hasta junio 2026 y demanda en 
+consumo hasta marzo 2026)
+# PÚBLICA
+=== p2
+IS/DE/012/26
+Boletín de indicadores eléctricos
+Índice
+Glosario 6
+1. Demanda en barras de central 10
+1.1 Demanda en barras de central del sistema nacional 10
+Demanda en barras de central nacional 10
+% Variación de la demanda nacional 10
+Cobertura de la demanda 11
+1.2 Demanda en barras de central del sistema peninsular 13
+Demanda en barras de central peninsular 13
+% Variación de la demanda peninsular 13
+Descomposición del crecimiento de la demanda en b.c. en efectos laboralidad, 13
+temperatura y actividad económica 14
+Previsión REE de la demanda peninsular 15
+Cobertura de la demanda 16
+1.3 Demanda en barras de central extrapeninsular e insular 17
+Demanda en barras de central extrapeninsular e insular 17
+% Variación de la demanda extrapeninsular e insular 17
+Cobertura de la demanda 18
+1.4 Demanda en barras de central del Sistema Balear 20
+Demanda en barras de central del Sistema Balear 20
+% Variación de la demanda del Sistema Balear 20
+Cobertura de la demanda 21
+1.5 Demanda en barras de central del Sistema Canario 23
+Demanda en barras de central del Sistema Canario 23
+% Variación de la demanda del Sistema Canario 23
+Cobertura de la demanda 24
+1.6 Demanda en barras de central del Sistema Ceutí 26
+Demanda en barras de central del Sistema Ceutí 26
+% Variación de la demanda del Sistema Ceutí 26
+1.7 Demanda en barras de central del Sistema Melillense 27
+Demanda en barras de central del Sistema Melillense 27
+% Variación de la demanda del Sistema Melillense 27
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 2 de 98
+=== p3
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2. Demanda en consumo 28
+2.1 Demanda de consumidores nacionales 28
+Energía consumida 28
+% Variación s/ el mismo mes del año anterior 29
+% Variación s/últimos 12 meses por niveles de tensión 30
+Evolución de la demanda en b.c. y de la demanda en consumo 31
+2.2 Demanda de consumidores peninsulares 32
+Energía consumida 32
+% Variación s/ el mismo mes del año anterior 33
+% Variación s/últimos 12 meses por niveles de tensión 34
+Evolución de la demanda en b.c. y de la demanda en consumo 35
+2.3 Demanda de consumidores extrapeninsulares e insulares 36
+Energía consumida 36
+% Variación s/ el mismo mes del año anterior 37
+% Variación s/últimos 12 meses por niveles de tensión 38
+Evolución de la demanda en b.c. y de la demanda en consumo 39
+3. Estructura de la demanda en consumo 40
+3.1 Estructura del consumo nacional por grupo tarifario 40
+Número de consumidores, energía consumida y tamaño medio por peaje de acceso 40
+Estructura del número de consumidores y de la energía consumida por peaje 40
+Facturación media de los peajes de T&D y cargos del sistema eléctrico 41
+Facturación media de peajes de T&D 42
+Facturación media de los cargos del sistema eléctrico. 43
+3.2 - Potencias contratadas y potencia facturada por peaje de acceso 44
+Potencias contratadas consumidores acogidos al peaje 2.0 TD 44
+Potencias contratadas consumidores acogidos al peaje 3.0 TD 45
+Potencias contratadas consumidores acogidos al peaje 6.1 TD 46
+Potencias contratadas consumidores acogidos al peaje 6.2 TD 47
+Potencias contratadas consumidores acogidos al peaje 6.3 TD 48
+Potencias contratadas consumidores acogidos al peaje 6.4 TD 49
+3.3 Pérdidas medidas resultantes de aplicar coeficientes de pérdidas 50
+Pérdidas mensuales 50
+Pérdidas medias registradas durante los últimos 12 meses 51
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 3 de 98
+=== p4
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.4 Estructura del consumo peninsular por grupo tarifario 52
+Número de consumidores, energía consumida y tamaño medio por peaje de acceso 52
+Estructura del número de consumidores y de la energía consumida por peaje 52
+Facturación media de los peajes de T&D y cargos del sistema eléctrico 53
+Facturación media de peajes de T&D 54
+Facturación media de los cargos del sistema eléctrico. 55
+3.5 - Estructura del consumo extrapeninsular e insular por grupo tarifario 56
+Número de consumidores, energía consumida y tamaño medio por peaje de acceso 56
+Estructura del número de consumidores y de la energía consumida por peaje 56
+Facturación media de los peajes de T&D y cargos del sistema eléctrico 57
+Facturación media de peajes de T&D 58
+Facturación media de los cargos del sistema eléctrico. 59
+3.6 - Estructura del consumo nacional por sector de actividad 60
+Distribución de la energía consumida por sector actividad y grupo tarifario 60
+Distribución del número de consumidores por sector actividad y grupo tarifario 60
+4. Suministro de último recurso 61
+4.1- Consumidores con potencia contratada igual o inferior a 15 kW 61
+Número de consumidores y energía consumida. Marzo 2026 61
+4.2-  Facturación estimada de los consumidores acogidos al PVPC 64
+Facturación estimada de los consumidores acogidos al PVPC 65
+4.3- Bono Social 67
+Consumidores acogidos al Bono social 67
+Consumo medio anual 69
+4.4- Consumidores sin derecho a acogerse al PVPC 70
+Consumidores abastecidos por COR 70
+Consumidores abastecidos por comercializadoras libres 70
+5. Costes previstos del sistema 72
+5.1- Costes previstos del sistema 72
+Escandallo de costes 72
+5.2- Costes previstos del sistema vs costes reales 73
+Escandallo de costes de acceso. 1998-2026 73
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 4 de 98
+=== p5
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España 74
+Evolución del mercado de electricidad 74
+Componentes del precio medio final de clientes cualificados y distribuidores/CUR 75
+Evolución del precio medio ponderado del mercado diario 77
+Impacto de los mercados intradiarios, procesos OS y restricciones técnicas en el
+precio final del mercado del conjunto de los agentes 78
+Evolución del precio medio ponderado de distribuidores/CUR 79
+Evolución del precio medio ponderado de clientes cualificados 80
+Precios medios ponderados del mercado diario por periodo tarifario de la discriminación
+horaria en tres periodos de baja tensión (2.0 TD) de la Circular 3/2020 81
+Precios medios ponderados del mercado diario por periodo tarifario de la discriminación
+horaria en seis periodos de la Circular 3/2020 82
+7.- Mercado de producción. MIBEL 83
+Evolución del mercado de electricidad en los últimos tres meses 83
+Aplicación del "Market Splitting" 83
+Evolución del mercado de electricidad desde julio de 2007 84
+Diferencias de precios entre la zona portuguesa y española desde julio de 2007 84
+8.  Facturación estimada por el suministro de electricidad 
+del consumidor medio 85
+Último mes disponible. Marzo 2026 86
+Últimos 12 meses. Abril 2025 - marzo 2026 88
+Coste medio de la electricidad durante los doce meses anteriores a cada fecha 90
+Peaje 2.0 TD 91
+Peaje 3.0 TD 92
+Peaje 3.0 TDVE 93
+Peaje 6.1 TD 94
+Peaje 6.1 TDVE 95
+Peaje 6.2 TD 96
+Peaje 6.3 TD 97
+Peaje 6.4 TD 98
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 5 de 98
+=== p6
+IS/DE/012/26
+Boletín de indicadores eléctricos
+Glosario
+Coste de producción de la energía (Coste de la Energía): Coste de la Energía incorporado al
+PVPC, resultado de aplicar la fórmula descrita en el Real Decreto 216/2014. Incluye los siguiente
+componentes:
+Pmh: Precio medio horario obtenido a partir de los resultados del mercado diario e
+intradrio
+SAh: Costes correspondiente a los servicios de ajuste del sistema
+OCh: Otros costes asociados al suministro que incluyen:
+- Pagos de los comercializadores para la financiación del OS
+- Pagos de los comercializadores para la financiación del OM
+- Pagos para la financiación de los mecanismos de capacidad
+- Pagos para la financiación del servicio de interrumpibilidad
+Curva de carga horaria: Demanda horaria en barras de central a lo largo de un periodo, por
+ejemplo, en un año.
+Demanda en barras de central (Demanda en b.c.): Energía inyectada en la red procedente de
+las centrales de generación y de los intercambios internacionales, una vez deducidos los
+consumos propios de las centrales.
+Demanda en consumo: Energía adquirida por los consumidores, medida en los puntos de
+consumo utilizando los correspondientes equipos de medida.
+Discriminación horaria: Diferenciación de las horas del año en periodos horarios de cada peaje
+de transporte y distribución.
+Escandallo de costes: Enumeración de los costes necesarios para retribuir las actividades
+destinadas a realizar el suministro de energía eléctrica.
+Gestión de desvíos: Mecanismo que tiene por objeto resolver los desvíos entre generación y
+consumo que pudieran aparecer con posterioridad al cierre de cada sesión del mercado
+intradiario y hasta el inicio del horizonte de efectividad de la siguiente sesión de dicho mercado.
+Grupo Tarifario: Agrupación de sumistros con las mismas características de conexión a un
+mismo nivel de tensión tarifario y con una misma discriminación horaria (véase Circular 3/2020,
+de 15 de enero (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-1066).
+Intercambios internacionales: Movimientos de energía que se realizan a través de las
+conexiones internacional durante un período determinado de tiempo. El saldo importador se
+presenta con signo positivo y el saldo exportador con signo negativo.
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 6 de 98
+=== p7
+IS/DE/012/26
+Boletín de indicadores eléctricos
+Market Splitting: Método de resolución de congestiones, que se aplica cuando se detectan
+congestiones en las interconexiones entre dos mercados organizados. Consiste en dividir el
+sistema en dos áreas, y realizar una casación por separado para cada una de éstas, ajustándolas
+para que el flujo por la línea sea igual a su capacidad máxima, lo que da lugar a precios de
+mercado diferentes en cada zona.
+Mercado diario: Mercado en el que se llevan a cabo las transacciones de compra y venta de
+energía eléctrica para el día siguiente.
+Mercado intradiario: Mercado que tiene por objeto atender los ajustes que en la oferta y
+demanda de energía se puedan producir con posterioridad al cierre del mercado diario.
+Mercados de operación: Mercados que tienen por objeto adaptar los programas de producción
+resultantes de los mercados diarios e intradiarios a las necesidades técnicas de calidad y
+seguridad requeridas por el suministro de energía eléctrica. Están compuestos por la solución de
+restricciones técnicas, la asignación de los servicios complementarios y la gestión de desvíos.
+Niveles de tensión tarifarios: Niveles de tensión que definen cada peaje de transporte y
+distribución, esto es NT0 (tensiones iguales o inferiores a 1 kV), NT1 (tensiones superiores a 1 kV
+e inferiores a 30 kV), NT2 (tensiones iguales o superiores a 30 kV e inferiores a 72,5 kV), NT3
+(tensiones iguales o superiores de 72,5 kV e inferiores a 145 kV) y NT4 (tensiones iguales o
+superiores a 145 kV)
+Pagos por capacidad: Pago regulado destinado a garantizar que existe potencia disponible
+suficiente para la cobertura de la demanda de energía eléctrica.
+Pérdidas estándar: pérdidas que resultan de la aplicación de los coeficientes de pérdidas
+estándares, valores téoricos empleados para elevar la energía medida en contador a energía en
+barras de central.
+Pérdidas estándar ajustadas: resultado de multiplicar los coeficientes de pérdidas estándares
+por el factor k, determinado por el Operador del Sistema, a efectos de asegurar que la energía
+generada sea igual a la demanda elevada a barras de central.
+Pérdidas medias reales: Resultado de comparar la demanda en barras de central y la demanda
+en consumo.
+Periodo horario: agrupación de las horas del año con las mismas características, a efectos de la
+discriminación horaria de los peajes de transporte y distribución.
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 7 de 98
+=== p8
+IS/DE/012/26
+Boletín de indicadores eléctricos
+Potencia facturada: resultado de dividir la facturación de potencia entre los términos de potencia
+utilizados en su calculo, en consecuencia, es la potencia contratada promediada por los términos
+de potencia. A partir de junio de 2021, se consideran, únicamente, los peajes de transporte y
+distribución.
+Precio medio: Cociente entre la facturación total y la demanda en consumo.
+Precio medio ponderado: Resultado de multiplicar cada uno de los distintos precios medios por
+la energía correspondiente, sumar las cantidades así obtenidas y dividir dicha cantidad por la
+suma de las energías consideradas.
+Precio Voluntario para el Pequeño Consumidor (PVPC): precios máximos y únicos en todo el
+territorio nacional que podrán cobrar los comercializadores de referencia a los consumidores
+conectados en baja tensión con potencia contratada igual o inferior a 10 kW. El PVPC incluye de
+forma aditiva los peajes de acceso a las redes de transporte y distribuición, los cargos, el coste de
+comercialización y el coste de producción.
+Restricciones técnicas: Mecanismo integrado en el mercado de producción de energía eléctrica
+realizado por el Operador del Sistema, consistente en la resolución de las restricciones técnicas
+identificadas en el programa resultante del mercado diario, mediante la modificación de los
+programas de los grupos de generación y el posterior proceso de reequilibrio generación-
+demanda.
+Senda de precios mínima: para cada uno de los meses refleja el precio mínimo registrado en el
+mercado de referencia durante un ámbito temporal determinado.
+Senda de precios máxima: para cada uno de los meses refleja el máximo precio registrado en el
+mercado de referencia durante un ámbito temporal determinado.
+Servicios complementarios: Servicios necesarios para asegurar el suministro de energía en las
+condiciones de seguridad, calidad y fiabilidad requeridas. Incluyen: regulación primaria, regulación
+secundaria, regulación terciaria y control de tensión de la red de transporte.
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 8 de 98
+=== p9
+IS/DE/012/26
+Boletín de indicadores eléctricos
+Fuentes de información
+Base de Datos de Liquidaciones del Sector Eléctrico (SINCRO)
+Información disponible en la CNMC sobre el número de consumidores, potencias contratadas
+y consumos, así como la facturación por peajes de acceso, peajes de tranposrte y distribución
+y cargos desagregada por peaje que remiten mensualmente las empresas distribuidoras a
+efectos de realizar las liquidaciones del sector eléctrico.
+Existe un desfase temporal entre el mes en que se consume una determinada energía y el
+periodo de facturación de dicha energía. Dicho desfase varía según el tipo de consumidor.
+Hasta ahora, generalmente la información de consumo relativa a un mes podía considerarse
+prácticamente completa una vez transcurridos dos meses.
+La información contenida en el presente Boletín no incluye información sobre los suministros
+conectados a distribuidores con menos de 100.000 clientes.
+Información estadística del operador del sistema
+La fuente de información relativa a la demanda en barras de central y la estructura de
+generación es el servicio REData de REE (https://www.ree.es/es/datos/aldia).
+La fuente de información de las previsiones de la demanda peninsular y de los factores k
+utilizados en el cálculo de las pérdidas estándar ajustadas es el Sistema de Información del
+Operador del Sistema (esios) (www.esios.ree.es/es).
+Precios de Mercado
+Se han utilizado las siguientes fuentes de información:
+1998 - 2005: OMEL
+2006: Elaboración propia a partir de información de OMEL y REE
+2007 y siguientes: CNE y CNMC
+Los datos relativos a precios de mercado que figuran en este Boletín, se publican solamente a
+título indicativo. Dichos precios han sido calculados utilizando la información pública
+disponible en el momento de cálculo y aplicando lo establecido en el Real Decreto Ley
+3/2006.
+A partir del 15 de junio de 2022 los precios finales incluyen el resultado de aplicar el
+mecanismo de ajuste de costes de producción establecido en el Real Decreto-ley 10/2022, de
+13 de mayo, por el que se establece con carácter temporal un mecanismo de ajuste de costes
+de producción para la reducción del precio de la electricidad en el mercado mayorista.
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 9 de 98
+=== p10
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.1 Demanda en barras de central del sistema nacional
+% Variación  % Variación  % Variación
+GWh s/mismo mes  s/acumulado  s/últimos 12
+año anterior  anual  meses
+25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25
+Enero 22.354    22.938    24.107    2,62 5,09 2,62 5,09 1,16 3,08
+Febrero 20.336    20.264    20.579    -0,35 1,55 1,20 3,43 1,22 3,23
+Marzo 20.763    21.878    21.441    5,37 -2,00 2,57 1,61 1,62 2,60
+Abril 19.404    18.784    18.964    -3,20 0,96 1,22 1,46 0,92 2,93
+Mayo 19.541    19.554    19.960    0,06 2,08 1,00 1,58 0,81 3,08
+Junio 19.647    21.863    22.224    11,27 1,65 2,65 1,59 1,83 2,32
+Julio 22.777    23.531    -              3,31 2,75 2,15
+Agosto 22.458    22.316    -              -0,63 2,30 1,83
+Septiembre 19.951    20.827    -              4,39 2,52 2,11
+Octubre 20.341    20.470    -              0,64 2,34 2,02
+Noviembre 19.909    21.091    -              5,94 2,65 2,58
+Diciembre 21.675    22.741    -              4,92 2,85 2,85
+Anual 249.155  256.257  127.274  
+Fuente: Datos del sistema eléctrico (REE)
+% Variación de la demanda nacional
+  
+  
+  
+  
+Fuente: Datos del sistema eléctrico (REE)
+Mes 2024 2025 2026
+-20,0%
+-15,0%
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+ene-98
+ene-99
+ene-00
+ene-01
+ene-02
+ene-03
+ene-04
+ene-05
+ene-06
+ene-07
+ene-08
+ene-09
+ene-10
+ene-11
+ene-12
+ene-13
+ene-14
+ene-15
+ene-16
+ene-17
+ene-18
+ene-19
+ene-20
+ene-21
+ene-22
+ene-23
+ene-24
+ene-25
+ene-26
+% variación
+Sobre el mismo mes del año anterior Media móvil 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 10 de 98
+=== p11
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.1 Demanda en barras de central del sistema nacional
+Cobertura de la demanda en el mes de mayo de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+La producción Eólica incluye la energía producida por la central de Gorona del Viento en la isla del Hierro
+Cobertura de la demanda en el mes de abril de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+La producción Eólica incluye la energía producida por la central de Gorona del Viento en la isla del Hierro
+Eólica
+14,7%
+Solar fotovoltaica
+27,3%
+Solar térmica
+2,3%
+Térmica renovable
+1,4%
+Térmica no renovable
+4,9%
+Residuos no renovables
+0,3%
+Residuos renovables
+0,2%
+Hidráulica
+9,5%
+Nuclear
+16,5%
+Carbón
+0,4%
+Ciclo Combinado
+14,8%
+Fuel-Gas
+1,6%
+Saldo Baterias
+0,0%
+Saldo Intercambios 
+internacionales
+-6,1%
+Eólica
+18,3%
+Solar fotovoltaica
+23,9%
+Solar térmica
+1,7%
+Térmica renovable
+1,4%Térmica no renovable
+4,4%
+Residuos no renovables
+0,4%Residuos renovables
+0,3%
+Hidráulica
+10,1%
+Nuclear
+18,4%
+Carbón
+0,0%
+Ciclo Combinado
+14,3%
+Fuel-Gas
+1,7%
+Saldo Baterias
+0,0%
+Saldo Intercambios 
+internacionales
+-5,1%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 11 de 98
+=== p12
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.1 Demanda en barras de central del sistema nacional
+Cobertura de la demanda. 2007 - 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+La producción Eólica incluye la energía producida por la central de Gorona del Viento en la isla del Hierro
+0
+5
+10
+15
+20
+25
+30
+ene-07 may-08 sep-09 ene-11 may-12 sep-13 ene-15 may-16 sep-17 ene-19 may-20 sep-21 ene-23 may-24 sep-25
+GWh
+Eólica Solar fotovoltaica Solar térmica
+Térmica renovable Térmica no renovable Residuos no renovables
+Residuos renovables Nuclear Hidráulica
+Carbón Fuel-Gas Ciclo Combinado
+Saldo Intercambios internacionales Saldo Baterias
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 12 de 98
+=== p13
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.2 Demanda en barras de central del sistema peninsular
+% Variación  % Variación  % Variación
+GWh s/mismo mes  s/acumulado  s/últimos 12
+año anterior  anual  meses
+25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25
+Enero 21.123    21.687    22.797    2,67 5,12 2,67 5,12 1,13 3,18
+Febrero 19.198    19.135    19.467    -0,33 1,74 1,24 3,53 1,21 3,35
+Marzo 19.520    20.652    20.193    5,80 -2,22 2,73 1,60 1,67 2,65
+Abril 18.119    17.627    17.787    -2,72 0,91 1,46 1,45 1,06 2,94
+Mayo 18.313    18.330    18.718    0,09 2,12 1,20 1,57 0,95 3,09
+Junio 18.373    20.493    20.849    11,54 1,74 2,86 1,60 1,99 2,32
+Julio 21.283    21.969    -              3,22 2,92 2,27
+Agosto 20.890    20.725    -              -0,79 2,42 1,92
+Septiembre 18.611    19.401    -              4,25 2,62 2,17
+Octubre 19.023    19.140    -              0,61 2,42 2,06
+Noviembre 18.743    19.888    -              6,11 2,74 2,65
+Diciembre 20.432    21.473    -              5,10 2,95 2,95
+Anual 233.628  240.520  119.812  
+Fuente: Datos del sistema eléctrico (REE)
+% Variación de la demanda peninsular
+  
+  
+  
+  
+Fuente: Datos del sistema eléctrico (REE)
+Mes 2024 2025 2026
+-20,0%
+-15,0%
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+ene.-92
+mar.-93
+may.-94
+jul.-95
+sep.-96
+nov.-97
+ene.-99
+mar.-00
+may.-01
+jul.-02
+sep.-03
+nov.-04
+ene.-06
+mar.-07
+may.-08
+jul.-09
+sep.-10
+nov.-11
+ene.-13
+mar.-14
+may.-15
+jul.-16
+sep.-17
+nov.-18
+ene.-20
+mar.-21
+may.-22
+jul.-23
+sep.-24
+nov.-25
+% variación
+Sobre el mismo mes del año anterior Media móvil 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 13 de 98
+=== p14
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.2 Demanda en barras de central del sistema peninsular
+% Variación s/últimos 12 meses de la demanda en barras de central peninsular :
+Descomposición del crecimiento
+Fuente: Datos del sistema eléctrico (REE)
+Previsión REE de la demanda peninsular
+2026 2027
+% Variación % Variación % Variación % Variación
+Mes s/mismo mes s/últimos s/mismo mes s/últimos
+año anterior 12 meses año anterior 12 meses
+Enero 22.797        5,12 3,18 22.822        0,11 0,73
+Febrero 19.467        1,74 3,35 20.458        5,09 1,00
+Marzo 20.193        -2,22 2,65 20.826        3,13 1,46
+Abril 17.787        0,91 2,94 18.792        5,65 1,81
+Mayo 18.718        2,12 3,09 18.704        -0,08 1,64
+Junio 20.849        1,74 2,32 19.510        -6,42 0,94
+Julio 21.550        -1,90 1,85
+Agosto 20.390        -1,62 1,78
+Septiembre 19.653        1,30 1,55
+Octubre 19.609        2,45 1,70
+Noviembre 20.436        2,76 1,44
+Diciembre 21.926        2,11 1,19
+Anual 243.376       1,19  - 
+Fuente: REE
+GWh GWh
+-8%
+-6%
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+ene-92
+feb-93
+mar-94
+abr-95
+may-96
+jun-97
+jul-98
+ago-99
+sep-00
+oct-01
+nov-02
+dic-03
+ene-05
+feb-06
+mar-07
+abr-08
+may-09
+jun-10
+jul-11
+ago-12
+sep-13
+oct-14
+nov-15
+dic-16
+ene-18
+feb-19
+mar-20
+abr-21
+may-22
+jun-23
+jul-24
+ago-25
+% variación
+Efecto Laboralidad Efecto Temperatura
+Efecto Activ. Económica Efecto Total
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 14 de 98
+=== p15
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.2 Demanda en barras de central del sistema peninsular
+Cobertura de la demanda en el mes de mayo de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+Cobertura de la demanda en el mes de abril de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+Eólica
+18,8%
+Solar fotovoltaica
+24,6%
+Solar térmica
+1,8%
+Térmica renovable…
+Térmica no renovable
+4,6%
+Residuos no renovables
+0,3%Residuos renovables
+0,2%
+Hidráulica
+10,6%
+Nuclear
+19,3%
+Carbón
+0,0%
+Ciclo Combinado
+12,5%
+Fuel-Gas
+0,0%
+Saldo Baterias
+0,0%
+Saldo Intercambios 
+internacionales
+-5,3%
+Enlace Península-
+Baleares
+-0,5%
+Eólica
+15,0%
+Solar fotovoltaica
+28,1%
+Solar térmica
+2,4%
+Térmica renovable
+1,4%Térmica no renovable
+5,1%
+Residuos no renovables
+0,3%Residuos renovables
+0,2%
+Hidráulica
+10,0%
+Nuclear
+17,3%
+Carbón
+0,4%
+Ciclo Combinado
+13,0%
+Fuel-Gas
+0,0%
+Saldo Baterias
+0,0%
+Saldo Intercambios 
+internacionales
+-6,4%
+Enlace 
+Península-
+Baleares
+-0,5%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 15 de 98
+=== p16
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.2 Demanda en barras de central del sistema peninsular
+Cobertura de la demanda. 1990 - 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+0
+5
+10
+15
+20
+25
+30
+ene-90
+ene-91
+ene-92
+ene-93
+ene-94
+ene-95
+ene-96
+ene-97
+ene-98
+ene-99
+ene-00
+ene-01
+ene-02
+ene-03
+ene-04
+ene-05
+ene-06
+ene-07
+ene-08
+ene-09
+ene-10
+ene-11
+ene-12
+ene-13
+ene-14
+ene-15
+ene-16
+ene-17
+ene-18
+ene-19
+ene-20
+ene-21
+ene-22
+ene-23
+ene-24
+ene-25
+ene-26
+GWh
+Eólica Solar fotovoltaica
+Solar térmica Térmica renovable
+Térmica no renovable Residuos no renovables
+Residuos renovables Nuclear
+Hidráulica Carbón
+Fuel-Gas Ciclo Combinado
+Saldo Intercambios internacionales Enlace Península-Baleares
+Saldo Baterias
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 16 de 98
+=== p17
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.3 Demanda en barras de central extrapeninsular e insular
+% Variación  % Variación  % Variación
+GWh s/mismo mes  s/acumulado  s/últimos 12
+año anterior  anual  meses
+25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25
+Enero 1.231      1.251      1.310      1,66 4,68 1,66 4,68 1,59 1,60
+Febrero 1.138      1.129      1.111      -0,76 -1,58 0,50 1,71 1,43 1,54
+Marzo 1.243      1.226      1.248      -1,34 1,75 -0,14 1,73 0,85 1,78
+Abril 1.285      1.157      1.176      -10,00 1,69 -2,72 1,72 -1,05 2,76
+Mayo 1.228      1.224      1.241      -0,40 1,45 -2,26 1,66 -1,23 2,91
+Junio 1.275      1.370      1.375      7,47 0,42 -0,58 1,43 -0,42 2,31
+Julio 1.493      1.563      -              4,63 0,29 0,40
+Agosto 1.567      1.591      -              1,48 0,47 0,49
+Septiembre 1.340      1.425      -              6,37 1,14 1,13
+Octubre 1.318      1.330      -              0,95 1,12 1,38
+Noviembre 1.166      1.203      -              3,19 1,29 1,50
+Diciembre 1.243      1.269      -              2,05 1,35 1,35
+Anual 15.527    15.737    7.462      
+Fuente: Datos del sistema eléctrico (REE)
+% Variación de la demanda extrapeninsular e insular
+  
+  
+  
+  
+Fuente: Datos del sistema eléctrico (REE)
+Mes 2024 2025 2026
+-30,0%
+-25,0%
+-20,0%
+-15,0%
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+ene-98
+ene-99
+ene-00
+ene-01
+ene-02
+ene-03
+ene-04
+ene-05
+ene-06
+ene-07
+ene-08
+ene-09
+ene-10
+ene-11
+ene-12
+ene-13
+ene-14
+ene-15
+ene-16
+ene-17
+ene-18
+ene-19
+ene-20
+ene-21
+ene-22
+ene-23
+ene-24
+ene-25
+ene-26
+% variación
+Sobre el mismo mes del año anterior Media móvil 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 17 de 98
+=== p18
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.3 Demanda en barras de central extrapeninsular e insular
+Cobertura de la demanda en el mes de mayo de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+La producción Eólica incluye la energía producida por la central de Gorona del Viento en la isla del Hierro
+Cobertura de la demanda en el mes de abril de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+La producción Eólica incluye la energía producida por la central de Gorona del Viento en la isla del Hierro
+Eólica
+7,1% Solar fotovoltaica
+8,5%
+Térmica renovable
+0,2%
+Térmica no renovable
+0,2%
+Residuos no renovables
+1,3%
+Residuos renovables
+1,3%
+Carbón
+0,0%
+Ciclo Combinado
+42,7%
+Fuel-Gas
+30,3%
+Saldo Baterias
+0,0%
+Enlace Península-
+Baleares
+8,3%
+Eólica
+7,4%
+Solar fotovoltaica
+8,4%
+Térmica renovable
+0,2%
+Térmica no renovable
+0,2%
+Residuos no renovables
+0,9%
+Residuos renovables
+0,9%
+Carbón
+0,0%
+Ciclo Combinado
+43,5%
+Fuel-Gas
+29,3%
+Saldo Baterias
+0,0%
+Enlace Península-
+Baleares
+9,2%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 18 de 98
+=== p19
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.3 Demanda en barras de central extrapeninsular e insular
+Cobertura de la demanda. 2007 - 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+La producción Eólica incluye la energía producida por la central de Gorona del Viento en la isla del Hierro
+0
+200
+400
+600
+800
+1.000
+1.200
+1.400
+1.600
+1.800
+ene-07 sep-08 may-10 ene-12 sep-13 may-15 ene-17 sep-18 may-20 ene-22 sep-23 may-25
+MWh
+Eólica Solar fotovoltaica Térmica renovable
+Térmica no renovable Residuos no renovables Residuos renovables
+Hidráulica Carbón Fuel-Gas
+Ciclo Combinado Enlace Península-Baleares Saldo Baterias
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 19 de 98
+=== p20
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.4 Demanda en barras de central del Sistema Balear
+% Variación  % Variación  % Variación
+GWh s/mismo mes  s/acumulado  s/últimos 12
+año anterior  anual  meses
+25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25
+Enero 449         459         501         2,11 9,21 2,11 9,21 3,08 2,14
+Febrero 410         420         401         2,51 -4,71 2,30 2,56 3,68 1,65
+Marzo 480         454         466         -5,26 2,48 -0,40 2,53 2,20 2,25
+Abril 541         428         441         -20,81 2,82 -6,28 2,60 -1,80 4,33
+Mayo 480         478         495         -0,37 3,60 -5,08 2,82 -2,07 4,64
+Junio 541         626         619         15,70 -1,12 -1,20 1,95 -0,54 3,09
+Julio 685         733         -              6,98 0,36 1,14
+Agosto 734         731         -              -0,39 0,24 0,68
+Septiembre 557         605         -              8,48 1,18 1,64
+Octubre 504         501         -              -0,77 1,00 1,48
+Noviembre 385         417         -              8,38 1,49 1,87
+Diciembre 453         467         -              3,21 1,61 1,61
+Anual 6.219      6.320      2.922      
+Fuente: Datos del sistema eléctrico (REE)
+% Variación de la demanda del Sistema Balear
+  
+  
+  
+  
+Fuente: Datos del sistema eléctrico (REE)
+Mes 2024 2025 2026
+-40,0%
+-30,0%
+-20,0%
+-10,0%
+0,0%
+10,0%
+20,0%
+30,0%
+40,0%
+ene-08
+sep-08
+may-09
+ene-10
+sep-10
+may-11
+ene-12
+sep-12
+may-13
+ene-14
+sep-14
+may-15
+ene-16
+sep-16
+may-17
+ene-18
+sep-18
+may-19
+ene-20
+sep-20
+may-21
+ene-22
+sep-22
+may-23
+ene-24
+sep-24
+may-25
+ene-26
+% variación
+Sobre el mismo mes del año anterior Media móvil 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 20 de 98
+=== p21
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.4 Demanda en barras de central del Sistema Balear
+Cobertura de la demanda en el mes de mayo de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+Cobertura de la demanda en el mes de abril de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+Eólica
+0,0%
+Solar fotovoltaica
+13,5%
+Térmica renovable
+0,4% Térmica no renovable
+0,6%
+Residuos no renovables
+3,4%
+Residuos renovables
+3,4%
+Carbón
+0,0%
+Ciclo Combinado
+49,4%
+Fuel-Gas
+7,1%
+Saldo Baterias
+0,0%
+Enlace Península-
+Baleares
+22,1%
+Eólica
+0,0%
+Solar fotovoltaica
+11,9%
+Térmica renovable
+0,4% Térmica no renovable
+0,6%
+Residuos no renovables
+2,3%
+Residuos renovables
+0,0%
+Carbón
+0,0%
+Ciclo Combinado
+49,1%
+Fuel-Gas
+12,2%
+Saldo Baterias
+0,0%
+Enlace Península-
+Baleares
+23,6%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 21 de 98
+=== p22
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.4 Demanda en barras de central del Sistema Balear
+Cobertura de la demanda. 2006 - 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+0
+100
+200
+300
+400
+500
+600
+700
+800
+ene-07 sep-08 may-10 ene-12 sep-13 may-15 ene-17 sep-18 may-20 ene-22 sep-23 may-25
+MWh
+Eólica Solar fotovoltaica Térmica renovable
+Térmica no renovable Residuos no renovables Residuos renovables
+Hidráulica Carbón Fuel-Gas
+Ciclo Combinado Enlace Península-Baleares Saldo Baterias
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 22 de 98
+=== p23
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.5 Demanda en barras de central del Sistema Canario
+% Variación  % Variación  % Variación
+GWh s/mismo mes  s/acumulado  s/últimos 12
+año anterior  anual  meses
+25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25
+Enero 749         757         770         1,03 1,75 1,03 1,75 0,34 1,04
+Febrero 698         677         678         -3,01 0,23 -0,92 1,03 -0,35 1,29
+Marzo 732         737         748         0,71 1,47 -0,37 1,18 -0,40 1,36
+Abril 713         697         705         -2,16 1,03 -0,81 1,14 -0,89 1,61
+Mayo 716         713         714         -0,48 0,24 -0,75 0,96 -0,99 1,67
+Junio 701         707         720         0,90 1,84 -0,48 1,11 -0,68 1,75
+Julio 768         786         -              2,37 -0,05 -0,44
+Agosto 791         818         -              3,44 0,42 0,09
+Septiembre 745         783         -              4,99 0,94 0,58
+Octubre 778         793         -              1,89 1,04 1,13
+Noviembre 748         752         -              0,45 0,98 1,07
+Diciembre 757         764         -              0,90 0,98 0,98
+Anual 8.897      8.983      4.335      
+Fuente: Datos del sistema eléctrico (REE)
+% Variación de la demanda del Sistema Canario
+  
+  
+  
+  
+Fuente: Datos del sistema eléctrico (REE)
+Mes 2024 2025 2026
+-25,0%
+-20,0%
+-15,0%
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+ene-08
+sep-08
+may-09
+ene-10
+sep-10
+may-11
+ene-12
+sep-12
+may-13
+ene-14
+sep-14
+may-15
+ene-16
+sep-16
+may-17
+ene-18
+sep-18
+may-19
+ene-20
+sep-20
+may-21
+ene-22
+sep-22
+may-23
+ene-24
+sep-24
+may-25
+ene-26
+% variación
+Sobre el mismo mes del año anterior Media móvil 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 23 de 98
+=== p24
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.5 Demanda en barras de central del Sistema Canario
+Cobertura de la demanda en el mes de mayo de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+La producción Eólica incluye la energía producida por la central de Gorona del Viento en la isla del Hierro
+Cobertura de la demanda en el mes de abril de 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+La producción Eólica incluye la energía producida por la central de Gorona del Viento en la isla del Hierro
+Eólica
+13%
+Solar fotovoltaica
+7%
+Térmica renovable
+0%
+Hidráulica
+0%
+Ciclo Combinado
+42%
+Fuel-Gas
+38%
+Saldo Baterias
+0%
+Eólica
+12%
+Solar fotovoltaica
+6%
+Térmica renovable
+0%
+Hidráulica
+0%
+Ciclo Combinado
+40%
+Fuel-Gas
+42%
+Saldo Baterias
+0%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 24 de 98
+=== p25
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.5 Demanda en barras de central del Sistema Canario
+Cobertura de la demanda. 2006 - 2026
+Fuente: Datos del sistema eléctrico (REE)
+Nota:  Los datos utilizados en el cálculo de la cobertura de la demanda son datos de producción netos
+La producción Eólica incluye la energía producida por la central de Gorona del Viento en la isla del Hierro
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+ene-06 oct-07 jul-09 abr-11 ene-13 oct-14 jul-16 abr-18 ene-20 oct-21 jul-23 abr-25
+MWh
+Eólica Solar fotovoltaica Térmica renovable
+Térmica no renovable Residuos no renovables Residuos renovables
+Fuel-Gas Ciclo Combinado Hidráulica
+Saldo Baterias
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 25 de 98
+=== p26
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.6 Demanda en barras de central del Sistema Ceutí
+% Variación  % Variación  % Variación
+GWh s/mismo mes  s/acumulado  s/últimos 12
+año anterior  anual  meses
+25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25
+Enero 15,95      17,09      19,17      7,17 12,17 7,17 12,17 6,63 5,26
+Febrero 14,66      15,51      15,36      5,80 -0,99 6,52 5,91 7,69 4,74
+Marzo 15,35      16,98      15,70      10,66 -7,59 7,90 1,29 8,60 3,24
+Abril 15,43      14,96      14,36      -3,04 -4,02 5,15 0,06 7,38 3,18
+Mayo 15,95      15,78      14,88      -1,10 -5,70 3,86 -1,07 6,27 2,82
+Junio 15,93      16,86      16,64      5,88 -1,29 4,20 -1,11 6,25 2,23
+Julio 18,07      19,30      -              6,83 4,63 6,31
+Agosto 19,30      19,18      -              -0,63 3,85 5,01
+Septiembre 17,50      17,86      -              2,04 3,64 4,22
+Octubre 17,13      17,79      -              3,86 3,66 3,78
+Noviembre 15,82      16,67      -              5,37 3,81 3,60
+Diciembre 15,60      18,17      -              16,51 4,82 4,82
+Anual 196,68    206,16    96,11      
+Fuente: Datos del sistema eléctrico (REE)
+% Variación de la demanda del Sistema Ceutí
+  
+  
+  
+  
+Fuente: Datos del sistema eléctrico (REE)
+Mes 2024 2025 2026
+-20,0%
+-15,0%
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+ene-05
+oct-05
+jul-06
+abr-07
+ene-08
+oct-08
+jul-09
+abr-10
+ene-11
+oct-11
+jul-12
+abr-13
+ene-14
+oct-14
+jul-15
+abr-16
+ene-17
+oct-17
+jul-18
+abr-19
+ene-20
+oct-20
+jul-21
+abr-22
+ene-23
+oct-23
+jul-24
+abr-25
+ene-26
+% variación
+Sobre el mismo mes del año anterior Media móvil 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 26 de 98
+=== p27
+IS/DE/012/26
+Boletín de indicadores eléctricos
+1.7 Demanda en barras de central del Sistema Melillense
+% Variación  % Variación  % Variación
+GWh s/mismo mes  s/acumulado  s/últimos 12
+año anterior  anual  meses
+25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25  25 s/ 24 26 s/ 25
+Enero 16,55      18,61      19,62      12,43 5,44 12,43 5,44 6,92 5,56
+Febrero 15,03      16,30      16,86      8,46 3,44 10,54 4,51 7,48 5,20
+Marzo 15,50      17,23      17,91      11,18 3,91 10,75 4,31 8,18 4,67
+Abril 15,94      15,89      16,76      -0,29 5,47 7,96 4,58 7,37 5,09
+Mayo 16,72      17,16      16,90      2,62 -1,47 6,84 3,36 6,95 4,77
+Junio 17,06      20,08      20,06      17,70 -0,09 8,75 2,70 8,20 3,34
+Julio 21,78      23,60      -              8,34 8,68 9,17
+Agosto 23,96      23,00      -              -4,03 6,54 7,57
+Septiembre 19,61      20,09      -              2,42 6,04 6,57
+Octubre 17,93      18,94      -              5,63 6,00 6,48
+Noviembre 16,56      17,24      -              4,08 5,84 6,13
+Diciembre 17,64      19,22      -              8,95 6,10 6,10
+Anual 214,29    227,35    108,12    
+Fuente: Datos del sistema eléctrico (REE)
+% Variación de la demanda del Sistema Melillense
+  
+  
+  
+  
+Fuente: Datos del sistema eléctrico (REE)
+Mes 2024 2025 2026
+-20,0%
+-15,0%
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+ene-05
+oct-05
+jul-06
+abr-07
+ene-08
+oct-08
+jul-09
+abr-10
+ene-11
+oct-11
+jul-12
+abr-13
+ene-14
+oct-14
+jul-15
+abr-16
+ene-17
+oct-17
+jul-18
+abr-19
+ene-20
+oct-20
+jul-21
+abr-22
+ene-23
+oct-23
+jul-24
+abr-25
+ene-26
+% variación
+Sobre el mismo mes del año anterior Media móvil 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 27 de 98
+=== p28
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.1 Demanda de consumidores nacionales
+Energía consumida
+% Variación % Variación % Variación
+GWh s/mismo mes s/acumulado s/últimos 12
+año anterior anual meses
+25 s/ 24 26 s/ 25 25 s/ 24 26 s/ 25 25 s/ 24 26 s/ 25
+Enero 19.165    19.801    20.617    3,32 4,12 3,32 4,12 1,88 3,60
+Febrero 17.660    17.768    17.841    0,61 0,41 2,02 2,37 1,90 3,59
+Marzo 17.938    19.006    18.298    5,95 -3,72 3,31 0,32 2,45 2,77
+Abril 17.187    17.006    -              -1,05 2,27 1,93
+Mayo 17.653    17.884    -              1,31 2,08 1,82
+Junio 17.825    19.816    -              11,17 3,59 2,80
+Julio 20.384    21.312    -              4,56 3,74 3,11
+Agosto 19.795    19.804    -              0,05 3,24 2,81
+Septiembre 18.137    18.882    -              4,10 3,34 3,02
+Octubre 18.166    18.569    -              2,22 3,23 3,03
+Noviembre 17.593    18.510    -              5,21 3,40 3,42
+Diciembre 18.641    19.564    -              4,95 3,53 3,53
+Anual 220.146  227.922  56.756    
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+% Variación de la demanda en consumo
+ 
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+Mes 2024 2025 2026
+-8%
+-6%
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+ene-23
+mar-23
+may-23
+jul-23
+sep-23
+nov-23
+ene-24
+mar-24
+may-24
+jul-24
+sep-24
+nov-24
+ene-25
+mar-25
+may-25
+jul-25
+sep-25
+nov-25
+ene-26
+mar-26
+%
+Variación mismo mes año anterior Variación últimos 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 28 de 98
+=== p29
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.1 Demanda de consumidores nacionales
+% Variación s/ el mismo mes del año anterior
+2025 octubre 1,6% 2,2% 2,0% 1,1% 4,0% 3,4% 2,0%
+noviembre 8,1% 4,6% 2,8% 1,2% 4,4% 8,0% 5,1%
+diciembre 6,9% 4,2% 3,1% 1,6% -1,8% 9,2% 4,8%
+2026 enero 9,4% 3,6% 0,0% -4,7% -5,7% 8,7% 4,0%
+febrero 3,1% 1,3% -0,2% -5,1% -10,6% 2,3% 0,4%
+marzo -2,1% -0,6% -0,1% -7,1% -14,6% -18,1% -3,9%
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+No se incluye otros consumos (empleados, consumos propios, concesiones administrativas y  trasvase Tajo - Segura)
+Año
+3.0 TD / 3.0 
+TDVE2.0 TD
+Baja Tensión 
+(≤ 1 kV)
+TOTAL
+Alta Tensión 
+(> 1 kV)
+6.1 TD / 6.1 
+TDVE
+6.2 TD / 6.2 
+TDVE 6.3 TD 6.4 TD
+-20%
+-15%
+-10%
+-5%
+0%
+5%
+10%
+15%
+20%
+25%
+mar-23
+may-23
+jul-23
+sep-23
+nov-23
+ene-24
+mar-24
+may-24
+jul-24
+sep-24
+nov-24
+ene-25
+mar-25
+may-25
+jul-25
+sep-25
+nov-25
+ene-26
+mar-26
+-20%
+-10%
+0%
+10%
+20%
+30%
+mar-25 abr-25 may-25 jun-25 jul-25 ago-25 sep-25 oct-25 nov-25 dic-25 ene-26 feb-26 mar-26
+0%2000000%4000000%6000000%8000000%
+01/03/2026
+Orden2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 29 de 98
+=== p30
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.1 Demanda de consumidores nacionales
+% Variación s/últimos 12 meses por niveles de tensión
+2025 octubre 5,1% 3,1% 1,2% -0,1% 3,5% 4,5% 3,0%
+noviembre 5,7% 3,5% 1,6% 0,1% 3,7% 4,9% 3,4%
+diciembre 6,0% 3,7% 1,6% 0,0% 3,0% 5,0% 3,5%
+2026 enero 6,4% 3,8% 1,6% -0,3% 1,9% 5,2% 3,6%
+febrero 6,3% 3,9% 1,7% -0,3% 0,9% 5,0% 3,6%
+marzo 5,4% 3,3% 1,4% -1,2% -0,7% 2,4% 2,7%
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+No se incluye otros consumos (empleados, consumos propios, concesiones administrativas y  trasvase Tajo - Segura) 
+TOTALAño
+3.0 TD / 3.0 
+TDVE
+Baja Tensión 
+(≤ 1 kV)
+2.0 TD
+Alta Tensión 
+(> 1 kV)
+6.1 TD / 6.1 
+TDVE
+6.2 TD / 6.2 
+TDVE 6.3 TD 6.4 TD
+-20%
+-15%
+-10%
+-5%
+0%
+5%
+10%
+mar-23
+may-23
+jul-23
+sep-23
+nov-23
+ene-24
+mar-24
+may-24
+jul-24
+sep-24
+nov-24
+ene-25
+mar-25
+may-25
+jul-25
+sep-25
+nov-25
+ene-26
+mar-26
+-2%
+-1%
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+mar-25 abr-25 may-25 jun-25 jul-25 ago-25 sep-25 oct-25 nov-25 dic-25 ene-26 feb-26 mar-26
+0%2000000%4000000%6000000%8000000%
+01/03/2026
+Orden2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 30 de 98
+=== p31
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.1 Demanda de consumidores nacionales
+Evolución de la demanda en b.c. y de la demanda en consumo
+Tasa acumulada
+Media móvil de 12 meses
+Fuente: Datos del sistema eléctrico (REE) y CNMC (SINCRO, liquidación 5 de 2026)
+-2,0%
+-1,0%
+0,0%
+1,0%
+2,0%
+3,0%
+4,0%
+5,0%
+6,0%
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+mar-25
+abr-25
+may-25
+jun-25
+jul-25
+ago-25
+sep-25
+oct-25
+nov-25
+dic-25
+ene-26
+feb-26
+mar-26
+%
+-0,5%
+0,0%
+0,5%
+1,0%
+1,5%
+2,0%
+2,5%
+3,0%
+3,5%
+4,0%
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+mar-25
+abr-25
+may-25
+jun-25
+jul-25
+ago-25
+sep-25
+oct-25
+nov-25
+dic-25
+ene-26
+feb-26
+mar-26
+%
+Demanda en b.c. Demanda en consumo Diferencia: Demanda en consumo - Demanda en b.c.
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 31 de 98
+=== p32
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.2 Demanda de consumidores peninsulares
+Energía consumida
+% Variación % Variación % Variación
+GWh s/mismo mes s/acumulado s/últimos 12
+año anterior anual meses
+25 s/ 24 26 s/ 25 25 s/ 24 26 s/ 25 25 s/ 24 26 s/ 25
+Enero 18.080    18.684    19.461    3,34 4,16 3,34 4,16 1,94 3,63
+Febrero 16.647    16.767    16.837    0,72 0,42 2,08 2,39 1,98 3,61
+Marzo 16.874    17.917    17.186    6,18 -4,08 3,42 0,22 2,56 2,74
+Abril 16.130    15.954    -              -1,09 2,35 2,03
+Mayo 16.543    16.760    -              1,31 2,14 1,92
+Junio 16.676    18.566    -              11,33 3,66 2,91
+Julio 19.043    19.903    -              4,52 3,80 3,20
+Agosto 18.406    18.380    -              -0,14 3,27 2,86
+Septiembre 16.930    17.592    -              3,92 3,34 3,03
+Octubre 16.985    17.362    -              2,22 3,23 3,02
+Noviembre 16.552    17.433    -              5,32 3,42 3,43
+Diciembre 17.544    18.441    -              5,11 3,56 3,56
+Anual 206.410  213.760  53.484    
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+% Variación de la demanda en consumo
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+2024 2025 2026Mes
+-8%
+-6%
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+ene-23
+mar-23
+may-23
+jul-23
+sep-23
+nov-23
+ene-24
+mar-24
+may-24
+jul-24
+sep-24
+nov-24
+ene-25
+mar-25
+may-25
+jul-25
+sep-25
+nov-25
+ene-26
+mar-26
+%
+Variación mismo mes año anterior Variación últimos 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 32 de 98
+=== p33
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.2 Demanda de consumidores peninsulares
+% Variación s/ el mismo mes del año anterior
+2025 octubre 1,5% 2,4% 1,9% 1,1% 4,0% 3,4% 2,0%
+noviembre 8,3% 4,9% 2,9% 1,0% 4,4% 8,0% 5,2%
+diciembre 7,1% 4,6% 3,4% 1,4% -1,8% 9,2% 5,0%
+2026 enero 9,5% 3,7% 0,1% -4,7% -5,7% 8,7% 4,0%
+febrero 3,2% 1,4% -0,2% -5,1% -10,6% 2,2% 0,4%
+marzo -2,5% -0,9% -0,2% -7,1% -14,6% -18,0% -4,2%
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+No se incluye otros consumos (empleados, consumos propios, concesiones administrativas y  trasvase Tajo - Segura)
+TOTAL
+2.0 TD 3.0 TD / 3.0 
+TDVE
+Año
+Baja Tensión 
+(≤ 1 kV)
+Alta Tensión 
+(> 1 kV)
+6.1 TD / 6.1 
+TDVE
+6.2 TD / 6.2 
+TDVE 6.3 TD 6.4 TD
+-20%
+-15%
+-10%
+-5%
+0%
+5%
+10%
+15%
+20%
+25%
+mar-23
+may-23
+jul-23
+sep-23
+nov-23
+ene-24
+mar-24
+may-24
+jul-24
+sep-24
+nov-24
+ene-25
+mar-25
+may-25
+jul-25
+sep-25
+nov-25
+ene-26
+mar-26
+-20%
+-10%
+0%
+10%
+20%
+30%
+mar-25 abr-25 may-25 jun-25 jul-25 ago-25 sep-25 oct-25 nov-25 dic-25 ene-26 feb-26 mar-26
+0%1000000%2000000%3000000%4000000%5000000%6000000%7000000%
+01/03/2026
+Orden2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 33 de 98
+=== p34
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.2 Demanda de consumidores peninsulares
+% Variación s/últimos 12 meses por niveles de tensión
+2025 octubre 5,2% 3,2% 1,2% -0,1% 3,5% 4,5% 3,0%
+noviembre 5,8% 3,6% 1,6% 0,0% 3,7% 4,9% 3,4%
+diciembre 6,1% 3,8% 1,7% 0,0% 3,0% 5,0% 3,5%
+2026 enero 6,5% 3,9% 1,6% -0,3% 1,9% 5,2% 3,6%
+febrero 6,4% 4,0% 1,7% -0,3% 0,9% 5,0% 3,6%
+marzo 5,5% 3,3% 1,4% -1,3% -0,7% 2,4% 2,7%
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+No se incluye otros consumos (empleados, consumos propios, concesiones administrativas y  trasvase Tajo - Segura)
+TOTALAño
+3.0 TD / 3.0 
+TDVE
+Baja Tensión 
+(≤ 1 kV)
+2.0 TD
+Alta Tensión 
+(> 1 kV)
+6.1 TD / 6.1 
+TDVE
+6.2 TD / 6.2 
+TDVE 6.3 TD 6.4 TD
+-20%
+-15%
+-10%
+-5%
+0%
+5%
+10%
+mar-23
+may-23
+jul-23
+sep-23
+nov-23
+ene-24
+mar-24
+may-24
+jul-24
+sep-24
+nov-24
+ene-25
+mar-25
+may-25
+jul-25
+sep-25
+nov-25
+ene-26
+mar-26
+-2%
+0%
+2%
+4%
+6%
+8%
+mar-25 abr-25 may-25 jun-25 jul-25 ago-25 sep-25 oct-25 nov-25 dic-25 ene-26 feb-26 mar-26
+-2000000%0%2000000%4000000%6000000%8000000%
+01/03/2026
+Orden2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 34 de 98
+=== p35
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.2 Demanda de consumidores peninsulares
+Evolución de la demanda en b.c. y de la demanda en consumo
+Tasa acumulada
+Media móvil de 12 meses
+ 
+Fuente: Datos del sistema eléctrico (REE) y CNMC (SINCRO, liquidación 5 de 2026)
+-2%
+-1%
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+mar-25
+abr-25
+may-25
+jun-25
+jul-25
+ago-25
+sep-25
+oct-25
+nov-25
+dic-25
+ene-26
+feb-26
+mar-26
+%
+-1%
+-1%
+0%
+1%
+1%
+2%
+2%
+3%
+3%
+4%
+4%
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+mar-25
+abr-25
+may-25
+jun-25
+jul-25
+ago-25
+sep-25
+oct-25
+nov-25
+dic-25
+ene-26
+feb-26
+mar-26
+%
+Demanda en b.c. Demanda en consumo Diferencia: Demanda en consumo - Demanda en b.c.
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 35 de 98
+=== p36
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.3 Demanda de consumidores extrapeninsulares e insulares
+Energía consumida
+% Variación % Variación % Variación
+GWh s/mismo mes s/acumulado s/últimos 12
+año anterior anual meses
+25 s/ 24 26 s/ 25 25 s/ 24 26 s/ 25 25 s/ 24 26 s/ 25
+Enero 1.085      1.116      1.156      2,92 3,56 2,92 3,56 1,05 3,16
+Febrero 1.012      1.002      1.003      -1,07 0,18 0,99 1,96 0,76 3,25
+Marzo 1.064      1.089      1.112      2,33 2,15 1,44 2,03 0,79 3,24
+Abril 1.057      1.053      -              -0,45 0,97 0,41
+Mayo 1.111      1.124      -              1,24 1,02 0,28
+Junio 1.149      1.250      -              8,74 2,39 1,17
+Julio 1.341      1.409      -              5,09 2,85 1,89
+Agosto 1.389      1.424      -              2,51 2,80 2,11
+Septiembre 1.208      1.289      -              6,76 3,26 2,85
+Octubre 1.181      1.207      -              2,17 3,15 3,12
+Noviembre 1.042      1.077      -              3,39 3,17 3,25
+Diciembre 1.097      1.123      -              2,39 3,11 3,11
+Anual 13.736    14.163    3.272      
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+% Variación de la demanda en consumo
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+2024 2025 2026Mes
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+ene-23
+mar-23
+may-23
+jul-23
+sep-23
+nov-23
+ene-24
+mar-24
+may-24
+jul-24
+sep-24
+nov-24
+ene-25
+mar-25
+may-25
+jul-25
+sep-25
+nov-25
+ene-26
+mar-26
+%
+Variación mismo mes año anterior Variación últimos 12 meses
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 36 de 98
+=== p37
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.3 Demanda de consumidores extrapeninsulares e insulares
+% Variación s/ el mismo mes del año anterior
+2025 octubre 3,1% 0,7% 2,2% 4,0% 11,2% -11,1% 2,2%
+noviembre 5,5% 1,8% 0,7% 23,0% -21,8% 5,1% 3,4%
+diciembre 4,3% 0,6% -0,3% 23,6% 7,5% 14,9% 2,4%
+2026 enero 7,7% 2,1% -1,4% -3,5% -5,1% -4,8% 3,6%
+febrero 1,1% -0,6% -0,7% -4,0% 2,5% 140,5% 0,2%
+marzo 3,1% 2,7% 0,9% -0,4% -17,2% -96,4% 2,2%
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+No se incluye otros consumos (empleados, consumos propios, concesiones administrativas y  trasvase Tajo - Segura)
+Año
+Baja Tensión 
+(≤ 1 kV)
+TOTAL
+2.0 TD 3.0 TD / 3.0 
+TDVE
+Alta Tensión 
+(> 1 kV)
+6.1 TD / 6.1 
+TDVE
+6.2 TD / 6.2 
+TDVE 6.3 TD 6.4 TD
+-20%
+-15%
+-10%
+-5%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+mar-23
+may-23
+jul-23
+sep-23
+nov-23
+ene-24
+mar-24
+may-24
+jul-24
+sep-24
+nov-24
+ene-25
+mar-25
+may-25
+jul-25
+sep-25
+nov-25
+ene-26
+mar-26
+-20%
+-15%
+-10%
+-5%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+mar-25 abr-25 may-25 jun-25 jul-25 ago-25 sep-25 oct-25 nov-25 dic-25 ene-26 feb-26 mar-26
+0%1000000%2000000%3000000%4000000%5000000%6000000%7000000%
+01/03/2026
+Orden2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 37 de 98
+=== p38
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.3 Demanda de consumidores extrapeninsulares e insulares
+% Variación s/últimos 12 meses por niveles de tensión
+2025 octubre 4,6% 2,8% 1,7% 2,0% 17,8% -13,9% 3,1%
+noviembre 4,9% 2,8% 1,6% 3,5% 10,8% -8,8% 3,2%
+diciembre 4,8% 2,6% 1,4% 5,1% 11,5% -7,9% 3,1%
+2026 enero 5,0% 2,7% 1,4% 3,9% 7,6% -10,1% 3,2%
+febrero 4,9% 2,8% 1,6% 4,4% 6,6% -2,8% 3,3%
+marzo 4,7% 2,9% 1,7% 5,2% 2,6% -17,5% 3,2%
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, ni información sobre los suministros conectados a los distribuidores con 
+menos de 100.000 clientes
+No se incluye otros consumos (empleados, consumos propios y concesiones administrativas).
+TOTALAño
+3.0 TD / 3.0 
+TDVE
+Baja Tensión 
+(≤ 1 kV)
+2.0 TD
+Alta Tensión 
+(> 1 kV)
+6.1 TD / 6.1 
+TDVE
+6.2 TD / 6.2 
+TDVE 6.3 TD 6.4 TD
+-6%
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+mar-23
+may-23
+jul-23
+sep-23
+nov-23
+ene-24
+mar-24
+may-24
+jul-24
+sep-24
+nov-24
+ene-25
+mar-25
+may-25
+jul-25
+sep-25
+nov-25
+ene-26
+mar-26
+-6%
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+mar-25
+abr-25
+may-25
+jun-25
+jul-25
+ago-25
+sep-25
+oct-25
+nov-25
+dic-25
+ene-26
+feb-26
+mar-26
+0%2000000%4000000%6000000%8000000%
+01/03/2026
+Orden2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 38 de 98
+=== p39
+IS/DE/012/26
+Boletín de indicadores eléctricos
+2.3 Demanda de consumidores extrapeninsulares e insulares
+Evolución de la demanda en b.c. y de la demanda en consumo
+Tasa acumulada
+Media móvil de 12 meses
+ 
+Fuente: Datos del sistema eléctrico (REE) y CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye información de Ceuta y Melilla
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+mar-25
+abr-25
+may-25
+jun-25
+jul-25
+ago-25
+sep-25
+oct-25
+nov-25
+dic-25
+ene-26
+feb-26
+mar-26
+%
+-2,0%
+-1,0%
+0,0%
+1,0%
+2,0%
+3,0%
+4,0%
+5,0%
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+mar-25
+abr-25
+may-25
+jun-25
+jul-25
+ago-25
+sep-25
+oct-25
+nov-25
+dic-25
+ene-26
+feb-26
+mar-26
+%
+Demanda en b.c. Demanda en consumo Diferencia: Demanda en consumo - Demanda en b.c.
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 39 de 98
+=== p40
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.1 Estructura del consumo nacional por grupo tarifario
+Número de consumidores, energía consumida y tamaño medio por peaje de acceso
+Número de consumidores Energía Consumida Tamaño medio
+(Número) (GWh) (MWh/cliente)
+Baja Tensión (≤1 kV) 29.526.890 29.551.985 109.594 110.464 3,71 3,74
+2.0 TD 28.717.157 28.739.456 75.304 76.055 2,62 2,65
+3.0 TD 804.333 806.860 34.201 34.307 42,52 42,52
+3.0 TDVE 5.400 5.669 90 102 16,66 18,02
+Alta Tensión (>1 kV) 116.946 117.477 117.969 117.235 1.009 998
+6.1 TD 110.596 111.039 66.640 66.612 602,56 599,89
+6.1 TDVE 198 232 42 51 213,10 222,25
+6.2 TD 3.993 3.997 21.926 21.617 5.491,01 5.408,62
+6.3 TD 701 704 10.698 10.431 15.268,44 14.814,57
+6.4 TD 1.458 1.505 18.663 18.524 12.796,66 12.307,59
+Total 29.643.836 29.669.462 227.564 227.699 7,68 7,67
+Estructura del número de consumidores y de la energía consumida por peaje
+(abr 2025- mar 2026)
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+Grupo tarifario 2025 abr 2025- 
+mar 20262025 abr 2025- 
+mar 2026 2025 abr 2025- 
+mar 2026
+2.0 TD; 96,9% 2.0 TD; 96,9%
+2.0 TD; 33,1% 2.0 TD; 33,4%
+3.0 TD; 2,7% 3.0 TD; 2,7%
+3.0 TD; 15,0% 3.0 TD; 15,1%
+6.1 TD; 29,3% 6.1 TD; 29,3%
+6.2 TD; 9,6% 6.2 TD; 9,5%
+6.3 TD; 4,7% 6.3 TD; 4,6%
+6.4 TD; 8,2% 6.4 TD; 8,1%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2025 abr 2025- mar 2026 2025 abr 2025- mar 2026
+Número de Consumidores Energía Consumida (GWh)
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 40 de 98
+=== p41
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.1 Estructura del consumo nacional por grupo tarifario
+Facturación media de los peajes de T&D y cargos del sistema eléctrico
+Precio medio Tasa de variación
+ (c€ /kWh) (%)
+Baja Tensión (≤1 kV) 6,84 6,84 6,92 6,78 5,7% 5,7% 5,1% 7,7%
+2.0 TD 7,91 7,91 7,98 7,15 5,5% 5,5% 4,9% 6,5%
+3.0 TD 4,47 4,47 4,45 5,77 4,8% 4,8% 3,5% 11,1%
+3.0 TDVE 8,27 8,27 7,73 11,97 -6,1% -6,1% -13,3% 6,9%
+Alta Tensión (>1 kV) 2,19 2,19 2,20 3,13 -3,2% -3,2% -2,4% 7,6%
+6.1 TD 3,01 3,01 3,00 4,19 -2,9% -2,9% -4,3% 5,2%
+6.1 TDVE 8,09 8,09 7,60 12,61 -20,9% -20,9% -27,7% -15,6%
+6.2 TD 1,49 1,49 1,49 2,13 3,4% 3,4% 4,0% 12,4%
+6.3 TD 1,02 1,02 1,03 1,48 -6,4% -6,4% -2,5% 9,5%
+6.4 TD 0,65 0,65 0,73 0,99 -22,3% -22,3% -14,5% -12,6%
+Total 4,44 4,44 4,50 5,13 4,3% 4,3% 5,0% 9,3%
+Facturación media de peajes de los T&D y cargos del sistema eléctrico (c€ /kWh)
+Últimos 12 meses a cada fecha.
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+2025 s/ 
+2024Grupo tarifario 2025
+Últimos 12 
+meses. ene 
+2025- dic 
+2025
+nov.-25 dic.-25
+ene 2025- 
+dic 2025 s/ 
+ene 2024- 
+dic 2024
+ nov 25 
+s/ nov 24
+ dic 25 s/ 
+dic 24
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+ene-16
+may-16
+sep-16
+ene-17
+may-17
+sep-17
+ene-18
+may-18
+sep-18
+ene-19
+may-19
+sep-19
+ene-20
+may-20
+sep-20
+ene-21
+may-21
+sep-21
+ene-22
+may-22
+sep-22
+ene-23
+may-23
+sep-23
+ene-24
+may-24
+sep-24
+ene-25
+may-25
+sep-25
+c€/KWh
+2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 41 de 98
+=== p42
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.1 Estructura del consumo nacional por grupo tarifario
+Facturación media de peajes de T&D
+Precio medio Tasa de variación
+ (c€ /kWh) (%)
+Baja Tensión (≤1 kV) 4,40 4,60 4,37 4,22 -6,0% -3,2% -6,1% -3,5%
+2.0 TD 5,62 5,92 5,21 4,57 -2,7% -0,6% -5,3% -4,1%
+3.0 TD 2,09 2,03 2,43 3,27 -18,8% -15,3% -12,2% -2,3%
+3.0 TDVE 4,19 3,41 5,09 8,14 -31,6% -37,7% -26,4% -3,0%
+Alta Tensión (>1 kV) 1,17 1,07 1,46 2,16 -25,0% -20,9% -14,6% -2,6%
+6.1 TD 1,58 1,47 1,96 2,85 -25,7% -21,1% -16,7% -4,9%
+6.1 TDVE 4,26 3,52 5,65 9,76 -41,2% -44,6% -37,0% -23,5%
+6.2 TD 0,81 0,74 1,02 1,51 -17,4% -13,6% -6,3% 4,1%
+6.3 TD 0,52 0,48 0,68 1,02 -30,8% -27,8% -15,4% -0,8%
+6.4 TD 0,39 0,35 0,56 0,78 -37,6% -36,7% -23,5% -21,0%
+Total 2,63 2,66 2,88 3,29 -11,1% -7,4% -6,9% -2,0%
+Facturación media de peajes de T&D (c€ /kWh)
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+ sep 25 
+s/ sep 24Grupo tarifario sep.-25 oct.-25 nov.-25 dic.-25  oct 25 s/ 
+oct 24
+ nov 25 
+s/ nov 24
+ dic 25 s/ 
+dic 24
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+jun-21
+ago-21
+oct-21
+dic-21
+feb-22
+abr-22
+jun-22
+ago-22
+oct-22
+dic-22
+feb-23
+abr-23
+jun-23
+ago-23
+oct-23
+dic-23
+feb-24
+abr-24
+jun-24
+ago-24
+oct-24
+dic-24
+feb-25
+abr-25
+jun-25
+ago-25
+oct-25
+dic-25
+c€/KWh
+2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 42 de 98
+=== p43
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.1 Estructura del consumo nacional por grupo tarifario
+Facturación media de los cargos del sistema eléctrico.
+Precio medio Tasa de variación
+ (c€ /kWh) (%)
+Baja Tensión (≤1 kV) 2,38 2,38 2,55 2,56 30,8% 33,7% 32,0% 33,2%
+2.0 TD 2,80 2,90 2,77 2,59 31,1% 34,4% 31,8% 32,4%
+3.0 TD 1,58 1,38 2,02 2,50 31,2% 31,5% 31,7% 35,2%
+3.0 TDVE 1,77 1,14 2,65 3,83 37,2% 32,6% 31,6% 36,5%
+Alta Tensión (>1 kV) 0,56 0,48 0,74 0,97 34,4% 35,0% 35,7% 40,4%
+6.1 TD 0,78 0,67 1,04 1,33 32,2% 33,2% 32,5% 35,8%
+6.1 TDVE 1,37 0,83 1,95 2,85 43,5% 38,1% 26,8% 30,2%
+6.2 TD 0,36 0,30 0,47 0,62 35,5% 35,5% 36,6% 39,7%
+6.3 TD 0,27 0,22 0,35 0,46 36,2% 35,5% 38,3% 42,6%
+6.4 TD 0,14 0,12 0,17 0,21 43,1% 41,6% 40,0% 42,3%
+Total 1,39 1,33 1,62 1,84 32,3% 34,6% 35,7% 37,3%
+Facturación media de los cargos del sistema eléctrico (c€ /kWh). 
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+ sep 25 
+s/ sep 24Grupo tarifario sep.-25 oct.-25 nov.-25 dic.-25  oct 25 s/ 
+oct 24
+ nov 25 
+s/ nov 24
+ dic 25 s/ 
+dic 24
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+jun-21
+ago-21
+oct-21
+dic-21
+feb-22
+abr-22
+jun-22
+ago-22
+oct-22
+dic-22
+feb-23
+abr-23
+jun-23
+ago-23
+oct-23
+dic-23
+feb-24
+abr-24
+jun-24
+ago-24
+oct-24
+dic-24
+feb-25
+abr-25
+jun-25
+ago-25
+oct-25
+dic-25
+c€/KWh
+2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 43 de 98
+=== p44
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.2 Potencias contratadas consumidores acogidos al peaje 2.0 TD
+Potencias contratadas y potencia facturada (MW)
+Tasa de variación de la potencia promedio (%)
+(mar 26 s/ 
+feb 26)
+(mar 26 s/ 
+mar 25)
+(mar 26 s/ 
+mar 25)
+1 123.226 123.298 123.368 123.442 0,6% 0,1% 0,7% 0,6%
+2 123.441 123.517 123.589 123.666 0,6% 0,1% 0,7% 0,6%
+Facturada 123.230 123.303 123.372 123.446 0,6% 0,1% 0,7% 0,6%
+Evolución de la potencia contratada promedio durante los 12 meses anteriores a cada fecha
+Tasa de variación de la potencia contratada promedio. Últimos 12 meses
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+Potencia contratada promedio durante 
+los 12 meses anteriores a la fecha (MW)
+25 s/ 24
+s/ mes 
+anterior
+Acumulado 
+anual
+Últimos 12 
+meses
+Periodo 2025 ene.-26 feb.-26 mar.-26
+-2,0%
+-1,0%
+0,0%
+1,0%
+2,0%
+3,0%
+4,0%
+5,0%
+jun.-11
+dic.-11
+jun.-12
+dic.-12
+jun.-13
+dic.-13
+jun.-14
+dic.-14
+jun.-15
+dic.-15
+jun.-16
+dic.-16
+jun.-17
+dic.-17
+jun.-18
+dic.-18
+jun.-19
+dic.-19
+jun.-20
+dic.-20
+jun.-21
+dic.-21
+jun.-22
+dic.-22
+jun.-23
+dic.-23
+jun.-24
+dic.-24
+jun.-25
+dic.-25
+%
+Periodo 1 Periodo 2 Facturada
+117,0
+118,0
+119,0
+120,0
+121,0
+122,0
+123,0
+124,0
+ene.-11
+jul.-11
+ene.-12
+jul.-12
+ene.-13
+jul.-13
+ene.-14
+jul.-14
+ene.-15
+jul.-15
+ene.-16
+jul.-16
+ene.-17
+jul.-17
+ene.-18
+jul.-18
+ene.-19
+jul.-19
+ene.-20
+jul.-20
+ene.-21
+jul.-21
+ene.-22
+jul.-22
+ene.-23
+jul.-23
+ene.-24
+jul.-24
+ene.-25
+jul.-25
+ene.-26
+GW
+Periodo 1 Periodo 2 Facturada
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 44 de 98
+=== p45
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.2 Potencias contratadas consumidores acogidos al peaje 3.0 TD
+Potencias contratadas y potencia facturada (MW)
+Tasa de variación de la potencia promedio (%)
+(mar 26 s/ 
+feb 26)
+(mar 26 s/ 
+mar 25)
+(mar 26 s/ 
+mar 25)
+1 19.185 19.208 19.227 19.242 1,5% 0,1% 1,2% 1,5%
+2 20.047 20.065 20.079 20.089 1,1% 0,0% 0,8% 1,1%
+3 20.126 20.144 20.159 20.168 1,1% 0,0% 0,9% 1,1%
+4 20.149 20.167 20.182 20.192 1,1% 0,0% 0,9% 1,1%
+5 20.161 20.180 20.195 20.205 1,1% 0,0% 0,9% 1,1%
+6 25.316 25.353 25.385 25.414 1,9% 0,1% 1,6% 1,8%
+Facturada 19.709 19.730 19.748 19.760 0,5% 0,1% 1,0% 0,7%
+Tasa de variación de la potencia contratada promedio. Últimos 12 meses
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+Potencia Contratada promedio durante los 
+12 meses anteriores a la fecha (MW)
+25 s/ 24
+s/ mes 
+anterior
+Acumulado 
+anual
+Últimos 12 
+meses
+Periodo 2025 ene.-26 feb.-26 mar.-26
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+jun.-11
+dic.-11
+jun.-12
+dic.-12
+jun.-13
+dic.-13
+jun.-14
+dic.-14
+jun.-15
+dic.-15
+jun.-16
+dic.-16
+jun.-17
+dic.-17
+jun.-18
+dic.-18
+jun.-19
+dic.-19
+jun.-20
+dic.-20
+jun.-21
+dic.-21
+jun.-22
+dic.-22
+jun.-23
+dic.-23
+jun.-24
+dic.-24
+jun.-25
+dic.-25
+%
+Periodo 1 Periodo 2 Periodo 3 Periodo 4
+Periodo 5 Periodo 6 Facturada
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 45 de 98
+=== p46
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.2 Potencias contratadas consumidores acogidos al peaje 6.1 TD
+Potencias contratadas y potencia facturada (MW)
+Tasa de variación de la potencia promedio (%)
+(mar 26 s/ 
+feb 26)
+(mar 26 s/ 
+mar 25)
+(mar 26 s/ 
+mar 25)
+1 18.413 18.445 18.469 18.484 2,5% 0,1% 1,6% 2,3%
+2 18.930 18.960 18.981 18.993 2,3% 0,1% 1,3% 2,1%
+3 19.278 19.311 19.333 19.347 2,0% 0,1% 1,5% 1,9%
+4 19.424 19.458 19.481 19.495 1,9% 0,1% 1,5% 1,8%
+5 19.488 19.521 19.543 19.557 1,8% 0,1% 1,4% 1,7%
+6 27.437 27.479 27.513 27.541 2,2% 0,1% 1,5% 2,0%
+Facturada 18.740 18.772 18.795 18.809 1,3% 0,1% 1,5% 1,3%
+Tasa de variación de la Potencia Contratada promedio. Últimos 12 meses
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+Potencia Contratada promedio durante los 
+12 meses anteriores a la fecha (MW)
+25 s/ 24
+s/ mes 
+anterior
+Acumulado 
+anual
+Últimos 12 
+meses
+Periodo 2025 ene.-26 feb.-26 mar.-26
+-12,0%
+-10,0%
+-8,0%
+-6,0%
+-4,0%
+-2,0%
+0,0%
+2,0%
+4,0%
+6,0%
+8,0%
+10,0%
+jun.-11
+nov.-11
+abr.-12
+sep.-12
+feb.-13
+jul.-13
+dic.-13
+may.-14
+oct.-14
+mar.-15
+ago.-15
+ene.-16
+jun.-16
+nov.-16
+abr.-17
+sep.-17
+feb.-18
+jul.-18
+dic.-18
+may.-19
+oct.-19
+mar.-20
+ago.-20
+ene.-21
+jun.-21
+nov.-21
+abr.-22
+sep.-22
+feb.-23
+jul.-23
+dic.-23
+may.-24
+oct.-24
+mar.-25
+ago.-25
+ene.-26
+%
+Periodo 1 Periodo 2 Periodo 3 Periodo 4
+Periodo 5 Periodo 6 Facturada
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 46 de 98
+=== p47
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.2 Potencias contratadas consumidores acogidos al peaje 6.2 TD
+Potencias contratadas y potencia facturada (MW)
+Tasa de variación de la potencia promedio (%)
+(mar 26 s/ 
+feb 26)
+(mar 26 s/ 
+mar 25)
+(mar 26 s/ 
+mar 25)
+1 4.971 4.975 4.971 4.956 4,9% -0,3% -1,2% 3,7%
+2 5.124 5.128 5.120 5.101 4,3% -0,4% -1,8% 3,1%
+3 5.192 5.196 5.190 5.172 3,1% -0,3% -1,5% 1,9%
+4 5.228 5.232 5.225 5.207 2,9% -0,4% -1,6% 1,6%
+5 5.249 5.253 5.245 5.227 2,8% -0,3% -1,7% 1,5%
+6 6.637 6.646 6.642 6.626 3,5% -0,2% -0,7% 2,6%
+Facturada 5.053 5.057 5.052 5.035 3,1% -0,3% -1,4% 2,2%
+Tasa de variación de la Potencia Contratada promedio. Últimos 12 meses
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+Potencia Contratada promedio durante los 
+12 meses anteriores a la fecha (MW)
+25 s/ 24
+s/ mes 
+anterior
+Acumulado 
+anual
+Últimos 12 
+meses
+Periodo 2025 ene.-26 feb.-26 mar.-26
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+jun.-11
+nov.-11
+abr.-12
+sep.-12
+feb.-13
+jul.-13
+dic.-13
+may.-14
+oct.-14
+mar.-15
+ago.-15
+ene.-16
+jun.-16
+nov.-16
+abr.-17
+sep.-17
+feb.-18
+jul.-18
+dic.-18
+may.-19
+oct.-19
+mar.-20
+ago.-20
+ene.-21
+jun.-21
+nov.-21
+abr.-22
+sep.-22
+feb.-23
+jul.-23
+dic.-23
+may.-24
+oct.-24
+mar.-25
+ago.-25
+ene.-26
+%
+Periodo 1 Periodo 2 Periodo 3 Periodo 4
+Periodo 5 Periodo 6 Facturada
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 47 de 98
+=== p48
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.2 Potencias contratadas consumidores acogidos al peaje 6.3 TD
+Potencias contratadas y potencia facturada (MW)
+Tasa de variación de la potencia promedio (%)
+(mar 26 s/ 
+feb 26)
+(mar 26 s/ 
+mar 25)
+(mar 26 s/ 
+mar 25)
+1 2.188 2.207 2.215 2.209 7,6% -0,3% 4,1% 7,5%
+2 2.235 2.253 2.260 2.252 7,0% -0,3% 3,2% 6,8%
+3 2.322 2.340 2.341 2.327 5,4% -0,6% 1,1% 4,9%
+4 2.328 2.346 2.347 2.334 5,2% -0,6% 1,0% 4,8%
+5 2.332 2.349 2.350 2.337 5,1% -0,6% 1,0% 4,7%
+6 2.836 2.854 2.854 2.838 4,3% -0,6% 0,2% 3,7%
+Facturada 2.227 2.245 2.252 2.244 5,1% -0,3% 3,3% 5,4%
+Tasa de variación de la Potencia Contratada promedio. Últimos 12 meses
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+Potencia Contratada promedio durante los 
+12 meses anteriores a la fecha (MW)
+25 s/ 24
+s/ mes 
+anterior
+Acumulado 
+anual
+Últimos 12 
+meses
+Periodo 2025 ene.-26 feb.-26 mar.-26
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+jun.-11
+nov.-11
+abr.-12
+sep.-12
+feb.-13
+jul.-13
+dic.-13
+may.-14
+oct.-14
+mar.-15
+ago.-15
+ene.-16
+jun.-16
+nov.-16
+abr.-17
+sep.-17
+feb.-18
+jul.-18
+dic.-18
+may.-19
+oct.-19
+mar.-20
+ago.-20
+ene.-21
+jun.-21
+nov.-21
+abr.-22
+sep.-22
+feb.-23
+jul.-23
+dic.-23
+may.-24
+oct.-24
+mar.-25
+ago.-25
+ene.-26
+%
+Periodo 1 Periodo 2 Periodo 3 Periodo 4
+Periodo 5 Periodo 6 Facturada
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 48 de 98
+=== p49
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.2 Potencias contratadas consumidores acogidos al peaje 6.4 TD
+Potencias contratadas y potencia facturada (MW)
+Tasa de variación de la potencia promedio (%)
+(mar 26 s/ 
+feb 26)
+(mar 26 s/ 
+mar 25)
+(mar 26 s/ 
+mar 25)
+1 4.630 4.699 4.739 4.713 12,0% -0,5% 7,5% 11,4%
+2 4.759 4.819 4.851 4.822 10,5% -0,6% 5,5% 9,9%
+3 5.063 5.116 5.142 5.112 8,3% -0,6% 4,0% 7,7%
+4 5.088 5.141 5.166 5.133 8,1% -0,6% 3,8% 7,4%
+5 5.095 5.147 5.173 5.140 8,1% -0,6% 3,7% 7,2%
+6 6.076 6.083 6.066 5.988 3,0% -1,3% -5,9% 0,8%
+Facturada 4.733 4.797 4.832 4.805 7,9% -0,6% 6,3% 8,0%
+Tasa de variación de la Potencia Contratada promedio. Últimos 12 meses
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+Potencia Contratada promedio durante los 
+12 meses anteriores a la fecha (MW)
+25 s/ 24
+s/ mes 
+anterior
+Acumulado 
+anual
+Últimos 12 
+meses
+Periodo 2025 ene.-26 feb.-26 mar.-26
+-20,0%
+-15,0%
+-10,0%
+-5,0%
+0,0%
+5,0%
+10,0%
+15,0%
+20,0%
+25,0%
+30,0%
+jun.-11
+nov.-11
+abr.-12
+sep.-12
+feb.-13
+jul.-13
+dic.-13
+may.-14
+oct.-14
+mar.-15
+ago.-15
+ene.-16
+jun.-16
+nov.-16
+abr.-17
+sep.-17
+feb.-18
+jul.-18
+dic.-18
+may.-19
+oct.-19
+mar.-20
+ago.-20
+ene.-21
+jun.-21
+nov.-21
+abr.-22
+sep.-22
+feb.-23
+jul.-23
+dic.-23
+may.-24
+oct.-24
+mar.-25
+ago.-25
+ene.-26
+%
+Periodo 1 Periodo 2 Periodo 3 Periodo 4
+Periodo 5 Periodo 6 Facturada
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 49 de 98
+=== p50
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.3 Pérdidas medidas resultantes de aplicar coeficientes de pérdidas
+Pérdidas mensuales
+Baja Tensión (≤1 kV) 20,0% 19,5% 19,8% 0,7% 0,1% 0,2%
+2.0 TD 20,0% 19,5% 19,7% 0,7% 0,2% 0,2%
+3.0 TD 20,0% 19,5% 19,9% 0,6% 0,1% 0,1%
+3.0 TDVE 19,7% 19,2% 19,5% 0,9% 0,3% 0,2%
+Alta Tensión (>1 kV) 6,6% 6,5% 6,9% 0,3% 0,8% 7,2%
+6.1 TD 8,4% 8,2% 8,2% 0,7% -0,1% -0,1%
+6.1 TDVE 8,2% 7,9% 8,0% 1,5% 0,5% 0,3%
+6.2 TD 6,2% 6,1% 6,1% 0,4% 0,0% -0,2%
+6.3 TD 5,1% 5,0% 5,0% 0,5% -0,1% -0,1%
+6.4 TD 1,9% 1,9% 1,9% 0,7% 0,2% -0,4%
+Total 13,9% 13,2% 13,7% 2,8% 2,1% 6,7%
+Pérdidas medias mensuales
+Fuente: CNMC (SINCRO, liquidación 5 de 2026) y REE
+Nota: A los efectos del cálculo de las pérdidas medias, la curva de carga de cada grupo tarifario se ha confeccionado 
+distribuyendo la demanda en consumo de cada periodo tarifario, entre las horas que componen dicho periodo tarifario, 
+con la excepción de los consumidores de baja tensión, para los que se han considerado los perfiles finales publicados 
+por REE en su página web. 
+Grupo tarifario ene.-26 mar.-26 ene.-26 mar.-26feb.-26feb.-26
+Tasa de variación sobre el mismo mes 
+del año anteriorPérdidas medias
+6,00%
+7,00%
+8,00%
+9,00%
+10,00%
+11,00%
+12,00%
+13,00%
+14,00%
+15,00%
+16,00%
+ene.-14
+jun.-14
+nov.-14
+abr.-15
+sep.-15
+feb.-16
+jul.-16
+dic.-16
+may.-17
+oct.-17
+mar.-18
+ago.-18
+ene.-19
+jun.-19
+nov.-19
+abr.-20
+sep.-20
+feb.-21
+jul.-21
+dic.-21
+may.-22
+oct.-22
+mar.-23
+ago.-23
+ene.-24
+jun.-24
+nov.-24
+abr.-25
+sep.-25
+feb.-26
+Pérdidas (%)
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 50 de 98
+=== p51
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.3 Pérdidas medidas resultantes de aplicar coeficientes de pérdidas
+Pérdidas medias registradas durante los últimos 12 meses
+Baja Tensión (≤1 kV) 17,4% 17,4% 17,4% -1,2% -0,9% -1,0%
+2.0 TD 17,5% 17,5% 17,5% -1,2% -0,9% -0,9%
+3.0 TD 17,1% 17,1% 17,1% -1,2% -1,0% -1,0%
+3.0 TDVE 16,8% 16,9% 17,0% -0,8% -0,4% -0,2%
+Alta Tensión (>1 kV) 5,6% 5,6% 5,6% -1,7% -1,4% -1,0%
+6.1 TD 7,0% 7,0% 7,0% -1,4% -1,2% -1,2%
+6.1 TDVE 6,8% 6,9% 6,9% -0,6% -0,3% -0,2%
+6.2 TD 5,2% 5,2% 5,2% -1,5% -1,2% -1,7%
+6.3 TD 4,3% 4,2% 4,2% -1,7% -1,7% -2,2%
+6.4 TD 1,7% 1,7% 1,7% -1,1% -1,0% -1,7%
+Total 11,3% 11,3% 11,4% -0,3% 0,0% 0,4%
+Pérdidas medias registradas durante los 12 meses anteriores a cada fecha
+Fuente: CNMC (SINCRO, liquidación 5 de 2026) y REE
+Nota: A los efectos del cálculo de las pérdidas medias, la curva de carga de cada grupo tarifario se ha confeccionado 
+distribuyendo la demanda en consumo de cada periodo tarifario, entre las horas que componen dicho periodo tarifario, 
+con la excepción de los consumidores de baja tensión, para los que se han considerado los perfiles finales publicados 
+por REE en su página web. 
+Grupo tarifario ene.-26 feb.-26 mar.-26 ene.-26
+Pérdidas medias Tasa de variación de los últimos 12 
+meses
+feb.-26 mar.-26
+8,00%
+8,50%
+9,00%
+9,50%
+10,00%
+10,50%
+11,00%
+11,50%
+12,00%
+ene.-14
+jun.-14
+nov.-14
+abr.-15
+sep.-15
+feb.-16
+jul.-16
+dic.-16
+may.-17
+oct.-17
+mar.-18
+ago.-18
+ene.-19
+jun.-19
+nov.-19
+abr.-20
+sep.-20
+feb.-21
+jul.-21
+dic.-21
+may.-22
+oct.-22
+mar.-23
+ago.-23
+ene.-24
+jun.-24
+nov.-24
+abr.-25
+sep.-25
+feb.-26
+Pérdidas (%)
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 51 de 98
+=== p52
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.4 Estructura del consumo peninsular por grupo tarifario
+Número de consumidores, energía consumida y tamaño medio por grupo tarifario
+Número de consumidores Energía Consumida Tamaño medio
+(Número) (GWh) (MWh/cliente)
+Baja Tensión (≤1 kV) 27.529.523 27.553.484 100.364 101.163 3,65 3,67
+2.0 TD 26.785.853 26.807.260 69.542 70.233 2,60 2,62
+3.0 TD 738.559 740.869 30.736 30.833 41,62 41,62
+3.0 TDVE 5.111 5.355 86 97 16,74 18,15
+Alta Tensión (>1 kV) 113.152 113.678 113.037 112.308 999 988
+6.1 TD 106.928 107.369 61.985 61.960 579,69 577,07
+6.1 TDVE 193 226 41 50 214,65 223,84
+6.2 TD 3.886 3.889 21.664 21.356 5.574,57 5.491,96
+6.3 TD 697 700 10.697 10.429 15.354,28 14.895,67
+6.4 TD 1.448 1.495 18.650 18.512 12.876,46 12.380,06
+Total 27.642.676 27.667.163 213.401 213.471 7,72 7,72
+Número de consumidores y  energía consumida por peaje (abr 2025- mar 2026)
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información
+ sobre los suministros conectados a los distribuidores con menos de 100.000 clientes
+abr 2025- 
+mar 2026Grupo tarifario 2025 abr 2025- 
+mar 2026 2025 abr 2025- 
+mar 2026 2025
+2.0 TD; 96,9% 2.0 TD; 96,9%
+2.0 TD; 32,6% 2.0 TD; 32,9%
+3.0 TD; 2,7% 3.0 TD; 2,7%
+3.0 TD; 14,4% 3.0 TD; 14,4%
+6.1 TD; 29,0% 6.1 TD; 29,0%
+6.2 TD; 10,2% 6.2 TD; 10,0%
+6.3 TD; 5,0% 6.3 TD; 4,9%
+6.4 TD; 8,7% 6.4 TD; 8,7%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2025 abr 2025- mar 2026 2025 abr 2025- mar 2026
+Número de Consumidores Energía Consumida (GWh)
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 52 de 98
+=== p53
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.4 Estructura del consumo peninsular por grupo tarifario
+Facturación media de los peajes de T&D y cargos del sistema eléctrico (c€ /kWh). 
+Precio medio Tasa de variación
+ (c€ /kWh) (%)
+Baja Tensión (≤1 kV) 6,88 6,88 6,96 6,82 5,5% 5,5% 4,9% 7,7%
+2.0 TD 7,93 7,93 7,99 7,14 5,4% 5,4% 4,8% 6,3%
+3.0 TD 4,49 4,49 4,51 5,93 4,6% 4,6% 3,4% 11,3%
+3.0 TDVE 8,18 8,18 7,75 12,21 -6,4% -6,4% -12,8% 8,4%
+Alta Tensión (>1 kV) 2,16 2,16 2,18 3,15 -3,3% -3,3% -2,4% 7,9%
+6.1 TD 3,03 3,03 3,03 4,29 -3,1% -3,1% -4,6% 5,3%
+6.1 TDVE 8,05 8,05 7,59 12,69 -21,2% -21,2% -27,6% -15,4%
+6.2 TD 1,49 1,49 1,49 2,14 3,5% 3,5% 4,3% 12,8%
+6.3 TD 1,02 1,02 1,03 1,47 -6,4% -6,4% -2,5% 9,6%
+6.4 TD 0,65 0,65 0,73 0,99 -22,3% -22,3% -14,5% -12,6%
+Total 4,39 4,39 4,47 5,13 4,2% 4,2% 5,0% 9,4%
+Facturación media de peajes de los T&D y cargos del sistema eléctrico (c€ /kWh)
+Últimos 12 meses a cada fecha.
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+ene 2025- 
+dic 2025 s/ 
+ene 2024- 
+dic 2024
+ nov 25 
+s/ nov 24
+ dic 25 s/ 
+dic 24
+2025 s/ 
+2024Grupo Tarifario 2025
+Últimos 12 
+meses. ene 
+2025- dic 
+2025
+nov.-25 dic.-25
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+ene-16
+may-16
+sep-16
+ene-17
+may-17
+sep-17
+ene-18
+may-18
+sep-18
+ene-19
+may-19
+sep-19
+ene-20
+may-20
+sep-20
+ene-21
+may-21
+sep-21
+ene-22
+may-22
+sep-22
+ene-23
+may-23
+sep-23
+ene-24
+may-24
+sep-24
+ene-25
+may-25
+sep-25
+c€/KWh
+2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 53 de 98
+=== p54
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.4 Estructura del consumo peninsular por grupo tarifario
+Facturación media de peajes de T&D (c€ /kWh). 
+Precio medio Tasa de variación
+ (c€ /kWh) (%)
+Baja Tensión (≤1 kV) 4,43 4,64 4,40 4,24 -6,2% -3,3% -6,3% -3,5%
+2.0 TD 5,67 5,98 5,22 4,56 -2,5% -0,5% -5,5% -4,3%
+3.0 TD 2,00 1,97 2,46 3,36 -20,9% -16,4% -12,3% -1,8%
+3.0 TDVE 3,90 3,18 5,09 8,31 -34,3% -40,0% -25,9% -1,3%
+Alta Tensión (>1 kV) 1,12 1,03 1,45 2,18 -26,4% -21,9% -14,6% -2,2%
+6.1 TD 1,53 1,41 1,98 2,93 -27,3% -22,3% -16,9% -4,6%
+6.1 TDVE 4,09 3,40 5,63 9,82 -42,7% -45,7% -37,0% -23,3%
+6.2 TD 0,80 0,74 1,02 1,52 -17,9% -13,5% -6,0% 4,5%
+6.3 TD 0,52 0,47 0,68 1,02 -30,9% -27,8% -15,4% -0,8%
+6.4 TD 0,39 0,35 0,56 0,78 -37,6% -36,7% -23,5% -21,0%
+Total 2,58 2,60 2,86 3,29 -11,6% -7,7% -6,9% -1,8%
+Facturación media de peajes de T&D (c€ /kWh)
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+ oct 25 s/ 
+oct 24
+ nov 25 
+s/ nov 24
+ dic 25 s/ 
+dic 24
+ sep 25 
+s/ sep 24Grupo Tarifario sep.-25 oct.-25 nov.-25 dic.-25
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+jun-21
+ago-21
+oct-21
+dic-21
+feb-22
+abr-22
+jun-22
+ago-22
+oct-22
+dic-22
+feb-23
+abr-23
+jun-23
+ago-23
+oct-23
+dic-23
+feb-24
+abr-24
+jun-24
+ago-24
+oct-24
+dic-24
+feb-25
+abr-25
+jun-25
+ago-25
+oct-25
+dic-25
+c€/KWh
+2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 54 de 98
+=== p55
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.4 Estructura del consumo peninsular por grupo tarifario
+Facturación media de los cargos del sistema eléctrico (c€ /kWh). 
+Precio medio Tasa de variación
+ (c€ /kWh) (%)
+Baja Tensión (≤1 kV) 2,36 2,37 2,56 2,58 30,7% 33,7% 31,9% 33,0%
+2.0 TD 2,81 2,91 2,77 2,58 31,1% 34,4% 31,7% 32,2%
+3.0 TD 1,49 1,29 2,06 2,57 30,7% 31,3% 31,6% 35,0%
+3.0 TDVE 1,63 1,02 2,66 3,90 35,1% 32,2% 31,8% 37,1%
+Alta Tensión (>1 kV) 0,54 0,45 0,73 0,97 34,3% 35,1% 35,8% 40,5%
+6.1 TD 0,75 0,64 1,05 1,36 32,0% 33,3% 32,3% 35,6%
+6.1 TDVE 1,33 0,80 1,96 2,87 42,0% 36,7% 26,4% 30,0%
+6.2 TD 0,35 0,29 0,47 0,62 35,5% 35,5% 36,9% 40,0%
+6.3 TD 0,27 0,22 0,35 0,46 36,2% 35,5% 38,3% 42,6%
+6.4 TD 0,14 0,12 0,17 0,21 43,1% 41,6% 40,0% 42,3%
+Total 1,34 1,29 1,61 1,84 32,3% 34,6% 35,8% 37,4%
+Facturación media de los cargos del sistema eléctrico (c€ /kWh). 
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+ oct 25 s/ 
+oct 24
+ nov 25 
+s/ nov 24
+ dic 25 s/ 
+dic 24
+ sep 25 
+s/ sep 24Peaje de acceso sep.-25 oct.-25 nov.-25 dic.-25
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+jun-21
+ago-21
+oct-21
+dic-21
+feb-22
+abr-22
+jun-22
+ago-22
+oct-22
+dic-22
+feb-23
+abr-23
+jun-23
+ago-23
+oct-23
+dic-23
+feb-24
+abr-24
+jun-24
+ago-24
+oct-24
+dic-24
+feb-25
+abr-25
+jun-25
+ago-25
+oct-25
+dic-25
+c€/KWh
+2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 55 de 98
+=== p56
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.5 - Estructura del consumo extrapeninsular e insular por grupo tarifario
+Número de consumidores, energía consumida y tamaño medio por peaje de acceso
+Número de consumidores Energía Consumida Tamaño medio
+(Número) (GWh) (MWh/cliente)
+Baja Tensión (≤1 kV) 1.997.367 1.998.501 9.231 9.301 4,62 4,65
+2.0 TD 1.931.303 1.932.196 5.761 5.822 2,98 3,01
+3.0 TD 65.775 65.991 3.465 3.475 52,68 52,65
+3.0 TDVE 289 314 4 5 15,27 15,81
+Alta Tensión (>1 kV) 3.793 3.798 4.932 4.926 1.300 1.297
+6.1 TD 3.668 3.671 4.656 4.652 1.269,39 1.267,35
+6.1 TDVE 5 6 1 1 151,05 162,56
+6.2 TD 107 108 262 261 2.451,42 2.410,39
+6.3 TD 4 4 1 1 317,51 317,74
+6.4 TD 10 10 12 12 1.238,65 1.192,13
+Total 2.001.160 2.002.299 14.163 14.228 7,08 7,11
+Número de consumidores y  energía consumida por peaje (abr 2025- mar 2026)
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre  los suministros conectados a los distribuidores con menos de 100.000 clientes
+abr 2025- 
+mar 2026Grupo tarifario 2025 abr 2025- 
+mar 2026 2025 abr 2025- 
+mar 2026 2025
+2.0 TD; 96,5% 2.0 TD; 96,5%
+2.0 TD; 40,7% 2.0 TD; 40,9%
+3.0 TD; 3,3% 3.0 TD; 3,3%
+3.0 TD; 24,5% 3.0 TD; 24,4%
+6.1 TD; 32,9% 6.1 TD; 32,7%
+6.2 TD; 1,8% 6.2 TD; 1,8%6.3 TD; 0,0% 6.3 TD; 0,0%6.4 TD; 0,1% 6.4 TD; 0,1%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2025 abr 2025- mar 2026 2025 abr 2025- mar 2026
+Número de Consumidores Energía Consumida (GWh)
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 56 de 98
+=== p57
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.5 - Estructura del consumo extrapeninsular e insular por grupo tarifario
+Facturación media de los peajes de T&D y cargos del sistema eléctrico (c€ /kWh). 
+Precio medio Tasa de variación
+ (c€ /kWh) (%)
+Baja Tensión (≤1 kV) 6,40 6,40 6,46 6,31 7,0% 7,0% 6,6% 8,5%
+2.0 TD 7,69 7,69 7,86 7,37 6,6% 6,6% 6,7% 8,6%
+3.0 TD 4,26 4,26 3,86 4,06 6,9% 6,9% 3,6% 5,8%
+3.0 TDVE 9,90 9,90 7,28 7,26 -1,7% -1,7% -24,2% -22,5%
+Alta Tensión (>1 kV) 2,71 2,71 2,48 2,62 -0,2% -0,2% -2,1% 0,7%
+6.1 TD 2,79 2,79 2,58 2,71 0,0% 0,0% -1,0% 1,9%
+6.1 TDVE 10,41 10,41 8,13 8,37 -8,9% -8,9% -29,4% -22,2%
+6.2 TD 1,44 1,44 1,01 1,16 -3,3% -3,3% -20,2% -16,2%
+6.3 TD 7,32 7,32 4,24 4,34 -21,1% -21,1% -17,1% -41,8%
+6.4 TD 1,48 1,48 1,21 0,90 -26,9% -26,9% -26,7% -33,0%
+Total 5,12 5,12 5,10 5,15 5,9% 5,9% 5,4% 7,4%
+Facturación media de peajes de los T&D y cargos del sistema eléctrico (c€ /kWh)
+Últimos 12 meses a cada fecha.
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+ene 2024- 
+dic 2024 s/ 
+ene 2024- 
+dic 2024
+ nov 25 
+s/ nov 24
+ dic 25 s/ 
+dic 24
+2025 s/ 
+2024Grupo Tarifario 2025
+Últimos 12 
+meses. 
+ene 2025- 
+dic 2025
+nov.-25 dic.-25
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+ene-16
+may-16
+sep-16
+ene-17
+may-17
+sep-17
+ene-18
+may-18
+sep-18
+ene-19
+may-19
+sep-19
+ene-20
+may-20
+sep-20
+ene-21
+may-21
+sep-21
+ene-22
+may-22
+sep-22
+ene-23
+may-23
+sep-23
+ene-24
+may-24
+sep-24
+ene-25
+may-25
+sep-25
+c€/KWh
+2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 57 de 98
+=== p58
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.5 - Estructura del consumo extrapeninsular e insular por grupo tarifario
+Facturación media de peajes de T&D (c€ /kWh). 
+Precio medio Tasa de variación
+ (c€ /kWh) (%)
+Baja Tensión (≤1 kV) 4,09 4,20 4,09 3,94 -4,6% -2,6% -4,6% -3,3%
+2.0 TD 5,02 5,32 5,10 4,73 -4,4% -1,6% -3,6% -2,2%
+3.0 TD 2,78 2,51 2,19 2,27 -4,8% -6,9% -11,2% -10,0%
+3.0 TDVE 8,82 7,73 5 4,81 -8,2% -10,3% -36,2% -36,1%
+Alta Tensión (>1 kV) 2,17 2,06 1,63 1,71 -8,3% -9,5% -14,2% -12,0%
+6.1 TD 2,22 2,12 1,70 1,77 -8,7% -9,2% -13,1% -11,0%
+6.1 TDVE 13,11 10,56 6,82 6,48 -14,6% -21,2% -37,8% -34,3%
+6.2 TD 1,33 0,96 0,69 0,78 5,1% -17,4% -30,7% -27,0%
+6.3 TD 10,86 6,76 3,21 3,48 -14,4% -34,4% -28,5% -48,6%
+6.4 TD 0,90 1,32 0,90 0,65 -39,6% -23,2% -36,2% -43,1%
+Total 3,37 3,40 3,24 3,24 -5,5% -4,2% -6,1% -4,7%
+Facturación media de peajes de T&D (c€ /kWh) (1)
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+(1) No se muestran los precios medios superiores a 23 c€/kWh
+ oct 25 s/ 
+oct 24
+ nov 25 
+s/ nov 24
+ dic 25 s/ 
+dic 24
+ sep 25 
+s/ sep 24Grupo Tarifario sep.-25 oct.-25 nov.-25 dic.-25
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+jun-21
+ago-21
+oct-21
+dic-21
+feb-22
+abr-22
+jun-22
+ago-22
+oct-22
+dic-22
+feb-23
+abr-23
+jun-23
+ago-23
+oct-23
+dic-23
+feb-24
+abr-24
+jun-24
+ago-24
+oct-24
+dic-24
+feb-25
+abr-25
+jun-25
+ago-25
+oct-25
+dic-25
+c€/KWh
+2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 58 de 98
+=== p59
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.5 - Estructura del consumo extrapeninsular e insular por grupo tarifario
+Facturación media de los cargos del sistema eléctrico (c€ /kWh). 
+Precio medio Tasa de variación
+ (c€ /kWh) (%)
+Baja Tensión (≤1 kV) 2,51 2,51 2,38 2,37 31,8% 33,8% 33,3% 36,0%
+2.0 TD 2,71 2,80 2,76 2,64 30,8% 33,8% 33,0% 35,4%
+3.0 TD 2,23 2,06 1,67 1,79 33,6% 33,0% 32,5% 36,4%
+3.0 TDVE 3,99 3,47 2,28 2,45 39,0% 35,1% 29,5% 32,9%
+Alta Tensión (>1 kV) 1,06 1,02 0,85 0,90 33,1% 32,6% 34,1% 38,5%
+6.1 TD 1,10 1,05 0,88 0,94 33,1% 32,6% 35,5% 39,8%
+6.1 TDVE 3,38 2,59 1,32 1,89 45,5% 50,8% 137,1% 110,1%
+6.2 TD 0,50 0,45 0,33 0,38 32,4% 33,3% 16,9% 20,4%
+6.3 TD 1,12 1,02 1,04 0,86 24,2% 22,3% 64,5% 25,6%
+6.4 TD 0,32 0,45 0,31 0,25 17,3% 48,6% 28,0% 24,1%
+Total 1,97 1,95 1,85 1,91 32,1% 33,6% 34,0% 36,8%
+Facturación media de los cargos del sistema eléctrico (c€ /kWh). 
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota:  No se incluye conexiones internacionales, empleados, consumos propios, concesiones administrativas, ni información 
+sobre los suministros conectados a redes de distribuidores con menos de 100.000 clientes
+ oct 25 s/ 
+oct 24
+ nov 25 
+s/ nov 24
+ dic 25 s/ 
+dic 24
+ sep 25 
+s/ sep 24Peaje de acceso sep.-25 oct.-25 nov.-25 dic.-25
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+jun-21
+ago-21
+oct-21
+dic-21
+feb-22
+abr-22
+jun-22
+ago-22
+oct-22
+dic-22
+feb-23
+abr-23
+jun-23
+ago-23
+oct-23
+dic-23
+feb-24
+abr-24
+jun-24
+ago-24
+oct-24
+dic-24
+feb-25
+abr-25
+jun-25
+ago-25
+oct-25
+dic-25
+c€/KWh
+2.0 TD 3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 59 de 98
+=== p60
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.6 - Estructura del consumo nacional por sector de actividad
+Distribución por sector de actividad de los consumidores de BT con Pc<15 kW
+Nº Consumidores Energía
+Distribución por sector de actividad de los consumidores de BT con Pc>15 kW
+Nº Consumidores Energía
+Fuente: CNMC (SINCRO)
+Nota: Datos correspondientes al año 2024. Se incluye en la categoría "Resto" los sectores con menos del 5% del nº de
+consumidores o de la energía consumida del grupo correspondiente
+88,9%
+5,8%
+5,3%
+81,5%
+11,1%
+7,4%
+Usos domésticos Administración, comercio y servicios Resto
+42,2%
+23,8%
+12,6%
+7,2%
+14,2%
+48,3%
+12,4%
+17,6%
+6,2%
+15,6%
+Administración, comercio y servicios Usos domésticos Hostelería Otras empresas de transporte Resto
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 60 de 98
+=== p61
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.6 - Estructura del consumo nacional por sector de actividad
+Distribución por sector de actividad de los consumidores del NT1 (> 1 kV y < 30 kV)
+Nº Consumidores Energía
+Distribución por sector de actividad de los consumidores del NT2 (≥ 30 kV y < 72,5 kV)
+Nº Consumidores Energía
+Fuente: CNMC (SINCRO)
+Nota: Datos correspondientes al año 2024. Se incluye en la categoría "Resto" los sectores con menos del 4% del nº de
+consumidores o de la energía consumida del grupo correspondiente para NT1 y 5% para NT2
+19,0%
+7,0%
+6,3%
+4,6%
+3,8%
+2,3%2,2%6,3%4,6%3,8%
+2,3%2,2%
+35,8%
+7,1% 2,3%2,4% 5,7%
+6,4%
+7,2%
+5,4%
+2,4%
+5,7%
+6,4%7,2%
+5,4%
+36,5%
+Administración, comercio y servicios Fabricación de productos metálicos Otras empresas de transporte
+Industria de la alimentación Metalurgia férrea Industria química
+Refinerías de petróleo Otras empresas de transporte Industria de la alimentación
+Metalurgia férrea Industria química Refinerías de petróleo
+Resto
+28,8%
+21,2%
+6,6%
+4,7%
+4,2%
+3,7%
+2,2%
+28,6%
+ 31,9%
+5,8%
+12,3%5,3%3,7%
+5,1%
+4,0%
+31,8%
+Administración, comercio y servicios Agricultura, ganadería, silvicultura y caza
+Industria de la alimentación Otras empresas de transporte
+Fabricación de bebidas Hostelería
+Fabricación de otros productos minerales no metálicos Resto
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 61 de 98
+=== p62
+IS/DE/012/26
+Boletín de indicadores eléctricos
+3.6 - Estructura del consumo nacional por sector de actividad
+Distribución por sector de actividad de los consumidores del NT3 (≥ 72,5 kV y < 145 kV)
+Nº Consumidores Energía
+Distribución por sector de actividad de los consumidores del NT4 (≥ 145 kV)
+Nº Consumidores Energía
+Fuente: CNMC (SINCRO)
+Nota: Datos correspondientes al año 2024. Se incluye en la categoría "Resto" los sectores con menos del 5% del nº de
+ consumidores o de la energía consumida para NT3 y del 4% para NT4
+ (1) Incluye  instalaciones productoras de energía eléctrica acogidas al régimen especial
+7,6%
+12,0%
+9,8%
+15,7%
+7,4%5,6%
+5,1%
+36,7%
+54,6%
+8,2%
+6,6%
+2,4%1,6%
+1,2%
+0,9%
+24,4%
+62,0%
+1,8%1,5%
+0,6%
+2,4%
+0,2%
+31,6%
+Producción energía eléctrica (1) Refinerías de petróleo Administración, comercio y servicios
+Industria química Fabricación de cemento, cales y yesos Otros productos de papel y cartón
+Fabricación de pasta de papel Resto
+5,8% 4,5%
+41,4%
+7,7%3,5%
+12,4%
+24,6%
+Producción energía eléctrica (1) Construcción de vehículos a motor
+Metalurgia férrea Industria química
+Transporte interurbano por ff. Cc. Otras industrias de metales no ferrosos
+Resto
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 62 de 98
+=== p63
+IS/DE/012/26
+Boletín de indicadores eléctricos
+4.1- Consumidores con potencia contratada igual o inferior a 15 kW
+Número de consumidores y energía consumida. Marzo 2026
+Nº de consumidores Energía Consumida Tamaño medio Potencia facturada
+(Número) (GWh) (kWh/cliente y año) (kW/cliente)
+COR 7.971.695                 1.411                       2.104                    3,79                      
+LIBRES 20.682.422               4.933                       2.863                    4,52                      
+TOTAL 28.654.117              6.344                       2.649                   4,31                     
+Consumo y potencia facturada promedio en el periodo de punta 
+por cliente durante los doce meses anteriores a cada fecha
+Número de consumidores suministrados por COR
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye información de los suministros conectados a los distribuidores de menos de 100.000 clientes
+Comerciali
+zadora
+3,60
+3,65
+3,70
+3,75
+3,80
+3,85
+3,90
+3,95
+4,00
+4,05
+4,10
+3
+503
+1.003
+1.503
+2.003
+2.503
+3.003
+3.503
+ene.-11
+jul.-11
+ene.-12
+jul.-12
+ene.-13
+jul.-13
+ene.-14
+jul.-14
+ene.-15
+jul.-15
+ene.-16
+jul.-16
+ene.-17
+jul.-17
+ene.-18
+jul.-18
+ene.-19
+jul.-19
+ene.-20
+jul.-20
+ene.-21
+jul.-21
+ene.-22
+jul.-22
+ene.-23
+jul.-23
+ene.-24
+jul.-24
+ene.-25
+kW/cliente
+kWh/cliente
+Consumo medio (kWh/cliente) Potencia contratada media (kW/cliente)
+0
+5
+10
+15
+20
+25
+30
+ene.-11
+jul.-11
+ene.-12
+jul.-12
+ene.-13
+jul.-13
+ene.-14
+jul.-14
+ene.-15
+jul.-15
+ene.-16
+jul.-16
+ene.-17
+jul.-17
+ene.-18
+jul.-18
+ene.-19
+jul.-19
+ene.-20
+jul.-20
+ene.-21
+jul.-21
+ene.-22
+jul.-22
+ene.-23
+jul.-23
+ene.-24
+jul.-24
+ene.-25
+Millones de Clientes
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 63 de 98
+=== p64
+IS/DE/012/26
+Boletín de indicadores eléctricos
+4.2-  Facturación estimada de los consumidores acogidos al PVPC
+En la presente sección se estima, la facturación por el suministro de electricidad de los
+consumidores acogidos al PVPC (Pc ≤10), en adelante FPVPC, para el consumidor medio
+aplicando:
+– Hasta el 31 de diciembre de 2013, el Real Decreto 485/2009, de 3 de abril, por el que se
+regula la puesta en marcha del suministro de último recurso en el sector de la energía
+eléctrica
+– Entre el 1 de enero de 2014 y el 31 de marzo de 2014, el Real Decreto-ley 17/2013, de
+27 de diciembre, por el que se determina el precio de la energía eléctrica en los contratos
+sujetos al precio voluntario para el pequeño consumidor en el primer trimestre de 2014.
+– A partir del 1 de abril de 2014, el Real Decreto 216/2014, de 28 de marzo, por el que se
+establece la metodología de cálculo de los precios voluntarios para el pequeño
+consumidor de energía eléctrica y su régimen jurídico de contratación, considerando que
+el consumidor no tiene instalado un equipo de medida con capacidad para telemedida y
+telegestión, efectivamente integrados en los correspondientes sistemas.
+La FPVPC incluye los siguientes componentes:
+– Facturación media de acceso, y de peajes de transporte y distribución y cargos del
+sistema eléctrico a partir del 1 de junio de 2021, según la base de datos de liquidaciones
+eléctricas, que incluye la facturación asociada al término de potencia, término de energía
+activa y reactiva.
+– Margen de comercialización establecido en la normativa vigente.
+– Coste de energía, que incluye el coste de producción de la energía (mercado diario,
+intradiario, servicios de ajuste y desvíos horarios), pago de los mecanismos de
+capacidad, pagos correspondientes a la financiación de la retribución del Operador del
+Mercado Ibérico de Energía y del Operador del Sistema, y pagos correspondientes a la
+financiación del servicio de interrumpibilidad.
+La FPVPC estimada no incluye impuestos, alquiler de los equipos de medida y control.
+La facturación estimada se calcula empleando las variables de facturación de los
+consumidores acogidos al PVPC, conectados a las redes de distribuidores con más de
+100.000 clientes y registrados cada mes en la base de datos de liquidaciones eléctricas.
+Por tanto, la FPVPC de cada mes depende tanto de los PVPC aplicables como de las
+características de los consumidores acogidos efectivamente al PVPC en ese mes
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 64 de 98
+=== p65
+IS/DE/012/26
+Boletín de indicadores eléctricos
+4.2-  Facturación estimada de los consumidores acogidos al PVPC
+en los últimos cuatro años
+Peaje de acceso 9,37 8,98 8,60 8,53 -0,9% -4,1% -4,3% -0,8%
+Margen de Comercialización 0,92 0,97 1,00 1,03 -16,5% 5,1% 2,7% 3,2%
+Coste de la energía 12,01 11,19 11,06 11,00 -53,5% -6,8% -1,2% -0,5%
+Total 22,30 21,14 20,65 20,56 -38,7% -5,2% -2,3% -0,4%
+Fuente: CNMC (SINCRO, liquidación 5 de 2026) y REE
+Nota : Resultado de aplicar el procedimiento establecido en el Real Decreto 216/2014 a las variables de facturación
+resultantes para el consumidor medio acogido al PVPC y conectados a redes de distribución de más de 100.000 clientes.
+c€/kWh
+2025 s/ 
+2024
+Últimos 12 
+meses. Abr 
+2025 - mar 
+2026 s/ 2025
+Tasa de variación sobre el año anterior
+2023 s/ 
+2022
+2024 s/ 
+2023Componente 2023 2024 2025
+Últimos 12 
+meses. Abr 
+2025 - mar 
+2026
+9,37 8,98 8,60 8,53 
+0,92 0,97 1,00 1,03 
+12,01 11,19 11,06 11,00 
+22,30 
+21,14 20,65 20,56 
+0
+5
+10
+15
+20
+25
+2023 2024 2025 Últimos 12 meses. Abr 2025 -
+mar 2026
+c€/kWh
+Peaje de acceso Margen de Comercialización Coste de la energía
+42% 42% 42% 41%
+4% 5% 5% 5%
+54% 53% 54% 54%
+0%
+20%
+40%
+60%
+80%
+100%
+2023 2024 2025 Últimos 12 meses. Abr 2025 -
+mar 2026
+c€/kWh
+Peaje de acceso Margen de Comercialización Coste de la energía
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 65 de 98
+=== p66
+IS/DE/012/26
+Boletín de indicadores eléctricos
+4.2-  Facturación estimada de los consumidores acogidos al PVPC
+Precio medio final (c€/kWh) de los consumidores acogidos a TUR /PVPC 
+durante los 12 meses anteriores a cada fecha
+Porcentaje que supone el coste estimado de la energía sobre el precio medio final
+Fuente: CNMC (SINCRO, liquidación 5 de 2026) y REE
+Nota : Resultado de aplicar el procedimiento establecido en el Real Decreto 216/2014 a las variables de facturación
+resultantes para el consumidor medio acogido al PVPC y conectados a redes de distribución de más de 100.000 clientes.
+0,00
+5,00
+10,00
+15,00
+20,00
+25,00
+30,00
+35,00
+40,00
+ene.-11
+jul.-11
+ene.-12
+jul.-12
+ene.-13
+jul.-13
+ene.-14
+jul.-14
+ene.-15
+jul.-15
+ene.-16
+jul.-16
+ene.-17
+jul.-17
+ene.-18
+jul.-18
+ene.-19
+jul.-19
+ene.-20
+jul.-20
+ene.-21
+jul.-21
+ene.-22
+jul.-22
+ene.-23
+jul.-23
+ene.-24
+jul.-24
+ene.-25
+jul.-25
+ene.-26
+c€/kWh consumido
+Peaje Margen de comercialización Coste de la Energía
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+ene.-11
+jul.-11
+ene.-12
+jul.-12
+ene.-13
+jul.-13
+ene.-14
+jul.-14
+ene.-15
+jul.-15
+ene.-16
+jul.-16
+ene.-17
+jul.-17
+ene.-18
+jul.-18
+ene.-19
+jul.-19
+ene.-20
+jul.-20
+ene.-21
+jul.-21
+ene.-22
+jul.-22
+ene.-23
+jul.-23
+ene.-24
+jul.-24
+ene.-25
+jul.-25
+ene.-26
+c€/kWh consumido
+Peaje Margen de comercialización Coste de la Energía
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 66 de 98
+=== p67
+IS/DE/012/26
+Boletín de indicadores eléctricos
+4.3- Bono Social
+Consumidores acogidos al Bono social
+Número Tasa de variación (%)
+ene.-26 feb.-26 mar.-26  feb 26 s/ ene 
+26
+ mar 26 s/ 
+feb 26
+Consumidores vulnerables 801.549 801.943 798.134 0,0% -0,5%
+47.707 47.055 46.048 -1,4% -2,1%
+278.345 281.292 282.714 1,1% 0,5%
+468.862 466.739 462.328 -0,5% -0,9%
+6.635 6.857 7.044 3,3% 2,7%
+Consumidores vulnerables severos 912.634 916.452 918.286 0,4% 0,2%
+28.549 28.295 28.036 -0,9% -0,9%
+162.809 164.758 165.132 1,2% 0,2%
+687.180 688.259 689.119 0,2% 0,1%
+34.096 35.140 35.999 2,4%
+1.714.183 1.718.395 1.716.420 0,2% -0,1%
+Porcentaje de vulnerables severos por categoria en marzo 26
+Fuente: CNMC
+Unidad familiar / Unidad de Convivencia
+Ingreso mínimo vital
+TOTAL ACOGIDOS BONO SOCIAL
+TIPO
+Ingreso mínimo vital
+Pensionistas
+Familia numerosas
+Pensionistas
+Familia numerosas
+Unidad familiar / Unidad de Convivencia
+62,2% 63,1%
+40,2%
+1,4%
+37,8% 36,9%
+59,8%
+83,6%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+Pensionistas Familia
+numerosas
+Unidad familiar
+/ Unidad de
+Convivencia
+Resto
+Consumidores
+Pensionistas Familia
+numerosas
+Unidad familiar
+/ Unidad de
+Convivencia
+Resto
+Consumidores
+Vulnerables Vulnerables Severos
+Número
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 67 de 98
+=== p68
+IS/DE/012/26
+Boletín de indicadores eléctricos
+4.3- Bono Social
+Consumidores acogidos al Bono social
+Número Tasa de variación (%)
+Promedio: Abr 
+2025- Mar 2026 mar.-26 Abr 2025- Mar 2026 s/ 
+Abr 2024- Mar 2025
+ mar 26 s/ feb 
+26
+76.979 74.084 -9,1% -1,7%
+440.996 447.846 5,8% 0,4%
+1.154.827 1.151.447 2,9% -0,3%
+37.666 43.043 54,8% 2,5%
+1.710.468 1.716.420 3,8% -0,1%
+Consumidores acogidos al Bono Social, excluyendo la categoria de Otros
+Fuente: CNMC
+Pensionistas
+TIPO
+Familias numerosas
+Unidad familiar / Unidad de Convivencia
+TOTAL ACOGIDOS BONO SOCIAL
+Ingreso mínimo vital
+0
+100.000
+200.000
+300.000
+400.000
+500.000
+600.000
+700.000
+800.000
+900.000
+1.000.000
+1.100.000
+1.200.000
+1.300.000
+1.400.000
+1.500.000
+1.600.000
+1.700.000
+1.800.000
+1.900.000
+ene-10
+jul-10
+ene-11
+jul-11
+ene-12
+jul-12
+ene-13
+jul-13
+ene-14
+jul-14
+ene-15
+jul-15
+ene-16
+jul-16
+ene-17
+jul-17
+ene-18
+jul-18
+ene-19
+jul-19
+ene-20
+jul-20
+ene-21
+jul-21
+ene-22
+jul-22
+ene-23
+jul-23
+ene-24
+jul-24
+ene-25
+jul-25
+ene-26
+Número
+Pensionistas Familias Numerosas
+Unidad de Convivencia / Unidad Familiar COVID-19 (RD-Ley 11/2020 y RD-Ley 30/2020)
+Ingreso Mínimo Vital Vulnerable – Bajos Ingresos
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 68 de 98
+=== p69
+IS/DE/012/26
+Boletín de indicadores eléctricos
+4.3- Bono Social
+Consumo medio anual
+Consumo medio anual (kWh/cliente y 
+año) Tasa de variación (%)
+Año 
+2025
+feb 25 - 
+ene 26
+mar 25 - 
+feb 26
+abr 25 - 
+mar 26
+Año 2025 s/ 
+Año 2024
+mar 25 - feb 
+26 s/ mar 24 - 
+feb 25
+abr 25 - mar 
+26 s/ abr 24 - 
+mar 25
+Consumidores vulnerables 3.233 3.264 3.227 3.217 -6,7% 5,6% 4,2%
+2.409 2.424 2.385 2.377 -3,7% 3,0% 2,2%
+4.401 4.445 4.391 4.375 -6,7% 5,7% 4,1%
+2.631 2.656 2.629 2.621 -6,3% 4,9% 3,6%
+3.304 3.354 3.325 3.317 -7,8% 6,6% 5,9%
+Consumidores vulnerables severos 3.014 3.039 3.009 2.999 -6,1% 4,9% 3,7%
+2.286 2.299 2.275 2.270 2,2% -0,7% 1,0%
+4.279 4.313 4.274 4.261 -6,2% 4,8% 3,5%
+2.737 2.759 2.730 2.720 -5,2% 4,0% 2,9%
+3.131 3.183 3.159 3.148 -4,3% 3,5% 3,2%
+3.117 3.144 3.111 3.101 -6,4% 5,2% 3,9%
+Fuente: CNMC
+TOTAL ACOGIDOS BONO SOCIAL
+Pensionistas
+Familia numerosas
+Unidad familiar / Unidad de 
+Convivencia
+Ingreso mínimo vital
+Ingreso mínimo vital
+TIPO
+Pensionistas
+Familia numerosas
+Unidad familiar / Unidad de 
+Convivencia
+1.500
+2.000
+2.500
+3.000
+3.500
+4.000
+ene-19
+abr-19
+jul-19
+oct-19
+ene-20
+abr-20
+jul-20
+oct-20
+ene-21
+abr-21
+jul-21
+oct-21
+ene-22
+abr-22
+jul-22
+oct-22
+ene-23
+abr-23
+jul-23
+oct-23
+ene-24
+abr-24
+jul-24
+oct-24
+ene-25
+abr-25
+jul-25
+oct-25
+ene-26
+kWh/cliente y año
+Vulnerable Vulnerable Severo
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 69 de 98
+=== p70
+IS/DE/012/26
+Boletín de indicadores eléctricos
+4.4- Consumidores sin derecho a acogerse al PVPC
+Número de consumidores y energía consumida. Marzo 2026
+Consumidores abastecidos por COR  
+3.0 TD / 3.0 TDVE 7.803 16.673 2.137
+6.1 TD / 6.1 TDVE 971 15.016 15.465
+6.2 TD / 6.2 TDVE 21 243 11.583
+6.3 TD 2 31 15.386
+6.4 TD 3 31 10.456
+TOTAL 8.800 31.995 3.636
+Consumidores abastecidos por comercializadoras libres
+3.0 TD / 3.0 TDVE 803.154 2.697.792 3.359    
+6.1 TD / 6.1 TDVE 109.565 5.263.818 48.043
+6.2 TD / 6.2 TDVE 3.888 1.774.333 456.361
+6.3 TD 638 772.224 1.210.382
+6.4 TD 1.545 1.670.741 1.081.386
+TOTAL 918.790 12.178.908 13.255
+Porcentaje de consumidores abastecidos por COR en marzo 2026
+Energía consumida Nº de Consumidores
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye información de los suministros conectados a los distribuidores de menos de 100.000 clientes
+Número de consumidores
+(Número)
+Energía Consumida
+(MWh)
+Tamaño medio
+(kWh/cliente y mes)
+Grupo tarifario
+Grupo tarifario
+Número de consumidores
+(Número)
+Energía Consumida
+(MWh)
+Tamaño medio
+(kWh/cliente y mes)
+0,6%
+0,3%
+0,0% 0,0% 0,0%
+0,0%
+0,1%
+0,2%
+0,3%
+0,4%
+0,5%
+0,6%
+0,7%
+3.0 TD /
+3.0 TDVE
+6.1 TD /
+6.1 TDVE
+6.2 TD /
+6.2 TDVE
+6.3 TD
+6.4 TD
+%
+1,0%
+0,9%
+0,5%
+0,3%
+0,2%
+0,0%
+0,2%
+0,4%
+0,6%
+0,8%
+1,0%
+1,2%
+3.0 TD /
+3.0 TDVE
+6.1 TD /
+6.1 TDVE
+6.2 TD /
+6.2 TDVE
+6.3 TD
+6.4 TD
+%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 70 de 98
+=== p71
+IS/DE/012/26
+Boletín de indicadores eléctricos
+4.4- Consumidores sin derecho a acogerse al PVPC
+Porcentaje de consumidores abastecidos por CUR/COR
+Porcentaje de energía consumida por los suministros abastecidos por CUR/COR
+Fuente: CNMC (SINCRO, liquidación 5 de 2026)
+Nota: No se incluye información de los suministros conectados a los distribuidores de menos de 100.000 clientes
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+9%
+10%
+ene.-12
+jun.-12
+nov.-12
+abr.-13
+sep.-13
+feb.-14
+jul.-14
+dic.-14
+may.-15
+oct.-15
+mar.-16
+ago.-16
+ene.-17
+jun.-17
+nov.-17
+abr.-18
+sep.-18
+feb.-19
+jul.-19
+dic.-19
+may.-20
+oct.-20
+mar.-21
+ago.-21
+ene.-22
+jun.-22
+nov.-22
+abr.-23
+sep.-23
+feb.-24
+jul.-24
+dic.-24
+may.-25
+oct.-25
+mar.-26
+%
+3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+9%
+10%
+ene.-12
+jun.-12
+nov.-12
+abr.-13
+sep.-13
+feb.-14
+jul.-14
+dic.-14
+may.-15
+oct.-15
+mar.-16
+ago.-16
+ene.-17
+jun.-17
+nov.-17
+abr.-18
+sep.-18
+feb.-19
+jul.-19
+dic.-19
+may.-20
+oct.-20
+mar.-21
+ago.-21
+ene.-22
+jun.-22
+nov.-22
+abr.-23
+sep.-23
+feb.-24
+jul.-24
+dic.-24
+may.-25
+oct.-25
+mar.-26
+%
+3.0 TD / 3.0 TDVE 6.1 TD / 6.1 TDVE 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 71 de 98
+=== p72
+IS/DE/012/26
+Boletín de indicadores eléctricos
+5.1- Costes previstos del sistema (1)
+Miles de €  Año 2026 vs Año 2025
+Año 2025 Año 2026 miles de € Tasa de 
+variación
+Peajes 7.071.639          6.953.755          -117.884 -1,7%
+Retribución del transporte 1.245.265             1.326.674             81.409 6,5%
+Retribución de la distribución 5.826.374             5.627.081             -199.293 -3,4%
+Cargos 7.443.474          8.510.448          1.066.974 14,3%
+Retribución RECORE peninsular 4.192.240             5.760.200             1.567.960 37,4%
+Retribución Sistemas No Peninsulares (SNP) 836.187                840.950                4.763 0,6%
+Servicio de interrumpiblidad 9.957                   9.734                   -223 -2,2%
+Tasa CNMC 14.595                  16.024                  1.429 9,8%
+2ª parte del ciclo de combustible nuclear 97                        107                      10 10,3%
+Anualidades déficit actividades reguladas 2.390.397             1.883.432             -506.965 -21,2%
+TOTAL 14.515.112     15.464.203     949.091 6,5%
+Estructura del escandallo de costes de acceso (%). Año 2026
+Fuentes:  Orden TED/1524/2025, Orden TED/1487/2024, Resolución de 18 de diciembre de 2025  y 
+4 de diciembre de 2024 de la CNMC
+Nota: (1) No se incluyen desvíos de ejercicios anteriores
+Peajes
+45%
+Cargos
+55%
+Retribución 
+del 
+transporte
+19%
+Retribución 
+de la 
+distribución
+81%
+RECORE
+68%
+SNP
+10%
+Interrumpibilidad
+0%
+Tasa CNMC
+0%
+2º ciclo
+0%
+Anualidades
+22%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 72 de 98
+=== p73
+IS/DE/012/26
+Boletín de indicadores eléctricos
+5.2- Evolución de los costes
+Escandallo de costes de acceso. 1998-2026
+Distribución del escandallo de costes por concepto. 1998-2026
+Fuente: CNMC
+0
+5
+10
+15
+20
+25
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024 (P)
+2025 (P)
+2026 (P)
+miles de millones de €
+Transporte Distribución y Gestión comercial Retribución RECORE
+Retribución Sistemas No Peninsulares Servicio Interrumpibilidad Costes recuperados a través de cuotas
+CTC's Anualidades déficit
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024 (P)
+2025 (P)
+2026 (P)Transporte Distribución y Gestión comercial
+Retribución RECORE Retribución Sistemas No Peninsulares
+Servicio Interrumpibilidad Costes recuperados a través de cuotas
+CTC's Anualidades déficit
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 73 de 98
+=== p74
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España
+Evolución del mercado de electricidad en los últimos tres meses (€/MWh)
+abr.-26 37,16 65,17 65,09 66,24 0,13 0,12 0,25
+may.-26 45,07 75,04 75,00 75,61 0,11 0,11 0,22
+jun-26 62,08 87,06 86,94 88,63 0,15 0,14 0,25
+Evolución del mercado de electricidad en los últimos tres últimos años (€/MWh)
+2024 59,38 76,27 76,15 77,95 0,22 0,21 0,29
+2025 61,80 83,73 83,51 86,40 0,19 0,19 0,26
+Evolución del mercado de electricidad (€/MWh)
+Fuente:  OMEL, REE Y CNMC
+Nota: (1) A partir de enero de 2015, se incluye el coste del servicio de interrumpibilidad
+(2) A partir del 15 de junio de 2022, se incluye el coste del mecanismo de ajuste establecido en el RD-l 10/2022
+(3) Hasta junio de 2009 P.F.M. Distribuidoras, a partir de julio de 2009 P.F.M. Comercializadores de Referencia
+Mes
+Precio 
+medio 
+ponderado 
+diario
+AÑO
+Precio 
+medio 
+ponderado 
+diario
+Coste Medio Garantía de Potencia 
+Unidades de 
+Adquisición
+Precio medio ponderado final (1) (2) Coste Medio Garantía de Potencia 
+COR (4) Comercializadoras 
+en mercado libre(3) COR (4)
+COR (4) Comercializadoras 
+en mercado libre(3) COR (4)
+Unidades de 
+Adquisición
+Comercializadoras 
+en mercado libre (3)
+Precio medio ponderado final (1) (2)
+Unidades de 
+Adquisición
+Unidades de 
+Adquisición
+Comercializadoras 
+en mercado libre (3)
+75,10 0,18 0,17 0,25Enero - Jun 
+2026 45,01 72,50 72,28
+10,00
+60,00
+110,00
+160,00
+210,00
+260,00
+310,00
+360,00
+ene-11
+ene-12
+ene-13
+ene-14
+ene-15
+ene-16
+ene-17
+ene-18
+ene-19
+ene-20
+ene-21
+ene-22
+ene-23
+ene-24
+ene-25
+ene-26
+€/MWh
+Precio mercado diario Precio final Unidades de adquisición
+Comercializadoras en mercado libre Comercializadores de Referencia
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 74 de 98
+=== p75
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España
+Componentes del precio medio final de comercializadoras en mercado libre
+Componentes del precio medio final de comercializadores de referencia
+Fuente:  OMEL, REE Y CNMC
+44,0
+55,0
+69,7
+-0,09
+-0,22
+-0,14
+3,17
+3,28
+2,82
+20,33
+19,79
+16,71
+0,12
+0,11
+0,14
+1,00
+1,00
+1,00
+-2,47
+-2,39
+-2,2865,03
+75,59
+86,94
+-20,00
+0,00
+20,00
+40,00
+60,00
+80,00
+100,00
+abr-26 may-26 jun-26
+€/MWh
+Mercado Diario (MD) Mercado Intradiario (MI)
+Procesos OS (OS) Reestricciones (RE)
+GP Liquidación subastas REER (RE)
+Participación Activa demanda (D)
+41,55
+52,87
+68,48
+0,01
+0,00
+0,02
+3,28
+3,23
+2,74
+21,18
+19,97
+17,14
+0,26
+0,22
+0,25
+0,00
+0,00
+0,00
+0,00
+0,00
+0,0066,28
+76,30
+88,63
+0,00
+10,00
+20,00
+30,00
+40,00
+50,00
+60,00
+70,00
+80,00
+90,00
+100,00
+abr-26 may-26 jun-26
+€/MWh
+Mercado Diario (MD) Mercado Intradiario (MI)
+Procesos OS (OS) Reestricciones (RE)
+GP Liquidación subastas REER (RE)
+Participación Activa demanda (D)
+GP
+MI
+RE
+D
+GP
+MI
+RE
+D
+GP
+MI
+RE
+D
+GP
+MI
+RE
+D
+GP
+MI
+RE
+D
+GP
+MI
+RE
+D
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 75 de 98
+=== p76
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España
+Evolución del mercado de electricidad en términos anuales (€/MWh)
+2016 40,72 48,42 48,19 50,05 2,76 2,54 4,25
+2017 53,74 60,55 60,25 62,94 2,72 2,52 4,26
+2018 57,94 64,35 64,20 65,57 2,70 2,50 4,24
+2019 48,33 53,41 53,18 55,22 2,64 2,45 4,21
+2020 34,79 40,40 40,20 41,96 2,65 2,44 4,23
+2021 112,05 118,62 118,85 116,78 1,31 1,20 2,19
+2022 168,35 204,22 202,52 222,77 0,32 0,31 0,43
+2023 84,94 99,96 99,92 101,13 0,24 0,23 0,32
+2024 59,38 76,27 76,15 77,95 0,22 0,21 0,29
+2025 61,80 83,73 83,51 86,40 0,19 0,19 0,26
+Evolución del mercado de electricidad (€/MWh)
+Fuente:  OMEL, REE Y CNMC
+Nota: (1) A partir de enero de 2015, se incluye el coste del servicio de interrumpibilidad
+(2) A partir del 15 de junio de 2022, se incluye el coste del mecanismo de ajuste establecido en el RD-l 10/2022
+0,17 0,2572,50 72,28 75,10 0,18Ene - Jun 2026 45,01
+AÑO
+Precio 
+medio 
+ponderado 
+diario
+Precio medio ponderado final (1) (2)
+Unidades de 
+Adquisición
+Unidades 
+de 
+Adquisición
+Comercializadoras 
+en mercado libre 
+(3)
+Coste Medio Garantía de Potencia 
+COR (4)
+Comercializadoras 
+en mercado libre 
+(3)
+COR (4)
+15,0
+65,0
+115,0
+165,0
+215,0
+265,0
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 Ene - Jun
+2026
+€/MWh
+Precio medio ponderado Diario
+Precio medio ponderado Unidades de adquisición
+Precio medio ponderado Comercializadoras en mercado libre
+Precio medio ponderado Comercializadores de Referencia
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 76 de 98
+=== p77
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España
+Evolución del precio medio ponderado del mercado diario
+En los últimos tres meses En los últimos tres años
+mar-26 38,249 2023 84,94
+abr-26 37,16 -2,8% 48,7% 2024 59,38 -30,1%
+may-26 45,07 21,3% 184,4% 2025 61,80 4,1%
+jun-26 62,08 37,7% -6,0% 2026 45,01 -27,2%
+Precios medios ponderados diarios. Julio 2018 - junio 2026
+Fuente:  OMEL, REE Y CNMC
+Notas: (1) Para cada uno de los meses refleja el mínimo precio mensual del mercado diario registrado en el periodo 1998 - 2024
+(2) Para cada uno de los meses refleja el máximo precio mensual del mercado diario registrado en el periodo 1998 - 2024
+% de variación
+sobre el mismo mes del 
+año anterior
+Mes €/MWh sobre el mes 
+anterior
+% variación 
+sobre el año 
+anterior
+Año €/MWh
+10,0
+60,0
+110,0
+160,0
+210,0
+260,0
+310,0
+ Enero
+ Febrero
+ Marzo
+ Abril
+ Mayo
+ Junio
+ Julio
+ Agosto
+ Septiembre
+ Octubre
+ Noviembre
+ Diciembre
+€/MWh
+SENDA DE PRECIO MÍNIMA (1) SENDA DE PRECIO MÁXIMO (2)
+2024 2025
+2026
+15,0
+65,0
+115,0
+165,0
+215,0
+265,0
+315,0
+jul-18
+oct-18
+ene-19
+abr-19
+jul-19
+oct-19
+ene-20
+abr-20
+jul-20
+oct-20
+ene-21
+abr-21
+jul-21
+oct-21
+ene-22
+abr-22
+jul-22
+oct-22
+ene-23
+abr-23
+jul-23
+oct-23
+ene-24
+abr-24
+jul-24
+oct-24
+ene-25
+abr-25
+jul-25
+oct-25
+ene-26
+abr-26
+€/MWh
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 77 de 98
+=== p78
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España
+Impacto de los mercados intradiarios, procesos OS y restricciones técnicas en el
+precio final del mercado del conjunto de los agentes
+En los últimos tres meses
+ 
+ 
+ 
+ 
+ 
+mar-26 -0,137 3,146 26,899 29,909
+abr-26 -0,087 3,175 20,395 23,483  -21% 51%
+may-26 -0,206 3,276 19,802 22,872  -3% -6%
+jun-26 -0,124 2,814 16,741 19,431  -15% 38%
+Entre julio 2023 y junio 2026
+Porcentaje que suponen los SS.CC sobre el precio medio ponderado
+final del conjunto de los agentes. Julio 2023 - junio 2026
+Fuente:  OMEL, y CNMC
+Restricciones 
+técnicas SS.CC sobre el mes 
+anterior
+sobre el 
+mismo mes 
+del año 
+anterior
+€/MWh Tasa de variación de los 
+SS.CC
+Mercado 
+Intradiario Procesos OS
+Mes
+-5,00
+0,00
+5,00
+10,00
+15,00
+20,00
+25,00
+30,00
+35,00
+jul-23
+ago-23
+sep-23
+oct-23
+nov-23
+dic-23
+ene-24
+feb-24
+mar-24
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+mar-25
+abr-25
+may-25
+jun-25
+jul-25
+ago-25
+sep-25
+oct-25
+nov-25
+dic-25
+ene-26
+feb-26
+mar-26
+abr-26
+may-26
+jun-26
+€/MWh
+Mercado Intradiario Procesos OS Restricciones técnicas
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+jul-23
+ago-23
+sep-23
+oct-23
+nov-23
+dic-23
+ene-24
+feb-24
+mar-24
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+mar-25
+abr-25
+may-25
+jun-25
+jul-25
+ago-25
+sep-25
+oct-25
+nov-25
+dic-25
+ene-26
+feb-26
+mar-26
+abr-26
+may-26
+jun-26
+%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 78 de 98
+=== p79
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España
+Evolución del precio medio final ponderado de los Comercializadores de Referencia (1) (2) (3)
+En los últimos tres meses En los últimos tres años
+mar-26 76,67 2023 84,94
+abr-26 66,24 -13,6% 40,2% 2024 77,95 -8,2%
+may-26 75,61 14,2% 70,5% 2025 86,40 10,8%
+jun-26 88,63 17,2% 0,9% 2026 75,10 -13,1%
+Precios medios finales ponderados de distribuidores. Julio 2018 - junio 2026
+Fuente:  OMEL, REE Y CNMC
+Notas: (1) Hasta junio de 2009 P.F.M. Distribuidoras, a partir de julio de 2009 P.F.M. Comercializadores de referencia
+(2) A partir de enero de 2015, se incluye el coste del servicio de interrumpibilidad
+(3) A partir del 15 de junio de 202, se incluye el coste del mecanimso de ajuste establecido en el RD-l 10/2022
+(4) Para cada uno de los meses refleja el mínimo precio final registrado en el periodo 1998 - 2024
+(5) Para cada uno de los meses refleja el máximo precio final registrado en el periodo 1998 - 2024
+Año €/MWh
+% variación 
+sobre el año 
+anterior
+% de variación
+sobre el mismo mes del 
+año anterior
+Mes €/MWh sobre el mes 
+anterior
+15,0
+65,0
+115,0
+165,0
+215,0
+265,0
+315,0
+365,0
+ Enero
+ Febrero
+ Marzo
+ Abril
+ Mayo
+ Junio
+ Julio
+ Agosto
+ Septiembre
+ Octubre
+ Noviembre
+ Diciembre
+€/MWh
+SENDA DE PRECIO MÍNIMA (4) SENDA DE PRECIO MÁXIMO (5)
+2024 2025
+2026
+15,0
+65,0
+115,0
+165,0
+215,0
+265,0
+315,0
+365,0
+jul.-18
+oct.-18
+ene.-19
+abr.-19
+jul.-19
+oct.-19
+ene.-20
+abr.-20
+jul.-20
+oct.-20
+ene.-21
+abr.-21
+jul.-21
+oct.-21
+ene.-22
+abr.-22
+jul.-22
+oct.-22
+ene.-23
+abr.-23
+jul.-23
+oct.-23
+ene.-24
+abr.-24
+jul.-24
+oct.-24
+ene.-25
+abr.-25
+jul.-25
+oct.-25
+ene.-26
+abr.-26
+€/MWh
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 79 de 98
+=== p80
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España
+Evolución del precio medio final ponderado de comercializadoras en mercado libre (1) (2)
+En los últimos tres meses En los últimos tres años
+mar-26 72,13 2023 84,94
+abr-26 65,09 -9,8% 41,8% 2024 76,15 -10,3%
+may-26 75,00 15,2% 75,3% 2025 83,51 9,7%
+jun-26 86,94 15,9% -0,3% 2026 72,28 -13,4%
+Precios medios finales ponderados de clientes cualificados. Julio 2018 - junio 2026
+Fuente:  OMEL, REE Y CNMC
+Notas: (1) A partir de enero de 2015, se incluye el coste del servicio de interrumpibilidad
+(2) A partir del 15 de junio de 202, se incluye el coste del mecanimso de ajuste establecido en el RD-l 10/2022
+(3) Para cada uno de los meses refleja el mínimo precio final registrado en el periodo 1998 - 2020
+(4) Para cada uno de los meses refleja el máximo precio final registrado en el periodo 1998 - 2020
+% de variación
+sobre el mismo mes del 
+año anterior
+Mes €/MWh sobre el mes 
+anterior
+% variación 
+sobre el año 
+anterior
+Mes €/MWh
+15,0
+65,0
+115,0
+165,0
+215,0
+265,0
+315,0
+ Enero
+ Febrero
+ Marzo
+ Abril
+ Mayo
+ Junio
+ Julio
+ Agosto
+ Septiembre
+ Octubre
+ Noviembre
+ Diciembre
+€/MWh
+SENDA DE PRECIO MÍNIMA (3) SENDA DE PRECIO MÁXIMO (4)
+2024 2025
+2026
+15,00
+65,00
+115,00
+165,00
+215,00
+265,00
+315,00
+jul-18
+oct-18
+ene-19
+abr-19
+jul-19
+oct-19
+ene-20
+abr-20
+jul-20
+oct-20
+ene-21
+abr-21
+jul-21
+oct-21
+ene-22
+abr-22
+jul-22
+oct-22
+ene-23
+abr-23
+jul-23
+oct-23
+ene-24
+abr-24
+jul-24
+oct-24
+ene-25
+abr-25
+jul-25
+oct-25
+ene-26
+abr-26
+€/MWh
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 80 de 98
+=== p81
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España
+Calendario de la discriminación horaria en tres periodos del peaje 2.0 TD
+de la Circular 3/2020 de la CNMC. Zona Peninsular
+Precio medio ponderado del mercado diario por periodo tarifario de la
+discriminación horaria en tres periodos de la 2.0 TD de la Circular 3/2020 (€/MWh)
+Fuente:  OMEL, REE Y CNMC
+0,00
+20,00
+40,00
+60,00
+80,00
+100,00
+120,00
+140,00
+160,00
+180,00
+200,00
+Punta Llano Valle
+€/MWh
+Periodos Horarios
+2024 2025
+Ene - Jun 2026 SENDA DE PRECIO MÍNIMA
+SENDA DE PRECIO MÁXIMO
+Hora del día
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Periodo 1 Periodo 2 Periodo 3
+Laborables de lunes 
+a viernes
+Fines de semana y 
+festivos nacionales
+Tipo de día
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 81 de 98
+=== p82
+IS/DE/012/26
+Boletín de indicadores eléctricos
+6.- Mercado de producción. España
+Calendario de la discriminación horaria en seis periodos de la Circular 3/2020
+Zona Peninsular
+Precio medio ponderado del mercado diario por periodo tarifario
+de la discriminación horaria en seis periodos del RD 1164/2001 (€/MWh)
+Fuente:  OMEL, REE Y CNMC
+0,00
+20,00
+40,00
+60,00
+80,00
+100,00
+120,00
+140,00
+160,00
+180,00
+200,00
+1 2 3 4 5 6
+€/MWh
+Periodos Horarios
+2024 2025
+Ene - Jun 2026 SENDA DE PRECIO MÍNIMA
+SENDA DE PRECIO MÁXIMO
+Hora del día
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Alta Enero
+Alta Febrero
+Media-Alta Marzo
+Baja Abril
+Baja Mayo
+Media Junio
+Alta Julio
+Media Agosto
+Media Septiembre
+Baja Octubre
+Media-Alta Noviembre
+Alta Diciembre
+Periodo 1 Periodo 2 Periodo 3 Periodo 4 Periodo 5 Periodo 6
+Fines de semana y festivos 
+nacionales
+TEMPORADA MES
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 82 de 98
+=== p83
+IS/DE/012/26
+Boletín de indicadores eléctricos
+7.- Mercado de producción. MIBEL
+Evolución del mercado de electricidad en los últimos tres meses
+Aplicación del "Market Splitting"
+Nº de Horas  Energía
+Fuente:  OMEL, Y CNMC
+37,16
+45,07
+62,08
+39,27
+48,46
+64,64
+0,00
+10,00
+20,00
+30,00
+40,00
+50,00
+60,00
+70,00
+abr-26 may-26 jun-26
+Cent €/kWh
+España
+ Portugal
+3% 4% 1%
+97% 96% 99%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+abr-26 may-26 jun-26
+3% 5% 1%
+97% 95% 99%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+abr-26 may-26 jun-26
+3% 4% 1%
+97% 96% 99%
+0%
+20%
+40%
+60%
+80%
+100%
+abr-26 may-26 jun-26
+Precio España ≠ Precio Portugal Precio España = Precio Portugal
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 83 de 98
+=== p84
+IS/DE/012/26
+Boletín de indicadores eléctricos
+7.- Mercado de producción. MIBEL
+Evolución del mercado de electricidad desde julio de 2007
+Diferencias de precios entre la zona portuguesa y española desde julio de 2007
+Fuente:  OMEL, Y CNMC
+0,00
+50,00
+100,00
+150,00
+200,00
+250,00
+300,00
+jul-07
+feb-08
+sep-08
+abr-09
+nov-09
+jun-10
+ene-11
+ago-11
+mar-12
+oct-12
+may-13
+dic-13
+jul-14
+feb-15
+sep-15
+abr-16
+nov-16
+jun-17
+ene-18
+ago-18
+mar-19
+oct-19
+may-20
+dic-20
+jul-21
+feb-22
+sep-22
+abr-23
+nov-23
+jun-24
+ene-25
+ago-25
+mar-26
+€/MWh
+ESPAÑA PORTUGAL
+-10,00
+-5,00
+0,00
+5,00
+10,00
+15,00
+20,00
+jul-07
+feb-08
+sep-08
+abr-09
+nov-09
+jun-10
+ene-11
+ago-11
+mar-12
+oct-12
+may-13
+dic-13
+jul-14
+feb-15
+sep-15
+abr-16
+nov-16
+jun-17
+ene-18
+ago-18
+mar-19
+oct-19
+may-20
+dic-20
+jul-21
+feb-22
+sep-22
+abr-23
+nov-23
+jun-24
+ene-25
+ago-25
+mar-26
+€/MWh
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 84 de 98
+=== p85
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+En la presente sección se estima la facturación por el suministro de electricidad, en adelante FSE,
+que hubiera tenido el consumidor medio (de cada peaje de acceso), por la adquisición de la
+energía en el mercado spot.
+La FSE incluye los siguientes componentes de coste:
+- Facturación media de acceso por peaje, peaje de transporte y distribución y cargos del sistema
+eléctrico a partir del 1 de junio de 2021, según la base de datos de liquidaciones eléctricas.
+- Facturación media de los pagos por capacidad resultante de aplicar los precios unitarios del
+servicio de capacidad a la demanda en b.c por peaje de acceso.
+- Facturación de la energía en el mercado spot resultante de aplicar el coste horario de energía en
+el mercado organizado para Comercializadoras en Mercado Libre y Consumidores Directos a
+Mercado Libre publicado en la página web de la CNMC, a la curva de carga horaria en b.c. del
+peaje correspondiente. A partir del 1 de enero de 2015 incluye el coste del Servicio de
+Interrumpibilidad.
+- Facturación en concepto de financiación del Operador del Mercado Ibérico de Energía, Polo
+Español y del Operador del Sistema.
+- A partir del 15 de junio de 2022, se incluye el coste del mecanismo de ajuste corresponde al
+coste medio soportado por los comercializadores libres que incluye tanto energía exenta como no
+exenta de la financiación del mecanismo.
+La FSE no incluye impuestos, ni margen de comercialización
+A los efectos anteriores la curva de carga de cada grupo tarifario se ha confeccionado
+distribuyendo la demanda en consumo de cada periodo tarifario, entre las horas que componen
+dicho periodo tarifario, con la excepción de los consumidores de baja tensión, para los que se han
+considerado los perfiles finales publicados por REE en su página web.
+Una vez obtenida la curva de carga de cada periodo tarifario, la curva de carga en b.c. se ha
+calculado aplicando las pérdidas estándares y lo establecido en la disposición adicional cuarta y
+transitoria séptima del Real Decreto 216/2014, a partir de su entrada en vigor.
+La facturación de la electricidad de los consumidores que adquieren su energía a un
+comercializador libre es el resultado de la libre negociación entre las partes y depende de
+numerosos factores, tales como el nivel de tensión, potencia contratada, perfil de consumo,
+referencia de los mercados a plazo, etc… por lo que no tiene por qué coincidir con el mostrado en
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 85 de 98
+=== p86
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Último mes disponible. Marzo 2026
+Baja Tensión 7,35 4,50 2,85 0,03 8,58 0,08 16,05 5% 2% 12% -4% 0% 236% 3%
+2.0 TD 8,42 5,33 3,09 0,03 8,67 0,08 17,20 6% 3% 11% -4% 0% 236% 3%
+3.0 TD 4,84 2,54 2,30 0,03 8,38 0,08 13,33 3% -5% 13% -3% 0% 236% 1%
+3.0 TDVE 8,13 5,10 3,03 0,03 8,17 0,08 16,41 -13% -23% 12% -3% 0% 236% -6%
+Alta Tensión 2,73 1,76 0,98 0,01 7,43 0,08 10,25 29% 25% 36% 0% 1% 237% 8%
+6.1 TD 3,34 2,11 1,23 0,01 7,54 0,08 10,97 10% 7% 17% -3% 0% 236% 3%
+6.1 TDVE 9,43 6,89 2,54 0,01 7,30 0,08 16,81 2% -3% 22% -5% 1% 236% 2%
+6.2 TD 2,12 1,42 0,70 0,01 7,37 0,07 9,58 47% 44% 52% 1% 0% 236% 9%
+6.3 TD 1,46 0,93 0,54 0,01 7,25 0,07 8,80 47% 42% 56% 1% 1% 236% 7%
+6.4 TD 1,04 0,77 0,28 0,01 7,04 0,07 8,16 72% 70% 78% 3% 1% 236% 8%
+Total 5,19 3,22 1,98 0,02 8,05 0,08 13,34 16% 12% 23% 2% 1% 238% 7%
+Fuente: CNMC (SINCRO, liquidación 5 de 2026) , OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+             (1) Incluye los pagos correspondientes a la financiación del Servicio de Interrumpibilidad, liquidación subastas REER, participación
+                 activa demanda y, a partir del 15 de junio de 202, se incluye el coste del mecanismo de ajuste establecido en el RD-l 10/2022
+             (2) Otros, incluye importes destinados a la financiación del Operador del Mercado Ibérico de Energía, Polo Español y del OS
+c€/kWh Tasa de variación sobre el mismo mes del año 
+anterior
+Pagos 
+por 
+capacida
+d
+Coste 
+de la 
+energía 
+(1)
+TotalCargos Otros 
+(2)
+Peaje 
+de 
+T&D
+Peaje
+Peaje 
+de 
+acceso
+Pagos por 
+capacidad
+Peaje 
+de 
+acceso
+Coste 
+de la 
+energía 
+(1)
+TotalCargos Otros 
+(2)
+Peaje 
+de 
+T&D
+17,20 
+13,33 
+16,41 
+10,97 
+16,81 
+9,58 
+8,80 
+8,16 
+0,00
+2,00
+4,00
+6,00
+8,00
+10,00
+12,00
+14,00
+16,00
+18,00
+20,00
+2.0 TD 3.0 TD 3.0 TDVE 6.1 TD 6.1 TDVE 6.2 A 6.3 A 6.4 A
+Baja Tensión Alta Tensión AT
+c€/kWh
+Peaje de T&D Cargos Pagos por capacidad Coste de la energía (1) Otros (2)
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 86 de 98
+=== p87
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Distribución del coste medio por componente
+Baja Tensión 46% 28% 18% 0% 53% 1% 100% 45% 28% 16% 0% 55% 0% 100%
+2.0 TD 49% 31% 18% 0% 50% 0% 100% 48% 31% 17% 0% 52% 0% 100%
+3.0 TD 36% 19% 17% 0% 63% 1% 100% 36% 20% 15% 0% 64% 0% 100%
+3.0 TDVE 50% 31% 18% 0% 50% 1% 100% 53% 38% 15% 0% 46% 0% 100%
+Alta Tensión 27% 17% 10% 0% 73% 1% 100% 22% 15% 8% 0% 77% 0% 100%
+6.1 TD 30% 19% 11% 0% 69% 1% 100% 28% 19% 10% 0% 71% 0% 100%
+6.1 TDVE 56% 41% 15% 0% 43% 0% 100% 56% 43% 13% 0% 44% 0% 100%
+6.2 TD 22% 15% 7% 0% 77% 1% 100% 16% 11% 5% 0% 83% 0% 100%
+6.3 TD 17% 11% 6% 0% 82% 1% 100% 12% 8% 4% 0% 88% 0% 100%
+6.4 TD 13% 9% 3% 0% 86% 1% 100% 8% 6% 2% 0% 92% 0% 100%
+Total 39% 24% 15% 0% 60% 1% 100% 36% 23% 13% 0% 64% 0% 100%
+Distribución del coste medio por componente. Marzo 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026) , OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+             (1) Incluye los pagos correspondientes a la financiación del Servicio de Interrumpibilidad, liquidación subastas REER, participación
+                 activa demanda y, a partir del 15 de junio de 202, se incluye el coste del mecanismo de ajuste establecido en el RD-l 10/2022
+             (2) Otros, incluye importes destinados a la financiación del Operador del Mercado Ibérico de Energía, Polo Español y del OS
+Peaje
+Peaje 
+de 
+acceso
+Pagos por 
+capacidad
+Coste 
+de la 
+energía 
+(1)
+Total
+Peaje 
+de 
+T&D
+Cargos Otros 
+(2)
+Coste 
+de la 
+energía 
+(1)
+Total
+Marzo 2026 Marzo 2025
+Peaje 
+de 
+acceso
+Pagos por 
+capacidad
+Peaje 
+de 
+T&D
+Cargos Otros 
+(2)
+31%
+19%
+31%
+19%
+41%
+15% 11% 9%
+50%
+63%
+50%
+69%
+43%
+77% 82% 86%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2.0 TD 3.0 TD 3.0 TDVE 6.1 TD 6.1 TDVE 6.2 A 6.3 A 6.4 A
+Baja Tensión Alta Tensión AT
+c€/kWh
+Peaje de T&D Cargos Pagos por capacidad Coste de la energía (1) Otros (2)
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 87 de 98
+=== p88
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Últimos 12 meses. Abril 2025 - marzo 2026
+Baja Tensión 6,88 4,35 2,53 0,03 8,78 0,04 15,73 4% -5% 24% -8% -16% 60% -8%
+2.0 TD 7,95 5,16 2,79 0,03 8,84 0,04 16,86 5% -3% 24% -8% -16% 62% -8%
+3.0 TD 4,49 2,53 1,96 0,03 8,66 0,04 13,22 2% -10% 24% -8% -15% 54% -10%
+3.0 TDVE 8,40 5,77 2,63 0,04 8,31 0,04 16,79 -9% -19% 22% -9% -17% 62% -13%
+Alta Tensión 2,25 1,53 0,72 0,01 7,80 0,03 10,10 -1% -10% 28% -7% -14% 50% -11%
+6.1 TD 3,06 2,06 1,00 0,01 7,94 0,03 11,05 -2% -11% 26% -8% -14% 51% -11%
+6.1 TDVE 8,88 6,81 2,08 0,01 7,62 0,04 16,55 -16% -24% 22% -10% -17% 61% -17%
+6.2 TD 1,56 1,09 0,47 0,01 7,76 0,03 9,36 6% -2% 31% -7% -14% 49% -11%
+6.3 TD 1,07 0,72 0,35 0,01 7,67 0,03 8,78 -1% -11% 32% -8% -13% 44% -12%
+6.4 TD 0,69 0,52 0,17 0,01 7,42 0,03 8,16 -13% -22% 34% -6% -14% 48% -13%
+Total 4,51 2,91 1,60 0,02 8,28 0,04 12,85 4% -5% 27% -7% -15% 55% -9%
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+             (1) Incluye los pagos correspondientes a la financiación del Servicio de Interrumpibilidad, liquidación subastas REER, participación
+                 activa demanda y, a partir del 15 de junio de 202, se incluye el coste del mecanismo de ajuste establecido en el RD-l 10/2022
+             (2) Otros, incluye importes destinados a la financiación del Operador del Mercado Ibérico de Energía, Polo Español y del OS
+Coste 
+de la 
+energía 
+(1)
+TotalOtros 
+(2)
+c€/kWh Tasa de variación sobre el mismo mes del año 
+anterior
+Coste 
+de la 
+energía 
+(1)
+Otros 
+(2) Total
+Peaje 
+de 
+acceso
+Peaje 
+de 
+T&D
+Cargos
+Pagos 
+por 
+capacida
+d
+Peaje
+Peaje 
+de 
+acceso
+Peaje 
+de 
+T&D
+Cargos Pagos por 
+capacidad
+16,86 
+13,22 
+16,79 
+11,05 
+16,55 
+9,36 
+8,78 
+8,16 
+0,00
+2,00
+4,00
+6,00
+8,00
+10,00
+12,00
+14,00
+16,00
+18,00
+2.0 TD 3.0 TD 3.0 TDVE 6.1 TD 6.1 TDVE 6.2 A 6.3 A 6.4 A
+Baja Tensión Alta Tensión AT
+c€/kWh
+Peaje de T&D Cargos Pagos por capacidad Coste de la energía (1) Otros (2)
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 88 de 98
+=== p89
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Distribución del coste medio por componente
+Baja Tensión 44% 28% 16% 0% 56% 0% 100% 39% 27% 12% 0% 61% 0% 100%
+2.0 TD 47% 31% 17% 0% 52% 0% 100% 42% 29% 12% 0% 58% 0% 100%
+3.0 TD 34% 19% 15% 0% 65% 0% 100% 30% 19% 11% 0% 70% 0% 100%
+3.0 TDVE 50% 34% 16% 0% 50% 0% 100% 48% 37% 11% 0% 52% 0% 100%
+Alta Tensión 22% 15% 7% 0% 77% 0% 100% 20% 15% 5% 0% 80% 0% 100%
+6.1 TD 28% 19% 9% 0% 72% 0% 100% 25% 19% 6% 0% 74% 0% 100%
+6.1 TDVE 54% 41% 13% 0% 46% 0% 100% 53% 45% 9% 0% 46% 0% 100%
+6.2 TD 17% 12% 5% 0% 83% 0% 100% 14% 11% 3% 0% 86% 0% 100%
+6.3 TD 12% 8% 4% 0% 87% 0% 100% 11% 8% 3% 0% 89% 0% 100%
+6.4 TD 8% 6% 2% 0% 91% 0% 100% 8% 7% 1% 0% 91% 0% 100%
+Total 35% 23% 12% 0% 64% 0% 100% 31% 22% 9% 0% 69% 0% 100%
+Distribución del coste medio por componente. Abr 2025 - mar 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026) , OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+             (1) Incluye los pagos correspondientes a la financiación del Servicio de Interrumpibilidad, liquidación subastas REER, participación
+                 activa demanda y, a partir del 15 de junio de 202, se incluye el coste del mecanismo de ajuste establecido en el RD-l 10/2022
+             (2) Otros, incluye importes destinados a la financiación del Operador del Mercado Ibérico de Energía, Polo Español y del OS
+Otros 
+(2)
+Abr 2025 - mar 2026 Abr 2024 - mar 2025
+Peaje
+Peaje 
+de 
+acceso
+Peaje 
+de 
+T&D
+Cargos Pagos por 
+capacidad
+Coste 
+de la 
+energía 
+(1)
+Otros 
+(2) Total
+Peaje 
+de 
+acceso
+Peaje 
+de 
+T&D
+Cargos Pagos por 
+capacidad
+Coste 
+de la 
+energía 
+(1)
+Total
+31%
+19%
+34%
+19%
+41%
+12% 8% 6%
+52%
+65%
+50%
+72%
+46%
+83% 87% 91%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2.0 TD 3.0 TD 3.0 TDVE 6.1 TD 6.1 TDVE 6.2 A 6.3 A 6.4 A
+Baja Tensión Alta Tensión AT
+c€/kWh
+Peaje de T&D Cargos Pagos por capacidad Coste de la energía (1) Otros (2)
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 89 de 98
+=== p90
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Coste medio de la electricidad durante los doce meses anteriores a cada fecha
+ para los consumidores conectados a redes de baja tensión (≤1 kV) (1)
+Coste medio de la electricidad durante los doce meses anteriores a cada fecha
+ para los consumidores conectados a redes de alta tensión (>1 kV)
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+5,00
+10,00
+15,00
+20,00
+25,00
+30,00
+35,00
+40,00
+ene.-10
+jul.-10
+ene.-11
+jul.-11
+ene.-12
+jul.-12
+ene.-13
+jul.-13
+ene.-14
+jul.-14
+ene.-15
+jul.-15
+ene.-16
+jul.-16
+ene.-17
+jul.-17
+ene.-18
+jul.-18
+ene.-19
+jul.-19
+ene.-20
+jul.-20
+ene.-21
+jul.-21
+ene.-22
+jul.-22
+ene.-23
+jul.-23
+ene.-24
+jul.-24
+ene.-25
+jul.-25
+ene.-26
+c€/kWh
+2.0TD 3.0TD
+4,00
+9,00
+14,00
+19,00
+24,00
+29,00
+ene.-10
+jul.-10
+ene.-11
+jul.-11
+ene.-12
+jul.-12
+ene.-13
+jul.-13
+ene.-14
+jul.-14
+ene.-15
+jul.-15
+ene.-16
+jul.-16
+ene.-17
+jul.-17
+ene.-18
+jul.-18
+ene.-19
+jul.-19
+ene.-20
+jul.-20
+ene.-21
+jul.-21
+ene.-22
+jul.-22
+ene.-23
+jul.-23
+ene.-24
+jul.-24
+ene.-25
+jul.-25
+ene.-26
+c€/kWh
+6.1 TD 6.2 TD 6.3 TD 6.4 TD
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 90 de 98
+=== p91
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Peaje 2.0 TD
+en los últimos cuatro meses
+Peaje de acceso 7,19 7,07 7,88 8,42 7% -2% 3% 6%
+Peaje de T&D 4,59 4,33 4,87 5,33 -4% -7% -1% 3%
+Cargos 2,60 2,74 3,00 3,09 33% 6% 10% 11%
+Pagos por capacidad 0,03 0,03 0,03 0,03 -6% -10% -5% -4%
+Coste de la energía 11,23 10,57 5,10 8,67 -25% -21% -67% -2%
+Mercado Diario 9,61 8,92 2,29 5,43 -30% -26% -83% -21%
+SS.CC 1,75 1,90 3,09 3,53 33% 33% 53% 79%
+Mecanismo de ajuste
+Participación demanda -0,13 -0,24 -0,27 -0,29 91% 72% 83% 96%
+Cuota OMIE 0,020 0,024 0,024 0,024 -4% 21% 21% 21%
+Cuota OS 0,005 0,060 0,060 0,060 0% 1121% 1120% 1120%
+Total 18,48 17,76 13,10 17,20 -15% -14% -43% 2%
+en los últimos cuatro años
+Peaje de acceso 7,55 7,50 7,92 7,95 -6% -1% 6% 5%
+Peaje de T&D 5,46 5,42 5,19 5,16 0% -1% -4% -3%
+Cargos 2,08 2,08 2,73 2,79 -18% 0% 31% 24%
+Pagos por capacidad 0,04 0,04 0,03 0,03 -26% -11% -11% -8%
+Coste de la energía 11,87 9,12 9,94 8,84 -51% -23% 9% -17%
+Mercado Diario 10,57 7,79 8,10 6,76 -48% -26% 4% -26%
+SS.CC 1,31 1,40 1,99 2,25 54% 6% 42% 47%
+S. Interrumpibilidad
+Mecanismo de ajuste 0,03 -99% -100%
+Participación demanda -0,04 -0,08 -0,14 -0,18 225% 83% 89% 85%
+Cuota OS 0,019 0,021 0,020 0,021 14% 9% -4% 3%
+Cuota OMIE 0,004 0,005 0,005 0,020 41% 9% 1% 313%
+Total 19,48 16,67 17,91 16,86 -39% -14% 7% -8%
+Distribución del coste medio por componente. Abr 2025 - mar 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+Componente dic.-25 ene.-26 feb.-26 mar.-26 mar 26 s/ 
+mar 25
+c€/kWh Tasa de variación sobre el año anterior
+c€/kWh Tasa de variación sobre el mismo mes del 
+año anterior
+dic 25 s/ 
+dic 24
+ene 26 s/ 
+ene 25
+feb 26 s/ 
+feb 25
+2024 s/ 
+2023
+2025 s/ 
+2024
+Abr 2025 - 
+mar 2026 s/ 
+Abr 2024 - 
+mar 2025
+Componente 2023 2024 2025
+Últimos 12 
+meses. 
+Abr 2025 - 
+mar 2026
+2023 s/ 
+2022
+Peaje de acceso; 47,2%
+Pagos por capacidad; 0,2%
+Coste de la energía; 52,4%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 91 de 98
+=== p92
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Peaje 3.0 TD
+en los últimos cuatro meses
+Peaje de acceso 5,76 5,95 6,12 4,84 11% -1% 2% 3%
+Peaje de T&D 3,26 3,24 3,30 2,54 -2% -7% -4% -5%
+Cargos 2,50 2,71 2,83 2,30 35% 7% 11% 13%
+Pagos por capacidad 0,06 0,05 0,06 0,03 -5% -9% -6% -3%
+Coste de la energía 11,23 10,50 4,88 8,38 -25% -22% -68% -2%
+Mercado Diario 9,62 8,85 2,05 5,17 -30% -27% -84% -22%
+SS.CC 1,74 1,91 3,11 3,50 33% 37% 53% 81%
+Mecanismo de ajuste
+Participación demanda -0,13 -0,26 -0,29 -0,30 88% 83% 91% 100%
+Cuota OMIE 0,020 0,024 0,024 0,024 -4% 21% 21% 21%
+Cuota OS 0,005 0,060 0,060 0,060 0% 1121% 1120% 1120%
+Total 17,07 16,59 11,14 13,33 -16% -15% -48% 0%
+en los últimos cuatro años
+Peaje de acceso 4,27 4,26 4,47 4,49 -4% 0% 5% 2%
+Peaje de T&D 2,83 2,82 2,57 2,53 6% 0% -9% -10%
+Cargos 1,44 1,44 1,90 1,96 -18% 0% 32% 24%
+Pagos por capacidad 0,04 0,04 0,03 0,03 -26% -10% -12% -8%
+Coste de la energía 11,76 8,93 9,66 8,66 -51% -24% 8% -16%
+Mercado Diario 10,51 7,63 7,80 6,60 -48% -27% 2% -25%
+SS.CC 1,27 1,38 2,00 2,24 54% 9% 45% 49%
+S. Interrumpibilidad
+Mecanismo de ajuste 0,02 -99% -100%
+Participación demanda -0,04 -0,08 -0,14 -0,18 92% 87%
+Cuota OS 0,019 0,021 0,020 0,021 14% 9% -4% 2%
+Cuota OMIE 0,004 0,005 0,005 0,018 41% 9% 1% 274%
+Total 16,10 13,25 14,18 13,22 -43% -18% 7% -11%
+Distribución del coste medio por componente. Abr 2025 - mar 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+Componente 2023 2024 2025
+Últimos 12 
+meses. 
+Abr 2025 - 
+mar 2026
+2023 s/ 
+2022
+2024 s/ 
+2023
+2025 s/ 
+2024
+Abr 2025 - 
+mar 2026 s/ 
+Abr 2024 - 
+mar 2025
+c€/kWh Tasa de variación sobre el año anterior
+c€/kWh Tasa de variación sobre el mismo mes del 
+año anterior
+dic 25 s/ 
+dic 24
+ene 26 s/ 
+ene 25
+feb 26 s/ 
+feb 25
+mar 26 s/ 
+mar 25Componente dic.-25 ene.-26 feb.-26 mar.-26
+Peaje de acceso; 34,0%
+Pagos por capacidad; 0,3%
+Coste de la energía; 65,5%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 92 de 98
+=== p93
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Peaje 3.0 TDVE
+en los últimos cuatro meses
+Peaje de acceso 12,02 12,15 12,71 8,13 7% -11% -8% -13%
+Peaje de T&D 8,18 8,06 8,37 5,10 -2% -17% -14% -23%
+Cargos 3,84 4,10 4,34 3,03 37% 3% 8% 12%
+Pagos por capacidad 0,06 0,06 0,06 0,03 -6% -12% -8% -3%
+Coste de la energía 11,16 10,63 5,09 8,17 -24% -21% -66% -1%
+Mercado Diario 9,55 8,94 2,26 4,88 -29% -26% -82% -23%
+SS.CC 1,72 1,95 3,13 3,61 37% 41% 55% 89%
+Mecanismo de ajuste
+Participación demanda -0,11 -0,26 -0,30 -0,31 72% 105% 120% 134%
+Cuota OMIE 0,020 0,024 0,024 0,024 -4% 21% 21% 21%
+Cuota OS 0,005 0,060 0,060 0,060 0% 1122% 1121% 1120%
+Total 23,27 22,92 17,95 16,41 -10% -16% -37% -7%
+en los últimos cuatro años
+Peaje de acceso 9,09 8,80 8,30 8,40 0% -3% -6% -9%
+Peaje de T&D 7,25 6,95 5,86 5,77 3% -4% -16% -19%
+Cargos 1,84 1,86 2,44 2,63 -9% 1% 31% 22%
+Pagos por capacidad 0,05 0,04 0,04 0,04 -24% -9% -13% -9%
+Coste de la energía 11,36 8,85 9,03 8,31 -50% -22% 2% -18%
+Mercado Diario 10,09 7,55 7,12 6,17 -44% -25% -6% -29%
+SS.CC 1,30 1,38 2,04 2,32 39% 6% 48% 55%
+S. Interrumpibilidad
+Mecanismo de ajuste 0,01 -100% -100%
+Participación demanda -0,04 -0,07 -0,13 -0,17 73% 75%
+Cuota OS 0,019 0,020 0,020 0,021 14% 9% -4% 3%
+Cuota OMIE 0,004 0,005 0,005 0,020 41% 9% 1% 314%
+Total 20,52 17,73 17,39 16,79 -35% -14% -2% -14%
+Distribución del coste medio por componente. Abr 2025 - mar 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+Componente 2023 2024 2025
+Últimos 12 
+meses. 
+Abr 2025 - 
+mar 2026
+2023 s/ 
+2022
+2024 s/ 
+2023
+2025 s/ 
+2024
+Abr 2025 - 
+mar 2026 s/ 
+Abr 2024 - 
+mar 2025
+c€/kWh Tasa de variación sobre el año anterior
+c€/kWh Tasa de variación sobre el mismo mes del 
+año anterior
+dic 25 s/ 
+dic 24
+ene 26 s/ 
+ene 25
+feb 26 s/ 
+feb 25
+mar 26 s/ 
+mar 25mar.-26Componente dic.-25 ene.-26 feb.-26
+Peaje de acceso; 50,0%
+Pagos por capacidad; 0,2%
+Coste de la energía; 49,5%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 93 de 98
+=== p94
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Peaje 6.1 TD
+en los últimos cuatro meses
+Peaje de acceso 4,19 4,29 4,31 3,34 5% 4% 6% 10%
+Peaje de T&D 2,86 2,85 2,83 2,11 -5% 1% 3% 7%
+Cargos 1,34 1,44 1,48 1,23 36% 9% 12% 17%
+Pagos por capacidad 0,02 0,02 0,02 0,01 -5% -9% -5% -3%
+Coste de la energía 10,19 9,64 4,67 7,80 -24% -20% -66% 1%
+Mercado Diario 8,59 7,92 1,84 4,62 -30% -26% -84% -22%
+SS.CC 1,60 1,73 2,83 3,18 32% 33% 56% 78%
+Mecanismo de ajuste
+Participación demanda -0,11 -0,22 -0,24 -0,26 90% 75% 83% 92%
+Cuota OMIE 0,018 0,022 0,022 0,022 -4% 21% 21% 21%
+Cuota OS 0,004 0,054 0,054 0,054 0% 1121% 1120% 1120%
+Total 14,42 14,03 9,08 11,23 -17% -13% -49% 4%
+en los últimos cuatro años
+Peaje de acceso 3,23 3,10 3,01 3,06 -3% -4% -3% -2%
+Peaje de T&D 2,51 2,38 2,05 2,06 2% -5% -14% -11%
+Cargos 0,72 0,72 0,97 1,00 -18% 1% 33% 26%
+Pagos por capacidad 0,02 0,01 0,01 0,01 -27% -9% -12% -8%
+Coste de la energía 10,67 8,07 8,81 7,94 -51% -24% 9% -15%
+Mercado Diario 9,51 6,85 7,09 6,03 -48% -28% 3% -24%
+SS.CC 1,18 1,28 1,85 2,07 53% 9% 44% 48%
+S. Interrumpibilidad
+Mecanismo de ajuste 0,02 -99% -100%
+Participación demanda -0,04 -0,07 -0,13 -0,16 89% 91%
+Cuota OS 0,017 0,019 0,018 0,019 14% 9% -4% 2%
+Cuota OMIE 0,004 0,004 0,004 0,016 41% 9% 1% 260%
+Total 13,94 11,20 11,86 11,05 -44% -20% 6% -11%
+Distribución del coste medio por componente. Abr 2025 - mar 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+c€/kWh Tasa de variación sobre el año anterior
+c€/kWh Tasa de variación sobre el mismo mes del 
+año anterior
+Componente dic.-25 ene.-26 feb.-26 mar.-26 dic 25 s/ 
+dic 24
+ene 26 s/ 
+ene 25
+feb 26 s/ 
+feb 25
+mar 26 s/ 
+mar 25
+Componente 2023 2024 2025
+Últimos 12 
+meses. 
+Abr 2025 - 
+mar 2026
+2023 s/ 
+2022
+2024 s/ 
+2023
+2025 s/ 
+2024
+Abr 2025 - 
+mar 2026 s/ 
+Abr 2024 - 
+mar 2025
+Peaje de acceso; 27,7%
+Pagos por capacidad; 0,1%
+Coste de la energía; 71,9%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 94 de 98
+=== p95
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Peaje 6.1 TDVE
+en los últimos cuatro meses
+Peaje de acceso 13,77 13,14 13,97 9,43 -8% -14% -12% 2%
+Peaje de T&D 10,74 10,07 10,64 6,89 -16% -17% -16% -3%
+Cargos 3,02 3,07 3,33 2,54 38% -1% 4% 22%
+Pagos por capacidad 0,02 0,02 0,02 0,01 -7% -15% -10% -5%
+Coste de la energía 10,12 9,76 4,85 7,57 -24% -19% -64% 3%
+Mercado Diario 8,56 8,00 2,02 4,31 -29% -26% -82% -24%
+SS.CC 1,56 1,76 2,83 3,26 37% 40% 56% 89%
+Mecanismo de ajuste
+Participación demanda -0,10 -0,22 -0,26 -0,27 72% 97% 115% 131%
+Cuota OMIE 0,018 0,022 0,022 0,022 -4% 21% 21% 21%
+Cuota OS 0,004 0,054 0,054 0,054 0% 1121% 1120% 1120%
+Total 23,93 23,00 18,92 17,09 -15% -16% -35% 3%
+en los últimos cuatro años
+Peaje de acceso 11,96 10,23 8,39 8,88 -17% -15% -18% -16%
+Peaje de T&D 10,55 8,82 6,51 6,81 -18% -16% -26% -24%
+Cargos 1,42 1,40 1,88 2,08 -10% -1% 34% 22%
+Pagos por capacidad 0,02 0,02 0,01 0,01 -26% -13% -12% -10%
+Coste de la energía 10,32 8,22 8,11 7,62 -50% -20% -1% -18%
+Mercado Diario 9,20 7,05 6,35 5,67 -41% -23% -10% -29%
+SS.CC 1,15 1,24 1,87 2,10 34% 8% 51% 56%
+S. Interrumpibilidad
+Mecanismo de ajuste 0,01 -100% -100%
+Participación demanda -0,04 -0,07 -0,11 -0,15 77% 74%
+Cuota OS 0,017 0,019 0,018 0,019 14% 9% -4% 3%
+Cuota OMIE 0,004 0,004 0,004 0,018 41% 10% 1% 305%
+Total 22,32 18,49 16,54 16,55 -36% -17% -11% -17%
+Distribución del coste medio por componente. Abr 2025 - mar 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+Componente 2023 2024 2025
+Últimos 12 
+meses. 
+Abr 2025 - 
+mar 2026
+2023 s/ 
+2022
+2024 s/ 
+2023
+2025 s/ 
+2024
+Abr 2025 - 
+mar 2026 s/ 
+Abr 2024 - 
+mar 2025
+c€/kWh Tasa de variación sobre el año anterior
+c€/kWh Tasa de variación sobre el mismo mes del 
+año anterior
+dic 25 s/ 
+dic 24
+ene 26 s/ 
+ene 25
+feb 26 s/ 
+feb 25
+mar 26 s/ 
+mar 25Componente dic.-25 ene.-26 feb.-26 mar.-26
+Peaje de acceso; 53,7%
+Pagos por capacidad; 0,1%
+Coste de la energía; 46,0%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 95 de 98
+=== p96
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Peaje 6.2 TD
+en los últimos cuatro meses
+Peaje de acceso 2,14 2,16 2,19 2,12 13% 6% 9% 47%
+Peaje de T&D 1,52 1,49 1,50 1,42 5% 4% 6% 44%
+Cargos 0,62 0,67 0,69 0,70 39% 13% 17% 52%
+Pagos por capacidad 0,02 0,02 0,02 0,01 -4% -8% -5% 1%
+Coste de la energía 9,93 9,41 4,56 7,62 -24% -20% -66% 2%
+Mercado Diario 8,35 7,71 1,78 4,50 -30% -26% -85% -21%
+SS.CC 1,57 1,69 2,78 3,12 32% 32% 57% 78%
+Mecanismo de ajuste
+Participación demanda -0,11 -0,21 -0,23 -0,25 92% 71% 78% 94%
+Cuota OMIE 0,018 0,022 0,022 0,022 -4% 21% 21% 21%
+Cuota OS 0,004 0,053 0,053 0,053 0% 1120% 1120% 1120%
+Total 12,11 11,66 6,85 9,83 -19% -15% -55% 10%
+en los últimos cuatro años
+Peaje de acceso 1,59 1,44 1,49 1,56 -5% -9% 4% 6%
+Peaje de T&D 1,27 1,12 1,05 1,09 -1% -12% -6% -2%
+Cargos 0,32 0,33 0,44 0,47 -17% 0% 36% 31%
+Pagos por capacidad 0,01 0,01 0,01 0,01 -26% -9% -12% -7%
+Coste de la energía 10,44 7,81 8,63 7,76 -51% -25% 10% -15%
+Mercado Diario 9,28 6,61 6,92 5,88 -48% -29% 5% -24%
+SS.CC 1,17 1,27 1,83 2,03 54% 8% 44% 46%
+S. Interrumpibilidad
+Mecanismo de ajuste 0,02 -99% -100%
+Participación demanda -0,03 -0,07 -0,13 -0,15 94% 91%
+Cuota OS 0,017 0,018 0,018 0,019 14% 9% -4% 2%
+Cuota OMIE 0,004 0,004 0,004 0,015 41% 9% 1% 248%
+Total 12,06 9,29 10,15 9,36 -47% -23% 9% -12%
+Distribución del coste medio por componente. Abr 2025 - mar 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+Componente 2023 2024 2025
+Últimos 12 
+meses. 
+Abr 2025 - 
+mar 2026
+2023 s/ 
+2022
+2024 s/ 
+2023
+2025 s/ 
+2024
+Abr 2025 - 
+mar 2026 s/ 
+Abr 2024 - 
+mar 2025
+c€/kWh Tasa de variación sobre el año anterior
+c€/kWh Tasa de variación sobre el mismo mes del 
+año anterior
+dic 25 s/ 
+dic 24
+ene 26 s/ 
+ene 25
+feb 26 s/ 
+feb 25
+mar 26 s/ 
+mar 25Componente dic.-25 ene.-26 feb.-26 mar.-26
+Peaje de acceso; 16,6%
+Pagos por capacidad; 0,1%
+Coste de la energía; 82,9%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 96 de 98
+=== p97
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Peaje 6.3 TD
+en los últimos cuatro meses
+Peaje de acceso 1,50 1,53 1,66 1,46 11% 12% 22% 47%
+Peaje de T&D 1,04 1,01 1,11 0,93 1% 8% 20% 42%
+Cargos 0,46 0,53 0,55 0,54 45% 20% 26% 56%
+Pagos por capacidad 0,02 0,02 0,02 0,01 -4% -9% -3% 1%
+Coste de la energía 9,73 9,21 4,48 7,48 -24% -20% -66% 3%
+Mercado Diario 8,16 7,54 1,72 4,40 -30% -26% -85% -21%
+SS.CC 1,57 1,67 2,75 3,08 32% 30% 59% 78%
+Mecanismo de ajuste
+Participación demanda -0,11 -0,19 -0,21 -0,23 94% 61% 71% 84%
+Cuota OMIE 0,018 0,021 0,021 0,021 -4% 21% 21% 21%
+Cuota OS 0,004 0,053 0,052 0,052 0% 1120% 1120% 1120%
+Total 11,27 10,83 6,23 9,03 -21% -16% -57% 8%
+en los últimos cuatro años
+Peaje de acceso 1,17 1,09 1,02 1,07 0% -7% -6% -1%
+Peaje de T&D 0,92 0,85 0,69 0,72 5% -8% -19% -11%
+Cargos 0,24 0,24 0,33 0,35 -16% -1% 36% 32%
+Pagos por capacidad 0,01 0,01 0,01 0,01 -27% -9% -12% -8%
+Coste de la energía 10,23 7,69 8,46 7,67 -51% -25% 10% -14%
+Mercado Diario 9,08 6,49 6,77 5,80 -48% -29% 4% -23%
+SS.CC 1,17 1,26 1,82 2,01 54% 8% 44% 46%
+S. Interrumpibilidad
+Mecanismo de ajuste 0,02 -99% -100%
+Participación demanda -0,03 -0,06 -0,12 -0,14 107% 92%
+Cuota OS 0,017 0,018 0,018 0,018 14% 9% -4% 1%
+Cuota OMIE 0,004 0,004 0,004 0,014 41% 9% 1% 226%
+Total 11,43 8,81 9,51 8,78 -48% -23% 8% -12%
+Distribución del coste medio por componente. Abr 2025 - mar 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+Componente 2023 2024 2025
+Últimos 12 
+meses. 
+Abr 2025 - 
+mar 2026
+2023 s/ 
+2022
+2024 s/ 
+2023
+2025 s/ 
+2024
+Abr 2025 - 
+mar 2026 s/ 
+Abr 2024 - 
+mar 2025
+c€/kWh Tasa de variación sobre el año anterior
+c€/kWh Tasa de variación sobre el mismo mes del 
+año anterior
+dic 25 s/ 
+dic 24
+ene 26 s/ 
+ene 25
+feb 26 s/ 
+feb 25
+mar 26 s/ 
+mar 25Componente dic.-25 ene.-26 feb.-26 mar.-26
+Peaje de acceso; 12,2%
+Pagos por capacidad; 0,1%
+Coste de la energía; 87,3%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 97 de 98
+=== p98
+IS/DE/012/26
+Boletín de indicadores eléctricos
+8. Facturación estimada por el suministro de electricidad del consumidor medio
+Peaje 6.4 TD
+en los últimos cuatro meses
+Peaje de acceso 0,97 0,94 0,99 1,04 -15% 6% 12% 72%
+Peaje de T&D 0,76 0,71 0,75 0,77 -23% 4% 9% 70%
+Cargos 0,21 0,23 0,24 0,28 39% 14% 21% 78%
+Pagos por capacidad 0,02 0,02 0,02 0,01 -2% -9% -4% 3%
+Coste de la energía 9,35 8,75 4,13 7,04 -25% -21% -67% 0%
+Mercado Diario 7,93 7,31 1,67 4,27 -30% -26% -85% -21%
+SS.CC 1,52 1,62 2,67 2,99 32% 30% 59% 78%
+Mecanismo de ajuste
+Participación demanda -0,10 -0,18 -0,21 -0,22 96% 61% 70% 87%
+Cuota OMIE 0,017 0,021 0,021 0,021 -4% 21% 21% 21%
+Cuota OS 0,004 0,051 0,051 0,051 0% 1120% 1120% 1120%
+Total 10,36 9,77 5,21 8,16 -24% -19% -62% 6%
+en los últimos cuatro años
+Peaje de acceso 0,97 0,84 0,65 0,69 -2% -14% -22% -13%
+Peaje de T&D 0,86 0,73 0,50 0,52 0% -16% -32% -22%
+Cargos 0,11 0,11 0,16 0,17 -16% 1% 37% 34%
+Pagos por capacidad 0,01 0,01 0,01 0,01 -25% -7% -10% -6%
+Coste de la energía 10,00 7,47 8,23 7,42 -51% -25% 10% -14%
+Mercado Diario 8,87 6,30 6,57 5,60 -49% -29% 4% -24%
+SS.CC 1,14 1,23 1,78 1,96 54% 8% 44% 46%
+S. Interrumpibilidad
+Mecanismo de ajuste 0,02 -99% -100%
+Participación demanda -0,03 -0,06 -0,12 -0,14 108% 93%
+Cuota OS 0,016 0,018 0,017 0,018 14% 10% -4% 2%
+Cuota OMIE 0,004 0,004 0,004 0,014 41% 9% 1% 246%
+Total 11,00 8,34 8,91 8,16 -48% -24% 7% -14%
+Distribución del coste medio por componente. Abr 2025 - mar 2026
+Fuente: CNMC (SINCRO, liquidación 5 de 2026), OMEL y REE .
+Nota : No incluye impuestos, ni margen de comercialización
+Componente 2023 2024 2025
+Últimos 12 
+meses. 
+Abr 2025 - 
+mar 2026
+2023 s/ 
+2022
+2024 s/ 
+2023
+2025 s/ 
+2024
+Abr 2025 - 
+mar 2026 s/ 
+Abr 2024 - 
+mar 2025
+c€/kWh Tasa de variación sobre el año anterior
+c€/kWh Tasa de variación sobre el mismo mes del 
+año anterior
+dic 25 s/ 
+dic 24
+ene 26 s/ 
+ene 25
+feb 26 s/ 
+feb 25
+mar 26 s/ 
+mar 25Componente dic.-25 ene.-26 feb.-26 mar.-26
+Peaje de acceso; 8,5%
+Pagos por capacidad; 0,1%
+Coste de la energía; 91,0%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Comisión Nacional de los Mercados y la Competencia
+C/ Alcalá, 47 – 28014 Madrid - C/ Bolivia, 56 – 08018 Barcelona
+www.cnmc.es # PÚBLICA Página 98 de 98

@@ -4,7 +4,7 @@
 - 2.0TD con impuestos: punta 0,242 · llano 0,153 · valle 0,102 €/kWh.
 - Euros redondeados a 2 decimales (redondeo comercial).
 - Umbrales de renta: RD 897/2017, art. 3.2.a y 3.3 (1,5 veces el IPREM de 14 pagas, +0,3 por adulto adicional, +0,5 por menor, +1 con circunstancia especial). Severo: art. 3.4 (renta ≤ 50 % del umbral).
-- Descuentos: art. 6.3 (35 % vulnerable, 50 % severo), en vigor tras la derogación del RDL 16/2025 (Resolución de 27/01/2026).
+- Descuentos: art. 6.3 (35 % vulnerable, 50 % severo) con carácter general; del 1/1 al 31/12/2026, 42,5 % y 57,5 % (RDL 7/2026, art. 1). Actualizado el 7/10/2026: el ejemplo usa los de 2026. Con los habituales: 11,85 € y 16,94 € al mes.
 - Límites de energía: anexo I del RD 897/2017.
 - Ejemplo orientativo con los precios de referencia de la web: 3,45 kW, 0,09 €/kW y día, 0,13 €/kWh sin impuestos, 132,25 kWh al mes (el límite de dos personas). Descuento sobre potencia y energía; impuesto eléctrico e IVA después. No incluye el alquiler del contador.
 
@@ -32,5 +32,5 @@
 | Situación | Potencia y energía al mes, con impuestos | Descuento al mes | Descuento al año |
 | --- | --- | --- | --- |
 | Sin bono social | 33,87 € | 0,00 € | 0,00 € |
-| Vulnerable (35 %) | 22,02 € | 11,85 € | 142,26 € |
-| Vulnerable severo (50 %) | 16,94 € | 16,94 € | 203,23 € |
+| Vulnerable en 2026 (42,5 %) | 19,48 € | 14,40 € | 172,74 € |
+| Vulnerable severo en 2026 (57,5 %) | 14,40 € | 19,48 € | 233,71 € |

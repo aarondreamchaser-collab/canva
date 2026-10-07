@@ -185,10 +185,10 @@
  "bono-social-electrico": {
   "title": "Bono social eléctrico: qué es, quién puede pedirlo y cómo solicitarlo",
   "title_seo": "Bono social eléctrico: requisitos y cómo pedirlo",
-  "excerpt": "Bono social eléctrico: descuento del 35 % en la factura (50 % si eres vulnerable severo) para hogares con el PVPC. Requisitos, límites y cómo pedirlo.",
+  "excerpt": "Bono social eléctrico: en 2026, descuento del 42,5 % en la factura (57,5 % si eres vulnerable severo) con el PVPC. Requisitos, límites y cómo pedirlo.",
   "category": "factura-luz",
   "keyword": "bono social eléctrico",
-  "words": 1562,
+  "words": 1699,
   "excerpt_len": 150,
   "h2": 8,
   "anclas_unicas": true,
@@ -198,10 +198,12 @@
   "marcas": [],
   "enlaces": [
    "https://www.boe.es/buscar/act.php?id=BOE-A-2017-11505",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2026-6544",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2026-6544",
    "https://tuluzencasa.com/que-potencia-contratar/",
    "https://tuluzencasa.com/como-leer-factura-luz/",
    "https://tuluzencasa.com/pvpc-mercado-libre/",
-   "https://tuluzencasa.com/"
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
   ]
  },
  "placas-solares-en-casa": {

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" font-family="Liberation Sans, DejaVu Sans, Arial, sans-serif">
+  <defs>
+    <linearGradient id="aire" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FAFBF8"/><stop offset="1" stop-color="#FDF1D6"/>
+    </linearGradient>
+    <pattern id="hormigon" width="22" height="22" patternUnits="userSpaceOnUse">
+      <rect width="22" height="22" fill="#B9BDB4"/><circle cx="5" cy="6" r="1.6" fill="#9DA298"/><circle cx="15" cy="15" r="2" fill="#A4A99F"/><circle cx="17" cy="4" r="1.1" fill="#8F948A"/>
+    </pattern>
+    <pattern id="aislante" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#E9E2C4"/><path d="M0 16 L16 0" stroke="#D6CCA2" stroke-width="2"/>
+    </pattern>
+    <marker id="flecha" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#D9822B"/></marker>
+  </defs>
+  <rect width="1280" height="720" fill="url(#aire)"/>
+  <!-- pared -->
+  <rect x="0" y="0" width="70" height="720" fill="#ECEEE9"/><rect x="70" y="0" width="6" height="720" fill="#D3D7CE"/>
+  <!-- calor que sube -->
+  <g stroke="#D9822B" stroke-width="5" fill="none" stroke-linecap="round" marker-end="url(#flecha)" opacity="0.85">
+    <path d="M300 400 q-14 -30 0 -60 q14 -30 0 -60"/><path d="M450 400 q-14 -30 0 -60 q14 -30 0 -60"/>
+    <path d="M580 400 q-14 -30 0 -60 q14 -30 0 -60"/><path d="M740 400 q-14 -30 0 -60 q14 -30 0 -60"/>
+  </g>
+  <!-- capas (de arriba abajo) -->
+  <rect x="76" y="410" width="764" height="34" fill="#E6D8BF"/>
+  <g stroke="#CDBB9C" stroke-width="3"><line x1="236" y1="410" x2="236" y2="444"/><line x1="396" y1="410" x2="396" y2="444"/><line x1="556" y1="410" x2="556" y2="444"/><line x1="716" y1="410" x2="716" y2="444"/></g>
+  <rect x="76" y="444" width="764" height="34" fill="#C9CCC4"/>
+  <g fill="#C7372F"><circle cx="150" cy="466" r="7"/><circle cx="215" cy="466" r="7"/><circle cx="280" cy="466" r="7"/><circle cx="345" cy="466" r="7"/><circle cx="410" cy="466" r="7"/><circle cx="475" cy="466" r="7"/><circle cx="540" cy="466" r="7"/><circle cx="605" cy="466" r="7"/><circle cx="670" cy="466" r="7"/><circle cx="735" cy="466" r="7"/><circle cx="800" cy="466" r="7"/></g>
+  <rect x="76" y="473" width="764" height="5" fill="#F2F2EE"/>
+  <circle cx="507" cy="460" r="9" fill="#FAFBF8" stroke="#4A5663" stroke-width="3"/><circle cx="507" cy="460" r="3" fill="#22354A"/>
+  <rect x="76" y="478" width="764" height="30" fill="url(#aislante)"/>
+  <rect x="76" y="508" width="764" height="150" fill="url(#hormigon)"/>
+  <!-- termostato -->
+  <rect x="96" y="170" width="92" height="120" rx="14" fill="#FAFBF8" stroke="#22354A" stroke-width="4"/>
+  <rect x="110" y="186" width="64" height="38" rx="5" fill="#22354A"/>
+  <text x="142" y="214" text-anchor="middle" font-size="24" font-weight="700" fill="#F2C230">21°</text>
+  <circle cx="125" cy="258" r="9" fill="#D3D7CE"/><circle cx="159" cy="258" r="9" fill="#D3D7CE"/>
+  <path d="M132 290 V 460 H 498" fill="none" stroke="#22354A" stroke-width="3" stroke-dasharray="8 6"/>
+  <path d="M152 290 V 466 H 143" fill="none" stroke="#C7372F" stroke-width="3" stroke-dasharray="8 6"/>
+  <!-- etiquetas -->
+  <g font-size="25" fill="#18222E">
+    <text x="880" y="90" font-size="34" font-weight="700">Suelo radiante eléctrico</text>
+    <text x="880" y="128" font-size="22" fill="#4A5663">Sistema directo, de poco espesor</text>
+    <text x="208" y="214" font-weight="700">Termostato</text>
+    <text x="208" y="242" font-size="20" fill="#4A5663">enciende y apaga según la sonda</text>
+    <text x="880" y="434">Baldosa o pavimento</text>
+    <text x="880" y="466" fill="#C7372F" font-weight="700">Manta calefactora</text>
+    <text x="880" y="494" font-size="20" fill="#4A5663">en cemento cola, con la sonda</text>
+    <text x="880" y="531">Aislante fino (6–10 mm)</text>
+    <text x="880" y="590">Suelo existente</text>
+  </g>
+  <g stroke="#4A5663" stroke-width="2"><line x1="845" y1="427" x2="872" y2="427"/><line x1="845" y1="461" x2="872" y2="461"/><line x1="845" y1="493" x2="872" y2="524"/><line x1="845" y1="583" x2="872" y2="583"/></g>
+  <text x="76" y="700" font-size="17" fill="#4A5663">Esquema orientativo, sin escala · tuluzencasa.com</text>
+</svg>

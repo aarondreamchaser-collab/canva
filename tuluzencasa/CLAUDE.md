@@ -24,7 +24,7 @@ Web de contenido en español (España) sobre consumo eléctrico doméstico, fact
 - Diseño del sitio: fragmentos de WPCode «Diseño tuluzencasa» (CSS) y «Plantilla tuluzencasa» (PHP), con copia en `rediseno/`. Logo del sitio: medio 190 (`logo.png`, alt «Tu luz en casa»); icono del sitio: medio 189 (`icono-512.png`). El bloque 6 del CSS oculta el título de texto cuando hay logo y fija su ancho (220 px; 190 px entre 1025 y 1199 px; 170 px hasta 1024 px). Si se quita el logo, el título vuelve a verse solo. La plantilla añade a cada entrada la ruta de navegación, la fecha de actualización, los huecos de anuncios, la caja de autor y los relacionados: no los escribas en el contenido.
 
 ## Categorías (slug → nombre)
-consumo → Consumo de aparatos · factura-luz → Factura y tarifas · ahorro → Ahorrar luz · instalacion → Averías e instalación · climatizacion → Calefacción y aire · placas-solares → Placas solares · coche-electrico → Coche eléctrico.
+consumo → Consumo de aparatos · factura-luz → Factura y tarifas · ahorro → Ahorrar luz · instalacion → Averías e instalación · climatizacion → Calefacción y aire · placas-solares → Placas solares · coche-electrico → Coche eléctrico · luz-por-comunidades → Luz por comunidades · tramites → Trámites (creada el 7-10-2026).
 Consulta sus IDs con `GET /wp-json/wp/v2/categories?per_page=100` antes de usarlas.
 
 ## Criterios de los precios (deben coincidir con la calculadora de consumo)

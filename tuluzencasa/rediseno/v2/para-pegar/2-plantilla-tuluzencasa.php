@@ -210,6 +210,10 @@ add_action( 'generate_before_footer', function () {
 	$u = function ( $ruta ) {
 		return esc_url( home_url( $ruta ) );
 	};
+	/* Metodología: solo sale cuando la página está publicada. */
+	$metodo = get_page_by_path( 'metodologia' );
+	$metodo = ( $metodo && 'publish' === $metodo->post_status )
+		? '<li><a href="' . esc_url( get_permalink( $metodo ) ) . '">Metodología</a></li>' : '';
 	echo '<footer class="tl-pie" aria-label="Pie de página"><div class="tl-pie-in">'
 		. '<div><a class="tl-pie-marca" href="' . $u( '/' ) . '">Tu luz en casa</a>'
 		. '<p>Guías y calculadoras para entender lo que gastas en luz y pagar menos. Cifras calculadas con el mismo precio de referencia en toda la web y fuentes oficiales enlazadas.</p></div>'
@@ -222,6 +226,7 @@ add_action( 'generate_before_footer', function () {
 		. '<li><a href="' . $u( '/bono-social-electrico/' ) . '">Bono social eléctrico</a></li></ul></div>'
 		. '<div><h2>La web</h2><ul>'
 		. '<li><a href="' . $u( '/sobre-nosotros/' ) . '">Sobre nosotros</a></li>'
+		. $metodo
 		. '<li><a href="' . $u( '/contacto/' ) . '">Contacto</a></li>'
 		. '<li><a href="' . $u( '/aviso-legal/' ) . '">Aviso legal</a></li>'
 		. '<li><a href="' . $u( '/politica-de-privacidad/' ) . '">Política de privacidad</a></li>'

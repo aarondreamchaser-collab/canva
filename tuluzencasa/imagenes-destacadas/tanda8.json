@@ -24,12 +24,12 @@
   "edicion": "recortada a 16:9, con la marca y los avisos en noruego difuminados"
  },
  "cuanto-consume-suelo-radiante-electrico": {
-  "titulo": "File:Electric underfloor heating mats.jpg",
-  "autor": "Ian Haycox",
-  "licencia": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/w/index.php?curid=155817034",
-  "alt": "Mantas de suelo radiante eléctrico extendidas sobre el suelo de una habitación en obra, antes de colocar el pavimento.",
-  "edicion": "recortada a 16:9 y ampliada de 800 a 1.280 px",
-  "nota": "original pequeño (800 × 600): puede verse algo blando en pantallas grandes"
+  "titulo": "Esquema propio (imagenes-destacadas/esquemas/suelo-radiante.svg)",
+  "autor": "tuluzencasa.com",
+  "licencia": "propia",
+  "pagina": "",
+  "alt": "Esquema de un suelo radiante eléctrico: baldosa, manta calefactora con la sonda en el cemento cola, aislante fino y suelo existente, con el termostato en la pared.",
+  "edicion": "dibujado en SVG y exportado a 1.280 × 720 px",
+  "nota": "sustituye a la foto de Ian Haycox (800 px), descartada por baja resolución"
  }
 }

@@ -1,19 +1,23 @@
 title: Bono social eléctrico: qué es, quién puede pedirlo y cómo solicitarlo
 title_seo: Bono social eléctrico: requisitos y cómo pedirlo
-excerpt: Bono social eléctrico: descuento del 35 % en la factura (50 % si eres vulnerable severo) para hogares con el PVPC. Requisitos, límites y cómo pedirlo.
+excerpt: Bono social eléctrico: en 2026, descuento del 42,5 % en la factura (57,5 % si eres vulnerable severo) con el PVPC. Requisitos, límites y cómo pedirlo.
 category: factura-luz
 keyword: bono social eléctrico
 ---
-El bono social eléctrico es un descuento en la factura de la luz para hogares con pocos ingresos o en situaciones concretas: un 35 % si eres consumidor vulnerable y un 50 % si eres vulnerable severo. Solo se aplica si tienes contratada la tarifa regulada, el PVPC, con una comercializadora de referencia, y se pide a esa compañía.
+El bono social eléctrico es un descuento en la factura de la luz para hogares con pocos ingresos o en situaciones concretas: en 2026, un 42,5 % si eres consumidor vulnerable y un 57,5 % si eres vulnerable severo. Solo se aplica si tienes contratada la tarifa regulada, el PVPC, con una comercializadora de referencia, y se pide a esa compañía.
 
-Todo lo que sigue sale del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2017-11505" target="_blank" rel="noopener">Real Decreto 897/2017, que regula el bono social, en su texto consolidado del BOE</a>, comprobado en octubre de 2026. Las normas del bono social han cambiado varias veces en los últimos años; si lees esto más adelante, confirma los porcentajes con tu comercializadora.
+Todo lo que sigue sale del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2017-11505" target="_blank" rel="noopener">Real Decreto 897/2017, que regula el bono social, en su texto consolidado del BOE</a>, comprobado en octubre de 2026, y del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-6544" target="_blank" rel="noopener">Real Decreto-ley 7/2026</a>, que sube los descuentos durante 2026. Las normas del bono social han cambiado varias veces en los últimos años; si lees esto más adelante, confirma los porcentajes con tu comercializadora.
 
 ## Qué es el bono social eléctrico y cuánto descuenta {#que-es}
 
 El bono social es un descuento sobre el precio del PVPC. Se aplica a todos los términos que forman ese precio: la potencia y la energía.
 
-- <strong>Consumidor vulnerable</strong>: 35 % de descuento.
-- <strong>Consumidor vulnerable severo</strong>: 50 % de descuento.
+- <strong>Consumidor vulnerable</strong>: 42,5 % de descuento en 2026 (35 % con carácter general).
+- <strong>Consumidor vulnerable severo</strong>: 57,5 % de descuento en 2026 (50 % con carácter general).
+
+{{CAJA:Actualizado en octubre de 2026}}
+El <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-6544" target="_blank" rel="noopener">Real Decreto-ley 7/2026</a>, artículo 1, sube los descuentos del 1 de enero al 31 de diciembre de 2026: un 42,5 % para los consumidores vulnerables y un 57,5 % para los vulnerables severos. Si te facturaron días a partir del 26 de febrero de 2026 con el descuento anterior, la comercializadora de referencia tenía que abonarte la diferencia en la siguiente factura. Salvo que se prorrogue, desde 2027 vuelven los porcentajes generales del Real Decreto 897/2017: 35 % y 50 %.
+{{/CAJA}}
 
 El descuento de la energía tiene un tope de kWh al año según quién viva en casa. Lo que consumas por encima se paga al precio normal del PVPC:
 
@@ -49,7 +53,7 @@ El IPREM se actualiza cada año y su valor en euros se publica en el BOE. Multip
 
 ## Vulnerable severo y riesgo de exclusión social {#severo}
 
-Eres <strong>vulnerable severo</strong>, con el 50 % de descuento, si cumples los requisitos y además la renta de tu unidad de convivencia no pasa de la mitad del umbral que te corresponde. También lo eres si eres pensionista con pensión mínima y la renta no pasa de 1 vez el IPREM, o si sois familia numerosa y no pasa de 2 veces.
+Eres <strong>vulnerable severo</strong>, con el 57,5 % de descuento en 2026 (50 % con carácter general), si cumples los requisitos y además la renta de tu unidad de convivencia no pasa de la mitad del umbral que te corresponde. También lo eres si eres pensionista con pensión mínima y la renta no pasa de 1 vez el IPREM, o si sois familia numerosa y no pasa de 2 veces.
 
 Si eres vulnerable severo y los servicios sociales de tu comunidad autónoma o de tu ayuntamiento pagan al menos el 50 % de tu factura, se te considera <strong>en riesgo de exclusión social</strong>. En ese caso, tu suministro pasa a ser esencial. Si te encuentras en esa situación, pide información directamente a los servicios sociales.
 
@@ -59,7 +63,7 @@ El ahorro depende de tu potencia, de tu consumo y del precio del PVPC de cada me
 
 {{T:bono_ejemplo}}
 
-Con el 35 % pagaría 11,85 € menos al mes por la potencia y la energía; con el 50 %, 16,94 €. El alquiler del contador no tiene descuento. Además, si tienes más potencia de la que necesitas, bajarla te ahorra también todos los meses: lo explicamos en <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+Con el 42,5 % de 2026 pagaría 14,40 € menos al mes por la potencia y la energía; con el 57,5 %, 19,48 €. Con los descuentos generales del 35 % y el 50 %, el ahorro sería de 11,85 € y 16,94 € al mes. El alquiler del contador no tiene descuento. Además, si tienes más potencia de la que necesitas, bajarla te ahorra también todos los meses: lo explicamos en <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
 
 ## Cómo pedir el bono social paso a paso {#como-pedirlo}
 

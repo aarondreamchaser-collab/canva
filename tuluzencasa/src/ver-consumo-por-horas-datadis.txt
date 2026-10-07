@@ -1,7 +1,7 @@
 title: Ver tu consumo por horas: el contador inteligente y Datadis
 title_seo: Ver tu consumo por horas: contador inteligente y Datadis
 excerpt: Consumo por horas: con Datadis ves gratis lo que gastas cada hora. Pasar 2 kWh al día de punta a valle ahorra 8,51 € al mes; aquí, cómo detectarlo.
-category: factura-luz
+category: tramites
 keyword: consumo por horas
 ---
 Puedes ver tu consumo por horas gratis, sin instalar nada: tu contador inteligente lo registra y la distribuidora lo publica en su web y en Datadis, la plataforma común de todas las distribuidoras. Con esos datos sabrás qué gastas a cada hora y, por ejemplo, que pasar 2 kWh al día de la punta al valle te ahorra 8,51 € al mes.
