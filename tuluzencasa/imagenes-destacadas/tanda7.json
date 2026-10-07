@@ -1,11 +1,12 @@
 {
  "boletin-electrico": {
-  "titulo": "File:Electrician installing outdoor connections on multifamily house.JPG",
-  "autor": "Tomwsulcer",
-  "licencia": "CC0",
-  "pagina": "https://commons.wikimedia.org/w/index.php?curid=31933227",
-  "alt": "Electricista trabajando en la caja de conexiones y los contadores de la fachada de un edificio.",
-  "edicion": "recortada a 16:9"
+  "titulo": "File:Sicherungskasten.jpg",
+  "autor": "Igge",
+  "licencia": "CC BY 2.5",
+  "pagina": "https://commons.wikimedia.org/w/index.php?curid=770692",
+  "alt": "Cuadro eléctrico de una vivienda con los fusibles de entrada, una fila de interruptores magnetotérmicos y el diferencial debajo.",
+  "edicion": "recortada a 16:9 y con las marcas difuminadas",
+  "nota": "triple licencia (GFDL, CC BY-SA 3.0 y CC BY 2.5); se usa CC BY 2.5"
  },
  "cuanto-consume-aerotermia": {
   "titulo": "File:Wärmepumpe Außeneinheit.jpg",
@@ -16,11 +17,11 @@
   "edicion": "recortada a 16:9 y con la marca difuminada"
  },
  "se-ha-ido-la-luz": {
-  "titulo": "File:Electrical Line Down and Power Outage - Waterville, Minnesota Storm and Tornado Damage (29886617077).jpg",
-  "autor": "Tony Webster",
-  "licencia": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/w/index.php?curid=72940532",
-  "alt": "Poste eléctrico partido y cables caídos sobre una calle con árboles después de una tormenta.",
+  "titulo": "File:Elektriker - Ystad-2021.jpg",
+  "autor": "Jonn Leffmann",
+  "licencia": "CC BY 3.0",
+  "pagina": "https://commons.wikimedia.org/w/index.php?curid=103227572",
+  "alt": "Dos electricistas reparando un armario de distribución de la red eléctrica en la calle, con la zanja abierta.",
   "edicion": "recortada a 16:9"
  },
  "luz-en-aragon": {
