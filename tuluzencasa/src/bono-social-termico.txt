@@ -46,7 +46,7 @@ La cuantía depende de dos cosas: la <strong>zona climática</strong> de la vivi
 
 La cifra exacta de cada zona cambia cada año, porque la fórmula reparte el dinero disponible entre todos los beneficiarios. Por eso no damos una tabla de importes por zona: la tuya te la comunica tu comunidad autónoma.
 
-¿Cómo sabes tu zona? Depende de la provincia y de la altitud de tu municipio. Te explicamos cómo leerla con el ejemplo de las capitales de Aragón en <a href="https://tuluzencasa.com/luz-en-aragon/">luz en Aragón</a>.
+¿Cómo sabes tu zona? Depende de la provincia y de la altitud de tu municipio. Te explicamos cómo leerla con el ejemplo de las capitales de Aragón en <a href="https://tuluzencasa.com/luz-en-aragon/">luz en Aragón</a>, y las de otras provincias en <a href="https://tuluzencasa.com/luz-en-andalucia/">luz en Andalucía</a> o <a href="https://tuluzencasa.com/luz-en-comunidad-valenciana/">luz en la Comunidad Valenciana</a>.
 
 ## Qué cambia en 2026 {#2026}
 
