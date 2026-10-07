@@ -1,0 +1,3 @@
+# Originales descargados (PDF y HTML): se guardan solo los .txt extraídos
+*.pdf
+*.html
