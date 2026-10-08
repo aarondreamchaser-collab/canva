@@ -1,14 +1,34 @@
 {
- "cambiar-potencia-contratada": {"titulo": "File:Four 1 pole circuit breakers fitted in a meter box.jpg", "autor": "Bidgee", "licencia": "CC BY-SA 3.0",
+ "cambiar-potencia-contratada": {
+  "titulo": "File:Four 1 pole circuit breakers fitted in a meter box.jpg",
+  "autor": "Bidgee",
+  "licencia": "CC BY-SA 3.0",
   "pagina": "https://commons.wikimedia.org/w/index.php?curid=7632868",
-  "alt": "Cuatro interruptores magnetotérmicos de 8, 16, 20 y 32 amperios en un cuadro eléctrico.", "edicion": "recortada a 16:9 y con las marcas y etiquetas difuminadas"},
- "alta-luz-vivienda": {"titulo": "File:Open electricity meter box with dirty doors (51149147280).jpg", "autor": "Ivan Radic", "licencia": "CC BY 2.0",
+  "alt": "Cuatro interruptores magnetotérmicos de 8, 16, 20 y 32 amperios en un cuadro eléctrico.",
+  "edicion": "recortada a 16:9 y con las marcas y etiquetas difuminadas"
+ },
+ "alta-luz-vivienda": {
+  "titulo": "File:Open electricity meter box with dirty doors (51149147280).jpg",
+  "autor": "Ivan Radic",
+  "licencia": "CC BY 2.0",
   "pagina": "https://commons.wikimedia.org/w/index.php?curid=105184722",
-  "alt": "Armario de contadores de luz abierto, con varios contadores de un edificio.", "edicion": "recortada a 16:9"},
- "cambio-titular-luz": {"titulo": "File:Property Law - Gavel and Block and House Keys.jpg", "autor": "advokatsmart.no", "licencia": "CC BY 2.0",
+  "alt": "Armario de contadores de luz abierto, con varios contadores de un edificio.",
+  "edicion": "recortada a 16:9"
+ },
+ "cambio-titular-luz": {
+  "titulo": "File:Property Law - Gavel and Block and House Keys.jpg",
+  "autor": "advokatsmart.no",
+  "licencia": "CC BY 2.0",
   "pagina": "https://commons.wikimedia.org/w/index.php?curid=123024286",
-  "alt": "Llaves de una casa junto a una maqueta de vivienda y un mazo de juez.", "edicion": "recortada a 16:9"},
- "compensacion-excedentes-placas": {"titulo": "File:Suburban rooftop solar power generation in Canberra, Australia (part 4).jpg", "autor": "Benlisquare", "licencia": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/w/index.php?curid=183401408",
-  "alt": "Vista aérea de un barrio de casas con placas solares en muchos de sus tejados.", "edicion": "recortada a 16:9"}
+  "alt": "Llaves de una casa junto a una maqueta de vivienda y un mazo de juez.",
+  "edicion": "recortada a 16:9"
+ },
+ "compensacion-excedentes-placas": {
+  "titulo": "File:Solar panel on a roof The Netherlands 2.JPG",
+  "autor": "Steven Lek",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/w/index.php?curid=41615290",
+  "alt": "Tejado de una vivienda de ladrillo con placas solares, en los Países Bajos.",
+  "edicion": "recortada a 16:9"
+ }
 }
