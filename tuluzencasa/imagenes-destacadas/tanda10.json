@@ -1,0 +1,23 @@
+{
+ "luz-en-galicia": {"titulo": "File:Catedral de Santiago de Compostela, la Praza do Obradoiro.jpg", "autor": "D.Rovchak", "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Catedral_de_Santiago_de_Compostela,_la_Praza_do_Obradoiro.jpg",
+  "alt": "Fachada del Obradoiro de la catedral de Santiago de Compostela bajo un cielo azul.", "edicion": "recortada a 16:9"},
+ "luz-en-castilla-y-leon": {"titulo": "File:Acueducto, Segovia, España, 2024-06-14, DD 12.jpg", "autor": "Diego Delso", "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Acueducto,_Segovia,_Espa%C3%B1a,_2024-06-14,_DD_12.jpg",
+  "alt": "Arcos del acueducto de Segovia con las casas de la ciudad al fondo.", "edicion": "recortada a 16:9"},
+ "luz-en-pais-vasco": {"titulo": "File:Amanecer - Playa de la Concha - San Sebastian 07.jpg", "autor": "Javier Pérez Montes", "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Amanecer_-_Playa_de_la_Concha_-_San_Sebastian_07.jpg",
+  "alt": "Amanecer sobre la playa de La Concha en San Sebastián.", "edicion": "recortada a 16:9"},
+ "luz-en-canarias": {"titulo": "File:20250704 Teide 01.jpg", "autor": "Flocci Nivis", "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:20250704_Teide_01.jpg",
+  "alt": "El volcán Teide, en Tenerife, visto desde un sendero entre coladas de lava y vegetación.", "edicion": "recortada a 16:9"},
+ "punto-recarga-garaje-normativa": {"titulo": "File:BMW i3 home charging L2 CRI 04 2021 9753.jpg", "autor": "Mariordo (Mario Roberto Durán Ortiz)", "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:BMW_i3_home_charging_L2_CRI_04_2021_9753.jpg",
+  "alt": "Coche eléctrico cargando en la plaza de una vivienda, conectado a un cargador de pared.", "edicion": "recortada a 16:9 y con la matrícula, las marcas y un cartel difuminados"},
+ "deducciones-irpf-eficiencia-energetica": {"titulo": "Esquema propio (imagenes-destacadas/esquemas/deducciones-irpf.svg)", "autor": "Tu luz en casa", "licencia": "propia",
+  "pagina": "", "alt": "Gráfico de barras con la deducción del IRPF de cada obra: 20 %, 40 %, 60 %, 10 % y 15 %.", "edicion": ""},
+ "placas-solares-produccion-comunidad": {"titulo": "Esquema propio (imagenes-destacadas/esquemas/placas-comunidades.svg)", "autor": "Tu luz en casa", "licencia": "propia",
+  "pagina": "", "alt": "Gráfico de barras con los kWh al año por kWp de placas solares en diez capitales, de Santa Cruz de Tenerife a Oviedo.", "edicion": ""},
+ "termo-aerotermico-consumo": {"titulo": "Esquema propio (imagenes-destacadas/esquemas/termo-aerotermico.svg)", "autor": "Tu luz en casa", "licencia": "propia",
+  "pagina": "", "alt": "Esquema de un termo aerotérmico: toma calor del aire y con 1 kWh de luz da 3,13 kWh de agua caliente.", "edicion": ""}
+}
