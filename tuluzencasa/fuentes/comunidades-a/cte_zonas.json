@@ -406,5 +406,256 @@
    "desde": 651,
    "hasta": null
   }
+ ],
+ "A Coruña": [
+  {
+   "zona": "C1",
+   "desde": 0,
+   "hasta": 200
+  },
+  {
+   "zona": "D1",
+   "desde": 201,
+   "hasta": null
+  }
+ ],
+ "Lugo": [
+  {
+   "zona": "D1",
+   "desde": 0,
+   "hasta": 500
+  },
+  {
+   "zona": "E1",
+   "desde": 501,
+   "hasta": null
+  }
+ ],
+ "Ourense": [
+  {
+   "zona": "C3",
+   "desde": 0,
+   "hasta": 150
+  },
+  {
+   "zona": "C2",
+   "desde": 151,
+   "hasta": 300
+  },
+  {
+   "zona": "D2",
+   "desde": 301,
+   "hasta": 800
+  },
+  {
+   "zona": "E1",
+   "desde": 801,
+   "hasta": null
+  }
+ ],
+ "Pontevedra": [
+  {
+   "zona": "C1",
+   "desde": 0,
+   "hasta": 350
+  },
+  {
+   "zona": "D1",
+   "desde": 351,
+   "hasta": null
+  }
+ ],
+ "Ávila": [
+  {
+   "zona": "D2",
+   "desde": 0,
+   "hasta": 550
+  },
+  {
+   "zona": "D1",
+   "desde": 551,
+   "hasta": 850
+  },
+  {
+   "zona": "E1",
+   "desde": 851,
+   "hasta": null
+  }
+ ],
+ "Burgos": [
+  {
+   "zona": "D1",
+   "desde": 0,
+   "hasta": 600
+  },
+  {
+   "zona": "E1",
+   "desde": 601,
+   "hasta": null
+  }
+ ],
+ "León": [
+  {
+   "zona": "E1",
+   "desde": 0,
+   "hasta": null
+  }
+ ],
+ "Palencia": [
+  {
+   "zona": "D1",
+   "desde": 0,
+   "hasta": 800
+  },
+  {
+   "zona": "E1",
+   "desde": 801,
+   "hasta": null
+  }
+ ],
+ "Salamanca": [
+  {
+   "zona": "D2",
+   "desde": 0,
+   "hasta": 850
+  },
+  {
+   "zona": "E1",
+   "desde": 851,
+   "hasta": null
+  }
+ ],
+ "Segovia": [
+  {
+   "zona": "D2",
+   "desde": 0,
+   "hasta": 1050
+  },
+  {
+   "zona": "E1",
+   "desde": 1051,
+   "hasta": null
+  }
+ ],
+ "Soria": [
+  {
+   "zona": "D2",
+   "desde": 0,
+   "hasta": 750
+  },
+  {
+   "zona": "D1",
+   "desde": 751,
+   "hasta": 800
+  },
+  {
+   "zona": "E1",
+   "desde": 801,
+   "hasta": null
+  }
+ ],
+ "Valladolid": [
+  {
+   "zona": "D2",
+   "desde": 0,
+   "hasta": 800
+  },
+  {
+   "zona": "E1",
+   "desde": 801,
+   "hasta": null
+  }
+ ],
+ "Zamora": [
+  {
+   "zona": "D2",
+   "desde": 0,
+   "hasta": 800
+  },
+  {
+   "zona": "E1",
+   "desde": 801,
+   "hasta": null
+  }
+ ],
+ "Araba/Álava": [
+  {
+   "zona": "D1",
+   "desde": 0,
+   "hasta": 600
+  },
+  {
+   "zona": "E1",
+   "desde": 601,
+   "hasta": null
+  }
+ ],
+ "Bizkaia": [
+  {
+   "zona": "C1",
+   "desde": 0,
+   "hasta": 250
+  },
+  {
+   "zona": "D1",
+   "desde": 251,
+   "hasta": null
+  }
+ ],
+ "Gipuzkoa": [
+  {
+   "zona": "D1",
+   "desde": 0,
+   "hasta": 400
+  },
+  {
+   "zona": "E1",
+   "desde": 401,
+   "hasta": null
+  }
+ ],
+ "Las Palmas": [
+  {
+   "zona": "α3",
+   "desde": 0,
+   "hasta": 350
+  },
+  {
+   "zona": "A2",
+   "desde": 351,
+   "hasta": 750
+  },
+  {
+   "zona": "B2",
+   "desde": 751,
+   "hasta": 1000
+  },
+  {
+   "zona": "C2",
+   "desde": 1001,
+   "hasta": null
+  }
+ ],
+ "Santa Cruz de Tenerife": [
+  {
+   "zona": "α3",
+   "desde": 0,
+   "hasta": 350
+  },
+  {
+   "zona": "A2",
+   "desde": 351,
+   "hasta": 750
+  },
+  {
+   "zona": "B2",
+   "desde": 751,
+   "hasta": 1000
+  },
+  {
+   "zona": "C2",
+   "desde": 1001,
+   "hasta": null
+  }
  ]
 }

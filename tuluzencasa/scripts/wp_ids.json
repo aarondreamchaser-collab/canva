@@ -188,5 +188,21 @@
  "compensacion-excedentes-placas": {
   "id": 358,
   "rankmath_status": 200
+ },
+ "luz-en-galicia": {
+  "id": 374,
+  "rankmath_status": 200
+ },
+ "luz-en-castilla-y-leon": {
+  "id": 375,
+  "rankmath_status": 200
+ },
+ "luz-en-pais-vasco": {
+  "id": 376,
+  "rankmath_status": 200
+ },
+ "luz-en-canarias": {
+  "id": 377,
+  "rankmath_status": 200
  }
 }

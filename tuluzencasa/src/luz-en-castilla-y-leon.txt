@@ -1,0 +1,98 @@
+title: Luz en Castilla y León: distribuidoras, clima y trámites
+title_seo: Luz en Castilla y León: distribuidoras, clima y trámites
+excerpt: Luz en Castilla y León: cuatro capitales en zona E1, agua a 5 °C en enero en Burgos y Soria, y 3 kWp de placas que ahorran hasta 454,02 € al año.
+category: luz-por-comunidades
+keyword: luz en Castilla y León
+---
+¿Cómo es la luz en Castilla y León? El kWh cuesta lo mismo que en el resto de la península, pero el invierno pesa más: Ávila, Burgos, León y Soria están en la zona climática E1, la más fría de la escala. El agua del grifo llega a 5 °C en enero en Burgos y Soria, y calentarla para tres personas cuesta 26,95 € ese mes.
+
+Calculamos con <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio del kWh, los costes cambian en la misma proporción.
+
+## Luz en Castilla y León: qué es igual y qué cambia {#igual}
+
+La factura tiene las mismas partes que en cualquier comunidad de la península: potencia, energía, impuesto eléctrico, IVA y alquiler del contador. El precio regulado, el mercado libre y el bono social son estatales.
+
+Lo propio de Castilla y León:
+
+- <strong>Nueve provincias en la meseta</strong>, con todas las capitales entre 649 y 1.131 metros de altitud. Ninguna baja de la zona D.
+- <strong>El boletín se inscribe en el Registro de Instalaciones Eléctricas de Baja Tensión</strong> de la Junta, con una tasa, y la inscripción es inmediata cuando la documentación está completa.
+- <strong>Mucho sol para estar tan al norte</strong>: las placas producen más que en Galicia o el País Vasco.
+
+## Quién te lleva la luz en Castilla y León {#distribuidora}
+
+La distribuidora es la empresa dueña de la red y del contador de tu zona. No la eliges: depende de dónde esté tu casa, y no cambia aunque cambies de comercializadora. Tampoco cambia lo que pagas por la red, porque los peajes los fija la CNMC para toda España.
+
+Para saber cuál es la tuya, mira la factura: aparece su nombre y su teléfono gratuito de averías, que funciona las 24 horas. También lo dice tu CUPS: los cuatro números que van detrás de «ES» son el código de la distribuidora. Por ejemplo, 0021 es i-DE (grupo Iberdrola), 0022 es UFD (grupo Naturgy) y 0031 es Edistribución (grupo Endesa); si ves otro, es una distribuidora más pequeña. Te explicamos cómo se lee en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+
+## El clima de Castilla y León y tu factura {#clima}
+
+El Código Técnico de la Edificación asigna la zona climática por provincia y altitud. En Castilla y León:
+
+{{T:castilla_y_leon_zonas}}
+
+- <strong>Cuatro capitales en la E1</strong>: Ávila, a 1.131 metros; Burgos, a 929; León, a 838, y Soria, a 1.063. En la provincia de León toda la superficie es E1, sea cual sea la altitud.
+- <strong>Las demás, en la D</strong>: Valladolid, Zamora, Salamanca y Segovia en la D2, y Palencia en la D1. Es un invierno frío, pero menos largo que el de la E.
+- <strong>El número mide el verano</strong>: el 1 es el más suave y el 2, algo más caluroso. Por eso en Palencia o Burgos el aire acondicionado se usa poco.
+
+La zona también cuenta para el bono social térmico: cuanto más fría es, más cobras. Lo explicamos en <a href="https://tuluzencasa.com/bono-social-termico/">bono social térmico</a>.
+
+## Agua caliente: lo que cuesta en Castilla y León {#agua-caliente}
+
+Según el CTE, el agua de red de las capitales llega en enero a 5 o 6 °C. Para tres personas que usan 28 litros cada una al día a 60 °C, con termo eléctrico:
+
+{{T:castilla_y_leon_acs}}
+
+En Burgos son 293,47 € al año solo en calentar el agua, y en Zamora, 283,18 €. Entre enero y julio el coste mensual baja de 26,95 € a 21,56 € en Burgos, porque el agua llega 11 °C más templada en verano.
+
+{{CAJA:Dato clave}}
+El agua de red de Burgos o Soria llega en enero a 5 °C. Para calentarla hasta 60 °C hace falta subirla 55 grados, frente a los 45 de una ciudad con el agua a 15 °C, como Las Palmas de Gran Canaria.
+{{/CAJA}}
+
+## Placas solares en Castilla y León {#placas}
+
+La meseta recibe mucho sol. Con PVGIS, la herramienta de la Comisión Europea, y la casa de ejemplo de 3.000 kWh al año, 3 kWp y el 40 % de la producción usada al momento:
+
+{{T:castilla_y_leon_solar}}
+
+Cada kWp produce de 1.422 kWh al año en Segovia a 1.579 en Salamanca. La casa de ejemplo ahorraría de 427,64 € en Burgos a 454,02 € en Salamanca. Si te planteas instalarlas, mira primero cuánto consumes a mediodía: lo explicamos en <a href="https://tuluzencasa.com/placas-solares-en-casa/">placas solares en casa</a>.
+
+## Trámites en Castilla y León {#tramites}
+
+{{T:castilla_y_leon_donde}}
+
+- <strong>El boletín eléctrico</strong> lo inscribe el instalador en el Registro de Instalaciones Eléctricas de Baja Tensión. Presenta el certificado de instalación, la memoria técnica o el proyecto y, cuando hace falta, el certificado de inspección inicial. Hay que pagar la tasa de industria correspondiente, y la inscripción es inmediata; como mucho, en tres días desde que el servicio territorial recibe la documentación. Si la instalación no necesita proyecto, todo se puede hacer por internet, incluido el pago.
+- <strong>Arbitraje de consumo</strong>: si la compañía no te da la razón, puedes pedirlo a la Junta Arbitral de Consumo de Castilla y León, con el formulario de la sede electrónica y las facturas o el contrato. No puedes haber reclamado lo mismo ante un juzgado ni otra junta arbitral. El laudo se dicta en 90 días naturales desde que empieza el procedimiento, no desde la solicitud.
+
+## Trucos para pagar menos luz en Castilla y León {#trucos}
+
+- <strong>En zona E1, mira la calefacción antes que nada</strong>: es el mayor gasto del invierno. Una bomba de calor necesita mucha menos electricidad que un radiador por cada kWh de calor.
+- <strong>Ajusta la potencia por temporadas</strong>: desde 2026 puedes subirla solo en los meses fríos y bajarla el resto del año.
+- <strong>Programa el termo en valle</strong> si tienes tarifa por horas: con el agua tan fría en invierno, el termo trabaja mucho, y de 0 a 8 h el kWh es el más barato.
+- <strong>Con placas, aprovecha los días de sol de invierno</strong>: pon la lavadora y el lavavajillas a mediodía.
+- <strong>Comprueba tu zona si pides el bono social térmico</strong>: se mira la de la vivienda en la que estás empadronado.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Qué distribuidora de luz tengo en Castilla y León?
+
+Lo pone en tu factura, junto a su teléfono de averías. También lo dice tu CUPS: los cuatro números que siguen a «ES» son el código de la distribuidora; por ejemplo, 0021 es i-DE y 0031 es Edistribución.
+
+### ¿En qué zona climática está mi casa en Castilla y León?
+
+Depende de la provincia y de la altitud del municipio. Ávila, Burgos, León y Soria están en la E1; Valladolid, Zamora, Salamanca y Segovia en la D2, y Palencia en la D1. En toda la provincia de León la zona es E1.
+
+### ¿Cuánto cuesta calentar el agua en Castilla y León?
+
+Para tres personas con termo eléctrico, de 283,18 € al año en Zamora a 293,47 € en Burgos, sin contar las pérdidas del termo.
+
+### ¿Dónde se registra el boletín eléctrico en Castilla y León?
+
+En el Registro de Instalaciones Eléctricas de Baja Tensión de la Junta. Lo presenta el instalador, con la tasa pagada, y la inscripción es inmediata si la documentación está completa.
+
+Fuentes oficiales consultadas el 12 de octubre de 2026:
+
+- <a href="https://www.tramitacastillayleon.jcyl.es/web/jcyl/AdministracionElectronica/es/Plantilla100Detalle/1251181050732/Tramite/1240837594471/Tramite" target="_blank" rel="noopener">Junta de Castilla y León, inscripción en el Registro de Instalaciones Eléctricas de Baja Tensión</a> y <a href="https://www.tramitacastillayleon.jcyl.es/web/jcyl/AdministracionElectronica/es/Plantilla100Detalle/1285119895949/Tramite/1285337602898/Tramite" target="_blank" rel="noopener">solicitud de arbitraje de consumo</a>.
+- <a href="https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf" target="_blank" rel="noopener">Código Técnico de la Edificación, Documento Básico HE</a> (anejos B y G, sección HE4) y <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS, Comisión Europea</a>.
+- Códigos de las distribuidoras: lista oficial de <a href="http://cataleg.gecoplus.gencat.cat/permalink/acd1cd99-acaa-11ea-9205-005056924a59.pdf" target="_blank" rel="noopener">empresas distribuidoras con su código</a> de la Generalitat de Catalunya.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu calefacción, tu termo y el resto de aparatos, y mira cuánto pesa cada uno.

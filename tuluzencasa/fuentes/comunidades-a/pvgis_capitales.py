@@ -2,7 +2,7 @@
 el artículo de placas solares: 1 kWp, 30° de inclinación, orientación sur, 14 % de pérdidas. Sin clave."""
 import json, time, urllib.request
 from pathlib import Path
-CAP = {  # coordenadas del centro de cada capital
+CAP = {  # coordenadas del centro de cada capital (tanda B descargada con los mismos parámetros)
     "almeria": (36.834, -2.464), "cadiz": (36.527, -6.289), "cordoba": (37.888, -4.779), "granada": (37.177, -3.599),
     "huelva": (37.261, -6.945), "jaen": (37.779, -3.785), "malaga": (36.721, -4.421), "sevilla": (37.389, -5.984),
     "barcelona": (41.385, 2.173), "girona": (41.979, 2.821), "lleida": (41.617, 0.620), "tarragona": (41.119, 1.245),

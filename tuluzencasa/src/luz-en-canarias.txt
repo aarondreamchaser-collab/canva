@@ -1,0 +1,109 @@
+title: Luz en Canarias: IGIC, clima y trámites
+title_seo: Luz en Canarias: IGIC, clima y trámites
+excerpt: Luz en Canarias: sin IVA y con IGIC 0 % en casa, el kWh sale a 0,137 € en lugar de 0,165 €, un 17,4 % menos. Clima, placas y trámites.
+category: luz-por-comunidades
+keyword: luz en Canarias
+---
+¿Por qué la luz en Canarias es más barata? Porque en las islas no hay IVA: el suministro de la vivienda paga IGIC, y con 10 kW contratados o menos su tipo es del 0 %. Con el mismo precio de la energía, el kWh sale a 0,137 € con impuestos en lugar de 0,165 €, un 17,4 % menos.
+
+En esta página calculamos con <strong>0,137 €/kWh con impuestos</strong>: los 0,13 € sin impuestos de toda la web más el impuesto eléctrico, sin IVA ni IGIC. Si tu factura tiene otro precio del kWh, los costes cambian en la misma proporción.
+
+## Luz en Canarias: qué es igual y qué cambia {#igual}
+
+La factura tiene las mismas partes que en la península: potencia, energía, impuesto eléctrico y alquiler del contador. El precio regulado, el mercado libre y el bono social también son los mismos. Cambian tres cosas:
+
+- <strong>Los impuestos</strong>: IGIC en lugar de IVA, con tipo cero para la vivienda.
+- <strong>El clima</strong>: las dos capitales están en la zona α3, la de invierno más suave de todo el Código Técnico de la Edificación.
+- <strong>Los trámites</strong>: la instalación se pone en servicio con una comunicación previa ante el Gobierno de Canarias.
+
+## IGIC en la luz: cuánto pagas en Canarias {#igic}
+
+La Ley 4/2012 de Canarias aplica el tipo cero de IGIC a la luz que las comercializadoras venden a personas físicas titulares de un punto de suministro en su vivienda, con una potencia contratada de 10 kW o menos. En el resto de casos, por ejemplo un local o una vivienda con más potencia, el tipo es del 3 %.
+
+El impuesto eléctrico sí se paga, igual que en la península: la ley que lo regula lo aplica en todo el territorio español. Con la casa de ejemplo de 3.000 kWh al año, solo la energía:
+
+- <strong>En la península</strong>: 495,00 € al año, con impuesto eléctrico e IVA.
+- <strong>En Canarias, con 10 kW o menos</strong>: 409,93 € al año, con impuesto eléctrico y sin IGIC. Son 85,07 € menos.
+
+{{CAJA:Dato clave}}
+Para el IGIC cero cuentan tres condiciones a la vez: que el titular sea una persona física, que el suministro sea el de su vivienda y que la potencia contratada no pase de 10 kW. Lo comprobarás en tu factura, en la línea del IGIC.
+{{/CAJA}}
+
+Te explicamos cómo leer cada línea en <a href="https://tuluzencasa.com/como-leer-factura-luz/">cómo leer la factura de la luz</a>.
+
+## Quién te lleva la luz en Canarias {#distribuidora}
+
+La distribuidora es la empresa dueña de la red y del contador de tu zona. No la eliges y no cambia aunque cambies de comercializadora. Para saber cuál es la tuya, mira la factura: aparece su nombre y su teléfono gratuito de averías, que funciona las 24 horas.
+
+También lo dice tu CUPS: los cuatro números que van detrás de «ES» son el código de la distribuidora. Te explicamos cómo se lee en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+
+## El clima de Canarias y tu factura {#clima}
+
+El Código Técnico de la Edificación asigna la zona climática por provincia y altitud. En las dos provincias canarias:
+
+{{T:canarias_zonas}}
+
+- <strong>Hasta 350 metros, zona α3</strong>: la α es la de invierno más suave de la escala, y en el CTE solo aparece en las dos provincias canarias. Ahí viven las dos capitales y la mayor parte de la costa.
+- <strong>Al subir, el invierno se nota</strong>: A2 entre 351 y 750 metros, B2 hasta 1.000 y C2 por encima, en las medianías y cumbres.
+- <strong>El 3 de la costa mide el verano</strong>: es más caluroso que el 2 de las medianías.
+
+En la costa, la calefacción casi no aparece en la factura. En las medianías y las cumbres, sí.
+
+## Agua caliente: lo que cuesta en Canarias {#agua-caliente}
+
+Según el CTE, el agua de red de las dos capitales llega a 15 °C en enero, la más templada de España. Para tres personas que usan 28 litros cada una al día a 60 °C, con termo eléctrico y al precio canario:
+
+{{T:canarias_acs}}
+
+Son 208,95 € al año en Las Palmas de Gran Canaria y 207,73 € en Santa Cruz de Tenerife: menos que en cualquier otra capital de provincia, por el agua más templada y por los impuestos.
+
+## Placas solares en Canarias {#placas}
+
+Santa Cruz de Tenerife tiene la producción solar más alta de todas las capitales que hemos calculado. Con PVGIS, la herramienta de la Comisión Europea, y la casa de ejemplo de 3.000 kWh al año, 3 kWp y el 40 % de la producción usada al momento:
+
+{{T:canarias_solar}}
+
+Cada kWp produce 1.765 kWh al año en Santa Cruz de Tenerife y 1.598 en Las Palmas de Gran Canaria. Aun así, la casa de ejemplo ahorraría unos 405,47 € al año en Las Palmas de Gran Canaria y 407,82 € en Santa Cruz de Tenerife, porque cada kWh que dejas de comprar vale menos que en la península, al no llevar IVA. Lo que pierdes por el tope mensual de la compensación lo explicamos en <a href="https://tuluzencasa.com/compensacion-excedentes-placas/">compensación de excedentes</a>.
+
+## Trámites en Canarias {#tramites}
+
+{{T:canarias_donde}}
+
+- <strong>Poner en servicio una instalación nueva</strong> se hace con una comunicación previa por la sede electrónica del Gobierno de Canarias, según el Decreto 141/2009. Se adjunta el certificado de instalación, la memoria técnica o el proyecto y, cuando hace falta, el certificado de inspección inicial. Con el certificado de instalación diligenciado ya puedes poner en marcha la instalación, sin esperar una resolución.
+- <strong>Placas en una casa que ya tiene luz</strong>: se tramitan como modificación de la instalación, con el trámite 6782. Si la instalación de la casa es muy antigua y no tiene boletín localizable, hay un trámite de regularización.
+- <strong>Arbitraje de consumo</strong>: si la compañía no te da la razón, puedes pedirlo a la Junta Arbitral de Consumo de Canarias, con sedes en Las Palmas de Gran Canaria y en Santa Cruz de Tenerife. Antes tienes que haber reclamado a la empresa. Si la empresa no está adherida al arbitraje, tiene 15 días para aceptarlo; el laudo obliga a las dos partes.
+
+## Trucos para pagar menos luz en Canarias {#trucos}
+
+- <strong>No pases de 10 kW si no lo necesitas</strong>: con más potencia, la luz de tu vivienda deja de tener IGIC cero y paga el 3 %.
+- <strong>Comprueba el IGIC de tu factura</strong>: si eres persona física, el suministro es tu vivienda y tienes 10 kW o menos, debe ser del 0 %.
+- <strong>En la costa, piensa antes en el verano que en el invierno</strong>: la α3 tiene el invierno más suave de la escala, y la calefacción apenas se usa.
+- <strong>Con placas, usa la energía a mediodía</strong>: con tanta producción, la casa de ejemplo vierte mucho en los meses de más sol, y por encima del tope mensual no te lo compensan.
+- <strong>Programa el termo en valle</strong> si tienes tarifa por horas: de 0 a 8 h y todo el fin de semana el kWh es el más barato.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Se paga IVA en la luz en Canarias?
+
+No. En Canarias se paga IGIC, y la luz de la vivienda tiene un tipo del 0 % si el titular es una persona física y la potencia contratada es de 10 kW o menos. En el resto de casos, el 3 %. El impuesto eléctrico sí se paga.
+
+### ¿Cuánto cuesta el kWh en Canarias?
+
+Con el mismo precio de la energía que usamos en toda la web, 0,137 € con impuestos, frente a 0,165 € en la península: un 17,4 % menos.
+
+### ¿En qué zona climática está mi casa en Canarias?
+
+Hasta 350 metros, en la α3, como las dos capitales. Entre 351 y 750 metros, en la A2; hasta 1.000, en la B2, y por encima, en la C2.
+
+### ¿Cómo se pone en servicio una instalación eléctrica en Canarias?
+
+Con una comunicación previa por la sede electrónica del Gobierno de Canarias. La instalación puede ponerse en marcha con el certificado de instalación diligenciado.
+
+Fuentes oficiales consultadas el 12 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2012-9282" target="_blank" rel="noopener">Ley 4/2012 de Canarias, de medidas administrativas y fiscales</a>: artículo 52, letra r (tipo cero de IGIC) y artículo 54 (tipo del 3 %).
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1992-28741" target="_blank" rel="noopener">Ley 38/1992, de Impuestos Especiales</a>: artículo 91 (el impuesto sobre la electricidad se aplica en todo el territorio español).
+- <a href="https://sede.gobiernodecanarias.org/sede/tramites/3158" target="_blank" rel="noopener">Gobierno de Canarias, comunicación previa a la puesta en servicio de instalaciones de baja tensión</a> y <a href="https://www.gobiernodecanarias.org/consumo/arbitraje/" target="_blank" rel="noopener">Junta Arbitral de Consumo de Canarias</a>.
+- <a href="https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf" target="_blank" rel="noopener">Código Técnico de la Edificación, Documento Básico HE</a> (anejos B y G, sección HE4) y <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS, Comisión Europea</a>.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu aire acondicionado, tu termo y el resto de aparatos, y mira cuánto pesa cada uno. Recuerda cambiar el precio por el de tu factura canaria.

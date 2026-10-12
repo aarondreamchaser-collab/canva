@@ -1,0 +1,101 @@
+title: Luz en Galicia: distribuidoras, clima y trámites
+title_seo: Luz en Galicia: distribuidoras, clima y trámites
+excerpt: Luz en Galicia: costa en zona C1, Lugo en D1 y 3 kWp de placas que ahorran de 405,96 € a 418,64 € al año. Agua caliente, trámites y reclamaciones.
+category: luz-por-comunidades
+keyword: luz en Galicia
+---
+¿Cómo es la luz en Galicia? El kWh cuesta lo mismo que en el resto de la península; lo que cambia es el clima, suave en la costa y más frío en el interior. A Coruña y Pontevedra están en la zona climática C1 y Lugo en la D1, y aunque Galicia produce menos con placas solares que el sur, 3 kWp en Pontevedra ahorran unos 418,64 € al año.
+
+Calculamos con <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio del kWh, los costes cambian en la misma proporción.
+
+## Luz en Galicia: qué es igual y qué cambia {#igual}
+
+La factura tiene las mismas partes que en cualquier comunidad de la península: potencia, energía, impuesto eléctrico, IVA y alquiler del contador. El precio regulado, el mercado libre y el bono social son estatales.
+
+Lo propio de Galicia:
+
+- <strong>Dos climas en cuatro provincias</strong>: la costa atlántica, con inviernos suaves, y el interior de Lugo y Ourense, donde por encima de 800 metros la zona ya es la más fría de la escala.
+- <strong>El boletín se registra en la sede electrónica de la Xunta</strong>, con un procedimiento propio, y el justificante sirve para pedir el suministro.
+- <strong>Las placas de autoconsumo tienen su propia comunicación</strong>, electrónica y gratuita, para inscribirlas en el registro del Ministerio.
+
+## Quién te lleva la luz en Galicia {#distribuidora}
+
+La distribuidora es la empresa dueña de la red y del contador de tu zona. No la eliges: depende de dónde esté tu casa, y no cambia aunque cambies de comercializadora. Tampoco cambia lo que pagas por la red, porque los peajes los fija la CNMC para toda España.
+
+Para saber cuál es la tuya, mira la factura: aparece su nombre y su teléfono gratuito de averías, que funciona las 24 horas. También lo dice tu CUPS: los cuatro números que van detrás de «ES» son el código de la distribuidora. Por ejemplo, 0021 es i-DE (grupo Iberdrola), 0022 es UFD (grupo Naturgy) y 0031 es Edistribución (grupo Endesa); si ves otro, es una distribuidora más pequeña. Te explicamos cómo se lee en <a href="https://tuluzencasa.com/que-es-el-cups/">qué es el CUPS</a>.
+
+## El clima de Galicia y tu factura {#clima}
+
+El Código Técnico de la Edificación asigna la zona climática por provincia y altitud. En Galicia:
+
+{{T:galicia_zonas}}
+
+- <strong>En la costa, la zona C1</strong>: el número de la letra mide el verano, y el 1 es el más suave. En A Coruña o Pontevedra apenas hace falta aire acondicionado.
+- <strong>Lugo, a 454 metros, está en la D1</strong>: el invierno es más largo y la calefacción pesa más en la factura que en la costa.
+- <strong>Ourense es la excepción</strong>: la capital, a 139 metros, está en la C3, con veranos más calurosos que el resto de Galicia.
+- <strong>En la montaña, la E1</strong>: por encima de 500 metros en Lugo y de 800 en Ourense.
+
+Con la misma casa, en Lugo la calefacción se enciende más días que en la costa.
+
+## Agua caliente: lo que cuesta en Galicia {#agua-caliente}
+
+Según el CTE, el agua de red llega en enero a 10 °C en A Coruña y Pontevedra, y a 7 °C en Lugo. Para tres personas que usan 28 litros cada una al día a 60 °C, con termo eléctrico:
+
+{{T:galicia_acs}}
+
+En Lugo son 288,57 € al año solo en calentar el agua, frente a 273,87 € en Pontevedra. La diferencia sale de los 3 °C que separan su agua de red en invierno.
+
+{{CAJA:Dato clave}}
+En Galicia el agua de la costa llega casi igual de templada en invierno que en verano: en A Coruña va de 10 °C en enero a 16 °C en julio. Por eso el coste del termo cambia poco a lo largo del año, de 24,50 € a 21,56 € al mes.
+{{/CAJA}}
+
+## Placas solares en Galicia {#placas}
+
+Galicia recibe menos sol que el centro y el sur, pero las placas también salen a cuenta. Con PVGIS, la herramienta de la Comisión Europea, y la casa de ejemplo de 3.000 kWh al año, 3 kWp y el 40 % de la producción usada al momento:
+
+{{T:galicia_solar}}
+
+Cada kWp produce de 1.298 kWh al año en A Coruña a 1.367 en Pontevedra. La casa de ejemplo ahorraría de 405,96 € a 418,64 € al año. La producción es menor que en el sur, pero el ahorro baja menos, porque depende sobre todo de lo que consumes al momento y del tope de la compensación. Te explicamos ese tope mes a mes en <a href="https://tuluzencasa.com/compensacion-excedentes-placas/">compensación de excedentes</a>.
+
+## Trámites en Galicia {#tramites}
+
+{{T:galicia_donde}}
+
+- <strong>El boletín eléctrico</strong> de una instalación nueva se registra en la Xunta antes de ponerla en servicio, con el procedimiento IN614C. Lo presenta la empresa instaladora: el certificado firmado por el instalador, la memoria técnica o el proyecto y, cuando lo exige la norma, el certificado de inspección inicial. El justificante de presentación es el que se usa para pedir el suministro.
+- <strong>Las placas de autoconsumo</strong> de menos de 100 kW en baja tensión se comunican con el procedimiento IN407B, solo por internet. La Xunta envía los datos a la distribuidora, que tiene 5 días hábiles para mostrar su conformidad, y después los traslada al registro de autoconsumo del Ministerio.
+- <strong>Arbitraje de consumo</strong>: si la compañía no te da la razón, puedes pedirlo a la Xunta Arbitral de Consumo de Galicia. Antes tienes que haber reclamado a la empresa, y la solicitud se presenta en el plazo de un año desde esa reclamación. Cada parte solo paga las pruebas que pide, y el laudo se dicta en 90 días naturales.
+
+## Trucos para pagar menos luz en Galicia {#trucos}
+
+- <strong>En la costa, no contrates potencia pensando en el aire acondicionado</strong>: en zona C1 el verano es suave, y la potencia se paga todos los días del año.
+- <strong>En el interior, mira tu zona antes de elegir calefacción</strong>: en Lugo o en la montaña de Ourense el invierno dura más, y una bomba de calor gasta mucho menos que un radiador por cada kWh de calor.
+- <strong>Si tienes placas, pon la lavadora y el lavavajillas a mediodía</strong>: con menos horas de sol que en el sur, cada kWh que usas al momento cuenta más que uno compensado.
+- <strong>Si usas deshumidificador, cuenta lo que gasta</strong>: te damos el coste por horas en <a href="https://tuluzencasa.com/cuanto-consume-deshumidificador/">cuánto consume un deshumidificador</a>.
+- <strong>Programa el termo en valle</strong> si tienes tarifa por horas: de 0 a 8 h y todo el fin de semana el kWh es el más barato.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Qué distribuidora de luz tengo en Galicia?
+
+Lo pone en tu factura, junto a su teléfono de averías. También lo dice tu CUPS: los cuatro números que siguen a «ES» son el código de la distribuidora; por ejemplo, 0022 es UFD y 0021 es i-DE.
+
+### ¿En qué zona climática está mi casa en Galicia?
+
+Depende de la provincia y de la altitud del municipio. A Coruña y Pontevedra están en la C1, Lugo en la D1 y Ourense en la C3. En la montaña, por encima de 500 metros en Lugo o de 800 en Ourense, la zona es E1.
+
+### ¿Compensan las placas solares en Galicia?
+
+En la casa de ejemplo, sí: 3 kWp ahorran de 405,96 € a 418,64 € al año según la capital. Producen menos que en el sur, pero el ahorro depende sobre todo de cuánto consumes mientras hay sol.
+
+### ¿Dónde se registra el boletín eléctrico en Galicia?
+
+En la sede electrónica de la Xunta, con el procedimiento IN614C. Lo presenta la empresa instaladora antes de poner en servicio la instalación.
+
+Fuentes oficiales consultadas el 12 de octubre de 2026:
+
+- <a href="https://sede.xunta.gal/detalle-procedemento?codtram=IN614C" target="_blank" rel="noopener">Xunta de Galicia, procedimiento IN614C</a> (registro de instalaciones eléctricas de baja tensión) y <a href="https://sede.xunta.gal/detalle-procedemento?codtram=IN407B" target="_blank" rel="noopener">procedimiento IN407B</a> (registro de autoconsumo de menos de 100 kW).
+- <a href="https://consumo.xunta.gal/sites/default/files/media/document/2025/07/final-o-procedento-arbitral-de-consumo-en-quince-puntos-26.pdf" target="_blank" rel="noopener">Xunta de Galicia, «O procedemento arbitral de consumo en quince puntos»</a>.
+- <a href="https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf" target="_blank" rel="noopener">Código Técnico de la Edificación, Documento Básico HE</a> (anejos B y G, sección HE4) y <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS, Comisión Europea</a>.
+- Códigos de las distribuidoras: lista oficial de <a href="http://cataleg.gecoplus.gencat.cat/permalink/acd1cd99-acaa-11ea-9205-005056924a59.pdf" target="_blank" rel="noopener">empresas distribuidoras con su código</a> de la Generalitat de Catalunya.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu calefacción, tu termo y el resto de aparatos, y mira cuánto pesa cada uno.

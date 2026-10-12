@@ -1,0 +1,127 @@
+Fuente: https://sede.gobiernodecanarias.org/sede/tramites/3158
+Consultada: 2026-10-12
+
+ 
+Comunicación previa a la puesta en servicio de instalaciones eléctricas de baja tensión - Sede electrónica del Gobierno de Canarias
+ Gobierno de Canarias 
+ Accesibilidad 
+ Mapa web 
+ Contacto 
+ Ayuda 
+ Área personal 
+ Procedimientos y servicios 
+ La sede 
+ BOC 
+ Inicio 
+ /
+ Procedimientos y servicios
+ / Ficha de información 
+ Sede electrónica del Gobierno de Canarias 
+ Fecha y hora oficial 
+ Calendario oficial 
+ Imprimir 
+ Escuchar 
+ Comunicación previa a la puesta en servicio de instalaciones eléctricas de baja tensión 
+ Escuchar 
+ Tramitación 
+ Documentación 
+ Más información 
+ Documentación 
+ Por internet 
+ Certificado de instalación
+ de energías renovables (ERR)
+ Documento técnico de memoria o proyecto
+ Memoria técnica de diseño energías renovables (M.T.D.E.R)
+ Manual de instrucciones o anexo de información al usuario.
+ En aquellos casos en que sea preceptivo. 
+ Certificado de inspección inicial por un Organismo de Control, Modelo BT 01.
+ Certificado de dirección de obra
+ Contrato de mantenimiento de las instalaciones
+ Declaración de Impacto Medio Ambiental.
+ Certificado de eficiencia energética.
+ Aportación de ficheros a la tramitación telemática.
+ Otra documentación de interés: 
+ La documentación a aportar deberá ser presentada en alguno de los formatos de documentos aceptados . 
+ Presencial 
+ Certificado de instalación 
+ de energías renovables (ERR) 
+ Documento técnico de memoria o proyecto 
+ Memoria técnica de diseño energías renovables (M.T.D.E.R) 
+ Manual de instrucciones o anexo de información al usuario.
+ En aquellos casos en que sea preceptivo.
+ Certificado de inspección inicial por un Organismo de Control, Modelo BT 01. 
+ Certificado de dirección de obra 
+ Contrato de mantenimiento de las instalaciones
+ Declaración de Impacto Medio Ambiental.
+ Certificado de eficiencia energética.
+ Aportación de ficheros a la tramitación telemática. 
+ Otra documentación de interés: 
+ Manual informativo sobre las preguntas y respuestas más frecuentes 
+ Manual de Instrucción para la presentación telemática del procedimiento 
+ Hoja de instrucciones para cumplimentar el certificado de instalación eléctrica en baja tensión (CI BT) 
+ Hoja de instrucciones para cumplimentar el documento técnico de diseño (MTD BT) 
+ (Para descargar los formularios, haga clic con el botón derecho del ratón y seleccione "Guardar destino como..." o "Guardar enlace como..." en el menú emergente) 
+ Es necesario la descarga de Adobe Reader. 
+ Tramitación 
+ Objeto 
+ Comunicación previa de puesta en servicio de las instalaciones eléctricas de baja tensión, e inscripción en el registro de instalaciones eléctricas de baja tensión, en aplicación del artículo 15.2 del D. 141/2009. Este procedimiento está previsto instalaciones nuevas; para modificación o reforma de instalaciones existentes, utilizar el procedimiento "6782 - Comunicación previa a la puesta en servicio de modificación, reforma o reactivación de instalaciones eléctricas de baja tensión" 
+ A quién está dirigido: Ciudadanos, Asociaciones, Empresas y Administración 
+ Inicio del trámite: 
+ Interesado 
+ Grado de administración electrónica:
+ Nivel 4: Tramitación electrónica completa
+ Se publica en la Ventanilla Única Europea:
+ No
+ Requisitos previos: 
+ Debe confirmar previamente en el anexo VII del D. 141/2009 la documentación necesaria a presentar, que varía según tipo de instalación, ya que estamos ante un trámite de comunicación de puesta en servicio. Por lo tanto, toda las información que se incluya o marque, así como la documentación que se adjunte, es responsabilidad del comunicante. La programación únicamente le guía para ayudarle a determinar la documentación necesaria para la puesta en servicio. En aplicación del artículo 16.2 del D. 141/2009, la entrega de la documentación diligenciada no supondrá en ningún caso la conformidad de la Administración con el contenido técnico de la citada documentación. 
+ Tasas: 
+ (118) Tasas en materia de industria y energía
+ (12) Solicitudes diligencia certificaciones de instalaciones (incluida la tramitación de proyectos sin autorización administrativa) 
+ Medios de presentación 
+ Electrónico:
+ Plazo de presentación:
+ Todo el año
+ Más nformación 
+ Quién tramita 
+ Órgano que tramita: 
+ Servicio Instalaciones Energéticas
+ Quién resuelve 
+ Recursos: 
+ No cabe recurso 
+ Observaciones 
+ "El ejercicio del derecho o el inicio de la actividad podrá realizarse con el diligenciado del Certificado de Instalación que se adjunta a la comunicación, y sin que sea necesaria la emisión de una Resolución administrativa. No obstante, la Administración Pública podrá realizar, posteriormente, los controles e inspecciones que estime necesarias para comprobar el cumplimiento de los requisitos exigidos. El registro de una instalación con autoconsumo siempre va asociado a una instalación receptora y debe efectuarse por sede electrónica mediante este procedimiento telemático, seleccionado una de las siguientes opciones en función de la situación de la instalación receptora: - En el caso en que la instalación eléctrica receptora de baja tensión sea nueva y se desee instalar una nueva instalación de autoconsumo (ejemplo se desea instalar una fotovoltaica en un edificio de nueva construcción, que no ha sido legalizado anteriormente), el procedimiento en sede electrónica a utilizar será el 3158 "Solicitud de inscripción en el registro de instalaciones eléctricas de baja tensión". - En el caso en el que la instalación eléctrica receptora de baja tensión ya exista (es decir tiene ya su número de expediente de BT original), y se le vaya a conectar una nueva instalación con autoconsumo asociado (ejemplo una vivienda legalizada en 2015 y se le añade un autoconsumo en el año 2022), el procedimiento en sede electrónica a utilizar será el 6782 "Comunicación de modificación, reactivación o reforma de instalación eléctrica". Se podrá aportar el número de expediente de BT o el CI de la instalación receptora, o en caso de no poseer dicha información será necesario aportar correctamente cumplimentado, el modelo de declaración responsable incluido en el apartado de documentación. Si la instalación eléctrica receptora de baja tensión ya existe pero es muy antigua o no se pueden localizar sus antecedentes administrativos (CI o Boletín Eléctrico), se encuentra disponible el procedimiento de la sede electrónica 6703 "Comunicación previa de regularización administrativa de instalación eléctrica de baja tensión (sin antecedentes administrativos)", siguiendo el protocolo recogido en la Nota Informativa 1/2020 DGE y su Guía de aplicación. (nota: en este supuesto y para instalaciones pequeñas es el propio instalador el que puede regularizar tal instalación)."
+ Normativa 
+ Normativa autonómica 
+ Decreto 141/2009 , de 10 de noviembre, por el que se aprueba el Reglamento por el que se regulan los procedimientos administrativos relativos a la ejecución y puesta en servicio de instalaciones eléctricas en Canarias.
+ ORDEN de 5 de febrero de 2014 , por la que se regula la tramitación electrónica de los procedimientos administrativos de inicio y puesta en servicio de actividades e instalaciones industriales.
+ DECRETO 133/2011 , de 17 de mayo, sobre el dimensionamiento de las acometidas eléctricas y las extensiones de redes de distribución en función de la previsión de carga simultánea.
+ Normativa estatal 
+ Real Decreto 842/2002 , de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión.
+ Resolución de 29 de enero de 2021 , de la Dirección General de Industria y de la Pequeña y Mediana Empresa, por la que se aprueban especificaciones particulares y proyectos tipo de Edistribución Redes Digitales, SLU.
+ Resolución de 5 de diciembre de 2018 , de la Dirección General de Industria y de la Pequeña y Mediana Empresa, por la que se aprueban especificaciones particulares y proyectos tipo de Endesa Distribución Eléctrica, SLU.
+ NRZ101. Instalaciones privadas conectadas a la red de distribución 
+ NRZ002. Especificaciones Particulares para Instalaciones de Distribución en Baja Tensión de Un ≤ 1.000 V. 
+ NRZ103. Instalaciones de enlace conectadas a la red de distribución consumidores en baja tensión 
+ NRZ105. Instalaciones de enlace conectadas a la red de distribución. Generadores en baja tensión. 
+ Códigos identificativos 
+ Sistema de Información de la Comunidad Autónoma de Canarias (SICAC): 3158 
+ Sistema de Información Administrativa del Estado (SIA): 220494 
+ Volver al listado 
+ En plazo 
+ Trámite electrónico 
+ ¿Necesita ayuda? 
+ Enlaces de interés 
+ Página web de la Consejería 
+ Te puede interesar 
+ Rectificación de comunicación previa de la puesta en servicio de instalaciones eléctricas de baja tensión 
+ Anulación de expediente de comunicación previa de puesta en servicio de instalaciones eléctricas de baja tensión 
+ INFORMACIÓN IMPORTANTE SOBRE COOKIES 
+ La Sede Electrónica utiliza cookies propias y de terceros para recopilar información que ayuda a optimizar su visita. Las cookies no se utilizan para recoger información de carácter personal. Usted puede permitir su uso o rechazarlo, también puede cambiar su configuración siempre que lo desee. Dispone de más información en nuestra Política de Cookies . 
+ Cerrar aviso 
+ Actualizado 11/10/2026 
+ © Gobierno de Canarias
+ | Aviso legal 
+ | Política de privacidad 
+ | Política de cookies 
+ | Sugerencias y Reclamaciones 
+ Contacto 

@@ -1,0 +1,623 @@
+{
+ "galicia_zonas": {
+  "headers": [
+   "Provincia",
+   "Capital y altitud (CTE)",
+   "Zona de la capital",
+   "Zonas según la altitud del municipio"
+  ],
+  "rows": [
+   [
+    "A Coruña",
+    "A Coruña, 26 m",
+    "C1",
+    "C1 hasta 200 m · D1 por encima de 200 m"
+   ],
+   [
+    "Lugo",
+    "Lugo, 454 m",
+    "D1",
+    "D1 hasta 500 m · E1 por encima de 500 m"
+   ],
+   [
+    "Ourense",
+    "Ourense, 139 m",
+    "C3",
+    "C3 hasta 150 m · C2 de 151 a 300 m · D2 de 301 a 800 m · E1 por encima de 800 m"
+   ],
+   [
+    "Pontevedra",
+    "Pontevedra, 27 m",
+    "C1",
+    "C1 hasta 350 m · D1 por encima de 350 m"
+   ]
+  ]
+ },
+ "galicia_acs": {
+  "headers": [
+   "Capital",
+   "Agua fría en enero",
+   "Agua fría en julio",
+   "Coste en enero",
+   "Coste en julio",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "A Coruña",
+    "10 °C",
+    "16 °C",
+    "24,50 €",
+    "21,56 €",
+    "277,30 €"
+   ],
+   [
+    "Lugo",
+    "7 °C",
+    "15 °C",
+    "25,97 €",
+    "22,05 €",
+    "288,57 €"
+   ],
+   [
+    "Ourense",
+    "8 °C",
+    "18 °C",
+    "25,48 €",
+    "20,58 €",
+    "275,83 €"
+   ],
+   [
+    "Pontevedra",
+    "10 °C",
+    "17 °C",
+    "24,50 €",
+    "21,07 €",
+    "273,87 €"
+   ]
+  ]
+ },
+ "galicia_solar": {
+  "headers": [
+   "Capital",
+   "kWh al año por kWp",
+   "Producción de 3 kWp",
+   "Esa producción a 0,165 €/kWh",
+   "Ahorro al año (3 kWp, 40 %)"
+  ],
+  "rows": [
+   [
+    "A Coruña",
+    "1.298",
+    "3.894",
+    "642,51 €",
+    "410,09 €"
+   ],
+   [
+    "Lugo",
+    "1.299",
+    "3.898",
+    "643,12 €",
+    "405,96 €"
+   ],
+   [
+    "Ourense",
+    "1.347",
+    "4.041",
+    "666,72 €",
+    "413,77 €"
+   ],
+   [
+    "Pontevedra",
+    "1.367",
+    "4.100",
+    "676,56 €",
+    "418,64 €"
+   ]
+  ]
+ },
+ "castilla_y_leon_zonas": {
+  "headers": [
+   "Provincia",
+   "Capital y altitud (CTE)",
+   "Zona de la capital",
+   "Zonas según la altitud del municipio"
+  ],
+  "rows": [
+   [
+    "Ávila",
+    "Ávila, 1.131 m",
+    "E1",
+    "D2 hasta 550 m · D1 de 551 a 850 m · E1 por encima de 850 m"
+   ],
+   [
+    "Burgos",
+    "Burgos, 929 m",
+    "E1",
+    "D1 hasta 600 m · E1 por encima de 600 m"
+   ],
+   [
+    "León",
+    "León, 838 m",
+    "E1",
+    "E1 en toda la provincia"
+   ],
+   [
+    "Palencia",
+    "Palencia, 734 m",
+    "D1",
+    "D1 hasta 800 m · E1 por encima de 800 m"
+   ],
+   [
+    "Salamanca",
+    "Salamanca, 800 m",
+    "D2",
+    "D2 hasta 850 m · E1 por encima de 850 m"
+   ],
+   [
+    "Segovia",
+    "Segovia, 1.002 m",
+    "D2",
+    "D2 hasta 1.050 m · E1 por encima de 1.050 m"
+   ],
+   [
+    "Soria",
+    "Soria, 1.063 m",
+    "E1",
+    "D2 hasta 750 m · D1 de 751 a 800 m · E1 por encima de 800 m"
+   ],
+   [
+    "Valladolid",
+    "Valladolid, 698 m",
+    "D2",
+    "D2 hasta 800 m · E1 por encima de 800 m"
+   ],
+   [
+    "Zamora",
+    "Zamora, 649 m",
+    "D2",
+    "D2 hasta 800 m · E1 por encima de 800 m"
+   ]
+  ]
+ },
+ "castilla_y_leon_acs": {
+  "headers": [
+   "Capital",
+   "Agua fría en enero",
+   "Agua fría en julio",
+   "Coste en enero",
+   "Coste en julio",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Ávila",
+    "6 °C",
+    "17 °C",
+    "26,46 €",
+    "21,07 €",
+    "291,51 €"
+   ],
+   [
+    "Burgos",
+    "5 °C",
+    "16 °C",
+    "26,95 €",
+    "21,56 €",
+    "293,47 €"
+   ],
+   [
+    "León",
+    "6 °C",
+    "16 °C",
+    "26,46 €",
+    "21,56 €",
+    "290,53 €"
+   ],
+   [
+    "Palencia",
+    "6 °C",
+    "17 °C",
+    "26,46 €",
+    "21,07 €",
+    "287,10 €"
+   ],
+   [
+    "Salamanca",
+    "6 °C",
+    "17 °C",
+    "26,46 €",
+    "21,07 €",
+    "287,59 €"
+   ],
+   [
+    "Segovia",
+    "6 °C",
+    "18 °C",
+    "26,46 €",
+    "20,58 €",
+    "286,61 €"
+   ],
+   [
+    "Soria",
+    "5 °C",
+    "17 °C",
+    "26,95 €",
+    "21,07 €",
+    "292,00 €"
+   ],
+   [
+    "Valladolid",
+    "6 °C",
+    "18 °C",
+    "26,46 €",
+    "20,58 €",
+    "284,16 €"
+   ],
+   [
+    "Zamora",
+    "6 °C",
+    "18 °C",
+    "26,46 €",
+    "20,58 €",
+    "283,18 €"
+   ]
+  ]
+ },
+ "castilla_y_leon_solar": {
+  "headers": [
+   "Capital",
+   "kWh al año por kWp",
+   "Producción de 3 kWp",
+   "Esa producción a 0,165 €/kWh",
+   "Ahorro al año (3 kWp, 40 %)"
+  ],
+  "rows": [
+   [
+    "Ávila",
+    "1.542",
+    "4.627",
+    "763,43 €",
+    "451,59 €"
+   ],
+   [
+    "Burgos",
+    "1.457",
+    "4.371",
+    "721,17 €",
+    "427,64 €"
+   ],
+   [
+    "León",
+    "1.549",
+    "4.647",
+    "766,83 €",
+    "445,68 €"
+   ],
+   [
+    "Palencia",
+    "1.539",
+    "4.616",
+    "761,58 €",
+    "444,30 €"
+   ],
+   [
+    "Salamanca",
+    "1.579",
+    "4.736",
+    "781,39 €",
+    "454,02 €"
+   ],
+   [
+    "Segovia",
+    "1.422",
+    "4.265",
+    "703,65 €",
+    "429,22 €"
+   ],
+   [
+    "Soria",
+    "1.526",
+    "4.578",
+    "755,41 €",
+    "451,22 €"
+   ],
+   [
+    "Valladolid",
+    "1.548",
+    "4.645",
+    "766,47 €",
+    "446,12 €"
+   ],
+   [
+    "Zamora",
+    "1.568",
+    "4.703",
+    "776,05 €",
+    "446,83 €"
+   ]
+  ]
+ },
+ "pais_vasco_zonas": {
+  "headers": [
+   "Provincia",
+   "Capital y altitud (CTE)",
+   "Zona de la capital",
+   "Zonas según la altitud del municipio"
+  ],
+  "rows": [
+   [
+    "Álava",
+    "Vitoria-Gasteiz, 540 m",
+    "D1",
+    "D1 hasta 600 m · E1 por encima de 600 m"
+   ],
+   [
+    "Bizkaia",
+    "Bilbao, 6 m",
+    "C1",
+    "C1 hasta 250 m · D1 por encima de 250 m"
+   ],
+   [
+    "Gipuzkoa",
+    "San Sebastián, 12 m",
+    "D1",
+    "D1 hasta 400 m · E1 por encima de 400 m"
+   ]
+  ]
+ },
+ "pais_vasco_acs": {
+  "headers": [
+   "Capital",
+   "Agua fría en enero",
+   "Agua fría en julio",
+   "Coste en enero",
+   "Coste en julio",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Vitoria-Gasteiz",
+    "7 °C",
+    "16 °C",
+    "25,97 €",
+    "21,56 €",
+    "288,57 €"
+   ],
+   [
+    "Bilbao",
+    "9 °C",
+    "17 °C",
+    "24,99 €",
+    "21,07 €",
+    "277,79 €"
+   ],
+   [
+    "San Sebastián",
+    "9 °C",
+    "16 °C",
+    "24,99 €",
+    "21,56 €",
+    "281,22 €"
+   ]
+  ]
+ },
+ "pais_vasco_solar": {
+  "headers": [
+   "Capital",
+   "kWh al año por kWp",
+   "Producción de 3 kWp",
+   "Esa producción a 0,165 €/kWh",
+   "Ahorro al año (3 kWp, 40 %)"
+  ],
+  "rows": [
+   [
+    "Vitoria-Gasteiz",
+    "1.259",
+    "3.778",
+    "623,39 €",
+    "401,90 €"
+   ],
+   [
+    "Bilbao",
+    "1.149",
+    "3.448",
+    "568,88 €",
+    "384,97 €"
+   ],
+   [
+    "San Sebastián",
+    "1.157",
+    "3.472",
+    "572,91 €",
+    "388,16 €"
+   ]
+  ]
+ },
+ "canarias_zonas": {
+  "headers": [
+   "Provincia",
+   "Capital y altitud (CTE)",
+   "Zona de la capital",
+   "Zonas según la altitud del municipio"
+  ],
+  "rows": [
+   [
+    "Las Palmas",
+    "Las Palmas de G. C., 13 m",
+    "α3",
+    "α3 hasta 350 m · A2 de 351 a 750 m · B2 de 751 a 1.000 m · C2 por encima de 1.000 m"
+   ],
+   [
+    "Santa Cruz de Tenerife",
+    "Santa Cruz de Tenerife, 5 m",
+    "α3",
+    "α3 hasta 350 m · A2 de 351 a 750 m · B2 de 751 a 1.000 m · C2 por encima de 1.000 m"
+   ]
+  ]
+ },
+ "canarias_acs": {
+  "headers": [
+   "Capital",
+   "Agua fría en enero",
+   "Agua fría en julio",
+   "Coste en enero",
+   "Coste en julio",
+   "Coste al año"
+  ],
+  "rows": [
+   [
+    "Las Palmas de G. C.",
+    "15 °C",
+    "19 °C",
+    "18,26 €",
+    "16,63 €",
+    "208,95 €"
+   ],
+   [
+    "Santa Cruz de Tenerife",
+    "15 °C",
+    "20 °C",
+    "18,26 €",
+    "16,23 €",
+    "207,73 €"
+   ]
+  ]
+ },
+ "canarias_solar": {
+  "headers": [
+   "Capital",
+   "kWh al año por kWp",
+   "Producción de 3 kWp",
+   "Esa producción a 0,137 €/kWh",
+   "Ahorro al año (3 kWp, 40 %)"
+  ],
+  "rows": [
+   [
+    "Las Palmas de G. C.",
+    "1.598",
+    "4.794",
+    "655,13 €",
+    "405,47 €"
+   ],
+   [
+    "Santa Cruz de Tenerife",
+    "1.765",
+    "5.294",
+    "723,43 €",
+    "407,82 €"
+   ]
+  ]
+ },
+ "galicia_donde": {
+  "headers": [
+   "Para…",
+   "Dónde",
+   "Cómo"
+  ],
+  "rows": [
+   [
+    "Avisar de una avería o un corte",
+    "Tu distribuidora",
+    "Teléfono gratuito de 24 horas que figura en tu factura"
+   ],
+   [
+    "Registrar el boletín de una instalación nueva",
+    "Xunta de Galicia, procedimiento IN614C",
+    "Lo presenta la empresa instaladora; el justificante sirve para pedir el suministro"
+   ],
+   [
+    "Registrar placas de autoconsumo de menos de 100 kW",
+    "Xunta de Galicia, procedimiento IN407B",
+    "Comunicación electrónica y gratuita"
+   ],
+   [
+    "Reclamar si la compañía no te da la razón",
+    "Xunta Arbitral de Consumo de Galicia",
+    "Antes, reclama a la empresa; tienes un año desde esa reclamación"
+   ]
+  ]
+ },
+ "castilla_y_leon_donde": {
+  "headers": [
+   "Para…",
+   "Dónde",
+   "Cómo"
+  ],
+  "rows": [
+   [
+    "Avisar de una avería o un corte",
+    "Tu distribuidora",
+    "Teléfono gratuito de 24 horas que figura en tu factura"
+   ],
+   [
+    "Registrar el boletín de una instalación",
+    "Junta de Castilla y León, Registro de Instalaciones Eléctricas de Baja Tensión",
+    "Lo presenta el instalador; por internet si no necesita proyecto"
+   ],
+   [
+    "Reclamar si la compañía no te da la razón",
+    "Junta Arbitral de Consumo de Castilla y León",
+    "Solicitud en la sede electrónica; laudo en 90 días naturales desde el inicio"
+   ]
+  ]
+ },
+ "pais_vasco_donde": {
+  "headers": [
+   "Para…",
+   "Dónde",
+   "Cómo"
+  ],
+  "rows": [
+   [
+    "Avisar de una avería o un corte",
+    "Tu distribuidora",
+    "Teléfono gratuito de 24 horas que figura en tu factura"
+   ],
+   [
+    "Poner en servicio una instalación nueva",
+    "Gobierno Vasco, delegación territorial de Administración Industrial",
+    "Declaración responsable; el titular guarda el boletín y la memoria"
+   ],
+   [
+    "Comunicar la baja o el cambio de titular de la instalación",
+    "Gobierno Vasco, «otras comunicaciones» de baja tensión",
+    "Con el documento que justifica el cambio"
+   ],
+   [
+    "Reclamar si la compañía no te da la razón",
+    "Junta Arbitral de Consumo de Euskadi (Kontsumobide)",
+    "Avenida Santiago, 11, Vitoria-Gasteiz; laudo en 90 días como máximo"
+   ]
+  ]
+ },
+ "canarias_donde": {
+  "headers": [
+   "Para…",
+   "Dónde",
+   "Cómo"
+  ],
+  "rows": [
+   [
+    "Avisar de una avería o un corte",
+    "Tu distribuidora",
+    "Teléfono gratuito de 24 horas que figura en tu factura"
+   ],
+   [
+    "Poner en servicio una instalación nueva",
+    "Gobierno de Canarias, comunicación previa (trámite 3158)",
+    "Por internet; basta el certificado de instalación diligenciado"
+   ],
+   [
+    "Añadir placas a una vivienda que ya tiene luz",
+    "Gobierno de Canarias, trámite 6782",
+    "Comunicación de modificación de la instalación"
+   ],
+   [
+    "Reclamar si la compañía no te da la razón",
+    "Junta Arbitral de Consumo de Canarias",
+    "Sedes en Las Palmas de Gran Canaria y Santa Cruz de Tenerife"
+   ]
+  ]
+ }
+}
