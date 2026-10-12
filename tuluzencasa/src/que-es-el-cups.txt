@@ -79,7 +79,7 @@ El CUPS no es una contraseña: lo conocen tu comercializadora y tu distribuidora
 
 ### ¿El CUPS cambia si cambio de compañía?
 
-No. El CUPS va unido al punto de suministro, no a la empresa que te vende la luz ni al titular del contrato.
+No. El CUPS va unido al punto de suministro, no a la empresa que te vende la luz ni al titular del contrato. Por eso es el dato que te pedirán para el <a href="https://tuluzencasa.com/cambio-titular-luz/">cambio de titular de la luz</a>.
 
 ### ¿Cuántos caracteres tiene el CUPS?
 

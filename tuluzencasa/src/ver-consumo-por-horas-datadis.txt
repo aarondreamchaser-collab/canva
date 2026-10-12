@@ -56,7 +56,7 @@ Si de madrugada ves unos 150 W y no tienes nada que lo justifique, busca aparato
 
 ### 3. Si tu potencia es la adecuada
 
-La curva muestra el consumo de cada hora en kWh, que es la media de esa hora. Si en ninguna hora de un año pasas de la mitad de tu potencia contratada, tienes margen para estudiar si te conviene bajarla. Ojo: un pico de pocos minutos no se ve en la media de la hora, y es el que hace saltar el limitador. Por eso, antes de bajar la potencia, comprueba también qué aparatos usas a la vez.
+La curva muestra el consumo de cada hora en kWh, que es la media de esa hora. Si en ninguna hora de un año pasas de la mitad de tu potencia contratada, tienes margen para estudiar si te conviene bajarla. Ojo: un pico de pocos minutos no se ve en la media de la hora, y es el que hace saltar el limitador. Por eso, antes de bajar la potencia, comprueba también qué aparatos usas a la vez. Lo que cuesta el cambio y lo que ahorras lo explicamos en <a href="https://tuluzencasa.com/cambiar-potencia-contratada/">cambiar la potencia contratada</a>.
 
 ## Úsalo para comprobar tu factura {#comprobar}
 

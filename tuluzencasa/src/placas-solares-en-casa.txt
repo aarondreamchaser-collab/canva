@@ -52,7 +52,7 @@ Con la compensación simplificada, cada mes se hace un saldo en euros:
 - Los excedentes que salen a la red se valoran a otro precio, más bajo, que acuerdas con tu comercializadora. Con el PVPC, ese precio sale del mercado eléctrico de cada hora.
 - El valor de los excedentes se descuenta del de la energía comprada, pero <strong>nunca puede superarlo</strong> en un periodo de facturación, que no puede ser mayor de un mes.
 
-Es decir, la compensación puede dejar a cero la parte de la energía, pero no genera saldo a tu favor ni descuenta la potencia, el contador o los impuestos que no dependen de la energía. Por eso en verano, cuando sobra mucho, parte de los excedentes no te reporta nada.
+Es decir, la compensación puede dejar a cero la parte de la energía, pero no genera saldo a tu favor ni descuenta la potencia, el contador o los impuestos que no dependen de la energía. Por eso en verano, cuando sobra mucho, parte de los excedentes no te reporta nada. Lo calculamos mes a mes, con la batería virtual, en <a href="https://tuluzencasa.com/compensacion-excedentes-placas/">compensación de excedentes</a>.
 
 Así cambia el ahorro con distintos precios de compensación, usando al momento el 40 % de lo que produces:
 
