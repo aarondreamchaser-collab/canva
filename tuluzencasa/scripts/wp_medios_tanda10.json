@@ -1,0 +1,42 @@
+{
+ "luz-en-galicia": {
+  "id": 382,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/luz-en-galicia.jpg",
+  "alt": "Fachada del Obradoiro de la catedral de Santiago de Compostela bajo un cielo azul."
+ },
+ "luz-en-castilla-y-leon": {
+  "id": 384,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/luz-en-castilla-y-leon.jpg",
+  "alt": "Arcos del acueducto de Segovia con las casas de la ciudad al fondo."
+ },
+ "luz-en-pais-vasco": {
+  "id": 386,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/luz-en-pais-vasco.jpg",
+  "alt": "Amanecer sobre la playa de La Concha en San Sebastián."
+ },
+ "luz-en-canarias": {
+  "id": 388,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/luz-en-canarias.jpg",
+  "alt": "El volcán Teide, en Tenerife, visto desde un sendero entre coladas de lava y vegetación."
+ },
+ "punto-recarga-garaje-normativa": {
+  "id": 390,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/punto-recarga-garaje-normativa.jpg",
+  "alt": "Coche eléctrico cargando en la plaza de una vivienda, conectado a un cargador de pared."
+ },
+ "deducciones-irpf-eficiencia-energetica": {
+  "id": 392,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/deducciones-irpf-eficiencia-energetica.jpg",
+  "alt": "Gráfico de barras con la deducción del IRPF de cada obra: 20 %, 40 %, 60 %, 10 % y 15 %."
+ },
+ "placas-solares-produccion-comunidad": {
+  "id": 394,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/placas-solares-produccion-comunidad.jpg",
+  "alt": "Gráfico de barras con los kWh al año por kWp de placas solares en diez capitales, de Santa Cruz de Tenerife a Oviedo."
+ },
+ "termo-aerotermico-consumo": {
+  "id": 396,
+  "url": "https://tuluzencasa.com/wp-content/uploads/2026/10/termo-aerotermico-consumo.jpg",
+  "alt": "Esquema de un termo aerotérmico: toma calor del aire y con 1 kWh de luz da 3,13 kWh de agua caliente."
+ }
+}
