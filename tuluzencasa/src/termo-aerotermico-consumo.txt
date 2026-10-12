@@ -1,0 +1,88 @@
+title: Termo aerotérmico: cuánto consume y cuánto ahorras frente al eléctrico
+title_seo: Termo aerotérmico: cuánto consume y cuánto ahorras
+excerpt: Termo aerotérmico: con una eficiencia del 125 %, el agua caliente de 3 personas en Madrid cuesta 88,42 € al año, frente a 307,02 € con termo eléctrico.
+category: consumo
+keyword: termo aerotérmico
+---
+Un termo aerotérmico consume entre el 24 % y el 36 % de lo que gasta un termo eléctrico para darte la misma agua caliente. Para tres personas en Madrid, uno con una eficiencia de caldeo del 125 % gasta unos 536 kWh al año, 88,42 €, frente a 307,02 € de un termo eléctrico en el mínimo legal: 218,60 € menos.
+
+Calculamos con <strong>0,165 €/kWh con impuestos</strong>. Si tu factura tiene otro precio del kWh, los costes cambian en la misma proporción.
+
+## Qué es un termo aerotérmico {#que-es}
+
+Es un acumulador de agua caliente con una pequeña bomba de calor encima o al lado. En lugar de calentar el agua con una resistencia, toma calor del aire y lo pasa al agua. Por eso, con cada kWh de luz da varios kWh de agua caliente.
+
+No es lo mismo que la aerotermia de calefacción, que calienta también la casa con radiadores o suelo radiante. Si te interesa ese sistema completo, lo tienes en <a href="https://tuluzencasa.com/cuanto-consume-aerotermia/">cuánto consume la aerotermia</a>.
+
+## El dato de la etiqueta: la eficiencia de caldeo {#etiqueta}
+
+Todos los calentadores de agua que se venden en la UE declaran su eficiencia energética de caldeo de agua, ηwh, según el Reglamento europeo 814/2013. Es la energía útil que da el aparato dividida por la energía primaria que consume, y para la electricidad el reglamento usa un coeficiente de conversión de 2,5.
+
+Para pasar ese porcentaje a algo útil para tu factura:
+
+- <strong>kWh de agua caliente por cada kWh de luz</strong> = ηwh × 2,5.
+- <strong>Un termo eléctrico de resistencia</strong> no puede dar más energía de la que gasta: como mucho, 1 kWh por kWh, un ηwh del 40 %. Desde septiembre de 2017, el mínimo legal es del 36 % en el perfil de consumo M y del 37 % en el L.
+- <strong>Un termo aerotérmico</strong> supera el 100 %: con un 125 %, da 3,13 kWh de agua caliente por cada kWh de luz.
+
+## Cuánto consume un termo aerotérmico en Madrid {#madrid}
+
+Para tres personas que usan 28 litros cada una al día a 60 °C, con el agua de red de Madrid según el Código Técnico, hacen falta unos 1.675 kWh de agua caliente al año. Lo que cuesta según el equipo:
+
+{{T:ta_madrid}}
+
+Los valores de 100 %, 125 % y 150 % son ejemplos para comparar: el de tu equipo está en su ficha de producto. Con el termo eléctrico ideal, sin pérdidas, sale lo mismo que en nuestra página de Madrid: 276,32 € al año.
+
+{{CAJA:Dato clave}}
+Si además tienes tarifa por horas y programas el termo aerotérmico para calentar en valle, los 536 kWh al año del ejemplo de 125 % bajan a 54,53 €.
+{{/CAJA}}
+
+## Según dónde vivas {#ciudades}
+
+Cuanto más fría llega el agua del grifo, más energía hace falta y más ahorra la bomba de calor. Para tres personas, con el mismo termo eléctrico del 36 % y un aerotérmico del 125 %:
+
+{{T:ta_ciudades}}
+
+En Burgos, con el agua a 5 °C en enero, el ahorro llega a 232,17 € al año. En Las Palmas de Gran Canaria es menor, 165,30 €, porque el agua llega más templada y el kWh es más barato, sin IVA y con IGIC 0 %. El dato de tu provincia lo tienes en nuestras páginas de luz por comunidades.
+
+## Lo que hay que saber antes de comprarlo {#antes}
+
+- <strong>Dónde va</strong>: toma el calor del aire de la habitación o del exterior, según el modelo. La ficha indica las condiciones de ensayo y el rango de temperaturas de funcionamiento.
+- <strong>El perfil de carga</strong>: la ficha declara su perfil, de 3XS a 4XL, que indica cuánta agua caliente puede dar. Compara siempre equipos con el mismo perfil.
+- <strong>La instalación eléctrica</strong>: si necesita su propio circuito o protecciones nuevas, es trabajo de una empresa instaladora. Tú puedes revisar sin riesgo la ficha y el espacio donde irá.
+- <strong>El ruido</strong>: la bomba de calor tiene ventilador y compresor. El reglamento limita su potencia acústica, y la ficha da el valor exacto.
+
+Antes de comprarlo, mira en la ficha la potencia eléctrica del equipo, con la resistencia de apoyo si la lleva, y compárala con la del termo que tienes. Las cifras del termo eléctrico, con sus trucos, están en <a href="https://tuluzencasa.com/cuanto-consume-termo-electrico/">cuánto consume un termo eléctrico</a>.
+
+## Trucos para gastar menos con el termo aerotérmico {#trucos}
+
+- <strong>Prográmalo en valle</strong> si tienes tarifa por horas: en el ejemplo de Madrid, el año baja de 88,42 € a 54,53 €.
+- <strong>Con placas solares, prográmalo a mediodía</strong>: consumirá la energía de tus placas en lugar de la de la red. Lo explicamos en <a href="https://tuluzencasa.com/placas-solares-en-casa/">placas solares en casa</a>.
+- <strong>No subas la temperatura más de lo necesario</strong>: cuanto más caliente el agua, menos rinde la bomba de calor.
+- <strong>Compara la ηwh de la ficha</strong>, no solo el precio: entre un equipo del 100 % y uno del 150 % hay 36,84 € al año en el ejemplo de Madrid.
+- <strong>Si tu modelo tiene resistencia de apoyo, úsala solo cuando haga falta</strong>: mientras funciona, el consumo es el de un termo eléctrico.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuánto consume un termo aerotérmico al año?
+
+Para tres personas en Madrid, con una eficiencia de caldeo del 125 %, unos 536 kWh: 88,42 € al año, 7,37 € al mes.
+
+### ¿Cuánto se ahorra con un termo aerotérmico?
+
+Frente a un termo eléctrico en el mínimo legal, 218,60 € al año en Madrid para tres personas con un aerotérmico del 125 %. En Burgos, 232,17 €.
+
+### ¿Qué es la ηwh de un calentador de agua?
+
+La eficiencia energética de caldeo de agua: la energía útil que da el aparato entre la energía primaria que consume. Multiplicada por 2,5, te dice cuántos kWh de agua caliente da por cada kWh de luz.
+
+### ¿Un termo aerotérmico es lo mismo que la aerotermia?
+
+No. El termo aerotérmico solo calienta el agua sanitaria. La aerotermia de calefacción calienta también la casa, con un equipo mayor.
+
+Fuentes oficiales consultadas el 12 de octubre de 2026:
+
+- <a href="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02013R0814-20170109" target="_blank" rel="noopener">Reglamento (UE) 814/2013</a>, de diseño ecológico de los calentadores de agua: definiciones de eficiencia de caldeo de agua y de coeficiente de conversión (CC = 2,5) y eficiencias mínimas desde el 26 de septiembre de 2017.
+- <a href="https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf" target="_blank" rel="noopener">Código Técnico de la Edificación, Documento Básico HE</a>: sección HE4 (consumo de agua caliente) y anejo G (temperatura del agua de red).
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2012-9282" target="_blank" rel="noopener">Ley 4/2012 de Canarias</a>, artículo 52 (IGIC 0 % en la luz de la vivienda).
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: pon tu termo con sus horas de uso y mira cuánto pesa en tu factura.

@@ -1,0 +1,85 @@
+title: Cuánto producen las placas solares en cada comunidad
+title_seo: Cuánto producen las placas solares en cada comunidad
+excerpt: Cuánto producen las placas solares: 1 kWp da 1.765 kWh al año en Santa Cruz de Tenerife y 1.174 en Oviedo. El ahorro de cada comunidad, calculado.
+category: placas-solares
+keyword: cuánto producen las placas solares
+---
+¿Cuánto producen las placas solares en tu comunidad? Con cada kWp instalado, de 1.174 kWh al año en Oviedo a 1.765 en Santa Cruz de Tenerife: un 50 % más en el mejor sitio que en el peor. Pero el ahorro cambia mucho menos que la producción: en la península, 3 kWp ahorran de 393,71 € en Oviedo a 479,36 € en Sevilla.
+
+Calculamos con PVGIS, la herramienta de la Comisión Europea, en la capital de cada comunidad, y con <strong>0,165 €/kWh con impuestos</strong> para la energía que dejas de comprar. Si tu factura tiene otro precio, el ahorro cambia casi en la misma proporción.
+
+## Cuánto producen las placas solares en cada comunidad {#comunidades}
+
+Con 1 kWp de placas a 30° de inclinación, orientadas al sur y con un 14 % de pérdidas, y la casa de ejemplo de 3.000 kWh al año con 3 kWp y el 40 % de la producción usada al momento:
+
+{{T:pc_comunidades}}
+
+- <strong>Arriba</strong>, Santa Cruz de Tenerife, Sevilla y el centro peninsular: más de 1.600 kWh por kWp en Madrid, Toledo, Zaragoza, Mérida y Murcia.
+- <strong>En medio</strong>, Valencia, Palma, Valladolid y Barcelona, entre 1.544 y 1.597.
+- <strong>Abajo</strong>, el norte: Logroño y Pamplona en torno a 1.400, y Santiago de Compostela, Vitoria-Gasteiz, Santander y Oviedo por debajo de 1.300.
+
+En Ceuta y Melilla no calculamos el ahorro: allí no se aplica el IVA, así que el precio de la luz con impuestos es distinto.
+
+## Por qué el ahorro cambia menos que la producción {#ahorro}
+
+Entre Oviedo y Sevilla la producción sube un 41 %, pero el ahorro solo un 22 %. Hay dos motivos:
+
+- <strong>Lo que usas al momento vale lo mismo en todas partes</strong>: cada kWh que no compras te ahorra 0,165 €. Y la casa de ejemplo consume lo mismo en Oviedo que en Sevilla.
+- <strong>Los excedentes tienen tope</strong>: con la compensación simplificada, cada mes te descuentan como mucho lo que pagas por la energía de la red. En el sur sobra mucho en verano, y esa parte se pierde. Lo explicamos mes a mes en <a href="https://tuluzencasa.com/compensacion-excedentes-placas/">compensación de excedentes</a>.
+
+{{CAJA:Dato clave}}
+Canarias produce más que nadie, pero la casa de ejemplo ahorra 407,82 € al año en Santa Cruz de Tenerife, menos que en Madrid. La razón es el precio: sin IVA y con IGIC 0 %, cada kWh que dejas de comprar vale 0,137 € en lugar de 0,165 €.
+{{/CAJA}}
+
+## Mes a mes: el sur, el centro y el norte {#meses}
+
+La diferencia entre comunidades se nota sobre todo en invierno. Producción de 3 kWp en tres capitales:
+
+{{T:pc_meses}}
+
+En enero, 3 kWp producen 379 kWh en Santa Cruz de Tenerife, 304 en Madrid y 201 en Oviedo. En julio, Madrid alcanza a Santa Cruz de Tenerife, y Oviedo se queda en 356 kWh. Por eso en el norte las placas cubren bien el verano y bastante menos el invierno.
+
+## Qué cambia en tu casa respecto a la capital {#tu-casa}
+
+La tabla es la capital de cada comunidad. En tu casa pueden cambiar varias cosas:
+
+- <strong>La orientación</strong>: calculamos placas al sur. Al este o al oeste producen menos a lo largo del día, pero reparten la producción entre la mañana y la tarde.
+- <strong>La inclinación</strong>: usamos 30°, como en el resto de la web. Un tejado plano o muy inclinado cambia la producción.
+- <strong>Las sombras</strong> de chimeneas, árboles o edificios cercanos. PVGIS no las conoce.
+- <strong>Dentro de la misma comunidad</strong>: no produce lo mismo la costa que el interior. Tienes el dato de cada capital de provincia en nuestras páginas de luz por comunidades.
+
+Puedes repetir el cálculo con tu dirección exacta en PVGIS, que es gratuito: introduce tu ubicación, la potencia, la inclinación y la orientación de tu tejado. Te explicamos el resto del cálculo, con el coste de la instalación, en <a href="https://tuluzencasa.com/placas-solares-en-casa/">placas solares en casa</a>.
+
+## Trucos para sacar más a tus placas {#trucos}
+
+- <strong>En el norte, usa la energía al momento</strong>: con menos producción, cada kWh consumido a mediodía cuenta más que uno compensado.
+- <strong>En el sur, no sobredimensiones</strong>: si en verano ya pierdes excedentes por el tope, más placas no ahorran más.
+- <strong>Programa la lavadora, el lavavajillas y el termo</strong> entre las 11 y las 16 h en los meses de sol.
+- <strong>Mira tu consumo por horas</strong> antes de elegir la potencia de la instalación; te explicamos cómo en <a href="https://tuluzencasa.com/ver-consumo-por-horas-datadis/">ver tu consumo por horas</a>.
+- <strong>Pregunta por la deducción del IRPF</strong>: en 2026, el 10 % de lo que pagas, hasta 500 €, si la instalación termina este año.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Cuántos kWh produce una placa solar al año?
+
+Depende de dónde estés. Cada kWp instalado produce de 1.174 kWh al año en Oviedo a 1.765 en Santa Cruz de Tenerife, con placas a 30° orientadas al sur.
+
+### ¿En qué comunidad compensan más las placas solares?
+
+Con la casa de ejemplo, en Andalucía: 3 kWp en Sevilla ahorran 479,36 € al año. Le siguen Murcia, Valencia y Toledo. En Canarias se produce más, pero el ahorro es menor porque el kWh es más barato.
+
+### ¿Merecen la pena las placas en el norte de España?
+
+En la casa de ejemplo, 3 kWp ahorran 393,71 € al año en Oviedo y 394,67 € en Santander. Es menos que en el sur, pero la diferencia en ahorro es mucho menor que en producción.
+
+### ¿Cuánto produce una instalación de 3 kWp?
+
+De 3.522 kWh al año en Oviedo a 5.294 en Santa Cruz de Tenerife. En Madrid, unos 4.865.
+
+Fuentes oficiales consultadas el 12 de octubre de 2026:
+
+- <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS 5.2, Comisión Europea</a>: producción mensual y anual de 1 kWp a 30° orientado al sur, con un 14 % de pérdidas, en la capital de cada comunidad.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089" target="_blank" rel="noopener">Real Decreto 244/2019</a>, de autoconsumo: artículo 14 (compensación simplificada).
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2012-9282" target="_blank" rel="noopener">Ley 4/2012 de Canarias</a>, artículo 52 (IGIC 0 % en la luz de la vivienda) y <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740" target="_blank" rel="noopener">Ley 37/1992 del IVA</a>, artículo 3 (Ceuta y Melilla fuera del ámbito del IVA).
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: mira qué aparatos puedes mover a las horas de sol para aprovechar tus placas.

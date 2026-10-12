@@ -1126,5 +1126,102 @@
    "https://re.jrc.ec.europa.eu/pvg_tools/es/",
    "https://tuluzencasa.com/calculadora-consumo-electrico/"
   ]
+ },
+ "punto-recarga-garaje-normativa": {
+  "title": "Punto de recarga en casa y en garaje comunitario: qué dice la norma",
+  "title_seo": "Punto de recarga en casa y en garaje comunitario: normativa",
+  "excerpt": "Punto de recarga en casa: con 7.360 W recargas 49 km por hora, en tu plaza basta avisar a la comunidad y Hacienda devuelve hasta 600 €.",
+  "category": "coche-electrico",
+  "keyword": "punto de recarga",
+  "words": 1379,
+  "excerpt_len": 135,
+  "h2": 7,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/cuanto-cuesta-cargar-coche-electrico-casa/",
+   "https://tuluzencasa.com/boletin-electrico/",
+   "https://tuluzencasa.com/que-potencia-contratar/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13681",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
+ },
+ "deducciones-irpf-eficiencia-energetica": {
+  "title": "Deducciones del IRPF por eficiencia energética, placas y punto de recarga",
+  "title_seo": "Deducciones del IRPF por eficiencia energética en 2026",
+  "excerpt": "Deducciones del IRPF por eficiencia energética: hasta 3.000 € al año por obras en tu vivienda, 500 € por placas y 600 € por el punto de recarga.",
+  "category": "ahorro",
+  "keyword": "deducciones del IRPF por eficiencia energética",
+  "linea_fecha": "no",
+  "words": 1463,
+  "excerpt_len": 144,
+  "h2": 7,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/cuanto-cuesta-cargar-coche-electrico-casa/",
+   "https://tuluzencasa.com/compensacion-excedentes-placas/",
+   "https://tuluzencasa.com/bomba-calor-radiadores-electricos/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2026-6544",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
+ },
+ "placas-solares-produccion-comunidad": {
+  "title": "Cuánto producen las placas solares en cada comunidad",
+  "title_seo": "Cuánto producen las placas solares en cada comunidad",
+  "excerpt": "Cuánto producen las placas solares: 1 kWp da 1.765 kWh al año en Santa Cruz de Tenerife y 1.174 en Oviedo. El ahorro de cada comunidad, calculado.",
+  "category": "placas-solares",
+  "keyword": "cuánto producen las placas solares",
+  "words": 1264,
+  "excerpt_len": 146,
+  "h2": 6,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/compensacion-excedentes-placas/",
+   "https://tuluzencasa.com/placas-solares-en-casa/",
+   "https://tuluzencasa.com/ver-consumo-por-horas-datadis/",
+   "https://re.jrc.ec.europa.eu/pvg_tools/es/",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9282",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
+ },
+ "termo-aerotermico-consumo": {
+  "title": "Termo aerotérmico: cuánto consume y cuánto ahorras frente al eléctrico",
+  "title_seo": "Termo aerotérmico: cuánto consume y cuánto ahorras",
+  "excerpt": "Termo aerotérmico: con una eficiencia del 125 %, el agua caliente de 3 personas en Madrid cuesta 88,42 € al año, frente a 307,02 € con termo eléctrico.",
+  "category": "consumo",
+  "keyword": "termo aerotérmico",
+  "words": 1217,
+  "excerpt_len": 151,
+  "h2": 7,
+  "anclas_unicas": true,
+  "kw_primera_frase": true,
+  "kw_en_h2": true,
+  "importes_sin_calculo": [],
+  "marcas": [],
+  "enlaces": [
+   "https://tuluzencasa.com/cuanto-consume-aerotermia/",
+   "https://tuluzencasa.com/cuanto-consume-termo-electrico/",
+   "https://tuluzencasa.com/placas-solares-en-casa/",
+   "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02013R0814-20170109",
+   "https://www.codigotecnico.org/pdf/Documentos/HE/DBHE.pdf",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9282",
+   "https://tuluzencasa.com/calculadora-consumo-electrico/"
+  ]
  }
 }

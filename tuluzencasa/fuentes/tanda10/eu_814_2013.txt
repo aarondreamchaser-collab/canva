@@ -1,0 +1,1692 @@
+Fuente: https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02013R0814-20170109
+Consultada: 2026-10-12
+
+
+ TEXTO consolidado: 32013R0814 — ES — 09.01.2017 
+ 02013R0814 — ES — 09.01.2017 — 001.003 
+ Este texto es exclusivamente un instrumento de documentación y no surte efecto jurídico. Las instituciones de la UE no asumen responsabilidad alguna por su contenido. Las versiones auténticas de los actos pertinentes, incluidos sus preámbulos, son las publicadas en el Diario Oficial de la Unión Europea, que pueden consultarse a través de EUR-Lex. Los textos oficiales son accesibles directamente mediante los enlaces integrados en este documento 
+ ►B 
+ REGLAMENTO (UE) n o 814/2013 DE LA COMISIÓN, 
+ de 2 de agosto de 2013, 
+ por el que se aplica la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico para calentadores de agua y depósitos de agua caliente 
+ (Texto pertinente a efectos del EEE) 
+ (DO L 239 de 6.9.2013, p. 162) 
+ Modificado por: 
+ Diario Oficial 
+   n° 
+ página 
+ fecha 
+ ►M1 
+ REGLAMENTO (UE) 2016/2282 DE LA COMISIÓN
+  de 30 de noviembre de 2016
+   L 346 
+ 51 
+ 20.12.2016 
+ Rectificado por: 
+ ►C1 
+ Rectificación,, DO L , 7.11.2023, p.  1 (n.o 814/2013) 
+ ▼B 
+ REGLAMENTO (UE) n o 814/2013 DE LA COMISIÓN, 
+ de 2 de agosto de 2013, 
+ por el que se aplica la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico para calentadores de agua y depósitos de agua caliente 
+ (Texto pertinente a efectos del EEE) 
+ Artículo 1 
+ Objeto y ámbito de aplicación 
+ 1.   
+ El presente Reglamento establece requisitos de diseño ecológico para la 
+ ►C1 
+  introducción en el mercado y puesta en servicio  ◄ de calentadores de agua con una potencia calorífica nominal ≤ 400 kW y depósitos de agua caliente con una capacidad ≤ 2 000 litros, incluidos los integrados en equipos combinados de calentador de agua y dispositivo solar, definidos en el artículo 2 del Reglamento Delegado (UE) n o 812/2013. 
+ 2.   
+ El presente Reglamento no se aplicará a los: 
+ a)  
+ calentadores de agua específicamente diseñados para consumir predominantemente combustibles gaseosos o líquidos producidos a partir de biomasa; 
+ b)  
+ calentadores de agua que consumen combustibles sólidos; 
+ c)  
+ calentadores de agua del ámbito de aplicación de la Directiva 2010/75/UE del Parlamento Europeo y del Consejo ( 
+ 1 
+ ); 
+ d)  
+ calentadores combinados, según la definición del artículo 2 del Reglamento (UE) n o 813/2013 de la Comisión ( 
+ 2 
+ ); 
+ e)  
+ calentadores de agua que no se ajustan al menos al perfil de carga con la menor energía de referencia, según se especifica en el anexo III, cuadro 1; 
+ f)  
+ calentadores de agua diseñados exclusivamente para elaborar bebidas o alimentos calientes; 
+ g)  
+ generadores de calor diseñados para calentadores de agua y envolturas de calentadores de agua que se equipen con tales generadores de calor 
+ ►C1 
+  introducidos en el mercado antes del 1 de enero de 2018  ◄ con el fin de sustituir a generadores de calor y envolturas de calentadores idénticos. El producto de repuesto o su embalaje deberán indicar claramente para qué calentador de agua está destinado. 
+ Artículo 2 
+ Definiciones 
+ Además de las definiciones que figuran en el artículo 2 de la Directiva 2009/125/CE, a efectos del presente Reglamento se entenderá por: 
+ 1) 
+ «calentador de agua» : 
+ el aparato que 
+ a)  
+ está conectado a un suministro externo de agua potable o sanitaria; 
+ b)  
+ genera y transfiere calor para suministrar agua caliente potable o sanitaria a determinados niveles de temperatura, cantidades y caudales durante determinados intervalos de tiempo, y 
+ c)  
+ está equipado con uno o varios generadores de calor; 
+ 2) 
+ «generador de calor» : 
+ la parte del calentador de agua que genera calor mediante uno o varios de los siguientes procesos: 
+ a)  
+ combustión de combustibles fósiles o combustibles de biomasa; 
+ b)  
+ utilización del efecto Joule en los elementos calefactores de una resistencia eléctrica; 
+ c)  
+ captura del calor ambiente a partir de una fuente atmosférica, acuática o geotérmica, o de calor residual; 
+ así, un generador de calor diseñado para un calentador de agua y una envoltura de calentador de agua que vaya a equiparse con un generador de calor de este tipo también se considerará calentador de agua; 
+ 3) 
+ «alojamiento de un calentador de agua» : la parte del calentador diseñada para albergar un generador de calor; 
+ 4) 
+ «potencia calorífica nominal» : la potencia calorífica declarada del calentador de agua cuando calienta agua en condiciones estándar, expresada en kW; 
+ 5) 
+ «capacidad» ( V ) : el volumen nominal de un depósito de agua caliente o de un calentador de agua con acumulador, expresado en litros; 
+ 6) 
+ «condiciones estándar» : las condiciones de funcionamiento de los calentadores de agua para determinar la potencia calorífica nominal, la eficiencia energética de caldeo del agua, el nivel de potencia acústica y las emisiones de óxido de nitrógeno, y de los depósitos de agua caliente para establecer la pérdida constante; 
+ 7) 
+ «biomasa» : la fracción biodegradable de los productos, desechos y residuos de origen biológico procedentes de la agricultura (incluidas las sustancias de origen vegetal y animal), de la silvicultura y otras industrias relacionadas, como la pesca y la acuicultura, así como la fracción biodegradable de los residuos industriales y urbanos; 
+ 8) 
+ «combustible de biomasa» : el combustible gaseoso o líquido producido a partir de la biomasa; 
+ 9) 
+ «combustible fósil» : el combustible gaseoso o líquido de origen fósil; 
+ 10) 
+ «calentador de agua convencional» : el calentador de agua que genera calor mediante la combustión de combustibles fósiles o de biomasa o el efecto Joule en elementos calefactores de una resistencia eléctrica; 
+ 11) 
+ «calentador de agua con bomba de calor» : el calentador de agua que utiliza el calor ambiente de una fuente atmosférica, acuática o geotérmica o calor residual para generar calor; 
+ 12) 
+ «calentador de agua solar» : el calentador de agua equipado con uno o varios colectores solares, depósitos de agua caliente solares, generadores de calor y posiblemente bombas en el circuito colector y en otros componentes; 
+ ►C1 
+  un calentador de agua solar se introduce en el mercado como una unidad  ◄ ; 
+ 13) 
+ «depósito de agua caliente» : el recipiente para almacenar agua caliente sanitaria y para fines de calefacción, incluidos los eventuales aditivos, que no está equipado con ningún generador de calor, salvo quizá uno o varios calentadores de inmersión de reserva; 
+ 14) 
+ «calentador de inmersión de reserva» : el calentador de resistencia eléctrica de efecto Joule que forma parte de un depósito de agua caliente y genera calor solo cuando la fuente de calor externa se ha interrumpido (como durante los períodos de mantenimiento) o está averiada, o que forma parte de un depósito de agua caliente solar y proporciona calor cuando la fuente de calor solar no es suficiente para satisfacer los niveles de confort necesarios; 
+ 15) 
+ «eficiencia energética del caldeo de agua» ( η wh 
+ ) : la relación entre la energía útil aportada por un calentador de agua y la energía necesaria para su generación, expresada en %; 
+ 16) 
+ «nivel de potencia acústica» ( L WA 
+ ) : el nivel de potencia acústica ponderada A, interior o exterior, expresado en dB; 
+ 17) 
+ «pérdida constante» ( S ) : la potencia calorífica disipada de un depósito de agua caliente con una determinada temperatura del agua y temperatura ambiente, expresada en W; 
+ 18) 
+ «coeficiente de conversión» ( CC ) : el coeficiente que refleja la eficiencia estimada de la generación media de la UE del 40 % contemplado en la Directiva 2012/27/UE del Parlamento Europeo y del Consejo ( 
+ 3 
+ ); el valor del coeficiente de conversión es CC = 2,5. 
+ En el anexo I figuran otras definiciones a efectos de los anexos II a VI. 
+ Artículo 3 
+ Requisitos de diseño ecológico y calendario 
+ 1.   
+ Los requisitos de diseño ecológico de los calentadores de agua y depósitos de agua caliente se establecen en el anexo II. 
+ 2.   
+ Cada requisito de diseño ecológico se aplicará de conformidad con el siguiente calendario: 
+ a)  
+ a partir del 26 de septiembre de 2015: 
+ i)  
+ los calentadores de agua cumplirán los requisitos establecidos en el anexo II, puntos 1.1 a), 1.2, 1.3, 1.4 y 1.6, 
+ ii)  
+ los depósitos de agua caliente cumplirán los requisitos establecidos en el anexo II, punto 2.2; 
+ b)  
+ a partir del 26 de septiembre de 2017: 
+ i)  
+ los calentadores de agua cumplirán los requisitos establecidos en el anexo II, punto 1.1.b), 
+ ii)  
+ los depósitos de agua caliente cumplirán los requisitos establecidos en el anexo II, punto 2.1; 
+ c)  
+ a partir del 26 de septiembre de 2018: 
+ i)  
+ los calentadores de agua cumplirán los requisitos establecidos en el anexo II, punto 1.1.c), 
+ ii)  
+ los calentadores de agua cumplirán los requisitos establecidos en el anexo II, punto 1.5.a). 
+ 3.   
+ El cumplimiento de los requisitos de diseño ecológico se medirá y calculará de conformidad con los requisitos expuestos en los anexos III y IV. 
+ Artículo 4 
+ Evaluación de la conformidad 
+ 1.   
+ El procedimiento de evaluación de la conformidad mencionado en el artículo 8, apartado 2, de la Directiva 2009/125/CE será el sistema de control interno del diseño que figura en el anexo IV de la citada Directiva o el sistema de gestión descrito en su anexo V. 
+ 2.   
+ A efectos de la evaluación de la conformidad, la documentación técnica incluirá la información de producto especificada en el punto 1.6 del anexo II del presente Reglamento. 
+ Artículo 5 
+ Procedimiento de verificación a efectos de la vigilancia del mercado 
+ Cuando lleven a cabo los controles de vigilancia del mercado a que se refiere el artículo 3, apartado 2, de la Directiva 2009/125/CE para asegurar el cumplimiento de los requisitos establecidos en el anexo II del presente Reglamento, las autoridades de los Estados miembros aplicarán el procedimiento de verificación que se describe en el anexo V del presente Reglamento. 
+ Artículo 6 
+ Parámetros de referencia indicativos 
+ Los parámetros de referencia indicativos de los calentadores de agua y depósitos de agua caliente con mejores prestaciones disponibles en el mercado en el momento de adoptar el presente Reglamento figuran en el anexo VI. 
+ Artículo 7 
+ Revisión 
+ 1.   
+ La Comisión revisará el presente Reglamento a la luz del progreso técnico de los calentadores de agua y depósitos de agua caliente y presentará el resultado de dicha revisión al Foro Consultivo sobre Diseño Ecológico en un plazo máximo de cinco años desde de la entrada en vigor del presente Reglamento. En particular, la revisión incluirá una evaluación de los siguientes aspectos: 
+ a)  
+ la conveniencia de establecer requisitos de diseño ecológico para las emisiones de gases de efecto invernadero relacionadas con refrigerantes; 
+ b)  
+ de acuerdo con los métodos de medición en proceso de desarrollo, el nivel de los requisitos de diseño ecológico que podrían introducirse para las emisiones de monóxido de carbono e hidrocarburos; 
+ c)  
+ la conveniencia de establecer requisitos de diseño ecológico más rigurosos para las emisiones de óxidos de nitrógeno; 
+ d)  
+ la conveniencia de establecer requisitos de diseño ecológico para calentadores de agua específicamente diseñados para consumir predominantemente combustibles gaseosos o líquidos producidos a partir de biomasa; 
+ e)  
+ la validez del valor del coeficiente de conversión; 
+ f)  
+ la conveniencia de recurrir a la certificación por terceros. 
+ 2.   
+ La Comisión examinará asimismo el presente Reglamento teniendo en cuenta el progreso técnico de los calentadores de agua, y presentará los resultados de dicho examen al Foro Consultivo sobre Diseño Ecológico en el plazo máximo de tres años a partir de la entrada en vigor del presente Reglamento. El examen incluirá únicamente la evaluación de la conveniencia de establecer requisitos de diseño ecológico distintos para diferentes tipos de calentadores de agua. 
+ Artículo 8 
+ Disposiciones transitorias 
+ 1.   
+ Hasta el 26 de septiembre de 2015, 
+ ►C1 
+  los Estados miembros podrán autorizar la introducción en el mercado o puesta en servicio  ◄ de calentadores de agua que se ajusten a la normativa nacional vigente en el momento de adoptarse el presente Reglamento en relación con la eficiencia energética del caldeo de agua y el nivel de potencia acústica. 
+ 2.   
+ Hasta el 26 de septiembre de 2018, 
+ ►C1 
+  los Estados miembros podrán autorizar la introducción en el mercado o puesta en servicio  ◄ de calentadores de agua que se ajusten a la normativa nacional vigente en el momento de adoptarse el presente Reglamento en relación con las emisiones de óxidos de nitrógeno. 
+ 3.   
+ Hasta el 26 de septiembre de 2017, 
+ ►C1 
+  los Estados miembros podrán autorizar la introducción en el mercado o puesta en servicio  ◄ de depósitos de agua caliente que se ajusten a la normativa nacional vigente en el momento de adoptarse el presente Reglamento en relación con las pérdidas constantes. 
+ Artículo 9 
+ Entrada en vigor 
+ El presente Reglamento entrará en vigor el vigésimo día siguiente al de su publicación en el Diario Oficial de la Unión Europea. 
+ El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. 
+ ANEXO I 
+ Definiciones aplicables a los anexos II a VI 
+ A efectos de los anexos II a VI, se aplicarán las siguientes definiciones: 
+ 1) 
+ «calentador de agua con acumulador» : calentador de agua equipado con uno o varios depósitos de agua caliente, generadores de calor y posiblemente otros componentes, incorporados en una misma envoltura; 
+ 2) 
+ «perfil de carga» : determinada secuencia de salidas de agua, conforme a lo especificado en el anexo III, cuadro 1; a cada calentador de agua le debe corresponder al menos un perfil de carga; 
+ 3) 
+ «salida de agua» : determinada combinación de caudal de agua útil, temperatura del agua útil, contenido de energía útil y temperatura pico, conforme a lo especificado en el anexo III, cuadro 1; 
+ 4) 
+ «caudal de agua útil» ( f ) : caudal mínimo, expresado en litros por minuto, en que el agua caliente contribuye a la energía de referencia, conforme a lo especificado en el anexo III, cuadro 1; 
+ 5) 
+ «temperatura del agua útil» ( T m 
+ ) : temperatura del agua, expresada en grados Celsius, a la que el agua caliente comienza a contribuir a la energía de referencia, conforme a lo especificado en el anexo III, cuadro 1; 
+ 6) 
+ «contenido de energía útil» ( Q tap 
+ ) : contenido energético del agua caliente, expresado en kWh, suministrado a una temperatura igual o superior a la temperatura del agua útil, y a caudales de agua iguales o superiores al caudal de agua útil, conforme a lo especificado en el anexo III, cuadro 1; 
+ 7) 
+ «contenido energético del agua caliente» : producto de la capacidad térmica específica del agua, la diferencia de temperatura media entre el agua caliente saliente y el agua fría entrante, y la masa total de agua caliente suministrada; 
+ 8) 
+ «temperatura pico» ( T p 
+ ) : temperatura mínima del agua, expresada en grados Celsius, que ha de alcanzarse durante la salida de agua, conforme a lo especificado en el anexo III, cuadro 1; 
+ 9) 
+ «energía de referencia» ( Q ref 
+ ) : suma del contenido de energía útil de las salidas de agua, expresada en kWh, en un determinado perfil de carga, conforme a lo especificado en el anexo III, cuadro 1; 
+ 10) 
+ «perfil de carga máximo» : perfil de carga con la mayor energía de referencia que es capaz de suministrar un calentador de agua cuando cumple las condiciones de temperatura y caudal de ese perfil de carga; 
+ 11) 
+ «perfil de carga declarado» : perfil de carga aplicado para la evaluación de la conformidad; 
+ 12) 
+ «consumo diario de electricidad» ( Q elec 
+ ) : consumo de electricidad a lo largo de 24 horas consecutivas con el perfil de carga declarado, expresado en kWh de energía final; 
+ 13) 
+ «consumo diario de combustible» ( Q fuel 
+ ) : consumo de combustible a lo largo de 24 horas consecutivas con el perfil de carga declarado, expresado en kWh en términos de GCV ; 
+ 14) 
+ «poder calorífico superior» ( GCV ) : cantidad total de calor liberado por una cantidad unitaria de combustible cuando se quema por completo con oxígeno y se devuelven los productos de la combustión a la temperatura ambiente; esta cantidad incluye el calor de condensación del vapor de agua contenido en el combustible y del vapor de agua formado por la combustión del hidrógeno contenido en el combustible; 
+ 15) 
+ «control inteligente» : dispositivo que adapta automáticamente el proceso de caldeo del agua a las condiciones de uso específicas con objeto de reducir el consumo energético; 
+ 16) 
+ «conformidad con el control inteligente» ( smart ) : medida de si un calentador de agua equipado con controles inteligentes cumple el criterio establecido en el punto 4 del anexo IV; 
+ 17) 
+ «factor de control inteligente» ( SCF ) : aumento de la eficiencia del caldeo de agua gracias al control inteligente en las condiciones indicadas en el punto 3 del anexo III; 
+ 18) 
+ «consumo semanal de electricidad con controles inteligentes» ( Q elec,week,smart 
+ ) : consumo semanal de electricidad de un calentador de agua con la función de control inteligente activada, medido en las condiciones establecidas en el punto 3 del anexo III, expresado en kWh de energía final; 
+ 19) 
+ «consumo semanal de combustible con controles inteligentes» ( Q fuel,week,smart 
+ ) : consumo semanal de combustible de un calentador de agua con la función de control inteligente activada, medido en las condiciones establecidas en el punto 3 del anexo III, expresado en kWh de GCV ; 
+ 20) 
+ «consumo semanal de electricidad sin controles inteligentes» ( Q elec,week 
+ ) : consumo semanal de electricidad de un calentador de agua con la función de control inteligente desactivada, medido en las condiciones establecidas en el punto 3 del anexo III, expresado en kWh de energía final; 
+ 21) 
+ «consumo semanal de combustible sin controles inteligentes» ( Q fuel,week 
+ ) : consumo semanal de combustible de un calentador de agua con la función de control inteligente desactivada, medido en las condiciones establecidas en el punto 3 del anexo III, expresado en kWh de GCV ; 
+ 22) 
+ «factor de corrección ambiente» ( Q cor 
+ ) : factor que tiene en cuenta el hecho de que el lugar donde se instala el calentador de agua no es un lugar isotérmico, expresado en kWh; 
+ 23) 
+ «pérdida de calor en modo de espera» ( P stby 
+ ) : pérdida de calor de un calentador de agua con bomba de calor en estado de funcionamiento sin demanda de calor, expresada en kW; 
+ 24) 
+ «agua mixta a 40 °C» ( V40 ) : cantidad de agua a 40 °C que tiene el mismo contenido térmico (entalpía) que el agua caliente que se suministra a más de 40 °C a la salida del calentador de agua, expresada en litros; 
+ 25) 
+ «condiciones climáticas medias» : temperatura y condiciones de irradiancia solar global características de la ciudad de Estrasburgo; 
+ 26) 
+ «consumo anual de energía» ( Q tota 
+ ) : consumo anual de energía de un calentador de agua solar, expresado en kWh de energía primaria o en kWh en términos de GCV ; 
+ 27) 
+ «contribución calorífica anual no solar» ( Q nonsol 
+ ) : contribución anual de la electricidad (expresada en kWh de energía primaria) o de los combustibles (expresada en kWh en términos de GCV ) a la potencia calorífica útil de un calentador de agua solar, teniendo en cuenta la cantidad anual de calor capturado por el colector solar y las pérdidas térmicas del depósito de agua caliente solar; 
+ 28) 
+ «colector solar» : dispositivo concebido para absorber la irradiancia solar global y transferir la energía calorífica así producida a un fluido que pasa a través de él; se caracteriza por el área de apertura del colector, la eficiencia de pérdida cero, el coeficiente de primer orden, el coeficiente de segundo orden y el modificador del ángulo de incidencia; 
+ 29) 
+ «irradiancia solar global» : índice de energía solar total entrante, tanto directa como difusa, en un plano de colector con una inclinación de 45 grados y orientación sur en la superficie terrestre, expresada en W/m 2 ; 
+ 30) 
+ «área de apertura del colector» ( A sol 
+ ) : área máxima proyectada a través de la cual entra en el colector la radiación solar no concentrada, expresada en m 2 ; 
+ 31) 
+ «eficiencia de pérdida cero» ( η 0 
+ ) : eficiencia del colector solar cuando la temperatura media del líquido del colector solar es igual a la temperatura ambiente; 
+ 32) 
+ «coeficiente de primer orden» ( a 1 
+ ) : coeficiente de pérdida de calor de un colector solar, expresado en W/(m 2 K); 
+ 33) 
+ «coeficiente de segundo orden» ( a 2 
+ ) : coeficiente que mide la dependencia del coeficiente de primer orden respecto a la temperatura, expresado en W/(m 2 K 2 ); 
+ 34) 
+ «modificador del ángulo de incidencia» ( MAI ) : relación de la potencia calorífica útil del colector solar en un ángulo de incidencia determinado y su potencia calorífica útil en un ángulo de incidencia de 0 grados; 
+ 35) 
+ «ángulo de incidencia» : ángulo entre la dirección al sol y la perpendicular a la superficie de apertura del colector solar; 
+ 36) 
+ «depósito de agua caliente solar» : depósito de agua caliente que almacena la energía térmica producida por uno o más colectores solares; 
+ 37) 
+ «eficiencia energética de caldeo de agua del generador de calor» ( η wh,nonsol 
+ ) : eficiencia energética de caldeo del agua de un generador de calor que forma parte de un calentador de agua solar, expresada en %, establecida en condiciones climáticas medias y sin utilizar aporte de calor solar; 
+ 38) 
+ «consumo de electricidad auxiliar» ( Q aux 
+ ) : consumo anual de electricidad de un calentador de agua solar debido al consumo eléctrico de la bomba y al consumo eléctrico en modo de espera, expresado en kWh de energía final; 
+ 39) 
+ «consumo eléctrico de la bomba» ( solpump ) : consumo eléctrico nominal de la bomba del circuito del colector de un calentador de agua solar, expresado en W; 
+ 40) 
+ «consumo eléctrico en modo de espera» ( solstandby ) : consumo eléctrico nominal de un calentador de agua solar cuando la bomba y el generador de calor están inactivos, expresado en W; 
+ 41) 
+ «modelo equivalente» : 
+ ►C1 
+  modelo introducido en el mercado con los mismos parámetros técnicos establecidos en los requisitos aplicables de información sobre el producto del anexo II que otro modelo introducido en el mercado por el mismo fabricante.  ◄ 
+ ANEXO II 
+ Requisitos de diseño ecológico 
+ 1.    REQUISITOS DE DISEÑO ECOLÓGICO PARA CALENTADORES DE AGUA 
+ 1.1.    
+ Requisitos de eficiencia energética de calentamiento de agua 
+ a)   A partir del 26 de septiembre de 2015, la eficiencia energética del caldeo de agua de los calentadores de agua no bajará de los siguientes valores: 
+ Perfil de carga declarado 
+ 3XS 
+ XXS 
+ XS 
+ S 
+ M 
+ L 
+ XL 
+ XXL 
+ 3XL 
+ 4XL 
+ Eficiencia energética del caldeo de agua 
+ 22 % 
+ 23 % 
+ 26 % 
+ 26 % 
+ 30 % 
+ 30 % 
+ 30 % 
+ 32 % 
+ 32 % 
+ 32 % 
+ Además, en el caso de los calentadores de agua cuyo valor smart declarado sea «1»: eficiencia energética del caldeo de agua calculada para smart = 0, probada con el perfil de carga declarado 
+ 19 % 
+ 20 % 
+ 23 % 
+ 23 % 
+ 27 % 
+ 27 % 
+ 27 % 
+ 28 % 
+ 28 % 
+ 28 % 
+ b)   A partir del 26 de septiembre de 2017, la eficiencia energética del caldeo de agua de los calentadores de agua no bajará de los siguientes valores: 
+ Perfil de carga declarado 
+ 3XS 
+ XXS 
+ XS 
+ S 
+ M 
+ L 
+ XL 
+ XXL 
+ 3XL 
+ 4XL 
+ Eficiencia energética del caldeo de agua 
+ 32 % 
+ 32 % 
+ 32 % 
+ 32 % 
+ 36 % 
+ 37 % 
+ 37 % 
+ 37 % 
+ 37 % 
+ 38 % 
+ Además, en el caso de los calentadores de agua cuyo valor smart declarado sea «1»: eficiencia energética del caldeo de agua calculada para smart = 0, probada con el perfil de carga declarado 
+ 29 % 
+ 29 % 
+ 29 % 
+ 29 % 
+ 33 % 
+ 34 % 
+ 35 % 
+ 36 % 
+ 36 % 
+ 36 % 
+ c)   A partir del 26 de septiembre de 2018, la eficiencia energética del caldeo de agua de los calentadores de agua no bajará de los siguientes valores: 
+ Perfil de carga declarado 
+ XXL 
+ 3XL 
+ 4XL 
+ Eficiencia energética del caldeo de agua 
+ 60 % 
+ 64 % 
+ 64 % 
+ 1.2.    
+ Requisitos de capacidad de calentadores de agua con acumulador con los perfiles de carga declarados 3XS, XXS, XS y S 
+ A partir del 26 de septiembre de 2015: 
+ a)  
+ en calentadores de agua con acumulador con el perfil de carga declarado 3XS, la capacidad no será superior a 7 litros; 
+ b)  
+ en calentadores de agua con acumulador con los perfiles de carga declarados XXS y XS, la capacidad no será superior a 15 litros; 
+ c)  
+ en calentadores de agua con acumulador con el perfil de carga declarado S, la capacidad no será superior a 36 litros. 
+ 1.3.    
+ Requisitos de agua mixta a 40 °C de calentadores de agua con acumulador con los perfiles de carga declarados M, L, XL, XXL, 3XL y 4XL 
+ A partir del 26 de septiembre de 2015, la cantidad de agua mixta a 40 °C no bajará de los siguientes valores: 
+ Perfil de carga declarado 
+ M 
+ L 
+ XL 
+ XXL 
+ 3XL 
+ 4XL 
+ Agua mixta a 40 °C 
+ 65 litros 
+ 130 litros 
+ 210 litros 
+ 300 litros 
+ 520 litros 
+ 1 040 litros 
+ 1.4.    
+ Requisitos de nivel de potencia acústica 
+ A partir del 26 de septiembre de 2015, el nivel de potencia acústica de los calentadores de agua con bomba de calor no superará los siguientes valores: 
+ Potencia calorífica nominal ≤ 6 kW 
+ Potencia calorífica nominal > 6 kW y ≤ 12 kW 
+ Potencia calorífica nominal > 12 kW y ≤ 30 kW 
+ Potencia calorífica nominal > 30 kW y ≤ 70 kW 
+ Nivel de potencia acústica ( L WA 
+ ), interior 
+ Nivel de potencia acústica ( L WA 
+ ), exterior 
+ Nivel de potencia acústica ( L WA 
+ ), interior 
+ Nivel de potencia acústica ( L WA 
+ ), exterior 
+ Nivel de potencia acústica ( L WA 
+ ), interior 
+ Nivel de potencia acústica ( L WA 
+ ), exterior 
+ Nivel de potencia acústica ( L WA 
+ ), interior 
+ Nivel de potencia acústica ( L WA 
+ ), exterior 
+ 60 dB 
+ 65 dB 
+ 65 dB 
+ 70 dB 
+ 70 dB 
+ 78 dB 
+ 80 dB 
+ 88 dB 
+ 1.5.    
+ Requisitos aplicables a las emisiones de óxidos de nitrógeno 
+ a)   A partir del 26 de septiembre de 2018, las emisiones de óxidos de nitrógeno de los calentadores de agua, expresadas en dióxido de nitrógeno, no superarán los siguientes valores: 
+ —  
+ calentadores de agua convencionales que consumen combustibles gaseosos: 56 mg/kWh de insumo de combustible en términos de GCV , 
+ —  
+ calentadores de agua convencionales que consumen combustibles líquidos: 120 mg/kWh de insumo de combustible en términos de GCV , 
+ —  
+ calentadores de agua con bomba de calor equipados con combustión externa que consumen combustibles gaseosos y calentadores de agua solares que consumen combustibles gaseosos: 70 mg/kWh de insumo de combustible en términos de GCV , 
+ —  
+ calentadores de agua con bomba de calor equipados con combustión externa que consumen combustibles líquidos y calentadores de agua solares que consumen combustibles líquidos: 120 mg/kWh de insumo de combustible en términos de GCV , 
+ —  
+ calentadores de agua con bomba de calor equipados con motor de combustión interna que consumen combustibles gaseosos: 240 mg/kWh de insumo de combustible en términos de GCV , 
+ —  
+ calentadores de agua con bomba de calor equipados con motor de combustión interna que consumen combustibles líquidos: 420 mg/kWh de insumo de combustible en términos de GCV. 
+ 1.6.    
+ Requisitos aplicables a la información de producto relativa a calentadores de agua 
+ A partir del 26 de septiembre de 2015, los manuales de instrucciones para instaladores y usuarios finales, los sitios web de libre acceso de los fabricantes, sus representantes autorizados e importadores y la documentación técnica destinada a la evaluación de la conformidad en virtud del artículo 4 contendrán los siguientes elementos: 
+ a)  
+ datos que identifiquen el modelo o modelos, incluidos los modelos equivalentes, a que se refiere la información; 
+ b)  
+ los resultados de las mediciones de los parámetros técnicos especificados en el punto 6 del anexo III; 
+ c)  
+ los resultados de los cálculos de los parámetros técnicos especificados en el punto 2 del anexo IV; 
+ d)  
+ cualquier precaución específica que deba adoptarse durante el montaje, instalación o mantenimiento del calentador de agua; 
+ e)  
+ en el caso de los generadores de calor diseñados para calentadores de agua y de las envolturas de calentadores de agua que deban equiparse con dichos generadores de calor, sus características, los requisitos de montaje para garantizar el cumplimiento de los requisitos de diseño ecológico aplicables a los calentadores de agua y, en su caso, la lista de combinaciones recomendadas por el fabricante; 
+ f)  
+ información pertinente para el desmontaje, reciclado o eliminación del producto al final de la vida útil. 
+ 2.    REQUISITOS DE DISEÑO ECOLÓGICO APLICABLES A LOS DEPÓSITOS DE AGUA CALIENTE 
+ 2.1.    
+ Requisito de pérdida constante 
+ A partir del 26 de septiembre de 2017, la pérdida constante S de los depósitos de agua caliente con una capacidad V , expresada en litros, no superará el siguiente límite: 
+ 2.2.    
+ Requisitos aplicables a la información de producto relativa a depósitos de agua caliente 
+ A partir del 26 de septiembre de 2015, los manuales de instrucciones para instaladores y usuarios finales, los sitios web de libre acceso de los fabricantes, sus representantes autorizados e importadores y la documentación técnica destinada a la evaluación de la conformidad en virtud del artículo 4 contendrán los siguientes elementos: 
+ a)  
+ datos que identifiquen el modelo o modelos, incluidos los modelos equivalentes, a que se refiere la información; 
+ b)  
+ los resultados de las mediciones de los parámetros técnicos especificados en el punto 7 del anexo III; 
+ c)  
+ cualquier precaución específica que deba adoptarse durante el montaje, instalación o mantenimiento del depósito de agua caliente; 
+ d)  
+ información pertinente para el desmontaje, reciclado o eliminación del producto al final de la vida útil. 
+ ANEXO III 
+ Mediciones 
+ 1. 
+ Para hacer efectivo y verificar el cumplimiento de los requisitos establecidos en el presente Reglamento, se realizarán mediciones aplicando normas armonizadas cuyos números de referencia hayan sido publicados con este fin en el Diario Oficial de la Unión Europea , u otros métodos de medición fiables, exactos y reproducibles, que tengan en cuenta los métodos más avanzados generalmente aceptados. Cumplirán las condiciones y los parámetros técnicos establecidos en los puntos 2 a 7. 
+ 2. 
+ CONDICIONES GENERALES PARA PROBAR CALENTADORES DE AGUA 
+ a)   las mediciones se realizarán utilizando los perfiles de carga establecidos en el cuadro 1; 
+ b)   las mediciones se realizarán utilizando un ciclo de medición de 24 horas, de la forma siguiente: 
+ —  
+ de las 00:00 a las 06:59 horas: ninguna salida de agua, 
+ —  
+ a partir las 07:00 horas: salidas de agua conforme al perfil de carga declarado, 
+ —  
+ a partir del final de la última salida de agua hasta las 24:00 horas: ninguna salida de agua; 
+ c)   el perfil de carga declarado será el perfil de carga máximo o el perfil de carga inmediatamente anterior al máximo; 
+ d)   todo generador de calor diseñado para un calentador de agua y toda envoltura de calentador de agua que vaya a equiparse con un generador de calor de este tipo se someterán también a ensayo con una envoltura de calentador de agua y un generador de calor apropiados, respectivamente; 
+ e)   los calentadores de agua que se vayan a clasificar como calentadores de horas valle recibirán energía durante un período máximo de 8 horas consecutivas entre las 22:00 y las 07:00 del ciclo de extracción de 24 horas; al final del ciclo de extracción de 24 horas, los calentadores de agua reciben energía hasta el final de la fase. 
+ Cuadro 1 
+ Perfiles de carga de los calentadores de agua 
+ h 
+ 3XS 
+ XXS 
+ XS 
+ S 
+ Q 
+ tap 
+ f 
+ T m 
+ Q 
+ tap 
+ f 
+ T m 
+ Q 
+ tap 
+ f 
+ T m 
+ Q 
+ tap 
+ f 
+ T m 
+ T p 
+ kWh 
+ l/min 
+ °C 
+ kWh 
+ l/min 
+ °C 
+ kWh 
+ l/min 
+ °C 
+ kWh 
+ l/min 
+ °C 
+ °C 
+ 07:00 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 07:05 
+ 0,015 
+ 2 
+ 25 
+ 07:15 
+ 0,015 
+ 2 
+ 25 
+ 07:26 
+ 0,015 
+ 2 
+ 25 
+ 07:30 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 0,525 
+ 3 
+ 35 
+ 0,105 
+ 3 
+ 25 
+ 07:45 
+ 08:01 
+ 08:05 
+ 08:15 
+ 08:25 
+ 08:30 
+ 0,105 
+ 2 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 08:45 
+ 09:00 
+ 0,015 
+ 2 
+ 25 
+ 09:30 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 10:00 
+ 10:30 
+ 11:00 
+ 11:30 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 11:45 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 12:00 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 12:30 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 12:45 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 0,525 
+ 3 
+ 35 
+ 0,315 
+ 4 
+ 10 
+ 55 
+ 14:30 
+ 0,015 
+ 2 
+ 25 
+ 15:00 
+ 0,015 
+ 2 
+ 25 
+ 15:30 
+ 0,015 
+ 2 
+ 25 
+ 16:00 
+ 0,015 
+ 2 
+ 25 
+ 16:30 
+ 17:00 
+ 18:00 
+ 0,105 
+ 2 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 18:15 
+ 0,105 
+ 2 
+ 25 
+ 0,105 
+ 3 
+ 40 
+ 18:30 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 19:00 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 19:30 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 20:00 
+ 0,105 
+ 2 
+ 25 
+ 20:30 
+ 1,05 
+ 3 
+ 35 
+ 0,42 
+ 4 
+ 10 
+ 55 
+ 20:45 
+ 0,105 
+ 2 
+ 25 
+ 20:46 
+ 21:00 
+ 0,105 
+ 2 
+ 25 
+ 21:15 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 21:30 
+ 0,015 
+ 2 
+ 25 
+ 0,525 
+ 5 
+ 45 
+ 21:35 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ 21:45 
+ 0,015 
+ 2 
+ 25 
+ 0,105 
+ 2 
+ 25 
+ Q 
+ ref 
+ 0,345 
+ 2,100 
+ 2,100 
+ 2,100 
+ h 
+ M 
+ L 
+ XL 
+ Q 
+ tap 
+ f 
+ T m 
+ T p 
+ Q 
+ tap 
+ f 
+ T m 
+ T p 
+ Q 
+ tap 
+ f 
+ T m 
+ T p 
+ kWh 
+ l/min 
+ °C 
+ °C 
+ kWh 
+ l/min 
+ °C 
+ °C 
+ kWh 
+ l/min 
+ °C 
+ °C 
+ 07:00 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 07:05 
+ 1,4 
+ 6 
+ 40 
+ 1,4 
+ 6 
+ 40 
+ 07:15 
+ 1,82 
+ 6 
+ 40 
+ 07:26 
+ 0,105 
+ 3 
+ 25 
+ 07:30 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 07:45 
+ 0,105 
+ 3 
+ 25 
+ 4,42 
+ 10 
+ 10 
+ 40 
+ 08:01 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 08:05 
+ 3,605 
+ 10 
+ 10 
+ 40 
+ 08:15 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 08:25 
+ 0,105 
+ 3 
+ 25 
+ 08:30 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 08:45 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 09:00 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 09:30 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 10:00 
+ 0,105 
+ 3 
+ 25 
+ 10:30 
+ 0,105 
+ 3 
+ 10 
+ 40 
+ 0,105 
+ 3 
+ 10 
+ 40 
+ 0,105 
+ 3 
+ 10 
+ 40 
+ 11:00 
+ 0,105 
+ 3 
+ 25 
+ 11:30 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 11:45 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 12:00 
+ 12:30 
+ 12:45 
+ 0,315 
+ 4 
+ 10 
+ 55 
+ 0,315 
+ 4 
+ 10 
+ 55 
+ 0,735 
+ 4 
+ 10 
+ 55 
+ 14:30 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 15:00 
+ 0,105 
+ 3 
+ 25 
+ 15:30 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 16:00 
+ 0,105 
+ 3 
+ 25 
+ 16:30 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 17:00 
+ 0,105 
+ 3 
+ 25 
+ 18:00 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 18:15 
+ 0,105 
+ 3 
+ 40 
+ 0,105 
+ 3 
+ 40 
+ 0,105 
+ 3 
+ 40 
+ 18:30 
+ 0,105 
+ 3 
+ 40 
+ 0,105 
+ 3 
+ 40 
+ 0,105 
+ 3 
+ 40 
+ 19:00 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 19:30 
+ 20:00 
+ 20:30 
+ 0,735 
+ 4 
+ 10 
+ 55 
+ 0,735 
+ 4 
+ 10 
+ 55 
+ 0,735 
+ 4 
+ 10 
+ 55 
+ 20:45 
+ 20:46 
+ 4,42 
+ 10 
+ 10 
+ 40 
+ 21:00 
+ 3,605 
+ 10 
+ 10 
+ 40 
+ 21:15 
+ 0,105 
+ 3 
+ 25 
+ 0,105 
+ 3 
+ 25 
+ 21:30 
+ 1,4 
+ 6 
+ 40 
+ 0,105 
+ 3 
+ 25 
+ 4,42 
+ 10 
+ 10 
+ 40 
+ 21:35 
+ 21:45 
+ Q 
+ ref 
+ 5,845 
+ 11,655 
+ 19,07 
+ h 
+ XXL 
+ 3XL 
+ 4XL 
+ Q 
+ tap 
+ f 
+ T m 
+ T p 
+ Q 
+ tap 
+ f 
+ T m 
+ T p 
+ Q 
+ tap 
+ f 
+ T m 
+ T p 
+ kWh 
+ l/min 
+ °C 
+ °C 
+ kWh 
+ l/min 
+ °C 
+ °C 
+ kWh 
+ l/min 
+ °C 
+ °C 
+ 07:00 
+ 0,105 
+ 3 
+ 25 
+ 11,2 
+ 48 
+ 40 
+ 22,4 
+ 96 
+ 40 
+ 07:05 
+ 07:15 
+ 1,82 
+ 6 
+ 40 
+ 07:26 
+ 0,105 
+ 3 
+ 25 
+ 07:30 
+ 07:45 
+ 6,24 
+ 16 
+ 10 
+ 40 
+ 08:01 
+ 0,105 
+ 3 
+ 25 
+ 5,04 
+ 24 
+ 25 
+ 10,08 
+ 48 
+ 25 
+ 08:05 
+ 08:15 
+ 0,105 
+ 3 
+ 25 
+ 08:25 
+ 08:30 
+ 0,105 
+ 3 
+ 25 
+ 08:45 
+ 0,105 
+ 3 
+ 25 
+ 09:00 
+ 0,105 
+ 3 
+ 25 
+ 1,68 
+ 24 
+ 25 
+ 3,36 
+ 48 
+ 25 
+ 09:30 
+ 0,105 
+ 3 
+ 25 
+ 10:00 
+ 0,105 
+ 3 
+ 25 
+ 10:30 
+ 0,105 
+ 3 
+ 10 
+ 40 
+ 0,84 
+ 24 
+ 10 
+ 40 
+ 1,68 
+ 48 
+ 10 
+ 40 
+ 11:00 
+ 0,105 
+ 3 
+ 25 
+ 11:30 
+ 0,105 
+ 3 
+ 25 
+ 11:45 
+ 0,105 
+ 3 
+ 25 
+ 1,68 
+ 24 
+ 25 
+ 3,36 
+ 48 
+ 25 
+ 12:00 
+ 12:30 
+ 12:45 
+ 0,735 
+ 4 
+ 10 
+ 55 
+ 2,52 
+ 32 
+ 10 
+ 55 
+ 5,04 
+ 64 
+ 10 
+ 55 
+ 14:30 
+ 0,105 
+ 3 
+ 25 
+ 15:00 
+ 0,105 
+ 3 
+ 25 
+ 15:30 
+ 0,105 
+ 3 
+ 25 
+ 2,52 
+ 24 
+ 25 
+ 5,04 
+ 48 
+ 25 
+ 16:00 
+ 0,105 
+ 3 
+ 25 
+ 16:30 
+ 0,105 
+ 3 
+ 25 
+ 17:00 
+ 0,105 
+ 3 
+ 25 
+ 18:00 
+ 0,105 
+ 3 
+ 25 
+ 18:15 
+ 0,105 
+ 3 
+ 40 
+ 18:30 
+ 0,105 
+ 3 
+ 40 
+ 3,36 
+ 24 
+ 25 
+ 6,72 
+ 48 
+ 25 
+ 19:00 
+ 0,105 
+ 3 
+ 25 
+ 19:30 
+ 20:00 
+ 20:30 
+ 0,735 
+ 4 
+ 10 
+ 55 
+ 5,88 
+ 32 
+ 10 
+ 55 
+ 11,76 
+ 64 
+ 10 
+ 55 
+ 20:45 
+ 20:46 
+ 6,24 
+ 16 
+ 10 
+ 40 
+ 21:00 
+ 21:15 
+ 0,105 
+ 3 
+ 25 
+ 21:30 
+ 6,24 
+ 16 
+ 10 
+ 40 
+ 12,04 
+ 48 
+ 40 
+ 24,08 
+ 96 
+ 40 
+ 21:35 
+ 21:45 
+ Q 
+ ref 
+ 24,53 
+ 46,76 
+ 93,52 
+ 3. 
+ CONDICIONES PARA PROBAR EL CUMPLIMIENTO DEL CONTROL INTELIGENTE (SMART) DE LOS CALENTADORES DE AGUA Cuando el fabricante considere apropiado declarar que el valor smart es «1», se medirá el consumo semanal de electricidad o el consumo semanal de combustible con o sin controles inteligentes aplicando un ciclo de medición de dos semanas, de la forma siguiente: 
+ —  
+ días 1 a 5: secuencia aleatoria de perfiles de carga escogidos entre el perfil de carga declarado y el perfil de carga inmediatamente anterior al perfil de carga declarado, con el control inteligente desactivado, 
+ —  
+ días 6 y 7: ninguna salida de agua, y control inteligente desactivado, 
+ —  
+ días 8 a 12: repetición de la misma secuencia aplicada durante los días 1 a 5, con el control inteligente activado, 
+ —  
+ días 13 y 14: ninguna salida de agua y control inteligente activado, 
+ —  
+ la diferencia entre el contenido de energía útil medido durante los días 1 a 7 y el contenido de energía útil medido durante los días 8 a 14 no superará el 2 % de Q ref 
+ del perfil de carga declarado. 
+ 4. 
+ CONDICIONES PARA PROBAR CALENTADORES DE AGUA SOLARES El colector solar, el depósito de agua caliente solar, la bomba del circuito colector (si procede) y el generador de calor se probarán por separado. Cuando el colector solar y el depósito de agua caliente solar no se puedan probar por separado, se probarán combinados. El generador de calor se probará en las condiciones establecidas en el punto 2 del presente anexo. 
+ Los resultados se utilizarán en los cálculos establecidos en el punto 3.b) del anexo IV en las condiciones señaladas en los cuadros 2 y 3. Para determinar Q tota 
+ se presupondrá que la eficiencia del generador de calor que utiliza el efecto Joule en los elementos calefactores de una resistencia eléctrica es de 100/ CC. 
+ 5. 
+ CONDICIONES PARA PROBAR CALENTADORES DE AGUA CON BOMBA DE CALOR 
+ —  
+ Los calentadores de agua con bomba de calor se probarán en las condiciones establecidas en el cuadro 4. 
+ —  
+ Los calentadores de agua con bomba de calor que utilicen aire extraído de un sistema de ventilación como fuente de calor se probarán en las condiciones establecidas en el cuadro 5. 
+ Cuadro 2 
+ Temperatura diurna media [°C] 
+ Enero 
+ Febrero 
+ Marzo 
+ Abril 
+ Mayo 
+ Junio 
+ Julio 
+ Agosto 
+ Septiembre 
+ Octubre 
+ Noviembre 
+ Diciembre 
+ Condiciones climáticas medias 
+ 2,8 
+ 2,6 
+ 7,4 
+ 12,2 
+ 16,3 
+ 19,8 
+ 21,0 
+ 22,0 
+ 17,0 
+ 11,9 
+ 5,6 
+ 3,2 
+ Cuadro 3 
+ Irradiación solar global media [W/m 2 ] 
+ Enero 
+ Febrero 
+ Marzo 
+ Abril 
+ Mayo 
+ Junio 
+ Julio 
+ Agosto 
+ Septiembre 
+ Octubre 
+ Noviembre 
+ Diciembre 
+ Condiciones climáticas medias 
+ 70 
+ 104 
+ 149 
+ 192 
+ 221 
+ 222 
+ 232 
+ 217 
+ 176 
+ 129 
+ 80 
+ 56 
+ Cuadro 4 
+ Condiciones estándar para los calentadores de agua con bomba de calor, temperaturas expresadas en temperatura del aire de bulbo seco (la temperatura del aire de bulbo húmedo se indica entre paréntesis) 
+ Fuente de calor 
+ Aire exterior 
+ Aire interior 
+ Aire de extracción 
+ Salmuera 
+ Agua 
+ Temperatura 
+ + 7 °C (+ 6 °C) 
+ + 20 °C 
+ (máxima + 15 °C) 
+ + 20 °C 
+ (+ 12 °C) 
+ 0 °C (entrada)/– 3 °C (salida) 
+ + 10 °C (entrada)/+ 7 °C (salida) 
+ Cuadro 5 
+ Máxima disponibilidad de aire de extracción de ventilación [m 3 /h], a una temperatura de 20 °C y con una humedad de 5,5 g/m 3 
+ Perfil de carga declarado 
+ XXS 
+ XS 
+ S 
+ M 
+ L 
+ XL 
+ XXL 
+ 3XL 
+ 4XL 
+ Máxima disponibilidad de aire de extracción de ventilación 
+ 109 
+ 128 
+ 128 
+ 159 
+ 190 
+ 870 
+ 1 021 
+ 2 943 
+ 8 830 
+ 6. 
+ PARÁMETROS TÉCNICOS DE LOS CALENTADORES DE AGUA Se establecerán los siguientes parámetros para los calentadores de agua: 
+ a)  
+ el consumo eléctrico diario Q elec 
+ en kWh, redondeado a tres cifras decimales; 
+ b)  
+ el perfil de carga declarado, expresado con la letra adecuada con arreglo al cuadro 1 del presente anexo; 
+ c)  
+ el nivel de potencia acústica L WA 
+ , en dB, en interior, redondeado al entero más próximo (calentadores de agua con bomba de calor, si procede); 
+ además, en el caso de los calentadores de agua que consumen combustibles fósiles o de biomasa: 
+ d)  
+ el consumo de combustible diario Q fuel 
+ en kWh en términos de GCV , redondeado a tres cifras decimales; 
+ e)  
+ las emisiones de óxidos de nitrógeno, expresadas en dióxido de nitrógeno, en mg/kWh de insumo de combustible en términos de GCV , redondeadas al entero más próximo; 
+ además, en el caso de los calentadores cuyo valor smart declarado sea «1»: 
+ f)  
+ el consumo semanal de combustible con controles inteligentes Q fuel,week,smart 
+ en kWh en términos de GCV , redondeado a tres cifras decimales; 
+ g)  
+ el consumo semanal de electricidad con controles inteligentes Q elec,week,smart 
+ en kWh, redondeado a tres cifras decimales; 
+ h)  
+ el consumo semanal de combustible sin controles inteligentes Q fuel,week 
+ en kWh en términos de GCV , redondeado a tres cifras decimales; 
+ i)  
+ el consumo semanal de electricidad sin controles inteligentes Q elec,week 
+ en kWh, redondeado a tres cifras decimales; 
+ además, en el caso de los calentadores de agua con acumulador con los perfiles de carga declarados 3XS, XXS y XS: 
+ j)  
+ la capacidad V en litros, redondeada a una cifra decimal; 
+ además, en el caso de los calentadores de agua con acumulador con los perfiles de carga declarados M, L, XL, XXL, 3XL y 4XL: 
+ k)  
+ el agua mixta a 40 °C V40 en litros, redondeada al entero más próximo; 
+ además, en el caso de los calentadores de agua solares: 
+ l)  
+ el área de apertura del colector A sol 
+ en m 2 , redondeada a dos cifras decimales; 
+ m)  
+ la eficiencia de pérdida cero η 0 
+ , redondeada a tres cifras decimales; 
+ n)  
+ el coeficiente de primer orden a l 
+ en W/(m 2 K), redondeada a dos cifras decimales; 
+ o)  
+ el coeficiente de segundo orden a 2 
+ en W/(m 2 K 2 ), redondeada a tres cifras decimales; 
+ p)  
+ el modificador del ángulo de incidencia MAI , redondeado a dos cifras decimales; 
+ q)  
+ el consumo de energía de la bomba solpump en W, redondeado a dos cifras decimales; 
+ r)  
+ el consumo de energía en régimen de espera solstandby en W, redondeado a dos cifras decimales; 
+ además, en el caso de los calentadores de agua con bomba de calor: 
+ s)  
+ el nivel de potencia acústica L WA 
+ , en dB, en el exterior, redondeado al entero más próximo. 
+ 7. 
+ PARÁMETROS TÉCNICOS DE LOS DEPÓSITOS DE AGUA CALIENTE Se establecerán los siguientes parámetros para los depósitos de agua caliente: 
+ a)  
+ la capacidad V en litros, redondeada a una cifra decimal; 
+ b)  
+ la pérdida constante S en W, redondeada a una cifra decimal. 
+ ANEXO IV 
+ Cálculos 
+ 1. 
+ A efectos de cumplimiento y de verificación del cumplimiento de los requisitos establecidos en el presente Reglamento, se realizarán cálculos aplicando normas armonizadas cuyos números de referencia hayan sido publicados para este fin en el Diario Oficial de la Unión Europea , u otros métodos de cálculo apropiados que tengan en cuenta los métodos más avanzados generalmente aceptados. Cumplirán los parámetros técnicos y los cálculos establecidos en los puntos 2 a 5. 
+ Los parámetros técnicos utilizados en los cálculos se medirán de acuerdo con el anexo III. 
+ 2. 
+ PARÁMETROS TÉCNICOS DE LOS CALENTADORES DE AGUA Se calcularán los siguientes parámetros para los calentadores de agua en condiciones climáticas medias: 
+ a)  
+ la eficiencia energética del caldeo de agua η wh 
+ en %, redondeada a una cifra decimal; 
+ además, en el caso de los calentadores de agua solares en condiciones climáticas medias: 
+ b)  
+ la contribución térmica no solar anual Q nonsol 
+ en kWh de energía primaria en el caso de la electricidad o en kWh en términos de GCV en el caso de los combustibles, redondeada a una cifra decimal; 
+ c)  
+ la eficiencia energética del caldeo de agua del generador de calor η wh,nonsol 
+ en %, redondeada a una cifra decimal; 
+ d)  
+ el consumo anual de electricidad auxiliar Q aux 
+ en kWh, redondeado a una cifra decimal. 
+ 3. 
+ CÁLCULO DE LA EFICIENCIA ENERGÉTICA DEL CALDEO DE AGUA ηwh 
+ a)   Calentadores de agua convencionales y calentadores de agua con bomba de calor 
+ La eficiencia energética del caldeo de agua se calcula del modo siguiente: 
+ En el caso de los calentadores de agua con bomba de calor agua-agua o salmuera-agua, se tendrá en cuenta el consumo eléctrico de una o más bombas de agua subterránea. 
+ b)   Calentadores de agua solares 
+ La eficiencia energética del caldeo de agua se calcula del modo siguiente: 
+ donde: 
+ 4. 
+ DETERMINACIÓN DEL FACTOR DE CONTROL INTELIGENTE FCI Y DEL CUMPLIMIENTO DEL CONTROL INTELIGENTE smart 
+ a)   El factor de control inteligente se calcula de la siguiente manera: 
+ b)   Si FCI ≥ 0,07, el valor «smart» será 1. En todos los demás casos, el valor «smart» será 0. 
+ 5. 
+ DETERMINACIÓN DEL TÉRMINO DE CORRECCIÓN AMBIENTE Q cor 
+ El término de corrección ambiente se calcula de la siguiente manera: 
+ a)  
+ en el caso de los calentadores de agua convencionales que consumen electricidad: 
+ b)  
+ en el caso de los calentadores de agua convencionales que consumen combustibles: 
+ c)  
+ en el caso de los calentadores de agua con bomba de calor: 
+ donde: 
+ los valores k de cada perfil de carga se indican en el cuadro 6. 
+ Cuadro 6 
+ Valores k 
+ 3XS 
+ XXS 
+ XS 
+ S 
+ M 
+ L 
+ XL 
+ XXL 
+ 3XL 
+ 4XL 
+ k 
+ 0,23 
+ 0,23 
+ 0,23 
+ 0,23 
+ 0,23 
+ 0,23 
+ 0,23 
+ 0,0 
+ 0,0 
+ 0,0 
+ ▼M1 
+ ANEXO V 
+ Verificación de la conformidad del producto por las autoridades de vigilancia del mercado 
+ Las tolerancias de verificación definidas en el presente anexo se refieren únicamente a la verificación de los parámetros medidos por las autoridades del Estado miembro y no serán utilizadas por el fabricante o el importador como tolerancia permitida para establecer los valores indicados en la documentación técnica o para interpretar esos valores a efectos de alcanzar la conformidad o comunicar un mejor rendimiento por cualquier medio. 
+ Al verificar la conformidad de un modelo de producto con los requisitos establecidos en el presente Reglamento en virtud del artículo 3, apartado 2, de la Directiva 2009/125/CE, con respecto a los requisitos recogidos en el presente anexo, las autoridades de los Estados miembros aplicarán el siguiente procedimiento: 
+ 1)  
+ Las autoridades del Estado miembro someterán a verificación una sola unidad del modelo. 
+ 2)  
+ Se considerará que el modelo cumple los requisitos aplicables si: 
+ a)  
+ los valores indicados en la documentación técnica de conformidad con el anexo IV, punto 2, de la Directiva 2009/125/CE (valores declarados), así como, en su caso, los valores utilizados para calcular dichos valores, no son más favorables para el fabricante o el importador que los resultados de las correspondientes mediciones realizadas con arreglo a la letra g) del mismo, y 
+ b)  
+ los valores declarados cumplen los requisitos establecidos en el presente Reglamento, y toda información exigida sobre el producto y publicada por el fabricante o el importador no contiene valores más favorables para el fabricante o el importador que los valores declarados, y 
+ c)  
+ cuando las autoridades del Estado miembro sometan a ensayo la unidad del modelo, los valores determinados (los valores de los parámetros pertinentes medidos en el ensayo y los valores calculados a partir de estas mediciones) cumplen las respectivas tolerancias de verificación, tal como se indica en el cuadro 7. 
+ 3)  
+ Si no se alcanzan los resultados contemplados en el punto 2, letras a) o b), se considerará que el modelo y todos los modelos que figuren como modelos de calentadores de agua o depósitos de agua caliente equivalentes en la documentación técnica del fabricante o del importador no son conformes con el presente Reglamento. 
+ 4)  
+ Si no se obtiene el resultado indicado en el punto 2, letra c), las autoridades del Estado miembro seleccionarán para su ensayo tres unidades más del mismo modelo. Como alternativa, esas tres unidades suplementarias podrán pertenecer a uno o varios modelos diferentes que figuren como modelos equivalentes en la documentación técnica del fabricante o del importador. 
+ 5)  
+ Se considerará que el modelo cumple los requisitos aplicables si, para estas tres unidades, la media aritmética de los valores determinados cumple las respectivas tolerancias de verificación indicadas en el cuadro 7. 
+ 6)  
+ Si no se alcanza el resultado contemplado en el punto 5, se considerará que el modelo y todos los modelos que figuren como modelos de calentadores de agua o depósitos de agua caliente equivalentes en la documentación técnica del fabricante o del importador no son conformes con el presente Reglamento. 
+ 7)  
+ Inmediatamente después de la adopción de la decisión de no conformidad del modelo con arreglo a los puntos 3 y 6, las autoridades del Estado miembro proporcionarán toda la información pertinente a las autoridades de los demás Estados miembros y a la Comisión. 
+ Las autoridades del Estado miembro utilizarán los métodos de medición y cálculo establecidos en el anexo III y el anexo IV. 
+ Las autoridades del Estado miembro solo aplicarán las tolerancias de verificación que se indican en el cuadro 7 y solo utilizarán el procedimiento descrito en los puntos 1 a 7 para los requisitos mencionados en el presente anexo. No se aplicarán otras tolerancias, como las establecidas en las normas armonizadas o en cualquier otro método de medición. 
+ Cuadro 7 
+ Tolerancias de verificación 
+ Parámetros 
+ Tolerancias de verificación 
+ Consumo diario de electricidad, Q 
+ elec 
+ El valor determinado no podrá superar el valor declarado en más del 5 %. 
+ Nivel de potencia acústica ( L 
+ WA ), en interior o exterior 
+ El valor determinado no podrá superar el valor declarado en más de 2 dB. 
+ Consumo diario de combustible, Q 
+ fuel 
+ El valor determinado no podrá superar el valor declarado en más del 5 %. 
+ Emisiones de óxidos de nitrógeno 
+ El valor determinado no podrá superar el valor declarado en más del 20 %. 
+ Consumo semanal de combustible con controles inteligentes, Q 
+ fuel,week,smart 
+ El valor determinado no podrá superar el valor declarado en más del 5 %. 
+ Consumo semanal de electricidad con controles inteligentes, Q 
+ elec,week,smart 
+ El valor determinado no podrá superar el valor declarado en más del 5 %. 
+ Consumo semanal de combustible sin controles inteligentes, Q 
+ fuel,week 
+ El valor determinado no podrá superar el valor declarado en más del 5 %. 
+ Consumo semanal de electricidad sin controles inteligentes, Q 
+ elec,week 
+ El valor determinado no podrá superar el valor declarado en más del 5 %. 
+ Capacidad, V 
+ El valor determinado no podrá ser inferior al valor declarado en más del 2 %. 
+ Agua mixta a 40 °C, V40 
+ El valor determinado no podrá ser inferior al valor declarado en más del 3 %. 
+ Área de apertura del colector, A 
+ sol 
+ El valor determinado no podrá ser inferior al valor declarado en más del 2 %. 
+ Consumo de electricidad de la bomba, solpump 
+ El valor determinado no podrá superar el valor declarado en más del 3 %. 
+ Consumo de electricidad en régimen de espera, solstandby 
+ El valor determinado no podrá superar el valor declarado en más del 5 %. 
+ Pérdida constante, S 
+ El valor determinado no podrá superar el valor declarado en más del 5 %. 
+ ▼B 
+ ANEXO VI 
+ Parámetros de referencia indicativos mencionados en el artículo 6 
+ En el momento de la entrada en vigor del presente Reglamento, la mejor tecnología disponible en el mercado para calentadores de agua y depósitos de agua caliente, en términos de eficiencia energética del caldeo de agua, nivel de potencia acústica, pérdidas en régimen de reserva y emisiones de óxidos de nitrógeno, se consideraba que era la siguiente: 
+ 1.  
+ CRITERIOS DE REFERENCIA DE LA EFICIENCIA ENERGÉTICA DEL CALDEO DE AGUA DE LOS CALENTADORES DE AGUA: 
+ Perfil de carga declarado 
+ 3XS 
+ XXS 
+ XS 
+ S 
+ M 
+ L 
+ XL 
+ XXL 
+ 3XL 
+ 4XL 
+ Eficiencia energética del caldeo de agua 
+ 35 % 
+ 35 % 
+ 38 % 
+ 38 % 
+ 75 % 
+ 110 % 
+ 115 % 
+ 120 % 
+ 130 % 
+ 130 % 
+ 2.  
+ PARÁMETROS DE REFERENCIA DEL NIVEL DE POTENCIA ACÚSTICA ( L WA 
+ ), EN EXTERIOR, DE LOS CALENTADORES DE AGUA CON BOMBA DE CALOR: 
+ a)  
+ potencia calorífica nominal ≤ 6 kW: 39 dB; 
+ b)  
+ potencia calorífica nominal > 6 kW y ≤ 12 kW: 40 dB; 
+ c)  
+ potencia calorífica nominal > 12 kW y ≤ 30 kW: 41 dB; 
+ d)  
+ potencia calorífica nominal > 30 kW y ≤ 70 kW: 67 dB. 
+ 3.  
+ PARÁMETRO COMPARATIVO DE LA PÉRDIDA CONSTANTE DE LOS DEPÓSITOS DE AGUA CALIENTE CON UNA CAPACIDAD V EN LITROS: 
+ 4.  
+ PARÁMETRO DE REFERENCIA DE LAS EMISIONES DE ÓXIDOS DE NITRÓGENO, EXPRESADAS EN ÓXIDO DE NITRÓGENO, DE CALENTADORES DE AGUA CONVENCIONALES QUE CONSUMEN COMBUSTIBLES GASEOSOS: 
+ 35 mg/kWh de insumo de combustible en términos de GCV . 
+ Los parámetros de referencia especificados en los puntos 1, 2 y 4 no implican necesariamente que se pueda conseguir una combinación de estos valores en un mismo calentador de agua. 
+ ( 
+ 1 
+ ) 
+ DO L 334 de 17.12.2010, p. 17. 
+ ( 
+ 2 
+ ) Véase la página 136 del presente Diario Oficial. 
+ ( 
+ 3 
+ ) 
+ DO L 315 de 14.11.2012, p. 1. 

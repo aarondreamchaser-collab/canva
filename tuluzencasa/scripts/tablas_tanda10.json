@@ -1,0 +1,533 @@
+{
+ "pr_potencias": {
+  "headers": [
+   "Interruptor del circuito (230 V)",
+   "Potencia",
+   "Autonomía por hora de carga",
+   "Horas para 100 km",
+   "Horas para 30 kWh"
+  ],
+  "rows": [
+   [
+    "10 A",
+    "2.300 W",
+    "15 km",
+    "6,5 h",
+    "13,0 h"
+   ],
+   [
+    "16 A",
+    "3.680 W",
+    "25 km",
+    "4,1 h",
+    "8,2 h"
+   ],
+   [
+    "20 A",
+    "4.600 W",
+    "31 km",
+    "3,3 h",
+    "6,5 h"
+   ],
+   [
+    "32 A",
+    "7.360 W",
+    "49 km",
+    "2,0 h",
+    "4,1 h"
+   ],
+   [
+    "40 A",
+    "9.200 W",
+    "61 km",
+    "1,6 h",
+    "3,3 h"
+   ]
+  ]
+ },
+ "pr_deduccion": {
+  "headers": [
+   "Lo que pagas por la instalación",
+   "Base de la deducción (máx. 4.000 €)",
+   "Deducción del 15 %",
+   "Coste final"
+  ],
+  "rows": [
+   [
+    "1.000,00 €",
+    "1.000,00 €",
+    "150,00 €",
+    "850,00 €"
+   ],
+   [
+    "2.000,00 €",
+    "2.000,00 €",
+    "300,00 €",
+    "1.700,00 €"
+   ],
+   [
+    "3.000,00 €",
+    "3.000,00 €",
+    "450,00 €",
+    "2.550,00 €"
+   ],
+   [
+    "4.000,00 €",
+    "4.000,00 €",
+    "600,00 €",
+    "3.400,00 €"
+   ],
+   [
+    "5.000,00 €",
+    "4.000,00 €",
+    "600,00 €",
+    "4.400,00 €"
+   ]
+  ]
+ },
+ "irpf_tipos": {
+  "headers": [
+   "Qué",
+   "Deducción",
+   "Base máxima al año",
+   "Deducción máxima al año",
+   "Plazo",
+   "Requisito"
+  ],
+  "rows": [
+   [
+    "Obras que reducen la demanda de calefacción y refrigeración de tu vivienda",
+    "20 %",
+    "5.000,00 €",
+    "1.000,00 €",
+    "Pagadas hasta el 31-12-2026",
+    "Al menos un 7 % menos de demanda"
+   ],
+   [
+    "Obras que reducen el consumo de energía primaria no renovable de tu vivienda",
+    "40 %",
+    "7.500,00 €",
+    "3.000,00 €",
+    "Pagadas hasta el 31-12-2026",
+    "Un 30 % menos, o letra A o B"
+   ],
+   [
+    "Rehabilitación energética de todo el edificio",
+    "60 %",
+    "5.000,00 €",
+    "3.000,00 €",
+    "Pagadas hasta el 31-12-2027",
+    "Un 30 % menos, o letra A o B; base acumulada máx. 15.000 €"
+   ],
+   [
+    "Placas de autoconsumo en un inmueble tuyo",
+    "10 %",
+    "5.000,00 €",
+    "500,00 €",
+    "Instalación terminada en 2026",
+    "Certificado de instalación eléctrica"
+   ],
+   [
+    "Placas de autoconsumo en un edificio residencial",
+    "20 %",
+    "5.000,00 €",
+    "1.000,00 €",
+    "Instalación terminada en 2026",
+    "Certificado de instalación eléctrica"
+   ],
+   [
+    "Punto de recarga en un inmueble tuyo",
+    "15 %",
+    "4.000,00 €",
+    "600,00 €",
+    "Instalación terminada en 2026",
+    "No afecto a una actividad económica"
+   ]
+  ]
+ },
+ "irpf_ejemplos": {
+  "headers": [
+   "Lo que pagas",
+   "Obra de demanda (20 %)",
+   "Obra de consumo (40 %)",
+   "Placas en tu casa (10 %)",
+   "Punto de recarga (15 %)"
+  ],
+  "rows": [
+   [
+    "3.000,00 €",
+    "600,00 €",
+    "1.200,00 €",
+    "300,00 €",
+    "450,00 €"
+   ],
+   [
+    "6.000,00 €",
+    "1.000,00 €",
+    "2.400,00 €",
+    "500,00 €",
+    "600,00 €"
+   ],
+   [
+    "10.000,00 €",
+    "1.000,00 €",
+    "3.000,00 €",
+    "500,00 €",
+    "600,00 €"
+   ]
+  ]
+ },
+ "irpf_edificio": {
+  "headers": [
+   "Ejercicio",
+   "Base de la deducción",
+   "Deducción del 60 %"
+  ],
+  "rows": [
+   [
+    "Año 1",
+    "5.000,00 €",
+    "3.000,00 €"
+   ],
+   [
+    "Año 2",
+    "5.000,00 €",
+    "3.000,00 €"
+   ],
+   [
+    "Año 3",
+    "5.000,00 €",
+    "3.000,00 €"
+   ],
+   [
+    "Total",
+    "15.000,00 €",
+    "9.000,00 €"
+   ]
+  ]
+ },
+ "pc_comunidades": {
+  "headers": [
+   "Comunidad",
+   "Capital",
+   "kWh al año por kWp",
+   "Producción de 3 kWp",
+   "Ahorro al año (3 kWp, 40 %)"
+  ],
+  "rows": [
+   [
+    "Canarias",
+    "Santa Cruz de Tenerife",
+    "1.765",
+    "5.294",
+    "407,82 €"
+   ],
+   [
+    "Andalucía",
+    "Sevilla",
+    "1.653",
+    "4.958",
+    "479,36 €"
+   ],
+   [
+    "Comunidad de Madrid",
+    "Madrid",
+    "1.622",
+    "4.865",
+    "466,59 €"
+   ],
+   [
+    "Castilla-La Mancha",
+    "Toledo",
+    "1.619",
+    "4.858",
+    "467,80 €"
+   ],
+   [
+    "Aragón",
+    "Zaragoza",
+    "1.619",
+    "4.856",
+    "463,02 €"
+   ],
+   [
+    "Melilla",
+    "Melilla",
+    "1.614",
+    "4.841",
+    "—"
+   ],
+   [
+    "Extremadura",
+    "Mérida",
+    "1.608",
+    "4.823",
+    "464,77 €"
+   ],
+   [
+    "Región de Murcia",
+    "Murcia",
+    "1.606",
+    "4.817",
+    "475,77 €"
+   ],
+   [
+    "Ceuta",
+    "Ceuta",
+    "1.602",
+    "4.807",
+    "—"
+   ],
+   [
+    "Canarias",
+    "Las Palmas de G. C.",
+    "1.598",
+    "4.794",
+    "405,47 €"
+   ],
+   [
+    "Comunitat Valenciana",
+    "Valencia",
+    "1.597",
+    "4.790",
+    "471,23 €"
+   ],
+   [
+    "Illes Balears",
+    "Palma",
+    "1.566",
+    "4.699",
+    "457,50 €"
+   ],
+   [
+    "Castilla y León",
+    "Valladolid",
+    "1.548",
+    "4.645",
+    "446,12 €"
+   ],
+   [
+    "Cataluña",
+    "Barcelona",
+    "1.544",
+    "4.631",
+    "456,03 €"
+   ],
+   [
+    "La Rioja",
+    "Logroño",
+    "1.413",
+    "4.240",
+    "431,36 €"
+   ],
+   [
+    "Navarra",
+    "Pamplona",
+    "1.390",
+    "4.171",
+    "423,55 €"
+   ],
+   [
+    "Galicia",
+    "Santiago de Compostela",
+    "1.294",
+    "3.881",
+    "408,29 €"
+   ],
+   [
+    "País Vasco",
+    "Vitoria-Gasteiz",
+    "1.259",
+    "3.778",
+    "401,90 €"
+   ],
+   [
+    "Cantabria",
+    "Santander",
+    "1.181",
+    "3.543",
+    "394,67 €"
+   ],
+   [
+    "Asturias",
+    "Oviedo",
+    "1.174",
+    "3.522",
+    "393,71 €"
+   ]
+  ]
+ },
+ "pc_meses": {
+  "headers": [
+   "Mes",
+   "Santa Cruz de Tenerife (3 kWp)",
+   "Madrid (3 kWp)",
+   "Oviedo (3 kWp)"
+  ],
+  "rows": [
+   [
+    "Ene",
+    "379 kWh",
+    "304 kWh",
+    "201 kWh"
+   ],
+   [
+    "Feb",
+    "374 kWh",
+    "330 kWh",
+    "240 kWh"
+   ],
+   [
+    "Mar",
+    "465 kWh",
+    "417 kWh",
+    "317 kWh"
+   ],
+   [
+    "Abr",
+    "472 kWh",
+    "432 kWh",
+    "331 kWh"
+   ],
+   [
+    "May",
+    "484 kWh",
+    "472 kWh",
+    "349 kWh"
+   ],
+   [
+    "Jun",
+    "477 kWh",
+    "483 kWh",
+    "330 kWh"
+   ],
+   [
+    "Jul",
+    "518 kWh",
+    "521 kWh",
+    "356 kWh"
+   ],
+   [
+    "Ago",
+    "515 kWh",
+    "503 kWh",
+    "364 kWh"
+   ],
+   [
+    "Sep",
+    "468 kWh",
+    "442 kWh",
+    "342 kWh"
+   ],
+   [
+    "Oct",
+    "426 kWh",
+    "375 kWh",
+    "286 kWh"
+   ],
+   [
+    "Nov",
+    "359 kWh",
+    "292 kWh",
+    "202 kWh"
+   ],
+   [
+    "Dic",
+    "357 kWh",
+    "295 kWh",
+    "203 kWh"
+   ]
+  ]
+ },
+ "ta_madrid": {
+  "headers": [
+   "Equipo",
+   "kWh de agua caliente por kWh de luz",
+   "Luz al año",
+   "Al mes",
+   "Al año",
+   "Ahorro al año frente al mínimo legal"
+  ],
+  "rows": [
+   [
+    "Termo eléctrico (mínimo legal, 36 %)",
+    "0,90",
+    "1.861 kWh",
+    "25,59 €",
+    "307,02 €",
+    "—"
+   ],
+   [
+    "Termo eléctrico ideal, sin pérdidas (40 %)",
+    "1,00",
+    "1.675 kWh",
+    "23,03 €",
+    "276,32 €",
+    "30,70 €"
+   ],
+   [
+    "Termo aerotérmico con ηwh 100 %",
+    "2,50",
+    "670 kWh",
+    "9,21 €",
+    "110,53 €",
+    "196,49 €"
+   ],
+   [
+    "Termo aerotérmico con ηwh 125 %",
+    "3,13",
+    "536 kWh",
+    "7,37 €",
+    "88,42 €",
+    "218,60 €"
+   ],
+   [
+    "Termo aerotérmico con ηwh 150 %",
+    "3,75",
+    "447 kWh",
+    "6,14 €",
+    "73,69 €",
+    "233,34 €"
+   ]
+  ]
+ },
+ "ta_ciudades": {
+  "headers": [
+   "Capital",
+   "Agua caliente al año",
+   "Termo eléctrico (36 %)",
+   "Aerotérmico (125 %)",
+   "Ahorro al año"
+  ],
+  "rows": [
+   [
+    "Burgos",
+    "1.779 kWh",
+    "326,08 €",
+    "93,91 €",
+    "232,17 €"
+   ],
+   [
+    "Madrid",
+    "1.675 kWh",
+    "307,02 €",
+    "88,42 €",
+    "218,60 €"
+   ],
+   [
+    "Sevilla",
+    "1.586 kWh",
+    "290,69 €",
+    "83,72 €",
+    "206,97 €"
+   ],
+   [
+    "Las Palmas de G. C.",
+    "1.529 kWh",
+    "232,17 €",
+    "66,86 €",
+    "165,30 €"
+   ]
+  ]
+ }
+}

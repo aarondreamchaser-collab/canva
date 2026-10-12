@@ -1,0 +1,100 @@
+title: Punto de recarga en casa y en garaje comunitario: qué dice la norma
+title_seo: Punto de recarga en casa y en garaje comunitario: normativa
+excerpt: Punto de recarga en casa: con 7.360 W recargas 49 km por hora, en tu plaza basta avisar a la comunidad y Hacienda devuelve hasta 600 €.
+category: coche-electrico
+keyword: punto de recarga
+---
+Un punto de recarga en casa necesita un circuito propio para el coche, hecho por una empresa instaladora autorizada con su documentación técnica, como marca la instrucción ITC-BT-52 del Reglamento de baja tensión. Con 7.360 W, uno de los escalones que fija la norma, recuperas unos 49 km por cada hora de carga, y si tu plaza está en un garaje comunitario solo tienes que comunicarlo antes a la comunidad.
+
+En este artículo vemos qué exige la norma en una casa y en un garaje compartido, qué potencia elegir y cuánto te devuelve Hacienda. El coste de cada carga lo calculamos aparte, con <strong>0,165 €/kWh con impuestos</strong>, en <a href="https://tuluzencasa.com/cuanto-cuesta-cargar-coche-electrico-casa/">cuánto cuesta cargar un coche eléctrico en casa</a>.
+
+## Punto de recarga: qué norma se aplica {#norma}
+
+La recarga del coche eléctrico está regulada en la instrucción técnica ITC-BT-52, que añadió al Reglamento electrotécnico para baja tensión el Real Decreto 1053/2014. Lo esencial para tu casa:
+
+- <strong>Un circuito exclusivo para la recarga</strong>, el C13, con su propio interruptor diferencial. No se puede colgar el cargador de un enchufe cualquiera de la casa.
+- <strong>Documentación técnica antes de ejecutarlo</strong>: el instalador o el proyectista preparan una memoria técnica de diseño o un proyecto, según el caso, en la que indican el esquema de conexión que van a usar.
+- <strong>Un instalador autorizado</strong>, que al terminar emite el certificado de la instalación. Te explicamos qué es en <a href="https://tuluzencasa.com/boletin-electrico/">boletín eléctrico</a>.
+
+Lo que puedes hacer tú sin riesgo es elegir el cargador, mirar la potencia que tienes contratada y la del interruptor general de tu cuadro sin abrirlo, y pedir presupuestos. Todo lo que sea tocar el cuadro o tender cables es trabajo del instalador.
+
+## Qué potencia elegir {#potencia}
+
+La ITC-BT-52 fija los escalones normalizados del circuito de recarga de una vivienda. En monofásico, a 230 V:
+
+{{T:pr_potencias}}
+
+Calculado con un coche que gasta 15 kWh cada 100 km y sin contar las pérdidas de la carga. Un circuito monofásico de recarga no puede pasar de 9.200 W; por encima, la instalación tiene que ser trifásica.
+
+- <strong>Con 3.680 W</strong>, la potencia de un enchufe de 16 A, recuperas unos 25 km por hora: en una noche de 8 horas, unos 196 km.
+- <strong>Con 7.360 W</strong> cargas el doble de rápido, pero necesitas más potencia contratada, o un cargador que reparta la potencia con el resto de la casa.
+
+{{CAJA:Dato clave}}
+Cargar más rápido no cuesta menos: 100 km gastan los mismos 15 kWh a 3.680 W que a 7.360 W. Lo que baja el precio es cargar en valle: 2,48 € cada 100 km a precio fijo, frente a 1,53 € de 0 a 8 h con una tarifa por horas.
+{{/CAJA}}
+
+## En una vivienda unifamiliar {#unifamiliar}
+
+En una casa con garaje o zona para aparcar, la norma pide el circuito C13 con el esquema 4a: un circuito adicional que sale del cuadro de la vivienda, con el mismo contador que el resto de la casa. Las viviendas unifamiliares nuevas que tienen aparcamiento lo llevan desde la construcción, y las existentes que quieren instalar un cargador se ajustan a las mismas reglas.
+
+No hace falta proyecto mientras la instalación de recarga no pase de 50 kW, salvo que el punto esté en el exterior y supere 10 kW o que use el modo de carga 4, con un cargador externo que entrega corriente continua. En una casa normal basta con la memoria técnica que prepara el instalador.
+
+## En un garaje comunitario {#garaje-comunitario}
+
+Si tu plaza es individual y está en el garaje de tu edificio, la Ley de Propiedad Horizontal es clara:
+
+- <strong>Solo necesitas comunicarlo antes a la comunidad</strong>. No hace falta votación ni permiso de los vecinos.
+- <strong>El coste de la instalación y la electricidad que gastes</strong> los pagas tú.
+
+La ITC-BT-52 da varios esquemas para conectar la recarga en un garaje compartido:
+
+- <strong>Esquema colectivo</strong> (1a, 1b y 1c): un contador principal común para la recarga de todo el garaje, en la centralización de contadores o en un armario nuevo.
+- <strong>Esquema 2</strong>: un contador común para tu vivienda y tu punto de recarga. Pagas la carga en tu factura de siempre, con tu potencia contratada.
+- <strong>Esquema 3</strong> (3a y 3b): un contador propio para cada punto de recarga, en la centralización.
+- <strong>Esquema 4b</strong>: la recarga se alimenta como parte de la instalación de servicios generales del garaje.
+
+Si hay que ampliar la centralización, la norma pide usar primero los módulos de reserva que ya existan. Y los garajes con preinstalación tienen tubos para los cables desde la centralización de contadores por las vías principales del aparcamiento, y en algunos casos hasta cada plaza, lo que abarata mucho la obra.
+
+Cuando el garaje tiene ventilación forzada, o más de 5 plazas con ventilación natural, su instalación eléctrica es de las que necesitan proyecto. Para un punto de recarga nuevo en un edificio de viviendas que ya existe, la norma no exige proyecto si la instalación de recarga no pasa de los límites del apartado anterior.
+
+## Cuánto te devuelve Hacienda {#deduccion}
+
+La Ley del IRPF permite deducir el 15 % de lo que pagues por instalar un sistema de recarga en un inmueble de tu propiedad, con una base máxima de 4.000 € al año. La instalación tiene que terminar, como tarde, en 2026, y el pago no puede ser en efectivo.
+
+{{T:pr_deduccion}}
+
+La deducción máxima es de 600 €, y se aplica en la declaración del año en el que termina la instalación. Si recibes una subvención, se resta antes de calcularla.
+
+## Trucos para que la instalación salga bien {#trucos}
+
+- <strong>Antes de comprar el cargador, mira tu potencia contratada</strong>: si ya vas justo, un cargador que regule su potencia según lo que gasta la casa te evita subirla. Te ayudamos a calcularla en <a href="https://tuluzencasa.com/que-potencia-contratar/">qué potencia contratar</a>.
+- <strong>En el garaje comunitario, comunícalo por escrito</strong> al presidente o al administrador y guarda la fecha.
+- <strong>Pregunta si el edificio tiene preinstalación</strong>: los tubos ya tendidos ahorran obra.
+- <strong>Pide que el presupuesto diga el esquema de conexión</strong> y si incluye la memoria técnica y el certificado.
+- <strong>Paga con tarjeta o transferencia</strong> y guarda la factura: sin ellas no hay deducción.
+
+## Preguntas frecuentes {#preguntas-frecuentes}
+
+### ¿Necesito permiso de la comunidad para poner un cargador en mi plaza?
+
+No, si la plaza es individual. Basta con comunicarlo antes a la comunidad. Tú pagas la instalación y la luz que gastes.
+
+### ¿Puedo cargar el coche en un enchufe normal?
+
+La norma pide un circuito exclusivo para la recarga, con su propio diferencial. Un enchufe de la casa compartido con otros aparatos no es una instalación de recarga.
+
+### ¿Qué potencia de cargador necesito en casa?
+
+Depende de los kilómetros que hagas. Con 3.680 W recuperas unos 25 km por hora de carga; con 7.360 W, unos 49 km. Si en un día haces menos de unos 196 km, una noche de 8 horas a 3.680 W te basta.
+
+### ¿Cuánto me deduzco en el IRPF por el punto de recarga?
+
+El 15 % de lo que pagues, con una base máxima de 4.000 € al año: hasta 600 €. La instalación tiene que terminar como tarde en 2026.
+
+Fuentes oficiales consultadas el 12 de octubre de 2026:
+
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2014-13681" target="_blank" rel="noopener">Real Decreto 1053/2014</a>, instrucción técnica ITC-BT-52 y modificación de la ITC-BT-04 (instalaciones que necesitan proyecto).
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906" target="_blank" rel="noopener">Ley 49/1960, de Propiedad Horizontal</a>, artículo 17.5.
+- <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" target="_blank" rel="noopener">Ley 35/2006 del IRPF</a>, disposición adicional quincuagésima octava, en la redacción del Real Decreto-ley 7/2026.
+
+<strong>Calcula tu caso exacto con <a href="https://tuluzencasa.com/calculadora-consumo-electrico/">nuestra calculadora de consumo</a></strong>: añade el coche eléctrico con las horas de carga y mira cuánto pesa en tu factura.

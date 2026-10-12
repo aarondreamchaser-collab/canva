@@ -204,5 +204,21 @@
  "luz-en-canarias": {
   "id": 377,
   "rankmath_status": 200
+ },
+ "punto-recarga-garaje-normativa": {
+  "id": 378,
+  "rankmath_status": 200
+ },
+ "deducciones-irpf-eficiencia-energetica": {
+  "id": 379,
+  "rankmath_status": 200
+ },
+ "placas-solares-produccion-comunidad": {
+  "id": 380,
+  "rankmath_status": 200
+ },
+ "termo-aerotermico-consumo": {
+  "id": 381,
+  "rankmath_status": 200
  }
 }
