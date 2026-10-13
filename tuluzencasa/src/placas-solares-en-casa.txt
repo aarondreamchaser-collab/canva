@@ -34,7 +34,7 @@ La producción depende sobre todo del sol de tu zona. Esto es lo que calcula PVG
 
 {{T:placas_produccion}}
 
-En Bilbao, cada kWp produce alrededor de un 30 % menos que en Sevilla. La orientación y las sombras también cuentan mucho: un tejado orientado al este o al oeste produce menos que uno al sur, y una chimenea o un árbol que dé sombra a parte de los paneles puede rebajar la producción de varios a la vez. Puedes calcular tu tejado en <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS</a>, poniendo tu dirección y la orientación de tus placas.
+En Bilbao, cada kWp produce alrededor de un 30 % menos que en Sevilla: lo calculamos para las tres capitales vascas en <a href="https://tuluzencasa.com/luz-en-pais-vasco/">luz en el País Vasco</a>, y para todas las comunidades en <a href="https://tuluzencasa.com/placas-solares-produccion-comunidad/">cuánto producen las placas solares en cada comunidad</a>. La orientación y las sombras también cuentan mucho: un tejado orientado al este o al oeste produce menos que uno al sur, y una chimenea o un árbol que dé sombra a parte de los paneles puede rebajar la producción de varios a la vez. Puedes calcular tu tejado en <a href="https://re.jrc.ec.europa.eu/pvg_tools/es/" target="_blank" rel="noopener">PVGIS</a>, poniendo tu dirección y la orientación de tus placas.
 
 ## Cuánto ahorras: autoconsumo y excedentes {#ahorro}
 

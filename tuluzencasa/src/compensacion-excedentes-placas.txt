@@ -27,7 +27,7 @@ Mes a mes, con 3 kWp en Madrid:
 
 {{T:ex_meses}}
 
-De noviembre a febrero se compensa todo. De marzo a octubre, parte de los excedentes no cabe en la factura: en julio, 16,99 € de excedentes no se descuentan. En el año son 77,24 € que la casa de ejemplo regala a la red.
+De noviembre a febrero se compensa todo. De marzo a octubre, parte de los excedentes no cabe en la factura: en julio, 16,99 € de excedentes no se descuentan. En el año son 77,24 € que la casa de ejemplo regala a la red. Cómo cambia la producción de una comunidad a otra lo tienes en <a href="https://tuluzencasa.com/placas-solares-produccion-comunidad/">cuánto producen las placas solares en cada comunidad</a>.
 
 {{CAJA:Dato clave}}
 El tope es sobre la energía, no sobre la factura. Aunque tu factura sea de 40 €, si la parte de energía tomada de la red es de 10 €, eso es lo máximo que te pueden descontar ese mes.
