@@ -230,7 +230,22 @@ add_action( 'generate_before_footer', function () {
 		. '<li><a href="' . $u( '/contacto/' ) . '">Contacto</a></li>'
 		. '<li><a href="' . $u( '/aviso-legal/' ) . '">Aviso legal</a></li>'
 		. '<li><a href="' . $u( '/politica-de-privacidad/' ) . '">Política de privacidad</a></li>'
-		. '<li><a href="' . $u( '/politica-de-cookies/' ) . '">Política de cookies</a></li></ul></div>'
+		. '<li><a href="' . $u( '/politica-de-cookies/' ) . '">Política de cookies</a></li>'
+		. '<li><a href="' . $u( '/politica-de-cookies/' ) . '" class="tl-cookies-conf">Configurar cookies</a></li></ul></div>'
 		. '</div><div class="tl-pie-base"><span>© ' . esc_html( wp_date( 'Y' ) ) . ' Tu luz en casa</span>'
 		. '<span>Precio de referencia: 0,165 €/kWh con impuestos. Cambia por el de tu factura.</span></div></footer>';
 } );
+
+/* ===================== Ajustes de la auditoría (13-10-2026) ===================== */
+
+/* 11. «Configurar cookies»: reabre el mensaje de consentimiento de Google (Privacidad y mensajes de AdSense).
+   Si el mensaje no se ha cargado (por ejemplo, visitas de fuera de Europa), el enlace lleva a la política de cookies. */
+add_action( 'wp_footer', function () {
+	echo '<script>document.addEventListener("click",function(e){var a=e.target.closest?e.target.closest(".tl-cookies-conf"):null;if(!a){return;}var fc=window.googlefc;if(fc&&typeof fc.showRevocationMessage==="function"){e.preventDefault();fc.callbackQueue=fc.callbackQueue||[];fc.callbackQueue.push(fc.showRevocationMessage);}});</script>';
+}, 99 );
+
+/* 12. Barra inferior sin «Creado con GeneratePress» */
+add_filter( 'generate_copyright', function () {
+	return '<span class="copyright">&copy; ' . esc_html( wp_date( 'Y' ) ) . ' Tu luz en casa</span>';
+} );
+

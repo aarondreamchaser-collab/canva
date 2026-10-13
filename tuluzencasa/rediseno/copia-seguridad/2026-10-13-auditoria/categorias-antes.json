@@ -1,0 +1,23 @@
+[
+ {
+  "id": 9,
+  "count": 2,
+  "description": "Cuánto cuesta cargar el coche en casa, qué potencia necesitas y cómo instalar el cargador.",
+  "name": "Coche eléctrico",
+  "slug": "coche-electrico"
+ },
+ {
+  "id": 26,
+  "count": 9,
+  "description": "La luz en cada comunidad autónoma: distribuidora, producción solar, ayudas vigentes y clima.",
+  "name": "Luz por comunidades",
+  "slug": "luz-por-comunidades"
+ },
+ {
+  "id": 8,
+  "count": 3,
+  "description": "Precio, amortización y funcionamiento del autoconsumo solar en una vivienda.",
+  "name": "Placas solares",
+  "slug": "placas-solares"
+ }
+]

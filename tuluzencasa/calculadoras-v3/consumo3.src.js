@@ -122,8 +122,8 @@
     S.items.forEach(function(it,j){var a=byId[it.id];if(!a.alt)return;var ahm=T.costs[j]*(1-a.alt.k);if(ahm*12<5)return;alts.push({a:a,ah:ahm*12,me:a.alt.c/ahm});});
     alts.sort(function(x,y){return y.ah-x.ah;});
     alts.slice(0,2).forEach(function(o){
-      if(o.me<=36) out.push({c:'ahorro',k:'Cambio que compensa',s:o.ah,t:'Sustituye: '+lc(o.a.n),x:'Pasar a '+o.a.alt.n+' cuesta unos '+eur0(o.a.alt.c)+' € y se paga solo en '+plazo(o.me)+'.'+(o.a.alt.nota?' '+o.a.alt.nota:'')});
-      else out.push({c:'dato',k:'No compensa',t:'Cambiar '+lc(o.a.n),x:'Ahorrarías unos '+eur0(o.ah)+' € al año, pero tardarías '+plazo(o.me)+' en recuperar los '+eur0(o.a.alt.c)+' € que cuesta.'});
+      if(o.me<=36) out.push({c:'ahorro',k:'Cambio que compensa',s:o.ah,t:'Sustituye: '+lc(o.a.n),x:'Pasar a '+o.a.alt.n+' cuesta unos '+eur0(o.a.alt.c)+' € (precio de ejemplo; mira el de tu tienda) y se paga solo en '+plazo(o.me)+'.'+(o.a.alt.nota?' '+o.a.alt.nota:'')});
+      else out.push({c:'dato',k:'No compensa',t:'Cambiar '+lc(o.a.n),x:'Ahorrarías unos '+eur0(o.ah)+' € al año, pero tardarías '+plazo(o.me)+' en recuperar los '+eur0(o.a.alt.c)+' € que cuesta (precio de ejemplo).'});
     });
     if(T.ene>0){var im=0;T.costs.forEach(function(c,j){if(c>T.costs[im])im=j;});
       out.push({c:'dato',k:'Dato',t:'Tu mayor gasto: '+lc(byId[S.items[im].id].n),x:'Es el '+Math.round(T.costs[im]/T.ene*100)+' % de lo que pagas por tus aparatos: '+eur(T.costs[im])+' € al mes.'});}
