@@ -7,7 +7,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'ESPABILAO_VERSION', '3.0.0' );
+define( 'ESPABILAO_VERSION', '3.1.0' );
 define( 'ESPABILAO_DIR', get_template_directory() );
 define( 'ESPABILAO_URI', get_template_directory_uri() );
 

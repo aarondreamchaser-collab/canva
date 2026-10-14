@@ -3,7 +3,7 @@ Contributors: espabilao
 Requires at least: 6.3
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 3.0.0
+Stable tag: 3.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,6 +52,10 @@ Código: GPLv2 o posterior.
 Fuentes: Bricolage Grotesque y Figtree, SIL Open Font License 1.1 (assets/fonts/OFL-*.txt).
 
 == Registro de cambios ==
+= 3.1.0 =
+* Capa de animaciones (Apariencia > Personalizar > Espabilao > Animaciones): aparición escalonada al desplazarse, sellos de veredicto que «golpean», iconos que se dibujan, marcador que crece, contadores, subrayado del titular, manchas de color en la portada, efecto 3D, foco de luz y botones magnéticos, buscador que escribe preguntas solo, cabecera que se esconde al bajar, botón «volver arriba» con anillo de progreso y transiciones entre páginas.
+* Se desactiva sola con «reducir movimiento» y no oculta nada si falla el JavaScript.
+
 = 3.0.0 =
 * Megamenú «Seguros» con los diez tipos y acceso a las herramientas.
 * Portada de cada tipo de seguro: datos, marcador de veredictos, contenidos por sección, herramientas útiles y listado completo.

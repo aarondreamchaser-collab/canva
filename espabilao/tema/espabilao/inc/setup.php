@@ -51,6 +51,11 @@ add_action( 'after_setup_theme', function () {
 add_action( 'wp_enqueue_scripts', function () {
 	wp_enqueue_style( 'espabilao', ESPABILAO_URI . '/assets/css/espabilao.css', array(), ESPABILAO_VERSION );
 	wp_enqueue_script( 'espabilao', ESPABILAO_URI . '/assets/js/espabilao.js', array(), ESPABILAO_VERSION, array( 'strategy' => 'defer', 'in_footer' => true ) );
+	if ( espabilao_opcion( 'animaciones' ) ) {
+		wp_enqueue_script( 'espabilao-movimiento', ESPABILAO_URI . '/assets/js/movimiento.js', array(), ESPABILAO_VERSION, array( 'strategy' => 'defer', 'in_footer' => true ) );
+		$preguntas = array_values( array_filter( array_map( 'trim', explode( '|', (string) espabilao_opcion( 'preguntas' ) ) ) ) );
+		wp_add_inline_script( 'espabilao-movimiento', 'window.espabilaoPreguntas=' . wp_json_encode( $preguntas ) . ';', 'before' );
+	}
 
 	// Estilos de bloques solo cuando se usan.
 	wp_dequeue_style( 'classic-theme-styles' );
@@ -65,6 +70,9 @@ add_action( 'wp_head', function () {
 		printf( '<link rel="preload" href="%s" as="font" type="font/woff2" crossorigin>' . "\n", esc_url( ESPABILAO_URI . '/assets/fonts/' . $fuente ) );
 	}
 	echo '<meta name="theme-color" content="#ffffff">' . "\n";
+	if ( espabilao_opcion( 'transiciones' ) ) {
+		echo '<style>@media (prefers-reduced-motion:no-preference){@view-transition{navigation:auto}}</style>' . "\n";
+	}
 }, 1 );
 
 /**
@@ -107,5 +115,6 @@ add_filter( 'excerpt_more', function () {
  * Clase para saber si hay JavaScript.
  */
 add_action( 'wp_head', function () {
-	echo "<script>document.documentElement.className=document.documentElement.className.replace('no-js','js');</script>\n";
+	$movimiento = espabilao_opcion( 'animaciones' ) ? " movimiento" : '';
+	echo "<script>document.documentElement.className=document.documentElement.className.replace('no-js','js" . $movimiento . "');</script>\n";
 }, 0 );

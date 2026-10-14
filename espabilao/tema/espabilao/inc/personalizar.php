@@ -25,6 +25,10 @@ function espabilao_opciones_defecto() {
 		'barra_superior'  => 'Independientes: no vendemos seguros, no pedimos datos y no cobramos comisiones.',
 		'aviso_articulo'  => 'Información general. Espabilao no vende seguros ni es mediador de seguros: no cobramos comisiones ni pedimos datos. Lo que cubre tu seguro depende de tu póliza concreta; revisa siempre tus condiciones generales y particulares.',
 		'texto_pie'       => 'Información general sobre seguros en España. Espabilao no vende seguros ni es mediador. Consulta siempre tu póliza.',
+		// Movimiento.
+		'animaciones'     => true,
+		'transiciones'    => true,
+		'preguntas'       => '¿Me cubre una gotera del vecino?|¿Me pagan la luna rota del coche?|¿Qué es la franquicia?|¿Cómo no renuevo mi seguro?|¿Cubre la baja médica?',
 		// Artículo.
 		'mostrar_indice'  => true,
 		'glosario_auto'   => true,
@@ -122,6 +126,12 @@ add_action( 'customize_register', function ( WP_Customize_Manager $c ) {
 	$ajuste( 'barra_superior', 'text', 'esp_avisos', 'Barra superior' );
 	$ajuste( 'aviso_articulo', 'textarea', 'esp_avisos', 'Aviso al final de cada artículo', '', 'sanitize_textarea_field' );
 	$ajuste( 'texto_pie', 'textarea', 'esp_avisos', 'Texto del pie', '', 'sanitize_textarea_field' );
+
+	// Movimiento.
+	$c->add_section( 'esp_movimiento', array( 'panel' => 'espabilao', 'title' => 'Animaciones', 'description' => 'Se desactivan solas para quien tenga activada la opción «reducir movimiento» en su dispositivo.' ) );
+	$ajuste( 'animaciones', 'checkbox', 'esp_movimiento', 'Animaciones al desplazarse', 'Aparición de bloques, sellos de veredicto, contadores, iconos que se dibujan, efecto 3D y foco de luz en tarjetas.', 'espabilao_limpiar_bool' );
+	$ajuste( 'transiciones', 'checkbox', 'esp_movimiento', 'Transiciones suaves entre páginas', 'Fundido entre páginas en navegadores compatibles (Chrome, Edge, Safari recientes). En los demás no hace nada.', 'espabilao_limpiar_bool' );
+	$ajuste( 'preguntas', 'textarea', 'esp_movimiento', 'Preguntas que se escriben solas en el buscador de portada', 'Separadas por la barra vertical |', 'sanitize_textarea_field' );
 
 	// Artículo.
 	$c->add_section( 'esp_articulo', array( 'panel' => 'espabilao', 'title' => 'Artículos' ) );
