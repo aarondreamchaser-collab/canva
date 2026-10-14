@@ -1,0 +1,101 @@
+/* ESPABILAO · Animaciones (CSS). Pegar en Apariencia > Personalizar > CSS adicional */
+/* ======================================================================
+   v3.1 · Movimiento (solo con html.movimiento; nunca con «reducir movimiento»)
+   ====================================================================== */
+@keyframes esp-aparecer{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes esp-desplegar{from{opacity:0;transform:translateY(-8px) scale(.98)}to{opacity:1;transform:none}}
+@keyframes esp-sello{0%{opacity:0;transform:scale(1.9) rotate(-14deg)}55%{opacity:1;transform:scale(.92) rotate(2deg)}75%{transform:scale(1.04) rotate(-1deg)}100%{opacity:1;transform:none}}
+@keyframes esp-subrayar{from{background-size:0 100%}to{background-size:100% 100%}}
+@keyframes esp-flotar-a{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(-40px,30px) scale(1.08)}}
+@keyframes esp-flotar-b{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(50px,-20px) scale(.94)}}
+@keyframes esp-alerta{0%,100%{transform:rotate(-7deg)}20%{transform:rotate(9deg)}40%{transform:rotate(-12deg)}60%{transform:rotate(5deg)}80%{transform:rotate(-8deg)}}
+@keyframes esp-pulso{0%{box-shadow:0 0 0 0 rgba(255,106,43,.45)}100%{box-shadow:0 0 0 14px rgba(255,106,43,0)}}
+@keyframes esp-crecer{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+
+@media (prefers-reduced-motion:no-preference){
+	/* Aparición al desplazarse */
+	.movimiento .revelar{opacity:0;transform:translateY(28px);transition:opacity .7s cubic-bezier(.2,.7,.2,1),transform .7s cubic-bezier(.2,.7,.2,1);transition-delay:var(--retraso,0ms)}
+	.movimiento .revelar.es-visible{opacity:1;transform:none}
+
+	/* Sellos de veredicto */
+	.movimiento .sello-espera{opacity:0}
+	.movimiento .sello-espera.es-visible{animation:esp-sello .65s cubic-bezier(.3,1.4,.5,1) .15s both}
+
+	/* Iconos que se dibujan */
+	.movimiento .dibujar>*{stroke-dasharray:1;stroke-dashoffset:1;transition:stroke-dashoffset 1.1s cubic-bezier(.6,.1,.2,1) .1s}
+	.movimiento .dibujar.es-visible>*{stroke-dashoffset:0}
+	.movimiento .dibujar>[fill="currentColor"]{transition:opacity .6s .8s;opacity:0}
+	.movimiento .dibujar.es-visible>[fill="currentColor"]{opacity:1}
+
+	/* Marcador: los tramos crecen */
+	.movimiento .marcador .marcador__tramo,.movimiento .dato--ancho .marcador__tramo{transform:scaleX(0);transform-origin:0 50%}
+	.movimiento .marcador.es-visible .marcador__tramo,.movimiento .dato--ancho.es-visible .marcador__tramo{animation:esp-crecer .9s cubic-bezier(.2,.7,.2,1) both}
+	.movimiento .marcador.es-visible .marcador__tramo:nth-child(2),.movimiento .dato--ancho.es-visible .marcador__tramo:nth-child(2){animation-delay:.15s}
+	.movimiento .marcador.es-visible .marcador__tramo:nth-child(3),.movimiento .dato--ancho.es-visible .marcador__tramo:nth-child(3){animation-delay:.3s}
+
+	/* Hero: subrayado que se pinta y manchas de color que flotan */
+	.movimiento .hero{position:relative;overflow:hidden}
+	.movimiento .hero::before,.movimiento .hero::after{content:"";position:absolute;border-radius:50%;filter:blur(60px);opacity:.55;pointer-events:none;z-index:0}
+	.movimiento .hero::before{width:420px;height:420px;right:-80px;top:-120px;background:rgba(255,106,43,.45);animation:esp-flotar-a 18s ease-in-out infinite}
+	.movimiento .hero::after{width:360px;height:360px;left:-120px;bottom:-160px;background:rgba(90,62,194,.22);animation:esp-flotar-b 22s ease-in-out infinite}
+	.movimiento .hero>*{position:relative;z-index:1}
+	.movimiento .hero__titulo mark{background-color:transparent;background-image:linear-gradient(var(--naranja),var(--naranja));background-repeat:no-repeat;background-size:100% 100%;animation:esp-subrayar .9s cubic-bezier(.6,.1,.2,1) .25s both}
+	.movimiento .logo__icono{animation:esp-alerta .9s ease-in-out .6s 1 both}
+
+	/* Cabecera inteligente */
+	.movimiento .cabecera{transition:transform .35s cubic-bezier(.2,.7,.2,1),box-shadow .25s}
+	.movimiento .cabecera.is-scroll{box-shadow:0 6px 24px rgba(26,26,31,.07)}
+	.movimiento .cabecera.is-oculta{transform:translateY(-100%)}
+
+	/* Paneles que se despliegan */
+	.movimiento .mega.is-abierto .mega__panel,.movimiento .mega:focus-within .mega__panel,.movimiento .desplegable[open] .desplegable__panel{animation:esp-desplegar .22s cubic-bezier(.2,.7,.2,1) both}
+	.movimiento .glosa__def:not([hidden]){animation:esp-desplegar .18s ease-out both}
+	.movimiento .faq__item[open] p{animation:esp-aparecer .3s ease-out both}
+
+	/* Resultados de las herramientas en cascada */
+	.movimiento .hito,.movimiento .detector__item,.movimiento .cifra{animation:esp-aparecer .45s cubic-bezier(.2,.7,.2,1) both}
+	.movimiento .hito:nth-child(2),.movimiento .detector__item:nth-child(2),.movimiento .cifra:nth-child(2){animation-delay:.07s}
+	.movimiento .hito:nth-child(3),.movimiento .detector__item:nth-child(3),.movimiento .cifra:nth-child(3){animation-delay:.14s}
+	.movimiento .hito:nth-child(4),.movimiento .detector__item:nth-child(4){animation-delay:.21s}
+	.movimiento .hito:nth-child(n+5),.movimiento .detector__item:nth-child(n+5){animation-delay:.28s}
+	.movimiento .barra-proporcion span{animation:esp-crecer .8s cubic-bezier(.2,.7,.2,1) .2s both;transform-origin:0 50%}
+	.movimiento .marca{transition:background-color .3s}
+	.movimiento .hito--pronto .hito__estado,.movimiento .hito--hoy .hito__estado{animation:esp-pulso 1.6s ease-out 3}
+
+	/* Foco de luz que sigue al ratón */
+	.movimiento .con-foco{position:relative;isolation:isolate}
+	.movimiento .con-foco::before{content:"";position:absolute;inset:0;border-radius:inherit;background:radial-gradient(260px circle at var(--mx,50%) var(--my,50%),rgba(255,106,43,.16),transparent 65%);opacity:0;transition:opacity .25s;pointer-events:none;z-index:2}
+	.movimiento .con-foco:hover::before{opacity:1}
+
+	/* Efecto 3D */
+	.movimiento .con-3d{transform:perspective(900px) rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg));transition:transform .25s ease-out;will-change:transform}
+	@media (min-width:1000px){.movimiento .caso-destacado.con-3d{transform:perspective(900px) rotate(1.2deg) rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg))}}
+
+	/* Botones magnéticos */
+	.movimiento .magnetico{transform:translate(var(--tx,0px),var(--ty,0px));transition:transform .2s ease-out,background .15s}
+
+	/* Micro-interacciones */
+	.movimiento .tipos--rejilla a:hover .tipos__icono,.movimiento .herramienta-tarjeta a:hover .herramienta-tarjeta__icono,.movimiento .seccion a:hover .seccion__icono{transform:rotate(-8deg) scale(1.08)}
+	.movimiento .tipos__icono,.movimiento .herramienta-tarjeta__icono,.movimiento .seccion__icono{transition:transform .3s cubic-bezier(.3,1.6,.5,1)}
+	.movimiento .tarjeta:hover .imagen--vacia .icono{transform:scale(1.15) rotate(-6deg)}
+	.movimiento .imagen--vacia .icono{transition:transform .4s cubic-bezier(.3,1.6,.5,1)}
+	.movimiento .enlace-mas .icono,.movimiento .herramienta-tarjeta__ir .icono{transition:transform .2s}
+	.movimiento .enlace-mas:hover .icono,.movimiento .herramienta-tarjeta a:hover .herramienta-tarjeta__ir .icono{transform:translateX(4px)}
+	.movimiento .nube a{transition:transform .2s cubic-bezier(.3,1.6,.5,1),background .2s}
+	.movimiento .nube a:hover{transform:translateY(-3px) rotate(-2deg)}
+	.movimiento .boton-copiar.is-copiado{animation:esp-sello .45s both}
+
+	/* Transición entre páginas (navegadores compatibles) */
+	@view-transition{navigation:auto}
+	::view-transition-old(root),::view-transition-new(root){animation-duration:.28s}
+}
+
+/* Volver arriba con anillo de progreso (lo crea el JavaScript) */
+.volver-arriba{position:fixed;right:16px;bottom:88px;z-index:60;width:48px;height:48px;border-radius:50%;border:0;padding:2px;background:#fff;color:var(--tinta);box-shadow:var(--sombra-alta);cursor:pointer;opacity:0;transform:translateY(16px);pointer-events:none;transition:opacity .25s,transform .25s}
+.volver-arriba.is-visible{opacity:1;transform:none;pointer-events:auto}
+.volver-arriba svg{display:block}
+.volver-arriba__pista{fill:none;stroke:var(--linea);stroke-width:3}
+.volver-arriba__anillo{fill:none;stroke:var(--naranja);stroke-width:3;stroke-dasharray:1;stroke-dashoffset:1;transform:rotate(-90deg);transform-origin:50% 50%;stroke-linecap:round}
+.volver-arriba:hover{color:var(--naranja-osc)}
+@media (min-width:1000px){.volver-arriba{right:24px;bottom:24px}}
+@media print{.volver-arriba{display:none}}
