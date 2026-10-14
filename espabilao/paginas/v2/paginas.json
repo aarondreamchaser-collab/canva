@@ -1,0 +1,32 @@
+[
+ {
+  "slug": "sobre-nosotros",
+  "title": "Sobre nosotros",
+  "archivo": "v2/sobre-nosotros.html"
+ },
+ {
+  "slug": "politica-editorial",
+  "title": "Política editorial",
+  "archivo": "v2/politica-editorial.html"
+ },
+ {
+  "slug": "contacto",
+  "title": "Contacto",
+  "archivo": "v2/contacto.html"
+ },
+ {
+  "slug": "aviso-legal",
+  "title": "Aviso legal",
+  "archivo": "v2/aviso-legal.html"
+ },
+ {
+  "slug": "politica-de-privacidad",
+  "title": "Política de privacidad",
+  "archivo": "v2/politica-de-privacidad.html"
+ },
+ {
+  "slug": "politica-de-cookies",
+  "title": "Política de cookies",
+  "archivo": "v2/politica-de-cookies.html"
+ }
+]

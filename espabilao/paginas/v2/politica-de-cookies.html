@@ -1,0 +1,132 @@
+<!-- wp:html -->
+<style id="pg-estilos">
+/* Espabilao · páginas institucionales */
+body:has(.pg) .articulo__cabecera--simple{display:none}
+.pg{--pg-ancho:min(1120px,calc(100vw - 36px));width:var(--pg-ancho);margin-left:calc(50% - var(--pg-ancho)/2);font-size:1.05rem;line-height:1.65}
+.pg *{box-sizing:border-box}
+.pg-hero{position:relative;overflow:hidden;border-radius:28px;background:radial-gradient(520px 300px at 92% 0,rgba(255,106,43,.28),transparent 65%),radial-gradient(420px 260px at 0 100%,rgba(90,62,194,.12),transparent 60%),#fff3ea;padding:34px 22px 30px;margin:8px 0 34px}
+.pg-hero__marca{position:absolute;right:-10px;bottom:-34px;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:clamp(6rem,24vw,15rem);line-height:.8;letter-spacing:-.06em;color:transparent;-webkit-text-stroke:2px rgba(26,26,31,.12);pointer-events:none;user-select:none;white-space:nowrap}
+.pg-supra{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:#bf3f0a;margin:0 0 14px}
+.pg-hero h1{position:relative;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:clamp(2.4rem,9vw,4.6rem);line-height:.98;letter-spacing:-.045em;color:#1a1a1f;margin:0 0 18px;max-width:16ch}
+.pg-hero h1 em{font-style:normal;background-image:linear-gradient(#ff6a2b,#ff6a2b);background-repeat:no-repeat;background-size:100% 100%;padding:0 .12em;border-radius:.16em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.pg-hero__lead{position:relative;font-size:1.18rem;line-height:1.5;color:#2a2a30;max-width:58ch;margin:0 0 20px}
+.pg-chips{position:relative;display:flex;flex-wrap:wrap;gap:8px;margin:0;padding:0;list-style:none}
+.pg-chips li{display:inline-flex;align-items:center;gap:6px;background:#fff;border:1px solid #e8e3dc;border-radius:999px;padding:6px 12px;font-size:.85rem;font-weight:600;color:#2a2a30}
+.pg-chips .pg-ic{width:16px;height:16px;color:#bf3f0a}
+.pg-rejilla{display:grid;gap:30px}
+.pg-indice{display:none}
+.pg-indice p{font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#5f5d66;margin:0 0 10px}
+.pg-indice ol{list-style:none;margin:0;padding:0 0 0 14px;border-left:2px solid #e8e3dc;counter-reset:pgi}
+.pg-indice li{counter-increment:pgi;margin:0}
+.pg-indice a{display:block;padding:6px 0;text-decoration:none;color:#5f5d66;font-weight:600;font-size:.94rem}
+.pg-indice a::before{content:counter(pgi,decimal-leading-zero) "  ";font-family:"Bricolage Grotesque",sans-serif;color:#bf3f0a;font-weight:800}
+.pg-indice a:hover,.pg-indice a.is-activo{color:#1a1a1f}
+.pg-resumen{position:relative;background:#1a1a1f;color:#e9e7e3;border-radius:22px;padding:22px 22px 18px;margin:0 0 30px;overflow:hidden}
+.pg-resumen::after{content:"";position:absolute;right:-50px;top:-50px;width:160px;height:160px;border-radius:50%;background:rgba(255,106,43,.25)}
+.pg-resumen h2{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:.82rem!important;letter-spacing:.1em;text-transform:uppercase;color:#ff6a2b!important;margin:0 0 12px!important;border:0!important;padding:0!important}
+.pg-resumen ul{position:relative;z-index:1;list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.pg-resumen li{display:flex;gap:10px;align-items:flex-start;color:#fff;font-weight:500}
+.pg-resumen li .pg-ic{flex:none;width:22px;height:22px;color:#ff6a2b;margin-top:1px}
+.pg-bloque{position:relative;padding:26px 0 8px;border-top:1px solid #e8e3dc;scroll-margin-top:100px}
+.pg-bloque:first-of-type{border-top:0}
+.pg-num{display:block;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:3.4rem;line-height:.9;letter-spacing:-.05em;color:transparent;-webkit-text-stroke:2px #1a1a1f;margin-bottom:6px}
+.pg-bloque h2{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:clamp(1.55rem,4.8vw,2rem);letter-spacing:-.03em;line-height:1.1;color:#1a1a1f;margin:0 0 14px;border:0;padding:0}
+.pg-bloque h3{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:1.2rem;color:#1a1a1f;margin:22px 0 8px}
+.pg-bloque p{margin:0 0 14px}
+.pg-bloque a{color:#bf3f0a;font-weight:600}
+.pg-datos{display:grid;grid-template-columns:1fr;gap:10px;margin:6px 0 14px;padding:0}
+.pg-datos div{background:#fff;border:1px solid #e8e3dc;border-radius:16px;padding:12px 16px}
+.pg-datos dt{font-size:.74rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#5f5d66}
+.pg-datos dd{margin:4px 0 0;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:1.15rem;color:#1a1a1f;overflow-wrap:anywhere}
+.pg-datos dd a{color:#1a1a1f}
+.pg-tarjetas{display:grid;gap:12px;margin:8px 0 16px;padding:0;list-style:none}
+.pg-tarjeta{position:relative;display:flex;gap:14px;align-items:flex-start;background:#fff;border:1px solid #e8e3dc;border-radius:18px;padding:16px 18px;transition:transform .2s,box-shadow .2s,border-color .2s}
+.pg-tarjeta:hover{transform:translateY(-2px);border-color:#ff6a2b;box-shadow:0 8px 28px rgba(26,26,31,.08)}
+.pg-tarjeta__ic{flex:none;display:grid;place-items:center;width:46px;height:46px;border-radius:14px;background:#fff3ea;color:#bf3f0a}
+.pg-tarjeta strong{display:block;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:1.08rem;color:#1a1a1f;margin-bottom:2px}
+.pg-tarjeta span{color:#5f5d66;font-size:.96rem}
+.pg-tarjeta--no .pg-tarjeta__ic{background:#fde3df;color:#b42318}
+.pg-tarjeta--si .pg-tarjeta__ic{background:#ddf3e6;color:#0f6b3d}
+.pg-tarjeta--lila .pg-tarjeta__ic{background:#efeafd;color:#5a3ec2}
+.pg-tarjeta--menta .pg-tarjeta__ic{background:#e2f5ec;color:#126b45}
+.pg-tarjeta--amarillo .pg-tarjeta__ic{background:#fff3c9;color:#7c5600}
+.pg-cifras{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:0 0 30px}
+.pg-cifra{background:#fff;border:1px solid #e8e3dc;border-radius:18px;padding:16px}
+.pg-cifra b{display:block;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:2.3rem;line-height:1;letter-spacing:-.04em;color:#1a1a1f}
+.pg-cifra span{font-size:.88rem;font-weight:600;color:#5f5d66}
+.pg-cifra--naranja{background:#ff6a2b;border-color:#ff6a2b}
+.pg-cifra--naranja b,.pg-cifra--naranja span{color:#1a1a1f}
+.pg-cita{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:clamp(1.5rem,5vw,2.2rem);line-height:1.12;letter-spacing:-.03em;color:#1a1a1f;border-left:6px solid #ff6a2b;padding:4px 0 4px 18px;margin:8px 0 22px}
+.pg-sello{display:inline-block;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:1.05rem;letter-spacing:.08em;text-transform:uppercase;color:#b42318;border:3px solid currentColor;border-radius:10px;padding:6px 14px;transform:rotate(-6deg);margin:4px 0 14px}
+.pg-sello--si{color:#0f6b3d}
+.pg-aviso{display:flex;gap:12px;align-items:flex-start;background:#fff3c9;color:#4d3600;border-radius:16px;padding:14px 16px;margin:6px 0 16px;font-size:.96rem}
+.pg-aviso .pg-ic{flex:none;color:#7c5600;margin-top:2px}
+.pg-pasos{list-style:none;margin:6px 0 16px;padding:0;display:grid;gap:10px;counter-reset:pgp}
+.pg-pasos li{counter-increment:pgp;position:relative;background:#f6f4f1;border-radius:16px;padding:14px 16px 14px 62px}
+.pg-pasos li::before{content:counter(pgp);position:absolute;left:14px;top:12px;display:grid;place-items:center;width:34px;height:34px;border-radius:10px;background:#ff6a2b;color:#1a1a1f;font-family:"Bricolage Grotesque",sans-serif;font-weight:800}
+.pg-pasos strong{color:#1a1a1f}
+.pg-tabla{width:100%;border-collapse:separate;border-spacing:0;margin:8px 0 18px;font-size:.93rem;border:1px solid #e8e3dc;border-radius:16px;overflow:hidden}
+.pg-tabla th,.pg-tabla td{padding:11px 12px;text-align:left;vertical-align:top;border-bottom:1px solid #e8e3dc}
+.pg-tabla th{background:#f6f4f1;font-size:.74rem;letter-spacing:.07em;text-transform:uppercase;color:#5f5d66}
+.pg-tabla tr:last-child td{border-bottom:0}
+.pg-tabla code{background:#f6f4f1;border-radius:6px;padding:1px 5px;font-size:.86em}
+.pg-tabla-envoltorio{overflow-x:auto}
+.pg-etq{display:inline-block;border-radius:999px;padding:2px 9px;font-size:.75rem;font-weight:700}
+.pg-etq--si{background:#ddf3e6;color:#0f6b3d}.pg-etq--no{background:#fff3c9;color:#7c5600}
+.pg-correo{position:relative;overflow:hidden;background:#1a1a1f;color:#fff;border-radius:26px;padding:28px 22px;margin:0 0 30px}
+.pg-correo::before{content:"@";position:absolute;right:-6px;top:-40px;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:13rem;line-height:1;color:transparent;-webkit-text-stroke:2px rgba(255,106,43,.35)}
+.pg-correo p{position:relative;color:#cfccc6;margin:0 0 10px}
+.pg-correo a.pg-correo__dir{position:relative;display:inline-block;font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:clamp(1.5rem,6vw,2.6rem);letter-spacing:-.03em;color:#fff;text-decoration:none;border-bottom:4px solid #ff6a2b;margin:4px 0 18px;overflow-wrap:anywhere}
+.pg-botones{position:relative;display:flex;flex-wrap:wrap;gap:10px}
+.pg-boton{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:12px 18px;font:700 1rem "Figtree",sans-serif;text-decoration:none;cursor:pointer;border:0}
+.pg-boton--naranja{background:#ff6a2b;color:#1a1a1f!important}
+.pg-boton--borde{background:transparent;color:#fff!important;border:1.5px solid #5a5a63}
+.pg-boton.is-ok{background:#0f6b3d;color:#fff!important}
+.pg-final{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;background:#f6f4f1;border-radius:20px;padding:18px 20px;margin:26px 0 10px;font-size:.92rem;color:#5f5d66}
+.pg-final a{color:#1a1a1f;font-weight:700}
+@media (min-width:700px){
+ .pg-hero{padding:56px 52px 50px;margin-top:14px}
+ .pg-datos{grid-template-columns:repeat(2,1fr)}
+ .pg-tarjetas--dos{grid-template-columns:repeat(2,1fr)}
+ .pg-cifras{grid-template-columns:repeat(4,1fr)}
+ .pg-correo{padding:42px 40px}
+}
+@media (min-width:1000px){
+ .pg-rejilla{grid-template-columns:230px minmax(0,1fr);gap:60px;align-items:start}
+ .pg-indice{display:block;position:sticky;top:100px}
+ .pg-cuerpo{max-width:760px}
+}
+/* Efectos (respetan «reducir movimiento») */
+@media (prefers-reduced-motion:no-preference){
+ .pg-js .pg-hero h1 em{animation:pg-pintar 1s cubic-bezier(.6,.1,.2,1) .3s both}
+ .pg-js .pg-hero__marca{animation:pg-deriva 14s ease-in-out infinite alternate}
+ .pg-js .pg-anim{opacity:0;transform:translateY(26px);transition:opacity .7s cubic-bezier(.2,.7,.2,1),transform .7s cubic-bezier(.2,.7,.2,1);transition-delay:var(--pg-d,0ms)}
+ .pg-js .pg-anim.is-v{opacity:1;transform:none}
+ .pg-js .pg-num{background:linear-gradient(90deg,#ff6a2b 50%,transparent 50%) right/200% 100% no-repeat;-webkit-background-clip:text;background-clip:text;transition:background-position 1.1s cubic-bezier(.6,.1,.2,1) .15s}
+ .pg-js .pg-bloque.is-v .pg-num{background-position:left}
+ .pg-js .pg-sello{opacity:0}
+ .pg-js .is-v .pg-sello,.pg-js .pg-sello.is-v{animation:pg-sello .6s cubic-bezier(.3,1.4,.5,1) .2s both}
+}
+@keyframes pg-pintar{from{background-size:0 100%}to{background-size:100% 100%}}
+@keyframes pg-deriva{from{transform:translateX(0)}to{transform:translateX(-60px)}}
+@keyframes pg-sello{0%{opacity:0;transform:scale(1.9) rotate(-14deg)}60%{opacity:1;transform:scale(.94) rotate(-4deg)}100%{opacity:1;transform:rotate(-6deg)}}
+@media print{.pg-indice,.pg-hero__marca{display:none}.pg{width:auto;margin:0}}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<div class="pg pg--politica-de-cookies"><header class="pg-hero"><span class="pg-hero__marca" aria-hidden="true">{ }</span><p class="pg-supra"><svg class="pg-ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 12.5A8.5 8.5 0 1 1 11.5 3.5a3 3 0 0 0 4 3.5 3 3 0 0 0 5 5.5z"/><path d="M8.5 9.5h.01M12 15h.01M8 14h.01M15.5 13h.01"/></svg> Política de cookies</p><h1>Cookies, <em>explicadas sin trampa.</em></h1><p class="pg-hero__lead">Qué cookies usa espabilao.com, incluidas las de Google AdSense, y cómo aceptarlas, rechazarlas o borrarlas cuando quieras.</p><ul class="pg-chips"><li><svg class="pg-ic" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.2"/><path d="M3.5 9.8h17M8 3v4M16 3v4"/></svg> Actualizado: [FECHA]</li><li><svg class="pg-ic" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v16M7 20h10"/><path d="M5 7h14"/><path d="M5 7l-2.5 6a2.8 2.8 0 0 0 5 0z"/><path d="M19 7l-2.5 6a2.8 2.8 0 0 0 5 0z"/></svg> LSSI-CE, art. 22.2</li><li><svg class="pg-ic" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.5 19 6v5.6c0 4.3-2.9 7.6-7 8.9-4.1-1.3-7-4.6-7-8.9V6z"/><path d="m8.8 12 2.2 2.2 4.3-4.4"/></svg> Guía de cookies de la AEPD</li></ul></header><div class="pg-rejilla"><nav class="pg-indice" aria-label="En esta página"><p>En esta página</p><ol><li><a href="#que-son">¿Qué son las cookies?</a></li><li><a href="#cuales">Cookies que usamos</a></li><li><a href="#adsense">Google AdSense</a></li><li><a href="#analitica">Analítica</a></li><li><a href="#consentimiento">Cómo das o retiras tu consentimiento</a></li><li><a href="#navegador">Bloquear o borrar cookies en tu navegador</a></li><li><a href="#responsable">Responsable y contacto</a></li></ol></nav><div class="pg-cuerpo"><aside class="pg-resumen" aria-label="En pocas palabras"><h2>En 20 segundos</h2><ul><li><svg class="pg-ic" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg><span>Las necesarias funcionan sin pedirte permiso.</span></li><li><svg class="pg-ic" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 12.5A8.5 8.5 0 1 1 11.5 3.5a3 3 0 0 0 4 3.5 3 3 0 0 0 5 5.5z"/><path d="M8.5 9.5h.01M12 15h.01M8 14h.01M15.5 13h.01"/></svg><span>Las de publicidad de Google, solo si las aceptas.</span></li><li><svg class="pg-ic" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6.5 6.5l11 11M17.5 6.5l-11 11"/></svg><span>Rechazar es tan fácil como aceptar, y puedes cambiar de opinión.</span></li></ul></aside><section class="pg-bloque" id="que-son"><span class="pg-num" aria-hidden="true">01</span><h2>¿Qué son las cookies?</h2><p>Pequeños archivos que una web guarda en tu navegador para recordar información sobre tu visita. Esta política también se aplica a tecnologías parecidas, como el almacenamiento local o los identificadores de publicidad.</p></section><section class="pg-bloque" id="cuales"><span class="pg-num" aria-hidden="true">02</span><h2>Cookies que usamos</h2><div class="pg-tabla-envoltorio"><table class="pg-tabla"><thead><tr><th>Tipo</th><th>Para qué</th><th>Quién</th><th>¿Pide permiso?</th></tr></thead><tbody><tr><td><strong>Preferencias de consentimiento</strong></td><td>Recordar si aceptaste o rechazaste las cookies</td><td>Espabilao / herramienta de consentimiento</td><td><span class="pg-etq pg-etq--si">No, es necesaria</span></td></tr><tr><td><strong>Sesión de WordPress</strong> <code>wordpress_logged_in_*</code></td><td>Solo para quien entra en el panel de administración</td><td>Espabilao</td><td><span class="pg-etq pg-etq--si">No, es necesaria</span></td></tr><tr><td><strong>Seguridad</strong></td><td>Impedir accesos no autorizados</td><td>Espabilao</td><td><span class="pg-etq pg-etq--si">No, es necesaria</span></td></tr><tr><td><strong>Publicidad</strong> <code>__gads</code>, <code>__gpi</code>, <code>IDE</code>, <code>DSID</code>…</td><td>Mostrar anuncios (personalizados si lo aceptas), limitar repeticiones, medir y prevenir fraude</td><td>Google y sus socios</td><td><span class="pg-etq pg-etq--no">Sí</span></td></tr></tbody></table></div><p>El diseño de la web y sus herramientas no instalan cookies propias de seguimiento.</p></section><section class="pg-bloque" id="adsense"><span class="pg-num" aria-hidden="true">03</span><h2>Google AdSense</h2><p>Usamos <strong>Google AdSense</strong>, el servicio de publicidad de Google Ireland Limited. Si no das tu consentimiento, Google puede mostrar anuncios no personalizados, que también pueden usar cookies para frecuencia, medición y prevención del fraude, según tu configuración.</p><ul class="pg-tarjetas pg-tarjetas--dos"><li class="pg-tarjeta "><span class="pg-tarjeta__ic"><svg class="pg-ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11v16H5.5A1.5 1.5 0 0 1 4 18.5z"/><path d="M20 5.5A1.5 1.5 0 0 0 18.5 4H13v16h5.5a1.5 1.5 0 0 0 1.5-1.5z"/></svg></span><div><strong>Cómo usa Google tu información</strong><span><a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">En sitios que usan sus servicios</a></span></div></li><li class="pg-tarjeta pg-tarjeta--lila"><span class="pg-tarjeta__ic"><svg class="pg-ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 12.5A8.5 8.5 0 1 1 11.5 3.5a3 3 0 0 0 4 3.5 3 3 0 0 0 5 5.5z"/><path d="M8.5 9.5h.01M12 15h.01M8 14h.01M15.5 13h.01"/></svg></span><div><strong>Cookies en la publicidad</strong><span><a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Política de Google</a></span></div></li><li class="pg-tarjeta pg-tarjeta--menta"><span class="pg-tarjeta__ic"><svg class="pg-ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="3.6"/><path d="M5 20c.8-3.8 3.6-6 7-6s6.2 2.2 7 6"/></svg></span><div><strong>Mi Centro de Anuncios</strong><span><a href="https://myadcenter.google.com" target="_blank" rel="noopener">Gestiona la personalización</a></span></div></li></ul></section><section class="pg-bloque" id="analitica"><span class="pg-num" aria-hidden="true">04</span><h2>Analítica</h2><p class="pg-aviso"><svg class="pg-ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4 21 19.5H3z"/><path d="M12 10v4.2M12 17h.01"/></svg><span>[Si instalas una herramienta de analítica (por ejemplo, Google Analytics), indícala aquí con sus cookies y finalidad. Si no usas ninguna, borra este apartado.]</span></p></section><section class="pg-bloque" id="consentimiento"><span class="pg-num" aria-hidden="true">05</span><h2>Cómo das o retiras tu consentimiento</h2><ol class="pg-pasos"><li><strong>Al entrar</strong> te mostramos un aviso para aceptar, rechazar o configurar las cookies que no son necesarias. El aviso de Google cumple el Marco de Transparencia y Consentimiento (TCF) de IAB Europe.</li><li><strong>Rechazar es tan fácil como aceptar</strong>, y puedes navegar por la web aunque no aceptes las cookies de publicidad.</li><li><strong>Puedes cambiar de opinión</strong> cuando quieras: vuelve a abrir el aviso de consentimiento o borra las cookies de tu navegador, y te volveremos a preguntar.</li></ol></section><section class="pg-bloque" id="navegador"><span class="pg-num" aria-hidden="true">06</span><h2>Bloquear o borrar cookies en tu navegador</h2><ul class="pg-tarjetas pg-tarjetas--dos"><li class="pg-tarjeta "><span class="pg-tarjeta__ic"><svg class="pg-ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9h18M6.5 6.8h.01M9 6.8h.01"/></svg></span><div><strong>Google Chrome</strong><span><a href="https://support.google.com/chrome/answer/95647" target="_blank" rel="noopener">Ver instrucciones</a></span></div></li><li class="pg-tarjeta pg-tarjeta--lila"><span class="pg-tarjeta__ic"><svg class="pg-ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9h18M6.5 6.8h.01M9 6.8h.01"/></svg></span><div><strong>Mozilla Firefox</strong><span><a href="https://support.mozilla.org/es/kb/Borrar%20cookies" target="_blank" rel="noopener">Ver instrucciones</a></span></div></li><li class="pg-tarjeta pg-tarjeta--menta"><span class="pg-tarjeta__ic"><svg class="pg-ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9h18M6.5 6.8h.01M9 6.8h.01"/></svg></span><div><strong>Safari</strong><span><a href="https://support.apple.com/es-es/guide/safari/sfri11471/mac" target="_blank" rel="noopener">Ver instrucciones</a></span></div></li><li class="pg-tarjeta pg-tarjeta--amarillo"><span class="pg-tarjeta__ic"><svg class="pg-ic" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9h18M6.5 6.8h.01M9 6.8h.01"/></svg></span><div><strong>Microsoft Edge</strong><span><a href="https://support.microsoft.com/es-es/microsoft-edge" target="_blank" rel="noopener">Ver instrucciones</a></span></div></li></ul><p>Si bloqueas todas las cookies, algunas funciones de la web pueden no funcionar bien.</p></section><section class="pg-bloque" id="responsable"><span class="pg-num" aria-hidden="true">07</span><h2>Responsable y contacto</h2><dl class="pg-datos"><div><dt>Titular</dt><dd>[NOMBRE]</dd></div><div><dt>NIF</dt><dd>[NIF]</dd></div><div><dt>Domicilio</dt><dd>[CIUDAD] (España)</dd></div><div><dt>Correo electrónico</dt><dd><a href="mailto:[EMAIL]">[EMAIL]</a></dd></div></dl><p>Consulta también la <a href="/politica-de-privacidad/">política de privacidad</a>. Última actualización: [FECHA].</p></section><div class="pg-final"><span>¿Dudas o algo que corregir? Escríbenos a <a href="mailto:[EMAIL]">[EMAIL]</a></span><span><a href="/aviso-legal/">Aviso legal</a> · <a href="/politica-de-privacidad/">Privacidad</a> · <a href="/politica-de-cookies/">Cookies</a></span></div></div></div></div>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<script id="pg-script">
+(function(){var d=document,raiz=d.querySelector('.pg');if(!raiz)return;var reducir=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+if(!reducir&&'IntersectionObserver' in window){d.documentElement.classList.add('pg-js');var els=raiz.querySelectorAll('.pg-bloque,.pg-tarjeta,.pg-cifra,.pg-resumen,.pg-datos>div,.pg-pasos>li,.pg-correo,.pg-final,.pg-sello');
+var alto=window.innerHeight;Array.prototype.forEach.call(els,function(el){var h=el.parentNode?Array.prototype.indexOf.call(el.parentNode.children,el):0;el.style.setProperty('--pg-d',(h%5)*70+'ms');if(el.getBoundingClientRect().top>alto*.9||el.classList.contains('pg-bloque')){el.classList.add('pg-anim');}});
+var o=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('is-v');o.unobserve(e.target);}});},{rootMargin:'0px 0px -8% 0px',threshold:.1});Array.prototype.forEach.call(els,function(el){o.observe(el);});}
+var enl=raiz.querySelectorAll('.pg-indice a');if(enl.length&&'IntersectionObserver' in window){var o2=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){Array.prototype.forEach.call(enl,function(a){a.classList.toggle('is-activo',a.getAttribute('href')==='#'+e.target.id);});}});},{rootMargin:'-30% 0px -60% 0px'});Array.prototype.forEach.call(raiz.querySelectorAll('.pg-bloque[id]'),function(s){o2.observe(s);});}
+Array.prototype.forEach.call(raiz.querySelectorAll('[data-pg-copiar]'),function(b){b.addEventListener('click',function(){var t=b.getAttribute('data-pg-copiar'),et=b.querySelector('span');var ok=function(){et.textContent='¡Copiado!';b.classList.add('is-ok');setTimeout(function(){et.textContent='Copiar dirección';b.classList.remove('is-ok');},2000);};if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(t).then(ok);}else{window.prompt('Copia la dirección:',t);}});});
+})();
+</script>
+<!-- /wp:html -->
+
