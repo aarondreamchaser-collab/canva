@@ -14,6 +14,8 @@ defined( 'ABSPATH' ) || exit;
 
 const ESPABILAO_BOE_LCS = 'https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501';
 const ESPABILAO_BOE_LEC = 'https://www.boe.es/buscar/act.php?id=BOE-A-2000-323';
+const ESPABILAO_BOE_L44 = 'https://www.boe.es/buscar/act.php?id=BOE-A-2002-22807';
+const ESPABILAO_BOE_LO1 = 'https://www.boe.es/buscar/act.php?id=BOE-A-2025-76';
 
 /**
  * Plazos de la Ley 50/1980, de Contrato de Seguro, con su ancla en el BOE.
@@ -121,26 +123,36 @@ function espabilao_sc_escalera() {
 	$dgsfp = espabilao_opcion( 'dgsfp_url' );
 	$pasos = array(
 		array(
-			'titulo' => 'Pide el «no» por escrito',
-			'texto'  => 'Exige que el rechazo te llegue por escrito y diga en qué cláusula se basa. Sin eso no hay nada que discutir. Guarda fotos, facturas, correos y apunta fechas.',
-			'plazo'  => 'Antes de nada',
+			'titulo'  => 'Pide el «no» por escrito',
+			'texto'   => 'Exige que el rechazo te llegue por escrito y diga en qué cláusula se basa. Sin eso no hay nada que discutir. Guarda fotos, facturas, correos y apunta fechas.',
+			'plazo'   => 'Antes de nada',
+			'enlaces' => array(),
 		),
 		array(
-			'titulo' => 'Reclama al Servicio de Atención al Cliente',
-			'texto'  => 'Reclamación formal al Servicio de Atención al Cliente o al Defensor del Cliente de tu aseguradora, por un medio que deje constancia (registro en su web, correo con acuse o burofax). Indica póliza, siniestro, qué pides y por qué.',
-			'plazo'  => 'Tienen 1 mes para responderte si eres consumidor (2 meses si no)',
+			'titulo'  => 'Reclama al Servicio de Atención al Cliente',
+			'texto'   => 'Reclamación formal al Servicio de Atención al Cliente o al Defensor del Cliente de tu aseguradora, por un medio que deje constancia (registro en su web, correo con acuse o burofax). Deben acusar recibo y contestarte por escrito y de forma motivada. Indica póliza, siniestro, qué pides y por qué.',
+			'plazo'   => 'Tienen 1 mes para responderte',
+			'enlaces' => array(
+				array( ESPABILAO_BOE_L44 . '#a29', 'Art. 29 bis de la Ley 44/2002 · BOE' ),
+			),
 		),
 		array(
-			'titulo' => 'Acude a la DGSFP',
-			'texto'  => 'Si no contestan a tiempo o te dan la razón a medias, presenta tu reclamación ante el Servicio de Reclamaciones de la Dirección General de Seguros. Es gratis y online. Su informe no obliga a la aseguradora, pero pesa.',
-			'plazo'  => 'Requisito: haber reclamado antes en el peldaño 2',
-			'enlace' => array( $dgsfp, 'Cómo reclamar en la DGSFP' ),
+			'titulo'  => 'Acude a la DGSFP',
+			'texto'   => 'Si ha pasado un mes sin respuesta, no admiten tu reclamación o te la desestiman, preséntala ante el Servicio de Reclamaciones de la Dirección General de Seguros. Es gratis y se puede hacer online. Su informe no obliga a la aseguradora, pero pesa.',
+			'plazo'   => 'Requisito: haber reclamado antes en el peldaño 2',
+			'enlaces' => array(
+				array( $dgsfp, 'Cómo reclamar en la DGSFP' ),
+				array( ESPABILAO_BOE_L44 . '#a30', 'Art. 30 de la Ley 44/2002 · BOE' ),
+			),
 		),
 		array(
-			'titulo' => 'Juzgado (o arbitraje de consumo)',
-			'texto'  => 'Hasta 2.000 € puedes reclamar en un juicio verbal sin abogado ni procurador. Si la aseguradora está adherida al arbitraje de consumo, también puedes ir por ahí. Antes de demandar, la ley exige intentar un acuerdo: la reclamación de los peldaños anteriores te sirve para acreditarlo.',
-			'plazo'  => 'Si te dan la razón, reclama también los intereses de demora (art. 20)',
-			'enlace' => array( ESPABILAO_BOE_LEC . '#a23', 'Art. 23 y 31 de la Ley de Enjuiciamiento Civil' ),
+			'titulo'  => 'Juzgado (o arbitraje de consumo)',
+			'texto'   => 'Hasta 2.000 € puedes reclamar en un juicio verbal sin abogado ni procurador. Si la aseguradora está adherida al arbitraje de consumo, también puedes ir por ahí. Antes de demandar, la ley exige haber intentado un medio de acuerdo (negociación, mediación, conciliación…): guarda por escrito todo lo que hayas reclamado.',
+			'plazo'   => 'Si te dan la razón, reclama también los intereses de demora (art. 20 de la Ley de Contrato de Seguro)',
+			'enlaces' => array(
+				array( ESPABILAO_BOE_LEC . '#a23', 'Arts. 23 y 31 de la Ley de Enjuiciamiento Civil · BOE' ),
+				array( ESPABILAO_BOE_LO1 . '#a5', 'Art. 5 de la Ley Orgánica 1/2025 · BOE' ),
+			),
 		),
 	);
 	ob_start();
@@ -159,9 +171,11 @@ function espabilao_sc_escalera() {
 						<h3 class="peldano__titulo"><?php echo esc_html( $paso['titulo'] ); ?></h3>
 						<p><?php echo esc_html( $paso['texto'] ); ?></p>
 						<p class="peldano__plazo"><?php echo esc_html( $paso['plazo'] ); ?></p>
-						<?php if ( ! empty( $paso['enlace'][0] ) ) : ?>
-							<a class="peldano__enlace" href="<?php echo esc_url( $paso['enlace'][0] ); ?>" target="_blank" rel="noopener"><?php echo esc_html( $paso['enlace'][1] ); ?> <span aria-hidden="true">↗</span><span class="screen-reader-text">(web oficial, se abre en otra pestaña)</span></a>
-						<?php endif; ?>
+						<?php foreach ( $paso['enlaces'] as $enlace ) : ?>
+							<?php if ( ! empty( $enlace[0] ) ) : ?>
+								<a class="peldano__enlace" href="<?php echo esc_url( $enlace[0] ); ?>" target="_blank" rel="noopener"><?php echo esc_html( $enlace[1] ); ?> <span aria-hidden="true">↗</span><span class="screen-reader-text">(fuente oficial, se abre en otra pestaña)</span></a>
+							<?php endif; ?>
+						<?php endforeach; ?>
 					</div>
 				</li>
 			<?php endforeach; ?>

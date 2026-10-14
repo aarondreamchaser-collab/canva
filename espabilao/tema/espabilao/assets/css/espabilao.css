@@ -285,7 +285,7 @@ hr{border:0;border-top:1px solid var(--linea);margin:2rem 0}
 .contenido .peldano__titulo,.peldano__titulo{font-size:1.15rem;margin:.35em 0 .3em}
 .peldano__cuerpo p{margin-bottom:.5em}
 .peldano__plazo{display:inline-block;background:var(--carpeta);padding:4px 8px;font-weight:600;line-height:1.4}
-.peldano__enlace{display:inline-block;font-family:var(--mono);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;font-weight:600;margin:2px 0 6px}
+.peldano__enlace{display:table;font-family:var(--mono);font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;font-weight:600;margin:2px 0 6px}
 
 /* Plazos que te protegen ------------------------------------------------ */
 .plazos{border-top:4px solid var(--tinta);border-bottom:1px solid var(--tinta);margin:2.2em 0;padding:12px 0 4px;font-size:1rem;line-height:1.55}
