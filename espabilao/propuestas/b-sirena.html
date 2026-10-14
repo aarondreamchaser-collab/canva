@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Espabilao · Propuesta B · Alerta Pop</title>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fffaf0;--ink:#1a1033;--violet:#4a2cf5;--yellow:#ffde3b;--coral:#ff5b4a;--mint:#22c98a;--sky:#d9e4ff;--pink:#ffd6e8;--line:3px solid var(--ink);--r:18px}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--ink);font:17px/1.6 "Atkinson Hyperlegible",system-ui,sans-serif}
+a{color:inherit;text-decoration:none}
+h1,h2,h3,.logo{font-family:"Bricolage Grotesque",sans-serif}
+.wrap{max-width:1200px;margin:0 auto;padding:0 20px}
+.strip{background:var(--ink);color:var(--yellow);font-weight:700;font-size:.85rem;text-align:center;padding:7px}
+header{padding:16px 0}
+header .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px}
+.logo{font-weight:800;font-size:1.9rem;letter-spacing:-.03em;display:flex;align-items:center;gap:8px}
+.logo i{display:inline-grid;place-items:center;width:40px;height:40px;background:var(--yellow);border:var(--line);border-radius:12px;font-style:normal;transform:rotate(-8deg);box-shadow:3px 3px 0 var(--ink)}
+nav ul{list-style:none;display:flex;gap:6px;padding:0}
+nav a{display:block;padding:8px 14px;border-radius:999px;font-weight:700;font-size:.95rem}
+nav a:hover{background:var(--sky)}
+.menu{display:none;border:var(--line);border-radius:12px;padding:6px 12px;font-weight:700;background:#fff}
+.hero{background:var(--violet);color:#fff;border:var(--line);border-radius:28px;padding:56px 48px;position:relative;overflow:hidden;box-shadow:8px 8px 0 var(--ink)}
+.hero:after{content:"";position:absolute;right:-60px;top:-60px;width:280px;height:280px;border-radius:50%;background:var(--yellow);border:var(--line)}
+.hero h1{position:relative;z-index:1;font-size:clamp(2.3rem,6vw,4.4rem);line-height:.98;letter-spacing:-.035em;max-width:14ch;font-weight:800}
+.hero h1 mark{background:var(--yellow);color:var(--ink);padding:0 .15em;border-radius:10px}
+.hero p{position:relative;z-index:1;max-width:48ch;margin:18px 0 26px;font-size:1.1rem;opacity:.95}
+.search{position:relative;z-index:1;display:flex;background:#fff;border:var(--line);border-radius:999px;max-width:620px;padding:6px;box-shadow:4px 4px 0 var(--ink)}
+.search input{flex:1;border:0;background:transparent;padding:10px 18px;font:inherit;min-width:0;color:var(--ink)}
+.search button{border:var(--line);background:var(--coral);color:#fff;font-weight:800;border-radius:999px;padding:10px 22px;font-family:"Bricolage Grotesque",sans-serif;font-size:1rem}
+.sticker{position:absolute;z-index:2;right:56px;bottom:46px;background:var(--mint);color:var(--ink);border:var(--line);border-radius:14px;padding:10px 14px;font-weight:800;transform:rotate(6deg);font-family:"Bricolage Grotesque";box-shadow:4px 4px 0 var(--ink)}
+h2{font-size:clamp(1.7rem,3.5vw,2.4rem);letter-spacing:-.025em;margin:56px 0 20px;font-weight:800}
+.secs{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.sec{border:var(--line);border-radius:var(--r);padding:22px;box-shadow:5px 5px 0 var(--ink);transition:transform .15s}
+.sec:hover{transform:translate(-2px,-2px)}
+.sec .ico{width:48px;height:48px;border:var(--line);border-radius:14px;display:grid;place-items:center;font-weight:800;font-size:1.4rem;background:#fff;font-family:"Bricolage Grotesque"}
+.sec h3{font-size:1.35rem;margin:14px 0 4px;line-height:1.15}
+.sec p{font-size:.95rem}
+.s1{background:var(--yellow)}.s2{background:var(--pink)}.s3{background:var(--sky)}.s4{background:#c9f5e1}
+.cases{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.case{background:#fff;border:var(--line);border-radius:var(--r);padding:20px;display:flex;flex-direction:column;gap:10px}
+.case .cat{font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;opacity:.7}
+.case h3{font-size:1.25rem;line-height:1.2}
+.verd{align-self:flex-start;border:var(--line);border-radius:999px;padding:4px 14px 4px 10px;font-weight:800;font-family:"Bricolage Grotesque";display:flex;align-items:center;gap:6px}
+.verd b{display:inline-grid;place-items:center;width:22px;height:22px;border-radius:50%;background:var(--ink);color:#fff;font-size:.8rem}
+.v-si{background:var(--mint)}.v-no{background:var(--coral);color:#fff}.v-no b{background:#fff;color:var(--coral)}.v-med{background:var(--yellow)}
+.ad{border:3px dashed var(--ink);border-radius:var(--r);padding:28px;text-align:center;font-weight:700;opacity:.55;margin:44px 0 0}
+.types{display:flex;flex-wrap:wrap;gap:10px}
+.types a{border:var(--line);border-radius:999px;padding:10px 20px;font-weight:700;background:#fff;font-size:1.05rem}
+.types a:hover{background:var(--ink);color:var(--yellow)}
+.arts{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.art{border:var(--line);border-radius:var(--r);overflow:hidden;background:#fff}
+.art .img{aspect-ratio:16/9;background:var(--sky);border-bottom:var(--line);display:grid;place-items:center;font-family:"Bricolage Grotesque";font-weight:800;font-size:2.4rem;color:var(--violet)}
+.art div.t{padding:16px 18px}
+.art .k{font-size:.8rem;font-weight:700;color:var(--violet);text-transform:uppercase;letter-spacing:.06em}
+.art h3{font-size:1.2rem;line-height:1.2;margin:6px 0}
+.art small{opacity:.7}
+footer{margin-top:64px;background:var(--ink);color:#fff;padding:40px 0}
+footer .logo i{color:var(--ink)}
+footer p{opacity:.8;margin-top:10px;max-width:60ch}
+@media(max-width:900px){nav{display:none}.menu{display:block}.hero{padding:36px 22px 30px;border-radius:22px}.hero:after{width:110px;height:110px;right:-45px;top:-45px}.sticker{position:relative;display:inline-block;right:auto;bottom:auto;margin-top:18px}.secs{grid-template-columns:1fr 1fr;gap:12px}.sec{padding:16px}.sec h3{font-size:1.1rem}.sec p{display:none}.cases,.arts{grid-template-columns:1fr}.search button{padding:10px 16px}}
+</style></head><body>
+<div class="strip">No vendemos seguros. No pedimos datos. Solo te espabilamos.</div>
+<header><div class="wrap"><a class="logo" href="#"><i>¡!</i>espabilao</a>
+<nav><ul><li><a href="#">¿Pagó o no pagó?</a></li><li><a href="#">Pólizas al desnudo</a></li><li><a href="#">Qué hacer si…</a></li><li><a href="#">Trucos</a></li></ul></nav><button class="menu">Menú</button></div></header>
+<main class="wrap">
+<section class="hero"><h1>Que no te la <mark>cuelen</mark> con tu seguro.</h1>
+<p>Casos reales, pólizas explicadas sin letra pequeña y cartas para reclamar. Con fuentes, sin comisiones.</p>
+<form class="search" role="search"><input aria-label="Buscar" placeholder="¿Me cubre si se me inunda la cocina?"><button>Buscar</button></form>
+<div class="sticker">+250 casos<br>analizados</div></section>
+<h2>Elige tu sección</h2>
+<div class="secs">
+ <a class="sec s1" href="#"><span class="ico">?</span><h3>¿Pagó o no pagó?</h3><p>Siniestros reales con veredicto.</p></a>
+ <a class="sec s2" href="#"><span class="ico">◎</span><h3>Pólizas al desnudo</h3><p>Condiciones de cada aseguradora, explicadas.</p></a>
+ <a class="sec s3" href="#"><span class="ico">→</span><h3>Qué hacer si…</h3><p>Pasos y plantillas de cartas.</p></a>
+ <a class="sec s4" href="#"><span class="ico">★</span><h3>Trucos de espabilao</h3><p>Consejos rápidos que ahorran pasta.</p></a>
+</div>
+<h2>Últimos casos: ¿pagó o no?</h2>
+<div class="cases">
+ <article class="case"><span class="cat">Coche · Lunas</span><h3>Piedra en la autopista y una franquicia que nadie le explicó</h3><span class="verd v-med"><b>½</b>A medias</span></article>
+ <article class="case"><span class="cat">Salud · Preexistencias</span><h3>Operación denegada por una enfermedad «anterior» que no declaró</h3><span class="verd v-no"><b>✕</b>No pagó</span></article>
+ <article class="case"><span class="cat">Hogar · Agua</span><h3>Le rechazan la gotera por «desgaste». Pidió contraperitaje y cobró</h3><span class="verd v-si"><b>✓</b>Pagó</span></article>
+</div>
+<div class="ad">Publicidad</div>
+<h2>¿Qué seguro te preocupa?</h2>
+<div class="types"><a href="#">Hogar</a><a href="#">Coche</a><a href="#">Moto</a><a href="#">Salud</a><a href="#">Vida</a><a href="#">Decesos</a><a href="#">Mascotas</a><a href="#">Viaje</a><a href="#">Alquiler</a><a href="#">Autónomos</a></div>
+<h2>Lo último</h2>
+<div class="arts">
+ <article class="art"><div class="img">%</div><div class="t"><span class="k">Qué hacer si…</span><h3>…te suben el seguro del coche sin avisar</h3><small>Revisado el 10 oct 2026</small></div></article>
+ <article class="art"><div class="img" style="background:var(--pink)">§</div><div class="t"><span class="k">Pólizas al desnudo</span><h3>Decesos: qué cubre de verdad y qué te venden de más</h3><small>Revisado el 7 oct 2026</small></div></article>
+ <article class="art"><div class="img" style="background:#c9f5e1">¡!</div><div class="t"><span class="k">Trucos</span><h3>Haz fotos de tu casa hoy: te salvan en un robo</h3><small>Revisado el 2 oct 2026</small></div></article>
+</div>
+</main>
+<footer><div class="wrap"><a class="logo" href="#"><i>¡!</i>espabilao</a><p>Información general. Espabilao no vende seguros ni es mediador de seguros. Consulta siempre las condiciones de tu póliza.</p></div></footer>
+</body></html>

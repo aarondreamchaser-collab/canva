@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Espabilao · Propuesta A · El Expediente</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,700;9..144,900&family=Source+Serif+4:wght@400;600&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#f4efe4;--paper2:#ebe3d2;--ink:#1b1a17;--muted:#5d574c;--red:#c8281e;--green:#1f6b3a;--amber:#b86e00;--rule:#1b1a17}
+*{box-sizing:border-box;margin:0}
+body{background:var(--paper);color:var(--ink);font:17px/1.6 "Source Serif 4",Georgia,serif}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+.mono{font-family:"IBM Plex Mono",monospace;font-size:.75rem;letter-spacing:.08em;text-transform:uppercase}
+.topbar{border-bottom:1px solid var(--rule);padding:6px 0;color:var(--muted)}
+.topbar .wrap{display:flex;justify-content:space-between;gap:12px}
+header.mast{border-bottom:4px double var(--rule);padding:22px 0 14px;text-align:center}
+.logo{font-family:Fraunces,serif;font-weight:900;font-size:clamp(2.6rem,7vw,4.6rem);line-height:1;letter-spacing:-.02em}
+.logo span{color:var(--red)}
+.tag{font-family:Fraunces,serif;font-style:italic;font-size:1.1rem;margin-top:6px}
+nav.main{border-bottom:1px solid var(--rule)}
+nav.main ul{list-style:none;display:flex;gap:22px;justify-content:center;padding:10px 0;flex-wrap:wrap}
+nav.main a{text-decoration:none;font-family:"IBM Plex Mono",monospace;font-size:.8rem;text-transform:uppercase;letter-spacing:.06em}
+.hero{display:grid;grid-template-columns:1.4fr 1fr;gap:40px;padding:44px 0;border-bottom:1px solid var(--rule)}
+.hero h1{font-family:Fraunces,serif;font-weight:700;font-size:clamp(2rem,4.6vw,3.4rem);line-height:1.05;letter-spacing:-.015em}
+.hero h1 em{color:var(--red);font-style:italic}
+.hero p{margin:16px 0 22px;color:var(--muted);max-width:56ch}
+.search{display:flex;border:2px solid var(--ink);background:#fff}
+.search input{flex:1;border:0;padding:14px 16px;font:inherit;background:transparent;min-width:0}
+.search button{border:0;background:var(--ink);color:var(--paper);padding:0 22px;font-family:"IBM Plex Mono",monospace;text-transform:uppercase;font-size:.8rem;letter-spacing:.08em}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.chips a{font-size:.85rem;border-bottom:1px dashed var(--muted);text-decoration:none;color:var(--muted)}
+.folder{background:var(--paper2);border:1px solid var(--rule);padding:22px;position:relative;transform:rotate(-.6deg);box-shadow:6px 6px 0 var(--ink)}
+.folder .lbl{position:absolute;top:-14px;left:18px;background:var(--ink);color:var(--paper);padding:3px 10px}
+.folder h3{font-family:Fraunces,serif;font-size:1.4rem;line-height:1.2;margin:10px 0}
+.stamp{display:inline-block;font-family:"IBM Plex Mono",monospace;font-weight:600;text-transform:uppercase;letter-spacing:.1em;border:3px solid currentColor;padding:4px 12px;transform:rotate(-7deg);border-radius:4px;font-size:.9rem;mix-blend-mode:multiply}
+.stamp.no{color:var(--red)}.stamp.si{color:var(--green)}.stamp.medias{color:var(--amber)}
+.folder .stamp{position:absolute;right:16px;bottom:18px;font-size:1.1rem}
+h2.sec{display:flex;align-items:baseline;gap:14px;font-family:Fraunces,serif;font-size:1.9rem;margin:46px 0 18px;border-top:4px solid var(--ink);padding-top:10px}
+h2.sec .mono{color:var(--red)}
+.secs{display:grid;grid-template-columns:repeat(4,1fr);border:1px solid var(--rule)}
+.secs a{padding:22px 18px;text-decoration:none;border-right:1px solid var(--rule)}
+.secs a:last-child{border-right:0}
+.secs a:hover{background:var(--paper2)}
+.secs .n{font-family:Fraunces,serif;font-size:3rem;font-weight:900;color:var(--red);line-height:1}
+.secs h3{font-family:Fraunces,serif;font-size:1.3rem;margin:8px 0 6px}
+.secs p{font-size:.92rem;color:var(--muted)}
+.cases{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.case{border-top:2px solid var(--ink);padding-top:14px;position:relative}
+.case h3{font-family:Fraunces,serif;font-size:1.25rem;line-height:1.25;margin:8px 0}
+.case p{font-size:.95rem;color:var(--muted)}
+.case .stamp{margin-top:12px}
+.ad{border:1px dashed var(--muted);padding:26px;text-align:center;color:var(--muted);margin:40px 0}
+.types{display:grid;grid-template-columns:repeat(5,1fr);gap:0;border-top:1px solid var(--rule);border-left:1px solid var(--rule)}
+.types a{border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:16px;text-decoration:none;display:flex;justify-content:space-between;align-items:center;font-family:Fraunces,serif;font-size:1.15rem}
+.types a small{font-family:"IBM Plex Mono",monospace;font-size:.7rem;color:var(--muted)}
+.types a:hover{background:var(--ink);color:var(--paper)}
+.list{display:grid;grid-template-columns:2fr 1fr;gap:40px}
+.art{display:grid;grid-template-columns:120px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--rule)}
+.art .thumb{aspect-ratio:1;background:repeating-linear-gradient(45deg,var(--paper2) 0 8px,var(--paper) 8px 16px);border:1px solid var(--rule)}
+.art h3{font-family:Fraunces,serif;font-size:1.3rem;line-height:1.2;margin:4px 0}
+.art p{font-size:.95rem;color:var(--muted)}
+aside .box{border:2px solid var(--ink);padding:18px;background:#fff}
+aside .box h4{font-family:Fraunces,serif;font-size:1.2rem;margin:6px 0}
+footer{margin-top:60px;border-top:4px double var(--rule);padding:30px 0;font-size:.9rem;color:var(--muted)}
+footer .logo{font-size:2rem;color:var(--ink)}
+@media(max-width:860px){.hero,.list{grid-template-columns:1fr}.secs{grid-template-columns:1fr 1fr}.secs a:nth-child(2){border-right:0}.secs a:nth-child(-n+2){border-bottom:1px solid var(--rule)}.cases{grid-template-columns:1fr}.types{grid-template-columns:1fr 1fr}nav.main ul{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}.topbar .r{display:none}.art{grid-template-columns:80px 1fr}}
+</style></head><body>
+<div class="topbar mono"><div class="wrap"><span>Martes, 14 de octubre de 2026</span><span class="r">No vendemos seguros · No pedimos datos</span></div></div>
+<header class="mast"><div class="wrap"><div class="logo">Espabilao<span>.</span></div><div class="tag">Para que no te la cuelen con tu seguro.</div></div></header>
+<nav class="main"><div class="wrap"><ul><li><a href="#">¿Pagó o no pagó?</a></li><li><a href="#">Pólizas al desnudo</a></li><li><a href="#">Qué hacer si…</a></li><li><a href="#">Trucos</a></li><li><a href="#">Tipos de seguro ▾</a></li></ul></div></nav>
+<main class="wrap">
+<section class="hero">
+ <div><span class="mono" style="color:var(--red)">Expediente abierto</span>
+ <h1>Tu aseguradora tiene abogados. <em>Tú tienes a Espabilao.</em></h1>
+ <p>Casos reales, condiciones explicadas sin letra pequeña y cartas listas para reclamar. Información seria, con fuentes, y sin vender nada.</p>
+ <form class="search" role="search"><label for="q" class="mono" style="position:absolute;left:-9999px">Buscar</label><input id="q" placeholder="¿Me cubre el seguro si…?"><button>Buscar</button></form>
+ <div class="chips"><a href="#">gotera del vecino</a><a href="#">luna rota</a><a href="#">baja médica</a><a href="#">perro mordió</a></div></div>
+ <div class="folder"><span class="lbl mono">Caso n.º 0147</span><span class="mono" style="color:var(--muted)">Hogar · Daños por agua</span>
+ <h3>Le rechazan la gotera porque «era un desgaste». Reclamó con el perito y cobró.</h3>
+ <p style="font-size:.95rem;color:var(--muted)">Lo que dice la póliza, lo que alegó la compañía y cómo se resolvió.</p>
+ <span class="stamp si">Pagó</span></div>
+</section>
+<h2 class="sec"><span class="mono">01—04</span>Las secciones</h2>
+<div class="secs">
+ <a href="#"><div class="n">01</div><h3>¿Pagó o no pagó?</h3><p>Siniestros reales con veredicto.</p></a>
+ <a href="#"><div class="n">02</div><h3>Pólizas al desnudo</h3><p>Las condiciones de cada compañía, en cristiano.</p></a>
+ <a href="#"><div class="n">03</div><h3>Qué hacer si…</h3><p>Guías paso a paso y plantillas de carta.</p></a>
+ <a href="#"><div class="n">04</div><h3>Trucos de espabilao</h3><p>Consejos rápidos que ahorran disgustos.</p></a>
+</div>
+<h2 class="sec"><span class="mono">Archivo</span>Últimos casos</h2>
+<div class="cases">
+ <article class="case"><span class="mono" style="color:var(--muted)">Coche · Lunas</span><h3>Piedra en la autopista y la franquicia que nadie le explicó</h3><p>La póliza «a todo riesgo» tenía 300 € de franquicia en lunas.</p><span class="stamp medias">A medias</span></article>
+ <article class="case"><span class="mono" style="color:var(--muted)">Salud · Preexistencias</span><h3>Operación denegada por una enfermedad «anterior» que no declaró</h3><p>El cuestionario de salud lo decidió todo.</p><span class="stamp no">No pagó</span></article>
+ <article class="case"><span class="mono" style="color:var(--muted)">Mascotas · RC</span><h3>Su perro tumbó a un ciclista: la RC respondió en 3 semanas</h3><p>Parte, fotos y testigos: así lo hizo.</p><span class="stamp si">Pagó</span></article>
+</div>
+<div class="ad mono">Publicidad</div>
+<h2 class="sec"><span class="mono">Índice</span>Tipos de seguro</h2>
+<div class="types"><a href="#">Hogar <small>48</small></a><a href="#">Coche <small>61</small></a><a href="#">Moto <small>19</small></a><a href="#">Salud <small>37</small></a><a href="#">Vida <small>22</small></a><a href="#">Decesos <small>14</small></a><a href="#">Mascotas <small>17</small></a><a href="#">Viaje <small>12</small></a><a href="#">Alquiler <small>16</small></a><a href="#">Autónomos <small>21</small></a></div>
+<h2 class="sec"><span class="mono">Recién revisado</span>Últimos artículos</h2>
+<div class="list"><div>
+ <article class="art"><div class="thumb"></div><div><span class="mono" style="color:var(--red)">Qué hacer si…</span><h3>…te suben el seguro del coche sin avisar</h3><p>Plazos, carta de oposición y cómo cambiar de compañía.</p><span class="mono" style="color:var(--muted)">Revisado 10 oct 2026</span></div></article>
+ <article class="art"><div class="thumb"></div><div><span class="mono" style="color:var(--red)">Pólizas al desnudo</span><h3>Seguro de decesos: qué cubre de verdad y qué te venden de más</h3><p>Comparamos condiciones generales de cinco compañías.</p><span class="mono" style="color:var(--muted)">Revisado 7 oct 2026</span></div></article>
+ <article class="art"><div class="thumb"></div><div><span class="mono" style="color:var(--red)">Trucos de espabilao</span><h3>Haz fotos de tu casa hoy: el truco que te salva en un robo</h3><p>Cinco minutos ahora, semanas de discusión menos después.</p><span class="mono" style="color:var(--muted)">Revisado 2 oct 2026</span></div></article>
+</div><aside><div class="box"><span class="mono" style="color:var(--red)">Nuestra regla</span><h4>No vendemos seguros.</h4><p style="font-size:.95rem">Información general con fuentes oficiales (DGSFP, BOE, Ley de Contrato de Seguro). Ni comisiones ni formularios.</p></div></aside></div>
+</main>
+<footer><div class="wrap"><div class="logo">Espabilao<span style="color:var(--red)">.</span></div><p>Información general. Espabilao no vende seguros ni es mediador. Consulta siempre tu póliza.</p></div></footer>
+</body></html>
