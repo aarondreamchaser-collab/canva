@@ -54,12 +54,13 @@ while ( have_posts() ) :
 					<?php espabilao_revisado( $esp_id, 'j \d\e F \d\e Y' ); ?>
 					<span class="revisado"><?php echo espabilao_icono( 'libro', 14 ); // phpcs:ignore ?> <?php echo esc_html( espabilao_minutos_lectura( $esp_id ) ); ?> min de lectura</span>
 				</div>
-				<?php if ( get_post_meta( $esp_id, '_esp_veredicto', true ) ) : ?>
-					<div class="articulo__veredicto">
-						<span class="articulo__veredicto-texto">Veredicto</span>
-						<?php echo espabilao_sello( $esp_id, 'veredicto--grande' ); // phpcs:ignore WordPress.Security.EscapeOutput ?>
-					</div>
-				<?php endif; ?>
+				<div class="articulo__acciones">
+					<button type="button" class="accion" data-escuchar hidden><?php echo espabilao_icono( 'altavoz', 18 ); // phpcs:ignore ?><span>Escuchar</span></button>
+					<button type="button" class="accion" data-compartir data-url="<?php echo esc_url( get_permalink() ); ?>" data-titulo="<?php echo esc_attr( get_the_title() ); ?>"><?php echo espabilao_icono( 'compartir', 18 ); // phpcs:ignore ?><span>Compartir</span></button>
+					<a class="accion" href="https://wa.me/?text=<?php echo rawurlencode( get_the_title() . ' ' . get_permalink() ); ?>" target="_blank" rel="noopener"><?php echo espabilao_icono( 'whatsapp', 18 ); // phpcs:ignore ?><span>WhatsApp</span></a>
+					<button type="button" class="accion" data-imprimir-articulo><?php echo espabilao_icono( 'imprimir', 18 ); // phpcs:ignore ?><span>Imprimir</span></button>
+				</div>
+				<?php get_template_part( 'template-parts/ficha-caso' ); ?>
 			</div>
 		</header>
 
@@ -131,6 +132,19 @@ while ( have_posts() ) :
 					</nav>
 				<?php endif; ?>
 				<?php $esp_guias = get_term_by( 'slug', 'que-hacer-si', 'seccion' ); ?>
+				<?php if ( espabilao_url_herramientas() ) : ?>
+					<div class="caja caja--borde">
+						<p class="supra">Herramientas gratis</p>
+						<ul class="lista-herr">
+							<?php foreach ( espabilao_herramientas() as $esp_slug => $esp_h ) : ?>
+								<?php $esp_u = espabilao_url_herramienta( $esp_slug ); ?>
+								<?php if ( $esp_u ) : ?>
+									<li><a href="<?php echo esc_url( $esp_u ); ?>"><?php echo espabilao_icono( $esp_h['icono'], 20 ); // phpcs:ignore ?><span><?php echo esc_html( $esp_h['titulo'] ); ?></span></a></li>
+								<?php endif; ?>
+							<?php endforeach; ?>
+						</ul>
+					</div>
+				<?php endif; ?>
 				<div class="caja caja--oscura">
 					<p class="caja__titulo">¿Te han dicho que no?</p>
 					<p>Pide el rechazo por escrito y reclama: tienen 1 mes para responderte.</p>

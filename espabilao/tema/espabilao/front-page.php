@@ -59,32 +59,18 @@ $esp_tintes     = array( 'pago-o-no-pago' => 'naranja', 'polizas-al-desnudo' => 
 
 <div class="envoltorio">
 
+	<?php if ( espabilao_url_herramientas() ) : ?>
+		<section class="bloque bloque--herramientas" aria-labelledby="t-herr">
+			<?php espabilao_titulo_bloque( 't-herr', 'Gratis y sin dar tus datos', 'Herramientas para defenderte', espabilao_url_herramientas(), 'Ver herramientas' ); ?>
+			<?php echo do_shortcode( '[herramientas]' ); // phpcs:ignore WordPress.Security.EscapeOutput ?>
+		</section>
+	<?php endif; ?>
+
 	<section class="bloque" aria-labelledby="t-tipos">
 		<?php espabilao_titulo_bloque( 't-tipos', 'Empieza por aquí', '¿Qué seguro te preocupa?' ); ?>
 		<?php espabilao_tipos(); ?>
 	</section>
 
-	<section class="bloque" aria-labelledby="t-secciones">
-		<?php espabilao_titulo_bloque( 't-secciones', 'Cuatro formas de espabilar', 'Nuestras secciones' ); ?>
-		<ul class="secciones">
-			<?php
-			foreach ( espabilao_secciones() as $esp_slug => $esp_s ) :
-				$esp_t = get_term_by( 'slug', $esp_slug, 'seccion' );
-				if ( ! $esp_t ) {
-					continue;
-				}
-				?>
-				<li class="seccion seccion--<?php echo esc_attr( $esp_tintes[ $esp_slug ] ); ?>">
-					<a href="<?php echo esc_url( get_term_link( $esp_t ) ); ?>">
-						<span class="seccion__icono"><?php echo espabilao_icono_seccion( $esp_slug ); // phpcs:ignore ?></span>
-						<span class="seccion__nombre"><?php echo esc_html( $esp_t->name ); ?></span>
-						<span class="seccion__texto"><?php echo esc_html( $esp_t->description ? $esp_t->description : $esp_s['descripcion'] ); ?></span>
-						<span class="seccion__n"><?php echo esc_html( sprintf( _n( '%d artículo', '%d artículos', $esp_t->count, 'espabilao' ), $esp_t->count ) ); ?> <?php echo espabilao_icono( 'flecha', 16 ); // phpcs:ignore ?></span>
-					</a>
-				</li>
-			<?php endforeach; ?>
-		</ul>
-	</section>
 
 	<?php if ( $esp_casos || $esp_total ) : ?>
 		<section class="bloque" aria-labelledby="t-casos">
@@ -143,6 +129,28 @@ $esp_tintes     = array( 'pago-o-no-pago' => 'naranja', 'polizas-al-desnudo' => 
 </section>
 
 <div class="envoltorio">
+	<section class="bloque" aria-labelledby="t-secciones">
+		<?php espabilao_titulo_bloque( 't-secciones', 'Cuatro formas de espabilar', 'Nuestras secciones' ); ?>
+		<ul class="secciones">
+			<?php
+			foreach ( espabilao_secciones() as $esp_slug => $esp_s ) :
+				$esp_t = get_term_by( 'slug', $esp_slug, 'seccion' );
+				if ( ! $esp_t ) {
+					continue;
+				}
+				?>
+				<li class="seccion seccion--<?php echo esc_attr( $esp_tintes[ $esp_slug ] ); ?>">
+					<a href="<?php echo esc_url( get_term_link( $esp_t ) ); ?>">
+						<span class="seccion__icono"><?php echo espabilao_icono_seccion( $esp_slug ); // phpcs:ignore ?></span>
+						<span class="seccion__nombre"><?php echo esc_html( $esp_t->name ); ?></span>
+						<span class="seccion__texto"><?php echo esc_html( $esp_t->description ? $esp_t->description : $esp_s['descripcion'] ); ?></span>
+						<span class="seccion__n"><?php echo esc_html( sprintf( _n( '%d artículo', '%d artículos', $esp_t->count, 'espabilao' ), $esp_t->count ) ); ?> <?php echo espabilao_icono( 'flecha', 16 ); // phpcs:ignore ?></span>
+					</a>
+				</li>
+			<?php endforeach; ?>
+		</ul>
+	</section>
+
 	<section class="bloque" aria-labelledby="t-ultimos">
 		<?php espabilao_titulo_bloque( 't-ultimos', 'Recién revisado', 'Últimos artículos' ); ?>
 		<div class="con-lateral">
@@ -175,6 +183,42 @@ $esp_tintes     = array( 'pago-o-no-pago' => 'naranja', 'polizas-al-desnudo' => 
 			</div>
 		</div>
 	</section>
+
+	<section class="bloque" aria-labelledby="t-faq">
+		<?php espabilao_titulo_bloque( 't-faq', 'Preguntas frecuentes', 'Antes de que lo preguntes' ); ?>
+		<div class="faq">
+			<?php
+			$esp_faq = array(
+				'¿Espabilao vende seguros o cobra comisiones?' => 'No. No somos aseguradora ni mediador, no vendemos pólizas y no cobramos a ninguna compañía por aparecer. La web se financia con publicidad, señalada siempre como «Publicidad».',
+				'¿De dónde sale la información?' => 'De fuentes oficiales: el BOE (Ley de Contrato de Seguro y normativa de reclamaciones), la Dirección General de Seguros y las condiciones de las propias pólizas. Cada artículo enlaza sus fuentes y dice cuándo se revisó.',
+				'¿Los casos de «¿Pagó o no pagó?» son reales?' => 'Se basan en siniestros reales. Cada caso explica qué pasó, qué decía la póliza, qué alegó la aseguradora y cómo terminó, para que puedas compararlo con el tuyo.',
+				'¿Las herramientas guardan lo que escribo?' => 'No. Las calculadoras, el generador de cartas y el detector de letra pequeña funcionan en tu navegador: no enviamos ni guardamos nada.',
+				'¿Esto sustituye a un abogado?' => 'No. Es información general para que entiendas tus derechos y reclames con criterio. Si tu caso es complejo o hay mucho dinero en juego, consulta con un profesional o una asociación de consumidores.',
+			);
+			foreach ( $esp_faq as $esp_q => $esp_a ) :
+				?>
+				<details class="faq__item">
+					<summary><?php echo esc_html( $esp_q ); ?><?php echo espabilao_icono( 'abajo', 20 ); // phpcs:ignore ?></summary>
+					<p><?php echo esc_html( $esp_a ); ?></p>
+				</details>
+			<?php endforeach; ?>
+		</div>
+	</section>
+
+	<?php
+	$esp_terminos = get_posts( array( 'post_type' => 'glosario', 'numberposts' => 60, 'orderby' => 'title', 'order' => 'ASC' ) );
+	if ( $esp_terminos ) :
+		$esp_url_glos = (string) get_post_type_archive_link( 'glosario' );
+		?>
+		<section class="bloque" aria-labelledby="t-glos">
+			<?php espabilao_titulo_bloque( 't-glos', 'Glosario', 'Las palabras con las que te la cuelan', $esp_url_glos, 'Todo el glosario' ); ?>
+			<ul class="nube">
+				<?php foreach ( $esp_terminos as $esp_t ) : ?>
+					<li><a href="<?php echo esc_url( $esp_url_glos . '#' . $esp_t->post_name ); ?>"><?php echo esc_html( get_the_title( $esp_t ) ); ?></a></li>
+				<?php endforeach; ?>
+			</ul>
+		</section>
+	<?php endif; ?>
 </div>
 
 <?php

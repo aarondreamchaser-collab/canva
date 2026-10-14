@@ -9,6 +9,21 @@
 defined( 'ABSPATH' ) || exit;
 
 /**
+ * Vías por las que se resolvió un caso.
+ *
+ * @return array<string, string>
+ */
+function espabilao_vias() {
+	return array(
+		'aseguradora' => 'La propia aseguradora',
+		'sac'         => 'Servicio de Atención al Cliente',
+		'dgsfp'       => 'Reclamación ante la DGSFP',
+		'arbitraje'   => 'Arbitraje de consumo',
+		'juzgado'     => 'Juzgado',
+	);
+}
+
+/**
  * Veredictos posibles.
  *
  * @return array<string, string>
@@ -27,6 +42,10 @@ add_action( 'init', function () {
 		'_esp_veredicto' => 'string',
 		'_esp_revision'  => 'string',
 		'_esp_fuentes'   => 'string',
+		'_esp_reclamado' => 'string',
+		'_esp_obtenido'  => 'string',
+		'_esp_duracion'  => 'string',
+		'_esp_via'       => 'string',
 	);
 	foreach ( $campos as $clave => $tipo ) {
 		register_post_meta( 'post', $clave, array(
@@ -55,6 +74,10 @@ function espabilao_caja_ficha( $post ) {
 	$veredicto = get_post_meta( $post->ID, '_esp_veredicto', true );
 	$revision  = get_post_meta( $post->ID, '_esp_revision', true );
 	$fuentes   = get_post_meta( $post->ID, '_esp_fuentes', true );
+	$reclamado = get_post_meta( $post->ID, '_esp_reclamado', true );
+	$obtenido  = get_post_meta( $post->ID, '_esp_obtenido', true );
+	$duracion  = get_post_meta( $post->ID, '_esp_duracion', true );
+	$via       = get_post_meta( $post->ID, '_esp_via', true );
 	?>
 	<style>
 		.esp-ficha p{margin:0 0 1.2em}.esp-ficha label{display:block;font-weight:600;margin-bottom:4px}
@@ -76,6 +99,19 @@ function espabilao_caja_ficha( $post ) {
 				<?php endforeach; ?>
 			</select>
 		</p>
+		<fieldset style="border:1px solid #dcdcde;padding:10px 12px 0;margin:0 0 1.2em">
+			<legend style="font-weight:600;padding:0 4px">Ficha del caso (opcional, solo casos)</legend>
+			<p><label for="esp_reclamado">Importe reclamado (€)</label><input type="text" id="esp_reclamado" name="esp_reclamado" value="<?php echo esc_attr( $reclamado ); ?>" placeholder="2.300"></p>
+			<p><label for="esp_obtenido">Importe obtenido (€)</label><input type="text" id="esp_obtenido" name="esp_obtenido" value="<?php echo esc_attr( $obtenido ); ?>" placeholder="2.300"></p>
+			<p><label for="esp_duracion">Cuánto tardó</label><input type="text" id="esp_duracion" name="esp_duracion" value="<?php echo esc_attr( $duracion ); ?>" placeholder="3 semanas"></p>
+			<p><label for="esp_via">Dónde se resolvió</label>
+				<select id="esp_via" name="esp_via"><option value="">—</option>
+					<?php foreach ( espabilao_vias() as $clave => $nombre ) : ?>
+						<option value="<?php echo esc_attr( $clave ); ?>" <?php selected( $via, $clave ); ?>><?php echo esc_html( $nombre ); ?></option>
+					<?php endforeach; ?>
+				</select>
+			</p>
+		</fieldset>
 		<p>
 			<label for="esp_revision">Fecha de revisión</label>
 			<input type="date" id="esp_revision" name="esp_revision" value="<?php echo esc_attr( $revision ); ?>">
@@ -106,11 +142,28 @@ add_action( 'save_post_post', function ( $post_id ) {
 	if ( ! isset( espabilao_veredictos()[ $veredicto ] ) ) {
 		$veredicto = '';
 	}
+	$reclamado = isset( $_POST['esp_reclamado'] ) ? sanitize_text_field( wp_unslash( $_POST['esp_reclamado'] ) ) : '';
+	$obtenido  = isset( $_POST['esp_obtenido'] ) ? sanitize_text_field( wp_unslash( $_POST['esp_obtenido'] ) ) : '';
+	$duracion  = isset( $_POST['esp_duracion'] ) ? sanitize_text_field( wp_unslash( $_POST['esp_duracion'] ) ) : '';
+	$via       = isset( $_POST['esp_via'] ) ? sanitize_key( wp_unslash( $_POST['esp_via'] ) ) : '';
+	if ( ! isset( espabilao_vias()[ $via ] ) ) {
+		$via = '';
+	}
 	if ( $revision && ! preg_match( '/^\d{4}-\d{2}-\d{2}$/', $revision ) ) {
 		$revision = '';
 	}
 
-	foreach ( array( '_esp_respuesta' => $respuesta, '_esp_veredicto' => $veredicto, '_esp_revision' => $revision, '_esp_fuentes' => $fuentes ) as $clave => $valor ) {
+	$valores = array(
+		'_esp_respuesta' => $respuesta,
+		'_esp_veredicto' => $veredicto,
+		'_esp_revision'  => $revision,
+		'_esp_fuentes'   => $fuentes,
+		'_esp_reclamado' => $reclamado,
+		'_esp_obtenido'  => $obtenido,
+		'_esp_duracion'  => $duracion,
+		'_esp_via'       => $via,
+	);
+	foreach ( $valores as $clave => $valor ) {
 		if ( '' === $valor ) {
 			delete_post_meta( $post_id, $clave );
 		} else {

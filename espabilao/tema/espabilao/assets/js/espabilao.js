@@ -167,6 +167,130 @@
 		} );
 	} );
 
+	/* Megamenú «Seguros» ------------------------------------------- */
+	var mega = document.querySelector( '.mega__boton' );
+	if ( mega ) {
+		var li = mega.parentNode;
+		mega.addEventListener( 'click', function ( e ) {
+			e.stopPropagation();
+			var abierto = 'true' === mega.getAttribute( 'aria-expanded' );
+			mega.setAttribute( 'aria-expanded', abierto ? 'false' : 'true' );
+			li.classList.toggle( 'is-abierto', ! abierto );
+		} );
+		document.addEventListener( 'click', function ( e ) {
+			if ( ! li.contains( e.target ) ) {
+				mega.setAttribute( 'aria-expanded', 'false' );
+				li.classList.remove( 'is-abierto' );
+			}
+		} );
+		document.addEventListener( 'keydown', function ( e ) {
+			if ( 'Escape' === e.key && li.classList.contains( 'is-abierto' ) ) {
+				mega.setAttribute( 'aria-expanded', 'false' );
+				li.classList.remove( 'is-abierto' );
+				mega.focus();
+			}
+		} );
+	}
+
+	/* Barra de progreso de lectura (solo artículos) ----------------- */
+	var barra = document.querySelector( '.progreso span' );
+	var cuerpo = document.querySelector( '.single .contenido' );
+	if ( barra && cuerpo ) {
+		document.documentElement.classList.add( 'con-progreso' );
+		var pendiente = false;
+		var medir = function () {
+			pendiente = false;
+			var r = cuerpo.getBoundingClientRect();
+			var total = r.height - window.innerHeight * 0.6;
+			var hecho = Math.min( 1, Math.max( 0, -r.top / ( total > 0 ? total : 1 ) ) );
+			barra.style.transform = 'scaleX(' + hecho + ')';
+		};
+		window.addEventListener( 'scroll', function () {
+			if ( ! pendiente ) {
+				pendiente = true;
+				window.requestAnimationFrame( medir );
+			}
+		}, { passive: true } );
+		medir();
+	}
+
+	/* Escuchar el artículo (síntesis de voz del navegador) ------------ */
+	var escuchar = document.querySelector( '[data-escuchar]' );
+	if ( escuchar && 'speechSynthesis' in window && cuerpo ) {
+		escuchar.hidden = false;
+		var hablando = false;
+		var etiqueta = escuchar.querySelector( 'span' );
+		var parar = function () {
+			window.speechSynthesis.cancel();
+			hablando = false;
+			etiqueta.textContent = 'Escuchar';
+			escuchar.classList.remove( 'is-activo' );
+		};
+		escuchar.addEventListener( 'click', function () {
+			if ( hablando ) {
+				parar();
+				return;
+			}
+			var clon = cuerpo.cloneNode( true );
+			Array.prototype.forEach.call( clon.querySelectorAll( '.anuncio, .glosa__def, .esp-carta__barra, script, style' ), function ( n ) {
+				n.remove();
+			} );
+			var titulo = document.querySelector( '.articulo__titulo' );
+			var texto = ( titulo ? titulo.textContent + '. ' : '' ) + clon.textContent.replace( /\s+/g, ' ' );
+			// Trozos cortos: algunos navegadores cortan las locuciones largas.
+			var trozos = texto.match( /[^.!?]+[.!?]+|[^.!?]+$/g ) || [ texto ];
+			var voces = window.speechSynthesis.getVoices().filter( function ( v ) {
+				return /^es(-|_)ES/i.test( v.lang );
+			} );
+			trozos.forEach( function ( t, i ) {
+				var u = new window.SpeechSynthesisUtterance( t.trim() );
+				u.lang = 'es-ES';
+				if ( voces[ 0 ] ) {
+					u.voice = voces[ 0 ];
+				}
+				if ( i === trozos.length - 1 ) {
+					u.onend = parar;
+				}
+				window.speechSynthesis.speak( u );
+			} );
+			hablando = true;
+			etiqueta.textContent = 'Parar';
+			escuchar.classList.add( 'is-activo' );
+		} );
+		window.addEventListener( 'pagehide', parar );
+	}
+
+	/* Compartir e imprimir ------------------------------------------- */
+	var compartir = document.querySelector( '[data-compartir]' );
+	if ( compartir ) {
+		compartir.addEventListener( 'click', function () {
+			var url = compartir.getAttribute( 'data-url' );
+			var titulo = compartir.getAttribute( 'data-titulo' );
+			var et = compartir.querySelector( 'span' );
+			if ( navigator.share ) {
+				navigator.share( { title: titulo, url: url } ).catch( function () {} );
+				return;
+			}
+			var hecho = function () {
+				et.textContent = '¡Enlace copiado!';
+				setTimeout( function () {
+					et.textContent = 'Compartir';
+				}, 2000 );
+			};
+			if ( navigator.clipboard && window.isSecureContext ) {
+				navigator.clipboard.writeText( url ).then( hecho, function () {} );
+			} else {
+				window.prompt( 'Copia el enlace:', url );
+			}
+		} );
+	}
+	var imprimir = document.querySelector( '[data-imprimir-articulo]' );
+	if ( imprimir ) {
+		imprimir.addEventListener( 'click', function () {
+			window.print();
+		} );
+	}
+
 	// Región viva para lectores de pantalla en los botones de copiar.
 	Array.prototype.forEach.call( document.querySelectorAll( '[data-copiar]' ), function ( b ) {
 		b.setAttribute( 'aria-live', 'polite' );

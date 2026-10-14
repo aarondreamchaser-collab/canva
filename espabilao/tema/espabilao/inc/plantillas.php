@@ -257,6 +257,11 @@ function espabilao_migas() {
 		}
 	} elseif ( is_singular( 'glosario' ) ) {
 		$items[] = '<a href="' . esc_url( get_post_type_archive_link( 'glosario' ) ) . '">Glosario</a>';
+	} elseif ( is_category() ) {
+		$items[] = '<span aria-current="page">' . esc_html( single_cat_title( '', false ) ) . '</span>';
+	} elseif ( is_page() && wp_get_post_parent_id( get_queried_object_id() ) ) {
+		$padre   = wp_get_post_parent_id( get_queried_object_id() );
+		$items[] = '<a href="' . esc_url( get_permalink( $padre ) ) . '">' . esc_html( get_the_title( $padre ) ) . '</a>';
 	}
 	echo '<nav class="migas" aria-label="Migas de pan"><ol><li>' . implode( '</li><li>', $items ) . '</li></ol></nav>'; // phpcs:ignore WordPress.Security.EscapeOutput
 }
@@ -361,4 +366,52 @@ function espabilao_palabra_del_dia() {
 		return null;
 	}
 	return get_post( $ids[ (int) wp_date( 'z' ) % count( $ids ) ] );
+}
+
+/**
+ * Lema corto de cada tipo de seguro (megamenú y portada).
+ *
+ * @param string $slug Slug de la categoría.
+ * @return string
+ */
+function espabilao_lema_tipo( $slug ) {
+	$lemas = array(
+		'hogar'     => 'Agua, robos, incendios y responsabilidad civil',
+		'coche'     => 'Partes, lunas, grúa y siniestro total',
+		'moto'      => 'Robo, terceros y equipación',
+		'salud'     => 'Copagos, carencias y preexistencias',
+		'vida'      => 'Beneficiarios, exclusiones y cuestionario',
+		'decesos'   => 'Qué cubre de verdad y qué sobra',
+		'mascotas'  => 'Responsabilidad civil y veterinario',
+		'viaje'     => 'Cancelación, equipaje y asistencia médica',
+		'alquiler'  => 'Impagos, daños y continente',
+		'autonomos' => 'Responsabilidad civil profesional y baja',
+	);
+	return isset( $lemas[ $slug ] ) ? $lemas[ $slug ] : '';
+}
+
+/**
+ * Elementos <li> de las secciones (menú del usuario o, si no hay, las de la marca).
+ *
+ * @return string
+ */
+function espabilao_items_secciones() {
+	if ( has_nav_menu( 'principal' ) ) {
+		return (string) wp_nav_menu( array(
+			'theme_location' => 'principal',
+			'container'      => false,
+			'items_wrap'     => '%3$s',
+			'depth'          => 2,
+			'echo'           => false,
+		) );
+	}
+	$html = '';
+	foreach ( espabilao_secciones() as $slug => $sec ) {
+		$t = get_term_by( 'slug', $slug, 'seccion' );
+		if ( $t ) {
+			$actual = is_tax( 'seccion', $slug ) ? ' class="current-menu-item"' : '';
+			$html  .= '<li' . $actual . '><a href="' . esc_url( get_term_link( $t ) ) . '">' . esc_html( $sec['corto'] ) . '</a></li>';
+		}
+	}
+	return $html;
 }

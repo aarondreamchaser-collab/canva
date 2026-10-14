@@ -3,7 +3,7 @@ Contributors: espabilao
 Requires at least: 6.3
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 2.0.0
+Stable tag: 3.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,17 @@ En el insertador de bloques > Patrones > Espabilao:
 * Dónde dice eso en tu póliza.
 * Estructura de un caso.
 
+= Herramientas (nuevo en 3.0) =
+Al activar o actualizar el tema se crea la página «Herramientas» con cuatro páginas hijas (no se duplican si ya existen):
+* Calculadora de plazos [calculadora_plazos]: siniestro, reclamación o renovación; exporta los plazos a tu calendario (.ics).
+* Generador de cartas [generador_carta]: reclamación, petición del rechazo por escrito, oposición a la renovación e intereses de demora.
+* Detector de letra pequeña [detector_letra_pequena]: marca exclusiones, límites, franquicias y términos del glosario.
+* Calculadora de infraseguro [calculadora_infraseguro]: regla proporcional del art. 30 LCS.
+Todo funciona en el navegador del lector: no se envía ni se guarda ningún dato. Puedes usar los shortcodes en cualquier entrada.
+
+= Ficha del caso (nuevo en 3.0) =
+En la «Ficha Espabilao»: importe reclamado, importe obtenido, cuánto tardó y dónde se resolvió. Se muestra arriba del caso.
+
 = Glosario =
 Menú Glosario en el escritorio. La primera aparición de cada término en un artículo se marca y muestra la definición al pulsarla. Archivo en /glosario/.
 
@@ -41,6 +52,14 @@ Código: GPLv2 o posterior.
 Fuentes: Bricolage Grotesque y Figtree, SIL Open Font License 1.1 (assets/fonts/OFL-*.txt).
 
 == Registro de cambios ==
+= 3.0.0 =
+* Megamenú «Seguros» con los diez tipos y acceso a las herramientas.
+* Portada de cada tipo de seguro: datos, marcador de veredictos, contenidos por sección, herramientas útiles y listado completo.
+* Cuatro herramientas gratuitas que funcionan en el navegador.
+* Ficha del caso, barra de progreso de lectura, botón «Escuchar», compartir e imprimir.
+* Portada reorganizada: herramientas, preguntas frecuentes y glosario.
+* Pie con mapa del sitio.
+
 = 2.0.0 =
 * Rediseño completo «Alerta naranja»: cabecera con menú móvil y buscador desplegable, iconos por tipo de seguro, marcador de veredictos, banda «Así se reclama», índice lateral fijo en los artículos y palabra del día del glosario.
 * Escalera de reclamación actualizada a la Ley 10/2025 (1 mes para responder; arts. 29 bis y 30 de la Ley 44/2002).

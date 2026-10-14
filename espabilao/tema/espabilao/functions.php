@@ -7,7 +7,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'ESPABILAO_VERSION', '2.0.0' );
+define( 'ESPABILAO_VERSION', '3.0.0' );
 define( 'ESPABILAO_DIR', get_template_directory() );
 define( 'ESPABILAO_URI', get_template_directory_uri() );
 
@@ -20,5 +20,6 @@ require ESPABILAO_DIR . '/inc/personalizar.php';
 require ESPABILAO_DIR . '/inc/publicidad.php';
 require ESPABILAO_DIR . '/inc/plantillas.php';
 require ESPABILAO_DIR . '/inc/bloques.php';
+require ESPABILAO_DIR . '/inc/herramientas.php';
 require ESPABILAO_DIR . '/inc/glosario.php';
 require ESPABILAO_DIR . '/inc/contenido.php';

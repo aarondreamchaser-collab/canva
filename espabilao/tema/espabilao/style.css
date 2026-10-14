@@ -3,8 +3,8 @@ Theme Name: Espabilao
 Theme URI: https://espabilao.com
 Author: Espabilao
 Author URI: https://espabilao.com
-Description: Tema propio de Espabilao, información independiente sobre seguros en España. Diseño «Alerta naranja»: limpio y moderno, con iconos por tipo de seguro, semáforo de veredictos, marcador de casos y bloques para reclamar. Rápido, sin jQuery ni constructores, accesible y en español. Incluye taxonomía «Sección», ficha de artículo (respuesta rápida, veredicto, fecha de revisión y fuentes), escalera de reclamación, plazos legales enlazados al BOE, plantillas de carta con botón «Copiar», bloque «Dónde dice eso en tu póliza», glosario emergente y huecos de AdSense configurables. No genera schema (lo hace Rank Math).
-Version: 2.0.0
+Description: Tema propio de Espabilao, información independiente sobre seguros en España. Diseño «Alerta naranja» con megamenú de seguros, portadas por tipo de seguro, semáforo y marcador de veredictos, ficha de cada caso y herramientas gratuitas que funcionan en el navegador (calculadora de plazos con aviso en el calendario, generador de cartas, detector de letra pequeña y calculadora de infraseguro). Incluye escalera de reclamación y plazos legales enlazados al BOE, glosario emergente, lectura en voz alta y huecos de AdSense configurables. Rápido, sin jQuery, accesible y en español. No genera schema (lo hace Rank Math).
+Version: 3.0.0
 Requires at least: 6.3
 Tested up to: 7.1
 Requires PHP: 7.4

@@ -74,6 +74,20 @@ function espabilao_al_activar() {
 		update_option( 'espabilao_glosario_creado', 1, false );
 	}
 
+	if ( function_exists( 'espabilao_crear_paginas_herramientas' ) ) {
+		espabilao_crear_paginas_herramientas();
+	}
+
+	update_option( 'espabilao_version_datos', 3, false );
 	flush_rewrite_rules();
 }
 add_action( 'after_switch_theme', 'espabilao_al_activar' );
+
+/**
+ * Al actualizar el tema (sin cambiar de tema) también se crean las piezas nuevas.
+ */
+add_action( 'init', function () {
+	if ( (int) get_option( 'espabilao_version_datos', 0 ) < 3 ) {
+		espabilao_al_activar();
+	}
+}, 30 );
