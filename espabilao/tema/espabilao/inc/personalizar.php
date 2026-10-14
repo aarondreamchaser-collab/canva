@@ -15,14 +15,14 @@ defined( 'ABSPATH' ) || exit;
 function espabilao_opciones_defecto() {
 	return array(
 		// Portada.
-		'hero_etiqueta'   => 'Expediente abierto',
-		'hero_titulo'     => 'Tu aseguradora tiene abogados.',
-		'hero_destacado'  => 'Tú tienes a Espabilao.',
-		'hero_texto'      => 'Casos reales, condiciones explicadas sin letra pequeña y cartas listas para reclamar. Información seria, con fuentes, y sin vender nada.',
-		'buscador_texto'  => '¿Me cubre el seguro si…?',
+		'hero_etiqueta'   => 'Información independiente sobre seguros',
+		'hero_titulo'     => 'Que no te la cuelen',
+		'hero_destacado'  => 'con tu seguro.',
+		'hero_texto'      => 'Casos reales con veredicto, pólizas explicadas sin letra pequeña y cartas listas para reclamar. Todo con fuentes oficiales y sin venderte nada.',
+		'buscador_texto'  => 'Busca tu duda: gotera, franquicia, baja…',
 		'busquedas'       => 'gotera del vecino, luna rota, baja médica, perro mordió',
 		// Avisos.
-		'barra_superior'  => 'No vendemos seguros · No pedimos datos',
+		'barra_superior'  => 'Independientes: no vendemos seguros, no pedimos datos y no cobramos comisiones.',
 		'aviso_articulo'  => 'Información general. Espabilao no vende seguros ni es mediador de seguros: no cobramos comisiones ni pedimos datos. Lo que cubre tu seguro depende de tu póliza concreta; revisa siempre tus condiciones generales y particulares.',
 		'texto_pie'       => 'Información general sobre seguros en España. Espabilao no vende seguros ni es mediador. Consulta siempre tu póliza.',
 		// Artículo.
@@ -112,7 +112,7 @@ add_action( 'customize_register', function ( WP_Customize_Manager $c ) {
 	$c->add_section( 'esp_portada', array( 'panel' => 'espabilao', 'title' => 'Portada' ) );
 	$ajuste( 'hero_etiqueta', 'text', 'esp_portada', 'Etiqueta superior' );
 	$ajuste( 'hero_titulo', 'text', 'esp_portada', 'Titular' );
-	$ajuste( 'hero_destacado', 'text', 'esp_portada', 'Final del titular (en cursiva)' );
+	$ajuste( 'hero_destacado', 'text', 'esp_portada', 'Final del titular (resaltado)' );
 	$ajuste( 'hero_texto', 'textarea', 'esp_portada', 'Entradilla', '', 'sanitize_textarea_field' );
 	$ajuste( 'buscador_texto', 'text', 'esp_portada', 'Texto de ejemplo del buscador' );
 	$ajuste( 'busquedas', 'text', 'esp_portada', 'Búsquedas sugeridas', 'Separadas por comas.' );

@@ -7,11 +7,12 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'ESPABILAO_VERSION', '1.0.0' );
+define( 'ESPABILAO_VERSION', '2.0.0' );
 define( 'ESPABILAO_DIR', get_template_directory() );
 define( 'ESPABILAO_URI', get_template_directory_uri() );
 
 require ESPABILAO_DIR . '/inc/setup.php';
+require ESPABILAO_DIR . '/inc/iconos.php';
 require ESPABILAO_DIR . '/inc/taxonomias.php';
 require ESPABILAO_DIR . '/inc/campos.php';
 require ESPABILAO_DIR . '/inc/activacion.php';

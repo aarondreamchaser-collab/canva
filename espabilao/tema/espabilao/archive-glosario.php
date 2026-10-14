@@ -10,7 +10,7 @@ get_header();
 
 <div class="envoltorio envoltorio--texto">
 	<header class="archivo__cabecera">
-		<p class="etiqueta">Glosario</p>
+		<p class="supra">Glosario</p>
 		<h1 class="archivo__titulo">Las palabras con las que te la cuelan</h1>
 		<p class="archivo__desc">Los términos de las pólizas, traducidos. En los artículos, pulsa sobre una palabra subrayada para ver su definición.</p>
 	</header>

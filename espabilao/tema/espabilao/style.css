@@ -3,12 +3,12 @@ Theme Name: Espabilao
 Theme URI: https://espabilao.com
 Author: Espabilao
 Author URI: https://espabilao.com
-Description: Tema propio de Espabilao, información independiente sobre seguros en España. Dirección de diseño «Expediente»: papel, tinta y sellos de veredicto. Rápido, sin jQuery ni constructores, accesible y en español. Incluye taxonomía «Sección», ficha de artículo (respuesta rápida, veredicto, fecha de revisión y fuentes), escalera de reclamación, plazos legales enlazados al BOE, plantillas de carta con botón «Copiar», bloque «Dónde dice eso en tu póliza», glosario emergente y huecos de AdSense configurables. No genera schema (lo hace Rank Math).
-Version: 1.0.0
+Description: Tema propio de Espabilao, información independiente sobre seguros en España. Diseño «Alerta naranja»: limpio y moderno, con iconos por tipo de seguro, semáforo de veredictos, marcador de casos y bloques para reclamar. Rápido, sin jQuery ni constructores, accesible y en español. Incluye taxonomía «Sección», ficha de artículo (respuesta rápida, veredicto, fecha de revisión y fuentes), escalera de reclamación, plazos legales enlazados al BOE, plantillas de carta con botón «Copiar», bloque «Dónde dice eso en tu póliza», glosario emergente y huecos de AdSense configurables. No genera schema (lo hace Rank Math).
+Version: 2.0.0
 Requires at least: 6.3
-Tested up to: 6.8
+Tested up to: 7.1
 Requires PHP: 7.4
-Copyright: Espabilao, 2026. Fuentes Fraunces, Source Serif 4 e IBM Plex Mono con licencia SIL OFL 1.1 (ver assets/fonts).
+Copyright: Espabilao, 2026. Fuentes Bricolage Grotesque y Figtree con licencia SIL OFL 1.1 (ver assets/fonts).
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: espabilao

@@ -13,8 +13,8 @@ while ( have_posts() ) :
 	<article <?php post_class( 'articulo articulo--glosario' ); ?>>
 		<div class="envoltorio envoltorio--texto">
 			<?php espabilao_migas(); ?>
-			<header class="articulo__cabecera">
-				<p class="antetitulo">Glosario</p>
+			<header class="articulo__cabecera articulo__cabecera--simple">
+				<p class="antetitulo"><span class="pildora pildora--seccion">Glosario</span></p>
 				<?php the_title( '<h1 class="articulo__titulo">', '</h1>' ); ?>
 			</header>
 			<div class="contenido"><?php the_content(); ?></div>

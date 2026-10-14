@@ -16,40 +16,50 @@
 <a class="saltar" href="#contenido">Saltar al contenido</a>
 
 <header class="cabecera-sitio" role="banner">
-<div class="barra">
-	<div class="envoltorio barra__dentro">
-		<span class="barra__fecha"><?php echo esc_html( wp_date( 'l, j \d\e F \d\e Y' ) ); ?></span>
-		<?php if ( espabilao_opcion( 'barra_superior' ) ) : ?>
-			<span class="barra__aviso"><?php echo esc_html( espabilao_opcion( 'barra_superior' ) ); ?></span>
-		<?php endif; ?>
-	</div>
-</div>
+	<?php if ( espabilao_opcion( 'barra_superior' ) ) : ?>
+		<div class="confianza">
+			<div class="envoltorio confianza__dentro">
+				<?php echo espabilao_icono( 'escudo', 16 ); // phpcs:ignore WordPress.Security.EscapeOutput ?>
+				<span><?php echo esc_html( espabilao_opcion( 'barra_superior' ) ); ?></span>
+			</div>
+		</div>
+	<?php endif; ?>
 
-<div class="cabecera">
-	<div class="envoltorio">
-		<?php espabilao_logo( is_front_page() ? 'h1' : 'p' ); ?>
-		<?php if ( get_bloginfo( 'description' ) ) : ?>
-			<p class="lema"><?php bloginfo( 'description' ); ?></p>
-		<?php endif; ?>
+	<div class="cabecera">
+		<div class="envoltorio cabecera__dentro">
+			<?php espabilao_logo( is_front_page() ? 'h1' : 'p' ); ?>
+
+			<nav class="menu-principal" aria-label="Menú principal">
+				<?php
+				wp_nav_menu( array(
+					'theme_location' => 'principal',
+					'container'      => false,
+					'menu_class'     => 'menu',
+					'depth'          => 2,
+					'fallback_cb'    => 'espabilao_menu_defecto',
+				) );
+				?>
+			</nav>
+
+			<div class="cabecera__acciones">
+				<details class="desplegable desplegable--buscar">
+					<summary class="boton-icono" aria-label="Buscar"><?php echo espabilao_icono( 'buscar', 22 ); // phpcs:ignore ?></summary>
+					<div class="desplegable__panel">
+						<?php get_search_form(); ?>
+					</div>
+				</details>
+				<details class="desplegable desplegable--menu">
+					<summary class="boton-icono" aria-label="Abrir menú"><?php echo espabilao_icono( 'menu', 22 ); // phpcs:ignore ?></summary>
+					<div class="desplegable__panel menu-movil">
+						<p class="supra">Secciones</p>
+						<?php espabilao_menu_defecto( array( 'menu_class' => 'menu-movil__lista' ) ); ?>
+						<p class="supra">Tipos de seguro</p>
+						<?php espabilao_tipos( 'lista' ); ?>
+					</div>
+				</details>
+			</div>
+		</div>
 	</div>
-</div>
 </header>
-
-<nav class="menu-principal" aria-label="Menú principal">
-	<div class="envoltorio menu-principal__dentro">
-		<?php
-		wp_nav_menu( array(
-			'theme_location' => 'principal',
-			'container'      => false,
-			'menu_class'     => 'menu',
-			'depth'          => 2,
-			'fallback_cb'    => 'espabilao_menu_defecto',
-		) );
-		?>
-		<a class="menu-principal__buscar" href="<?php echo esc_url( home_url( '/?s=' ) ); ?>" aria-label="Buscar en Espabilao">
-			<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-		</a>
-	</div>
-</nav>
 
 <main id="contenido" class="principal">

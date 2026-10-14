@@ -3,7 +3,7 @@ Contributors: espabilao
 Requires at least: 6.3
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,7 @@ Tema propio de Espabilao (espabilao.com): información independiente sobre segur
 
 == Descripción ==
 
-Dirección de diseño «Expediente»: papel, tinta y sellos de veredicto. Sin jQuery ni constructores, móvil primero y en español. No genera schema ni JSON-LD (lo hace Rank Math) y no incluye aviso de cookies (usa «Privacidad y mensajes» de AdSense).
+Diseño «Alerta naranja»: blanco, tinta y naranja, iconos por tipo de seguro, semáforo de veredictos y marcador de casos. Sin jQuery ni constructores, móvil primero y en español. No genera schema ni JSON-LD (lo hace Rank Math) y no incluye aviso de cookies (usa «Privacidad y mensajes» de AdSense).
 
 = Al activarlo =
 Crea, si no existen, las secciones (¿Pagó o no pagó?, Pólizas al desnudo, Qué hacer si…, Trucos de espabilao), las categorías de tipo de seguro (hogar, coche, moto, salud, vida, decesos, mascotas, viaje, alquiler, autónomos) y 18 términos básicos del glosario. No borra ni cambia nada existente.
@@ -38,8 +38,12 @@ La sección, el glosario y los bloques viven en el tema: si algún día cambias 
 
 == Licencias ==
 Código: GPLv2 o posterior.
-Fuentes: Fraunces, Source Serif 4 e IBM Plex Mono, SIL Open Font License 1.1 (assets/fonts/OFL-*.txt).
+Fuentes: Bricolage Grotesque y Figtree, SIL Open Font License 1.1 (assets/fonts/OFL-*.txt).
 
 == Registro de cambios ==
+= 2.0.0 =
+* Rediseño completo «Alerta naranja»: cabecera con menú móvil y buscador desplegable, iconos por tipo de seguro, marcador de veredictos, banda «Así se reclama», índice lateral fijo en los artículos y palabra del día del glosario.
+* Escalera de reclamación actualizada a la Ley 10/2025 (1 mes para responder; arts. 29 bis y 30 de la Ley 44/2002).
+
 = 1.0.0 =
 * Primera versión.

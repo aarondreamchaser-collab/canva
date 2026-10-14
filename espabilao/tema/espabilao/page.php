@@ -12,7 +12,7 @@ while ( have_posts() ) :
 	?>
 	<article <?php post_class( 'articulo articulo--pagina' ); ?>>
 		<div class="envoltorio envoltorio--texto">
-			<header class="articulo__cabecera">
+			<header class="articulo__cabecera articulo__cabecera--simple">
 				<?php the_title( '<h1 class="articulo__titulo">', '</h1>' ); ?>
 			</header>
 			<?php if ( has_post_thumbnail() ) : ?>

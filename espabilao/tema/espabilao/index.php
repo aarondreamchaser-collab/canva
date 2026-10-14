@@ -36,8 +36,13 @@ $esp_desc = is_author() ? get_the_author_meta( 'description', (int) get_query_va
 <div class="envoltorio">
 	<?php espabilao_migas(); ?>
 
-	<header class="archivo__cabecera">
-		<p class="etiqueta"><?php echo esc_html( $esp_etiqueta ); ?></p>
+	<header class="archivo__cabecera<?php echo $esp_es_seccion ? ' archivo__cabecera--seccion' : ''; ?>">
+		<?php if ( $esp_es_seccion ) : ?>
+			<span class="archivo__icono"><?php echo espabilao_icono_seccion( $esp_obj->slug ); // phpcs:ignore ?></span>
+		<?php elseif ( is_category() ) : ?>
+			<span class="archivo__icono"><?php echo espabilao_icono( $esp_obj->slug, 28 ); // phpcs:ignore ?></span>
+		<?php endif; ?>
+		<p class="supra"><?php echo esc_html( $esp_etiqueta ); ?></p>
 		<h1 class="archivo__titulo"><?php echo esc_html( $esp_titulo ); ?></h1>
 		<?php if ( $esp_desc ) : ?>
 			<p class="archivo__desc"><?php echo esc_html( $esp_desc ); ?></p>
@@ -51,7 +56,7 @@ $esp_desc = is_author() ? get_the_author_meta( 'description', (int) get_query_va
 			<nav class="filtro" aria-label="Filtrar por veredicto">
 				<a href="<?php echo esc_url( $esp_base ); ?>" <?php echo '' === $esp_actual ? 'aria-current="page"' : ''; ?>>Todos</a>
 				<?php foreach ( espabilao_veredictos() as $esp_k => $esp_v ) : ?>
-					<a class="filtro--<?php echo esc_attr( $esp_k ); ?>" href="<?php echo esc_url( add_query_arg( 'veredicto', $esp_k, $esp_base ) ); ?>" <?php echo $esp_actual === $esp_k ? 'aria-current="page"' : ''; ?>><?php echo esc_html( $esp_v ); ?></a>
+					<a class="filtro--<?php echo esc_attr( $esp_k ); ?>" href="<?php echo esc_url( add_query_arg( 'veredicto', $esp_k, $esp_base ) ); ?>" <?php echo $esp_actual === $esp_k ? 'aria-current="page"' : ''; ?>><?php echo espabilao_veredicto_html( $esp_k, 'veredicto--mini' ); // phpcs:ignore ?></a>
 				<?php endforeach; ?>
 			</nav>
 		<?php endif; ?>
@@ -73,8 +78,10 @@ $esp_desc = is_author() ? get_the_author_meta( 'description', (int) get_query_va
 				<?php espabilao_paginacion(); ?>
 			</div>
 			<div class="lateral">
-				<p class="etiqueta">Tipos de seguro</p>
-				<?php espabilao_tipos(); ?>
+				<div class="caja caja--borde">
+					<p class="supra">Tipos de seguro</p>
+					<?php espabilao_tipos( 'lista' ); ?>
+				</div>
 			</div>
 		</div>
 	<?php else : ?>

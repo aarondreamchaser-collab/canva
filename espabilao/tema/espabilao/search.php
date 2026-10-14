@@ -11,7 +11,7 @@ global $wp_query;
 
 <div class="envoltorio">
 	<header class="archivo__cabecera">
-		<p class="etiqueta">Búsqueda</p>
+		<p class="supra">Búsqueda</p>
 		<h1 class="archivo__titulo">
 			<?php if ( get_search_query() ) : ?>
 				«<?php echo esc_html( get_search_query() ); ?>»
@@ -35,7 +35,7 @@ global $wp_query;
 					?>
 					<article class="fila fila--glosario">
 						<div class="fila__texto">
-							<p class="antetitulo">Glosario</p>
+							<p class="antetitulo"><span class="pildora pildora--seccion">Glosario</span></p>
 							<h2 class="fila__titulo"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
 							<p class="fila__resumen"><?php echo esc_html( wp_trim_words( get_the_excerpt(), 30 ) ); ?></p>
 						</div>

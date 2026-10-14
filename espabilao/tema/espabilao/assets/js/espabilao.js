@@ -98,12 +98,13 @@
 	}
 
 	function avisar( boton, ok ) {
-		var original = boton.getAttribute( 'data-texto' ) || boton.textContent;
+		var etiqueta = boton.querySelector( '.boton-copiar__texto' ) || boton;
+		var original = boton.getAttribute( 'data-texto' ) || etiqueta.textContent;
 		boton.setAttribute( 'data-texto', original );
-		boton.textContent = ok ? '¡Copiada!' : 'Selecciona y copia';
+		etiqueta.textContent = ok ? '¡Copiada!' : 'Selecciona y copia';
 		boton.classList.toggle( 'is-copiado', ok );
 		window.setTimeout( function () {
-			boton.textContent = original;
+			etiqueta.textContent = original;
 			boton.classList.remove( 'is-copiado' );
 		}, 2200 );
 	}
@@ -127,6 +128,43 @@
 		} else {
 			avisar( boton, copiarAntiguo( texto ) );
 		}
+	} );
+
+	/* Desplegables de la cabecera (buscar y menú) ----------------------- */
+	var desplegables = document.querySelectorAll( '.desplegable' );
+	Array.prototype.forEach.call( desplegables, function ( d ) {
+		d.addEventListener( 'toggle', function () {
+			if ( ! d.open ) {
+				return;
+			}
+			Array.prototype.forEach.call( desplegables, function ( otro ) {
+				if ( otro !== d ) {
+					otro.open = false;
+				}
+			} );
+			var campo = d.querySelector( 'input[type=search]' );
+			if ( campo ) {
+				campo.focus();
+			}
+		} );
+	} );
+	document.addEventListener( 'click', function ( e ) {
+		Array.prototype.forEach.call( desplegables, function ( d ) {
+			if ( d.open && ! d.contains( e.target ) ) {
+				d.open = false;
+			}
+		} );
+	} );
+	document.addEventListener( 'keydown', function ( e ) {
+		if ( 'Escape' !== e.key ) {
+			return;
+		}
+		Array.prototype.forEach.call( desplegables, function ( d ) {
+			if ( d.open ) {
+				d.open = false;
+				d.querySelector( 'summary' ).focus();
+			}
+		} );
 	} );
 
 	// Región viva para lectores de pantalla en los botones de copiar.

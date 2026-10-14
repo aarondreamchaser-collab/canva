@@ -8,43 +8,93 @@
 defined( 'ABSPATH' ) || exit;
 
 /**
- * Logotipo: el personalizado o el tipográfico.
+ * Logotipo: el personalizado o el de la marca (icono «¡!» + nombre).
  *
  * @param string $etiqueta Elemento contenedor.
+ * @param string $clase    Clase extra.
  */
-function espabilao_logo( $etiqueta = 'p' ) {
+function espabilao_logo( $etiqueta = 'p', $clase = '' ) {
 	if ( has_custom_logo() ) {
+		echo '<' . tag_escape( $etiqueta ) . ' class="logo ' . esc_attr( $clase ) . '">';
 		the_custom_logo();
+		echo '</' . tag_escape( $etiqueta ) . '>';
 		return;
 	}
+	$nombre = get_bloginfo( 'name' ) ? get_bloginfo( 'name' ) : 'Espabilao';
 	printf(
-		'<%1$s class="logo"><a href="%2$s" rel="home">%3$s<span class="logo__punto" aria-hidden="true">.</span></a></%1$s>',
+		'<%1$s class="logo %4$s"><a href="%2$s" rel="home"><span class="logo__icono" aria-hidden="true">¡!</span><span class="logo__nombre">%3$s</span></a></%1$s>',
 		tag_escape( $etiqueta ),
 		esc_url( home_url( '/' ) ),
-		esc_html( get_bloginfo( 'name' ) ? get_bloginfo( 'name' ) : 'Espabilao' )
+		esc_html( mb_strtolower( $nombre ) ),
+		esc_attr( $clase )
 	);
 }
 
 /**
- * Sello de veredicto.
+ * Etiqueta de veredicto («semáforo»).
  *
  * @param int    $post_id Entrada.
- * @param string $extra   Clase extra (p. ej. «sello--grande»).
+ * @param string $extra   Clase extra (veredicto--grande, veredicto--mini).
  * @return string
  */
 function espabilao_sello( $post_id, $extra = '' ) {
-	$v = get_post_meta( $post_id, '_esp_veredicto', true );
+	$v     = get_post_meta( $post_id, '_esp_veredicto', true );
 	$todos = espabilao_veredictos();
 	if ( ! isset( $todos[ $v ] ) ) {
 		return '';
 	}
+	return espabilao_veredicto_html( $v, $extra );
+}
+
+/**
+ * HTML de un veredicto concreto.
+ *
+ * @param string $v     pago|no-pago|a-medias.
+ * @param string $extra Clase extra.
+ * @param string $texto Texto alternativo.
+ * @return string
+ */
+function espabilao_veredicto_html( $v, $extra = '', $texto = '' ) {
+	$todos  = espabilao_veredictos();
+	$iconos = array( 'pago' => 'si', 'no-pago' => 'no', 'a-medias' => 'medias' );
 	return sprintf(
-		'<span class="sello sello--%1$s %2$s"><span class="screen-reader-text">Veredicto: </span>%3$s</span>',
+		'<span class="veredicto veredicto--%1$s %2$s"><span class="veredicto__icono">%3$s</span><span class="screen-reader-text">Veredicto: </span>%4$s</span>',
 		esc_attr( $v ),
 		esc_attr( $extra ),
-		esc_html( $todos[ $v ] )
+		espabilao_icono( $iconos[ $v ], 16 ),
+		esc_html( $texto ? $texto : $todos[ $v ] )
 	);
 }
+
+/**
+ * Recuento de casos por veredicto (en caché 12 h).
+ *
+ * @return array<string, int>
+ */
+function espabilao_marcador() {
+	$cache = get_transient( 'espabilao_marcador' );
+	if ( is_array( $cache ) ) {
+		return $cache;
+	}
+	$salida = array();
+	foreach ( array_keys( espabilao_veredictos() ) as $v ) {
+		$q = new WP_Query( array(
+			'post_type'      => 'post',
+			'post_status'    => 'publish',
+			'posts_per_page' => 1,
+			'fields'         => 'ids',
+			'no_found_rows'  => false,
+			'meta_key'       => '_esp_veredicto', // phpcs:ignore WordPress.DB.SlowDBQuery
+			'meta_value'     => $v, // phpcs:ignore WordPress.DB.SlowDBQuery
+		) );
+		$salida[ $v ] = (int) $q->found_posts;
+	}
+	set_transient( 'espabilao_marcador', $salida, 12 * HOUR_IN_SECONDS );
+	return $salida;
+}
+add_action( 'save_post_post', function () {
+	delete_transient( 'espabilao_marcador' );
+}, 20 );
 
 /**
  * Primera sección de una entrada.
@@ -58,7 +108,7 @@ function espabilao_seccion_de( $post_id ) {
 }
 
 /**
- * Primera categoría (tipo de seguro) de una entrada, sin «Sin categoría».
+ * Primera categoría (tipo de seguro), sin la categoría por defecto.
  *
  * @param int $post_id Entrada.
  * @return WP_Term|null
@@ -73,23 +123,27 @@ function espabilao_tipo_de( $post_id ) {
 }
 
 /**
- * Antetítulo: «Sección · Tipo de seguro».
+ * Píldoras de sección y tipo de seguro.
  *
  * @param int  $post_id Entrada.
  * @param bool $enlaces Con enlaces.
  */
 function espabilao_antetitulo( $post_id, $enlaces = false ) {
 	$piezas = array();
-	foreach ( array( espabilao_seccion_de( $post_id ), espabilao_tipo_de( $post_id ) ) as $t ) {
-		if ( ! $t ) {
-			continue;
-		}
+	$s      = espabilao_seccion_de( $post_id );
+	$t      = espabilao_tipo_de( $post_id );
+	if ( $s ) {
 		$piezas[] = $enlaces
-			? '<a href="' . esc_url( get_term_link( $t ) ) . '">' . esc_html( $t->name ) . '</a>'
-			: esc_html( $t->name );
+			? '<a class="pildora pildora--seccion" href="' . esc_url( get_term_link( $s ) ) . '">' . esc_html( $s->name ) . '</a>'
+			: '<span class="pildora pildora--seccion">' . esc_html( $s->name ) . '</span>';
+	}
+	if ( $t ) {
+		$piezas[] = $enlaces
+			? '<a class="pildora" href="' . esc_url( get_term_link( $t ) ) . '">' . espabilao_icono( $t->slug, 14 ) . esc_html( $t->name ) . '</a>'
+			: '<span class="pildora">' . espabilao_icono( $t->slug, 14 ) . esc_html( $t->name ) . '</span>';
 	}
 	if ( $piezas ) {
-		echo '<p class="antetitulo">' . implode( ' <span aria-hidden="true">·</span> ', $piezas ) . '</p>'; // phpcs:ignore WordPress.Security.EscapeOutput
+		echo '<p class="antetitulo">' . implode( '', $piezas ) . '</p>'; // phpcs:ignore WordPress.Security.EscapeOutput
 	}
 }
 
@@ -102,14 +156,15 @@ function espabilao_antetitulo( $post_id, $enlaces = false ) {
 function espabilao_revisado( $post_id, $formato = 'j M Y' ) {
 	$ts = (int) espabilao_fecha_revision( $post_id );
 	printf(
-		'<span class="revisado">Revisado el <time datetime="%1$s">%2$s</time></span>',
+		'<span class="revisado">%3$s Revisado el <time datetime="%1$s">%2$s</time></span>',
 		esc_attr( wp_date( 'Y-m-d', $ts ) ),
-		esc_html( wp_date( $formato, $ts ) )
+		esc_html( mb_strtolower( wp_date( $formato, $ts ) ) ),
+		espabilao_icono( 'reloj', 14 ) // phpcs:ignore WordPress.Security.EscapeOutput
 	);
 }
 
 /**
- * Imagen destacada o, si no hay, una portadilla tipográfica.
+ * Imagen destacada o portadilla con el icono del tipo de seguro.
  *
  * @param int    $post_id Entrada.
  * @param string $tamano  Tamaño de imagen.
@@ -120,31 +175,50 @@ function espabilao_imagen( $post_id, $tamano = 'espabilao-tarjeta' ) {
 		return;
 	}
 	$t     = espabilao_tipo_de( $post_id );
-	$letra = $t ? mb_substr( $t->name, 0, 1 ) : '§';
-	echo '<span class="imagen imagen--vacia" aria-hidden="true"><span>' . esc_html( $letra ) . '</span></span>';
+	$s     = espabilao_seccion_de( $post_id );
+	$tinte = $s ? $s->slug : 'general';
+	echo '<span class="imagen imagen--vacia imagen--' . esc_attr( $tinte ) . '" aria-hidden="true">' . espabilao_icono( $t ? $t->slug : 'doc', 44 ) . '</span>'; // phpcs:ignore WordPress.Security.EscapeOutput
 }
 
 /**
- * Tarjeta de caso (con sello).
+ * Tarjeta de artículo o caso.
  *
- * @param WP_Post $post Entrada.
+ * @param WP_Post $post   Entrada.
+ * @param string  $nivel  h2|h3.
  */
-function espabilao_tarjeta_caso( $post ) {
+function espabilao_tarjeta( $post, $nivel = 'h3' ) {
+	$nivel = in_array( $nivel, array( 'h2', 'h3' ), true ) ? $nivel : 'h3';
+	$url   = get_permalink( $post );
 	?>
-	<article class="caso">
-		<?php espabilao_antetitulo( $post->ID ); ?>
-		<h3 class="caso__titulo"><a href="<?php echo esc_url( get_permalink( $post ) ); ?>"><?php echo esc_html( get_the_title( $post ) ); ?></a></h3>
-		<p class="caso__resumen"><?php echo esc_html( get_the_excerpt( $post ) ); ?></p>
-		<?php echo espabilao_sello( $post->ID ); // phpcs:ignore WordPress.Security.EscapeOutput ?>
+	<article class="tarjeta">
+		<a class="tarjeta__imagen" href="<?php echo esc_url( $url ); ?>" tabindex="-1" aria-hidden="true">
+			<?php espabilao_imagen( $post->ID ); ?>
+			<?php echo espabilao_sello( $post->ID, 'veredicto--flotante' ); // phpcs:ignore WordPress.Security.EscapeOutput ?>
+		</a>
+		<div class="tarjeta__cuerpo">
+			<?php espabilao_antetitulo( $post->ID ); ?>
+			<<?php echo $nivel; // phpcs:ignore ?> class="tarjeta__titulo"><a href="<?php echo esc_url( $url ); ?>"><?php echo esc_html( get_the_title( $post ) ); ?></a></<?php echo $nivel; // phpcs:ignore ?>>
+			<p class="tarjeta__resumen"><?php echo esc_html( get_the_excerpt( $post ) ); ?></p>
+			<p class="tarjeta__meta"><?php espabilao_revisado( $post->ID ); ?></p>
+		</div>
 	</article>
 	<?php
 }
 
 /**
- * Fila de artículo para listados.
+ * Compatibilidad con plantillas antiguas.
  *
- * @param WP_Post $post    Entrada.
- * @param string  $nivel   Nivel de título (h2|h3).
+ * @param WP_Post $post Entrada.
+ */
+function espabilao_tarjeta_caso( $post ) {
+	espabilao_tarjeta( $post );
+}
+
+/**
+ * Fila compacta para listados.
+ *
+ * @param WP_Post $post  Entrada.
+ * @param string  $nivel h2|h3.
  */
 function espabilao_fila( $post, $nivel = 'h3' ) {
 	$nivel = in_array( $nivel, array( 'h2', 'h3' ), true ) ? $nivel : 'h3';
@@ -155,7 +229,7 @@ function espabilao_fila( $post, $nivel = 'h3' ) {
 			<?php espabilao_antetitulo( $post->ID ); ?>
 			<<?php echo $nivel; // phpcs:ignore ?> class="fila__titulo"><a href="<?php echo esc_url( get_permalink( $post ) ); ?>"><?php echo esc_html( get_the_title( $post ) ); ?></a></<?php echo $nivel; // phpcs:ignore ?>>
 			<p class="fila__resumen"><?php echo esc_html( get_the_excerpt( $post ) ); ?></p>
-			<p class="fila__meta"><?php espabilao_revisado( $post->ID ); ?><?php echo espabilao_sello( $post->ID, 'sello--mini' ); // phpcs:ignore ?></p>
+			<p class="fila__meta"><?php espabilao_revisado( $post->ID ); ?><?php echo espabilao_sello( $post->ID, 'veredicto--mini' ); // phpcs:ignore ?></p>
 		</div>
 	</article>
 	<?php
@@ -189,9 +263,12 @@ function espabilao_migas() {
 
 /**
  * Menú por defecto si no se ha creado uno: las cuatro secciones + glosario.
+ *
+ * @param array $args Argumentos de wp_nav_menu (se usa menu_class).
  */
-function espabilao_menu_defecto() {
-	echo '<ul class="menu">';
+function espabilao_menu_defecto( $args = array() ) {
+	$clase = is_array( $args ) && ! empty( $args['menu_class'] ) ? $args['menu_class'] : 'menu';
+	echo '<ul class="' . esc_attr( $clase ) . '">';
 	foreach ( espabilao_secciones() as $slug => $s ) {
 		$t = get_term_by( 'slug', $slug, 'seccion' );
 		if ( $t ) {
@@ -203,10 +280,12 @@ function espabilao_menu_defecto() {
 }
 
 /**
- * Lista de tipos de seguro con su número de artículos.
+ * Tipos de seguro (categorías) en el orden de la marca.
+ *
+ * @return WP_Term[]
  */
-function espabilao_tipos() {
-	$cats = get_categories( array( 'hide_empty' => false, 'exclude' => array( (int) get_option( 'default_category' ) ) ) );
+function espabilao_categorias_ordenadas() {
+	$cats  = get_categories( array( 'hide_empty' => false, 'exclude' => array( (int) get_option( 'default_category' ) ) ) );
 	$orden = array_keys( espabilao_tipos_seguro() );
 	usort( $cats, function ( $a, $b ) use ( $orden ) {
 		$ia = array_search( $a->slug, $orden, true );
@@ -215,14 +294,25 @@ function espabilao_tipos() {
 		$ib = false === $ib ? 99 : $ib;
 		return $ia <=> $ib ?: strcmp( $a->name, $b->name );
 	} );
+	return $cats;
+}
+
+/**
+ * Rejilla de tipos de seguro con icono y número de artículos.
+ *
+ * @param string $variante «rejilla» o «lista».
+ */
+function espabilao_tipos( $variante = 'rejilla' ) {
+	$cats = espabilao_categorias_ordenadas();
 	if ( ! $cats ) {
 		return;
 	}
-	echo '<ul class="tipos">';
+	echo '<ul class="tipos tipos--' . esc_attr( $variante ) . '">';
 	foreach ( $cats as $c ) {
 		printf(
-			'<li><a href="%s"><span class="tipos__nombre">%s</span><span class="tipos__n">%d<span class="screen-reader-text"> %s</span></span></a></li>',
+			'<li><a href="%1$s"><span class="tipos__icono">%2$s</span><span class="tipos__nombre">%3$s</span><span class="tipos__n">%4$d<span class="screen-reader-text"> %5$s</span></span></a></li>',
 			esc_url( get_term_link( $c ) ),
+			espabilao_icono( $c->slug, 28 ), // phpcs:ignore WordPress.Security.EscapeOutput
 			esc_html( $c->name ),
 			(int) $c->count,
 			esc_html( _n( 'artículo', 'artículos', $c->count, 'espabilao' ) )
@@ -244,12 +334,31 @@ function espabilao_paginacion() {
 }
 
 /**
- * Cabecera de sección en portada.
+ * Cabecera de bloque en portada.
+ *
+ * @param string $id           Id del título.
+ * @param string $antetitulo   Texto pequeño.
+ * @param string $titulo       Título.
+ * @param string $enlace       URL «ver todo».
+ * @param string $texto_enlace Texto del enlace.
  */
-function espabilao_titulo_bloque( $etiqueta, $titulo, $enlace = '', $texto_enlace = 'Ver todo' ) {
-	echo '<header class="bloque__cabecera"><h2 class="bloque__titulo"><span class="etiqueta">' . esc_html( $etiqueta ) . '</span> ' . esc_html( $titulo ) . '</h2>';
+function espabilao_titulo_bloque( $id, $antetitulo, $titulo, $enlace = '', $texto_enlace = 'Ver todo' ) {
+	echo '<header class="bloque__cabecera"><div><p class="supra">' . esc_html( $antetitulo ) . '</p><h2 class="bloque__titulo" id="' . esc_attr( $id ) . '">' . esc_html( $titulo ) . '</h2></div>';
 	if ( $enlace ) {
-		echo '<a class="bloque__mas" href="' . esc_url( $enlace ) . '">' . esc_html( $texto_enlace ) . ' <span aria-hidden="true">→</span></a>';
+		echo '<a class="enlace-mas" href="' . esc_url( $enlace ) . '">' . esc_html( $texto_enlace ) . ' ' . espabilao_icono( 'flecha', 18 ) . '</a>'; // phpcs:ignore WordPress.Security.EscapeOutput
 	}
 	echo '</header>';
+}
+
+/**
+ * Un término del glosario al azar (cambia cada día).
+ *
+ * @return WP_Post|null
+ */
+function espabilao_palabra_del_dia() {
+	$ids = get_posts( array( 'post_type' => 'glosario', 'numberposts' => 200, 'fields' => 'ids', 'orderby' => 'title', 'order' => 'ASC' ) );
+	if ( ! $ids ) {
+		return null;
+	}
+	return get_post( $ids[ (int) wp_date( 'z' ) % count( $ids ) ] );
 }

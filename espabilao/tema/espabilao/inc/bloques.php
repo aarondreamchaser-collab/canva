@@ -93,7 +93,7 @@ function espabilao_sc_plazos( $atts ) {
 	?>
 	<section class="plazos" aria-labelledby="<?php echo esc_attr( $id ); ?>">
 		<header class="plazos__cabecera">
-			<span class="etiqueta">Ley 50/1980, de Contrato de Seguro</span>
+			<span class="etiqueta"><?php echo espabilao_icono( 'reloj', 18 ); // phpcs:ignore ?> Ley 50/1980, de Contrato de Seguro</span>
 			<h2 id="<?php echo esc_attr( $id ); ?>" class="plazos__titulo"><?php echo esc_html( $atts['titulo'] ); ?></h2>
 		</header>
 		<ol class="plazos__lista">
@@ -159,7 +159,7 @@ function espabilao_sc_escalera() {
 	?>
 	<section class="escalera" aria-labelledby="<?php echo esc_attr( $id ); ?>">
 		<header class="escalera__cabecera">
-			<span class="etiqueta">Si no te pagan</span>
+			<span class="etiqueta"><?php echo espabilao_icono( 'escalera', 18 ); // phpcs:ignore ?> Si no te pagan</span>
 			<h2 id="<?php echo esc_attr( $id ); ?>" class="escalera__titulo">Escalera de reclamación</h2>
 			<p class="escalera__intro">Sube peldaño a peldaño y no te saltes ninguno: cada uno es requisito del siguiente.</p>
 		</header>
@@ -196,12 +196,12 @@ add_filter( 'render_block', function ( $html, $block ) {
 	$clases = ' ' . $block['attrs']['className'] . ' ';
 
 	if ( false !== strpos( $clases, ' esp-carta ' ) ) {
-		$barra = '<div class="esp-carta__barra"><span class="etiqueta">Plantilla de carta</span><button type="button" class="boton-copiar" data-copiar>Copiar carta</button></div>'
-			. '<p class="esp-carta__nota" role="note">Modelo orientativo, adáptalo a tu caso. Sustituye todo lo que va entre [corchetes].</p>';
+		$barra = '<div class="esp-carta__barra"><span class="etiqueta">' . espabilao_icono( 'carta', 18 ) . ' Plantilla de carta</span><button type="button" class="boton-copiar" data-copiar>' . espabilao_icono( 'copiar', 18 ) . '<span class="boton-copiar__texto">Copiar carta</span></button></div>'
+			. '<p class="esp-carta__nota" role="note">' . espabilao_icono( 'alerta', 16 ) . ' Modelo orientativo, adáptalo a tu caso. Sustituye todo lo que va entre [corchetes].</p>';
 		return preg_replace( '/^(\s*<div\b[^>]*>)/', '$1' . $barra, $html, 1 );
 	}
 	if ( false !== strpos( $clases, ' esp-poliza ' ) ) {
-		$cabecera = '<div class="esp-poliza__cabecera"><span class="etiqueta">Dónde dice eso en tu póliza</span></div>';
+		$cabecera = '<div class="esp-poliza__cabecera"><span class="etiqueta">' . espabilao_icono( 'lupa-doc', 18 ) . ' Dónde dice eso en tu póliza</span></div>';
 		return preg_replace( '/^(\s*<div\b[^>]*>)/', '$1' . $cabecera, $html, 1 );
 	}
 	return $html;

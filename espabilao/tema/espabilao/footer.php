@@ -11,11 +11,16 @@
 	<div class="envoltorio">
 		<div class="pie__rejilla">
 			<div class="pie__marca">
-				<?php espabilao_logo( 'p' ); ?>
+				<?php espabilao_logo( 'p', 'logo--claro' ); ?>
 				<p class="pie__texto"><?php echo esc_html( espabilao_opcion( 'texto_pie' ) ); ?></p>
+				<ul class="pie__sellos">
+					<li><?php echo espabilao_icono( 'escudo', 18 ); // phpcs:ignore ?> No vendemos seguros</li>
+					<li><?php echo espabilao_icono( 'no', 18 ); // phpcs:ignore ?> Sin formularios ni llamadas</li>
+					<li><?php echo espabilao_icono( 'libro', 18 ); // phpcs:ignore ?> Fuentes oficiales: BOE y DGSFP</li>
+				</ul>
 			</div>
 			<div class="pie__reclamar">
-				<p class="etiqueta">¿Te han rechazado un siniestro?</p>
+				<p class="supra">¿Te han rechazado un siniestro?</p>
 				<ol class="pie__pasos">
 					<li>Pide el «no» por escrito.</li>
 					<li>Reclama a su Servicio de Atención al Cliente.</li>
@@ -23,6 +28,7 @@
 				</ol>
 			</div>
 			<nav class="pie__menu" aria-label="Menú del pie">
+				<p class="supra">Espabilao</p>
 				<?php
 				wp_nav_menu( array(
 					'theme_location' => 'pie',
@@ -34,7 +40,7 @@
 				?>
 			</nav>
 		</div>
-		<p class="pie__legal">© <?php echo esc_html( wp_date( 'Y' ) ); ?> <?php bloginfo( 'name' ); ?>. Sin comisiones, sin formularios, sin letra pequeña.</p>
+		<p class="pie__legal">© <?php echo esc_html( wp_date( 'Y' ) ); ?> <?php bloginfo( 'name' ); ?> · Información general, no asesoramiento personalizado.</p>
 	</div>
 </footer>
 

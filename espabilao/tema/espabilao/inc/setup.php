@@ -32,10 +32,11 @@ add_action( 'after_setup_theme', function () {
 
 	// Paleta del editor: la misma que el tema.
 	add_theme_support( 'editor-color-palette', array(
-		array( 'name' => 'Tinta', 'slug' => 'tinta', 'color' => '#1b1a17' ),
-		array( 'name' => 'Papel', 'slug' => 'papel', 'color' => '#f4efe4' ),
-		array( 'name' => 'Carpeta', 'slug' => 'carpeta', 'color' => '#e9e0cc' ),
-		array( 'name' => 'Gris', 'slug' => 'gris', 'color' => '#5d574c' ),
+		array( 'name' => 'Tinta', 'slug' => 'tinta', 'color' => '#1a1a1f' ),
+		array( 'name' => 'Naranja Espabilao', 'slug' => 'naranja', 'color' => '#ff6a2b' ),
+		array( 'name' => 'Crema', 'slug' => 'crema', 'color' => '#fff3ea' ),
+		array( 'name' => 'Gris claro', 'slug' => 'gris-claro', 'color' => '#f5f3f0' ),
+		array( 'name' => 'Blanco', 'slug' => 'blanco', 'color' => '#ffffff' ),
 	) );
 	add_theme_support( 'disable-custom-colors' );
 } );
@@ -60,10 +61,10 @@ add_filter( 'should_load_separate_core_block_assets', '__return_true' );
  * Precarga de las dos fuentes que se ven en la primera pantalla.
  */
 add_action( 'wp_head', function () {
-	foreach ( array( 'Fraunces-normal-600_900.woff2', 'SourceSerif4-normal-400_700.woff2' ) as $fuente ) {
+	foreach ( array( 'BricolageGrotesque-600_800.woff2', 'Figtree-400_700.woff2' ) as $fuente ) {
 		printf( '<link rel="preload" href="%s" as="font" type="font/woff2" crossorigin>' . "\n", esc_url( ESPABILAO_URI . '/assets/fonts/' . $fuente ) );
 	}
-	echo '<meta name="theme-color" content="#f4efe4">' . "\n";
+	echo '<meta name="theme-color" content="#ffffff">' . "\n";
 }, 1 );
 
 /**
