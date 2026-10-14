@@ -1,0 +1,38 @@
+[
+ {
+  "slug": "sobre-nosotros",
+  "title": "Sobre nosotros",
+  "excerpt": "Quién está detrás de Espabilao, por qué existe y cómo se financia.",
+  "archivo": "sobre-nosotros.html"
+ },
+ {
+  "slug": "politica-editorial",
+  "title": "Política editorial",
+  "excerpt": "Cómo elegimos las fuentes, cómo revisamos cada artículo y por qué no dependemos de ninguna aseguradora.",
+  "archivo": "politica-editorial.html"
+ },
+ {
+  "slug": "contacto",
+  "title": "Contacto",
+  "excerpt": "Cómo escribirnos: correcciones, propuestas de casos y dudas sobre la web.",
+  "archivo": "contacto.html"
+ },
+ {
+  "slug": "aviso-legal",
+  "title": "Aviso legal",
+  "excerpt": "Datos del titular y condiciones de uso de espabilao.com.",
+  "archivo": "aviso-legal.html"
+ },
+ {
+  "slug": "politica-de-privacidad",
+  "title": "Política de privacidad",
+  "excerpt": "Qué datos tratamos, para qué y cómo ejercer tus derechos.",
+  "archivo": "politica-de-privacidad.html"
+ },
+ {
+  "slug": "politica-de-cookies",
+  "title": "Política de cookies",
+  "excerpt": "Qué cookies usa espabilao.com, incluidas las de Google AdSense, y cómo gestionarlas.",
+  "archivo": "politica-de-cookies.html"
+ }
+]
